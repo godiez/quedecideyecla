@@ -1,0 +1,771 @@
+{
+  "doc": "2023-05-30_JGL_24",
+  "organo": "JGL",
+  "sesion": 24,
+  "fecha": "2023-05-30",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 24,
+  "resumen": "Se concede licencia a Inrav Electric para construir la planta solar 'Sol Noctis 2' (1,89 MW) en el paraje Las Quebradas. Se pagan 335.269 € en facturas, sobre todo la recogida de basura de abril y gastos de las Fiestas de San Isidro, como el concierto de Carlos Baute (31.460 €). Se adjudica la grúa municipal de junio y julio por 8.000 € y se autorizan cinco terrazas de verano y dos escuelas de verano en colegios.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la Junta de Gobierno del 23 de mayo de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "El Servicio Murciano de Salud adelanta el pago de la subvención de salud mental",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Murciano de Salud autoriza y paga por adelantado la subvención del plan de 2023 del convenio con el Ayuntamiento para promoción de la salud mental, inserción laboral y otras acciones para personas con trastorno mental grave o adicciones. El acta no dice el importe.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "780151T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de siete facturas: basura, fiestas de San Isidro e informática (335.269,45 €)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar siete facturas; las mayores son la recogida de basura y limpieza viaria de abril (180.264 €), el tratamiento de residuos (50.577 €) y varias de las Fiestas de San Isidro, entre ellas el concierto de Carlos Baute (31.460 €).",
+      "entidades": [
+        {
+          "nombre": "Treinta y tres producciones y management, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiovisuales La Fiesta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 335269.45,
+      "importes": [
+        {
+          "concepto": "Concierto de Carlos Baute en Los Ventorrillos, Fiestas de San Isidro 2023",
+          "eur": 31460.0,
+          "entidad": "Treinta y tres producciones y management, S.L."
+        },
+        {
+          "concepto": "Vallado de San Isidro (contrato menor de suministro)",
+          "eur": 9344.83,
+          "entidad": "Decourba 2007, S.L.U."
+        },
+        {
+          "concepto": "Actuación de la Orquesta 'La Fiesta' (contrato menor)",
+          "eur": 6050.0,
+          "entidad": "Audiovisuales La Fiesta, S.L."
+        },
+        {
+          "concepto": "Servicios y suministro para la infraestructura de las Fiestas de San Isidro 2023 (C.SE. 4/23)",
+          "eur": 42350.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Licencias y soporte de Fortinet (seguridad informática)",
+          "eur": 15223.13,
+          "entidad": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U."
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, abril 2023",
+          "eur": 50577.15,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva (C.SE. 4/2015), abril 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762568Y, 769298W, 771506M, 719779T, 632561H, 584325N, 495804R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la obra de teatro 'La curva de la felicidad'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban las cuentas de taquilla en el Teatro Concha Segura: se recaudaron 4.544,20 € y se dan de baja 3.471,80 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4544.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto 'Pséudolo'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban las cuentas de taquilla en el Teatro Concha Segura: se recaudaron 1.812 € y se dan de baja 1.680 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1812.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo de danza española y flamenco 'Cruz de Guía'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban las cuentas de taquilla en el Teatro Concha Segura: se recaudaron 2.442 € y se dan de baja 1.050 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2442.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del Festival de Bandas de Cornetas y Tambores de Semana Santa",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban las cuentas de taquilla de la actuación de la Agrupación Musical La Santa Faz y Verónica y Stmo. Cristo de la Caída en el Teatro Concha Segura: se recaudaron 432 € y se dan de baja 732 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Agrupación Musical La Santa Faz y Verónica y Stmo. Cristo de la Caída",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa en el festival"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 432.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "731751X",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Descuento del 90 % en el impuesto de obras por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina la bonificación del 90 % del ICIO por instalar placas solares de autoconsumo en su vivienda. No consta el importe.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe la bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769158A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de promotor de una licencia de vivienda de 2007 en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que una licencia de 2007 para construir una vivienda unifamiliar aislada cambia de titular y de director de obra; las obras no pueden seguir hasta que se nombre director de ejecución y coordinador de seguridad.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "nuevo promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772442A",
+      "lugar": "Paraje La Pujola (polígono 112)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Un vecino renuncia a su licencia para rehabilitar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se acepta la renuncia a una licencia de 2020 para rehabilitar una vivienda entre medianeras y se cierra el expediente.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380/20",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Se corrige una licencia de vivienda en Los Quiñones: no lleva piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige un error en la licencia de noviembre de 2022 para una vivienda unifamiliar aislada: decía 'con piscina' pero el proyecto no la incluye.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de la licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672223T",
+      "lugar": "Paraje Los Quiñones (polígono 123)",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para la planta solar 'Sol Noctis 2' (1,89 MW) en Las Quebradas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Inrav Electric, S.L. licencia para construir una central solar fotovoltaica de 1,89 MW. Debe depositar 600 € de fianza por posibles daños a caminos rurales, y necesita permiso regional para quitar matorral y pinar que puede ser 'monte'.",
+      "entidades": [
+        {
+          "nombre": "Inrav Electric, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        },
+        {
+          "nombre": "Dirección General de Energía y Actividad Industrial y Minera (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autorizó la central"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617522W",
+      "lugar": "Paraje Las Quebradas (polígono 66, parcelas 275/308 y 283)",
+      "interes": 3
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para vivienda con piscina y trasteros en Los Baños, con inspección anual",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (solo con proyecto básico) para una vivienda aislada con garaje, piscina, barbacoa y trasteros. Por el número de trasteros, se ordena inspeccionarla cada año para evitar cambios de uso ilegales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747636J",
+      "lugar": "Paraje Los Baños (polígono 45)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Prórroga de la reducción de jornada de un conductor municipal para cuidar a un familiar",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses la reducción del 35,41 % de jornada de un conductor municipal para cuidar a un familiar enfermo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "trabajador municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697979Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "La directora de Servicios Sociales va a una reunión regional",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la directora del Centro de Servicios Sociales a asistir a una reunión de la Consejería de Política Social el 29 de mayo, con vehículo del centro o pagando el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "779695K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Dos psicólogas de Servicios Sociales van a una reunión en Molina de Segura",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos psicólogas del Centro de Servicios Sociales asistir a una reunión de psicólogos de atención primaria el 1 de junio, con vehículo del centro o pagando el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "277898W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "La trabajadora social del CAVI va a una reunión regional",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la trabajadora social del Centro de Atención a Víctimas de Violencia de Género a asistir a una reunión de la red regional CAVI/PAE el 30 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "779462M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Se deniega a un conserje cambiar de colegio",
+      "categoria": "personal",
+      "resumen": "Se deniega a un conserje del CEIP La Pedrera el cambio al CEIP Alfonso X el Sabio, porque esa plaza está ocupada de forma interina y ya está convocada para cubrirla de forma indefinida.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "728724R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato de la grúa municipal para junio y julio: 8.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Grúas Los Raspas, S.L. el contrato menor de retirada de vehículos de la vía pública con grúa en junio y julio de 2023, por 8.000 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777942A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano del 'Bar El Trébol' en la calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m2 del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Bar El Trébol (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "757476A",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de verano del 'Restaurante Chino Chen' en la calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 45 m2 del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Restaurante Chino Chen (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765007K",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de verano del café bar 'Juzgado' en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 57 m2 del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Café bar Juzgado (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761439E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano de 'Lobo Jack' en la calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m2 del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Lobo Jack (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755017K",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de verano del 'Restaurante Pachamama' en la calle Párroco Juan Martínez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 30 m2 del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Restaurante Pachamama (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765010P",
+      "lugar": "Calle Párroco Juan Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Repintado de un vado de garajes en la avenida de la Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba repintar la ampliación del vado de una comunidad de propietarios de garajes, porque los coches no respetan la señal; en adelante el mantenimiento correrá a cargo de la comunidad.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios de garajes",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "pide el repintado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778600P",
+      "lugar": "Avenida de la Paz",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Se trasladan los contenedores por las obras del Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la constructora de la remodelación del Mercado Central, los contenedores de basura de la acera afectada pasan al aparcamiento vallado del Mercado en la calle Carnicería.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transfer, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de las obras; pide el traslado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780294R",
+      "lugar": "Mercado Central, calle Carnicería",
+      "interes": 2
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Permiso para mover una farola junto a una nave en construcción; se niega otra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una comunidad de bienes a desplazar, a su costa y con fianza de 1.778,34 €, una farola que estorba la salida de camiones de su nave en la calle Santiago Ramón y Cajal; se deniega mover una segunda porque no está frente a ningún acceso y empeoraría el alumbrado.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778880D",
+      "lugar": "Calle Santiago Ramón y Cajal",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 8 de julio de 2023.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide el salón"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778783T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Escuela de verano en el CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del colegio a usar sus instalaciones del 1 al 31 de julio de 2023 (de 8 a 14 h) para una escuela de verano que organiza 'Arcoiris' (una particular); deben encargarse de vigilancia, limpieza y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Arcoiris (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781103Q",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Escuela de verano en el CEIP Miguel Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del colegio a usar sus instalaciones del 1 al 31 de julio de 2023 (de 8:30 a 14 h) para una escuela de verano que organiza 'Arcoiris' (una particular).",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Arcoiris (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781108Y",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Pintura efímera de la Escuela de Bellas Artes en el parque de la avenida de la Feria",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Pintura efímera' de la Escuela Municipal de Bellas Artes en el parque junto a la escuela, hasta el 15 de junio de 2023.",
+      "entidades": [
+        {
+          "nombre": "Escuela Municipal de Bellas Artes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767340A",
+      "lugar": "Parque de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Prácticas de una estudiante de Derecho en el CAVI y la OMIC",
+      "categoria": "convenio",
+      "resumen": "Se autorizan 125 horas de prácticas sin remunerar, desde el 28 de junio, de una estudiante de Derecho de la Universidad de Castilla-La Mancha en el Centro de Atención a Víctimas de Violencia de Género y en la Oficina del Consumidor.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Castilla-La Mancha",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "775071N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Qué parcelas pueden echar lodos de depuradora este verano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la lista de parcelas agrícolas que pueden y no pueden recibir lodos de depuradora entre el 15 de mayo y el 15 de septiembre de 2023, según la ordenanza municipal, y se envía a ESAMUR.",
+      "entidades": [
+        {
+          "nombre": "Entidad Regional de Saneamiento y Depuración de Aguas Residuales (ESAMUR)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe el listado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "779199X",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

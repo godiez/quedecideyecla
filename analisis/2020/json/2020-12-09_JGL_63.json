@@ -1,0 +1,430 @@
+{
+  "doc": "2020-12-09_JGL_63",
+  "organo": "JGL",
+  "sesion": 63,
+  "fecha": "2020-12-09",
+  "tipo_sesion": "ordinaria",
+  "paginas": 16,
+  "resumen": "La Junta de Gobierno saca a concurso la obra del Centro de Protección Animal por 151.044 euros y el suministro de gasóleo y combustible para colegios, edificios y vehículos municipales en 2021. Congela los permisos para poner toldos en las terrazas de bares hasta estudiar nuevas normas, y por eso deniega dos solicitudes en las calles San Antonio y Cruz de Piedra. También paga 81.290 euros en facturas y certificaciones (colector y red de agua de la calle Juan XXIII, obra del edificio Cazadores, asfaltado de 2019) y amplía el horario del Mercado de San Cayetano en Navidad.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 1, 2 y 4 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de tres sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Yecla tiene 34.834 habitantes y ayuda para prevenir adicciones",
+      "categoria": "informacion",
+      "resumen": "El INE comunica que la cifra oficial de población de Yecla propuesta al Gobierno es de 34.834 habitantes. La Consejería de Salud concede directamente al Ayuntamiento una subvención para programas de prevención de adicciones en 2020 (sin importe en el acta).",
+      "entidades": [
+        {
+          "nombre": "Instituto Nacional de Estadística (INE)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "490994M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: colector y red de agua en Juan XXIII y proyecto del Centro de Protección Animal",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan la sustitución del colector de saneamiento y la renovación de la red de agua potable en la calle Juan XXIII (entre Lepanto y avenida de la Paz), y la redacción del proyecto del Centro de Protección Animal.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 37204.33,
+      "importes": [
+        {
+          "concepto": "Sustitución de colector de saneamiento en calle Juan XXIII, entre calle Lepanto y avenida de la Paz",
+          "eur": 23700.0,
+          "entidad": "Maza Construcciones y Contratas, S.L."
+        },
+        {
+          "concepto": "Renovación de red de agua potable en calle Juan XXIII, de calle Lepanto a avenida de la Paz",
+          "eur": 6365.33,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Redacción del proyecto básico y de ejecución del Centro de Protección Animal",
+          "eur": 7139.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455391N, 484148D, 388567C",
+      "lugar": "Calle Juan XXIII",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones: final de la obra del semisótano del edificio Cazadores y asfaltado 2019",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las dos últimas certificaciones de la obra de adecuación de la planta semisótano del edificio 'Cazadores' para uso lúdico y la última de la campaña de asfaltado de 2019 (modificado), más su certificación final de 0 euros.",
+      "entidades": [
+        {
+          "nombre": "Constu Archena, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 44085.29,
+      "importes": [
+        {
+          "concepto": "Certificación nº 16, adecuación planta semisótano edificio Cazadores",
+          "eur": 11048.4,
+          "entidad": "Constu Archena, S.L."
+        },
+        {
+          "concepto": "Certificación nº 17 y última, adecuación planta semisótano edificio Cazadores",
+          "eur": 3687.38,
+          "entidad": "Constu Archena, S.L."
+        },
+        {
+          "concepto": "Certificación nº 4 y última, Campaña de asfaltados 2019 - Modificado",
+          "eur": 29349.51,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.L."
+        },
+        {
+          "concepto": "Certificación final, Campaña de asfaltados 2019 - Modificado",
+          "eur": 0.0,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "137606W, 296472R",
+      "lugar": "Edificio Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Bolsa de trabajadores sociales: se admite a una aspirante y se corrige un error",
+      "categoria": "personal",
+      "resumen": "En el concurso-oposición para una bolsa de empleo temporal de trabajador/a social, se admite a una aspirante cuya solicitud, presentada a tiempo, no llegó al Ayuntamiento, y se corrige un error en los datos de otra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395494Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza de invierno para El Paseíto Café-Bar en la calle del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar para la temporada de invierno (hasta el 31 de marzo de 2021) en las mismas condiciones que en verano.",
+      "entidades": [
+        {
+          "nombre": "El Paseíto Café-Bar (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490532J",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Denegados bolardos en la fachada de un edificio de la calle Corredera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una comunidad de propietarios pide bolardos para que no aparquen pegados a la fachada. Se deniega porque obligarían a las personas con discapacidad a ir por la calzada; la Policía Local multará a los mal aparcados.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (calle Corredera)",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "489707?",
+      "lugar": "Calle Corredera",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Denegados bolardos en la puerta de un edificio de la calle San Bartolomé",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una vecina pide bolardos en su puerta. Se deniega porque estorbarían la entrada a las cocheras y el paso; se le invita a avisar a la Policía Local cuando aparquen mal.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "490120Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegados bolardos en la acera de un edificio de la calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una comunidad de propietarios pide bolardos para que no aparquen sobre la acera. Se deniega: la acera se hundió por filtraciones de agua, no por los coches; la Policía multará a quien aparque encima.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (calle Rambla)",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "490119X",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Comidas a domicilio gratis para una persona, de oficio",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se concede de oficio y gratis el servicio de comidas a domicilio a una persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490831K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "El Mercado de San Cayetano abre por la tarde en Navidad",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de los placeros, el mercado amplía horario las tardes del 22, 23, 29 y 30 de diciembre y el 4 de enero, y cierra las tardes del 24 y 31. Se contratarán el cierre y la limpieza esos días.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490534Y",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Sentencia: 4.230 € a un policía local por jubilación anticipada",
+      "categoria": "reclamaciones",
+      "resumen": "Urgente. En cumplimiento de una sentencia del Juzgado de lo Contencioso-Administrativo nº 4 de Murcia, que dio la razón a un agente, se le paga la indemnización por jubilación anticipada prevista en el acuerdo de condiciones de trabajo de los funcionarios.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 4230.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "281594D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Se licita el gasóleo de colegios y edificios y el combustible de los vehículos municipales",
+      "categoria": "contrato",
+      "resumen": "Urgente. Se aprueba sacar a concurso abierto (también anunciado en el Diario de la UE) el suministro de gasóleo C para calefacción de colegios y dependencias municipales y combustible para vehículos y maquinaria, para 2021. El acta no da el presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117?",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Se licita la obra del Centro de Protección Animal: 151.044,34 €",
+      "categoria": "contrato",
+      "resumen": "Urgente. Se aprueba el proyecto del Centro de Protección Animal y se abre el concurso para construirlo, con un presupuesto máximo de 151.044,34 euros con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 151044.34,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Centro de Protección Animal",
+      "interes": 3
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Se congelan los permisos de toldos en las terrazas de los bares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Los toldos de terrazas se han multiplicado, también en zonas de aparcamiento, y afean las calles y dificultan el paso. Se paraliza la concesión de nuevos permisos de toldos hasta que, pasadas las limitaciones de la COVID, se estudien y aprueben criterios; se sugieren sombrillas como alternativa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491225H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Denegado un toldo para la terraza del Café Bar Hadouken en la calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Se deniega el toldo en la vía pública por la paralización de este tipo de permisos acordada en la misma sesión.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Hadouken (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "488750W",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Denegado un toldo para la terraza del Bar-Café Gardenia en la calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Se deniega el toldo en la vía pública por la paralización de este tipo de permisos acordada en la misma sesión.",
+      "entidades": [
+        {
+          "nombre": "Bar-Café Gardenia (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "486659?",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Escuela de Navidad en el colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio en las vacaciones de Navidad para una 'Escuela de Navidad' organizada por una empresa de ocio (Arcoiris), con las medidas COVID y corriendo con los gastos de limpieza y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "particular (Arcoiris)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490880D",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Trabajos en beneficio de la comunidad en servicios municipales",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente. A petición de Instituciones Penitenciarias, varias personas cumplirán penas de trabajos en beneficio de la comunidad en Festejos, Agricultura y Escuelas Infantiles, coordinadas por dos trabajadoras sociales.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Instituciones Penitenciarias",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490764R",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

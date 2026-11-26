@@ -1,0 +1,713 @@
+{
+  "doc": "2020-10-20_JGL_50",
+  "organo": "JGL",
+  "sesion": 50,
+  "fecha": "2020-10-20",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno licita los seguros del Ayuntamiento (responsabilidad civil, edificios, vehículos, vida y accidentes) por 100.000 euros al año y apoya el interés público de un establecimiento comercial de Morales Puche en suelo rústico de Las Teresas; además deja ese suelo, inundable, fuera de lo urbanizable en el nuevo Plan General. Autoriza el inicio de las obras de los salones parroquiales de San Juan Bautista, adjudica la reparación de la cubierta del pabellón Las Herratillas (12.502 euros) y paga 14.278 euros por alquilar una machacadora de escombros. También aprueba muchos permisos de teletrabajo por la COVID, reconoce como indefinidas no fijas a dos técnicas de educación infantil por sentencia y resuelve varias reclamaciones de agentes de Policía Local.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 14 y 16 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: propuesta de ayuda del SEF para el programa mixto de Garantía Juvenil",
+      "categoria": "informacion",
+      "resumen": "Se informa de la propuesta provisional del SEF de subvenciones del programa mixto Empleo-Formación de Garantía Juvenil 2020, con plazo de alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "484779E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago del alquiler de una machacadora para 3.000 m³ de escombros municipales",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a un particular el alquiler de una machacadora para gestionar 3.000 m³ de escombros municipales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14278.0,
+      "importes": [
+        {
+          "concepto": "Alquiler de machacadora para gestión de 3.000 m³ de escombros municipales",
+          "eur": 14278.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475041E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Luz verde a las obras de los salones parroquiales de San Juan Bautista",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a la Parroquia de San Juan Bautista a modificar el proyecto y empezar las obras de rehabilitación y ampliación de sus salones parroquiales, con fianza de 440 € y aviso a la Dirección General de Bienes Culturales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "titular de la licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "217049H",
+      "lugar": "Calle Santa Catalina y calle Cuesta",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar a construir dos viviendas con garaje en la calle España",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a dos particulares a iniciar las obras de dos viviendas con garaje y trastero, con licencia concedida en agosto, tras presentar el proyecto de ejecución; fianza de 140 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "407729Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Cambio de horario por conciliación del jefe de Urbanismo y Contratación",
+      "categoria": "personal",
+      "resumen": "Se autoriza al jefe de sección de Urbanismo y Contratación un horario partido por conciliación hasta final del curso 2020/2021, sin derecho a pluses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484729K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Teletrabajo parcial para una auxiliar de Agricultura y Personal",
+      "categoria": "personal",
+      "resumen": "Se autoriza teletrabajo parcial por conciliación a una auxiliar administrativa, según los criterios de teletrabajo COVID aprobados el 6 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484358W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Teletrabajo los martes para una educadora social",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una educadora social a teletrabajar los martes por la mañana por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484247Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Teletrabajo cuatro días por semana para un empleado municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un empleado municipal a teletrabajar de lunes a viernes salvo los miércoles, por razón de edad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484231T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Una técnica de educación infantil, indefinida no fija por sentencia",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social nº 2 de Murcia, se reconoce a una técnica de educación infantil como trabajadora indefinida no fija hasta que la plaza se cubra reglamentariamente.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 2 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "259720Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Otra técnica de educación infantil, indefinida no fija por sentencia",
+      "categoria": "personal",
+      "resumen": "Por otra sentencia del Juzgado de lo Social nº 2 de Murcia, se reconoce a una segunda técnica de educación infantil como trabajadora indefinida no fija.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 2 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "259740A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Psicólogos asesores para las oposiciones de nueve agentes de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se nombran dos psicólogos como asesores del tribunal para las pruebas psicotécnicas (quinto ejercicio) de la oposición a nueve plazas de agente de Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "154253Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Cuatro subinspectores de Policía en prácticas hacen su curso de formación",
+      "categoria": "personal",
+      "resumen": "Se toma razón del curso selectivo de cuatro subinspectores en prácticas (19 de octubre a 30 de noviembre) y se les da cinco días para elegir entre el sueldo de subinspector o el de agente durante el curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484494J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Un agente de Policía no puede alegar más contra la inadmisión de su recurso",
+      "categoria": "reclamaciones",
+      "resumen": "Se comunica a un agente de Policía Local que contra la inadmisión de su recurso de revisión (sobre la asistencia jurídica que se le negó en 2017) no caben nuevas alegaciones, solo la vía judicial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "194811X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "No se envía al Comité de Seguridad y Salud un escrito de un agente",
+      "categoria": "personal",
+      "resumen": "Se deniega remitir al Comité de Seguridad y Salud un escrito de un agente de Policía Local porque no trata cuestiones concretas de salud laboral.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "194811X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "No se envía al Comité de Seguridad y Salud otro escrito de un agente",
+      "categoria": "personal",
+      "resumen": "Por el mismo motivo se deniega remitir al Comité de Seguridad y Salud otro escrito de un agente de Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "306020D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.12",
+      "titulo": "Rechazado el recurso de un agente que pedía copia de un atestado",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de un agente que pedía copia de un atestado alegando enemistad del jefe de Policía; el informe del jefe era como funcionario, no como parte, y las actuaciones judiciales se archivaron.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "306020D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.13",
+      "titulo": "No procede pagar abogado a un agente: el caso judicial se archivó",
+      "categoria": "personal",
+      "resumen": "Se considera improcedente la asistencia letrada pedida por un agente de Policía Local porque las actuaciones judiciales del atestado se archivaron sin que tuviera que comparecer.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "306020D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.14",
+      "titulo": "Sí se envía al Comité de Seguridad y Salud un escrito de un agente",
+      "categoria": "personal",
+      "resumen": "Se remite al Comité de Seguridad y Salud Laboral un escrito de un agente de Policía Local porque plantea cuestiones que podrían ser de salud laboral.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "401784J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.15",
+      "titulo": "Denegados cambios en el cuadrante de turnos de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se deniegan los cambios en el cuadrante del primer semestre de 2020 pedidos por un agente; el cuadrante rota 19 semanas para 38 policías y es igual para toda la plantilla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "401784J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Reparación de la cubierta del pabellón Las Herratillas: 12.502 € a Estructuras LYM",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto (15.152,02 €) y se adjudica como contrato menor a Estructuras LYM la reparación de la cubierta de la sala escolar del pabellón de deportes Las Herratillas.",
+      "entidades": [
+        {
+          "nombre": "Estructuras LYM, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12502.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482338P",
+      "lugar": "Pabellón de Deportes Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Indemnización COVID de septiembre a Podium por el centro de mayores Las Herratillas",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan a Podium Gestión Integral 1.255,12 € de gastos justificados de septiembre por la suspensión del contrato de dinamización del centro de mayores Las Herratillas.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1255.12,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436944R",
+      "lugar": "Centro de Mayores Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Una ludoteca podrá usar la pista del jardín de la Avenida de la Feria por la COVID",
+      "categoria": "via_publica_eventos",
+      "resumen": "De forma excepcional, porque las ludotecas no pueden trabajar en los colegios por la COVID, se autoriza a una particular a usar sin exclusividad la pista del jardín de la Avenida de la Feria por las tardes durante el curso, con seguro y condiciones sanitarias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa espacio municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482439E",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón del Edificio Bioclimático para cursos de ASOCOMY con la Cámara de Comercio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación de Comerciantes de Yecla el salón de actos del Edificio Bioclimático para tres cursos de la Cámara de Comercio de Murcia para sus socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa sala municipal"
+        },
+        {
+          "nombre": "Cámara de Comercio de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "imparte cursos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483138W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Protocolo con la CARM para el proyecto de datos «Mi municipio en cifras»",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un protocolo general de actuación con la Consejería de Presidencia y Hacienda para impulsar el proyecto estadístico «Mi municipio en cifras».",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia y Hacienda (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma protocolo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481390Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Aqualia renovará la red de agua de la calle Juan XXIII: 6.356 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia para renovar la red de agua de la calle Juan XXIII, dentro del contrato del servicio de agua potable.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6356.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484148D",
+      "lugar": "Calle Juan XXIII",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Agua potable para una vivienda en suelo rústico en Los Quiñones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza en precario el suministro de agua potable a una vivienda unifamiliar en suelo no urbanizable, con contador y acometida privada a cargo de la propietaria.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483958P",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Morales Puche: sí al comercio en Las Teresas; el suelo inundable sale del urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor del interés público del establecimiento comercial de Morales Puche en suelo no urbanizable de Las Teresas y se aprueba, con dictamen unánime de los grupos, que el sector industrial SUNC I-2, inundable según la CHS, pase a suelo no urbanizable inadecuado en el nuevo Plan General. Se envía a la Consejería de Fomento.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Ezquiaga Arquitectura, Sociedad y Territorio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactor del nuevo PGMO"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informe de inundabilidad"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "182847E",
+      "lugar": "Paraje Las Teresas, polígono 46, parcela 292",
+      "interes": 3
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Ramón Puche segrega 120 m² de un solar de la calle Sor Concepción",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Ramón Puche, S.L. licencia para segregar 120 m² de un solar sin edificar de 1.122,82 m² en la Zona 6, que deberá unirse a la finca vecina para cumplir la fachada mínima.",
+      "entidades": [
+        {
+          "nombre": "Ramón Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular de la licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "432604J",
+      "lugar": "Calle Sor Concepción (Zona 6 del suelo urbano)",
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Un peón más para la brigada de señalización vial de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un peón operario interino para la brigada de señalización vial, que necesita dos trabajadores y acumula retrasos en pintar pasos de peatones y recoger señales tras eventos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "423432A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Teletrabajo parcial para la jefa del negociado de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se autoriza teletrabajo parcial por conciliación a la jefa del negociado de Gestión Tributaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484144V",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Teletrabajo dos días por semana para una funcionaria municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una funcionaria municipal a teletrabajar lunes y martes por razón de edad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483985Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Teletrabajo tres días por semana para una auxiliar de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa de los Servicios Técnicos a teletrabajar lunes, jueves y viernes por razón de edad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483985C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Teletrabajo lunes y martes para una arquitecta municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una arquitecta municipal a teletrabajar lunes y martes por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483985C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Teletrabajo los miércoles para un arquitecto municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un arquitecto municipal a teletrabajar los miércoles por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483985C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Un agente cobrará un festivo trabajado por cambio de turno, pero no otro",
+      "categoria": "personal",
+      "resumen": "Se abona a un agente de Policía Local el plus de un festivo trabajado por autocambio en noviembre de 2018 y se le deniega otro de 2019 porque ambos días eran laborables.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "401784J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Licitación de los seguros municipales: 100.000 € al año en cinco lotes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar (procedimiento abierto con anuncio europeo) los seguros del Ayuntamiento por tres años más dos de prórroga, con 100.000 € anuales: responsabilidad civil 37.000 €, daños materiales 27.000 €, flota de vehículos 27.000 €, accidentes 3.000 € y vida 6.000 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 100000.0,
+      "importes": [
+        {
+          "concepto": "Lote 1: Responsabilidad civil/patrimonial (anual)",
+          "eur": 37000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: Daños materiales (anual)",
+          "eur": 27000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: Flota de vehículos (anual)",
+          "eur": 27000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: Seguro colectivo de accidentes (anual)",
+          "eur": 3000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: Seguro colectivo de vida (anual)",
+          "eur": 6000.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "306684A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Segundo reparto de ayudas para libros y material escolar 2020",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden más ayudas extraordinarias para libros y material escolar a menores incluidos en el informe de Servicios Sociales; el acta no da el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "478855C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.13",
+      "titulo": "Protocolos COVID para reabrir la piscina cubierta municipal",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el protocolo de prácticas responsables, el plan de contingencia y el protocolo de apertura y uso de la piscina cubierta municipal, adaptados a las normas COVID de la Región.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481440R",
+      "lugar": "Piscina Cubierta Municipal",
+      "interes": 2
+    }
+  ]
+}

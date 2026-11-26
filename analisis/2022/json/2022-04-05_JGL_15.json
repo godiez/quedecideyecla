@@ -1,0 +1,804 @@
+{
+  "doc": "2022-04-05_JGL_15",
+  "organo": "JGL",
+  "sesion": 15,
+  "fecha": "2022-04-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 30,
+  "resumen": "La Junta de Gobierno aprueba el festival juvenil Cre-Acción 2022, ligado a la 60ª Feria del Mueble, y anula la licitación del control de plagas y legionela por un error en los costes de personal del pliego. Paga 76.000 euros en facturas (instalaciones deportivas, tóner y el concierto de Pasión Vega), envía sus informes sobre una planta solar de casi 10 MWp en La Arboleda y ordena retirar a costa de la empresa el kiosco abandonado del Jardín de la Feria. También concede una beca en la Casa de Cultura y autoriza conciertos, puestos y actos de Semana Santa.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 29 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: compensación del IVA del Estado y uso de San Francisco en Semana Santa",
+      "categoria": "informacion",
+      "resumen": "Se informa de la compensación que recibirá el Ayuntamiento del Estado por el efecto del nuevo sistema de IVA (SII) en la participación en tributos de 2017, y de que la parroquia usará la Iglesia de San Francisco para la Vigilia Pascual los días 16 y 17 de abril, según el convenio con el Obispado.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Financiación Autonómica y Local (Ministerio de Hacienda)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da compensación"
+        },
+        {
+          "nombre": "Basílica Arciprestal de la Purísima Concepción",
+          "cif": null,
+          "tipo": "parroquia",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "607604W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, tóner y concierto de Pasión Vega",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento, limpieza y atención de las instalaciones deportivas de febrero, el suministro de tóner y el concierto de Pasión Vega.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Seinsol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Concert Tour Gestiones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 76027.64,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, febrero 2022",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Suministro de tóner",
+          "eur": 6110.51,
+          "entidad": "Seinsol, S.L."
+        },
+        {
+          "concepto": "Concierto de Pasión Vega",
+          "eur": 13794.0,
+          "entidad": "Concert Tour Gestiones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508989E, 586002R, 590225H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la proclamación de reinas y pregón de San Isidro 2022",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (1.590 euros) y se dan de baja las entradas no vendidas (2.220 euros) del acto del 26 de marzo en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1590.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607320A",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar a construir una nave y oficinas en la Avenida Juan Carlos I",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de una nave industrial con oficinas, con licencia concedida en febrero, tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574359X",
+      "lugar": "Avenida Juan Carlos I",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca de viñedo en suelo no urbanizable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para segregar una parcela de 26.337 m² de una finca agraria de 52.674 m² en suelo no urbanizable (polígono 29), respetando la unidad mínima de cultivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "555152W",
+      "lugar": "polígono 29 (SNU)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Compensación de horas Covid de un subinspector de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se da por compensado con un curso de formación el defecto de 32 horas de trabajo de 2020 por el cuadrante especial Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606851Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Compensación de horas Covid de un agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se da por compensado con un curso de formación el defecto de 13 horas de trabajo de 2020 por el cuadrante especial Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606181T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Compensación de horas Covid de otro agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se da por compensado con un curso de formación el defecto de 49 horas de trabajo de 2020 por el cuadrante especial Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607095N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Ayuda por hijo con discapacidad a un trabajador municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a un trabajador municipal la ayuda por hijo con discapacidad del acuerdo de condiciones de trabajo: 145,77 euros al mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 145.77,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606261E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Personal de Servicios Sociales a una reunión regional en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a cinco trabajadoras del Centro de Servicios Sociales asistir a una reunión con la Dirección General de Familia en Murcia el 7 de abril, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606079C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Intereses de demora por pagos atrasados de nómina",
+      "categoria": "personal",
+      "resumen": "Se abonan a un trabajador 7,80 euros de intereses por el retraso en el pago de varias cantidades de nómina reconocidas en 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 7.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "576088Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Equipamiento y montaje de Semana Santa 2022",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un autónomo el contrato menor de equipamiento y montaje de la Semana Santa 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7441.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608186D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Mantenimiento de Oracle 2022",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Oracle Ibérica el contrato menor de mantenimiento de su software para 2022.",
+      "entidades": [
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7965.94,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600699E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Reparación del riego del césped del Polideportivo y del campo La Constitución",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Véctoris el contrato menor de reparación y sustitución parcial del riego y aspersores del césped natural del Complejo Polideportivo Juan Palao Azorín y del Campo de Deportes La Constitución.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15650.47,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "603230W",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín; Campo Municipal La Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Corrección de un error en el pliego del espacio de ocio juvenil de Cazadores",
+      "categoria": "contrato",
+      "resumen": "Se corrige un error aritmético en la puntuación del pliego del contrato de dinamización del espacio de ocio del semisótano del edificio Cazadores: 2 puntos (no 1) por cada 10 horas adicionales gratuitas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575299C",
+      "lugar": "Edificio Cazadores de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puestos de venta de palmas el 6 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden cuatro licencias de puesto eventual para vender palma blanca en los mercadillos del Mercado Central y de San Cayetano, previo pago de la tasa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "605848F",
+      "lugar": "Mercado Central y Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Dos carritos de juguetes y globos en Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vendedor ambulante a poner dos carritos de juguetes y globos del 14 al 17 de abril, con una tasa de 32 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 32.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "601628W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para la asamblea del Yecla Club de Fútbol",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos al Yecla Club de Fútbol para su asamblea general ordinaria el 6 de abril.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Fútbol",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608444M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Plenos para la asamblea del Centro de Estudios Locales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos al Centro de Estudios Locales para su asamblea general el 28 de abril.",
+      "entidades": [
+        {
+          "nombre": "Centro de Estudios Locales",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609617Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil (11 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606664P",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Auditorio para el espectáculo cómico de la peña Destripaterrones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a la Peña Sociocultural Destripaterrones para su espectáculo 'Destripa la noche… o no' el 28 de abril, previo pago de 400 euros de precio público.",
+      "entidades": [
+        {
+          "nombre": "Peña Sociocultural Destripaterrones",
+          "cif": null,
+          "tipo": "pena",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608513H",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Auditorio gratis para presentar la revista 'El Reloj' del centro de adultos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio al Centro Público de Educación de Personas Adultas para presentar el número 29 de la revista 'El Reloj' el 22 de junio, con rebaja del 100% (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Personas Adultas de Yecla",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606612R",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Sala del Edificio Bioclimático para el programa 'Emociona2'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala del Edificio Bioclimático a la Asociación No Hay Límite Yecla los lunes y martes por la mañana, del 11 de abril al 28 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609592F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Cambio de fecha de la graduación del CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se traslada al 15 de junio la graduación de 6º de Primaria organizada por la AMPA en la explanada de San Francisco; se prestan 150 sillas, con seguro, fianza de limpieza de 200 euros y límite de ruido de 85 dB.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594077H",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Aplazado el Plan Especial 2022 de inclusión social a través del empleo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se deja sobre la mesa, para estudiarlo mejor, el Plan Especial 2022 de Inclusión, Promoción y Reinserción Social a través del Empleo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "603227Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Beca de 5.400 euros para trabajos en la Casa Municipal de Cultura",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se concede la beca de formación-colaboración de 2022 en la Casa de Cultura (nueve meses, 990 horas) al aspirante con más puntos, y se crea una lista de espera con el resto.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578214A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Festival Cre-Acción 2022 con jóvenes artistas, ligado a la 60ª Feria del Mueble",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar del 24 al 29 de mayo la XIII edición del Foro Cre-Acción, con arquitectura efímera en la calle, exposiciones de quince artistas yeclanos, conciertos, conferencias y talleres. El acta aprueba un presupuesto de 91.903 euros, aunque el desglose suma 52.940 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 91903.0,
+      "importes": [
+        {
+          "concepto": "Obras de arquitectura efímera",
+          "eur": 20570.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Exposición de jóvenes artistas",
+          "eur": 5350.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Talleres, actividades formativas y jornadas de expertos",
+          "eur": 10000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Seguridad del evento",
+          "eur": 7260.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Difusión y comunicación",
+          "eur": 2500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Actuaciones musicales",
+          "eur": 7260.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602248F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Informes municipales sobre la planta solar 'La Arboleda' de 9,94 MWp",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "En la evaluación ambiental de una planta fotovoltaica de 9,94 MWp con línea subterránea de 20 kV en el paraje Arboleda, el Ayuntamiento aprueba y envía a la Consejería de Medio Ambiente los informes de su arquitecta y de su técnico de medio ambiente. No se dice quién promueve la planta.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería, Pesca y Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "588475C",
+      "lugar": "Paraje Arboleda/Arboreda, polígono 38",
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Horario especial del Mercado de San Cayetano en Semana Santa",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban horarios especiales del Mercado de San Cayetano el 13 y 14 de abril (el 15 cierra) y las horas extra y servicios externos necesarios.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606994Y",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Autorizada una quema de restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor quemar restos vegetales en una parcela del polígono 44, a menos de 1.500 m de las viviendas, solo lunes y primer y tercer sábado de 8 a 9 h, del 11 de abril al 30 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607468F",
+      "lugar": "polígono 44",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Nuevos cargos de la Junta de Compensación de Los Rosales (2020)",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se inscriben en el registro municipal de entidades urbanísticas los cargos del Consejo Rector de la Junta de Compensación del SUPR-6 'Los Rosales' elegidos en octubre de 2020.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "548152Y",
+      "lugar": "SUPR-6 Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Nuevos cargos de la Junta de Compensación de Los Rosales (2021)",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se inscriben los cargos del Consejo Rector de la Junta de Compensación del SUPR-6 'Los Rosales' elegidos en noviembre de 2021.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "564880F",
+      "lugar": "SUPR-6 Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Se anula la licitación del control de plagas, mosquitos y legionela por un error",
+      "categoria": "contrato",
+      "resumen": "Tras recibir ofertas (3 al lote de desratización y desinsectación, 5 al de legionela), la patronal de sanidad ambiental denunció que el pliego no incluía los costes de Seguridad Social del personal. El Ayuntamiento desiste del procedimiento y licitará de nuevo.",
+      "entidades": [
+        {
+          "nombre": "Asociación Nacional de Empresas de Sanidad Ambiental",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "denuncia error"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "585800M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Terraza de 50 m² para la cafetería El Paseo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la cafetería El Paseo en la avenida Pablo Picasso para la temporada de verano (1 de abril a 31 de octubre), con 50 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608081H",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Conciertos de Semana Santa de Amigos de la Música en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan dos conciertos de Semana Santa en la Plaza Mayor (8 y 13 de abril), con corte de tráfico en la calle Corredera y un límite excepcional de ruido de 85 dB.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600132R",
+      "lugar": "Plaza Mayor; calle Corredera",
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "El Ayuntamiento retirará el kiosco abandonado del Jardín de la Feria a costa de la empresa",
+      "categoria": "reclamaciones",
+      "resumen": "Como la empresa no retiró el kiosco tras revocarse su autorización en 2020, la Brigada de Obras lo retirará de forma subsidiaria y se le cobrará el coste estimado de 814,85 euros.",
+      "entidades": [
+        {
+          "nombre": "Golosinas y Aperitivos Rosa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 814.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483371Z",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "15.7",
+      "titulo": "Salas del Bioclimático para las actas de expropiación de una línea de alta tensión",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Consejería de Empresa, en lugar del Salón de Plenos, dos salas del Edificio Bioclimático los días 1 y 2 de junio para levantar las actas previas de expropiación de la línea de alta tensión de la planta fotovoltaica Cerrillares I (Jumilla y Yecla).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Empleo, Universidades y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "604465K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "15.8",
+      "titulo": "IV Encuentro Grecolatino de Teatro",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el IV Encuentro de Teatro Grecolatino de 2022 y su presupuesto de 3.170,20 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3170.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "186187T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Denegada la reparación de la arqueta del contador del Colegio La Inmaculada",
+      "categoria": "otros",
+      "resumen": "Se deniega la petición del Colegio La Inmaculada de que el Ayuntamiento repare la arqueta hundida de su contador de agua en la calle Hijas de la Caridad, porque corresponde a su titular, la Fundación Alma Mater.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Fundación Alma Mater",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "titular"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "604871Z",
+      "lugar": "calle Hijas de la Caridad",
+      "interes": 1
+    }
+  ]
+}

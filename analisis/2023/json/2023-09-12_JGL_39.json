@@ -1,0 +1,666 @@
+{
+  "doc": "2023-09-12_JGL_39",
+  "organo": "JGL",
+  "sesion": 39,
+  "fecha": "2023-09-12",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "Junta de Gobierno de la semana antes de la Feria: se adjudica el concierto de Second por 72.600 euros sin concurso (única empresa con la exclusiva) y otros contratos de seguridad y actuaciones, y el gasóleo de calefacción de colegios y edificios municipales por 414.321 euros. Se piden al SEF más de un millón de euros para tres programas de empleo y formación y se acepta una ayuda regional de 67.380 euros para familia e infancia. Proyecto Denver obtiene rebajas del impuesto de obras por naves en Las Teresas, y se deniegan a Plenoil señales para su gasolinera.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 5 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: parcheo de caminos y mantenimiento de instalaciones deportivas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el parcheo de caminos del término municipal y el mantenimiento, limpieza y atención de las instalaciones deportivas municipales de julio de 2023.",
+      "entidades": [
+        {
+          "nombre": "Involucra, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 123398.56,
+      "importes": [
+        {
+          "concepto": "Parcheo de caminos en Yecla",
+          "eur": 47703.04,
+          "entidad": "Involucra, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas municipales, julio 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "804656D, 509033Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Rebaja del 50% del impuesto de obras a Proyecto Denver por una nave en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 50% del ICIO de la construcción de una nave industrial sin uso específico en el polígono Las Teresas (presupuesto 466.588,32 €; cuota 15.397,41 €), por ser obra industrial que la ordenanza considera de interés municipal. El ahorro para la empresa ronda los 7.698,71 €.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7698.71,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "671274A (licencia 551/2022)",
+      "lugar": "Polígono industrial Las Teresas, parcela A5 (10)",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del 50% del impuesto de obras a Proyecto Denver por cuatro naves en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 50% del ICIO de la construcción de cuatro naves industriales adosadas sin uso específico en Las Teresas (presupuesto 2.170.924,80 €; cuota 71.640,52 €). El ahorro para la empresa ronda los 35.820,26 €.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 35820.26,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785924M (licencia 371/2023)",
+      "lugar": "Polígono industrial Las Teresas, calle Miguel Servet",
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para dividir una finca rústica de regadío",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a dos particulares licencia para segregar una parcela de 5.281 m² de una finca agrícola de regadío de unos 13.000 m² en suelo no urbanizable, sin construcciones; cumple la unidad mínima de cultivo (0,20 ha en regadío).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "737129Q",
+      "lugar": "Polígono catastral 45 (suelo no urbanizable)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratación de una técnica de educación infantil de apoyo en la Escuela Infantil Alameda",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un técnico de educación infantil a media jornada (17,5 h/semana) para el curso 2023/24, por el aumento de niños matriculados.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "813579X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contratación de un psicólogo para el plan de prevención de adicciones",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un psicólogo a jornada completa durante el curso 2023/24 para el Plan de prevención de adicciones y el proyecto de ocio para menores en riesgo, financiados en parte por una subvención de la Consejería de Sanidad.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Sanidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia en parte"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799023E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Cuatro trabajadoras de Servicios Sociales irán a una reunión europea sobre salud mental",
+      "categoria": "personal",
+      "resumen": "Se ordena a cuatro trabajadoras del Centro Municipal de Servicios Sociales asistir el 25 de septiembre a la reunión del consorcio europeo JA ImpleMENTAL (Servicio Murciano de Salud); el Ayuntamiento paga manutención y desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815740Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contrato de seguridad para los conciertos de la Feria 2023",
+      "categoria": "contrato",
+      "resumen": "Contrato menor del servicio de seguridad de los conciertos y actuaciones de la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Selec Global Security, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10030.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814916D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de la actuación 'Conexión Remember' en la Feria 2023",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de la actuación 'Conexión Remember' en la Feria de septiembre, adjudicado a un particular.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6292.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815009H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contrato de la actuación de José de Rico & DCS en la Feria 2023",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de la actuación musical de José de Rico & DCS en la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Espectáculos Lorca Naiboa, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9680.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815119K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Concierto de Second en la Feria por 72.600 euros, sin concurso público",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento negociado sin publicidad (único licitador, con la exclusiva del grupo) el concierto de Second en el Recinto Ferial el 22 de septiembre de 2023, por 60.000 € más IVA.",
+      "entidades": [
+        {
+          "nombre": "Demasiado Soñadores, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 72600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "805881E (C.PR. 4/23)",
+      "lugar": "Recinto Ferial",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Denegada una plaza de aparcamiento para discapacitados en la calle Iglesia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina una plaza reservada para discapacitados cerca de su casa porque la Policía Local informa que la calle tiene prohibido aparcar en ambos lados y la vecina dispone de garaje señalizado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "804532F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Denegados bolardos en una acera; se pintarán líneas amarillas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la colocación de bolardos para que los coches no suban a la acera de su inmueble, pero se reforzará la señalización con líneas amarillas donde la calle se estrecha.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "729107Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Denegadas a Plenoil cuatro señales de tráfico que indiquen su gasolinera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Plenoil la instalación de cuatro señales en la ciudad que indiquen su gasolinera de la Avenida de la Paz: Yecla tiene 7 gasolineras y no se señaliza un recorrido para cada una; dos de las señales ni siquiera informarían de nada.",
+      "entidades": [
+        {
+          "nombre": "Plenoil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "815034R",
+      "lugar": "Avenida de la Paz, 187 (gasolinera)",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Aplazada la petición de bolardos de una comunidad de propietarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la solicitud de una comunidad de propietarios de la calle Corredera para poner bolardos en la entrada de su cochera.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (calle Corredera)",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "804529C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del Auditorio por la Comunidad de Regantes Hoya del Mollidar-Portichuelo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la comunidad de regantes usar el Auditorio Municipal Juan Miguel Benedito para su asamblea general del 14 de septiembre, pagando el precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816982Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "El Consulado de Paraguay usará el Edificio Bioclimático para un consulado móvil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Consulado General de Paraguay a usar aulas y equipos del Edificio Bioclimático el 23 de septiembre para su primer consulado móvil en Yecla, para tramitar documentos a los paraguayos residentes.",
+      "entidades": [
+        {
+          "nombre": "Consulado General de la República del Paraguay en España",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815208J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Taller para jóvenes emprendedores de septiembre a diciembre: 9.200 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la segunda edición del Taller de captación y formación de jóvenes emprendedores de la Concejalía de Juventud, con un presupuesto de 9.200 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799382D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "807023Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Denegada la tarjeta de residente de zona azul por deudas con el Ayuntamiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la condición de residente en zona azul por no estar al corriente de sus obligaciones tributarias con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "805851N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Permiso para empezar las obras de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Asunto urgente: se autoriza el inicio de obras de una vivienda unifamiliar con trastero y garaje (licencia 235/2022) tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617976A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Contratación de un conserje para el colegio Las Herratillas",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un conserje operario para el CEIP Las Herratillas mientras dure la baja del titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816887Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Contratación de una técnica de educación infantil para la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un técnico de educación infantil (30 h/semana) para sustituir la baja por maternidad de una tutora, como máximo hasta fin del curso 2023/24.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816577K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Oferta de empleo para un cuidador del Centro de Protección Animal",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF un cuidador de animales (30 h/semana) para sustituir la baja de un vigilante que atiende el Centro de Protección Animal, el parque canino y la recogida de animales; se aprueban las bases de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "817178W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Gasóleo de calefacción para colegios y edificios municipales: 414.321 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el lote 2 (gasóleo C de calefacción para colegios públicos y dependencias municipales) del contrato de suministro de combustibles, por dos años, a la oferta de mejor precio (100 puntos sobre 100).",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 414321.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750072R (C.SU.2/23)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Contrato del taller de jóvenes emprendedores",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para impartir el Taller de captación y formación de jóvenes emprendedores de septiembre a diciembre de 2023.",
+      "entidades": [
+        {
+          "nombre": "ERF Education & Consulting, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799384F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Cuatro food trucks en la Feria de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a cuatro particulares a instalar food trucks en la Feria 2023 (Foon Food, The Best Burger, La Yenca y Bocadillos de Autor), condicionado a declaración responsable, certificado técnico y seguro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "817422J",
+      "lugar": "Recinto Ferial",
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Proyecto municipal de actividad física y deporte 2023/2024",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el proyecto anual del Servicio Municipal de Deportes con tres áreas: actividad física y salud, competiciones y eventos, y fomento del asociacionismo. Los gastos se aprobarán aparte.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814936F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Uso provisional de instalaciones deportivas por clubes y colegios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Mientras no se resuelva la convocatoria de reserva de instalaciones deportivas 2023/24, se autoriza provisionalmente su uso a escuelas deportivas, clubes, centros docentes y colectivos especiales; si luego no se aprueba la colaboración, pagarán el precio público.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801425Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Se acepta una ayuda de la CARM de 67.380 euros para apoyo a familia e infancia",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención directa de la Comunidad Autónoma (Decreto 215/2023) para actuaciones de apoyo a la familia e infancia en 2023.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67380.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789526P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Se piden 404.620 euros al SEF para el programa de empleo 'Yecla Integra 2023'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba y se pide subvención para un programa mixto de empleo y formación de 12 meses para parados de 25 o más años en atención sociosanitaria a domicilio.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 404620.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816889T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Se piden 220.654 euros al SEF para el programa 'Yecla Impulsa-Joven 2023'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba y se pide subvención para un programa mixto de empleo y formación de 9 meses para parados menores de 25 años en tapizado de mobiliario.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 220654.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816927X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.13",
+      "titulo": "Se piden 404.620 euros al SEF para el programa 'Yecla Facilita 2023'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba y se pide subvención para un programa mixto de empleo y formación de 12 meses para parados de 25 o más años en atención sociosanitaria en instituciones.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 404620.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "817439H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.14",
+      "titulo": "Trail nocturno de la Feria organizado por el Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Trail Nocturno Feria 2023 (19 de septiembre, carrera no competitiva por los Castillarejos y el Colorao, salida desde la Caseta Municipal) y la colaboración municipal con personal y material; los gastos se aprobarán aparte.",
+      "entidades": [
+        {
+          "nombre": "Club Deportivo Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza y pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "800914F",
+      "lugar": "Castillarejos y el Colorao; salida del Recinto Ferial",
+      "interes": 1
+    }
+  ]
+}

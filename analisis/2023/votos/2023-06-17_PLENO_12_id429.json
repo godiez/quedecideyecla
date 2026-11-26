@@ -1,0 +1,43 @@
+{
+  "doc": "2023-06-17_PLENO_12_id429",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión constitutiva nº 12 de la corporación 2023-2027. Asisten 20 de 21: falta un concejal electo del PSOE, que toma posesión el 21-09-2023. Punto 1 (constitución y toma de posesión) sin votación. Punto 2: se registra solo la votación del sistema de elección; la elección de Alcaldesa fue secreta por papeleta (9, 6, 3 y 2 votos a los cabezas de lista de PP, PSOE, Vox e IU-Verdes), sin votos a favor/en contra que repartir, por lo que no se registra.",
+  "votaciones": [
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "otra",
+      "final": false,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 6,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Sometido a votación por la Presidenta de la Mesa el sistema propuesto para la elección del Alcalde, el mismo resulta aprobado por unanimidad."
+    }
+  ]
+}

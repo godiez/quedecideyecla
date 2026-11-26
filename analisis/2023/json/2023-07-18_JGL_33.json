@@ -1,0 +1,871 @@
+{
+  "doc": "2023-07-18_JGL_33",
+  "organo": "JGL",
+  "sesion": 33,
+  "fecha": "2023-07-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno adjudica a Quirón Prevención el servicio de prevención de riesgos laborales del personal por 97.370 euros (cuatro años) y saca a concurso la grúa municipal (90.000 euros al año) y la cocina de la Escuela Infantil El Parque. En el Mercado Central, da la razón a la empresa que redactó el proyecto (Ecotecno) y retira el requerimiento para que lo corrigiera, pero autoriza a la dirección de obra a modificar el proyecto y el contrato y se reserva pedirle indemnización. Además informa a favor de dos naves industriales en suelo no urbanizable (Bioformas 3 y Emper Cartonajes), adjudica asfaltados por 48.239 euros y una instalación solar en la Escuela Infantil El Parque por 47.287 euros, y recibe 160.243 euros de la Comunidad Autónoma para libros de las bibliotecas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 11 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 160.243 € para libros y 48.916 € para atención a la infancia",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se informa de dos subvenciones de la Comunidad Autónoma: 160.243,35 € para comprar fondos bibliográficos y 48.916,16 € para reforzar los equipos de atención a la infancia y la familia de Servicios Sociales (LOPIVI).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 209159.51,
+      "importes": [
+        {
+          "concepto": "Adquisición de fondos bibliográficos",
+          "eur": 160243.35,
+          "entidad": "Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía (CARM)"
+        },
+        {
+          "concepto": "Equipos de atención a la infancia y la familia (LOPIVI)",
+          "eur": 48916.16,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de seis switches para renovar la red informática municipal",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la compra de 6 switches para renovar la electrónica de red municipal.",
+      "entidades": [
+        {
+          "nombre": "Main Memory, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15403.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762546R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 13 de la restauración de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 13 de la obra de restauración de la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 69762.27,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recibos del agua (2º trimestre) y de la basura (3er trimestre)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban los padrones que cobra FCC Aqualia: agua del 2º trimestre (286.110 €), canon de saneamiento para la Comunidad Autónoma (236.844 €) y tasa de basura del 3er trimestre (363.625 €). Se liquida el canon de la concesión a cargo de Aqualia (24.749 €, ingreso municipal) y se anula un recibo de basura de 22 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria / recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable, 2º trimestre 2023",
+          "eur": 286109.76,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de la concesión (ingreso municipal)",
+          "eur": 24748.86,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 236844.47,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basura, 3er trimestre 2023",
+          "eur": 363625.0,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de basura anulados",
+          "eur": 22.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798447E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI de 2024 a 2028 por instalar placas solares, con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788224F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 90% del impuesto de obras por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del ICIO de la instalación fotovoltaica de autoconsumo de su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788796A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Aplazada la petición de que los coches eléctricos no paguen la zona azul",
+      "categoria": "fiscal",
+      "resumen": "Una vecina pide que los vehículos eléctricos queden exentos de la tasa de estacionamiento limitado. Se deja sobre la mesa para estudiarlo mejor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "795453X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Visto bueno a una nave de barnizado de muebles de Bioformas 3 en suelo rústico",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Sin alegaciones en la información pública, el Ayuntamiento informa a favor del interés público de una nave industrial para barnizar muebles de madera y centro de almacenamiento y expedición en suelo no urbanizable, y lo envía a la Consejería de Fomento para que la autorice.",
+      "entidades": [
+        {
+          "nombre": "Bioformas 3 C.C.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715045T (S.N.U. 8/2022)",
+      "lugar": "Paraje Los Baños, polígono 45 parcela 537",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Visto bueno a dos naves de envases de cartón de Emper Cartonajes en suelo rústico",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Sin alegaciones, el Ayuntamiento informa a favor del interés público de dos naves industriales para fabricar envases de cartón en suelo no urbanizable y lo envía a la Consejería de Fomento para su autorización.",
+      "entidades": [
+        {
+          "nombre": "Emper Cartonajes, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744851Q (S.N.U. 1/2023)",
+      "lugar": "Paraje Marrañaos, polígono 47 parcela 137",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Anticipo de 2.000 € de sueldo a un trabajador municipal",
+      "categoria": "personal",
+      "resumen": "Se concede un anticipo de nómina de 2.000 €, a devolver, que debe justificar en dos meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797973X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Anticipo de 1.200 € de sueldo a un conserje",
+      "categoria": "personal",
+      "resumen": "Se concede a un conserje operario un anticipo de nómina de 1.200 €, a devolver.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799025H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Una técnica de Turismo imparte el curso 'La Ruta del Vino' de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a la agente de Desarrollo Local-Turismo para dar el curso, con una indemnización de 862,46 € más 285,47 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1147.93,
+      "importes": [
+        {
+          "concepto": "Indemnización por impartir el curso",
+          "eur": 862.46,
+          "entidad": null
+        },
+        {
+          "concepto": "Seguridad Social a cargo del Ayuntamiento",
+          "eur": 285.47,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797088R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Un técnico de Medio Ambiente también imparte parte del curso 'La Ruta del Vino'",
+      "categoria": "personal",
+      "resumen": "Se designa al técnico auxiliar de Medio Ambiente para dar parte del curso, con una indemnización de 139,76 € más 44,58 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 184.34,
+      "importes": [
+        {
+          "concepto": "Indemnización por impartir el curso",
+          "eur": 139.76,
+          "entidad": null
+        },
+        {
+          "concepto": "Seguridad Social a cargo del Ayuntamiento",
+          "eur": 44.58,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797104K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Escuelas infantiles en verano: contrato de 12.661 € con una particular",
+      "categoria": "contrato",
+      "resumen": "Contrato menor del servicio de conciliación ('corresponsabilidad') en periodos vacacionales de las escuelas infantiles municipales en verano 2023, adjudicado a una persona física.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12661.44,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797181X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Placas solares para la climatización de la Escuela Infantil El Parque: 47.287 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de obras para una instalación fotovoltaica de autoconsumo que alimente la climatización de varias aulas de la Escuela Infantil El Parque.",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47286.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795010F",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Sale a concurso la grúa municipal: 90.000 € al año",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto (con publicidad en el Diario Oficial de la UE) para el servicio de retirada, traslado y depósito de vehículos, con 90.000 € anuales IVA incluido y gasto comprometido de 2023 a 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 180000.0,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 22500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 90000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 67500.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697847H (C.SE. 11/22)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Quirón Prevención, adjudicataria de la prevención de riesgos laborales (97.370 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por cuatro años el servicio de prevención ajeno (higiene industrial, seguridad, ergonomía y psicosociología y vigilancia de la salud) del personal municipal. Quirón fue segunda en precio pero primera en las mejoras (más reconocimientos médicos, cursos y pruebas gratis).",
+      "entidades": [
+        {
+          "nombre": "Quirón Prevención, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 97370.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733915C (C.SE. 13/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Sale a concurso la cocina y el comedor de la Escuela Infantil El Parque",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto para el servicio de cocina y comedor de la Escuela Infantil El Parque, con un precio base de 90.000 € al año y gasto comprometido de 2023 a 2025 por 152.776 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 152776.26,
+      "importes": [
+        {
+          "concepto": "Gasto 2023",
+          "eur": 20833.12,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 76388.13,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 55555.01,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607446A (C.SE. 5/22)",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano del Bar El Esquinazo (24 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar en la calle del Voluntariado Social, del 1 de abril al 31 de octubre de 2023, 24 m².",
+      "entidades": [
+        {
+          "nombre": "Bar El Esquinazo",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797306W",
+      "lugar": "calle del Voluntariado Social",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Denegada una plaza de aparcamiento para discapacitados ante una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino una plaza reservada para personas con discapacidad porque la calle tiene aparcamiento a ambos lados y él ya dispone de un vado horario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "784417T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Mesa y sillas municipales para un puesto de campaña del PP",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se presta al Partido Popular de Yecla una mesa y dos sillas para un puesto de campaña electoral en la calle San Francisco el 19 de julio, sin perjuicio de lo que diga la Junta Electoral de Zona.",
+      "entidades": [
+        {
+          "nombre": "Partido Popular de Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797869C",
+      "lugar": "calle San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Boda civil en el Salón de Plenos (2 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "728971K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Boda civil en la Casa Consistorial (28 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798990J",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Boda civil en la Casa Consistorial (7 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798114R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Boda civil en la Casa Consistorial (29 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798517C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Boda civil en la Casa Consistorial (14 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799042F",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Boda civil en la Casa Consistorial (28 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788930M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Salón del Edificio Bioclimático para una reunión de la SD Fútbol Base de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Salón de Actos el 20 de julio para una reunión sobre la temporada 2023/24 del equipo cadete de fútbol sala.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva de Fútbol Base de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798746W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Sala del Centro de Emprendimiento para un evento de Level Up Escuela de Negocios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la sala de reuniones del Centro de Emprendimiento el 20 de julio, de 17:00 a 20:00, para un evento empresarial.",
+      "entidades": [
+        {
+          "nombre": "Level Up Escuela de Negocios",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798627E",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Yecla acoge una prueba selectiva del Festival del Cante de las Minas (6.352 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio con la Fundación Cante de las Minas de La Unión para que Yecla sea sede, el 22 de julio, de una prueba selectiva de cante, toque y baile flamencos de la LXII edición del festival, con un gasto de 6.352,50 €.",
+      "entidades": [
+        {
+          "nombre": "Fundación Cante de las Minas de La Unión",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "cobra / firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6352.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797935T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pago de la renovación del alcantarillado de la calle Pascual Amat",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el contrato menor de renovación parcial del alcantarillado de la calle Pascual Amat (entre Hijas de la Caridad y Peligros), hecho por una persona física.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 24497.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741249N",
+      "lugar": "calle Pascual Amat",
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Últimas certificaciones de la reforma del Centro de Estimulación Temprana",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las certificaciones nº 3 (20.561,33 €), nº 4 y última (2.301,64 €) y la certificación final (0 €) de la reforma y ampliación del Centro de Estimulación Temprana.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22862.97,
+      "importes": [
+        {
+          "concepto": "Certificación nº 3",
+          "eur": 20561.33,
+          "entidad": "Construcciones y Promociones Molina Yago 2000, S.L."
+        },
+        {
+          "concepto": "Certificación nº 4 y última",
+          "eur": 2301.64,
+          "entidad": "Construcciones y Promociones Molina Yago 2000, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698794Y",
+      "lugar": "Centro de Estimulación Temprana",
+      "interes": 2
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Cuota de 18.000 € de 2023 a la asociación comarcal Leader del Nordeste",
+      "categoria": "pago_factura",
+      "resumen": "Se reconoce la obligación de pagar la cuota municipal de 2023 a la Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia (grupo Leader).",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia (Leader)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489228J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Contratado un educador social contra el absentismo escolar (septiembre-diciembre)",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un educador social a media jornada (20 horas) de septiembre a diciembre de 2023, pagado con la subvención regional de absentismo y abandono escolar.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799238D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Asfaltado de las calles Justina, Pintor Aguirre, Infante D. Juan Manuel y Juan Ortuño",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (48.400 €) y se adjudica el contrato menor de bacheo y asfaltado de varios tramos de esas calles.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48239.29,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797799E",
+      "lugar": "calles Justina, Pintor Aguirre, Infante D. Juan Manuel y Juan Ortuño",
+      "interes": 2
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Mercado Central: se retira el requerimiento a Ecotecno para corregir su proyecto",
+      "categoria": "reclamaciones",
+      "resumen": "La dirección de obra detectó errores y omisiones en el proyecto de remodelación del Mercado Central (por ejemplo, no incluye el centro de transformación eléctrico que necesita) y se pidió a la redactora que lo corrigiera. Se le da la razón en que su contrato ya terminó y que el modificado lo redacta el director de obra, por lo que se anula el requerimiento, pero el Ayuntamiento se reserva reclamarle indemnización si se demuestran errores suyos que desvíen el presupuesto más de un 20%.",
+      "entidades": [
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "alega"
+        },
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "486540A, 638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Autorizado modificar el proyecto y el contrato de obras del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Se autoriza a la dirección facultativa a modificar el proyecto y el contrato de la remodelación del Mercado Central (adjudicada en 2022 por 2.052.718 €) por omisiones y errores del proyecto, en parte imputables a su redactora.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactora del proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A (C.O. 3/20)",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Terraza de verano del local Mood en la avenida de Córdoba (24 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Mood', del 1 de abril al 31 de octubre de 2023, 24 m².",
+      "entidades": [
+        {
+          "nombre": "Themoodyecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789470M",
+      "lugar": "avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "10.9",
+      "titulo": "12.571 € más de fondos europeos para acompañar a personas vulnerables",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la ampliación de la subvención regional (NextGenerationEU) del proyecto de acompañamiento social a personas con capacidad de obrar limitada en situación de vulnerabilidad, que pasa de 127.155 € a 139.726,38 €, para contratar más personal.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12571.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637760D",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

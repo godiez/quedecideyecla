@@ -1,0 +1,777 @@
+{
+  "doc": "2022-03-22_JGL_13",
+  "organo": "JGL",
+  "sesion": 13,
+  "fecha": "2022-03-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 28,
+  "resumen": "La Junta de Gobierno saca a concurso el mantenimiento, limpieza y conserjería de las instalaciones deportivas por casi 2 millones de euros en dos años y aprueba el proyecto del carril bici y peatonal de la avenida Cruz Roja (330.000 €, pagado por la Comunidad Autónoma). Por las obras del Mercado Central, sus puestos y los del mercadillo de los miércoles se trasladan a las calles San Francisco y San Pascual y al Parque de la Constitución. Informa a favor de dos naves en suelo no urbanizable (Comercial Godema y XTI Footwear) y paga 64.743 € en seguros y servicios.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta del 8 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, de 8 de marzo de 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: plazo de una ayuda de turismo y una sentencia favorable",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Dirección General de Competitividad y Calidad Turísticas (CARM) que recuerda el plazo para ejecutar la subvención del sistema de calidad turística SICTED, y de una sentencia del Juzgado de lo Contencioso-Administrativo n.º 2 de Murcia que desestima el recurso de un particular contra la negativa a revisar varias multas por la ley de seguridad ciudadana.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Competitividad y Calidad Turísticas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recuerda plazo de subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo n.º 2 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "600266D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de seguros a MAPFRE y de la plataforma de personal a Espúblico",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 64.742,57 €: dos pólizas de MAPFRE (daños materiales del primer semestre de 2022 y responsabilidad civil 2022/23) y la plataforma de recursos humanos de Espúblico para 2022/23.",
+      "entidades": [
+        {
+          "nombre": "MAPFRE España Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Espúblico Servicios para la Administración, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64742.57,
+      "importes": [
+        {
+          "concepto": "Póliza de seguro de daños materiales, primer semestre 2022",
+          "eur": 14829.32,
+          "entidad": "MAPFRE España Compañía de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Plataforma de RRHH, ejercicio 2022/23",
+          "eur": 7424.49,
+          "entidad": "Espúblico Servicios para la Administración, S.A."
+        },
+        {
+          "concepto": "Póliza de seguro de responsabilidad civil 2022/23",
+          "eur": 42488.76,
+          "entidad": "MAPFRE España Compañía de Seguros y Reaseguros, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "569952A, 595454W, 543965H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación del concierto de Pasión Vega en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del espectáculo de Pasión Vega (12-03-2022, venta por Instant Ticket): se recaudaron 4.930,20 € de un cargo de 10.179 €, y se dan de baja 5.248,80 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta de entradas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4930.2,
+      "importes": [
+        {
+          "concepto": "Cargo total de entradas",
+          "eur": 10179.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Ingresos por taquilla",
+          "eur": 4930.2,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 5248.8,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600285E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Interés público para que Comercial Godema fabrique colchones en Los Baños",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor del interés público del cambio de uso de una nave en suelo no urbanizable, de fabricar muebles de madera a fabricar y almacenar colchones, y se envía a la Consejería de Fomento para que lo autorice. No hubo alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Comercial Godema, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otorga la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "548206Y",
+      "lugar": "Paraje Los Baños, polígono 45, parcelas 509 a 512 (S.N.U. 6/2021)",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Interés público para que XTI Footwear amplíe una nave como almacén logístico",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor del interés público de ampliar una nave en suelo no urbanizable y cambiar su uso de venta y exposición de muebles a almacén logístico, y se envía a la Consejería de Fomento para que lo autorice. No hubo alegaciones.",
+      "entidades": [
+        {
+          "nombre": "XTI Footwear, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otorga la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "528187T",
+      "lugar": "Paraje Herrada del Manco, polígono 42, parcelas 443-444 (S.N.U. 8/21)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Cambio de horario de un auxiliar delineante por conciliación",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar delineante de los Servicios Técnicos a hacer jornada partida los lunes hasta final del curso escolar, para conciliar; no cobrará nada extra por ello.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600938M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Compensadas con un curso 41 horas de un policía local por el cuadrante COVID",
+      "categoria": "personal",
+      "resumen": "Se dan por compensadas, con un curso de formación, las 41 horas de menos que trabajó un agente de la Policía Local en 2020 por el cuadrante especial de la COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "601225K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Personal de las escuelas infantiles irá a un congreso de educación 0-3",
+      "categoria": "personal",
+      "resumen": "Se autoriza a nueve trabajadoras de las Escuelas Infantiles Municipales y del Centro de Atención Temprana a asistir (dos presencial y siete en línea) al Congreso Internacional de Educación 0-3 Amei-Waece, en Madrid, los días 26 y 27 de marzo; el Ayuntamiento paga gastos hasta 40 € por persona y año.",
+      "entidades": [
+        {
+          "nombre": "Amei-Waece (Asociación Mundial de Educadores Infantiles)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el congreso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600473Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Se licita el mantenimiento y limpieza de las instalaciones deportivas: 1,97 millones",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a concurso abierto (con publicidad en la UE) el servicio de mantenimiento, limpieza y conserjería de las instalaciones deportivas municipales, por 987.440,22 € al año (IVA incluido) y dos años de duración, de junio de 2022 a mayo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1974880.44,
+      "importes": [
+        {
+          "concepto": "2022 (junio-noviembre)",
+          "eur": 493720.11,
+          "entidad": null
+        },
+        {
+          "concepto": "2023",
+          "eur": 987440.22,
+          "entidad": null
+        },
+        {
+          "concepto": "2024 (hasta mayo)",
+          "eur": 493720.11,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto en el Parque de la Constitución para alumnos del IES Azorín (Proyect-Azo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES Azorín a instalar un puesto el 30 de marzo en el Parque de la Constitución para una práctica de cooperativa escolar ('Cooperativa Proyect-Azo'), con una carpa, una mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594144A",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto de CCOO para recoger firmas contra la pobreza energética",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Comisiones Obreras de la Región de Murcia a poner un puesto el 30 de marzo en el Parque de la Constitución para recoger firmas sobre la pobreza energética, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Comisiones Obreras de la Región de Murcia",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "579610P",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Puesto informativo de la Asociación de Enfermos de Fibromialgia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Enfermos de Fibromialgia de Yecla a poner un puesto informativo el 11 de mayo en el Parque de la Constitución, con carpa, mesa y cinco sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Enfermos de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594714R",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para la asamblea de la S.A.T. Pozo Pajonares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos de la Casa Consistorial a la S.A.T. Pozo Pajonares para su asamblea general de socios el 7 de abril.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Pozo Pajonares",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598747T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para una charla de la Asociación TEA Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' a la Asociación TEA Yecla para una charla-coloquio el 9 de abril, con una rebaja del 100 % del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación TEA Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada, exenta del precio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600316Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la 3.ª planta de la Casa Consistorial para la boda civil de dos particulares el 26 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600343K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Encuentro coral del IES Felipe VI en el anfiteatro de la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES Felipe VI a celebrar un encuentro-concierto coral en el anfiteatro de la Iglesia Vieja el 23 de mayo por la mañana, con seguro, fianza de limpieza de 400 €, límite de 85 dB y aforo de 500 personas sentadas.",
+      "entidades": [
+        {
+          "nombre": "IES Felipe VI",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593417Q",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Graduación del CEIP San José de Calasanz en la explanada de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP San José de Calasanz a celebrar la graduación de 6.º de Primaria el 22 de junio en la explanada de la Iglesia de San Francisco, con 150 sillas municipales y una fianza de limpieza de 200 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594077H",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Edificio Bioclimático para un proyecto Erasmus+ del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático al IES José Luis Castillo Puche del 25 al 28 de abril para actividades del programa Erasmus+ 'Bioeconomy4future'.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602431K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Se archiva la oferta de venta de una finca en el Arabí al Ayuntamiento",
+      "categoria": "patrimonio",
+      "resumen": "Se declara caducado y se archiva el expediente por el que un particular ofrecía vender al Ayuntamiento una finca en el paraje del Arabí, porque no presentó la documentación de propiedad que se le pidió.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "547937Z",
+      "lugar": "Paraje del Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "7.000 € para el seminario de la Universidad Internacional del Mar sobre villas romanas",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio de 2022 con la Universidad de Murcia para las actividades de la Universidad Internacional del Mar en Yecla; el Ayuntamiento aporta 7.000 € para el seminario internacional 'Villas y palacios imperiales de época romana' (29 de septiembre a 1 de octubre).",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "recibe la aportación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595741T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Proyecto de carril bici y peatonal en la avenida Cruz Roja: 330.000 €",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba el proyecto de pavimentación y señalización de vías ciclables y peatonales en la avenida Cruz Roja (travesía T-424), por 329.999,97 € (IVA incluido), y se envía a la Consejería de Fomento, que lo subvenciona con hasta 330.000 € por convenio y cederá al Ayuntamiento tramos de la RM-A19 y la T-424.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona hasta 330.000 € y cede las travesías"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 329999.97,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "553367Q",
+      "lugar": "Avenida Cruz Roja (travesía T-424)",
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Bases para elegir las exposiciones del festival CreAcción 2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la convocatoria y bases para seleccionar proyectos expositivos del Festival CreAcción 2022 (24 a 29 de mayo), con un presupuesto de 5.350 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5350.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602257T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Escuela Infantil de Semana Santa 2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela Infantil Municipal de Semana Santa (11 a 13 de abril), con un gasto de 2.178 € (IVA incluido) y un precio de 5 € por niño y día o 15 € los tres días.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2178.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598610D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Escuela de Vacaciones de Semana Santa 2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela Municipal de Vacaciones de Semana Santa (11 a 19 de abril) para niños de 3 a 12 años con padres que trabajan o se forman, con un gasto de 4.715,25 €; está subvencionada por la CARM con fondos europeos (FSE, 80 %) para la conciliación.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona (cofinanciado por el Fondo Social Europeo)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4715.25,
+      "importes": [
+        {
+          "concepto": "Servicio de la escuela",
+          "eur": 4065.6,
+          "entidad": null
+        },
+        {
+          "concepto": "Limpieza de las instalaciones",
+          "eur": 649.65,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598620R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Puesto de caracoles en el mercado de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se adjudica provisionalmente a una particular un puesto de venta de caracoles en el mercado de San Cayetano del 1 de marzo al 31 de agosto, a 6,86 € por metro y mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "592457H",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Contratación de un pintor del programa de empleo +Empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata a un particular como oficial 2.ª pintor para el programa de empleo público local '+Empleo: mejora de edificios y espacios públicos 2021', subvencionado por el SEF, y el otro aspirante aprobado queda en bolsa.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona el programa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599126W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Nombramiento de un inspector de obras interino",
+      "categoria": "personal",
+      "resumen": "Se nombra un funcionario interino de inspector de obras-auxiliar (de la bolsa aprobada el 15 de marzo), por un máximo de tres años, porque sin él no se puede hacer la inspección urbanística que exige la ley.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "601456F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Calendario laboral 2022 de la Brigada de Obras y Servicios",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario laboral de 2022 del personal de la Brigada Municipal de Obras y de Servicios Públicos, con 1.592 horas anuales y vacaciones en el periodo de horario reducido de verano.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "565236A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Corrección de un error en el concurso de control de plagas y legionela",
+      "categoria": "contrato",
+      "resumen": "Se corrige la puntuación de tres mejoras del lote 2 en el pliego del contrato de control de plagas urbanas, mosquitos y prevención de la legionela (C.SE. 4/22), que decía 5, 5 y 20 puntos en lugar de 10, 10 y 10, y se amplía el plazo de ofertas hasta el 28 de marzo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585800M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Los puestos del Mercado Central y del mercadillo de los miércoles se trasladan por obras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por las obras de remodelación del Mercado Central, sus puestos (salvo los de pescado, con acceso exterior) y los del mercadillo de los miércoles de alrededor se trasladan temporalmente a las calles San Francisco y San Pascual y al Parque de la Constitución; volverán al acabar las obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "547900Y",
+      "lugar": "Calles San Francisco y San Pascual y Parque de la Constitución",
+      "interes": 3
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Puesto en el Parque de la Constitución para alumnos del IES Azorín (ToPaTi)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES Azorín a instalar un puesto el 30 de marzo en el Parque de la Constitución para la práctica de la cooperativa escolar 'ToPaTi', con carpa, mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598161E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Puesto en el Parque de la Constitución para alumnos del IES Azorín (Macutinho)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES Azorín a instalar un puesto el 30 de marzo en el Parque de la Constitución para la práctica de la cooperativa escolar 'Macutinho', con carpa, mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595696F",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Yecla será sede de una prueba selectiva del Festival del Cante de las Minas",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con la Fundación Cante de las Minas de La Unión para que Yecla acoja una de las pruebas selectivas de cante, toque y baile flamencos del LXI Festival Internacional del Cante de las Minas, con gastos de 3.600 € y 1.512,50 €.",
+      "entidades": [
+        {
+          "nombre": "Fundación Cante de las Minas de La Unión",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "organiza el festival"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5112.5,
+      "importes": [
+        {
+          "concepto": "Gasto 1 (RC 5481/22)",
+          "eur": 3600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2 (RC 5491/22)",
+          "eur": 1512.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602931E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Permiso para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en una parcela a menos de 1.500 m de las viviendas, solo miércoles y jueves de 13 a 14 h entre el 30 de marzo y el 26 de mayo, cumpliendo las normas de incendios y fitosanitarias.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602549Z",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

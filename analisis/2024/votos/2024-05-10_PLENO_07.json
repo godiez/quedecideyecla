@@ -1,0 +1,43 @@
+{
+  "doc": "2024-05-10_PLENO_07",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria con 20 asistentes: falta un concejal del PSOE (el acta da 8 votos en contra de PSOE e IU-Verdes). Las enmiendas de PSOE e IU-Verdes al presupuesto se mencionan en el debate pero el acta no recoge su votación en Pleno.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 6,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno, por doce votos a favor (Grupos M. Popular y Vox) y ocho en contra (Grupos M. Socialista e Izquierda Unida-Verdes), adopta los siguientes acuerdos"
+    }
+  ]
+}

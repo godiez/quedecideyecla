@@ -1,0 +1,875 @@
+{
+  "doc": "2026-04-14_JGL_19",
+  "organo": "JGL",
+  "sesion": 19,
+  "fecha": "2026-04-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 44,
+  "resumen": "La Junta abre la licitación del museo del vino Casa de los Arcos (163.000 € de fondos europeos) y contrata actuaciones para San Isidro y el teatro. Aprueba el programa de San Marcos y la I Fiesta de la Empanada, convoca dos plazas de técnico y publica los admitidos a limpiador/a. También concede descuentos fiscales por familia numerosa y placas solares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 7 de abril de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: seguro municipal, comedor infantil y Semana Santa",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban pagos a cinco empresas, el mayor el seguro de daños de los edificios municipales (30.657 €).",
+      "entidades": [
+        {
+          "nombre": "Occident GCO, S.A.U. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zero Suite, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Automecánica Ruiz, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cúpula Creativa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64433.54,
+      "importes": [
+        {
+          "concepto": "Seguro de daños materiales del Ayuntamiento (lote 2, abril 2026-abril 2027, acuerdo marco FEMP)",
+          "eur": 30657.34,
+          "entidad": "Occident GCO, S.A.U. de Seguros y Reaseguros"
+        },
+        {
+          "concepto": "Servicio de comedor de la Escuela Infantil El Parque, febrero 2026",
+          "eur": 8285.34,
+          "entidad": "Zero Suite, S.L."
+        },
+        {
+          "concepto": "Reparación del motor de un camión de la Brigada de Festejos",
+          "eur": 6455.14,
+          "entidad": "Automecánica Ruiz, S.L."
+        },
+        {
+          "concepto": "Carpa para la salida de tronos de Semana Santa 2026",
+          "eur": 11966.9,
+          "entidad": "Cúpula Creativa, S.L."
+        },
+        {
+          "concepto": "Producción e infraestructura para actos y procesiones de Semana Santa 2026",
+          "eur": 7068.82,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036896J, 1178792M, 1235549Q, 1250724R, 1256048M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Descuentos en agua y basura para familias numerosas o monoparentales",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la tarifa reducida de agua y un 11,11% de descuento en la tasa de basura a las familias de la lista del expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057742M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.3-2.6",
+      "titulo": "Denegadas y retiradas bonificaciones de familia numerosa en agua y basura",
+      "categoria": "fiscal",
+      "resumen": "Se deniegan bonificaciones a varios solicitantes (no son titulares del contrato de agua, no es su vivienda habitual o el título no estaba en vigor) y se retiran a quienes cambiaron de domicilio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1057742M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.7-2.9",
+      "titulo": "Descuentos en ICIO e IBI por placas solares en viviendas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a dos particulares el 90% de descuento del impuesto de obras (ICIO) y el 50% del IBI (máx. 100 €/año, 2026-2030) por instalar placas solares de autoconsumo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078182A, 1263263H",
+      "lugar": "Parajes Las Moratillas y Las Balsillas (diseminado)",
+      "interes": 1
+    },
+    {
+      "ref": "2.10-2.11",
+      "titulo": "Recaudación de taquilla de dos espectáculos del Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas: clausura de la III Semana del Teatro (756 € recaudados) y el musical 'La Bella Durmiente' (2.040 €); se dan de baja las entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2796.0,
+      "importes": [
+        {
+          "concepto": "Taquilla Clausura III Semana del Teatro (26/03/26)",
+          "eur": 756.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla musical La Bella Durmiente (28/03/26)",
+          "eur": 2040.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Licencia para dividir una finca agrícola de regadío en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a un particular segregar una parcela de 26.564 m² de una finca de viñedo de 55.184 m²; cumple la unidad mínima de cultivo y no crea núcleo de población.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1234751H",
+      "lugar": "Polígono 29 (suelo no urbanizable, regadío)",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oposiciones a 3 plazas de limpiador/a: lista de admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 61 aspirantes admitidos, se nombra el tribunal y se fija la valoración de méritos el 25 de mayo y el examen tipo test el 28 de mayo de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1082971C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Convocatoria de 2 plazas de Técnico de Administración General",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases para cubrir por concurso-oposición dos plazas de TAG (jefaturas de Urbanismo jurídico y de Recursos Humanos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1256687Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3-4.4",
+      "titulo": "Excedencia de dos auxiliares administrativas que pasan a otro puesto público",
+      "categoria": "personal",
+      "resumen": "Dos funcionarias pasan a excedencia por incompatibilidad al tomar posesión como administrativas (una en Yecla y otra en el Ayuntamiento de Caudete).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264220M, 1264269E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Reingreso de un funcionario tras excedencia",
+      "categoria": "personal",
+      "resumen": "Un funcionario vuelve a su puesto de Auxiliar-Inspector de Servicios Públicos desde el 15 de abril de 2026 tras dos años de excedencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "910303K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Petición de segunda actividad de un agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se pide al agente información médica y se pondrá en marcha un tribunal médico para valorar su paso a segunda actividad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1239548W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7-4.11",
+      "titulo": "Asistencia de personal municipal a reuniones y cursos",
+      "categoria": "personal",
+      "resumen": "Se ordena a varias trabajadoras de Servicios Sociales, CAVI y Gestión Tributaria asistir a reuniones y cursos (Murcia, Cieza, Albacete) pagando el Ayuntamiento el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213842R, 1260794D, 1260800M, 1260610Y, 1259680F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación de la musealización del Centro Enoturístico Casa de los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado) del suministro e instalación de los contenidos del museo del vino Casa de los Arcos, con fondos europeos Next Generation, por 163.091,53 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta el pliego técnico"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 163091.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1259015H",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato del Mirador Turístico Digital de Yecla",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 18.089,50 € el servicio 'Mirador Turístico Digital', financiado por la Consejería de Turismo.",
+      "entidades": [
+        {
+          "nombre": "Proyectos Inmersivos, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18089.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241177H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Mantenimiento de licencias Oracle 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la renovación del mantenimiento informático de Oracle por 10.837,56 €.",
+      "entidades": [
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10837.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261147T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Compra de un etilómetro para la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro de un etilómetro evidencial por 10.041,79 €.",
+      "entidades": [
+        {
+          "nombre": "Grupo Tecnología del Tráfico, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10041.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258789T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Orquesta 'La Mundial Show' para San Isidro 2026",
+      "categoria": "contrato",
+      "resumen": "Se contrata la actuación de la orquesta el 15 de mayo por 14.890 €.",
+      "entidades": [
+        {
+          "nombre": "Gestión Comercial, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14890.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1263342R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Actuación de 'Voy a Pasármelo G' en San Isidro 2026",
+      "categoria": "contrato",
+      "resumen": "Se contrata la actuación del grupo el 14 de mayo por 7.495 €.",
+      "entidades": [
+        {
+          "nombre": "La Cartagenera de Espectáculos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7495.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1263358P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Adjudicación del bar de las Fiestas de San Isidro 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el servicio de bar de las fiestas; el adjudicatario paga al Ayuntamiento 9.112 € y deja 1.000 € de garantía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 9112.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243284J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para la Pizzería Milano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 32 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [
+        {
+          "nombre": "Pizzería Milano Pakeuropa2022, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238445N",
+      "lugar": "Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Denegada la ampliación de terraza del Bar El Ventorrillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza ampliar la terraza los fines de semana porque la actual ya ocupa el máximo y afectaría al tráfico y a los vecinos.",
+      "entidades": [
+        {
+          "nombre": "Bar El Ventorrillo",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1248327N",
+      "lugar": "Calle Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Bases de los chiringuitos de la Cabalgata de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las bases para instalar chiringuitos en la Cabalgata de Carrozas del 16 de mayo de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260693N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Concentración de bicicletas clásicas 'Las Galgas'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la X Concentración de Bicicletas Clásicas el 3 de mayo y el uso de un salón junto a la Iglesia de San Francisco para una exposición.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural de Bicicletas Clásicas Las Galgas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1250259X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Ofrendas florales a la Virgen del Castillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de dos ofrendas florales los días 9 y 23 de mayo, con escolta de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261541Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Almuerzo popular en la calle San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa a la espera de informes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1241277X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Puesto en el mercado para detección precoz de la diabetes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan dos puestos en el mercado de la Plaza Mayor el 27 de mayo y se prestan carpas, mesas y sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1262880A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1-7.3",
+      "titulo": "Uso de salones de la Casa Consistorial para tres bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a tres parejas el uso del Salón de Plenos o de Sesiones para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1259761T, 1259268J, 1259660D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Auditorio gratis para la asociación ARY",
+      "categoria": "fiscal",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 20 de junio para el Día contra las drogas, con reducción del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de problemas con el Alcohol, las Drogas y otras Conductas Adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261293X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Capilla de San Francisco para un concierto solidario",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la Capilla de la Virgen de las Angustias el 18 de abril para un concierto del programa Respiro Familiar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261975T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Viudas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones el 21 de abril para una charla.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Viudas La Purísima de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1262927Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Permiso para hacer fuego en la Romería de San Marcos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se pide a la Dirección General del Medio Natural permiso para encender fuego en el Cerrico de la Fuente el 26 de abril para gachasmigas y paellas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260618J",
+      "lugar": "Área recreativa Cerrico de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa y presupuesto de las Fiestas de San Marcos 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa con un gasto de 9.510,60 € y precios de inscripción (paella 5 €/ración, gachasmigas 6 €) y el jurado del concurso.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9510.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260545H",
+      "lugar": "Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "I Fiesta de la Empanada de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba organizar la fiesta el 25 de abril con un gasto de 6.000 € (Comercio y Juventud).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264188R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Nueva fecha para la carrera benéfica del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza trasladar la carrera solidaria al 17 de abril por mal tiempo.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216570F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Colaboración con la IV Milla Solidaria del CEIP Miguel Ortuño",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se colabora con la carrera del 19 de abril y se ceden gratis instalaciones deportivas valoradas en 310 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 310.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1166449T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Voluntarios de Protección Civil a una carrera en Montealegre del Castillo",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a la agrupación de voluntarios a colaborar en una carrera popular el 18 de abril.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244620P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Inscripción de la Asociación Alternativa Chirigotera Yeclana en el registro de entidades",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe en el Registro de Entidades de Interés Municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación Alternativa Chirigotera Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1067335K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Inscripción de Unión Agraria de la Región de Murcia en el registro de entidades",
+      "categoria": "organizacion",
+      "resumen": "Se deja sobre la mesa para más estudio.",
+      "entidades": [
+        {
+          "nombre": "Unión Agraria de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1263030J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Zanja en un camino público para tubería de riego",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la empresa abrir una zanja en el camino CRC-23 para una tubería de riego, con fianza de 300 €.",
+      "entidades": [
+        {
+          "nombre": "Agrícola Jimbo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1259052J",
+      "lugar": "Camino de la Umbría del Factor, polígono 110",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Denegada tarjeta de residente de zona azul",
+      "categoria": "otros",
+      "resumen": "Se deniega a una vecina la tarjeta de residente por tener deudas con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1261618Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Plan de seguridad de las obras del castillo (Hisn Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de las obras de conservación y restauración del castillo, fase I lote 2.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "17.1-17.2",
+      "titulo": "Profesoras para un curso del SEF de atención sociosanitaria",
+      "categoria": "contrato",
+      "resumen": "Se adjudican a dos particulares la impartición de módulos del curso por 6.016 € y 9.823 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 15839.0,
+      "importes": [
+        {
+          "concepto": "Módulos MF1017_2 y MF1018_2",
+          "eur": 6016.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Módulos MF1016_2 y MF1019_2",
+          "eur": 9823.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264393C, 1264318Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Espectáculo 'Los Lunes al Sol' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata la función del 18 de abril por 8.349 €.",
+      "entidades": [
+        {
+          "nombre": "Azul Producciones Escénicas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8349.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1263460F",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

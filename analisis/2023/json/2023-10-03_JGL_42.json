@@ -1,0 +1,1233 @@
+{
+  "doc": "2023-10-03_JGL_42",
+  "organo": "JGL",
+  "sesion": 42,
+  "fecha": "2023-10-03",
+  "tipo_sesion": "ordinaria",
+  "paginas": 53,
+  "resumen": "La Junta de Gobierno paga 221.730 euros en facturas (sobre todo mantenimiento de instalaciones deportivas, el concierto de Second en la Feria y una obra de alcantarillado en la calle Hospital) y compra terrenos: dos parcelas del yacimiento romano de Los Torrejones por 11.645 euros y dos solares en la Avenida de Murcia para calles, zona verde y una escuela infantil por 222.124 euros. Da licencia a una planta solar de casi 10 MW en La Arboreda, contrata tres conciertos del Festival de Jazz y abre expediente de sanción a Eulen por retrasos en las viviendas del proyecto Housing First. Además autoriza una carrera ciclista, la reforestación del Arabí y el uso de salas por asociaciones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 26 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas del SEF y de la CARM y luto por el incendio de Murcia",
+      "categoria": "informacion",
+      "resumen": "Se informa de la liquidación de una subvención del Servicio Regional de Empleo y Formación para un curso de tapizado, de la concesión y pago de ayudas de la Consejería de Política Social para atender a mujeres víctimas de violencia de género (Pacto de Estado) y de las actuaciones municipales por el luto oficial por las víctimas del incendio de las discotecas de Murcia. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "823892W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: deportes, concierto de Second, alcantarillado y Feria",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: el mantenimiento y limpieza de las instalaciones deportivas de agosto, el concierto de Second en el Recinto Ferial, la renovación del alcantarillado de la calle Hospital, los aseos portátiles y la seguridad de la Feria 2023 y una actuación musical de la Feria.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Demasiado Soñadores, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asemovil La Habana, S.C.V.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Selec Global Security, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 221730.42,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas municipales, agosto 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Concierto de 'Second' en el Recinto Ferial, Feria de Septiembre 2023",
+          "eur": 72600.0,
+          "entidad": "Demasiado Soñadores, S.L."
+        },
+        {
+          "concepto": "Renovación de alcantarillado en calle Hospital (entre Placeta Ortega y calle Miguel Palao)",
+          "eur": 39930.0,
+          "entidad": "Construcciones Martínez Sánchez e Hijo, S.L."
+        },
+        {
+          "concepto": "Aseos móviles Feria 2023",
+          "eur": 17182.0,
+          "entidad": "Asemovil La Habana, S.C.V."
+        },
+        {
+          "concepto": "Seguridad de conciertos y actuaciones Feria 2023",
+          "eur": 10030.9,
+          "entidad": "Selec Global Security, S.A."
+        },
+        {
+          "concepto": "Actuación 'Conexión Remember', Feria 2023",
+          "eur": 6292.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 805881E, 794906M, 814553Z, 814916D, 815009H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación de taquilla del espectáculo 'Agón' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo 'Agón' (17 de junio): se vendieron 288 euros en entradas y se dan de baja 3.204 euros de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 288.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del IBI del 50% por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50% del IBI de 2024 a 2028 (máximo 100 euros al año) por instalar placas solares de autoconsumo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823826D",
+      "lugar": "paraje Las Moratillas",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a dos particulares la bonificación del IBI por placas solares porque la instalación costó 4.938 euros, menos de los 6.000 que exige la ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "824443K",
+      "lugar": "paraje Pedazo Blanco (Ctra. de Almansa)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para reformar y legalizar una vivienda en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico) para reformar una vivienda aislada y legalizar obras que ya estaba haciendo; deberá presentar proyecto de ejecución, fosa séptica y autorización de vertido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729804R",
+      "lugar": "paraje Hoya del Río",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para la planta solar 'FV La Arboreda' de 9,94 MW",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Exiom Planta Fotovoltaica V, S.L. licencia urbanística para construir una planta fotovoltaica conectada a red de 9,94 MWp. La línea de evacuación irá enterrada por caminos públicos y no podrá afectar a una zona verde; ya tenía declaración de impacto ambiental y licencia de actividad.",
+      "entidades": [
+        {
+          "nombre": "Exiom Planta Fotovoltaica V, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784050J",
+      "lugar": "paraje La Arboreda, polígono 38, parcelas 147 y 155",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para construir una vivienda con garaje en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico) para construir una vivienda unifamiliar aislada con garaje; antes de empezar debe acreditar que la parcela figura como de regadío en el SIGPAC.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "648482W",
+      "lugar": "paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para reformar una vivienda en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para reformar una vivienda aislada. Como está en zona inundable, deberá firmar que conoce y asume el riesgo y anotarlo en el Registro de la Propiedad; el agua tendrá que venir de depósitos al no haber red.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799910M",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de dueño y de director de obra de una licencia de vivienda de 2007",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia de 2007 para construir una vivienda aislada pasa a otro particular y de los nuevos técnicos que dirigen la obra.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "773442A",
+      "lugar": "paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Cambio de técnicos en la obra de cuatro naves de Proyecto Denver",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de obra, director de ejecución y coordinador de seguridad en la construcción de cuatro naves industriales de Proyecto Denver, S.L.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular de licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "785924M",
+      "lugar": "polígono Las Teresas, calle Miguel Servet",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un limpiador para sustituir una baja en el CEIP Méndez Núñez",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un limpiador para cubrir la baja de la limpiadora del colegio Méndez Núñez, que no puede cubrir la contrata T.S.I. Levante, S.L.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de limpieza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824998F",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Cambio de horario de un auxiliar delineante para cuidar a su hijo",
+      "categoria": "personal",
+      "resumen": "Se autoriza de forma excepcional un horario distinto a un auxiliar delineante hasta que su hijo cumpla 12 años, sin cobrar plus por jornada partida.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824854F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Una auxiliar administrativa vuelve a la jornada completa",
+      "categoria": "personal",
+      "resumen": "Se declara el fin de la reducción de jornada por cuidado de hijo de una auxiliar administrativa de Secretaría, que vuelve a jornada completa desde el 1 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505822F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegado a un policía local, concejal en Elda, pasar a servicios especiales",
+      "categoria": "personal",
+      "resumen": "Un agente de la Policía Local en excedencia, que ahora es concejal del Ayuntamiento de Elda, pide pasar a servicios especiales. Se deniega porque su dedicación en Elda es parcial y la ley exige dedicación exclusiva.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Elda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "821951Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Permiso de lactancia acumulado y vacaciones para una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil acumular la hora de lactancia en un permiso del 20 de octubre al 30 de noviembre y luego sus vacaciones hasta el 8 de enero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823961Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Permiso de lactancia de una hora diaria para un técnico municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a un técnico municipal una hora diaria de permiso por lactancia del 2 de octubre al 24 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825382P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Viaje de la directora de Atención Temprana a una reunión en Abarán",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora del Centro de Desarrollo Infantil y Atención Temprana asistir a una reunión de la Consejería de Educación en Abarán, pagando el Ayuntamiento el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824870D",
+      "lugar": "Abarán",
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Denegada a una técnica de Educación Infantil una reclamación de nómina",
+      "categoria": "personal",
+      "resumen": "Una técnica reclamaba 747 euros que creía descontados en su nómina por una baja; se deniega porque no hubo descuento real, solo una corrección de conceptos en la nómina de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "818985E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Nuevas bolsas de empleo de arquitectos, aparejadores e ingenieros técnicos",
+      "categoria": "personal",
+      "resumen": "Se encarga redactar las bases de nuevas bolsas de empleo para nombrar interinos de arquitecto, arquitecto técnico e ingeniero técnico industrial, porque las actuales son muy antiguas y no sirven; las viejas desaparecerán.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823144F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Concierto de 'Swing Machine Orchestra' en el Festival de Jazz 2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Cast Artists Producciones, S.L. el concierto de Swing Machine Orchestra para el Festival de Jazz de Yecla 2023.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7865.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814670M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Concierto de Viktorija Pilatovic en el Festival de Jazz 2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Cast Artists Producciones, S.L. el concierto de Viktorija Pilatovic para el Festival de Jazz de Yecla 2023.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8470.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814673Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Concierto de 'Eme Eme Project' en el Festival de Jazz 2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Cast Artists Producciones, S.L. el concierto de Eme Eme Project para el Festival de Jazz de Yecla 2023.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6655.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814675T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salida a caballo de la Peña de Amigos del Caballo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña de Amigos del Caballo de Yecla una salida a caballo por los alrededores del pueblo el 7 de octubre, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Peña de Amigos del Caballo de Yecla",
+          "cif": null,
+          "tipo": "peña",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824886A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Denegada una plaza para personas con discapacidad en la calle Corredera",
+      "categoria": "via_publica_eventos",
+      "resumen": "ADFY pedía una plaza de aparcamiento reservada para un usuario con tarjeta de movilidad reducida. Se deniega porque la calle es zona ORA con mucha rotación y plazas libres.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "818546W",
+      "lugar": "calle Corredera",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Peluqueras de Yecla a usar la sala de reuniones del Centro de Emprendimiento para formación los días 16 y 30 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825749Z",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular a usar una sala del Edificio Bioclimático para una reunión de un club de lectura el 4 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822482M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón del Edificio Bioclimático para la Asociación de vecinos del Lentiscar y la Pujola",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de vecinos del Lentiscar y la Pujola a usar el salón de actos del Edificio Bioclimático para una reunión informativa el 19 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de vecinos del Lentiscar y la Pujola",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823752A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Boda civil en la Casa Consistorial (4 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la 3ª planta del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821766R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Boda civil en la Casa Consistorial (11 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la 3ª planta del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823352W",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Boda civil en la Casa Consistorial (18 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la 3ª planta del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823863E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Boda civil en el Salón de Plenos (28 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Plenos de la 1ª planta del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788930M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Misa de Pajes de la Purísima en la Iglesia de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima Concepción a celebrar la Misa de Pajes en la Iglesia de San Francisco el 6 de diciembre; los gastos de sonido, luz y SGAE corren por cuenta de la organización.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Parroquia de la Purísima",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820999C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Sala gratis en el Pabellón Ortega Chumilla para un curso de baloncesto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede gratis a Red Deportiva Yecla una sala del Pabellón José Ortega Chumilla para un curso de auxiliares de mesa de baloncesto el 8 de octubre (uso valorado en 77,20 euros).",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión gratuita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 77.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821812F",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Auditorio para el concierto de Navidad de una escuela de canto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular (escuela de canto) a usar el Auditorio Municipal Juan Miguel Benedito para un concierto de Navidad el 15 de diciembre, pagando 400 euros de precio público.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga precio público"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823284A",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.11",
+      "titulo": "Auditorio para la graduación del CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio San José de Calasanz a usar el Auditorio Municipal para la graduación de sexto el 20 de junio de 2024, pagando 120 euros de precio público.",
+      "entidades": [
+        {
+          "nombre": "CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "paga precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824517N",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Se pide renovar la Bandera Sendero Azul de las Pasarelas y la Molineta",
+      "categoria": "medio_ambiente",
+      "resumen": "Se solicita renovar el galardón Bandera Sendero Azul, obtenido en enero de 2023, para el sendero de las Pasarelas del Yecla Valora y el Mirador de la Molineta, con un gasto de 250 euros, y se autoriza a la alcaldesa a firmar el compromiso con ADEAC.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Educación Ambiental y del Consumidor (ADEAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825290M",
+      "lugar": "Pasarelas del Yecla Valora y Mirador de la Molineta",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Horario especial de tarde del Mercado de San Cayetano en octubre",
+      "categoria": "servicios_actividades",
+      "resumen": "El Mercado de San Cayetano abrirá por la tarde (17:30 a 21:30) los días 11 y 31 de octubre, y se autoriza contratar servicios externos para ello.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823385Q",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "IV Carrera ciclista 'Ciudad de Yecla' en la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Ciclista Altiplano, con la Federación de Ciclismo de la Región de Murcia, a celebrar la IV Carrera 'Ciudad de Yecla' el 8 de octubre en un circuito urbano, con colaboración municipal y un gasto para el Ayuntamiento de 550 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Altiplano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 550.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "818469N, 825768A",
+      "lugar": "entorno de la Avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Compra de dos parcelas del yacimiento romano de Los Torrejones",
+      "categoria": "patrimonio",
+      "resumen": "El Ayuntamiento compra a dos particulares dos parcelas (3.125 y 5.501 m²) dentro de la zona de máxima protección del yacimiento arqueológico de Los Torrejones, por 4.218,75 y 7.426,35 euros, para proteger los restos y completar la propiedad municipal del yacimiento.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "vende"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11645.1,
+      "importes": [
+        {
+          "concepto": "Parcela 294 del polígono 45 (3.125 m²)",
+          "eur": 4218.75,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Parcela 280 del polígono 45 (5.501 m²)",
+          "eur": 7426.35,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "226507T",
+      "lugar": "paraje de Los Torrejones, polígono 45, parcelas 280 y 294",
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Compra de solares en la Avenida de Murcia para calles, zona verde y escuela infantil",
+      "categoria": "patrimonio",
+      "resumen": "El Ayuntamiento compra a varios particulares dos terrenos que el Plan General destina a calles, a la zona verde V-18 y a un equipamiento preescolar (G-4): 2.776,74 m² por 188.568,41 euros y 494,12 m² por 33.555,69 euros, a 67,91 euros/m². Los dueños los ofrecieron en 2021 porque no podían edificarlos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "vende"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 222124.1,
+      "importes": [
+        {
+          "concepto": "Terreno de 2.776,74 m² en calle Primero de Mayo / Avenida de Murcia / calle Tallista Pedro Ortega (viales y equipamiento G-4 Preescolar)",
+          "eur": 188568.41,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Terreno de 494,12 m² en calle Arabí / Avenida de Murcia / calle Tallista Pedro Ortega (viales y zona verde V-18)",
+          "eur": 33555.69,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "534727C, 534741X",
+      "lugar": "Avenida de Murcia, calles Primero de Mayo, Arabí y Tallista Pedro Ortega",
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Zanjas en caminos públicos para una tubería de riego del Mollidar-El Portichuelo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Comunidad de Regantes de la Hoya del Mollidar-El Portichuelo a abrir zanjas en caminos públicos para instalar una tubería de riego, siempre que antes obtenga el permiso urbanístico.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes de la Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "806225H",
+      "lugar": "Hoya del Mollidar-El Portichuelo",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Denegada el agua potable a una parcela sin urbanizar",
+      "categoria": "otros",
+      "resumen": "Se deniega a un particular el suministro de agua potable a una parcela de suelo urbano sin urbanizar donde no hay ninguna edificación con licencia; habría que hacer antes las obras de urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "821836P",
+      "lugar": "Travesía de la Feria / calle Lomica",
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Tarjeta de residente en zona azul: se deja sobre la mesa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aplaza la solicitud de un vecino porque en realidad es un cambio de vehículo, no una nueva tarjeta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "823504F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Tarjeta de residente en zona azul concedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814466D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Tarjeta de residente en zona azul denegada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la tarjeta de residente en zona azul a un vecino porque no es el titular del vehículo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "816676Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Plan de seguridad de la obra del campo de fútbol nº 2 del Juan Palao",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de J. J. Gómez, S.L.U. para reparar el terreno de juego del campo de fútbol nº 2 del polideportivo Juan Palao.",
+      "entidades": [
+        {
+          "nombre": "J. J. Gómez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816423X",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "18.1",
+      "titulo": "Selección urgente de una ordenanza-telefonista para Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF candidatos y se aprueban las bases para contratar una ordenanza-telefonista que sustituya una baja en el Centro de Servicios Sociales, necesaria para cumplir las condiciones de la subvención regional.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "817650A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.2",
+      "titulo": "Contratación de un trabajador social para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un trabajador social hasta fin de año para sustituir una baja, porque se estaban retrasando las ayudas básicas de alimentación, alquiler y suministros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696092W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "18.3",
+      "titulo": "Contratación de un auxiliar de biblioteca para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un auxiliar de biblioteca para sustituir una baja y mantener la atención al público.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826552P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.4",
+      "titulo": "Curso de protección de la infancia para una psicóloga de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se ordena a una psicóloga de Servicios Sociales asistir a un curso del Colegio Oficial de Psicología; el Ayuntamiento paga la inscripción (180 euros) y los viajes.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Psicología de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 180.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825085C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.5",
+      "titulo": "Expediente de sanción a Eulen por retrasos en las viviendas de Housing First",
+      "categoria": "reclamaciones",
+      "resumen": "Eulen Servicios Sociosanitarios tardó en tener disponibles las cuatro viviendas del proyecto Housing First (fondos Next Generation EU). Se le exige devolver 2.025,50 euros por servicios no prestados y se le abre expediente por dos faltas leves y dos graves, con multas propuestas de 2.384,10 euros; tiene diez días para alegar.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "sancionada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4409.6,
+      "importes": [
+        {
+          "concepto": "Reintegro del coste de servicios no prestados",
+          "eur": 2025.5,
+          "entidad": "Eulen Servicios Sociosanitarios, S.L."
+        },
+        {
+          "concepto": "Penalidad propuesta vivienda 1 (leve)",
+          "eur": 348.89,
+          "entidad": "Eulen Servicios Sociosanitarios, S.L."
+        },
+        {
+          "concepto": "Penalidad propuesta vivienda 2 (leve)",
+          "eur": 96.91,
+          "entidad": "Eulen Servicios Sociosanitarios, S.L."
+        },
+        {
+          "concepto": "Penalidad propuesta vivienda 3 (grave)",
+          "eur": 969.15,
+          "entidad": "Eulen Servicios Sociosanitarios, S.L."
+        },
+        {
+          "concepto": "Penalidad propuesta vivienda 4 (grave)",
+          "eur": 969.15,
+          "entidad": "Eulen Servicios Sociosanitarios, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825414J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "18.6",
+      "titulo": "Procesión del Rosario de la Aurora de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia del Niño Jesús la procesión del Rosario de la Aurora el 8 de octubre, con acompañamiento de la Policía Local si es posible.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "827030D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.7",
+      "titulo": "Salas del Edificio Bioclimático para el Club de Atletismo Yeclano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano a usar el salón de actos y salas del Edificio Bioclimático para reuniones durante el curso 2023/24.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "643634M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "18.8",
+      "titulo": "Salas del Edificio Bioclimático para el Grupo Scout los sábados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Grupo Scout de Yecla a usar salas del Edificio Bioclimático los sábados por la mañana del curso 2023/24.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Scout de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826150F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "18.9",
+      "titulo": "Salón del Edificio Bioclimático para la asamblea de Veteranos Yeclano CF",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Veteranos Yeclano CF a usar el salón de actos del Edificio Bioclimático para su asamblea extraordinaria del 5 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Veteranos Yeclano CF",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824835E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "18.10",
+      "titulo": "Nuevos representantes municipales en la comisión del convenio con el Catastro",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a la jefa de Gestión Tributaria como representante municipal (y a la jefa de Contabilidad como suplente) en la comisión de seguimiento del convenio de gestión catastral con la Dirección General del Catastro; se mantienen los demás.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "261519X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.11",
+      "titulo": "Programación de la Escuela Municipal de Bellas Artes 2023/24",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del curso de la Escuela de Bellas Artes: secciones infantil y de adultos, apoyo a Bachillerato de Artes, arteterapia, cursos, residencia de artistas, exposición y Festival de Cine Documental Ciudad de Yecla.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825765X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.12",
+      "titulo": "Campaña de reforestación 2023 en el monte Arabí con ANIDA",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la campaña municipal de reforestación de octubre con la asociación ANIDA, plantando flora autóctona en el monte Arabí, y se pide permiso a la Comunidad Autónoma por ser espacio protegido.",
+      "entidades": [
+        {
+          "nombre": "Asociación Naturalista para la Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826674J",
+      "lugar": "Monte Arabí",
+      "interes": 2
+    }
+  ]
+}

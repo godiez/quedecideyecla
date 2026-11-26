@@ -1,0 +1,1114 @@
+{
+  "doc": "2023-03-21_JGL_13",
+  "organo": "JGL",
+  "sesion": 13,
+  "fecha": "2023-03-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 40,
+  "resumen": "La Junta de Gobierno paga 404.264 euros en facturas (sobre todo basura y limpieza viaria, zonas verdes, deportes y el seguro municipal) y acepta una subvención regional de 466.353 euros para Servicios Sociales. Aprueba el presupuesto de las Fiestas de San Isidro (107.387 €) y de Semana Santa (24.684 €), el programa de conciliación Activa-Te (105.950 €) y las normas de matrícula de las escuelas infantiles 2023/24. También rebaja a la mitad el impuesto de obras de dos naves de Hékora Tapizados y avisa a Fibraworld de que no use las farolas en las retransmisiones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 14 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Plan Corresponsables, dinero extra del Estado y una concentración por robos en el campo",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de la Consejería de Política Social que autoriza contrataciones con la subvención del Plan Corresponsables; de un escrito del Ministerio de Hacienda sobre dinero adicional a los ayuntamientos por la liquidación negativa de la Participación en Tributos del Estado de 2020; y de un informe de la Policía Local sobre una concentración convocada por una vecina en la Plaza Mayor el 25 de marzo por la oleada de robos en los campos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza contratación"
+        },
+        {
+          "nombre": "Secretaría de Estado de Hacienda (Ministerio de Hacienda y Función Pública)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da financiación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Plaza Mayor",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza, seguro, informática, deportes y zonas verdes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 404.264,56 € en ocho facturas: recogida de basura y limpieza viaria de febrero, el seguro de responsabilidad civil 2023/24, material informático, mantenimiento de instalaciones deportivas y zonas verdes, socorrismo, la caldera de biomasa del Albergue Ramblizo y clases de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "MAPFRE España Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Bios Technology Solutions, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 404264.56,
+      "importes": [
+        {
+          "concepto": "Seguro de responsabilidad civil 2023/24",
+          "eur": 42488.76,
+          "entidad": "MAPFRE España Compañía de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Suministro de material informático",
+          "eur": 32379.6,
+          "entidad": "Bios Technology Solutions, S.L.U."
+        },
+        {
+          "concepto": "Calefacción con caldera de biomasa y radiadores en el Albergue Ramblizo (contrato menor de obras)",
+          "eur": 12130.25,
+          "entidad": "Hernández Servicios Climatización, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, febrero 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, febrero 2023",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, febrero 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, diciembre 2022",
+          "eur": 25848.49,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Clases de la Universidad Popular (artes plásticas y oficios artísticos), febrero 2023",
+          "eur": 6403.9,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543965H, 635003Z, 730042Y, 495804R, 508989E, 538849C, 470771Z, 628370M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de 'Bodas de sangre' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de las dos funciones de 'Bodas de sangre' (11 y 12 de marzo): 8.403,40 € recaudados y baja de 7.628,60 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8403.4,
+      "importes": [
+        {
+          "concepto": "Taquilla 11/03/2023",
+          "eur": 4936.8,
+          "entidad": null
+        },
+        {
+          "concepto": "Taquilla 12/03/2023",
+          "eur": 3466.6,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebajas del 95% en la tasa de basura para pensionistas con pocos ingresos",
+      "categoria": "fiscal",
+      "resumen": "Se conceden, deniegan y retiran (según listados del expediente) bonificaciones del 95% en la tasa de basura de 2023 a pensionistas y jubilados cuyos ingresos por persona no superan el IPREM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716477H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Vuelta al trabajo, lactancia y excedencia de una técnica de escuela infantil",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la reincorporación de una técnica de Educación Infantil tras su baja por maternidad y se le conceden vacaciones, permiso de lactancia acumulado y excedencia por cuidado de hijo en julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746305K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Corrección de las bases de dos plazas fijas de conserje-operario",
+      "categoria": "personal",
+      "resumen": "Se corrige un error en la hoja de autoevaluación de méritos publicada en el BORM: formación pasa a máximo 2,5 puntos y otros méritos a 1,5.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695941K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Contratación de una auxiliar de museos con un plan de empleo del SEF",
+      "categoria": "personal",
+      "resumen": "Se contrata a una auxiliar de museos para la Casa Municipal de Cultura, pagada por el programa de Empleo Público Local del SEF, y se crea una bolsa con dos suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741441E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Auxiliar administrativo interino para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino de la bolsa de 2019 para cubrir la única plaza de la Universidad Popular, que gestiona 57 cursos y 88 grupos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747619K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Plataforma de Recursos Humanos 2023-24 (Espúblico)",
+      "categoria": "contrato",
+      "resumen": "Se convalida la adjudicación de un contrato menor para la plataforma informática de Recursos Humanos, que se había aprobado por un órgano no competente.",
+      "entidades": [
+        {
+          "nombre": "Espúblico Servicios para la Administración, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8328.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746951H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Publicidad municipal en televisión y radio (Fibraworld)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para difundir actividades y servicios municipales en televisión y radio.",
+      "entidades": [
+        {
+          "nombre": "Fibraworld Telecom, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16000.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740963Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Telecomunicaciones adicionales y de respaldo (Fibraworld)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de servicios de telecomunicaciones adicionales y de respaldo.",
+      "entidades": [
+        {
+          "nombre": "Fibraworld Telecom, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11332.86,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745882Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Tamborada del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la tamborada del 29 de marzo (11:30-12:30) por las calles Hospital y Niño Jesús, con hasta 85 dB y patrulla de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744824D",
+      "lugar": "Calles Hospital y Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Reserva de calle para el Centro de Día San José: se aplaza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición de reservar vía pública ante el centro de día por necesidades sanitarias.",
+      "entidades": [
+        {
+          "nombre": "Centro de Día San José, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "736576Y",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Auditorio para la asamblea de la Comunidad de Regantes Hoya del Mollidar-Portichuelo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del auditorio el 28 de marzo para una asamblea extraordinaria, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744561N",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Auditorio gratis para una charla sobre salud mental del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el auditorio el 20 de abril para la conferencia 'El cuidado de la salud mental en la adolescencia', con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745488A",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio para la graduación del CEIP Alfonso X",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA el auditorio el 16 de junio para la graduación de 6º de primaria, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Alfonso X",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744514Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Auditorio para la graduación del CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA el auditorio el 22 de junio para la graduación de 6º de primaria, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673037Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Auditorio para la graduación de 2º de Bachillerato del IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA el auditorio el 23 de junio, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA del IES Felipe VI",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746665K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Auditorio para la graduación de 4º de ESO del IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA el auditorio el 26 de junio, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "AMPA del IES Felipe VI",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746860F",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Boda civil en el Salón de Plenos (13 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Plenos de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745521X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Normas de matrícula y bonificaciones de las escuelas infantiles para el curso 2023/24",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la oferta de plazas y las normas de matrícula, funcionamiento y bonificaciones de las escuelas infantiles municipales; el plazo de solicitudes y renovaciones será del 11 al 24 de abril de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747754Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Se piden 36.000 € a la CARM para la campaña de comercio 'Yeclanea 2023'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de promoción y dinamización del comercio local 'Yeclanea 2023' (36.000 €) y se solicita a la Consejería de Empresa la subvención por ese importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Economía Social y Autónomos (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748069K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Actividades de conciliación los fines de semana (marzo-junio)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación y un gasto de 17.593,40 € para actividades infantiles de fin de semana hasta el 25 de junio. Programa del Plan Corresponsables (subvención regional), para niños de 3 a 12 años con prioridad para familias monoparentales, víctimas de violencia de género, mujeres paradas de larga duración o con rentas bajas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17593.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683107K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela Municipal de Semana Santa 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la escuela para niños los días 3, 4, 5, 10 y 11 de abril, con un gasto de 4.715,25 €. Programa del Plan Corresponsables (subvención regional), para niños de 3 a 12 años con prioridad para familias monoparentales, víctimas de violencia de género, mujeres paradas de larga duración o con rentas bajas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4715.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "743518P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Rebajas en la cuota de escuela infantil para cuatro niños",
+      "categoria": "fiscal",
+      "resumen": "Se conceden bonificaciones por ingresos (75% o 100% de la cuota) a cuatro niños de las escuelas infantiles municipales en el curso 2022/23.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "720296M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Programa y presupuesto de las Fiestas de San Isidro 2023: 107.387,50 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de las Fiestas de San Isidro con un presupuesto total de 107.387,50 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 107387.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741555N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Zanja en camino público para una red eléctrica de Nuevos Campos Solares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Nuevos Campos Solares, S.L. abrir una zanja en un camino público (polígono 123, parcela 116) para una red de baja tensión, con fianza de 300 € y siempre que tenga la licencia urbanística.",
+      "entidades": [
+        {
+          "nombre": "Nuevos Campos Solares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744116W",
+      "lugar": "Polígono 123, parcela 116 (camino público)",
+      "interes": 2
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Tarifa reducida de agua para familias numerosas",
+      "categoria": "fiscal",
+      "resumen": "Se concede la tarifa especial de agua potable a las familias numerosas que figuran en el listado del expediente, mientras siga vigente su título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599951Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Denegada la tarifa de agua de familia numerosa por título caducado",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino porque su título de familia numerosa caducó en noviembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "599951Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Denegada la tarifa de agua de familia numerosa por no ser titular del contrato",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina porque no es la titular del contrato de agua de la vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "599951Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Rebaja del 50% del impuesto de obras a Hékora Tapizados por dos naves",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 50% del ICIO de la construcción de dos naves para fabricar muebles tapizados en la carretera Yecla-Pinoso (presupuesto de obra de 1.594.425,45 €; cuota de 52.616,03 €, por lo que el ahorro ronda los 26.308 €).",
+      "entidades": [
+        {
+          "nombre": "Hékora Tapizados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiario de bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26308.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "643122A",
+      "lugar": "Carretera Yecla-Pinoso, polígono 45",
+      "interes": 3
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Presupuesto de la Semana Santa 2023: 24.684 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el presupuesto municipal de la Semana Santa por 24.684 € (el acta dice 2022 por error).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 24684.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750094Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Corrección de las bases del concurso para la plaza de Secretario",
+      "categoria": "personal",
+      "resumen": "Se corrige la base tercera del concurso de méritos para cubrir de forma definitiva la Secretaría municipal, que citaba normas derogadas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717883K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.7",
+      "titulo": "Corrección de las bases del concurso para la plaza de Interventor",
+      "categoria": "personal",
+      "resumen": "Misma corrección en el concurso de méritos para cubrir la Intervención municipal.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717874Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Corrección de las bases del concurso para la plaza de Tesorero",
+      "categoria": "personal",
+      "resumen": "Misma corrección en el concurso de méritos para cubrir la Tesorería municipal.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717857Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Ayuda por hijo con discapacidad a una empleada",
+      "categoria": "personal",
+      "resumen": "Se concede a una agente de Desarrollo Local-Turismo la ayuda del convenio colectivo de 147,38 € al mes, condicionada a acreditar que no cobra otra prestación pública.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 147.38,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749151N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Curso de sistemas de información geográfica para una inspectora de obras",
+      "categoria": "personal",
+      "resumen": "Se ordena a una auxiliar inspectora de obras hacer un curso del Instituto Geográfico Nacional y se pagan los 100 € de inscripción.",
+      "entidades": [
+        {
+          "nombre": "Instituto Geográfico Nacional",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749536Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.11",
+      "titulo": "Viaje de la programadora de Cultura a una reunión de artes escénicas en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a la reunión del Circuito de Artes Escénicas de la Región de Murcia del 22 de marzo y se pagan los desplazamientos.",
+      "entidades": [
+        {
+          "nombre": "Asociación Murciaescena",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Instituto de las Industrias Culturales y las Artes de la Región de Murcia (ICA)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749025N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.12",
+      "titulo": "Contratación de una técnica de museos con un plan de empleo del SEF",
+      "categoria": "personal",
+      "resumen": "Se contrata a una técnica de museos para la Casa Municipal de Cultura, pagada por el programa de Empleo Público Local del SEF, y se crea una bolsa con dos suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741436Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.13",
+      "titulo": "Terraza de invierno para la 'Heladería La Ibense III'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m2 en temporada de invierno (noviembre 2022-marzo 2023) en la Plaza Concejala Mª Carmen Lorente.",
+      "entidades": [
+        {
+          "nombre": "Heladería La Ibense III (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748916M",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "15.14",
+      "titulo": "Traslado de la Virgen de los Dolores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia de la Basílica de la Purísima el traslado de la imagen el 23 de marzo por la tarde, con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Basílica de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749492M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.15",
+      "titulo": "Escolta de la Policía Local en la procesión del Santo Entierro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ordena a la Policía Local escoltar la procesión del Viernes Santo (7 de abril).",
+      "entidades": [
+        {
+          "nombre": "Cofradía de Nuestro Padre Jesús y Cristo Yacente",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748665N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.16",
+      "titulo": "Ayuda municipal a la Semana Santa y aviso a Fibraworld por usar las farolas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se presta la colaboración municipal pedida por el Cabildo para los actos y procesiones (salvo abrir provisionalmente la calle San Francisco, pendiente). Se exige a Cable World / Fibraworld que no use ni manipule las redes y farolas del alumbrado público al retransmitir la Semana Santa, y se pide un informe sobre instalaciones de empresas colgadas del alumbrado.",
+      "entidades": [
+        {
+          "nombre": "Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide colaboración"
+        },
+        {
+          "nombre": "Cable World, S.L. - Fibraworld Telecom, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "requerida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747405N",
+      "lugar": "Calle San Francisco y recorridos de Semana Santa",
+      "interes": 2
+    },
+    {
+      "ref": "15.17",
+      "titulo": "Espacio de ocio del Edificio Cazadores para Cruz Roja Juventud",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza su uso los miércoles de 17:30 a 18:30 del 29 de marzo al 29 de junio con un grupo de jóvenes.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española en Yecla (Cruz Roja Juventud)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748683N",
+      "lugar": "Edificio Cazadores (sótano)",
+      "interes": 1
+    },
+    {
+      "ref": "15.18",
+      "titulo": "Programa Activa-Te 2023 de conciliación: 105.950,63 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación, el gasto de 105.950,63 € y el procedimiento de admisión del programa deportivo de conciliación en periodos lectivos y no lectivos para niños de 3 a 16 años, financiado con el Plan Corresponsables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 105950.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748518J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.19",
+      "titulo": "Se acepta una subvención regional de 466.353 € para Servicios Sociales",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención nominativa de la Consejería de Política Social para los Servicios Sociales de Atención Primaria y el Ayuntamiento se compromete a poner al menos 155.451 €.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 466353.0,
+      "importes": [
+        {
+          "concepto": "Subvención regional",
+          "eur": 466353.0,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal mínima comprometida",
+          "eur": 155451.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746646J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.20",
+      "titulo": "Convenio con la CARM para prevenir y apagar incendios forestales (Plan Infomur 2023/24)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con la Consejería de Medio Ambiente para el servicio de prevención y extinción de incendios forestales del 1 de abril de 2023 al 31 de marzo de 2024.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Medio Ambiente, Mar Menor, Universidades e Investigación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749387Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.21",
+      "titulo": "Se piden 3.000 € a la CARM para difundir la Feria Outlet 2024",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba la memoria del proyecto de difusión de la Feria Outlet de Yecla 2024 (3.000 €) y se pide la subvención a la Consejería de Empresa.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Economía Social y Autónomos (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748514D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.22",
+      "titulo": "Apoyo municipal a la I Jornada de atletismo Sub10, Sub12 y Sub14",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la FAMU la competición del 25 y 26 de marzo en la pista Juan Palao, con gastos municipales de 629,20 € y uso gratuito de instalaciones valorado en 851,25 €. Se les advierte de que en el futuro deben pedirlo en plazo.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1480.45,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 629.2,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 851.25,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "728761T",
+      "lugar": "Pista de atletismo, Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "15.23",
+      "titulo": "I Milla Solidaria del CEIP Miguel Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA la carrera solidaria no competitiva del 26 de marzo en el colegio, a favor de la Asociación Española de Ictiosis, con colaboración municipal en medios.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Asociación Española de Ictiosis",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738901C",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "15.24",
+      "titulo": "Zanja en camino público para una tubería de riego",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino abrir una zanja en un camino público (polígono 50, parcela 77) para una tubería de riego, con fianza de 300 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749135Q",
+      "lugar": "Polígono 50, parcela 77 (camino público)",
+      "interes": 1
+    }
+  ]
+}

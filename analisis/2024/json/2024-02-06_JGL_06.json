@@ -1,0 +1,806 @@
+{
+  "doc": "2024-02-06_JGL_06",
+  "organo": "JGL",
+  "sesion": 6,
+  "fecha": "2024-02-06",
+  "tipo_sesion": "ordinaria",
+  "paginas": 34,
+  "resumen": "La Junta de Gobierno paga 106.434 euros en facturas (limpieza de edificios, autobús urbano e infraestructura de Reyes) y adjudica por 95.109 euros la demolición de varios inmuebles en las calles Carmen y San Roque. Aprueba un convenio con Energías Renovables de la Región de Murcia e Iberdrola para instalar placas solares en la Escuela de Música y la Piscina Cubierta como compensación de la planta solar 'FV Peñarrubia'. También convoca los concursos para cubrir las plazas de secretario, interventor y tesorero, dos becas de 6.000 euros en Cultura y el Museo, y autoriza el Duatlón, desfiles de Carnaval de colegios y procesiones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 30 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús urbano y montaje de Reyes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la limpieza de los edificios municipales de enero, la subvención mensual del autobús urbano de enero y el lote 2 de la infraestructura de las Fiestas de Reyes Magos 2024.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 106434.1,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, enero 2024",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, enero 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Suministro e instalación de infraestructura para las Fiestas de Reyes Magos 2024, lote 2 (C.SU.7/23)",
+          "eur": 24200.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 551537S, 839179C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino una bonificación del 50% del IBI de su vivienda durante 2024-2028 (máximo 100 euros al año) por tener placas solares de autoconsumo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876932M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Permiso para empezar las obras de reforma de una vivienda aislada en La Hormiga",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una vecina a iniciar las obras de reforma de su vivienda unifamiliar aislada, cuya licencia se concedió en octubre de 2023, tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799910M",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para dividir una finca rústica de Mármoles y Exportaciones del Sureste",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Mármoles y Exportaciones del Sureste, S.L. a segregar una parcela de 105.072 m² de una finca de secano de 1.222.463 m² en suelo no urbanizable, sin construcciones.",
+      "entidades": [
+        {
+          "nombre": "Mármoles y Exportaciones del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859032A",
+      "lugar": "polígono 94, parcela 180 (suelo no urbanizable general)",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Más horas para el profesor sustituto de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "La ampliación de jornada del 50% al 60% de una plaza de profesor de la Escuela Municipal de Bellas Artes se asigna a la plaza de la titular en excedencia, y se amplía en consecuencia la jornada del profesor que la sustituye.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "878962F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Más horas para una técnica de la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Por la llegada de nuevos niños de 1-2 años a la Escuela Infantil 'El Parque', se amplía la jornada de una técnica de educación infantil de 17,5 a 20 horas semanales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876449Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Permiso por lactancia acumulado para un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local un permiso retribuido del 15 al 19 de febrero en sustitución de las horas de lactancia a las que tiene derecho.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "878501Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Bolsa de empleo de Inspector de Servicios Técnicos Auxiliar",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de empleo de Inspector de Servicios Técnicos Auxiliar (grupo C2) para interinidades y sustituciones. Plazo de 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751792F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Un agente de la Policía Local se acogerá a la jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma nota de que un agente de la Policía Local quiere acogerse a la jubilación anticipada prevista para policías locales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "878975Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de secretario municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2024 para cubrir con carácter definitivo la Secretaría del Ayuntamiento, plaza vacante reservada a funcionarios con habilitación nacional.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880958D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de interventor municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2024 para cubrir con carácter definitivo la Intervención del Ayuntamiento, plaza vacante reservada a funcionarios con habilitación nacional.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880960F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de tesorero municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2024 para cubrir con carácter definitivo la Tesorería del Ayuntamiento, plaza vacante reservada a funcionarios con habilitación nacional.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880964M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Adjudicada por 95.109 € la demolición de inmuebles en las calles Carmen y San Roque",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Servicios Profesionales Murcianos, S.L. la obra de demolición de varios inmuebles en las calles Carmen y San Roque por 95.109,27 euros IVA incluido. La empresa que quedó primera, Demoliciones Coruña, S.L., no presentó la documentación requerida y pasó a la segunda clasificada.",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Demoliciones Coruña, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora decaída"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 95109.27,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M",
+      "lugar": "calle Carmen y calle San Roque",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato menor para controlar y ajustar las tarifas de luz y gas municipales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Gasso Cimne Ingergy, S.L. por 10.149,48 euros IVA incluido un contrato menor para gestionar los consumos y la tarificación de los suministros eléctricos y de gas del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Gasso Cimne Ingergy, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10149.48,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870715C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Procesión de la Virgen de Lourdes desde San José Artesano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Hospitalidad Murciana de Nuestra Señora de Lourdes una procesión el 11 de febrero desde la Iglesia de San José Artesano, con patrulla de Policía Local y prohibición de aparcar en los alrededores.",
+      "entidades": [
+        {
+          "nombre": "Hospitalidad Murciana de Nuestra Señora de Lourdes",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875758F",
+      "lugar": "Iglesia de San José Artesano",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aplazada la muestra de talleres de mayores en el jardín de la Avda. de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición del Centro Social de Personas Mayores del IMAS para hacer una muestra de talleres de ejercicio físico en el jardín de la Avenida de la Feria, a falta de informes.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "878720W",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Sala del Edificio Bioclimático para un curso de carnet de fitosanitarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG Yecla a usar una sala del Edificio Bioclimático del 19 al 23 de febrero para un curso básico de carnet de fitosanitario.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877850M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocadas dos becas de 6.000 € en la Casa de Cultura y el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan dos becas de prácticas para titulados en Historia, Arte, Documentación o Restauración: una en la Casa Municipal de Cultura y otra en el Museo Arqueológico 'Cayetano de Mergelina', de 6.000 euros cada una (12.000 euros en total).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874061Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Adhesión al título de Hija Predilecta de Murcia para una persona",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de nombrar Hija Predilecta de Murcia a una persona (nombre anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877542J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Adhesión al título de Hija Predilecta de Murcia para otra persona",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de nombrar Hija Predilecta de Murcia a otra persona (nombre anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877544M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Adhesión al título de Hijo Predilecto de Murcia para una persona",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de nombrar Hijo Predilecto de Murcia a una persona (nombre anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877549T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Adhesión a la Medalla de Oro de Murcia para una persona",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de conceder su Medalla de Oro a una persona (nombre anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875579H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Adhesión a la Medalla de Oro de Murcia para la Federación de Colombicultura",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de conceder su Medalla de Oro a la Federación de Colombicultura de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        },
+        {
+          "nombre": "Federación de Colombicultura de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "distinguida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876283H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Adhesión a la Medalla de Oro de Murcia para otra persona",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de conceder su Medalla de Oro a otra persona (nombre anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876278D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Adhesión a la Medalla de Oro de Murcia para la Policía Nacional",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la iniciativa del Ayuntamiento de Murcia de conceder su Medalla de Oro a la Policía Nacional.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        },
+        {
+          "nombre": "Policía Nacional",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "distinguida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875577R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Licencia para derribar una vivienda entre medianeras en la calle Iberia",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para demoler una vivienda entre medianeras, con fianzas de 1.104,66 euros (reposición de urbanización) y 1.346,22 euros (alumbrado y mobiliario), desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847069K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Licencia para derribar una vivienda aislada en El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para demoler una vivienda unifamiliar aislada en suelo no urbanizable general.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861271K",
+      "lugar": "paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Anticipo de sueldo de 1.200 € a un coordinador deportivo",
+      "categoria": "personal",
+      "resumen": "Se concede a un coordinador deportivo municipal un anticipo de 1.200 euros de su sueldo, que devolverá en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874830R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Terraza anual de 68 m² para el Aquarium Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Aquarium Café' (68 m², temporada anual hasta el 31 de octubre de 2024); los titulares ya pagaron la tasa de 1.156 euros.",
+      "entidades": [
+        {
+          "nombre": "Aquarium Café (titulares particulares)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1156.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "856551E",
+      "lugar": "Plaza Ocho de Marzo / C/ San José",
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Terraza de invierno de 38 m² para La Paloma en la Avda. de la Libertad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'La Paloma' en la Avenida de la Libertad (38 m², temporada de invierno hasta el 31 de marzo de 2024).",
+      "entidades": [
+        {
+          "nombre": "La Paloma (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875630D",
+      "lugar": "Avenida de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Procesiones de Vía Crucis de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia del Niño Jesús a celebrar procesiones de Vía Crucis el 14 de febrero y el 1 de marzo con asistencia de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877995N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Desfiles de Carnaval de seis colegios el 9 de febrero",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los colegios San José de Calasanz, Méndez Núñez, Las Herratillas, San Francisco de Asís, La Pedrera y La Paz a hacer desfiles de Carnaval el 9 de febrero, con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Colegio Méndez Núñez",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "C.E.I.P. Las Herratillas",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Colegio San Francisco de Asís",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Colegio La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Colegio La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "878161T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "XIV Duatlón Ciudad de Yecla: autorización y apoyo municipal",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club Triatlón Arabí Yecla el XIV Duatlón Ciudad de Yecla del 18 de febrero (Edículo, Avda. de la Feria, Parque del Cespín, Avda. Juan Carlos I, Ctra. de Villena y Ronda Norte), con gastos municipales de 1.096,26 euros y uso gratuito de instalaciones deportivas valorado en 713 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1809.26,
+      "importes": [
+        {
+          "concepto": "Gastos municipales por la organización del evento",
+          "eur": 1096.26,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 713.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872893C, 873340Y, 880636F",
+      "lugar": "Edículo, Avenida de la Feria, Parque del Cespín, Avenida Juan Carlos I, Carretera de Villena y Ronda Norte",
+      "interes": 2
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Convenio para poner placas solares en la Escuela de Música y la Piscina Cubierta",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con Energías Renovables de la Región de Murcia, S.A. e Iberdrola Clientes, S.A. por el que, como compensación por la planta solar 'FV Peñarrubia', instalarán placas fotovoltaicas en la Escuela de Música (10 kW) y en la Piscina Cubierta Municipal (25 kW).",
+      "entidades": [
+        {
+          "nombre": "Energías Renovables de la Región de Murcia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "firma convenio"
+        },
+        {
+          "nombre": "Iberdrola Clientes, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "879157C",
+      "lugar": "Escuela de Música y Piscina Cubierta Municipal",
+      "interes": 3
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Zanja en el camino de El Aljibe para una tubería de riego de Hidráulica San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Hidráulica San Pascual, S.A. a abrir una zanja en el camino público 'El Aljibe' para instalar una tubería de riego, con fianza de 300 euros y recubrimiento de hormigón.",
+      "entidades": [
+        {
+          "nombre": "Hidráulica San Pascual, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877934D",
+      "lugar": "camino público El Aljibe (junto a polígono 45, parcela 142)",
+      "interes": 2
+    }
+  ]
+}

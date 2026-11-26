@@ -1,0 +1,108 @@
+{
+  "doc": "2026-06-30_JGL_34",
+  "organo": "JGL",
+  "sesion": 34,
+  "fecha": "2026-06-30",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 2,
+  "resumen": "Sesión urgente para pagar facturas y certificaciones de obra. Casi 600.000 euros van a la restauración del castillo (Hisn Yakka, proyecto 'El Renacer de Yakka', fondos europeos) y se pagan los estudios de carriles bici y zona de acceso restringido.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de estudios de carriles bici y del proyecto del castillo",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan la fase III de la asistencia técnica para carriles bici y zona de acceso restringido (APR) y la redacción y dirección del proyecto de restauración del Hisn Yakka.",
+      "entidades": [
+        {
+          "nombre": "Pmus and Civil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24409.5,
+      "importes": [
+        {
+          "concepto": "Asistencia técnica carriles bici y APR, fase III",
+          "eur": 11737.0,
+          "entidad": "Pmus and Civil, S.L."
+        },
+        {
+          "concepto": "Redacción de proyecto y dirección de obra del Hisn Yakka",
+          "eur": 12672.5,
+          "entidad": "Rocamora Diseño y Arquitectura, S.L.P."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640397Q, 1091140Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de la restauración del castillo Hisn Yakka",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de la fase 1 de 'El Renacer de Yakka' (lotes 2 y 3, abril y mayo 2026), financiadas con fondos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "UTE Zima Desarrollos Integrales, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 594621.91,
+      "importes": [
+        {
+          "concepto": "Certificación n.º 1, lote 3, abril 2026",
+          "eur": 103932.63,
+          "entidad": "UTE Zima Desarrollos Integrales, S.L. - Pegiro, S.L."
+        },
+        {
+          "concepto": "Certificación n.º 2, lote 2, mayo 2026",
+          "eur": 198419.97,
+          "entidad": "Ingeniería Ortín, S.L."
+        },
+        {
+          "concepto": "Certificación n.º 2, lote 3, mayo 2026",
+          "eur": 292269.31,
+          "entidad": "UTE Zima Desarrollos Integrales, S.L. - Pegiro, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 3
+    }
+  ]
+}

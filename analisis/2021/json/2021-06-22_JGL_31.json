@@ -1,0 +1,899 @@
+{
+  "doc": "2021-06-22_JGL_31",
+  "organo": "JGL",
+  "sesion": 31,
+  "fecha": "2021-06-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 44,
+  "resumen": "La Junta de Gobierno eleva una queja a la UNESCO contra la macrogranja porcina de Cefu, S.A. junto al Monte Arabí, tras perder los recursos judiciales. Rebaja un 30% el IBI de 2021 a los negocios que cerraron por la COVID y concede 16.130 euros en ayudas para luz, gas y agua. Adjudica la Escuela Municipal de Vacaciones 2021-2023 (unos 30.500 euros) y la correduría de seguros a Willis Iberia, y fija turnos de 12 horas para la Policía Local en verano por falta de agentes.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 15 y 18 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511159T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: medidas COVID y videocámaras",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos órdenes regionales sobre el nivel de alerta y las restricciones por la COVID-19 y de un escrito de la Delegación del Gobierno sobre la vigencia de la autorización de videocámaras.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "511637H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Rebaja del 30% del IBI de 2021 a locales que tuvieron que cerrar por la COVID",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 30% del IBI de 2021 a los locales de comercio, hostelería, ocio y similares que estuvieron obligatoriamente cerrados en el estado de alarma y que cumplen los requisitos, y se deniegan las solicitudes que no los cumplen. Las listas están en el expediente; no se dan importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496477C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rechazada la rebaja de un recibo de agua de casi 10.000 euros por una fuga",
+      "categoria": "reclamaciones",
+      "resumen": "Vefer Polyurethan España, S.L. pedía revisar un recibo de agua de 9.961,62 euros (a nombre de Losbu, S.L.) por una avería no detectada en la arqueta. Se deniega: la arqueta y la instalación interior son responsabilidad del titular y la ordenanza no prevé rebajas por fugas.",
+      "entidades": [
+        {
+          "nombre": "Vefer Polyurethan España, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "reclama"
+        },
+        {
+          "nombre": "Losbu, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular del recibo"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9961.62,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "507974W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de cambio de nave a vivienda con piscina en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a empezar las obras de cambio de uso de nave a vivienda, ampliación y piscina, con licencia concedida en febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480357N",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Inicio de obras de una vivienda con piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de una vivienda unifamiliar aislada con trastero y piscina, con licencia concedida en mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495707H",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Inicio de obras de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de una vivienda unifamiliar con garaje y piscina en el casco urbano, con licencia concedida en abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501079T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia de segregación de una finca rústica en Barranco Polio",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar 5.000 m² de una finca de 14.557 m² de una finca en suelo no urbanizable sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501226Y",
+      "lugar": "Paraje Barranco Polio",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia de segregación a Hamilmost, S.L. en La Rabosera",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a Hamilmost, S.L. licencia para segregar 5.372,62 m² de una finca de viñedo de 32.274 m²; la antigua construcción de riego queda en la finca resto.",
+      "entidades": [
+        {
+          "nombre": "Hamilmost, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502127Z",
+      "lugar": "Paraje Rabosera, polígono 116, parcela 14",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia de segregación de una finca rústica en La Pujola",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar 3.143 m² de una finca de 13.405 m² de una finca en suelo no urbanizable sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500498M",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia de segregación de una finca rústica en Decarada",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar 6.500 m² de una finca de 12.028 m² de una finca en suelo no urbanizable sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500371K",
+      "lugar": "Paraje Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un electricista del Plan de Inclusión Social por el Empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial de 2ª electricista dentro del Plan Especial 2021 de Inclusión, Promoción y Reinserción Social a través del Empleo y se crea una bolsa para sustituciones.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507688Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reincorporación de una técnica de educación infantil tras su excedencia",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una técnica de Educación Infantil a volver a su puesto el 20 de agosto de 2021 tras una excedencia por cuidado de hijo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509272Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Ampliación de jornada de una agente de Turismo",
+      "categoria": "personal",
+      "resumen": "Una agente de Desarrollo Local-Turismo con reducción de jornada amplía 1,5 horas diarias (reducción del 28,76%) y se reduce lo mismo la jornada de quien la sustituía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511345C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Turnos de 12 horas para la Policía Local en julio y agosto",
+      "categoria": "personal",
+      "resumen": "Por falta de agentes (jubilaciones y traslados), en julio y agosto la Policía Local trabajará turnos de 12 horas, 7 días de servicio y 7 de descanso. Las 4 horas extra de cada turno se pagan como servicios extraordinarios (al 175%, o 200% en festivos) y se suprimen las guardias.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "afectada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511384F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Rechazada la reclamación del sindicato SPPLB por las guardias de la nevada Filomena",
+      "categoria": "personal",
+      "resumen": "El sindicato pedía que las guardias del 9 y 10 de enero de 2021 se pagaran como horas extraordinarias porque ya no había nieve. Se deniega: la Jefatura las consideró incidencias inaplazables por el riesgo de la nevada, como prevé la RPT.",
+      "entidades": [
+        {
+          "nombre": "Sindicato SPPLB",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "reclama"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "494076R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Nueva bolsa de empleo de educadores sociales y dos recursos rechazados",
+      "categoria": "personal",
+      "resumen": "Se desestiman los recursos de dos aspirantes contra sus notas y se aprueba la bolsa de empleo de Educador/a Social, vigente hasta el 31 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "396007K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Se prepara una bolsa de auxiliares-inspectores de obras",
+      "categoria": "personal",
+      "resumen": "Como con un solo inspector de obras no se puede vigilar bien el urbanismo, se encarga redactar las bases de una bolsa de empleo de auxiliares-inspectores de obras interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511236A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.8",
+      "titulo": "El jefe de la Policía Local presidirá un tribunal en Cartagena",
+      "categoria": "personal",
+      "resumen": "Se autoriza al Comisario Principal-Jefe de la Policía Local a presidir el tribunal que seleccionará un comisario principal para el Ayuntamiento de Cartagena.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Cartagena",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511585K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Willis Iberia, nueva correduría de seguros del Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "A través de la central de contratación de la FEMP se adjudica a Willis Iberia la mediación de los seguros municipales durante un máximo de 3 años. La correduría cobra una comisión del 11% que pagan las aseguradoras, no el Ayuntamiento: unos 30.546 euros sobre 278.143 euros de primas en 3 años.",
+      "entidades": [
+        {
+          "nombre": "Willis Iberia Correduría de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Primas de seguros estimadas en 3 años (flota, daños, accidentes, vida, RC)",
+          "eur": 278143.05,
+          "entidad": "aseguradoras"
+        },
+        {
+          "concepto": "Comisión estimada del 11% en 3 años (la pagan las aseguradoras)",
+          "eur": 30545.74,
+          "entidad": "Willis Iberia Correduría de Seguros y Reaseguros, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510478Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto informativo de Alcohólicos Rehabilitados en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto en la Plaza Mayor el 23 de junio por el Día Internacional contra la droga, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Alcohólicos Rehabilitados de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511085Q",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto de Cruz Roja en la Plaza Mayor para vender lotería del Sorteo del Oro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja un puesto en la Plaza Mayor el 30 de junio y el 7 de julio, con carpa, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510741N",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Mesa de una iglesia evangélica en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Iglesia Evangélica Buenas Noticias de Almansa a poner una mesa para difundir el Evangelio los sábados de julio, septiembre y octubre de 17 a 20 h.",
+      "entidades": [
+        {
+          "nombre": "Iglesia Evangélica Buenas Noticias de Almansa",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510662D",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Denegada la ampliación de un vado en la calle Alcalde Juan Spuche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina ampliar su vado porque la calzada es suficiente para maniobrar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "511156P",
+      "lugar": "Calle Alcalde Juan Spuche",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegada una prohibición de aparcar en la calle Parras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina pintar una prohibición de estacionar frente a su cochera porque la calle tiene 5 metros de ancho y poco tráfico; se le sugiere pedir un contravado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "510707Q",
+      "lugar": "Calle Parras",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Auditorio gratis para la asamblea de la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 1 de julio para su asamblea general, con reducción del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de las Fiestas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Precio público del auditorio condonado (100%)",
+          "eur": 120.0,
+          "entidad": "Federación de Peñas de las Fiestas de San Isidro"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510761Q",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Prácticas sin beca de una estudiante de Derecho en Servicios Sociales",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a una estudiante de la Universidad de Valencia a hacer prácticas extracurriculares no remuneradas en julio y agosto en el servicio jurídico de la OMIC, Servicios Sociales y CAVI.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Valencia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510535C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Denegado un autobús urbano los domingos al Mercaíco",
+      "categoria": "servicios_actividades",
+      "resumen": "Unos vecinos pedían autobús urbano los domingos por la mañana hasta el mercado del Mercaíco. Se deniega porque sería un servicio público para un negocio privado fuera del casco urbano y el autobús no puede circular por la RM-425.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "511664W",
+      "lugar": "Mercaíco (carretera RM-425)",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "AFEDECO usará el colegio El Alba para su escuela de verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO a usar el CEIP El Alba del 24 de junio al 6 de agosto, por la mañana, para la Escuela de verano 2021, con seguro, medidas COVID y a su cargo los gastos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Formación y Desarrollo Comunitario en Yecla (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "cede instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510784Y",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago final de las obras de la cubierta de la capilla de la Virgen de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 7 y última del cambio de cubiertas de la capilla de la Virgen de las Angustias en la Iglesia de San Francisco.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37255.05,
+      "importes": [
+        {
+          "concepto": "Certificación nº 7 y última, cambio de cubiertas Capilla Virgen de las Angustias",
+          "eur": 37255.05,
+          "entidad": "Construcciones Enciso y José, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473702W",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Bonificaciones del IBI a familias numerosas (2021)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las bonificaciones del IBI de 2021 por familia numerosa de una larga lista de expedientes (del nº 2 al 1020), mientras dure el título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Se quitan bonificaciones del IBI a familias numerosas que cambiaron de casa",
+      "categoria": "fiscal",
+      "resumen": "Se extinguen desde el 1 de enero de 2021 las bonificaciones de varias familias numerosas que ya no viven en el inmueble bonificado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Denegada la bonificación del IBI por título de familia numerosa caducado",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación a dos expedientes porque el título no estaba vigente el 1 de enero de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Denegada la bonificación del IBI a quien no es familia numerosa",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación a un particular que no figura como titular de familia numerosa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Denegada la bonificación del IBI por no ser la vivienda habitual",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación a un particular porque la vivienda no es el domicilio habitual de la familia numerosa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Denegada la bonificación del IBI a quien no es propietaria",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación a una particular porque no es sujeto pasivo del IBI de la vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473160R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Nombramiento de un auxiliar administrativo interino para Intervención",
+      "categoria": "personal",
+      "resumen": "Por la acumulación de facturas tras quedar vacantes dos puestos, se nombra un auxiliar administrativo interino de la bolsa de 2019 para Presupuestos y Contabilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511408P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Se cierra la bolsa de educadores sociales de 2012",
+      "categoria": "personal",
+      "resumen": "Se extingue la bolsa de educadores sociales de 2012 y entra en vigor la aprobada en esta sesión.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511741C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Contratación de un educador social para Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un educador social interino para sustituir una baja, por la sobrecarga del Centro Municipal de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511213T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Curso obligatorio para las agentes de la Oficina de Turismo",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos agentes de Turismo hacer el curso online de agentes SICTED de la Secretaría de Estado de Turismo, obligatorio para gestionar el destino.",
+      "entidades": [
+        {
+          "nombre": "Secretaría de Estado de Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511573T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "El curso de igualdad es obligatorio para toda la plantilla",
+      "categoria": "personal",
+      "resumen": "Se corrige un error del acuerdo del 8 de junio: el curso online de sensibilización en igualdad entre hombres y mujeres es obligatorio para todo el personal municipal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510275Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Adjudicada la Escuela Municipal de Vacaciones 2021-2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el lote 1 (escuela de verano, Navidad y Semana Santa) a Recursos y Apoyo Técnico, S.L. por 26.356,22 euros con IVA, y el lote 2 (limpieza de las instalaciones) a un particular autónomo por 4.176,32 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Recursos y Apoyo Técnico, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 30532.54,
+      "importes": [
+        {
+          "concepto": "Lote 1: Escuela Municipal de Vacaciones (verano, Navidad y Semana Santa)",
+          "eur": 26356.22,
+          "entidad": "Recursos y Apoyo Técnico, S.L."
+        },
+        {
+          "concepto": "Lote 2: limpieza de las instalaciones",
+          "eur": 4176.32,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508675T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Ayudas para pagar luz, gas y agua y comprar electrodomésticos eficientes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas a personas y familias para pagar suministros básicos de la vivienda habitual y comprar electrodomésticos eficientes, según la lista de Servicios Sociales, por un total de 16.130 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 16130.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511595Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.15",
+      "titulo": "Ensayos de baile urbano en el anfiteatro de la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Pese al informe desfavorable de la Policía Local, se autoriza a ABDUY a ensayar de lunes a jueves de 9:30 a 11 h del 28 de junio al 31 de julio, porque Sanidad recomienda ensayar al aire libre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Bailes y Danzas Urbanas Yecla (ABDUY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511123D",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 1
+    },
+    {
+      "ref": "12.16",
+      "titulo": "Graduaciones del colegio San José de Calasanz en la explanada de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a celebrar dos actos de graduación con 150 sillas municipales, cerrando la reja con una barrera opaca y con medidas COVID.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511531K",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "12.17",
+      "titulo": "Queja ante la UNESCO contra la macrogranja de cerdos junto al Monte Arabí",
+      "categoria": "medio_ambiente",
+      "resumen": "Tras perder el recurso en el TSJ de Castilla-La Mancha y no admitirse la casación en el Supremo, el Ayuntamiento eleva una queja formal a la UNESCO y al Ministerio contra la granja porcina intensiva de Cefu, S.A. cerca del Monte Arabí (arte rupestre Patrimonio de la Humanidad) y les pide actuar para evitarla. Todos los grupos municipales están en contra.",
+      "entidades": [
+        {
+          "nombre": "Cefu, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotora de la granja"
+        },
+        {
+          "nombre": "Comité de Patrimonio Mundial de la UNESCO",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe queja"
+        },
+        {
+          "nombre": "Comisión Española de Cooperación con la UNESCO",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe queja"
+        },
+        {
+          "nombre": "Ministerio de Cultura (Subdirección General de Protección del Patrimonio Histórico)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe queja"
+        },
+        {
+          "nombre": "Junta de Comunidades de Castilla-La Mancha",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autorizó la granja"
+        },
+        {
+          "nombre": "Salvemos el Arabí y Comarca",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "movilización vecinal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511798F",
+      "lugar": "Monte Arabí",
+      "interes": 3
+    }
+  ]
+}

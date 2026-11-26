@@ -1,0 +1,828 @@
+{
+  "doc": "2022-10-04_JGL_47",
+  "organo": "JGL",
+  "sesion": 47,
+  "fecha": "2022-10-04",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno aprueba el padrón del Impuesto de Actividades Económicas de 2022 (545.139 euros) y otros padrones de tasas, y nombra funcionarios en prácticas a los 22 nuevos agentes de la Policía Local. Adjudica material informático por 46.422 euros y la señalética turística del casco urbano a Nemain Levante por 27.588 euros, tras rechazar la oferta más barata por demasiado baja. Saca a concurso la animación del centro de mayores Las Herratillas (72.274 euros al año) y aprueba la programación del Teatro Concha Segura de octubre a diciembre (67.225 euros).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 27 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: expropiación del antiguo Matadero, ayudas de empleo y amianto",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Jurado Provincial de Expropiación da la razón al Ayuntamiento en un recurso sobre la expropiación de terrenos junto al antiguo Matadero (zona verde y viales); de varias resoluciones del SEF sobre subvenciones de empleo (justificación de Agentes de Desarrollo Local, propuesta del Programa Mixto Empleo-Formación para jóvenes y dos reintegros o pérdidas de cobro de cursos de formación); de dos informes sobre cambio de tarifa de saneamiento del polideportivo José Ortega Chumilla y del colegio El Alba; del requerimiento regional para hacer un censo de instalaciones con amianto; y de una petición de acceso web al planeamiento urbanístico.",
+      "entidades": [
+        {
+          "nombre": "Jurado Provincial de Expropiación Forzosa",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve recurso"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención / pide reintegro"
+        },
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requiere informe"
+        },
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "674560P",
+      "lugar": "antiguo Matadero de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: bomba de calor del Hogar del Pensionista y psicólogos para selección",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 24.832,40 €: la sustitución de la bomba de calor de la climatización del Hogar del Pensionista y los servicios psicológicos para procesos de selección de personal (proveedor anonimizado en el acta).",
+      "entidades": [
+        {
+          "nombre": "Calfrica Servicios Sociedad Cooperativa",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "proveedor no identificado (anonimizado en el acta)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 24832.4,
+      "importes": [
+        {
+          "concepto": "Sustitución de bomba de calor para climatización del Hogar del Pensionista, junio 2022 (Expte. 644415X)",
+          "eur": 17900.0,
+          "entidad": "Calfrica Servicios Sociedad Cooperativa"
+        },
+        {
+          "concepto": "Servicios psicológicos para la selección de personal (Expte. 667634W)",
+          "eur": 6932.4,
+          "entidad": "proveedor no identificado"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644415X, 667634W",
+      "lugar": "Hogar del Pensionista",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del concierto de Alfredo Rodríguez Trío (Jazz Yecla 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación del concierto en el Teatro Concha Segura: 1.735 € vendidos de 3.015 € en entradas; se dan de baja las no vendidas (1.280 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1735.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto de Shirley Davis & The Silverbacks (Jazz Yecla 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación del concierto: 2.523 € vendidos de 3.015 € en entradas; se dan de baja 490 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2523.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del concierto de Raynald Colom (Jazz Yecla 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación del concierto: 1.565 € vendidos de 3.015 € en entradas; se dan de baja 1.450 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1565.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del concierto de Vargas Blues Band & John Byron Jagger (Jazz Yecla 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación del concierto: 2.523 € vendidos de 3.015 € en entradas; se dan de baja 490 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2523.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Taquilla del concierto de Zenet (Jazz Yecla 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación del concierto: 2.495 € vendidos de 3.015 € en entradas; se dan de baja 520 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2495.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Recibos del Impuesto de Actividades Económicas 2022: 545.139 €",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del IAE de 2022 por 545.138,89 € (480.164,96 € de cuota municipal y 64.973,93 € de recargo autonómico). Se paga del 7 de octubre al 23 de diciembre; los domiciliados se cargan el 29 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 545138.89,
+      "importes": [
+        {
+          "concepto": "Cuota municipal",
+          "eur": 480164.96,
+          "entidad": null
+        },
+        {
+          "concepto": "Recargo de la Comunidad Autónoma",
+          "eur": 64973.93,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "669191H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Recibos por ocupar terrenos públicos del Cerro del Castillo y otros",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2022 del precio público por ocupar terrenos de uso público del Cerro del Castillo y otros, por 3.184 €, con el mismo plazo de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3184.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665615Q",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Recibos del impuesto sobre cotos privados de caza",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2022 del impuesto municipal sobre gastos suntuarios por cotos privados de caza, por 3.403,20 €, con el mismo plazo de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3403.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665575K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Recibos de la tasa por kioscos y cajeros automáticos en la vía pública",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2022 de la tasa por ocupar la vía pública con kioscos y cajeros automáticos, por 4.468,50 €, con el mismo plazo de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4468.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665606D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.11",
+      "titulo": "Sin rebaja del IBI por placas solares: la inversión no llega a 6.000 €",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino la bonificación del 50 % del IBI por instalar placas solares de autoconsumo en su vivienda, porque la ordenanza exige una inversión mínima de 6.000 € y la factura es de 5.614,02 € sin IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "655549K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Los 22 nuevos agentes de la Policía Local, nombrados funcionarios en prácticas",
+      "categoria": "personal",
+      "resumen": "Se nombran funcionarios en prácticas a los 22 aprobados de la oposición de agente de la Policía Local (ofertas de empleo de 2018 y 2020). Tomarán posesión en 30 días y harán el curso selectivo de formación de la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "imparte curso selectivo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511880W, 618342J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Se aplaza la acumulación de horas sindicales del SPPLB",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la comunicación del sindicato SPPLB de la Junta de Personal sobre acumulación del crédito horario sindical.",
+      "entidades": [
+        {
+          "nombre": "Sindicato SPPLB",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "672868P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Se encargan las bases de una bolsa de empleo de auxiliar-inspector de servicios públicos",
+      "categoria": "personal",
+      "resumen": "Como el único administrativo del servicio de inspección de servicios públicos ha estado varias veces de baja y se acumulan expedientes, se encarga redactar las bases de una bolsa de empleo para cubrir el puesto con interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673539X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Plan de inclusión por el empleo: se contratan cuatro peones",
+      "categoria": "personal",
+      "resumen": "Dentro de la 2ª fase del Plan Especial 2022 de Inclusión, Promoción y Reinserción Social a través del Empleo, se contrata a cuatro personas como peones para diversos servicios y se crea una bolsa de dos suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672153X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Plan de inclusión por el empleo: se contrata a una joven como peón",
+      "categoria": "personal",
+      "resumen": "Con cargo al programa para menores de 30 años con poca experiencia laboral, se contrata a una persona como peón y se crea una bolsa con un suplente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672148P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Corrección: los ocho conserjes con discapacidad intelectual trabajarán 20 horas",
+      "categoria": "personal",
+      "resumen": "Se corrige un error del acuerdo de 12 de julio: los ocho conserjes-peones del proyecto de inserción laboral de personas con discapacidad intelectual tendrán una jornada de 20 horas semanales, no de 17,65.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637468Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Furgoneta para las Escuelas Infantiles por 11.701 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la compra de un furgón para las Escuelas Infantiles por 11.700,70 € con IVA. El nombre del adjudicatario está tapado en el acta.",
+      "entidades": [
+        {
+          "nombre": "proveedor no identificado (anonimizado en el acta)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11700.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674571E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Procesión del Divino Niño del colectivo ecuatoriano el 24 de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colectivo de ecuatorianos residentes en Yecla la procesión de 'El Divino Niño' y actividades el 24 de diciembre desde las 9:30, con asistencia de la Policía Local y el préstamo de unas ochenta sillas.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de ecuatorianos residentes en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "631687T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Se tala un árbol de la avenida de San Pablo que levanta la acera",
+      "categoria": "medio_ambiente",
+      "resumen": "A petición de un vecino, y porque las raíces han roto la acera, se ordena talar el árbol, arrancar el tocón y reparar el pavimento.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674650P",
+      "lugar": "avenida de San Pablo",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Sala para firmar expropiaciones de las áreas de servicio de la autovía A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala del Edificio Bioclimático a la Demarcación de Carreteras del Estado el 20 de octubre para levantar las actas de ocupación y pagar depósitos e indemnizaciones a los dueños de terrenos expropiados para las áreas de servicio del Altiplano en la A-33 (P.K. 44+500).",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia (Ministerio de Transportes)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674449K",
+      "lugar": "Edificio Bioclimático; autovía A-33, P.K. 44+500",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón del Edificio Bioclimático para el Grupo Scout los sábados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede al Grupo Scout de Yecla el salón de actos del Edificio Bioclimático los sábados por la mañana durante el curso 2022/23.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Scout de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674454R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para la Asociación Kapaces",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo colegio San José de Calasanz a la Asociación Kapaces un sábado al mes, de octubre de 2022 a julio de 2023, para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "667934M",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Empieza a funcionar la licencia de taxi nº 4 con otro vehículo",
+      "categoria": "contrato",
+      "resumen": "La adjudicataria de la licencia de taxi nº 4 (concedida por concurso en marzo) no pudo recibir a tiempo el coche nuevo que ofreció por la escasez mundial de vehículos; se acepta otro coche similar, de menos de dos años, como cambio no sustancial, y se le autoriza a empezar a dar servicio.",
+      "entidades": [
+        {
+          "nombre": "particular (titular de la licencia de taxi)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497533T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Programación del Teatro Concha Segura de octubre a diciembre: 67.225 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban 14 espectáculos en el Teatro Concha Segura (Yllana, Mago Yunke, tributo a Coco, Don Juan Tenorio, conciertos, teatro infantil y aficionado, Campeones de la Comedia...) con un presupuesto de 67.225 €. La entrada general es de 6 €, salvo Yllana y Mago Yunke (8 a 12 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 67225.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Campaña de reforestación 2022 con ANIDA en Los Castillarejos",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la campaña municipal de reforestación con la asociación ANIDA, plantando flora autóctona en el monte comunal de Los Castillarejos durante octubre; se pide permiso a la Dirección General de Medio Natural porque el monte está consorciado.",
+      "entidades": [
+        {
+          "nombre": "Asociación Naturalista para la Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672909X",
+      "lugar": "monte comunal de Los Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "651365Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago del 'Festival Conexión Remember' de la Feria 2022",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 6.171 € por el Festival Conexión Remember de la Feria de Yecla 2022. El nombre del proveedor está tapado en el acta.",
+      "entidades": [
+        {
+          "nombre": "proveedor no identificado (anonimizado en el acta)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6171.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665966D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Recibos de las concesiones de bienes de dominio público",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2022 de aprovechamientos de bienes de dominio público en concesión administrativa, por 12.148,14 €, a pagar del 7 de octubre al 23 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12148.14,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665619X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Una auxiliar de obras asume parte de la inspección de servicios públicos",
+      "categoria": "personal",
+      "resumen": "Como el puesto de inspector de servicios públicos está sin cubrir desde agosto, una auxiliar-inspectora de obras dedicará hasta el 40 % de su jornada a esas tareas hasta que vuelva el titular o se cubra con la bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673553Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "El jefe de la Brigada de Obras coordinará también la de caminos",
+      "categoria": "personal",
+      "resumen": "Como la coordinación de la Brigada de Conservación de Caminos no funciona bien, se encarga temporalmente al jefe de la Brigada de Obras y se pide crear en la RPT un puesto de jefe de equipo de caminos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672818W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Contrato de un conserje para el Edificio Bioclimático este curso",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un conserje-operario a jornada completa para el Edificio Bioclimático (Servicio de Juventud) hasta el final del curso 2022/23 o hasta que se cubra la plaza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "663732A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Material informático: ordenadores, escáneres y fotocopiadoras por 46.422 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudican tres lotes del suministro de material informático: 30 ordenadores con monitores y 2 impresoras a Tecon Soluciones Informáticas (29.390,30 €), 4 escáneres a Main Memory (1.664,72 €) y 5 multifunción a Copiyec (15.367 €, más precio por copia). El lote de 12 móviles queda desierto por falta de ofertas.",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Main Memory, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Copiyec, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 46422.02,
+      "importes": [
+        {
+          "concepto": "Lote 1: 30 ordenadores, 32 monitores y 2 impresoras",
+          "eur": 29390.3,
+          "entidad": "Tecon Soluciones Informáticas, S.L."
+        },
+        {
+          "concepto": "Lote 2: 4 escáneres documentales",
+          "eur": 1664.72,
+          "entidad": "Main Memory, S.L."
+        },
+        {
+          "concepto": "Lote 4: 5 máquinas multifunción (más 0,0412 €/copia color y 0,0049 €/copia b/n)",
+          "eur": 15367.0,
+          "entidad": "Copiyec, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635003Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Señalética turística: se rechaza la oferta más baja y gana Nemain Levante",
+      "categoria": "contrato",
+      "resumen": "Tras anular en septiembre la primera adjudicación por un recurso de Benito Urban, se estudia su oferta y se declara anormalmente baja; se la excluye y se adjudica de nuevo a la segunda, Nemain Levante, por 27.588 € con IVA, la señalética turística del casco urbano.",
+      "entidades": [
+        {
+          "nombre": "Nemain Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Benito Urban, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 27588.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633349C",
+      "lugar": "casco urbano",
+      "interes": 3
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Concurso para la animación del centro de mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a concurso abierto el servicio de animación y dinamización social para los mayores del Centro Municipal Las Herratillas: dos años prorrogables otros dos, por 72.273,64 € al año con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 72273.64,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647398P",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Se prorroga un año el alquiler del local municipal de la Plaza Mayor, 6",
+      "categoria": "patrimonio",
+      "resumen": "Se prorroga del 7 de mayo de 2022 al 6 de mayo de 2023 el alquiler a una particular del inmueble municipal de la Plaza Mayor, 6; la renta se actualizará con el IPC si procede. No se indica la renta.",
+      "entidades": [
+        {
+          "nombre": "particular (arrendataria)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "arrendataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600650M",
+      "lugar": "Plaza Mayor, 6 (inmueble municipal)",
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Salas del Edificio Bioclimático para reuniones de la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden salas del Edificio Bioclimático a la Red Deportiva Yecla los días 10 y 13 de octubre para reuniones de padres y entrenadores.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "676250M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Boda civil en el Salón de Sesiones de la Casa Consistorial",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la 3ª planta de la Casa Consistorial el 22 de octubre.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "675355T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Boda civil en el Salón de Plenos de la Casa Consistorial",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a celebrar su matrimonio civil en el Salón de Plenos de la Casa Consistorial el 22 de octubre.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674778R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    }
+  ]
+}

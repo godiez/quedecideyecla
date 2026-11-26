@@ -1,0 +1,627 @@
+{
+  "doc": "2020-07-28_JGL_37",
+  "organo": "JGL",
+  "sesion": 37,
+  "fecha": "2020-07-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno adjudica a Invemat Levante el cambio a LED del alumbrado público por 163.350 euros y aprueba el Festival Creacción 2020, con un presupuesto de 91.903 euros y arquitectura efímera en las calles. Convoca ayudas de 53.250 euros para asociaciones de inserción social, aprueba un proyecto de inserción laboral de 41.120 euros, crea bolsas de empleo de trabajador social, educador social y psicólogo, y concede 15 becas de Arqueología. Niega a los supermercados abrir el festivo del 14 de septiembre y deniega una marcha ciclista por el COVID.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 21 y 24 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reintegro parcial de una ayuda del SEF y dos sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Regional de Empleo y Formación inicia el reintegro parcial de una subvención para un curso de 'Docencia de la formación profesional para el empleo' (AC-2017-2112), y de dos sentencias del Juzgado de lo Contencioso nº 6 de Murcia que anulan sendas multas municipales impuestas por la Ley de Seguridad Ciudadana (art. 36.16).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "475879T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Taquilla del concierto 'Músicas del Aire: Heritage Ensemble'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de la taquilla del concierto del 18 de julio: se recaudaron 48 euros y se dan de baja 272 euros de entradas no vendidas (de 320 emitidos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 48.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475802M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratación de siete técnicos de Educación Infantil para el curso 2020/21",
+      "categoria": "personal",
+      "resumen": "Se contratan, a tiempo parcial y por obra o servicio, siete técnicos de Educación Infantil de la bolsa de empleo para que las escuelas infantiles municipales funcionen el curso 2020/2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475828Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Sustitución de una técnica de Educación Infantil de baja por maternidad",
+      "categoria": "personal",
+      "resumen": "Se contrata de forma interina, a media jornada, a una técnica de Educación Infantil para sustituir a una trabajadora de la Escuela Infantil El Parque.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476178J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "15 alumnos-trabajadores del programa de empleo 'Atención sociosanitaria a domicilio'",
+      "categoria": "personal",
+      "resumen": "Se incorporan 15 alumnos-trabajadores (y una lista de 8 suplentes) al Programa Mixto de Empleo-Formación 'Atención Sociosanitaria a personas en el domicilio' (Yecla T-Emplea), subvencionado por el SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia el programa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "272521C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Contratación de formador del programa 'Atención sociosanitaria a domicilio'",
+      "categoria": "personal",
+      "resumen": "Se contrata a una formadora para el programa mixto de empleo y formación Yecla T-Emplea y se aprueba la lista de suplentes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "272521C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Contratación de coordinador del programa 'Atención sociosanitaria a domicilio'",
+      "categoria": "personal",
+      "resumen": "Se contrata a un coordinador para el programa mixto de empleo y formación Yecla T-Emplea y se aprueba una lista de 11 suplentes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "272521C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso a Amigos de la Música para un 'Ensayo con público' en el atrio de la Basílica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música de Yecla un ensayo con público el 31 de julio en el atrio de la Basílica, con el público en la calle España, con las condiciones de Policía Local y Sanidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475711K",
+      "lugar": "Atrio de la Basílica, calle España",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Permiso a Amigos de la Música para el ciclo 'El sonido de Yecla'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música el ciclo 'El sonido de Yecla' (tres partes, una sobre Azorín y la música) en 11 días de agosto y septiembre, en dos turnos nocturnos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475711K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Terraza de 16 m² para el bar 'Rincón Z' en la avenida de la Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del bar 'Rincón Z' para la temporada de verano con 16 m², el doble que en 2019 por las limitaciones de aforo del COVID; se reducirá a 8 m² cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475538W",
+      "lugar": "Avenida de la Paz",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegada una plaza de aparcamiento para discapacitados en la calle Quevedo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino una plaza reservada para personas con discapacidad porque ya hay una a pocos metros y ya tiene una reserva frente a su puerta.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473826R",
+      "lugar": "Calle Quevedo",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Convocatoria de ayudas de 53.250 € a asociaciones de inserción social 2020",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones para asociaciones e instituciones con programas de promoción e inserción social en 2020, hasta 53.250 euros, con reglas especiales por el COVID (gastos de protección, alquileres de locales).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 53250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475961H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Proyecto de inserción sociolaboral 2020: 41.120 € y contratación de una peón-conserje",
+      "categoria": "personal",
+      "resumen": "Se aprueba el Proyecto de Inserción Socio-Laboral 2020 para personas en riesgo de exclusión, con un gasto de 41.120 euros, y la contratación de una persona como peón-conserje en el Centro de Servicios Sociales durante un máximo de cinco meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 41120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476153Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "La Peña Taurina usa la plaza de toros para una práctica de toreo a puerta cerrada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña Taurina Yeclana a usar la plaza de toros municipal el 1 de agosto para una práctica de toreo a puerta cerrada con tres reses de la Ganadería Montalvo, S.L., con una fianza de 400 euros y seguro de responsabilidad civil.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Ganadería Montalvo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aporta las reses"
+        },
+        {
+          "nombre": "Carnicería Virgen del Carmen (Abarán)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "retira las reses"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476113T",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Bolsa de empleo de Trabajador/a Social",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de trabajadores sociales temporales (grupo A2). Se acepta la alegación de CCOO sobre lenguaje inclusivo y se rechaza la que pedía poder llamar a quien ya trabaja en el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Sección Sindical de CCOO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "presenta alegaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395494Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Bolsa de empleo de Educador/a Social",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de educadores sociales temporales (grupo A2), con las mismas alegaciones de CCOO (una aceptada y otra rechazada).",
+      "entidades": [
+        {
+          "nombre": "Sección Sindical de CCOO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "presenta alegaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "396007K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Bolsa de empleo de Psicólogo/a",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de psicólogos temporales (grupo A1), con las mismas alegaciones de CCOO (una aceptada y otra rechazada).",
+      "entidades": [
+        {
+          "nombre": "Sección Sindical de CCOO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "presenta alegaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395127N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Contratación de un agente de desarrollo local por las ayudas COVID al comercio",
+      "categoria": "personal",
+      "resumen": "Se contrata durante tres meses a un agente de desarrollo local para tramitar las más de 460 solicitudes de ayudas COVID a comercios, bares y profesionales y el aumento de programas de empleo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476325N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Sustitución de una técnica de Educación Infantil en excedencia",
+      "categoria": "personal",
+      "resumen": "Se contrata de forma interina, a media jornada, a una técnica de Educación Infantil para sustituir a una trabajadora de la Escuela Infantil Alameda en excedencia por cuidado de hijo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476181N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Reclasificación del puesto de la programadora de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se aplica desde el 1 de agosto a la oficial de mantenimiento-programadora de Cultura y Festejos interina la reclasificación de su puesto aprobada con el presupuesto y la plantilla de 2020, y se modifica su contrato.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476477Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Renuncia de un delegado de personal de UGT",
+      "categoria": "personal",
+      "resumen": "La Junta toma conocimiento de la renuncia de un trabajador a su puesto de delegado de personal en la Junta de Personal, en representación de UGT.",
+      "entidades": [
+        {
+          "nombre": "UGT",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "sindicato"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "476492W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.8",
+      "titulo": "Tres becas de prácticas de Arqueología en el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden tres becas de prácticas de Arqueología de 1.800 euros cada una (en tres mensualidades, hasta 330 horas) en el Museo Arqueológico Municipal 'Cayetano de Mergelina', y se crea una lista de espera.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 5400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "459141X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.9",
+      "titulo": "Doce becas de auxiliares de Arqueología de 750 € cada una",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 12 becas de auxiliar de Arqueología de 750 euros cada una para trabajar 250 horas entre julio y septiembre, y se crea una lista de espera.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 9000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470773C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.10",
+      "titulo": "Festival Creacción 2020: presupuesto de 91.903 € con arquitectura efímera",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar la XII edición del Festival Creacción (25-27 de septiembre), que une arte joven, diseño, mueble y arquitectura, con un presupuesto de 91.903 euros: proyecto y dirección 17.908, obras de arquitectura efímera 45.375, talleres y jornadas 6.050, difusión 8.047 e iluminación 14.520.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 91903.0,
+      "importes": [
+        {
+          "concepto": "Redacción del proyecto técnico, dirección, coordinación, diseño de talleres y jornada de expertos",
+          "eur": 17908.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Ejecución de obras de arquitectura efímera",
+          "eur": 45375.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Actividades formativas y jornadas de expertos",
+          "eur": 6050.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Plan de difusión y comunicación",
+          "eur": 8047.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Iluminación ornamental",
+          "eur": 14520.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475585K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.11",
+      "titulo": "Contrato de diseño y montaje del festival de arquitectura efímera Creacción",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Rocamora Diseño y Arquitectura, S.L.P. el diseño y montaje del Festival de Arquitectura Efímera Creacción 2020 por 17.908 euros, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17908.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472279T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.12",
+      "titulo": "Adjudicadas las luces LED del alumbrado público a Invemat Levante por 163.350 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Invemat Levante, S.L. el suministro e instalación de luminarias LED en el alumbrado público por 135.000 euros más IVA (163.350 euros). Se excluyó una oferta presentada fuera de plazo y se rechazaron las de Electromur, S.A. y Elecnor, S.A. por no cumplir el pliego técnico.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Electromur, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        },
+        {
+          "nombre": "Elecnor, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "licitador excluido"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 163350.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397126P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.13",
+      "titulo": "Denegado abrir los supermercados el festivo local del 14 de septiembre",
+      "categoria": "otros",
+      "resumen": "Se rechaza la petición de la Asociación de Supermercados de la Región de Murcia (ASUMUR) de abrir el comercio de alimentación el lunes 14 de septiembre (festivo local), porque el Ayuntamiento ya gastó en enero los dos cambios de festivos permitidos (abrir el 7 y 8 de diciembre).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Supermercados de la Región de Murcia (ASUMUR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "474300A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.14",
+      "titulo": "Uso del Auditorio para grabar un vídeo del 'Syntagma Dúo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar el Auditorio Municipal 'Juan Miguel Benedito' el 30 de julio para grabar a puerta cerrada un vídeo del dúo 'Syntagma Dúo', previo pago de un precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476161K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9.15",
+      "titulo": "Denegada la marcha ciclista solidaria 'Solidarity Castle Rise' por el COVID",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular la actividad ciclista no competitiva 'Solidarity Castle Rise' del 1 de agosto porque, según Policía Local, Sanidad y Deportes, no se pueden garantizar las medidas de higiene, prevención y aforo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "475841Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.16",
+      "titulo": "La Federación de Atletismo usa gratis la pista para una competición de tecnificación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el protocolo COVID de la pista de atletismo del Complejo Juan Palao Azorín y se autoriza a la Federación de Atletismo de la Región de Murcia una competición de vallas y saltos el 31 de julio, con uso gratuito de las instalaciones (valorado en 459,60 euros) y apoyo municipal.",
+      "entidades": [
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso y recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 459.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474746W",
+      "lugar": "Pista de atletismo del Complejo Juan Palao Azorín",
+      "interes": 1
+    }
+  ]
+}

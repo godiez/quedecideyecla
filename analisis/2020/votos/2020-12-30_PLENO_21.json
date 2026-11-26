@@ -1,0 +1,322 @@
+{
+  "doc": "2020-12-30_PLENO_21",
+  "asistentes": {
+    "PP": 11,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria y urgente. Se justifica la ausencia de una concejala del PP (20 presentes). Un concejal del PP sale de la sala antes del punto 8 y vuelve tras votarse el punto 9: en esos dos puntos el PP cuenta 10 (el punto 9 da 14 a favor, que cuadra con 10+2+2). En los puntos 2, 7, 9 y 10 el PSOE se abstiene (5) y el resto vota a favor; en el debate del punto 7 el PSOE explica que se abstiene por dudas sobre gastos anteriores a la firma de los convenios. Los punto_idx se han calculado como ref - 1 porque el JSON del análisis aún no existía al escribir este fichero.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "explicada la urgencia de la convocatoria de la sesión, se aprueba por unanimidad."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por quince votos a favor (Grupo M. Popular, Grupo M. Izquierda Unida-Verdes y Grupo M. Ciudadanos), y cinco abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos: 1. Aprobar [...] la prórroga por plazo de un año"
+    },
+    {
+      "punto_idx": 2,
+      "punto_ref": "3",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Dar por justificadas las cantidades abonadas por este Ayuntamiento al Consejo Regulador Denominación de Origen Protegida Yecla"
+    },
+    {
+      "punto_idx": 3,
+      "punto_ref": "4",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Dar por justificado el primer plazo de la subvención otorgada a la Fundación Castillo Puche"
+    },
+    {
+      "punto_idx": 4,
+      "punto_ref": "5",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Dar por justificada la totalidad de la subvención otorgada [...] Federación de Peñas de San Isidro"
+    },
+    {
+      "punto_idx": 5,
+      "punto_ref": "6",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Dar por justificada la subvención otorgada a la Asociación Ruta del Vino de Yecla"
+    },
+    {
+      "punto_idx": 6,
+      "punto_ref": "7",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por quince votos a favor (Grupo M. Popular, Grupo M. Izquierda Unida-Verdes y Grupo M. Ciudadanos), y cinco abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos: 1. Aprobar el borrador y suscribir convenio con la Institución Feria Regional del Mueble de Yecla"
+    },
+    {
+      "punto_idx": 7,
+      "punto_ref": "8",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 10,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Entender correctamente justificado el Convenio de referencia, en su temporada 2019/2020."
+    },
+    {
+      "punto_idx": 8,
+      "punto_ref": "9",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 10,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por catorce votos a favor (Grupo M. Popular, Grupo M. Izquierda Unida-Verdes y Grupo M. Ciudadanos), y cinco abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por quince votos a favor (Grupo M. Popular, Grupo M. Izquierda Unida-Verdes y Grupo M. Ciudadanos), y cinco abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos"
+    }
+  ]
+}

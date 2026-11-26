@@ -1,0 +1,604 @@
+{
+  "doc": "2024-08-06_JGL_38",
+  "organo": "JGL",
+  "sesion": 38,
+  "fecha": "2024-08-06",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno prepara la Feria de Septiembre: saca a concurso la infraestructura (173.000 euros en cuatro lotes), aprueba contratar los conciertos de Chanel (58.080 euros) y León Benavente (39.930 euros) y otras actuaciones, y autoriza 57 atracciones y puestos. Las obras del Mercado Central se paran y se prorrogan tres meses porque faltaba la autorización eléctrica, y se rechaza a la empresa Graphenano que le tramite una autorización para fabricar baterías en la carretera de Villena (debe ir por declaración responsable). También se pagan 129.925 euros en facturas y se fija el examen de 10 plazas de auxiliar administrativo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se ratifica la urgencia de la convocatoria",
+      "categoria": "organizacion",
+      "resumen": "La Junta confirma que la sesión se convoca con carácter urgente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962900M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús urbano, derribos y equipos de red",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: la limpieza de edificios municipales y el autobús urbano de julio, la demolición de inmuebles en las calles Carmen y San Roque y dispositivos de red del plan de digitalización.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nunsys, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 129925.21,
+      "importes": [
+        {
+          "concepto": "Obras de demolición de varios inmuebles en calle Carmen y calle San Roque",
+          "eur": 20159.9,
+          "entidad": "Servicios Profesionales Murcianos, S.L."
+        },
+        {
+          "concepto": "Dispositivos electrónicos de red (modernización y digitalización de entidades locales)",
+          "eur": 16528.6,
+          "entidad": "Nunsys, S.A."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, julio 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, julio 2024",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M, 888866M, 841943Q, 777197Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para construir una cuadra en suelo rústico",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a particulares para construir una cuadra (explotación equina), condicionada a inscribirla en el Registro de Explotaciones Equinas y a presentar declaración responsable de la actividad.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "852239Q (795/2023)",
+      "lugar": "Polígono 110",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia a Simgest Solution para derribar una vivienda en la avenida de Córdoba",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Simgest Solution, S.L. licencia para derribar una vivienda entre medianeras, con fianzas de 447,02 € por la urbanización y 1.000 € por cables de alumbrado y mobiliario urbano, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "Simgest Solution, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de urbanización",
+          "eur": 447.02,
+          "entidad": "Simgest Solution, S.L."
+        },
+        {
+          "concepto": "Fianza por cables de alumbrado público y mobiliario urbano",
+          "eur": 1000.0,
+          "entidad": "Simgest Solution, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934955Z (372/2024)",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para demoler un edificio entre medianeras (con amianto)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia para demoler un edificio entre medianeras, con fianzas de 712,92 € y 659,58 €, desratización previa, vallado del solar y plan de trabajo aprobado por la autoridad laboral por riesgo de amianto.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953793N (445/2024)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para derribar una vivienda entre medianeras (con amianto)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia para derribar una vivienda entre medianeras, con fianzas de 2.141,37 € y 796,45 €, desratización previa, vallado del solar y plan de trabajo por riesgo de amianto.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953792M (480/2024)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "No se tramita a Graphenano una autorización para fabricar baterías en suelo rústico",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Graphenano, S.L. pidió tramitar una autorización de uso provisional por interés social para una nueva fábrica de baterías en base agua en la carretera de Villena. Se desestima porque, tras los cambios de 2021 en la ley del suelo regional, ya no hace falta el informe de la Comunidad Autónoma: la empresa debe presentar una declaración responsable urbanística (uso provisional del art. 111) y obtener el permiso de actividad.",
+      "entidades": [
+        {
+          "nombre": "Graphenano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "no se le remite el expediente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "937289Q (T.A. 8/24)",
+      "lugar": "Ctra. Yecla-Villena, km 0,5",
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oposición a 10 plazas de auxiliar administrativo: admitidos, tribunal y fechas",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales del concurso-oposición de 10 plazas de auxiliar administrativo (unos 300 admitidos y 18 excluidos, casi todos por presentar la instancia fuera de plazo), dos adaptaciones para aspirantes con discapacidad (y se deniega otra por falta de certificado), el tribunal, la valoración de méritos el 8 de noviembre y el examen tipo test el 15 de noviembre de 2024 en el IES Azorín.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695609Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Plan estratégico de marketing turístico para Inmark (10.285 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Grupo Empresarial Inmark, S.A. un contrato menor para redactar el Plan Estratégico de Marketing Turístico, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' financiado con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Grupo Empresarial Inmark, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10285.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "946647N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reparto de los recibos del IBI urbano para Envíos Megarejo (6.268 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Envíos Megarejo, S.L. el contrato menor de reparto de los envíos del IBI urbana por 6.267,80 €.",
+      "entidades": [
+        {
+          "nombre": "Envíos Megarejo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6267.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "963128D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Mercado Central: se para la obra y se amplía el plazo tres meses",
+      "categoria": "contrato",
+      "resumen": "Guerola Transer, S.L.U., que remodela el Mercado Central, pidió entregar ya la parte terminada y parar el plazo porque faltaba la autorización del nuevo centro de transformación eléctrico. Se deniega la recepción parcial (el edificio aún no puede usarse), se reconoce la suspensión desde el 22 de junio, se autoriza reanudar la obra al llegar las autorizaciones y se prorroga el plazo tres meses.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Concurso para la infraestructura de la Feria de Septiembre (173.000 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a concurso (procedimiento abierto simplificado) la infraestructura de la Feria 2024 en cuatro lotes: producción de conciertos y espectáculos, remolques de aseos, alumbrado ornamental y electricidad del Real de la Feria, y carpas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 172986.44,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actuaciones y conciertos",
+          "eur": 85377.6,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: alquiler de semirremolques de aseos",
+          "eur": 24169.75,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: alumbrado ornamental y suministro eléctrico del Real de la Feria",
+          "eur": 29528.84,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: alquiler de carpas",
+          "eur": 33910.25,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 10/24",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Concierto de León Benavente en la Feria (39.930 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad, con la empresa que tiene la exclusiva del grupo, el concierto de León Benavente en el Recinto Ferial durante la Feria de Septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 39930.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.PR. 2/24",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Concierto de Chanel en la Feria (58.080 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar por procedimiento negociado sin publicidad el concierto de la cantante Chanel en el Recinto Ferial durante la Feria de Septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 58080.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.PR. 3/24",
+      "lugar": "Recinto Ferial",
+      "interes": 3
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Actuación de Hora Zulú en la Feria (8.470 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Gabinas de Cochero, S.L. la actuación del grupo Hora Zulú el 13 de septiembre en la Feria.",
+      "entidades": [
+        {
+          "nombre": "Gabinas de Cochero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8470.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964167X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Fiesta 'Conexión Remember' en la Feria (6.050 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular la actuación 'Conexión Remember' del 20 de septiembre en la Feria.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6050.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964215N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Musical infantil tributo a Bluey en la Feria (7.260 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a La Cartagenera de Espectáculos, S.L. el musical 'Una Aventura Azul, tributo a Bluey' el 18 de septiembre en la Feria.",
+      "entidades": [
+        {
+          "nombre": "La Cartagenera de Espectáculos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964753K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Festejo taurino de la Feria: se piden ofertas (7.000 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las condiciones y un gasto de 7.000 € para contratar la organización de un festejo taurino en la Plaza de Toros durante la Feria; se pedirán ofertas hasta el 27 de agosto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "960261X",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Autorizadas las atracciones y puestos de la Feria 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan 57 instalaciones para la Feria: casetas de tiro, puestos de comida (churrerías, hamburgueserías, gofres, pizzerías), juguetes, atracciones infantiles y mecánicas (coches de choque, barco pirata, Tifón, Air Maxx 360...) y máquinas recreativas, condicionadas al certificado de montaje visado.",
+      "entidades": [
+        {
+          "nombre": "Almazán Events, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada (atracciones Saltamontes y Air Maxx 360)"
+        },
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "autorizada (dos comunidades de bienes con atracciones)"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "feriantes autorizados"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938840W",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Dos badenes para reducir la velocidad junto al Cerrico de la Fuente",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se aprueba instalar de forma provisional dos reductores de velocidad tipo 'lomo de asno' en el camino de acceso al Cerrico de la Fuente, muy usado por peatones y vecinos, para limitar la velocidad a 30-40 km/h.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955981C",
+      "lugar": "Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Visto bueno a una fiesta con DJ en el bar Samsara",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se informa favorablemente la fiesta de aniversario del café bar Samsara la noche del 24 al 25 de agosto, con música de DJ en la terraza hasta las 23:00 (máximo 80 dBA) y luego solo en el interior.",
+      "entidades": [
+        {
+          "nombre": "Café bar Samsara",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante (titular particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964389E",
+      "lugar": "Calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Protección Civil de Yecla colabora en festivales de Villena",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil de Yecla a colaborar en festivales y conciertos de Villena los días 7 a 10 y 15 a 17 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Villena",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964399T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Protección Civil de Yecla colabora en las fiestas de Blanca",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil de Yecla a colaborar en las fiestas patronales de Blanca los días 10, 12, 13 y 14 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Blanca",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964409H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Protección Civil de Yecla colabora en las fiestas de Montealegre del Castillo",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil de Yecla a colaborar en las fiestas patronales de Montealegre del Castillo los días 12, 14 y 15 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964364W",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

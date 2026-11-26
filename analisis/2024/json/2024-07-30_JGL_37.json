@@ -1,0 +1,1056 @@
+{
+  "doc": "2024-07-30_JGL_37",
+  "organo": "JGL",
+  "sesion": 37,
+  "fecha": "2024-07-30",
+  "tipo_sesion": "ordinaria",
+  "paginas": 40,
+  "resumen": "La Junta de Gobierno aprueba el programa de conciertos de la Feria 2024 (137.456 euros, con Chanel y León Benavente como cabezas de cartel) y pide a la Comunidad Autónoma 658.166 euros para arreglar el camino rural de La Capellanía. Paga 229.048 euros en facturas (revisión del Plan General, basuras, limpieza de edificios, 'Verano en danza' y comedor infantil), adjudica columpios para la Plaza 8 de Marzo y el Cerro del Castillo y el mantenimiento de ascensores, y anula por un error del pliego el concurso del proyecto para rehabilitar la Iglesia de la Asunción. El jefe de la Policía Local pasa a servicios especiales al ser nombrado director general regional, y se autorizan como provisionales las obras de restauración del paraje Las Celadillas, junto a la depuradora, para no perder la financiación europea.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta del 23 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: descuento del canon de saneamiento, Catastro y Plan de Obras 2024-2025",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Agencia Tributaria regional descuenta 36.985,51 € de un pago pendiente al Ayuntamiento para cobrar el canon de saneamiento (depuración, mayo de 2024); de una comunicación del Catastro sobre una expropiación forzosa, y de la orden de la Dirección General de Administración Local que concede el Plan de Obras y Servicios 2024-2025 (sin importe en el acta).",
+      "entidades": [
+        {
+          "nombre": "Agencia Tributaria de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "descuenta el canon de saneamiento"
+        },
+        {
+          "nombre": "Gerencia Regional del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica expropiación"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede el Plan de Obras y Servicios"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36985.51,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: revisión del Plan General, basuras, limpieza y 'Verano en danza'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: un 14 % del contrato de revisión del Plan General de Ordenación Urbana, el tratamiento de basuras de junio, la limpieza de edificios municipales de junio y la producción del ciclo 'Verano en danza'.",
+      "entidades": [
+        {
+          "nombre": "Ezquiaga Arquitectura, Sociedad y Territorio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 222340.08,
+      "importes": [
+        {
+          "concepto": "14 % del precio del contrato de revisión del PGOU",
+          "eur": 63843.13,
+          "entidad": "Ezquiaga Arquitectura, Sociedad y Territorio, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, junio 2024",
+          "eur": 75247.53,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, junio 2024",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicios, suministros y producción de 'Verano en danza'",
+          "eur": 19130.1,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "101467C, 584325N, 777197Q, 938784R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Preparaos' (Academia Crisdance) en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la venta de entradas del espectáculo del 12 de julio: 10.728 € recaudados en taquilla y se anulan 1.680 € en entradas no vendidas (de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia Crisdance",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10728.0,
+      "importes": [
+        {
+          "concepto": "Recaudación en taquilla",
+          "eur": 10728.0,
+          "entidad": "Academia Crisdance"
+        },
+        {
+          "concepto": "Baja de entradas no vendidas",
+          "eur": 1680.0,
+          "entidad": "Academia Crisdance"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'Desafío Quiz' (Crearte) en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la venta de entradas del 13 de julio: 3.114 € recaudados y 9.294 € en entradas no vendidas anuladas (de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Crearte",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3114.0,
+      "importes": [
+        {
+          "concepto": "Recaudación en taquilla",
+          "eur": 3114.0,
+          "entidad": "Crearte"
+        },
+        {
+          "concepto": "Baja de entradas no vendidas",
+          "eur": 9294.0,
+          "entidad": "Crearte"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo 'Némesis' (Academia Infinity) en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la venta de entradas del 19 de julio: 2.268 € recaudados y 10.140 € en entradas no vendidas anuladas (de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia Infinity",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2268.0,
+      "importes": [
+        {
+          "concepto": "Recaudación en taquilla",
+          "eur": 2268.0,
+          "entidad": "Academia Infinity"
+        },
+        {
+          "concepto": "Baja de entradas no vendidas",
+          "eur": 10140.0,
+          "entidad": "Academia Infinity"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del concierto '50 años de música' de la Banda Sinfónica en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la venta de entradas del concierto de la Banda Sinfónica de la Asociación de Amigos de la Música de Yecla del 21 de julio: 2.790 € recaudados y 9.618 € en entradas no vendidas anuladas (de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (A.A.M.Y.)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el concierto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2790.0,
+      "importes": [
+        {
+          "concepto": "Recaudación en taquilla",
+          "eur": 2790.0,
+          "entidad": "Asociación de Amigos de la Música de Yecla (A.A.M.Y.)"
+        },
+        {
+          "concepto": "Baja de entradas no vendidas",
+          "eur": 9618.0,
+          "entidad": "Asociación de Amigos de la Música de Yecla (A.A.M.Y.)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Restauración del paraje Las Celadillas junto a la depuradora: se corrigen los reparos de la CARM",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Para el proyecto municipal de restauración paisajística y recuperación de zonas húmedas y hábitats de flora y fauna en Las Celadillas, junto a la balsa de la depuradora, la Comunidad Autónoma pidió justificar la parte situada en zona inundable y hacer un estudio de paisaje. Se aprueba la documentación preparada por Neten Consultoría, S.L., se ratifica el informe favorable a su interés público y se remite a la Dirección General de Ordenación del Territorio.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta la documentación"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Urbanismo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar la actuación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875709N",
+      "lugar": "Paraje Las Celadillas, junto a la balsa reguladora de la EDAR",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Dos personas excluidas de la bolsa de trabajadores sociales por rechazar el puesto",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de empleo de Trabajadores Sociales de 2021 a dos integrantes que rechazaron el llamamiento sin justificarlo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494811N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Siete técnicos de educación infantil para las escuelas infantiles en el curso 2024/25",
+      "categoria": "personal",
+      "resumen": "Se contratan de la bolsa de empleo siete Técnicos de Educación Infantil para el curso 2024/25 (desde el 2 de septiembre) en las escuelas infantiles El Parque (3), Alameda (2), Campanilla (1) y Perro Local (1), con jornadas de 17,5 a 30 horas semanales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959263K",
+      "lugar": "Escuelas Infantiles Municipales",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Reducciones de jornada para nueve trabajadoras de las escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se conceden reducciones de jornada no retribuidas (entre el 5 % y el 50 %) a nueve técnicas de las escuelas infantiles para cuidar a hijos menores de 12 años o familiares dependientes durante el curso 2024/25.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959268R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Sustituta en la escuela infantil El Parque por un permiso de maternidad",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una Técnico de Educación Infantil a media jornada (20 h/semana) desde el 2 de septiembre para sustituir a una trabajadora de baja por nacimiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959275C",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Felicitación a dos policías locales que salvaron la vida a un motorista",
+      "categoria": "personal",
+      "resumen": "Se felicita a dos agentes de la Policía Local que el 27 de julio, en un grave accidente en la carretera de Almansa, cortaron con torniquetes la hemorragia de un motorista con una pierna amputada, actuación que según el médico probablemente le salvó la vida.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "agentes felicitados"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962126M",
+      "lugar": "Carretera de Almansa",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Mantenimiento de los ascensores municipales para A3 Ascensores: 7.078,50 € al año",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a A3 Ascensores, S.L. el mantenimiento de los ascensores de varios edificios municipales durante cuatro años, por 7.078,50 € al año (IVA incluido). Su oferta parecía anormalmente baja, pero la justificó; quedó primera en precio y en todas las mejoras.",
+      "entidades": [
+        {
+          "nombre": "A3 Ascensores, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28314.0,
+      "importes": [
+        {
+          "concepto": "Precio anual (5.850 € + IVA)",
+          "eur": 7078.5,
+          "entidad": "A3 Ascensores, S.L."
+        },
+        {
+          "concepto": "Total cuatro años (calculado)",
+          "eur": 28314.0,
+          "entidad": "A3 Ascensores, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911975H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licencias de seguridad informática Fortinet para Nextret: 10.120,20 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Nextret, S.L. para el suministro de las licencias Fortinet 2024 (cortafuegos y seguridad informática) por 10.120,20 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Nextret, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10120.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "952576Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Segundos suplentes en la Mesa de Contratación por las vacaciones",
+      "categoria": "organizacion",
+      "resumen": "Para que las vacaciones no impidan reunir la Mesa de Contratación de la Alcaldía y de la Junta de Gobierno, se añade un segundo suplente a cada miembro (concejales de Urbanismo, Hacienda y Obras, y personal de Secretaría e Intervención).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "790755X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano para la Sala Balmoral en la calle Primero de Mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular del establecimiento 'Sala Balmoral' una terraza de 75 m² en la calle Primero de Mayo durante la temporada de verano (1 de abril a 31 de octubre de 2024).",
+      "entidades": [
+        {
+          "nombre": "particular (Sala Balmoral)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita la terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914525Z",
+      "lugar": "Calle Primero de Mayo",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Se mantiene la denegación de un vado frente a una cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un vecino aclaró que su cochera estaba en otra calle distinta de la que puso en la solicitud; como la denegación del 16 de julio ya se refería a la dirección correcta, se le comunica y se ratifica la denegación de la reserva de aparcamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "946791N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para una reunión de la actividad 'Yecla con sentido'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular a usar el Salón de Plenos el 31 de julio para una reunión de la actividad 'Yecla con sentido'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962250J",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos el 16 de noviembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "960986D",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Aulas del Edificio Bioclimático para la Red Deportiva Yecla toda la temporada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Red Deportiva Yecla a usar aulas o el salón de actos del Edificio Bioclimático para reuniones con padres, entrenadores y directiva del 26 de agosto de 2024 al 31 de julio de 2025.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa las instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961173N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para una conferencia de los Amigos de San Lázaro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de San Lázaro a usar el salón de actos del Edificio Bioclimático el 28 de septiembre para una conferencia.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Lázaro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa las instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961180Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Teatro Concha Segura gratis para el certamen benéfico de la asociación de Alzheimer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia al 28 de noviembre la fecha del certamen benéfico anual de la Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla en el Teatro Concha Segura y se le rebaja el 100 % del precio público de uso del teatro (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el teatro gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922243T",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Concierto-verbena para mayores en el atrio de San Francisco",
+      "categoria": "servicios_actividades",
+      "resumen": "Servicios Sociales usará el atrio de la Iglesia de San Francisco el 17 de octubre para un concierto-verbena de 'Chete y sus amigos' por el Día Internacional de las Personas Mayores.",
+      "entidades": [
+        {
+          "nombre": "Centro Municipal de Servicios Sociales",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949072F",
+      "lugar": "Atrio de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Queda libre un puesto de embutidos del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se da de baja, a petición propia, al titular del puesto L6 del Mercado de San Cayetano (embutidos y salazones), se le devuelve la fianza y el puesto se declara vacante para adjudicarlo de nuevo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824009H",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul a un vecino que cumple los requisitos de la ordenanza de circulación. El acta pone como vigencia el 31 de diciembre de 2022, probablemente una errata.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953353C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul a una vecina que cumple los requisitos. Mismo error de fecha de vigencia (31/12/2022).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959403E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "El Ayuntamiento rechaza explotar un pozo privado para el agua potable",
+      "categoria": "medio_ambiente",
+      "resumen": "Varios particulares ofrecieron al Ayuntamiento explotar para uso público un pozo de agua subterránea de su propiedad. Se responde que no interesa: está a 5 km de los depósitos del Cerro de la Fuente, tiene un trépano atascado en el fondo y da muy poco caudal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "958812J",
+      "lugar": "Polígono 38, parcela 115",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Desbordamiento de la depuradora: respuesta a la Confederación Hidrográfica",
+      "categoria": "medio_ambiente",
+      "resumen": "La Confederación Hidrográfica del Segura requirió explicaciones por los desbordamientos de aguas residuales de la EDAR de Yecla. Se le comunica que ESAMUR limpió los sólidos del cauce tras el vertido causado por las lluvias del 10 de junio de 2024 y que ambos organismos acordaron un protocolo de aviso y actuación para futuros alivios.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "requiere explicaciones"
+        },
+        {
+          "nombre": "ESAMUR (Entidad Regional de Saneamiento y Depuración)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "gestiona la depuradora y limpia el cauce"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959618D",
+      "lugar": "EDAR de Yecla",
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Programa de inserción laboral para personas con discapacidad intelectual",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de inserción sociolaboral 2024 para personas con discapacidad intelectual leve o moderada o trastornos del desarrollo (con prácticas becadas), dentro del Plan de Inserción Social a través del Empleo dotado con 90.000 €, y se contrata a un educador social a jornada completa durante siete meses desde el 17 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe la oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959804M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Plan de seguridad de la obra del yacimiento ibérico de Yakka",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de acondicionamiento y puesta en valor del yacimiento 'Yakka' (Plan de Sostenibilidad Turística 'Yecla ES+', fondos europeos Next Generation a través del ITREM), presentado por la constructora adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria de la obra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867240A",
+      "lugar": "Yacimiento de Yakka",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Pago del comedor de la escuela infantil El Parque (junio)",
+      "categoria": "pago_factura",
+      "resumen": "Se paga el servicio de comedor de la Escuela Infantil El Parque de junio de 2024.",
+      "entidades": [
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7707.56,
+      "importes": [
+        {
+          "concepto": "Comedor E.I. El Parque, junio 2024",
+          "eur": 7707.56,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607446A",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Las obras de Las Celadillas se autorizan como provisionales para no perder fondos europeos",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Como el informe pendiente de la Confederación Hidrográfica puede retrasar 6-12 meses la autorización regional y la actuación (financiada por el Plan de Sostenibilidad Turística 'Yecla ES+', fondos europeos) debe estar hecha a finales de 2024, se autorizan como provisionales (desmontables) las obras de restauración paisajística y de zonas húmedas de Las Celadillas, hasta que la Comunidad Autónoma resuelva.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactora del proyecto"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Urbanismo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autorización pendiente"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informe pendiente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962412J, 875709N",
+      "lugar": "Paraje Las Celadillas, polígono 46, parcela 297 (junto a la EDAR)",
+      "interes": 3
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Nombramiento de una auxiliar administrativa fija para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Tras renunciar la aspirante que aprobó, se nombra funcionaria de carrera a la siguiente de la lista complementaria en una plaza de Auxiliar Administrativo (proceso de estabilización de empleo temporal) para la Universidad Popular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840431Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "El jefe de la Policía Local, nombrado director general de Seguridad Ciudadana de la Región",
+      "categoria": "personal",
+      "resumen": "Se declara en servicios especiales al Comisario Principal-Jefe de la Policía Local de Yecla al haber sido nombrado por la Comunidad Autónoma Director General de Seguridad Ciudadana y Emergencias (Decreto 154/2024); conserva su plaza municipal mientras ocupe el cargo.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nombra al nuevo director general"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962515C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Contratación de una cuidadora de animales para cubrir vacaciones",
+      "categoria": "personal",
+      "resumen": "Se contrata, a propuesta de la comisión de selección, a una cuidadora de animales para sustituir a un trabajador durante sus vacaciones (4 al 22 de septiembre).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "960468J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Sustituta en la escuela infantil Alameda por un permiso de maternidad",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una Técnico de Educación Infantil (17,5 h/semana) desde el 2 de septiembre para sustituir a una trabajadora de baja por nacimiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962358J",
+      "lugar": "Escuela Infantil Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "15.7",
+      "titulo": "Nuevos columpios en la Plaza 8 de Marzo y junto al Paso de la Bandera del Castillo",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro y colocación de juegos infantiles en dos lotes: Plaza 8 de Marzo a Equipamientos de Entorno Urbano, S.L. (23.442,78 €) y entorno del Paso de la Bandera del Cerro del Castillo a Neopark CLM 2011, S.L. (26.257 €), IVA incluido. Se rechazan en el lote 1 las ofertas de Equipamientos Deportivos, S.A. y Crous Expert, S.L. por salirse del área de actuación.",
+      "entidades": [
+        {
+          "nombre": "Equipamientos de Entorno Urbano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria lote 1"
+        },
+        {
+          "nombre": "Neopark CLM 2011, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria lote 2"
+        },
+        {
+          "nombre": "Equipamientos Deportivos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "oferta rechazada"
+        },
+        {
+          "nombre": "Crous Expert, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "oferta rechazada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 49699.78,
+      "importes": [
+        {
+          "concepto": "Lote 1: Plaza 8 de Marzo",
+          "eur": 23442.78,
+          "entidad": "Equipamientos de Entorno Urbano, S.L."
+        },
+        {
+          "concepto": "Lote 2: entorno del Paso de la Bandera (Cerro del Castillo)",
+          "eur": 26257.0,
+          "entidad": "Neopark CLM 2011, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "909253C",
+      "lugar": "Plaza 8 de Marzo; Paso de la Bandera, Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Se anula el concurso del proyecto de la Iglesia de la Asunción por un error del pliego",
+      "categoria": "contrato",
+      "resumen": "Se desiste de la licitación del proyecto y dirección de obra para rehabilitar la Iglesia de la Asunción como centro de visitantes (Plan de Sostenibilidad Turística, fondos Next Generation). Rocamora Diseño y Arquitectura, S.L.P. alegó que los criterios subjetivos debía valorarlos un comité de expertos y no el arquitecto municipal que redactó los pliegos; el Ayuntamiento le da la razón, anula el procedimiento (iba a ganar Amorós Rubiato Navarro Arquitectos S.C.P., con 78,81 puntos), le devuelve su garantía de 2.644,63 € y lo licitará de nuevo.",
+      "entidades": [
+        {
+          "nombre": "Amorós Rubiato Navarro Arquitectos S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta como adjudicataria; se le devuelve la garantía"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presenta alegaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2644.63,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912049K",
+      "lugar": "Iglesia de la Asunción (Iglesia Vieja)",
+      "interes": 3
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Prórroga de la animación del centro de mayores Las Herratillas para 2025",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (todo 2025) el contrato con Epsilon Servicios Educativos, S.L. para la animación y dinamización del Centro Municipal de Personas Mayores Las Herratillas. El acta no indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647398P",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Se piden 658.166 € a la Comunidad para arreglar el camino de La Capellanía",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de acondicionamiento y mejora del camino rural de La Capellanía (CRA-5), de 658.165,74 €, y se pide a la Consejería de Agua y Agricultura una subvención por todo el importe (fondos de la PAC 2023-2027). También se pedirán permisos a Carreteras (enlaza con la RM-404) y a la Confederación (afecta a la rambla de la Capellanía).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide la subvención"
+        },
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "debe autorizar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 658165.74,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942478Y",
+      "lugar": "Camino de La Capellanía (CRA-5), junto a la RM-404",
+      "interes": 3
+    },
+    {
+      "ref": "15.11",
+      "titulo": "Conciertos de la Feria 2024: 137.456 €, con Chanel y León Benavente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de actuaciones de la Feria de septiembre de 2024 y su presupuesto de 137.456 € con IVA. Lo más caro: Chanel (48.000 €) y León Benavente (33.000 €), más Noche Rock, Siempre Disco, Bluey y otros infantiles, grupos locales, Conexión Remember y Noche de Coplas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 137456.0,
+      "importes": [
+        {
+          "concepto": "Noche Rock (13 sept.)",
+          "eur": 10000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Chanel (14 sept.)",
+          "eur": 48000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Siempre Disco (15 sept.)",
+          "eur": 4000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil a determinar (17 sept.)",
+          "eur": 3000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil Bluey (18 sept.)",
+          "eur": 6000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Grupos locales (19 sept.)",
+          "eur": 1600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Conexión Remember (20 sept.)",
+          "eur": 5000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "León Benavente (21 sept.)",
+          "eur": 33000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Noche de Coplas (22 sept.)",
+          "eur": 3000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA 21 %",
+          "eur": 23856.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933718F",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

@@ -1,0 +1,730 @@
+{
+  "doc": "2020-06-30_JGL_31",
+  "organo": "JGL",
+  "sesion": 31,
+  "fecha": "2020-06-30",
+  "tipo_sesion": "ordinaria",
+  "paginas": 54,
+  "resumen": "La Junta de Gobierno rechaza los tres recursos de funcionarios contra las bases del concurso para la jefatura de los Servicios Técnicos municipales, en una respuesta muy larga. Acepta 15.507 euros que paga la aseguradora de una abogada que no fue a un juicio por despido perdido por el Ayuntamiento, y una ayuda regional de 21.934 euros para las escuelas de vacaciones. Con la 'nueva normalidad' reabren las oficinas e instalaciones de Deportes, el Padrón atiende sin cita previa y los mercadillos vuelven a montar todos los puestos. También se conceden 11 licencias de obra (naves agrícolas, una nave de filtrado de regantes junto al yacimiento de Los Torrejones) y varias terrazas ampliadas por el COVID-19.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 23 y 26 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas COVID-19, ayudas al autoempleo y pérdida de 10.490 € de un curso",
+      "categoria": "informacion",
+      "resumen": "Se informa de la prórroga de las medidas sobre quema de podas agrícolas, de las bases de ayudas al empleo autónomo del SEF, de las normas sanitarias para el deporte, de un informe sobre desinfección de edificios y de que el SEF liquida una subvención de 2017 para un curso de formación y declara perdido el derecho a cobrar 10.490,71 €.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención"
+        },
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería, Pesca y Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta orden"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta resolución"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10490.71,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "473037X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago a Aqualia: red de agua de la calle Pablo Casals y excesos de consumo municipal",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a FCC Aqualia la renovación de la red de agua potable de la calle Pablo Casals y los excesos de consumo de agua de instalaciones municipales.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17938.05,
+      "importes": [
+        {
+          "concepto": "Renovación de la red de agua potable en la calle Pablo Casals",
+          "eur": 6028.68,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Excesos de consumo de agua potable en instalaciones municipales",
+          "eur": 11909.37,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "441520Y, 470956F",
+      "lugar": "Calle Pablo Casals",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 9 de la obra del semisótano del edificio 'Cazadores'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la novena certificación de la obra de adecuación del semisótano del edificio 'Cazadores' para uso lúdico.",
+      "entidades": [
+        {
+          "nombre": "Constu Archena, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8706.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "137606W",
+      "lugar": "Edificio 'Cazadores'",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "La aseguradora de una abogada paga 15.507 € por un juicio que perdió el Ayuntamiento",
+      "categoria": "reclamaciones",
+      "resumen": "La letrada del Ayuntamiento no acudió a un juicio por despido y el Ayuntamiento fue condenado a pagar 16.507,77 € más a la trabajadora despedida. La aseguradora del Colegio de Abogados asume ahora la indemnización menos una franquicia de 1.000 €, y la Junta acepta 15.507,77 € como compensación definitiva.",
+      "entidades": [
+        {
+          "nombre": "Compañía de seguros del Colegio de Abogados",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga indemnización"
+        },
+        {
+          "nombre": "Juzgado de lo Social nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dictó sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 15507.77,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "216831E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia modificada para cambiar la cubierta de fibrocemento de una nave en La Redondilla",
+      "categoria": "licencia_obra",
+      "resumen": "Se aprueba el proyecto modificado de cambio de cubierta de una nave almacén; al terminar deberá acreditar la correcta gestión de los residuos de fibrocemento (amianto).",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "154738P",
+      "lugar": "Paraje La Redondilla (polígono 34)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Un proyecto de tres viviendas pasa a ser una sola vivienda con garaje",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina la licencia modificada (solo proyecto básico) para construir una vivienda unifamiliar con garaje en lugar de las tres viviendas autorizadas en 2007.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "368804D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una nave agrícola en el paraje Cerrico de la Fuente",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para construir una nave agrícola, con 3 meses para empezar y 6 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "368886R",
+      "lugar": "Paraje Cerrico de la Fuente (polígono 110)",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Cambio de promotor y constructor en la rehabilitación de una casa en Umbría Blanca",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la obra de rehabilitación de una vivienda aislada tiene nuevos promotores tras una compraventa, nuevo director de ejecución y nuevo constructor (antes Pronain Gestión Inmuebles, S.L.).",
+      "entidades": [
+        {
+          "nombre": "Pronain Gestión Inmuebles, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructor saliente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "376109Z",
+      "lugar": "Paraje Umbría Blanca (polígono 41)",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para una nave agrícola en el paraje La Balsa",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para construir una nave agrícola, con 3 meses para empezar y 7 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "437486W",
+      "lugar": "Paraje La Balsa (polígono 54)",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Nave de filtrado para los regantes del Pozo de Santiago junto al yacimiento de Los Torrejones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la Comunidad de Regantes del Pozo de Santiago para una nave de filtrado de riego; los movimientos de tierra deberán ser supervisados por un arqueólogo por estar en la zona protegida (BIC) del yacimiento de Los Torrejones.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes del Pozo de Santiago de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "444145T",
+      "lugar": "Paraje Torrejones (polígono 45)",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Open Country añade un sótano-garaje a una vivienda en La Colorada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza la modificación de la licencia de 2017 de una vivienda unifamiliar aislada para añadir una planta sótano de garaje.",
+      "entidades": [
+        {
+          "nombre": "Open Country, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462491Z",
+      "lugar": "Paraje La Colorada (polígono 19)",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia para llevar una línea eléctrica de baja tensión a una casa en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para ampliar una línea aérea de baja tensión hasta una vivienda rural, con permiso implícito para cruzar caminos municipales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "467373E",
+      "lugar": "Paraje Los Quiñones (polígono 122)",
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Losa de acceso a un taller de coches en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para una losa de forjado como acceso exterior a una nave taller de automóviles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "469412M",
+      "lugar": "Carretera de Villena, km 0,5",
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia para demoler un inmueble en el casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de demolición con fianzas de 347,23 € (urbanización) y 175,51 € (cables de alumbrado), desratización previa, vallado del solar y mantenimiento del alumbrado público.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 522.74,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de urbanización",
+          "eur": 347.23,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Fianza por cables de alumbrado y mobiliario urbano",
+          "eur": 175.51,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471239Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Licencia para una vivienda con piscina en el paraje La Alberca",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (proyecto básico) para una vivienda unifamiliar aislada con piscina; para empezar las obras deberá presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472265Z",
+      "lugar": "Paraje La Alberca (polígono 54)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Rechazados los recursos contra las bases del concurso para Jefe de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Se desestiman los recursos de tres técnicos municipales (arquitectos e ingeniero) contra las bases del concurso de méritos para la jefatura de los Servicios Técnicos. Uno acusaba a las bases de premiar desproporcionadamente másteres y doctorados para dejar fuera a dos de los cuatro posibles aspirantes, e incluso de 'comportamiento punible'; el Ayuntamiento lo rechaza punto por punto. Se abre un plazo de 15 días hábiles para presentarse.",
+      "entidades": [
+        {
+          "nombre": "Universidad Politécnica de Cartagena",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "aporta miembros de la comisión de valoración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "257184A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Un agente de la Policía Local se marcha al Ayuntamiento de Blanca",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cese el 30 de junio de un agente que ha obtenido plaza por movilidad en la Policía Local de Blanca; se le descuentan de vacaciones las horas no trabajadas durante el estado de alarma.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Blanca",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nuevo destino"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "408188D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contratación de un oficial fontanero del plan de inclusión social por el empleo",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan Especial 2020 de Inclusión y Reinserción Social a través del Empleo, se contrata a una persona como oficial 2ª fontanero, solo para este plan.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471219X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Jubilación anticipada de una educadora de las escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada el 3 de agosto de una educadora de las Escuelas Infantiles Municipales con más de cuarenta años de servicio; se le abonarán las indemnizaciones de convenio y se le agradece su trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472399K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 36 m² para 'Pan y pillao' en la plaza de la Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de 36 m², el doble de lo normal de forma excepcional por el COVID-19; volverá a 18 m² cuando acaben las limitaciones de aforo.",
+      "entidades": [
+        {
+          "nombre": "Akawi Adventure, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470707K",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 40 m² para el 'Bar Tino' en la calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de 40 m², el doble de la de 2019 por el COVID-19; bajará a 20 m² cuando acaben las limitaciones de aforo.",
+      "entidades": [
+        {
+          "nombre": "Bar Tino (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472645C",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de 52 m² para la 'Heladería Frigues', sin la ampliación extra pedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de verano de 52 m² en la calle San Pascual, ampliada por el COVID-19, pero se deniega una segunda ampliación por no seguir el criterio aplicado a todos los locales.",
+      "entidades": [
+        {
+          "nombre": "Heladería Frigues (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "472093K",
+      "lugar": "Calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Denegada una terraza en la calle Pío Baroja: el local no tiene licencia de apertura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la terraza de un establecimiento hostelero porque carece de título habilitante para abrir.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "472086A",
+      "lugar": "Calle Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en la calle Castillarejos",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY y con informe favorable de la Policía Local, se habilita una plaza reservada a personas con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471989Q",
+      "lugar": "Calle Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Denegados bolardos ante una cochera de la calle Serratillas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza poner medidas contra el aparcamiento indebido en la puerta de una cochera (segunda entrada de una vivienda): solo se ponen bolardos donde no hay acera y puede pedir un vado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "472459T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Ayuda regional de 21.934 € para las escuelas municipales de vacaciones",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención de la Comunidad Autónoma, cofinanciada por el Fondo Social Europeo, para servicios de conciliación de la vida laboral y familiar, y se destina a las Escuelas Municipales de Vacaciones 2020 (verano, Navidad y Semana Santa).",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21934.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471455Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Aula del Edificio Bioclimático para un curso de fitosanitarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula del 13 al 16 de julio a COAG-IR para el curso básico del carné de manipulador de productos fitosanitarios.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos-Iniciativa Rural de Murcia (COAG-IR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472220M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela de verano en el CEIP Miguel Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP Miguel Ortuño a usar el colegio del 1 al 31 de julio para la escuela de verano de la ludoteca 'El Trébol', con las medidas anti-COVID.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Ludoteca El Trébol (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472466D",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Pistas junto al CEIP La Paz para la escuela de verano de una ludoteca",
+      "categoria": "via_publica_eventos",
+      "resumen": "De forma excepcional por el COVID-19 (normalmente solo se ceden a entidades sin ánimo de lucro), se autoriza gratis a Psico-Educa Yecla C.B. (Ludoteca Neverland) a usar las pistas en julio de 10 a 13 h.",
+      "entidades": [
+        {
+          "nombre": "Psico-Educa Yecla, C.B. (Ludoteca Neverland)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473206F",
+      "lugar": "Pistas deportivas junto al CEIP La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "El Padrón vuelve a atender sin cita previa desde el 20 de julio",
+      "categoria": "servicios_actividades",
+      "resumen": "Por la bajada de demanda, el Negociado de Estadística (Padrón) atenderá sin cita previa, de uno en uno: de lunes a viernes de 10:30 a 15:00 (del 20 de julio al 14 de agosto y desde septiembre) y lunes, miércoles y jueves de 10:30 a 13:30 en la segunda quincena de agosto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473330D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Reabren las oficinas de Deportes con cita previa; inscripción presencial en la escuela de verano",
+      "categoria": "servicios_actividades",
+      "resumen": "La inscripción en la Escuela Deportiva de Verano 2020 será presencial y el Servicio Municipal de Deportes reabre al público con cita previa (teléfono o correo) y aforo de dos personas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473453Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Normas y aforos para reabrir las instalaciones deportivas en la 'nueva normalidad'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban las normas, medidas y aforos de apertura de todas las instalaciones deportivas municipales y para actividades y competiciones tras el fin del estado de alarma.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "459914W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Los mercadillos del Mercado Central y San Cayetano vuelven a montar todos los puestos",
+      "categoria": "via_publica_eventos",
+      "resumen": "El mercadillo junto al Mercado Central podrá montar todos sus puestos en el mismo espacio (hay más del 25% vacantes) y el de San Cayetano se amplía por la calle San José hasta la calle Iberia para que quepan todos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462942A",
+      "lugar": "Mercado Central; Mercado de San Cayetano y calle San José",
+      "interes": 2
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Sala del Edificio Bioclimático para clases de refuerzo de 'Órbita Educa'",
+      "categoria": "via_publica_eventos",
+      "resumen": "De forma excepcional por el COVID-19, se cede gratis una sala en julio de 9 a 13 h a una academia para clases de refuerzo escolar.",
+      "entidades": [
+        {
+          "nombre": "Órbita Educa (titulares particulares)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472518A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Denegada la ampliación de la terraza de la 'Heladería Muss' junto a un paso de peatones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechazan cuatro mesas más en la avenida Pablo Picasso porque estorbarían el paso de peatones, sobre todo a personas ciegas; se permiten 2-3 mesas pequeñas pegadas a la fachada sin aumentar la superficie total.",
+      "entidades": [
+        {
+          "nombre": "Heladería Muss (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "473054W",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Denegada una tarima fija para la terraza de la 'Heladería Muss'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza una tarima de madera fija en la terraza de la calle Primero de Mayo porque no se autorizan este tipo de tarimas.",
+      "entidades": [
+        {
+          "nombre": "Heladería Muss (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "473054W",
+      "lugar": "Calle Primero de Mayo",
+      "interes": 1
+    }
+  ]
+}

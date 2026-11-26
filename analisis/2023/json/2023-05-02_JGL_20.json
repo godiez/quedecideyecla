@@ -1,0 +1,670 @@
+{
+  "doc": "2023-05-02_JGL_20",
+  "organo": "JGL",
+  "sesion": 20,
+  "fecha": "2023-05-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 31,
+  "resumen": "La Junta de Gobierno aprueba el padrón 2023 de la tasa de vados y reservas de vía pública (469.559 euros) y adjudica la infraestructura de las Fiestas de San Isidro (escenarios, tribunas e iluminación de Los Ventorrillos, unos 69.500 euros) y las atracciones de feria. Pide al SEF 219.570 euros para un programa de empleo y formación de jóvenes en tapicería, y aprueba la bolsa de empleo de auxiliar de servicios públicos-inspector. También autoriza siete terrazas de verano, una recreación histórica con armas de pólvora y la marcha solidaria Yecla-Arabí, y pasa a la Policía Local tres coches abandonados.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 25 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: limitaciones por riesgo de incendios forestales",
+      "categoria": "informacion",
+      "resumen": "Se informa de una resolución de la Dirección General del Medio Natural que aplica limitaciones de prevención de incendios forestales en la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "766757Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: gasóleo de calefacción y mantenimiento de zonas verdes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar un suministro de gasóleo C y la limpieza y mantenimiento de las zonas verdes de marzo.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 54676.09,
+      "importes": [
+        {
+          "concepto": "Suministro de gasóleo C",
+          "eur": 6050.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, marzo 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117Z, 538849C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 90% del impuesto de obras (ICIO) por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 90% del ICIO por instalar placas solares de autoconsumo en su vivienda.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729862Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto '10º Aniversario Syntagma Piano Dúo'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (1.230 €) y la baja de las entradas no vendidas (2.262 €) del concierto del 14 de abril en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1230.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo infantil 'Bambi el príncipe del bosque'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (1.110 €) y la baja de las entradas no vendidas (2.382 €) del espectáculo del 16 de abril en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1110.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular de una licencia de obra entre particulares",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que la licencia urbanística nº 312/2021 pasa de dos particulares a uno de ellos, que queda como único promotor.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "nuevo titular"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516390J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de auxiliar de servicios públicos-inspector",
+      "categoria": "personal",
+      "resumen": "Se estiman dos recursos de aspirantes sobre la valoración de sus méritos, se aprueban las puntuaciones finales del concurso-oposición y se crea la bolsa de empleo de auxiliar de servicios públicos-inspector con cinco personas, vigente hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673539X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano del bar Tino en la calle Cruz de Piedra (18 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del bar Tino de abril a octubre de 2023, con 18 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751550W",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de verano de Borneo Café en la calle Cruz de Piedra (12 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del establecimiento Borneo Café de abril a octubre de 2023, con 12 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751542J",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano de La Ibense III en la Plaza Concejala Mª Carmen Lorente (68 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del establecimiento La Ibense III de abril a octubre de 2023, con 68 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748920R",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano de la cafetería Glamour en la calle Antonio Machado (24 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza de la cafetería Glamour de abril a octubre de 2023, con 24 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729100P",
+      "lugar": "Calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Se archiva una petición del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un particular retira su petición de usar el Salón de Sesiones del Ayuntamiento para una boda civil y se cierra el expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "764288M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Aula del Edificio Bioclimático para ofrecer justiprecios por las áreas de servicio de la A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Demarcación de Carreteras del Estado un aula del Edificio Bioclimático el 17 de mayo para ofrecer el justiprecio a los propietarios afectados por las futuras áreas de servicio del Altiplano en la Autovía A-33 (p.k. 44+500).",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita uso de aula"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765004F",
+      "lugar": "Edificio Bioclimático; Autovía A-33, p.k. 44+500",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Atracciones y puestos de feria autorizados para las Fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a 15 feriantes particulares a montar atracciones y puestos (coches de choque, tren de la bruja, camas elásticas, hinchables, churrería, hamburguesería, pizzería, etc.) en San Isidro, condicionado a presentar certificado técnico de montaje y seguridad.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "feriante autorizado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749134P",
+      "lugar": "Recinto de Los Ventorrillos",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Tres coches abandonados en el depósito pasan a la Policía Local",
+      "categoria": "patrimonio",
+      "resumen": "En lugar de desguazarlos, tres turismos retirados de la vía pública y abandonados en el depósito municipal desde 2019-2021 se destinan a vigilancia y control del tráfico de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Jefatura Provincial de Tráfico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita el alta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752633Z",
+      "lugar": "Depósito municipal de vehículos",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Lista provisional de admitidos en las escuelas infantiles para el curso 2023/24",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la lista provisional de admitidos en las escuelas infantiles municipales (El Parque, Alameda, Campanilla, Pulgarcito y El Perro Loco) y se abre plazo de reclamaciones del 3 al 5 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747754Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Padrón 2023 de la tasa de vados y reservas de vía pública",
+      "categoria": "fiscal",
+      "resumen": "Cuestión urgente: se dan de baja los vados que se pidieron y se aprueba el padrón 2023 de la tasa por entrada de vehículos y reservas de vía pública: 469.559,04 €, que con la rebaja por domiciliar quedan en 460.690,02 € al cobro. Pago voluntario del 8 de mayo al 14 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 469559.04,
+      "importes": [
+        {
+          "concepto": "Importe total del padrón",
+          "eur": 469559.04,
+          "entidad": null
+        },
+        {
+          "concepto": "Bonificación por domiciliación",
+          "eur": 8869.02,
+          "entidad": null
+        },
+        {
+          "concepto": "Total al cobro",
+          "eur": 460690.02,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Conserje temporal para el colegio El Alba",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un conserje-operario para cubrir la ausencia del conserje del Colegio Público El Alba.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768809Q",
+      "lugar": "Colegio Público El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Dos empleados municipales van a una formación en Albacete sobre Sedipualba",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos empleados de administración general asistir el 4 y 5 de mayo en Albacete a jornadas de la Diputación de Albacete sobre la plataforma de administración electrónica Sedipualba; el Ayuntamiento paga desplazamiento y manutención.",
+      "entidades": [
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza la formación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769244W",
+      "lugar": "Albacete",
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Adjudicada la infraestructura de las Fiestas de San Isidro 2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudican tres lotes: producción e infraestructura de espectáculos y desfiles (a un empresario particular, 42.350 €), tribunas y sillas (Novofest, 13.915 €) e iluminación del recinto de Los Ventorrillos (Invemat Levante, 13.205,94 €). Los lotes de aseos portátiles y vallado quedan desiertos por falta de ofertas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        },
+        {
+          "nombre": "Novofest, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 69470.94,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades, espectáculos y desfiles",
+          "eur": 42350.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Lote 4: tribunas, decoración y sillas",
+          "eur": 13915.0,
+          "entidad": "Novofest, S.L."
+        },
+        {
+          "concepto": "Lote 5: iluminación ornamental del recinto de Los Ventorrillos",
+          "eur": 13205.94,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719779T",
+      "lugar": "Recinto de Los Ventorrillos",
+      "interes": 3
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Servicios técnicos del teatro y el auditorio: elegido un empresario particular",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de ofertas del contrato de servicios técnicos y generales para los espectáculos de Cultura (Teatro Concha Segura, Auditorio y otros lugares) y se pide la documentación al empresario particular mejor puntuado en los dos lotes. No se indica el precio; las garantías definitivas (4.462,50 € y 3.052,00 €, el 5% de dos años sin IVA) apuntan a unos 150.000 € sin IVA en total.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "propuesto adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "739284J",
+      "lugar": "Teatro Concha Segura; Auditorio Juan Miguel Benedito",
+      "interes": 3
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Terraza de verano de Café Central Park en el Parque de la Constitución (42 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del establecimiento Café Central Park de abril a octubre de 2023, con 42 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755067E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Terraza de verano del Restaurante Azorín en la calle Poeta Miguel Ortega (42 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del Restaurante Azorín de abril a octubre de 2023, con 42 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754786P",
+      "lugar": "Calle Poeta Miguel Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Puesto informativo del Partido Popular en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Partido Popular de Yecla a instalar un puesto informativo en la Plaza de España el 6 de mayo (campaña de las elecciones municipales).",
+      "entidades": [
+        {
+          "nombre": "Partido Popular de Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita ocupación de vía pública"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769312P",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Mesa informativa de Vox en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox a poner una mesa informativa en el Parque de la Constitución el 10 de mayo, de 9 a 13 horas.",
+      "entidades": [
+        {
+          "nombre": "Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita ocupación de vía pública"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766514D",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Recreación de una batalla del siglo XVI con armas de pólvora",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Cultural Yecla Siglo de Oro a recrear una batalla con armas de avancarga y pólvora el 3 de junio en el solar junto al Pabellón María José Martínez, aunque supere el límite de ruido; el uso de las armas debe autorizarlo el organismo competente.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Yecla Siglo de Oro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762627E",
+      "lugar": "Espacio sin urbanizar junto al Pabellón Polideportivo María José Martínez",
+      "interes": 2
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Auditorio gratis para el Colegio La Inmaculada (visita de internos de la prisión de Villena)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Colegio La Inmaculada el 10 de mayo para una actividad con internos del Centro Penitenciario de Villena, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa instalación con reducción de precio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "742790D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Se piden 219.570 euros al SEF para formar y emplear a jóvenes en tapicería",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el programa mixto de empleo y formación 'Yecla Potenciajoven 2023' para jóvenes desempleados de Garantía Juvenil, en operaciones auxiliares de tapizado de mobiliario, y se solicita al Servicio Regional de Empleo y Formación una subvención por su importe total.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención (solicitada)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 219569.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768672A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.13",
+      "titulo": "IX Marcha Solidaria Yecla-Arabí del Club Montañero",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Montañero Yecla la marcha senderista solidaria del 7 de mayo desde la Plaza Mayor hasta el Monte Arabí, por caminos existentes y con las condiciones de los informes municipales.",
+      "entidades": [
+        {
+          "nombre": "Club Montañero Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745092A",
+      "lugar": "Plaza Mayor - Monte Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "11.14",
+      "titulo": "Pabellón gratis para el XXV Campeonato de Tenis de Mesa de la Peña Destripaterrones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el campeonato solidario de tenis de mesa 'Fiestas de San Isidro' del 6 de mayo en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 249,06 €.",
+      "entidades": [
+        {
+          "nombre": "Peña Destripaterrones",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 249.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752043E",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "doc": "2026-02-02_PLENO_02",
+  "organo": "PLENO",
+  "sesion": 2,
+  "fecha": "2026-02-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "El Pleno mantiene el precio del agua para 2026: baja lo que cobra Aqualia porque la luz ha bajado, y la diferencia queda para el Ayuntamiento. Rebaja a la mitad el impuesto de obras a una almazara que amplía su nave. Con los votos de PP e IU-Verdes, el Ayuntamiento rechaza el acuerdo comercial UE-Mercosur, y por unanimidad pide estudiar la ampliación de la Escuela de Bellas Artes. La moción del PP contra el nuevo modelo de financiación autonómica no sale adelante.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de actas anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas del Pleno n.º 22 de 26 de diciembre de 2025 y n.º 1 de 12 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Tarifas del agua potable 2026: se mantienen y baja la retribución de Aqualia",
+      "categoria": "contrato",
+      "resumen": "Se mantiene la tarifa del agua, pero la retribución de la concesionaria FCC Aqualia baja un 5,449 % (por el abaratamiento de la electricidad) y la diferencia pasa a canon municipal; la cuota de conservación de contadores sube un 3,038 % (IPC). Se aplica tarifa especial a varios institutos, colegios y al asilo, y se compensa a Aqualia por ello en el último trimestre de 2026.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria (cobra)"
+        },
+        {
+          "nombre": "I.E.S. José Martínez Ruiz \"Azorín\"",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "I.E.S. José Luis Castillo-Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "I.E.S. Felipe VI",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "Colegio San Francisco",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "Colegio Virgen de la Esperanza",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario tarifa especial"
+        },
+        {
+          "nombre": "Asilo de Ancianos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario tarifa especial"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1207687T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Rebaja del 50 % del impuesto de obras (ICIO) a Almazara Deortegas para ampliar nave",
+      "categoria": "fiscal",
+      "resumen": "Se declara de especial interés municipal y se bonifica el 50 % del ICIO (cuota 2.801,12 euros sobre 84.882,60 euros de obra) a Almazara Deortegas, S.L. por ampliar su nave de producción de aceite (606 m²) en suelo rústico.",
+      "entidades": [
+        {
+          "nombre": "Almazara Deortegas, S.L.",
+          "cif": "B73846065",
+          "tipo": "empresa",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Initeco Proyectos Ingenieria, S.L.",
+          "cif": "B30432058",
+          "tipo": "empresa",
+          "rol": "representante solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1400.56,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material (base imponible)",
+          "eur": 84882.6,
+          "entidad": "Almazara Deortegas, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificación",
+          "eur": 2801.12,
+          "entidad": "Almazara Deortegas, S.L."
+        },
+        {
+          "concepto": "Ahorro estimado por bonificación del 50 %",
+          "eur": 1400.56,
+          "entidad": "Almazara Deortegas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1207687T (licencia 499/25)",
+      "lugar": "Paraje Los Pinillos, polígono 121, parcela 274 (Ctra. de Pinoso)",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Fundación Castillo Puche justifica el segundo plazo de su subvención 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el segundo plazo de la subvención del convenio 2025 con la Fundación Castillo Puche: presentó gastos por 9.718,89 euros frente a 9.500 euros anticipados.",
+      "entidades": [
+        {
+          "nombre": "Fundación Castillo Puche",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9500,
+      "importes": [
+        {
+          "concepto": "Anticipo abonado (2º plazo)",
+          "eur": 9500,
+          "entidad": "Fundación Castillo Puche"
+        },
+        {
+          "concepto": "Gastos justificados",
+          "eur": 9718.89,
+          "entidad": "Fundación Castillo Puche"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1070784A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Moción de IU-Verdes: rechazo al acuerdo comercial UE-Mercosur",
+      "categoria": "mocion_politica",
+      "resumen": "El Ayuntamiento rechaza el acuerdo UE-Mercosur porque amenaza al mueble, el tapizado, el colchón y la agricultura, y pide una PAC fuerte y sin recortes. Debate: IU-Verdes lo considera competencia desleal; el PP lo apoya «con condiciones» y vota a favor; Vox está en contra del tratado pero propone una enmienda que no prospera; el PSOE defiende el acuerdo como una oportunidad, con salvaguardas y protección de la D.O. Yecla.",
+      "entidades": [
+        {
+          "nombre": "Grupo M. Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "AREMA",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "destinatario del acuerdo"
+        },
+        {
+          "nombre": "COAG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "destinatario del acuerdo"
+        },
+        {
+          "nombre": "CCOO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "destinatario del acuerdo"
+        },
+        {
+          "nombre": "USO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "destinatario del acuerdo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "Enmienda de Vox rechazada: 16 en contra (PP, PSOE, IU-Verdes) y 3 a favor (Vox). Moción aprobada: 10 a favor (PP e IU-Verdes) y 9 en contra (PSOE y Vox).",
+      "expediente": "1220264M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Moción del PSOE: estudiar la ampliación de la Escuela Municipal de Bellas Artes",
+      "categoria": "mocion_politica",
+      "resumen": "Se insta al Gobierno local a hacer un estudio de viabilidad y un proyecto para ampliar la Escuela de Bellas Artes (en el Cespín), contando con el profesorado y buscando financiación. Debate: el PSOE alega falta de espacio y un ascensor averiado desde hace años; el PP la apoya pero matiza que no hay lista de espera y que hay otras obras prioritarias; IU-Verdes y Vox también la apoyan.",
+      "entidades": [
+        {
+          "nombre": "Escuela Municipal de Bellas Artes de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "afectada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1221568Y",
+      "lugar": "Edículo del Cespín",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Moción del PP contra el nuevo modelo de financiación autonómica",
+      "categoria": "mocion_politica",
+      "resumen": "El PP pedía rechazar y retirar el modelo de financiación autonómica del Gobierno de España por perjudicar a la Región de Murcia, y crear un fondo de nivelación. Debate: el PP lo ve como una concesión a Cataluña; el PSOE responde que Murcia ganaría 1.188 millones al año; IU-Verdes dice que la moción solo ataca al Gobierno y olvida que la Región no tiene ley de financiación local; Vox rechaza el debate porque quiere suprimir el Estado autonómico.",
+      "entidades": [
+        {
+          "nombre": "Grupo M. Popular",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "Rechazada: 11 en contra (PSOE, Vox e IU-Verdes) y 8 a favor (PP).",
+      "expediente": "1221824D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Cuestiones urgentes",
+      "categoria": "organizacion",
+      "resumen": "No se presentan asuntos urgentes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Resoluciones de Alcaldía (n.º 9 a 391 de enero de 2026)",
+      "categoria": "informacion",
+      "resumen": "El Pleno queda informado de las resoluciones de Alcaldía del 7 al 27 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Ruegos y preguntas de Vox: contenedores en Raspay, papeleras, participación y contrato del agua",
+      "categoria": "mocion_politica",
+      "resumen": "Vox pregunta por los contenedores de reciclaje del Barrio de la Iglesia de Raspay, las papeleras con tapa que solo hay en el centro, el reglamento de participación ciudadana y la comisión de estudio del contrato del agua. El PP responde que los contenedores se pusieron donde pidieron los vecinos y que hay unas 600 papeleras. También dice que el contrato del agua (vence en septiembre de 2027) se dejará preparado pero no se licitará ahora para no subir el precio, y que el reglamento quedó sin terminar cuando Vox dejó el gobierno.",
+      "entidades": [
+        {
+          "nombre": "Grupo M. Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pregunta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": "Raspay (pedanía)",
+      "interes": 2
+    }
+  ]
+}

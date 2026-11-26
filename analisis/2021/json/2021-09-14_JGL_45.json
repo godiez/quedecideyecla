@@ -1,0 +1,487 @@
+{
+  "doc": "2021-09-14_JGL_45",
+  "organo": "JGL",
+  "sesion": 45,
+  "fecha": "2021-09-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 18,
+  "resumen": "La Junta de Gobierno paga 64.554 euros a una persona autónoma por organizar 'Verano en danza', aprueba el Jazz Yecla 2021 (49.759 euros) y destina 14.000 euros a una corrida de toros por el 30 aniversario de la reapertura de la plaza. Licita la compra de un camión grúa (hasta 100.000 euros) y la animación del Centro de Mayores Herratillas (67.217 euros al año), deja empezar obras de naves a Yecla Colchón y Essenzia Dormire y concede ayudas para libros escolares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas al comercio, alerta COVID, ayudas a empresas y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de: la convocatoria estatal de ayudas a mercados, zonas comerciales y venta ambulante (Plan de Recuperación); dos órdenes de la Consejería de Salud sobre nivel de alerta y límites a reuniones por la COVID-19; la segunda convocatoria del INFO de ayudas a autónomos y empresas; que la Agencia Tributaria regional compensa 31.965 euros de deudas municipales con créditos a favor del Ayuntamiento; un requerimiento de documentación para el convenio del Centro de Atención Temprana 2021; y una sentencia que desestima el recurso de un particular sobre tres expedientes sancionadores.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Industria, Comercio y Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta medidas COVID-19"
+        },
+        {
+          "nombre": "Instituto de Fomento de la Región de Murcia (INFO)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "Agencia Tributaria de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "compensa deudas"
+        },
+        {
+          "nombre": "Dirección General de Personas con Discapacidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requiere documentación"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 1 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Deudas municipales compensadas por la Agencia Tributaria regional",
+          "eur": 31965.0,
+          "entidad": "Agencia Tributaria de la Región de Murcia"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "534898P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de 64.554 euros por la organización de 'Verano en danza'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 64.554 euros a una persona física (autónoma) por los servicios y suministros de infraestructura, producción y organización de la actividad 'Verano en danza'.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 64554.0,
+      "importes": [
+        {
+          "concepto": "Infraestructura, producción y organización de 'Verano en danza'",
+          "eur": 64554.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510399N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Yecla Colchón puede empezar a construir su nave industrial en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de la nave industrial de Yecla Colchón, S.L., cuya licencia se concedió en junio de 2019, tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "Yecla Colchón, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "183515H",
+      "lugar": "Ctra. de Villena km 2,4, polígono 47, parcelas 37 y 40",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Essenzia Dormire puede empezar a ampliar su nave en la Herrada del Manco",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de ampliación de la nave industrial de Essenzia Dormire, S.L., con licencia concedida en junio de 2021, tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "Essenzia Dormire, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508808D",
+      "lugar": "Ctra. de Villena RM-425 km 6, paraje Herrada del Manco, polígono 42, parcela 342",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Ayudas extraordinarias para libros y material escolar 2021",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas para libros y material escolar a los menores incluidos en el informe de Servicios Sociales, en las cuantías que allí figuran (no se indica el total).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519377H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Cambio de horario de un inspector de servicios públicos para conciliar",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar-inspector de servicios públicos un horario de 9 a 16:15 hasta final del curso 2021/22 por conciliación familiar, revocable y sin coste.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533966W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Renuncia de un trabajador social, que sigue en la bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la renuncia de un trabajador social, que se va a trabajar al Ayuntamiento de Alhama de Murcia, y se le mantiene en la bolsa de empleo si lo justifica.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Alhama de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nuevo empleador"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533547N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Pago a un policía local de 3,5 horas de más trabajadas por el turno COVID",
+      "categoria": "personal",
+      "resumen": "Se aprueba pagar a un agente de la Policía Local el exceso de 3,5 horas trabajadas en 2020 por el cuadrante especial de la COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "534365Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Un policía local compensa con un curso 15 horas que le faltaban por el turno COVID",
+      "categoria": "personal",
+      "resumen": "Se da por compensado con un curso de formación el defecto de 15 horas de jornada de un agente de la Policía Local en 2020 por el cuadrante especial de la COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "534367C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Corrección de un nombre en las dos becas de la Casa de Cultura",
+      "categoria": "personal",
+      "resumen": "Se corrige un error en el nombre de uno de los dos becarios de la Casa Municipal de Cultura para 2021 (becas de 3.000 euros, cinco meses y 550 horas) y se mantiene la lista de espera.",
+      "entidades": [
+        {
+          "nombre": "Casa Municipal de Cultura de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "acoge las becas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Becas de formación en la Casa de Cultura (importe según acuerdo; no queda claro si es por beca o en total)",
+          "eur": 3000.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510647H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Plenos el 17 de septiembre, con el protocolo COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533448A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Nueva señalización de tráfico en la zona de Las Herratillas",
+      "categoria": "otros",
+      "resumen": "A petición del grupo socialista, se reorganiza la señalización de tráfico en las calles Félix Rodríguez de la Fuente y Músico Oliver (zona de Las Herratillas), según informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "532346W",
+      "lugar": "Las Herratillas (calles Félix Rodríguez de la Fuente y Músico Oliver)",
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Ampliación a jornada completa de una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se amplía hasta el 31 de diciembre a jornada completa (35,3 horas) el contrato de una trabajadora social de Servicios Sociales para cubrir en parte la renuncia de un compañero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533857I",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Contratación de un trabajador social y nueva bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Como toda la bolsa de trabajadores sociales ha renunciado, se pide al SEF candidatos para contratar uno a tiempo parcial (22 horas) hasta fin de año y formar una bolsa subsidiaria; se aprueban las bases y el tribunal.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "534681N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Contratación de una técnico sustituta en la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata un técnico de educación infantil interino a 20 horas semanales para sustituir a una trabajadora de baja en la E.I. El Parque, como máximo hasta final del curso 2021/22.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "535817O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Licitación de la animación del Centro de Mayores Herratillas: 67.217 euros al año",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado para contratar la animación y dinamización social del Centro Municipal de Personas Mayores Herratillas, con un precio de licitación anual de 67.217,49 euros (17.000 euros con cargo a 2021 y el resto a 2022).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 67217.49,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525175K",
+      "lugar": "Centro Municipal de Personas Mayores Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Compra de un camión grúa para la Brigada de Obras por hasta 100.000 euros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar el suministro de un camión grúa para la Brigada Municipal de Obras con un precio máximo de 100.000 euros con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 100000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531478P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Corrida de toros por el 30 aniversario de la reapertura de la plaza: 14.000 euros",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las condiciones y un gasto de 14.000 euros con IVA para contratar la organización de una corrida de toros el 26 de septiembre de 2021 por el 30 aniversario de la reinauguración de la Plaza de Toros; se pedirán ofertas a varias empresas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 14000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "536069O",
+      "lugar": "Plaza de Toros de Yecla",
+      "interes": 3
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Programación de la Escuela Municipal de Bellas Artes 2021/22",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del curso 2021/22 de la Escuela Municipal de Bellas Artes.",
+      "entidades": [
+        {
+          "nombre": "Escuela Municipal de Bellas Artes de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "programa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "536098F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Festival Jazz Yecla 2021 con un presupuesto de 49.759 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del Jazz Yecla 2021, del 21 al 25 de septiembre, con un presupuesto de gastos de 49.758,70 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 49758.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533327H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Auditorio gratis para la conferencia de apertura de curso de Amites Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Amites Yecla ONG a usar el Auditorio Municipal Juan Miguel Benedito el 1 de octubre para su conferencia de apertura de curso, con reducción del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación Amites Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "534251O",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Concentración de coches clásicos en la ITV de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración de vehículos clásicos que organiza la Asociación Motor Clásico Yecla el 19 de septiembre en las instalaciones de la ITV Mecod Yecla, con medidas COVID-19.",
+      "entidades": [
+        {
+          "nombre": "Asociación Motor Clásico Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organizadora"
+        },
+        {
+          "nombre": "ITV Mecod Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cede instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523996Y",
+      "lugar": "Instalaciones de la ITV de Yecla",
+      "interes": 1
+    }
+  ]
+}

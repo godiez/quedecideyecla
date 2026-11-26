@@ -1,0 +1,755 @@
+{
+  "doc": "2023-12-05_JGL_51",
+  "organo": "JGL",
+  "sesion": 51,
+  "fecha": "2023-12-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno da licencia a McDonald's para construir un restaurante abierto 24 horas y acepta 150.000 euros de la Comunidad Autónoma para renovar el césped del campo de fútbol nº 3 del Juan Palao Azorín. Paga 293.474 euros en facturas, rebaja un 80 % el impuesto de obras a los regantes de Hoya del Mollidar por su proyecto de agua depurada y reparte casi 50.000 euros entre siete asociaciones sociales. También sube de nivel a 15 empleados, convoca el examen de una plaza de administrativo y aplaza la ayuda al Centro Tecnológico del Mueble.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 28 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: el SEF paga cursos de tapizado, inglés y el proyecto Yecla Integra",
+      "categoria": "informacion",
+      "resumen": "Se informa de tres resoluciones del Servicio Regional de Empleo y Formación: liquidación y pago de las subvenciones de los cursos 'Operaciones auxiliares de tapizado de mobiliario mural' e 'Inglés B1' (programación 2022) y pago anticipado de la subvención del proyecto formativo 'Yecla Integra 2022'. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "852965Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura, limpieza, asfaltado, videovigilancia y autobús urbano",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 293.474,41 € en nueve facturas: tratamiento de basura, limpieza de edificios, asfaltado de varias calles y parcheo de caminos rurales, ampliación de la videovigilancia, pintura vial de las rondas, el autobús urbano, deportes y mantenimiento informático.",
+      "entidades": [
+        {
+          "nombre": "Elecnor Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Señalizaciones Sonibru, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Kubica Obras y Asfaltos, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 293474.41,
+      "importes": [
+        {
+          "concepto": "Ampliación del sistema de seguridad ciudadana (videovigilancia), fase II (C.Su.1/23)",
+          "eur": 25868.32,
+          "entidad": "Elecnor Seguridad, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, noviembre 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Señalización horizontal (pintura vial) de las vías perimetrales del casco urbano",
+          "eur": 27375.07,
+          "entidad": "Señalizaciones Sonibru, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, noviembre 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, 1 al 15 de junio de 2023",
+          "eur": 18447.38,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Parcheo y asfaltado de Avda. de la Paz, General Antonio Lorenzo Gaitán, Santa Bárbara y Juan XXIII",
+          "eur": 47205.87,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, octubre 2023",
+          "eur": 74094.9,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Parcheo de caminos rurales (Pujola, San Isidro y acceso lateral Chicharra)",
+          "eur": 9699.84,
+          "entidad": "Kubica Obras y Asfaltos, S.L.U."
+        },
+        {
+          "concepto": "Mantenimiento del hardware Cisco 2024",
+          "eur": 9559.0,
+          "entidad": "Infomicro Comunicaciones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733915C, 118095X, 821750W, 551537Z, 470771Z, 826235Z, 584325N, 833560Y, 845154A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 80 % del impuesto de obras a los regantes de Hoya del Mollidar (agua depurada)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la Comunidad de Regantes Hoya del Mollidar-El Portichuelo una bonificación del 80 % del ICIO por la fase III de las obras para regar con agua regenerada de la depuradora de Yecla, ya declaradas de interés municipal en 2012. La obra se valora en 1.091.884,14 € y la cuota era de 36.032,18 €, por lo que se ahorra unos 28.825,74 €.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28825.74,
+      "importes": [
+        {
+          "concepto": "Base imponible del ICIO",
+          "eur": 1091884.14,
+          "entidad": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo"
+        },
+        {
+          "concepto": "Cuota del ICIO antes de bonificar",
+          "eur": 36032.18,
+          "entidad": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo"
+        },
+        {
+          "concepto": "Bonificación del 80 % (calculada)",
+          "eur": 28825.74,
+          "entidad": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794106A",
+      "lugar": "Parajes Carrascalejo, Los Arenales y La Hoya",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del IBI por placas solares a un vecino",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular una bonificación del 50 % del IBI de 2024 a 2028 (máximo 100 € al año) por instalar placas solares de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854259X",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90 % del impuesto de obras por placas solares a un vecino",
+      "categoria": "fiscal",
+      "resumen": "Se concede al mismo particular una bonificación del 90 % del ICIO por la instalación de placas solares de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "709286W",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia a McDonald's para construir un restaurante abierto 24 horas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Restaurantes McDonald's, S.A.U. licencia para construir un edificio aislado de restaurante y venta de comida y bebida 24 horas con urbanización perimetral. Deberá tramitar la licencia de actividad antes de abrir; plazos: 6 meses para empezar y 12 para terminar.",
+      "entidades": [
+        {
+          "nombre": "Restaurantes McDonald's, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante de la licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750081E (licencia 188/2023)",
+      "lugar": "Polígono 46, parcela 292",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar a construir una vivienda con piscina en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a iniciar las obras de una vivienda unifamiliar aislada con garaje y piscina, cuya licencia se concedió en octubre con proyecto básico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761029K (licencia 244/2023)",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda con piscina en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos particulares licencia (con proyecto básico) para una vivienda unifamiliar aislada con barbacoa y piscina. Al estar en zona inundable, deben declarar ante la CHS que asumen el riesgo, inscribirlo en el Registro, poner fosa séptica y acreditar agua potable y autorización de vertido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "805950A (licencia 308/2023)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para derribar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler una vivienda entre medianeras, con fianzas de 201 € (urbanización) y 101,64 € (alumbrado y mobiliario), desratización previa, vallado del solar y 3 meses para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 302.64,
+      "importes": [
+        {
+          "concepto": "Fianza reposición urbanización",
+          "eur": 201.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Fianza cables de alumbrado y mobiliario urbano",
+          "eur": 101.64,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822486R (licencia 566/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición a una plaza de administrativo: 59 admitidos y examen en febrero",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 59 admitidos y 2 excluidos (fuera de plazo) para una plaza de administrativo (C1) por concurso-oposición de la oferta de 2019, se nombra el tribunal y se fija la valoración de méritos el 23 de febrero de 2024 y el examen tipo test el 29 de febrero en el Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696101H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Carrera profesional: 15 empleados suben un nivel, coste de 9.974 €",
+      "categoria": "personal",
+      "resumen": "Se resuelve el concurso anual 2022 de carrera horizontal: se reconoce un nivel más de grado personal a 15 empleados municipales con efectos económicos desde el 1 de enero de 2023 y se rechaza a 3 por no cumplir los 5 años de experiencia. Se aprueba un gasto de 9.973,60 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 9973.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704685E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Prórroga de la reducción de jornada de un conductor municipal para cuidar a un familiar",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses más la reducción de jornada del 35,41 % de un conductor municipal para cuidar a un familiar enfermo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697979Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Prórroga del horario especial de una administrativa municipal",
+      "categoria": "personal",
+      "resumen": "Se prorroga hasta el 30 de junio de 2024 la autorización excepcional para que la jefa del Negociado de Central trabaje con un horario especial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821771Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Se preparan las bases de una bolsa de empleo de fontaneros",
+      "categoria": "personal",
+      "resumen": "Se encarga redactar las bases de una bolsa de empleo de fontaneros por concurso-oposición, para cubrir temporalmente una plaza vacante (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853614A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Se preparan las bases de una bolsa de empleo de peones",
+      "categoria": "personal",
+      "resumen": "Se encarga redactar las bases de una nueva bolsa de empleo de peones-operarios por concurso-oposición, porque la de 2020 no sirve para cubrir temporalmente la plaza vacante.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853614A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Cambio de fecha de jubilación de una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que una limpiadora municipal se jubila el 30 de diciembre de 2023 (no el 31 como se había indicado).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "845107K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Curso sobre control de alimentos vendidos por internet para la veterinaria municipal",
+      "categoria": "personal",
+      "resumen": "Se ordena a la veterinaria-inspectora de Sanidad hacer el 14 de diciembre un curso online de la Agencia Española de Seguridad Alimentaria sobre control de alimentos vendidos por internet.",
+      "entidades": [
+        {
+          "nombre": "Agencia Española de Seguridad Alimentaria y Nutrición",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "851191K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Nuevo tramo de alcantarillado en la calle San Antonio por 22.683 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (25.550 €) y se adjudica como contrato menor a Construcciones J.J. Gómez Yecla, S.L., por 22.682,66 € con IVA, la sustitución de 50 metros de colector con 14 acometidas en la calle San Antonio (desde la calle Don Lucio).",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22682.66,
+      "importes": [
+        {
+          "concepto": "Presupuesto de la memoria valorada (IVA incluido)",
+          "eur": 25550.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Precio de adjudicación (IVA incluido)",
+          "eur": 22682.66,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "852738J",
+      "lugar": "Calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Soporte del cortafuegos informático Fortinet en 2024 por 14.167 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Nextret Ciberseguridad, S.L. el soporte de los equipos Fortinet (ciberseguridad) para 2024 por 14.166,96 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Nextret Ciberseguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14166.96,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853708F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Concierto 'Aidalai, Tributo a Mecano' por 11.193 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Producción y Espectáculos Elsanto, S.L. la actuación musical 'Aidalai, Tributo a Mecano' por 11.192,50 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Producción y Espectáculos Elsanto, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11192.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839176Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Un club de lectura usará una sala del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular, en nombre de un club de lectura, a usar una sala del Edificio Bioclimático el 28 de diciembre de 2023 por la tarde.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853573T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "La Junta de Compensación del sector SUPR-6 celebrará su asamblea en el Auditorio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Junta de Compensación del Sector SUPR-6 a usar el Auditorio Municipal Juan Miguel Benedito el 14 de diciembre de 2023 para una asamblea, previo pago de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "usa el auditorio y paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854135Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Ayudas de 49.999 € a siete asociaciones sociales",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden las subvenciones de Promoción e Inserción Social de 2023 a siete asociaciones: las mayores, a No hay Límites (14.997,75 €), AFEDECO (13.998,33 €) y AYAC (12.000 €). Se pagarán cuando justifiquen los gastos.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Formación y el Desarrollo Comunitario (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación No hay Límites",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Fibromialgia Yecla (AFIYE)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Yecla Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación para personas con Trastorno del Espectro Autista (TEA Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Sonrisa Saharaui Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Viudas La Purísima de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 49999.26,
+      "importes": [
+        {
+          "concepto": "Proyecto 'Crece': habilidades sociales para adolescentes y jóvenes",
+          "eur": 13998.33,
+          "entidad": "Asociación para la Formación y el Desarrollo Comunitario (AFEDECO)"
+        },
+        {
+          "concepto": "Proyecto 'Deporte para todos'",
+          "eur": 14997.75,
+          "entidad": "Asociación No hay Límites"
+        },
+        {
+          "concepto": "Proyecto 'Fibro positivas'",
+          "eur": 3000.0,
+          "entidad": "Asociación de Fibromialgia Yecla (AFIYE)"
+        },
+        {
+          "concepto": "Apoyo y atención integral a pacientes y supervivientes de cáncer y familias",
+          "eur": 12000.0,
+          "entidad": "Asociación de Yecla Afectados de Cáncer (AYAC)"
+        },
+        {
+          "concepto": "Intervención integral para personas con autismo y sus familias",
+          "eur": 3500.0,
+          "entidad": "Asociación para personas con Trastorno del Espectro Autista (TEA Yecla)"
+        },
+        {
+          "concepto": "Vacaciones en paz 2023: acogida en verano de menores saharauis",
+          "eur": 1560.0,
+          "entidad": "Sonrisa Saharaui Región de Murcia"
+        },
+        {
+          "concepto": "Curso 2023",
+          "eur": 943.18,
+          "entidad": "Asociación de Viudas La Purísima de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802213K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Se pagan los Bonos Yeclanea 2023 a los comercios que los justificaron",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado y se aprueba el pago de los 'Bonos Yeclanea 2023' (campaña de apoyo al comercio local financiada por la Comunidad Autónoma) a los comercios del listado 1; se rechazan los bonos no usados o devueltos, los aplicados fuera de plazo y los aplicados de forma errónea (listados 2 a 4). Los listados e importes no figuran en el acta.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Comercio e Innovación Empresarial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia la campaña"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748069K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayuda de 2023 al Centro Tecnológico del Mueble: se deja sobre la mesa",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se deja sobre la mesa para mejor estudio la subvención de 2023 al Centro Tecnológico del Mueble y la Madera de la Región de Murcia. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "beneficiario propuesto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "853589Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Un sismógrafo del Instituto Geográfico Nacional en el sótano de la Oficina de Turismo",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza al Instituto Geográfico Nacional a instalar un acelerómetro de la Red Sísmica Nacional en el sótano de la Oficina de Turismo (Casa de los Arcos), avisándole de que en 2024 habrá obras en el edificio para convertirlo en centro enoturístico con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Instituto Geográfico Nacional",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "instala el aparato"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816732A",
+      "lugar": "Oficina de Turismo (Casa de los Arcos), Plaza Mayor",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Hortalizas Ortiz podrá circular con camiones de más de 16 toneladas por caminos rurales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Hortalizas Ortiz, S.L. a circular con vehículos de más de 16 toneladas por caminos públicos cercanos al polígono 122 para llegar a sus fincas, con una fianza de 3.510 € para reponer el firme si se daña.",
+      "entidades": [
+        {
+          "nombre": "Hortalizas Ortiz, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante; deposita fianza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3510.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816675X",
+      "lugar": "Caminos públicos próximos al polígono 122",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "La Comunidad Autónoma da 150.000 € para renovar el césped del campo de fútbol nº 3",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención de 150.000 € de la Dirección General de Deportes para renovar el césped y los elementos perimetrales del campo de fútbol nº 3 del complejo Juan Palao Azorín.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 150000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768773Q",
+      "lugar": "Complejo deportivo Juan Palao Azorín",
+      "interes": 3
+    }
+  ]
+}

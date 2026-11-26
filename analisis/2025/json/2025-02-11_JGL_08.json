@@ -1,0 +1,659 @@
+{
+  "doc": "2025-02-11_JGL_08",
+  "organo": "JGL",
+  "sesion": 8,
+  "fecha": "2025-02-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno paga unos 224.000 euros en facturas (tratamiento de basura, limpieza de edificios, autobús urbano, deportes) y una certificación de 105.652 euros de la obra de mejora peatonal con fondos europeos. Reconoce a Actúa una indemnización de 74.943 euros por seguir recogiendo la basura en 2023 con el contrato caducado. Concede licencias (4 viviendas en calle Colón, una vivienda en suelo rústico, un ascensor, un derribo), convoca dos plazas de inspector de obras y cede gratis auditorio y teatro a asociaciones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 4 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: residuos, limpieza de edificios, autobuses y deportes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar siete facturas por 223.527,44 €: tratamiento de basura de diciembre, limpieza de edificios municipales, autobús urbano, cursos de la Universidad Popular, actividades deportivas y socorrismo, y el proyecto del Plan Director del yacimiento de Los Torrejones (encargado a un profesional particular).",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 223527.44,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, diciembre 2024",
+          "eur": 75833.41,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos de la Universidad Popular, enero 2025",
+          "eur": 6988.04,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, enero 2025",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, enero 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Contrato menor: redacción del proyecto de las actuaciones del Plan Director del yacimiento de Los Torrejones",
+          "eur": 9465.8,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, diciembre 2024",
+          "eur": 24167.52,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Multideporte en jornadas de conciliación, diciembre 2024 (Plan Corresponsables)",
+          "eur": 14027.87,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 628370M, 777197Q, 841943Q, 904321C, 941685X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificación nº 2 de la obra de mejora de espacios peatonales (zona de bajas emisiones)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la segunda certificación de la obra de mejora de los espacios para peatones, financiada con fondos europeos Next Generation (programa de zonas de bajas emisiones), a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU, Plan de Recuperación)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 105651.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Indemnización de 74.943 € a Actúa por la recogida de basura de septiembre de 2023",
+      "categoria": "pago_factura",
+      "resumen": "Se reconoce a Actúa una indemnización de 74.943,43 € por los mayores costes de seguir prestando la recogida de basura, limpieza viaria y recogida selectiva en septiembre de 2023, con el contrato ya caducado y mientras se licitaba uno nuevo (para evitar el 'enriquecimiento injusto' del Ayuntamiento). Se excluyen beneficio industrial, gastos financieros, amortizaciones e IVA.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 74943.43,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para una barbacoa junto a vivienda aislada en Las Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos vecinos licencia para construir una barbacoa anexa a su vivienda aislada en suelo rústico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684946P",
+      "lugar": "Paraje Las Artesillas",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para instalar un ascensor en un edificio de 8 viviendas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una comunidad de propietarios licencia para instalar un elevador en un edificio existente de 8 viviendas. Fianza de reposición de urbanización: 700 €.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios (calle San Antonio)",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919645K",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia a Construcciones J.J. Gómez para 4 viviendas, locales y garajes en calle Colón",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico; necesita el de ejecución para empezar) para construir 4 viviendas, locales, trasteros y garajes. Fianza de urbanización: 720 €.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "926278Y",
+      "lugar": "Calle Colón esquina calle Hijas de la Caridad",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos vecinos licencia para construir una vivienda unifamiliar aislada en suelo rústico, con fosa séptica y autorización de vertido de la Confederación Hidrográfica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "928817Z",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para derribar una vivienda entre medianeras en calle Cura Ibáñez",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una empresa y a una vecina licencia para derribar una vivienda entre medianeras, con desratización previa, vallado del solar y control del amianto. Fianzas de 612,85 € y 1.173,53 €.",
+      "entidades": [
+        {
+          "nombre": "Juan de Dios Muñoz, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1026319T",
+      "lugar": "Calle Cura Ibáñez",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Licencia para dividir en dos una parcela industrial en Urbayecla",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia de parcelación para dividir una finca industrial de unos 3.570 m² en dos parcelas de 1.422 m² y 2.148 m², cada una con una construcción existente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993034P",
+      "lugar": "Plan Parcial industrial Urbayecla (avenida San Pablo)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Convocatoria de dos plazas de Inspector de Obras-Auxiliar",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para cubrir como funcionarios de carrera dos plazas de Inspector de Obras-Auxiliar (grupo C2) de los Servicios Técnicos, de las ofertas de empleo de 2022 y 2024. Plazo de solicitudes: 20 días naturales desde el anuncio en el BOE.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1032589C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Reconocimiento de grado personal nivel 20 a una funcionaria",
+      "categoria": "personal",
+      "resumen": "Se reconoce a una funcionaria el grado personal nivel 20 por haber ocupado como interina más de cinco años la jefatura de negociado de Gestión Tributaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030584R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Nombramiento urgente de un Auxiliar-Inspector de Obras interino",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un Auxiliar-Inspector de Obras interino porque uno ha renunciado y se prevé que otro lo haga, lo que paraliza la inspección urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043463E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Renuncia de una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se deja el asunto sobre la mesa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1044646Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Adjudicación del bar de la Feria del Mueble en Carnaval 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a una vecina el servicio de bar en la Feria del Mueble durante el Carnaval 2025; la adjudicataria paga al Ayuntamiento 1.807 € y deja una garantía de 500 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga al Ayuntamiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1807.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1032041Q",
+      "lugar": "Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Concentración motera en calle Castillarejos el 27 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Grupo Motero 'Los Extranjeros' una reunión con escenario y expositores en una calle del polígono Urbayecla y un recorrido por la ciudad; se corta la calle (tasa de 102,80 €) y se ceden vallas, escenario, megafonía, sillas y mesas.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Motero \"Los Extranjeros\"",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 102.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988144Y",
+      "lugar": "Calle Castillarejos (polígono Urbayecla)",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una nueva plaza de estacionamiento reservada a personas con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1038359Q",
+      "lugar": "Calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Auditorio gratis para la Federación de Peñas de San Isidro (5 y 25 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito para presentar el cartel de las fiestas de San Isidro y la revista, con rebaja del 100% del precio público (120 € por uso).",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro Labrador de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1039407X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Auditorio gratis para ARY: Día contra las drogas (28 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a la asociación ARY para el Día Internacional contra la droga, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1039940M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio gratis para ARY: Jornadas del Día Mundial Sin Alcohol (8 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a ARY para sus XXIII Jornadas del Día Mundial Sin Alcohol, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1040050P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Teatro Concha Segura gratis para la X Gala por la Diversidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 4 de abril a la Asociación 'No hay Límite Yecla' para su gala benéfica, con rebaja del 100% del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación \"No hay Límite Yecla\"",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1041306J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Aula de cocina para talleres de almuerzos saludables del CEIP La Pedrera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio La Pedrera a usar el aula de cocina del antiguo colegio San José de Calasanz entre marzo y mayo para talleres de almuerzos saludables.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1031316J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Representante municipal en las comisiones de escolarización 2025/2026",
+      "categoria": "organizacion",
+      "resumen": "Se designa a la concejala de Educación como representante del Ayuntamiento en las comisiones de escolarización de Infantil, Primaria, Secundaria y Bachillerato del curso 2025/2026.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Recursos Humanos, Planificación Educativa e Innovación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036750F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Tarjeta de residente en zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1041331T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Convenio de prácticas con el CIPFP Valle de Elda en el centro de atención a mujeres víctimas",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio de prácticas no remuneradas con el centro de FP Valle de Elda y se autoriza a una alumna de Promoción de Igualdad de Género a hacer 400 horas de prácticas en el CAVI municipal (marzo-junio 2025).",
+      "entidades": [
+        {
+          "nombre": "Centro Integrado Público de Formación Profesional Valle de Elda",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042380A, 1042308A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Colaboración municipal en la carrera de montaña UTY Trail Yecla 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba colaborar con el Club Fondistas Yecla y la Federación de Atletismo regional en la XV UTY Trail del 15 de febrero por la Sierra Salinas: gastos municipales de 1.034,44 € y uso gratuito de instalaciones deportivas valorado en 77,50 €.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1111.94,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 1034.44,
+          "entidad": "Club Fondistas Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 77.5,
+          "entidad": "Club Fondistas Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1018285K, 1033576Y",
+      "lugar": "Sierra Salinas (Aula de la Naturaleza)",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Salón de actos del Centro de Desarrollo Local para la asamblea de las Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Federación de Peñas de San Isidro a usar el salón de actos del Centro de Desarrollo Local para su asamblea general del 20 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043296Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Colaboración en los Campeonatos regionales Sub18 y Sub20 de atletismo de invierno",
+      "categoria": "subvencion_concedida",
+      "resumen": "Urgente: se autoriza y se apoya la celebración de los campeonatos regionales de invierno Sub18 y Sub20 el 16 de febrero en la pista del complejo Juan Palao: gastos municipales de 375,10 € y uso gratuito de la pista valorado en 408,60 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 783.7,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 375.1,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de la pista de atletismo",
+          "eur": 408.6,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045304M, 1041188W",
+      "lugar": "Pista de atletismo del Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "informacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

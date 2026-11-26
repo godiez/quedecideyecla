@@ -1,0 +1,583 @@
+{
+  "doc": "2025-07-07_PLENO_14",
+  "organo": "PLENO",
+  "sesion": 14,
+  "fecha": "2025-07-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 73,
+  "resumen": "El Pleno, con los votos de PP y Vox, se niega a debatir la iniciativa ciudadana de 542 vecinos en apoyo de AMPY en su conflicto con la Fundación Aynat, por considerarlo un asunto privado. Se aprueban por unanimidad los convenios con dinero municipal para la Asociación de Mayordomos de la Purísima (25.000 €), el Consejo Regulador de la D.O.P. Yecla (16.000 € de anticipo), Kapaces (8.500 €), la Fundación Amanecer Infantil (15.000 €) y Amites (7.000 €), y se vuelve a pedir permiso a la Comunidad Autónoma y al Ministerio de Hacienda para dar ayudas directas a agricultores y ganaderos. La ayuda a domicilio y el respiro familiar pasan a ser gratis, pero la comida a domicilio sube de 2,03 € a 3 €. El Pleno pide por unanimidad una UCI para el Hospital Virgen del Castillo y apoya a la UCO de la Guardia Civil; PP y Vox rechazan preparar el 300 aniversario del pintor Aguirre.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta del Pleno n.º 13, de 2 de junio de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "El Pleno no debatirá la iniciativa de 542 vecinos en apoyo de AMPY",
+      "categoria": "mocion_politica",
+      "resumen": "Tres vecinos, en nombre de 542 firmantes, pidieron llevar al Pleno dos propuestas: enviar al Obispo de Cartagena la historia del conflicto entre AMPY y la Fundación Aynat para que ayude a resolverlo según el acuerdo de junio de 2023, y pedir que se rindan cuentas de la gestión económica y del patrimonio de la Fundación Aynat en los últimos 20 años. Una representante leyó el escrito ante el Pleno (sesión suspendida unos minutos), pero, siguiendo el informe de Secretaría, se decide no tratarlas por ser un conflicto entre entidades privadas sin interés general ni competencia municipal. Vox añadió en otro debate que el asunto está en los tribunales; PSOE e IU lo criticaron.",
+      "entidades": [
+        {
+          "nombre": "AMPY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "entidad apoyada por la iniciativa ciudadana"
+        },
+        {
+          "nombre": "Fundación Aynat",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "parte del conflicto; se pedía que rindiera cuentas"
+        },
+        {
+          "nombre": "Obispado de la Diócesis de Cartagena",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "destinatario propuesto de la iniciativa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "12 a favor de no debatirla (PP y Vox); 9 en contra (PSOE e IU-Verdes)",
+      "expediente": "1103195Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Morales Puche por su gasolinera",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Morales Puche, S.L. la bonificación del 50 % del ICIO por construir una marquesina y lavaderos en su estación de servicio (modificación de un proyecto ya bonificado en 2021). La obra se presupuesta en 245.000 € y la cuota del impuesto era de 6.733,58 €, así que se ahorra unos 3.366,79 €.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": "B73223380",
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3366.79,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material (base del ICIO)",
+          "eur": 245000.0,
+          "entidad": "Morales Puche, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 6733.58,
+          "entidad": "Morales Puche, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 3366.79,
+          "entidad": "Morales Puche, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "967512R",
+      "lugar": "Paraje Las Teresas, polígono 46, parcela 292",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Mobel Yecla por una nave industrial",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Mobel Yecla, S.L. la bonificación del 50 % del ICIO por construir una nave para fabricar y almacenar muebles tapizados. La obra se presupuesta en 879.513 € y la cuota del impuesto era de 29.023,93 €, por lo que se ahorra unos 14.511,97 €.",
+      "entidades": [
+        {
+          "nombre": "Mobel Yecla, S.L.",
+          "cif": "B30479448",
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14511.97,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material (base del ICIO)",
+          "eur": 879513.0,
+          "entidad": "Mobel Yecla, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 29023.93,
+          "entidad": "Mobel Yecla, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 14511.97,
+          "entidad": "Mobel Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738018A",
+      "lugar": "Paraje Solana de la Magdalena, polígono 109, parcela 52",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Se anula una plusvalía cobrada a un vecino que vendió perdiendo dinero",
+      "categoria": "fiscal",
+      "resumen": "Tras el dictamen favorable del Consejo Jurídico de la Región de Murcia, se declara nula una liquidación del impuesto de plusvalía de 2020 (1.146,31 €) a un particular que vendió un inmueble por menos de lo que valía al adquirirlo, aplicando la sentencia del Tribunal Supremo 941/2024. Se le devuelven 1.315,51 € (principal, intereses del fraccionamiento e intereses de demora).",
+      "entidades": [
+        {
+          "nombre": "Consejo Jurídico de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dictamen favorable"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1315.51,
+      "importes": [
+        {
+          "concepto": "Principal de la liquidación anulada",
+          "eur": 1146.31,
+          "entidad": null
+        },
+        {
+          "concepto": "Intereses del fraccionamiento",
+          "eur": 31.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Intereses de demora",
+          "eur": 137.7,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "958871Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Una concejala podrá ser también profesora en la Universidad de Alicante",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una concejala del equipo de gobierno (con dedicación parcial del 75 %) a compatibilizar el cargo con una plaza de profesora ayudante doctora en la Universidad de Alicante, superando por interés público el límite retributivo del 30 %. Debate: PSOE e IU habían pedido un informe jurídico por dudas legales y se abstienen; el PP les acusa de querer desprestigiarla y defiende que el Pleno es competente según el informe municipal.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Alicante",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "segundo puesto (docente)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "11 a favor (PP y Vox); 9 abstenciones (PSOE e IU-Verdes); la concejala afectada sale de la sala",
+      "expediente": "1109381H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Ayuda a domicilio gratis; la comida a domicilio sube de 2,03 a 3 €",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba provisionalmente cambiar la Ordenanza n.º 21 (servicios de atención domiciliaria): la ayuda a domicilio (también fines de semana y festivos) y el respiro familiar pasan a ser gratis, y cada comida a domicilio cuesta 3 €. Se podrá eximir del pago de las comidas hasta seis meses por emergencia social. El PSOE critica que se ponga a cero un servicio poco usado para subir unos 20 € al mes las comidas; IU pide quitar también el copago de las escuelas infantiles.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "14 a favor (PP, Vox e IU-Verdes); 7 abstenciones (PSOE)",
+      "expediente": "1081154D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "Mayordomos de la Purísima justifican el segundo pago de 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el segundo plazo (25.500 €) de la subvención de 2024 a la Asociación de Mayordomos de la Purísima Concepción, que presentó facturas por 35.749,19 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "justifica la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25500.0,
+      "importes": [
+        {
+          "concepto": "Segundo plazo de la subvención 2024",
+          "eur": 25500.0,
+          "entidad": "Asociación de Mayordomos de la Purísima Concepción de Yecla"
+        },
+        {
+          "concepto": "Gastos justificados",
+          "eur": 35749.19,
+          "entidad": "Asociación de Mayordomos de la Purísima Concepción de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "902332P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convenio 2025 con los Mayordomos de la Purísima: 25.000 € de anticipo",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio de 2025 con la Asociación de Mayordomos de la Purísima Concepción para actividades culturales y de promoción turística, y se le adelantan 25.000 € a cuenta.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1112272Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "El Consejo Regulador de la D.O.P. Yecla justifica la ayuda de 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el segundo plazo de 2024 (12.000 €) del convenio 2021-2024 con el Consejo Regulador de la Denominación de Origen Protegida Yecla, que presentó gastos por 12.090,80 €.",
+      "entidades": [
+        {
+          "nombre": "Consejo Regulador de la Denominación de Origen Protegida Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "justifica la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "importes": [
+        {
+          "concepto": "Segundo plazo 2024 abonado",
+          "eur": 12000.0,
+          "entidad": "Consejo Regulador de la Denominación de Origen Protegida Yecla"
+        },
+        {
+          "concepto": "Gastos justificados",
+          "eur": 12090.8,
+          "entidad": "Consejo Regulador de la Denominación de Origen Protegida Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981795E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Nuevo convenio 2025-2028 con el Consejo Regulador del vino D.O.P. Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba un convenio de colaboración para 2025-2028 con el Consejo Regulador de la Denominación de Origen Protegida Yecla y se le adelantan 16.000 € a cuenta. El acta no da el importe total del convenio.",
+      "entidades": [
+        {
+          "nombre": "Consejo Regulador de la Denominación de Origen Protegida Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110163T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Convenio 2025 con Kapaces para la vida independiente: 8.500 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio de 2025 con la Asociación Kapaces para la vida independiente de personas con discapacidad funcional y se paga el primer plazo, 8.500 € a cuenta.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces para la vida independiente de personas con discapacidad funcional en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110735N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Fundación Amanecer Infantil justifica la ayuda de 2024 (15.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de 2024 (15.000 €) a la Fundación Amanecer Infantil para el centro de atención infantil que mantiene en Barahona (República Dominicana).",
+      "entidades": [
+        {
+          "nombre": "Fundación Amanecer Infantil",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "justifica la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043875C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Nuevo convenio 2025-2026 con la Fundación Amanecer Infantil: 15.000 € al año",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba un convenio para 2025 y 2026 (prorrogable dos años) con la Fundación Amanecer Infantil para el funcionamiento de su centro infantil en Barahona (República Dominicana), con 15.000 € anuales, y se paga ya la anualidad de 2025.",
+      "entidades": [
+        {
+          "nombre": "Fundación Amanecer Infantil",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010757E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Amites Yecla ONG: justifica 2024 y cobra por adelantado 7.000 € de 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de 2024 (7.000 €) a la Asociación Amites Yecla ONG para el alquiler y mantenimiento de su sede y sus actividades, y se le adelanta la de 2025, también de 7.000 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Amites Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [
+        {
+          "concepto": "Subvención 2024 justificada",
+          "eur": 7000.0,
+          "entidad": "Asociación Amites Yecla ONG"
+        },
+        {
+          "concepto": "Pago anticipado subvención 2025",
+          "eur": 7000.0,
+          "entidad": "Asociación Amites Yecla ONG"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043440Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Se vuelve a pedir permiso para dar ayudas directas a agricultores y ganaderos",
+      "categoria": "subvencion_concedida",
+      "resumen": "Para poder dar ayudas directas a las explotaciones agrícolas y ganaderas de Yecla (por sequía, energía y guerra de Ucrania), se pide a la Comunidad Autónoma un informe de que no hay duplicidad y, después, al Ministerio de Hacienda uno de sostenibilidad financiera. Se amplían los gastos subvencionables: reparación y alquiler de maquinaria, piensos, fitosanitarios, formación y cuotas de autónomos. Debate: PSOE e IU dicen que el trámite llega tarde tras el enfrentamiento del Pleno de junio; Vox y PP culpan al Ministerio de Hacienda por no pronunciarse.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Dirección General de Administración Local)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar sobre duplicidades"
+        },
+        {
+          "nombre": "Ministerio de Hacienda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar sobre sostenibilidad financiera"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110731H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17",
+      "titulo": "El Pleno pide una UCI para el Hospital Virgen del Castillo",
+      "categoria": "mocion_politica",
+      "resumen": "Proposición de IU-Verdes: instar al Gobierno regional a poner en marcha una UCI en el Hospital Virgen del Castillo, a la Asamblea Regional a financiarla en los presupuestos, a cubrir las plantillas de especialistas y reducir listas de espera, y a priorizar la sanidad pública frente a las derivaciones a la privada. Hoy los pacientes críticos van a la Arrixaca, a más de 100 km. Debate: todos la apoyan; PP y Vox atribuyen la falta de especialistas al Ministerio (plazas MIR) y enumeran inversiones regionales en el hospital; el PSOE recuerda que el PP ya lo prometió en 2016.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Consejo de Gobierno de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario"
+        },
+        {
+          "nombre": "Hospital Virgen del Castillo",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1114463Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "18",
+      "titulo": "Apoyo del Ayuntamiento a la UCO de la Guardia Civil",
+      "categoria": "mocion_politica",
+      "resumen": "Moción de Vox: apoyo a la Unidad Central Operativa de la Guardia Civil y adhesión al comunicado de sus asociaciones profesionales, condena de presiones políticas, petición al ministro del Interior de que la defienda y exigencia de responsabilidades a miembros del Gobierno. Debate muy duro sobre corrupción (PP y Vox contra el PSOE; IU recuerda casos del PP). PSOE e IU votan a favor pero reprochan que se debata esto y no la iniciativa de AMPY; la alcaldesa llama al orden dos veces a una concejala.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Guardia Civil (Unidad Central Operativa)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria del apoyo"
+        },
+        {
+          "nombre": "Ministerio del Interior",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1114946M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "19",
+      "titulo": "Rechazada la propuesta de preparar el 300 aniversario del pintor Aguirre",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE proponía organizar en 2027 un programa por el 300 aniversario del nacimiento del pintor yeclano Ginés Andrés de Aguirre, con una exposición de obras del Prado y la Academia de San Fernando, un coordinador y búsqueda de financiación. Vox dice que no está madura (falta un espacio seguro y estudiar costes) y corrige que uno de los cuadros citados no es suyo; el PP dice que las iniciativas deben salir de la Concejalía. IU la apoya.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "12 en contra (PP y Vox); 9 a favor (PSOE e IU-Verdes)",
+      "expediente": "1114959E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "20",
+      "titulo": "Cuestiones urgentes",
+      "categoria": "organizacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "21",
+      "titulo": "Resoluciones de la Alcaldía",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de los decretos de Alcaldía del n.º 2444 (28 de mayo) al n.º 2945 (2 de julio de 2025).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "22",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

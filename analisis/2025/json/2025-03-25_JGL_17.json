@@ -1,0 +1,1211 @@
+{
+  "doc": "2025-03-25_JGL_17",
+  "organo": "JGL",
+  "sesion": 17,
+  "fecha": "2025-03-25",
+  "tipo_sesion": "ordinaria",
+  "paginas": 43,
+  "resumen": "La Junta de Gobierno paga 368.300 euros en facturas, sobre todo la recogida de basuras y el mantenimiento de jardines (Actúa) y las nuevas paradas del autobús urbano. Saca a concurso la mejora de 13 paradas (120.371 euros, con fondos europeos) y un pick-up para la patrulla rural de la Policía Local (56.000 euros), y contrata el concierto de José Mercé (21.780 euros). También aprueba las normas de matrícula de las escuelas infantiles para 2025/2026, las bases de las atracciones de San Isidro y un mural artístico en Los Rosales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 18 y 21 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: basuras, jardines, seguros, paradas de autobús y gasóleo",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cinco pagos: recogida de basuras y limpieza viaria de febrero y mantenimiento de jardines de febrero (Actúa), seguros municipales (Occident), equipamiento de 11 paradas del autobús urbano con fondos europeos Next Generation (Asua BG 96) y gasóleo para la piscina cubierta.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Occident GCO, S.A.U. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asua BG 96, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 368299.69,
+      "importes": [
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, febrero 2025",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Pólizas de seguros del Ayuntamiento (responsabilidad civil, daños y vehículos)",
+          "eur": 21805.44,
+          "entidad": "Occident GCO, S.A.U. de Seguros y Reaseguros"
+        },
+        {
+          "concepto": "Suministro e instalación de equipamiento en 11 paradas del autobús urbano (zonas de bajas emisiones, fondos Next Generation UE)",
+          "eur": 91379.2,
+          "entidad": "Asua BG 96, S.L."
+        },
+        {
+          "concepto": "Gasóleo C para la Piscina Cubierta",
+          "eur": 7950.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, febrero 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 498615X, 690134W, 750072R, 777199T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Rebaja del IBI a un vecino por instalar placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50 % del IBI de su vivienda (máximo 100 € al año) de 2025 a 2028 por una instalación fotovoltaica de autoconsumo de 6 kW con inversión de 6.157 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1023434M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del IBI a un vecino por instalar placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50 % del IBI de su vivienda en diseminado (máximo 100 € al año) de 2025 a 2029 por una instalación fotovoltaica de 6 kW con inversión de 6.480 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056782D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una particular la bonificación del IBI por placas solares porque la instalación costó unos 5.022 €, por debajo de los 6.000 € mínimos que exige la ordenanza.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1025150W",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una particular la bonificación del IBI por placas solares porque la instalación costó unos 4.269 €, por debajo del mínimo de 6.000 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1056784F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.6",
+      "titulo": "Rebajas del 95 % en la tasa de basura a pensionistas con pocos ingresos (2025)",
+      "categoria": "fiscal",
+      "resumen": "Se conceden, deniegan o retiran, según listados del expediente, las bonificaciones del 95 % de la tasa de basura para pensionistas y jubilados cuyos ingresos por persona no superan el IPREM. No se indica el número de personas.",
+      "entidades": [
+        {
+          "nombre": "particulares (pensionistas y jubilados)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiarios o denegados"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037494P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Permiso para dividir una finca agrícola en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar una parcela de 20.033 m² de una finca de regadío de unos 52.839 m² en suelo no urbanizable; la finca resto (32.806 m²) conserva las construcciones existentes, que deberán regularizarse.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1013517N",
+      "lugar": "Polígono 52 (suelo no urbanizable, regadío)",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso por nacimiento a media jornada para un funcionario",
+      "categoria": "personal",
+      "resumen": "Se permite a un funcionario disfrutar a media jornada las 6 semanas que le quedan del permiso por nacimiento y después acumular la lactancia en jornadas completas (la ley no permite hacerlo a media jornada).",
+      "entidades": [
+        {
+          "nombre": "particular (funcionario municipal)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045655Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contratación de un pintor con el programa de empleo del SEF",
+      "categoria": "personal",
+      "resumen": "Se contrata a un pintor oficial de primera para el programa de empleo público local 'Mejora de espacios en edificios y espacios públicos 2024', subvencionado por el Servicio Regional de Empleo y Formación (SEF).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona el programa"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1062172P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Contratación de cuatro peones con el programa de empleo del SEF",
+      "categoria": "personal",
+      "resumen": "Se contrata a cuatro peones para el mismo programa de empleo público local subvencionado por el SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona el programa"
+        },
+        {
+          "nombre": "particulares",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratados"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1062195X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "El Ayuntamiento paga el abogado de un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "El Ayuntamiento asume los gastos de defensa de un subinspector de la Policía Local en un procedimiento abreviado (514/2024) del Juzgado de Primera Instancia e Instrucción n.º 1 de Yecla, según el acuerdo de condiciones de trabajo. Importe aún por determinar.",
+      "entidades": [
+        {
+          "nombre": "particular (subinspector de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Juzgado de Primera Instancia e Instrucción n.º 1 de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "tramita el procedimiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061105H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Pago de 41 € de inscripción en una jornada de formación a una técnica de escuela infantil",
+      "categoria": "personal",
+      "resumen": "Se abonan 41 € de inscripción en una 'Jornada de Educación Infantil' a una técnica de las escuelas infantiles municipales.",
+      "entidades": [
+        {
+          "nombre": "particular (técnica de educación infantil)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 41.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063602A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Curso de violencia de género para una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre sensibilización y actuación ante la violencia de género, en Murcia, en mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059933E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Curso de reconstrucción de accidentes de tráfico para una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre investigación y reconstrucción de accidentes de tráfico, en Murcia, entre marzo y mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059978R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Curso de reconstrucción de accidentes de tráfico para una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre investigación y reconstrucción de accidentes de tráfico, en Murcia, entre marzo y mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058274A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Curso de violencia de género para una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre sensibilización y actuación ante la violencia de género, en Murcia, en mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058531H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Curso de violencia de género para un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre sensibilización y actuación ante la violencia de género, en Murcia, en mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059371Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Curso de violencia de género para un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre sensibilización y actuación ante la violencia de género, en Murcia, en mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056615X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Curso de reconstrucción de accidentes de tráfico para un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir en horario de trabajo al curso de la EFIAP (Escuela de Formación de la Administración regional) sobre investigación y reconstrucción de accidentes de tráfico, en Murcia, entre marzo y mayo de 2025, con las condiciones generales de formación (máx. 40 horas y 40 € al año por empleado).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        },
+        {
+          "nombre": "particular (agente de la Policía Local)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "asiste al curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054914J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación de mejoras en 13 paradas del autobús urbano (120.371 €, fondos europeos)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a concurso (procedimiento abierto simplificado) el suministro e instalación de equipamiento para mejorar la accesibilidad e información de 13 paradas del autobús urbano, dentro del programa de zonas de bajas emisiones financiado con fondos Next Generation UE. Presupuesto: 120.370,52 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Unión Europea (fondos Next Generation EU, PRTR)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120370.52,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982783C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Venta para desguace de los coches abandonados en el depósito de la Policía Local",
+      "categoria": "patrimonio",
+      "resumen": "Se aprueba licitar la venta para desguace de los vehículos depositados en el recinto de la Jefatura de la Policía Local, con un precio mínimo de 12.000 € (sin IVA) que pagará el comprador al Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1041855X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Publicidad institucional en El Periódico de Yecla en 2025: 8.400 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la publicidad digital del Ayuntamiento en 'El Periódico de Yecla' durante 2025, por 8.400 € con IVA; el adjudicatario es una persona física.",
+      "entidades": [
+        {
+          "nombre": "particular (editor de El Periódico de Yecla)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8400.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043890Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Compra de un GPS de topografía para los Servicios Técnicos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Metricalgeo, S.L. la compra de un GPS topográfico para los Servicios Técnicos municipales por 8.945 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Metricalgeo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8945.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061439X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para el Bar Gran Zona",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del 'Bar Gran Zona' (12 m², del 1 de abril al 31 de octubre de 2025), con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Bar Gran Zona (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052533C",
+      "lugar": "Calle San Cristóbal",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Puesto de alumnos del IES Azorín en el mercadillo con fines solidarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES José Martínez Ruiz 'Azorín' a poner un puesto en el mercado del Parque de la Constitución el 2 de abril (práctica de cooperativa escolar a beneficio de AYAC y AFAY), con dos carpas y dos mesas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AYAC",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "AFAY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053627X",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Taichi para mayores en el jardín de la avenida de la Feria",
+      "categoria": "servicios_actividades",
+      "resumen": "Servicios Sociales organizará sesiones de taichi para mayores (unas 50 personas) de lunes a jueves en mayo, junio y octubre de 2025 en el jardín de la avenida de la Feria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060599E",
+      "lugar": "Jardín de la Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Espejo de tráfico en la calle Maestro Polo, pagado por los vecinos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la comunidad de propietarios del Edificio Hospital 17-19 a instalar, a su cargo, un espejo en la calle Maestro Polo (de unos 3 m de ancho) para dar visibilidad a la salida de su garaje.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios del Edificio Hospital 17-19",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicitante y paga el espejo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058172J",
+      "lugar": "Calle Maestro Polo",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en la calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la asociación ADFY se habilita una nueva plaza reservada para personas con discapacidad en la calle Trinquete, junto a la calle Alcalde Juan Spuche.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061607E",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Bolardo para proteger la fachada de una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba instalar un bolardo en la esquina de la vivienda de una particular para evitar que los coches choquen contra su fachada; lo colocan la Policía Local y la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056182W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del albergue juvenil El Ramblizo por la Unión Ciclista Alcoy",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Unión Ciclista Alcoy a usar el albergue juvenil 'El Ramblizo' el 12 de abril de 2025 (12 personas), tras pagar el precio público y la fianza.",
+      "entidades": [
+        {
+          "nombre": "Unión Ciclista Alcoy",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053630A",
+      "lugar": "Albergue Juvenil El Ramblizo",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Boda civil en el Ayuntamiento (8 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para una boda civil el 8 de noviembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045340M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Boda civil en el Ayuntamiento (5 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos de la Casa Consistorial para una boda civil el 5 de abril de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1064501Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Boda civil en el Ayuntamiento (10 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos de la Casa Consistorial para una boda civil el 10 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057152R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Auditorio gratis para el Centro de Educación de Adultos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' al Centro Público de Educación de Adultos para tres actos (coro, Día del Libro y presentación de su periódico) en abril y junio, sin pagar el precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056102J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Normas de matrícula y bonificaciones de las escuelas infantiles para el curso 2025/2026",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la oferta de plazas y las normas de matrícula, funcionamiento y bonificaciones de las Escuelas Infantiles Municipales para el curso 2025/2026 (niños nacidos en 2023, 2024 y 2025). Plazo de solicitud y renovación: del 21 de abril al 2 de mayo de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063718M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Yecla se suma al programa regional de murales artísticos (Los Rosales)",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento se adhiere al convenio entre la Consejería de Turismo, Cultura, Juventud y Deportes y la Universidad de Murcia para pintar murales artísticos; se harán hasta 75 m² en los muros del Centro Recreativo y de Ocio 'Los Rosales' y el Ayuntamiento paga la preparación de la superficie.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve el convenio"
+        },
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "realiza los murales"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1055119T",
+      "lugar": "Centro Recreativo y de Ocio Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Bases para elegir las atracciones y casetas de las Fiestas de San Isidro 2025",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar las atracciones, puestos y casetas que se instalarán en las Fiestas de San Isidro 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051604M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Yecla acoge la final regional de duatlón escolar (hasta 1.900 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar el 29 de marzo de 2025 la final del Campeonato Regional de Duatlón Escolar en el Polideportivo 'Concejal Juan Palao Azorín', con la Dirección General de Deportes, la Federación de Triatlón de la Región de Murcia y el Club Triatlón Arabí Yecla, con una aportación municipal máxima de 1.900 €.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "coorganiza"
+        },
+        {
+          "nombre": "Federación de Triatlón de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1900.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058554P",
+      "lugar": "Complejo Polideportivo Concejal Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Préstamo de carpas al IES Castillo Puche para la Semana de la FP",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden ocho carpas al IES José Luis Castillo Puche para la Semana de la Formación Profesional (29 de mayo de 2025).",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060928M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Préstamo de escenario y sillas al IES Castillo Puche para la entrega de orlas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un escenario y sillas al IES José Luis Castillo Puche para la entrega de orlas del 26 de junio de 2025.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060749N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una particular la condición de residente en zona azul para su vehículo, válida hasta el 31 de diciembre de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061612M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Licitación de un pick-up para la patrulla rural de la Policía Local (56.000 €)",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: se aprueba sacar a concurso la compra de un vehículo tipo pick-up para la patrulla rural de la Policía Local, con un precio base de 56.000 € con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 56000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061104F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Se mantiene el bar-cafetería del Centro de Mayores Las Herratillas hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: como el contrato del bar-cafetería del Centro de Personas Mayores 'Las Herratillas' (adjudicado en 2022 y ya prorrogado) ha terminado y el nuevo aún se está preparando, se acuerda que el actual adjudicatario (persona física) siga prestando el servicio hasta que entre en vigor el nuevo contrato, por interés general.",
+      "entidades": [
+        {
+          "nombre": "particular (adjudicatario actual)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "sigue prestando el servicio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583035X",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Concierto de José Mercé en el Teatro Concha Segura: 21.780 €",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: se adjudica por procedimiento negociado sin publicidad (único licitador, que tiene los derechos exclusivos del artista) el concierto de José Mercé del 29 de marzo de 2025 en el Teatro Concha Segura, por 21.780 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Promociones Musicales Get In, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21780.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059493T",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Profesor para un curso de inglés B1 del SEPE (140 horas): 6.300 €",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: se adjudica por contrato menor a una persona física la impartición de un curso de inglés B1 de 140 horas financiado por el SEPE, por 6.300 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6300.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1064855Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Profesor para un curso de competencias clave del SEF (240 horas): 10.080 €",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: se adjudica por contrato menor a una persona física la preparación e impartición de un curso de competencias clave nivel 2 (lengua y matemáticas, 240 horas) del SEF, por 10.080 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10080.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1064648D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "La clausura de la Ruta del Vino y la Tapa se traslada al 30 de marzo por la lluvia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Asunto urgente: por el mal tiempo del 16 de marzo, se autoriza a la Asociación Ruta del Vino de Yecla a celebrar la clausura de la 12ª Ruta del Vino y la Tapa el 30 de marzo en la Plaza del Industrial del Mueble (frente a la Feria), con material municipal (10 carpas, tableros, bancos, vallas), contenedores extra, permiso para superar el límite de ruido y servir alcohol, y fianza de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052946A",
+      "lugar": "Plaza del Industrial del Mueble",
+      "interes": 2
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Cortes de tráfico y 380 sillas para dos conciertos de Amigos de la Música",
+      "categoria": "via_publica_eventos",
+      "resumen": "Asunto urgente: se autorizan cortes de tráfico y se ceden 380 sillas a la Asociación de Amigos de la Música de Yecla para dos conciertos en la calle (30 de marzo, por el Día de la Mujer Trabajadora, y 11 de abril, de Semana Santa) entre las calles Maestro Mora y Juan Ortuño.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1065378R",
+      "lugar": "Entre calle Maestro Mora y calle Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Taller juvenil de teatro 'Conectarte' (hasta 6.142 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Asunto urgente: la Concejalía de Juventud organiza del 5 de abril al 30 de junio de 2025 el taller 'Conectarte' para desarrollar habilidades personales y sociales de los jóvenes mediante las artes escénicas, con un gasto máximo de 6.142 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6142.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1065416W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "organizacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

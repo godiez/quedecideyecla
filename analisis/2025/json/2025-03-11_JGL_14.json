@@ -1,0 +1,816 @@
+{
+  "doc": "2025-03-11_JGL_14",
+  "organo": "JGL",
+  "sesion": 14,
+  "fecha": "2025-03-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno paga 201.778 euros en facturas (tratamiento de basuras, limpieza de edificios, autobús urbano, material informático y un plan de negocio para el Mercado Central). Contrata a dos limpiadoras fijas, rechaza cuatro recursos de aspirantes y aprueba la bolsa de empleo. Declara desierto el contrato de coordinación de la ayuda a domicilio porque nadie se presentó, y pide a la Comunidad Autónoma que actúe ante el riesgo de caída de ramas de los olmos de la carretera de Almansa, uno de ellos monumental.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 4 y 7 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: basuras, limpieza de edificios, autobús urbano e informática",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: tratamiento de residuos de enero, limpieza de edificios municipales y autobús urbano de febrero, material informático y un plan de negocio para dinamizar el Mercado Central.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Acelera Informática y Tecnología, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Inversus Corporate Finance, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 201778.23,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, enero 2025",
+          "eur": 77403.76,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, febrero 2025",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, febrero 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Contrato menor de suministro de material informático",
+          "eur": 14208.17,
+          "entidad": "Acelera Informática y Tecnología, S.L."
+        },
+        {
+          "concepto": "Contrato menor: plan de negocio para la dinamización del Mercado Central",
+          "eur": 17121.5,
+          "entidad": "Inversus Corporate Finance, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 777197Q, 841943Q, 1017379C, 1035840R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda (2025-2028)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI, con un máximo de 100 euros al año, por una instalación fotovoltaica de 10 kW (inversión de 9.703 euros). Al pedirse tarde, no es retroactiva: vale de 2025 a 2028.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1025160J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda (2025-2029)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI, con un máximo de 100 euros al año, durante cinco años (2025-2029), por una instalación fotovoltaica de 8 kW (inversión de 8.056 euros).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1023400P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Denegado subir el nivel de complemento de destino a dos técnicas de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Una psicóloga y una asesora jurídica de Servicios Sociales/OMIC pedían pasar al nivel 26 sumando sus grados de carrera profesional al nuevo nivel mínimo de la ley. La Junta asume el informe de la Dirección General de Administración Local (CARM) y lo deniega: el cambio solo vale tras modificar la RPT y no con efectos retroactivos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emite informe"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "987937K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cambio de horario de un auxiliar informático",
+      "categoria": "personal",
+      "resumen": "Se autoriza, a petición del trabajador, un nuevo horario semanal sin cambio de sueldo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleado municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057397H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cambio de horario de una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se autoriza, a petición de la trabajadora, un nuevo horario semanal sin cambio de sueldo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056723X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegado cambio de horario a una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se rechaza adelantar 45 minutos su jornada: la petición no está motivada y no la piden todos los trabajadores del edificio, según Servicios Públicos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1051952W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegado cambio de horario a otra limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Mismo caso que el anterior: se rechaza por falta de motivación y porque no lo pide todo el personal del edificio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1051960F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Excedencia para cuidar a su hija de una auxiliar administrativa del Registro",
+      "categoria": "personal",
+      "resumen": "Se concede excedencia voluntaria por cuidado de hija menor de tres años desde el 22 de marzo de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056710D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Dos agentes de empleo irán a un encuentro sobre fomento del empleo",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos agentes de la Agencia de Desarrollo Local asistir al 'Primer Encuentro Fomento Territorial del Empleo' el 14 de marzo, con gastos de viaje a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleadas municipales"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057132P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Una agente de turismo asiste al Consorcio de Vías Verdes",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de una agente de turismo a la Junta de Gobierno del Consorcio de Vías Verdes de la Región de Murcia (11 de marzo), con gastos de viaje municipales.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convoca reunión"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057144F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Desierto el contrato de coordinación de la ayuda a domicilio: nadie se presentó",
+      "categoria": "contrato",
+      "resumen": "Se declara desierta la licitación del servicio de coordinación para atenciones puntuales del Servicio de Ayuda a Domicilio (C.SE. 4/24) porque no se presentó ninguna oferta.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "921188D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Clausura de la 12ª Ruta del Vino y la Tapa en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla la clausura del evento el 16 de marzo, con 10 carpas, tableros, bancos, vallas y contenedores municipales, generador, permiso para servir alcohol y superar el límite de ruido. Fianza de limpieza de 400 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052946A",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Vía Crucis de la Cofradía del Cristo de la Agonía: se deja sobre la mesa",
+      "categoria": "via_publica_eventos",
+      "resumen": "La solicitud de procesión de Vía Crucis de esta cofradía se aplaza sin decidir.",
+      "entidades": [
+        {
+          "nombre": "Cofradía del Santísimo Cristo de la Agonía y Vera Cruz",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1056694F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Procesión de Vía Crucis de la Cofradía del Cristo de la Buena Muerte",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Vía Crucis del 14 de marzo a partir de las 21:30, con el recorrido fijado por la Policía Local, que regulará el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Venerable Cofradía de Nazarenos del Santísimo Cristo de la Buena Muerte y María Santísima de la Estrella",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056185Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Un vecino podrá trasladar un árbol que tapa la entrada de su cochera",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza quitar un árbol y su alcorque que coinciden con la entrada de vehículos, a cambio de hacer un alcorque nuevo donde indique Servicios Públicos, plantar un árbol semejante y dejar una fianza de 250 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042739Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Otro vecino podrá trasladar un árbol que tapa la entrada de su cochera",
+      "categoria": "medio_ambiente",
+      "resumen": "Igual que el anterior: traslado del árbol y del alcorque, replantación de un ejemplar semejante y fianza de 250 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045635X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Denegado a Sumiglas Yecla quitar un árbol de la Avenida de Cartagena",
+      "categoria": "medio_ambiente",
+      "resumen": "La empresa pedía trasladar un árbol junto a su entrada de vehículos, pero la inspección comprueba que no impide el acceso y se deniega.",
+      "entidades": [
+        {
+          "nombre": "Sumiglas Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1056090R",
+      "lugar": "Avenida de Cartagena",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Corregidas las fechas del uso de una sala por la asociación de afectados de cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rectifica un error en las fechas del permiso concedido en diciembre a AYAC para hacer yoga en la sala de reuniones del Centro de Emprendimiento los lunes y miércoles.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1021016D",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Convenio de prácticas con el IES Antonio Navarro Santafé de Villena",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio para que alumnos de este instituto hagan prácticas en el Ayuntamiento, sin pago.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. Antonio Navarro Santafé (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1049090W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Prácticas de un alumno de FP de Electricidad en Servicios Públicos",
+      "categoria": "personal",
+      "resumen": "Un alumno del IES Antonio Navarro Santafé hará 400 horas de prácticas en los Servicios Públicos Municipales del 17 de marzo al 9 de junio.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. Antonio Navarro Santafé (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro del alumno"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "alumno en prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053019C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Prácticas de nueve alumnos de animación sociodeportiva en Deportes",
+      "categoria": "personal",
+      "resumen": "Nueve alumnos del IES José Luis Castillo Puche harán sus prácticas (200-400 horas) en el Servicio Municipal de Deportes entre marzo y junio; se pide a Podium Gestión Integral, la empresa de socorrismo y actividades deportivas, que colabore en el seguimiento.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "alumnos en prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054142M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Agua potable para la nave de Espumas Yecla en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza el suministro de agua potable a una nave industrial de Espumas Yecla, S.L. situada en suelo no urbanizable, con las condiciones de Servicios Públicos.",
+      "entidades": [
+        {
+          "nombre": "Espumas Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052324M",
+      "lugar": "Avenida de Fuente Álamo (suelo no urbanizable)",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Se pide a la CARM que actúe ante las ramas peligrosas de los olmos de la carretera de Almansa",
+      "categoria": "medio_ambiente",
+      "resumen": "A raíz de un requerimiento del grupo socialista, Medio Ambiente informa de ramas tronchadas a gran altura que pueden caer sobre la RM-426 y el carril bici, junto al 'Olmo de la carretera de Almansa', árbol monumental protegido. Como los árboles están en terreno de la carretera regional, se pide a las direcciones generales de Carreteras y de Patrimonio Natural que tomen medidas, y se avisa a la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario del requerimiento"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario del requerimiento"
+        },
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "hizo el requerimiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053906J",
+      "lugar": "Carretera RM-426 Yecla-Almansa, p.k. 0,100",
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Arco hinchable para la carrera solidaria del CEIP La Pedrera",
+      "categoria": "servicios_actividades",
+      "resumen": "El Ayuntamiento cede y monta un arco hinchable para la carrera solidaria del colegio el 14 de marzo.",
+      "entidades": [
+        {
+          "nombre": "C.E.I.P. La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1040192M",
+      "lugar": "C.E.I.P. La Pedrera",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Pabellón gratis para la formación de la Policía Nacional",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede gratis el Pabellón José Ortega Chumilla los días 12 de marzo y 5 de mayo para cursos de autoprotección e intervención de la Policía Nacional. El uso se valora en 227,20 euros.",
+      "entidades": [
+        {
+          "nombre": "Jefatura Superior de Policía de la Región de Murcia - Comisaría Local de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 227.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056818D",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Informe municipal sobre la fibra óptica de Lyntia en la vía pecuaria Cordel de la Flor",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Lyntia Networks pide a la Comunidad Autónoma ocupar la vía pecuaria 'Cordel de la Flor' para tender fibra óptica. El Ayuntamiento aprueba el informe de la arquitecta municipal y lo envía como alegaciones al expediente regional.",
+      "entidades": [
+        {
+          "nombre": "Lyntia Networks, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1043435Q",
+      "lugar": "Vía pecuaria Cordel de la Flor",
+      "interes": 2
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Dos limpiadoras fijas, cuatro recursos rechazados y nueva bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Termina la oposición de dos plazas de limpiador/a (Oferta de Empleo de 2019) para el CEIP La Paz y la Casa Consistorial: se contrata a las dos aspirantes con mejor nota, se desestiman cuatro recursos de alzada sobre las notas y se aprueba una bolsa de empleo de nueve personas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "aspirantes"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "757168Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "El director de Deportes irá a Murcia por la subvención del césped del campo 3",
+      "categoria": "personal",
+      "resumen": "Se ordena al director del Servicio de Deportes asistir el 13 de marzo a una reunión en la Dirección General de Deportes sobre la subvención para renovar el césped del campo de fútbol nº 3 del polideportivo Juan Palao.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca reunión"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleado municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059284D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Un técnico de administración general irá a cursos de contratación pública",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a dos jornadas formativas sobre contratación pública en la escuela de formación de la CARM (12 de marzo y 7 de abril), con gastos de viaje municipales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleado municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059399N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Excedencia de una auxiliar para ocupar interina la jefatura jurídica de Urbanismo",
+      "categoria": "personal",
+      "resumen": "Una auxiliar administrativa pasa a excedencia voluntaria (mínimo dos años) para tomar posesión como técnica de administración general interina, jefa del departamento jurídico-administrativo de Urbanismo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "empleada municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057398J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Jornada de convivencia del AMPA en el CEIP Las Herratillas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar las instalaciones exteriores del colegio el 23 de marzo; corre con la limpieza, la vigilancia y los posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Las Herratillas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059063X",
+      "lugar": "C.E.I.P. Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Policía Local acompañará el pasacalle de la Hermandad de la Santa Faz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Acompañamiento policial el 15 de marzo al pasacalle por la entrega del título de Cofrade Honorario 2025.",
+      "entidades": [
+        {
+          "nombre": "Real Hermandad de la Santa Faz y Cofradía de la Verónica de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058214R",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

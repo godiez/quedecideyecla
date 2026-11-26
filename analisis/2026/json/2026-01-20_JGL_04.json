@@ -1,0 +1,1064 @@
+{
+  "doc": "2026-01-20_JGL_04",
+  "organo": "JGL",
+  "sesion": 4,
+  "fecha": "2026-01-20",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno paga 112.573 euros en facturas (luces de Navidad y fiestas, la obra inmersiva de la Iglesia Vieja, Reyes y el concierto de Año Nuevo) y licita un coche eléctrico de 55.000 euros para el proyecto del castillo. Aprueba un criterio que permite garajes y aparcamientos en todas las zonas residenciales del casco urbano. También se convoca una plaza de conductor, se prioriza otra de arquitecto técnico, se talan pinos en el castillo y junto al Edificio Bioclimático y se autorizan terrazas y usos de salas a asociaciones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 13 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de la CARM y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de resoluciones de la Comunidad Autónoma que conceden y pagan subvenciones al Ayuntamiento (centros de atención a mujeres víctimas de violencia de género CAVI/PAE, medios y dependencias de la Policía Local 2025, y técnicos de Trabajo Social para dependencia) y de una sentencia del Juzgado de lo Contencioso-Administrativo nº 4 de Murcia (P.A. 118/2025). No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Mujer y Prevención de la Violencia de Género (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1212012A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: espectáculo inmersivo, luces de fiestas, Reyes y concierto de Año Nuevo",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: la obra inmersiva 'Yecla sueños de viaje' para la Iglesia Vieja (Plan de Sostenibilidad Turística), el alumbrado de Fiestas de la Virgen y Navidad, infraestructura de Reyes 2026 y el concierto de Año Nuevo de la Orquesta Strauss.",
+      "entidades": [
+        {
+          "nombre": "Aventino Proyectos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Festival Internacional de Primavera Andrés Segovia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 112573.57,
+      "importes": [
+        {
+          "concepto": "Obra inmersiva 'Yecla sueños de viaje' en la Iglesia Vieja (Actuación 11 PST 'Yecla ES +')",
+          "eur": 24500.08,
+          "entidad": "Aventino Proyectos Integrales, S.L."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen 2025 y Navidad-Reyes (Yecla y Raspay)",
+          "eur": 58464.49,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Infraestructura Fiestas de Reyes Magos 2026, Lote 2",
+          "eur": 15609.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Concierto de Año Nuevo Orquesta Strauss, Teatro Concha Segura (3/1/2026)",
+          "eur": 14000.0,
+          "entidad": "Festival Internacional de Primavera Andrés Segovia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959428P, 1153664M, 1175192M, 1193592R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino la bonificación del 50% del IBI por placas solares en su vivienda porque la instalación (4.537,19 € de presupuesto) no llega a la inversión mínima de 6.000 € de la ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1072743X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del ICIO por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Por el mismo motivo se deniega al mismo vecino la bonificación del 90% del impuesto de obras (ICIO) de la instalación fotovoltaica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1072743X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja de hasta el 90% del ICIO por instalar ascensor en un edificio",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el impuesto de obras de la instalación de un ascensor en un edificio de viviendas, porque lo pide una vecina mayor de 70 años que vive allí (la ordenanza equipara a mayores de 70 con personas con discapacidad).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "885205C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda con piscina en el paraje Cañadilla",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de una vivienda unifamiliar con aparcamiento y piscina (licencia 661/2024) con fianza de 1.700 € y plazos de 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1700.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988485X",
+      "lugar": "paraje Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Los garajes y aparcamientos se admiten en todas las zonas urbanas residenciales",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba un criterio interpretativo del Plan General: el uso garaje/aparcamiento se admite en todas las zonas de suelo urbano residencial, incluso en edificio exclusivo, y no se considera uso industrial. Se aplicará a expedientes presentes y futuros y se publicará en la web.",
+      "entidades": [
+        {
+          "nombre": "Servicios Técnicos Municipales de Urbanismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213868D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Convocatoria de una plaza fija de conductor-operario para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de una plaza laboral fija de conductor-operario (grupo C2), de la Oferta de Empleo 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208509K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Rechazado recurso de un aspirante en la bolsa de Director/a de la OMIC",
+      "categoria": "personal",
+      "resumen": "Se desestima el recurso de alzada de un aspirante que pedía que se le valoraran un máster de profesorado y dos cursos de idiomas en la bolsa de empleo de Director/a de la Oficina Municipal de Información al Consumidor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1091966W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Plazas de peón-operario: no se trata (ya resuelto el 13 de enero)",
+      "categoria": "personal",
+      "resumen": "Asunto no tratado porque ya se acordó en la sesión del 13 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "1084964W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Se prioriza convocar una plaza fija de Arquitecto Técnico",
+      "categoria": "personal",
+      "resumen": "Se pide a Recursos Humanos convocar con prioridad una plaza fija de Arquitecto Técnico (Oferta 2025) por la falta de técnicos y el aumento de expedientes de obras; sustituye al acuerdo de crear solo una bolsa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169593K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Calendario laboral 2026 de las brigadas de Obras y Servicios Públicos",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario y jornada 2026 de las brigadas propuesto por el Comité de Personal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1204231T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Horario de una educadora social del programa de absentismo escolar",
+      "categoria": "personal",
+      "resumen": "Se aprueba el horario de la educadora social interina contratada con la subvención de absentismo escolar 2025/26.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1180417T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Cambio de horario de un conserje del CEIP Méndez Núñez",
+      "categoria": "personal",
+      "resumen": "Se aprueba el horario de 7:45 a 14:45 solicitado por el conserje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211920Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Cambio de horario de una conserje del CEIP Giner de los Ríos",
+      "categoria": "personal",
+      "resumen": "Se aprueba el horario de 7:45 a 14:45 solicitado por la conserje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211919X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Calendario laboral 2026 de una agente de turismo",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario de una agente de Desarrollo Local-Turismo con jornada reducida, incluyendo sábados y festivos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1197754Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Excedencia de una auxiliar administrativa que se va a otro ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria a una auxiliar administrativa que pasa a ser funcionaria del Ayuntamiento de Montealegre del Castillo (Albacete) desde el 29 de enero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213129C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Denegada subida de complemento de destino a un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se rechaza la petición de un subinspector de subir al nivel 23 con efectos desde 2023; se le indica que puede usar la carrera profesional horizontal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1188986W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.12",
+      "titulo": "Viaje de la técnica de Protección Civil a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a una reunión el 22 de enero y se pagan desplazamiento y dietas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1212124F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.13",
+      "titulo": "Viaje de dos psicólogas de Servicios Sociales a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a una reunión de coordinación el 23 de enero y se pagan desplazamiento y dietas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1212819X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.14",
+      "titulo": "Jubilación de una trabajadora municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de una trabajadora municipal el 23 de abril de 2026 y se le agradecen más de 40 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214600W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.15",
+      "titulo": "Un agente de la Policía Local comunica jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente se acogerá a la jubilación anticipada de policías locales (RD 1449/2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213744F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.16",
+      "titulo": "Otro agente de la Policía Local comunica jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que otro agente se acogerá a la jubilación anticipada de policías locales (RD 1449/2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213748M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.17",
+      "titulo": "Una agente de turismo impartirá el curso 'La Ruta del Vino' en la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a una agente de Desarrollo Local-Turismo para dar el curso, con una indemnización de 1.120,70 € más 373,35 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1494.05,
+      "importes": [
+        {
+          "concepto": "Indemnización por impartir el curso",
+          "eur": 1120.7,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Seguridad Social a cargo del Ayuntamiento",
+          "eur": 373.35,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211282M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Compra de un vehículo eléctrico para el proyecto del castillo (Hisn Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado la compra de un vehículo eléctrico para el proyecto 'El renacer de Yakka', financiado con fondos europeos Next Generation, con presupuesto de 55.000 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 55000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1205241X",
+      "lugar": "Cerro del Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Recepción de las obras de senderos del Cerro del Castillo",
+      "categoria": "contrato",
+      "resumen": "Ingeniería Ortín, S.L. comunica que terminó el 9 de enero las obras de acondicionamiento de recorridos del monte del Cerro del Castillo (Plan de Sostenibilidad Turística, fondos europeos vía ITREM); la recepción será el 13 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081479E",
+      "lugar": "Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Limpieza de aseos del Monte Arabí y del Cerrico de la Fuente en 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de limpieza de la Casa del Guarda del Monte Arabí y de los aseos del Cerrico de la Fuente durante 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8727.49,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210066Y",
+      "lugar": "Monte Arabí; Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "AFEDECO hará las actividades de igualdad y mujer 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de servicios para las actividades de igualdad y mujer de 2026.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13490.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1203249E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Bases para adjudicar el bar de las fiestas de Carnaval 2026",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases del contrato menor del servicio de bar durante el Carnaval 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211528D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para la cafetería 'Paulas Pastry'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 18 m2 de noviembre a marzo en la Plaza Concejala Mª Carmen Lorente.",
+      "entidades": [
+        {
+          "nombre": "Paulas Pastry (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211071T",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza anual para el 'Plaza Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 80 m2 todo el año en la Plaza de San Cayetano.",
+      "entidades": [
+        {
+          "nombre": "Plaza Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211044F",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Puesto benéfico de AYAC en el mercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer un puesto en el mercado de la Plaza Mayor el 21 de enero para vender calendarios solidarios, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211489Z",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Campaña sobre el contenedor marrón en los mercados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Actúa, Servicios y Medio Ambiente, S.L. poner puestos informativos sobre el contenedor de orgánicos en los mercados de la Plaza Mayor y San Cayetano (enero-febrero).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214466J",
+      "lugar": "Plaza Mayor; mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Acompañamiento policial a la procesión de la Virgen de Lourdes",
+      "categoria": "via_publica_eventos",
+      "resumen": "La Policía Local ordenará el tráfico en la procesión del 8 de febrero desde la parroquia de San José.",
+      "entidades": [
+        {
+          "nombre": "Hospitalidad Murciana Nuestra Señora de Lourdes",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1212616P",
+      "lugar": "Parroquia de San José y calles del recorrido",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Repintado de señales sí, bolardo no, ante una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba repintar la señalización pero se deniega un bolardo pedido por una vecina porque impediría el paso de vehículos de emergencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1202324W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado un bolardo frente a una fachada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la petición de un vecino de poner un bolardo por informe desfavorable de la Policía Local (calle de doble sentido, ya hay línea peatonal y bolardo).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1203324J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Señal luminosa y repintado en el paso de peatones de la Ctra. de Almansa",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino por riesgo de atropello, se repinta el paso de peatones de la Ctra. de Almansa km 0 y se pone señal vertical luminosa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209653Z",
+      "lugar": "Ctra. de Almansa, km 0",
+      "interes": 2
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Unidad móvil de reconocimiento médico en la Estación de Autobuses",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Ogara, S. Coop. Andaluza (contratista del IMAS para ayuda a domicilio) a instalar el 30 de enero una unidad móvil para revisiones médicas de sus trabajadoras, con enganche eléctrico municipal.",
+      "entidades": [
+        {
+          "nombre": "Ogara, Sociedad Cooperativa Andaluza",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209960A",
+      "lugar": "Estación de Autobuses, Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Tala de 7 pinos que dañan el yacimiento del castillo (Hisn Yakka)",
+      "categoria": "otros",
+      "resumen": "Se ordena a la Brigada de Medio Ambiente quitar 7 pinos carrascos que dañan las estructuras del yacimiento arqueológico Hisn Yakka (Bien de Interés Cultural).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213994D",
+      "lugar": "Cerro del Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Tala de 12 pinos con plaga y retirada de juegos junto al Edificio Bioclimático",
+      "categoria": "otros",
+      "resumen": "Se ordena desmontar los juegos y rocódromo (puente, red y tirolina) y talar 12 pinos afectados por barrenillo en el entorno del Edificio Bioclimático; se informa a la CARM.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211729H",
+      "lugar": "Entorno del Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Aula de cocina para la Asociación de Fibromialgia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo C.P. San José de Calasanz el 31 de enero para un taller de cocina.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210811H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Plenos para la asamblea de Yecla Siglo de Oro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos el 29 de enero para la asamblea de socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación Yecla Siglo de Oro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1212026W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Viudas 'La Purísima'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala de reuniones el 23 de enero para una charla informativa.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Viudas 'La Purísima' de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213827X",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Boda civil en la Casa Consistorial (20 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1202921Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Boda civil en la Casa Consistorial (18 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1194924R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Salón del Edificio Bioclimático para un proyecto Erasmus+ del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 24 de febrero para actividades Erasmus+.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1201334W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Auditorio gratis para la Semana de la Montaña del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito del 3 al 6 de marzo con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208418J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Aula de la Naturaleza 'Coto Salinas' para el Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza del 27 al 28 de febrero para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177431X",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Visitas guiadas de febrero a julio con el Instituto de Turismo",
+      "categoria": "otros",
+      "resumen": "Se aprueba el programa de visitas guiadas organizado con el ITREM y la Red de Oficinas de Turismo y un presupuesto de 4.205,96 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4205.96,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214662F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Aqualia instalará un nuevo medidor de volumen de agua",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a FCC Aqualia, dentro del contrato del agua potable, la instalación de un nuevo equipo registrador de volumen de agua.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4576.64,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1176584W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Aqualia hará un nuevo acceso al depósito de Casa Castellanos (Raspay)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a FCC Aqualia un nuevo acceso al depósito de agua de la Casa Castellanos en Raspay.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2117.26,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1206876R",
+      "lugar": "Casa Castellanos, Raspay",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Renovación de una red privada de agua en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a una vecina renovar, a su cargo, una red privada de agua muy antigua que abastece a tres usuarios en suelo no urbanizable, en precario y con condiciones técnicas de Aqualia.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "fija condiciones técnicas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1206882A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Nueva fecha para la reforestación escolar del AMPA del CEIP El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia al 28 de febrero la jornada de plantación de flora autóctona en el Cerro del Castillo; el Ayuntamiento paga el material.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177400D",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Contratación urgente de un topógrafo para el proyecto del castillo",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia del topógrafo contratado, se contrata a otro de la bolsa hasta el 31 de mayo de 2026 para el proyecto 'El Renacer de Yakka' (fondos Next Generation).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1190910R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Apoyo municipal a una jornada de atletismo Sub14 y Sub23",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la A.D. Atletismo Yeclano y a la Federación de Atletismo de la Región de Murcia la competición del 24 de enero en la pista Juan Palao, con gastos municipales de 375,51 € y uso gratuito de instalaciones valorado en 408,60 €.",
+      "entidades": [
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 784.11,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 375.51,
+          "entidad": "Agrupación Deportiva de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 408.6,
+          "entidad": "Agrupación Deportiva de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208940J",
+      "lugar": "Pista de atletismo, Complejo Juan Palao Azorín",
+      "interes": 1
+    }
+  ]
+}

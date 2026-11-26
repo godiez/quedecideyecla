@@ -1,0 +1,677 @@
+{
+  "doc": "2023-12-26_JGL_55",
+  "organo": "JGL",
+  "sesion": 55,
+  "fecha": "2023-12-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 26,
+  "resumen": "Última Junta de Gobierno de 2023. Se pagan casi 266.000 euros en facturas, entre ellas el tratamiento de basuras de noviembre (69.390), el alumbrado de fiestas y Navidad (44.867) y la reparación de cubiertas de los almacenes municipales (47.775). Se reparten subvenciones a las AMPAS de colegios, institutos y escuelas infantiles (16.725), a las asociaciones de comerciantes y peluqueras (12.000) y 285 ayudas de 100 euros para libros escolares. Se autoriza agua de obra para la nave que construye McDonald's en suelo no urbanizable, se contratan las jaimas de Reyes 2024 por 18.073 euros y se pide a la Comunidad Autónoma un ingeniero técnico industrial interino porque hay más de 170 expedientes de actividades atascados.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 19 y 22 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones de los días 19 y 22 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de obras en almacenes municipales, reparación de una pala y un proyecto ambiental",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la reparación de cubiertas y carpintería de los almacenes municipales, la reparación de la pala cargadora de mantenimiento de caminos y el proyecto de restauración paisajística de zonas degradadas y húmedas en Celadillas y la depuradora (EDAR).",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Soluciones de Maquinaria y Distribuciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 68631.88,
+      "importes": [
+        {
+          "concepto": "Reparación de cubiertas y sustitución de carpintería exterior en almacenes municipales",
+          "eur": 47774.93,
+          "entidad": "Construcciones y Promociones Molina Yago 2000, S.L."
+        },
+        {
+          "concepto": "Reparación de pala cargadora del servicio de mantenimiento de caminos",
+          "eur": 9368.0,
+          "entidad": "Soluciones de Maquinaria y Distribuciones, S.L."
+        },
+        {
+          "concepto": "Proyecto de restauración paisajística y recuperación de zonas húmedas: Celadillas y EDAR",
+          "eur": 11488.95,
+          "entidad": "Neten Consultoría, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794947T, 793398R, 740175X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la bonificación del 50% del IBI por placas solares porque la instalación costó 3.665,20 euros y la ordenanza exige una inversión mínima de 6.000.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "855821Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del 90% del ICIO por instalar placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina la bonificación del 90% del impuesto de construcciones (ICIO) por una instalación fotovoltaica de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "851151E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Rebaja del IBI durante cinco años por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la misma vecina la bonificación del 50% del IBI de 2024 a 2028, con un máximo de 100 euros al año, por su instalación solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857789Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Denegada rebaja del ICIO por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación del 90% del ICIO a la vecina del punto 2.2 porque su instalación (3.665,20 euros) no llega a la inversión mínima de 6.000 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "844175Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Contrato de sustitución de limpiadora para tres colegios",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo personal de limpieza para cubrir las plazas vacantes de los CEIP La Paz, Miguel Ortuño y Méndez Núñez hasta que se cubran en propiedad (máximo tres años). El título habla de tres plazas y el acuerdo de un contrato.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860123Q",
+      "lugar": "CEIP La Paz, CEIP Miguel Ortuño y CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Sustituto para el conserje de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un conserje-operario para sustituir al de la Universidad Popular mientras dure su ausencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860561Z",
+      "lugar": "Universidad Popular",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Se pide un ingeniero técnico industrial interino: 170 expedientes de actividad atascados",
+      "categoria": "personal",
+      "resumen": "Como la plaza de ingeniero técnico industrial está vacante y hay más de 170 expedientes de licencias de actividad pendientes, y no existe bolsa de empleo, se pide a la Comunidad Autónoma que proponga a alguien de su lista de espera para nombrarlo interino hasta tres años.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone candidato de su lista de espera"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860596Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Compra de libros para la biblioteca con fondos europeos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a un particular (librería) el suministro de fondo bibliográfico para la biblioteca, financiado con el Plan de Recuperación (Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Plan de Recuperación, Transformación y Resiliencia (UE-Next Generation EU)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5371.49,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830554Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Procesión del Niño Jesús el 1 de enero",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia del Niño Jesús la procesión del 1 de enero de 2024 a partir de las 20:30, con apoyo de la Policía Local para el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860418A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Salón de Sesiones para una boda civil el 29 de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja usar el Salón de Sesiones de la Casa Consistorial para su boda civil el 29 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861462A",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Salón de Sesiones para una boda civil el 27 de enero",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja usar el Salón de Sesiones de la Casa Consistorial para su boda civil el 27 de enero de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860933Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Subvenciones de 2023 a las AMPAS de colegios, institutos y escuelas infantiles",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden y pagan 1.025 euros a cada AMPA de 15 colegios e institutos, 150 euros a cada AMPA de 5 escuelas infantiles y 600 euros a la AMPA del Centro de Atención Temprana, y se dan por justificadas las del curso 2022/23.",
+      "entidades": [
+        {
+          "nombre": "AMPAS de 15 colegios e institutos (San Francisco de Asís, Las Herratillas, Méndez Núñez, La Paz, La Inmaculada, Giner de los Ríos, Alfonso X El Sabio, Miguel Ortuño, La Pedrera, El Alba, San José de Calasanz, CEE Virgen de la Esperanza, IES Castillo Puche, IES Azorín, IES Felipe VI)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPAS de 5 escuelas infantiles (La Alameda, El Parque, Pulgarcito, El Perro Loco, Campanilla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPA del Centro de Atención Temprana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16725.0,
+      "importes": [
+        {
+          "concepto": "15 AMPAS de colegios e institutos, 1.025 € cada una",
+          "eur": 15375.0,
+          "entidad": "AMPAS de colegios e institutos"
+        },
+        {
+          "concepto": "5 AMPAS de escuelas infantiles, 150 € cada una",
+          "eur": 750.0,
+          "entidad": "AMPAS de escuelas infantiles"
+        },
+        {
+          "concepto": "AMPA del Centro de Atención Temprana",
+          "eur": 600.0,
+          "entidad": "AMPA del Centro de Atención Temprana"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835347E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Subvenciones al comercio local: ASOCOMY y Asociación de Peluqueras",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden, se dan por justificadas y se pagan las ayudas de fomento del comercio local de 2023: 8.700 euros a la Asociación de Comerciantes de Yecla y 3.300 a la Asociación de Peluqueras de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Peluqueras de Yecla (APY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "importes": [
+        {
+          "concepto": "Fomento del comercio local 2023",
+          "eur": 8700.0,
+          "entidad": "Asociación de Comerciantes de Yecla (ASOCOMY)"
+        },
+        {
+          "concepto": "Fomento del comercio local 2023",
+          "eur": 3300.0,
+          "entidad": "Asociación de Peluqueras de Yecla (APY)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839115N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "285 ayudas de 100 euros para libros y material escolar",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 285 ayudas de 100 euros para libros y material escolar del curso 2022/23 (de Infantil a Bachillerato y FP) y se deniegan 161: 93 por tener ya libros gratuitos de la Comunidad, 47 por superar la renta, 19 por otras becas y 2 fuera de plazo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 28500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835294F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Agua de obra para la nave de McDonald's en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Restaurantes McDonald's, S.A.U. el suministro de agua potable para las obras de su nave comercial en suelo no urbanizable, que ya tiene licencia urbanística (nº 188/2023), con las condiciones de Servicios Públicos.",
+      "entidades": [
+        {
+          "nombre": "Restaurantes McDonald's, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861567X (licencia 188/2023)",
+      "lugar": "polígono 46, parcela 292",
+      "interes": 3
+    },
+    {
+      "ref": "11",
+      "titulo": "Préstamo de 90 sillas a la Residencia de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden 90 sillas municipales a Gestión Geriátrica 2010, S.L. para una convivencia familiar en la Residencia de San Isidro el 28 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Gestión Geriátrica 2010, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860094A",
+      "lugar": "Residencia de San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Tarjeta de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "850242R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de facturas: basuras, Centro de Día, alumbrado navideño, visor nocturno y señales",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las plazas del Centro de Día de noviembre, el tratamiento de basuras de noviembre, un monocular de visión nocturna para la Policía Local, el alumbrado de las Fiestas de la Virgen y Navidad (Yecla y Raspay), pintura de señalización vial y pasos de peatones, y el montaje de 'La casa de Papá Noel'.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nightvision Laser Spain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cebreados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.Q. Tecnol, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 197779.55,
+      "importes": [
+        {
+          "concepto": "Centro de Día, plazas de dependientes, noviembre 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, noviembre 2023",
+          "eur": 69390.08,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Monocular nocturno para la Policía Local",
+          "eur": 13794.0,
+          "entidad": "Nightvision Laser Spain, S.L."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen 2023 y Navidad-Reyes (Yecla y Raspay)",
+          "eur": 44866.2,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Señalización horizontal de vías públicas",
+          "eur": 14078.35,
+          "entidad": "Cebreados, S.L."
+        },
+        {
+          "concepto": "Señalización de pasos de peatones",
+          "eur": 6384.93,
+          "entidad": "T.Q. Tecnol, S.A.U."
+        },
+        {
+          "concepto": "Suministro, montaje y desmontaje de 'La casa de Papá Noel'",
+          "eur": 11979.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A, 584325N, 792040F, 832168P, 846658P, 850461X, 856570F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Jaimas para Emisarios y Reyes 2024 y ambientación de la Plaza Mayor",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a un particular el suministro de jaimas para el evento de Emisarios y Reyes 2024 y la ambientación de la Plaza Mayor los días 4 y 5 de enero.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 18072.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "862042F",
+      "lugar": "Plaza Mayor",
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Espectáculo 'Super Mario - El gran tributo' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Vol Music Events, S.L. el espectáculo musical 'Super Mario - El gran tributo' del 29 de diciembre en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Vol Music Events, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7865.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838832W",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Servicio de bar del Baile de Año Nuevo en la Feria del Mueble",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el bar del Baile de Año Nuevo 2024 en la Feria del Mueble; el adjudicatario paga 705 euros al Ayuntamiento y deja una fianza de 500.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario (paga al Ayuntamiento)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 705.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "856661H",
+      "lugar": "Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Baile de Reyes para personas mayores",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba celebrar el Baile de Reyes para personas mayores el 6 de enero de 2024, de 18 a 21 h, en el Pabellón María José Martínez.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832276P",
+      "lugar": "Pabellón Polideportivo María José Martínez, calle Perales",
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Navilandia 2024: animación infantil y juvenil en Navidad",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza la actividad infantil y juvenil 'Navilandia 2024' del 2 al 4 de enero en el pabellón María José Martínez, con un gasto máximo de 5.445 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5445.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859517Z",
+      "lugar": "Pabellón María José Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Pabellón gratis para partidos de baloncesto de la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Red Deportiva Yecla a jugar partidos no oficiales de baloncesto el 3 de enero en el Pabellón José Ortega Chumilla, con uso gratuito valorado en 219,18 euros y apoyo municipal.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 219.18,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859076M",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Puesto benéfico de ADFY en el mercado de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY) una carpa y una mesa el 27 de diciembre, en el mercado semanal, para vender artículos con fines benéficos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860417Z",
+      "lugar": "mercado semanal de los miércoles",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Puesto benéfico de la AMPA del Colegio La Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del Colegio La Paz una carpa y una mesa en el Parque de la Constitución el 27 de diciembre para recaudar fondos benéficos.",
+      "entidades": [
+        {
+          "nombre": "AMPA del Colegio La Paz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "862054Y",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Informes, ruegos y preguntas: no se presentan",
+      "categoria": "mocion_politica",
+      "resumen": "No se presentan informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

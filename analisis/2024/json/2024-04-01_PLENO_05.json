@@ -1,0 +1,418 @@
+{
+  "doc": "2024-04-01_PLENO_05",
+  "organo": "PLENO",
+  "sesion": 5,
+  "fecha": "2024-04-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 41,
+  "resumen": "El Pleno aprueba, por unanimidad, una nueva ordenanza de ayudas sociales que actualiza automáticamente las cuantías y deja su concesión en manos de la Alcaldía. Se rehacen los pliegos del gran contrato de basuras y limpieza viaria (unos 63 millones en 12 años) después de que un tribunal estatal los anulara por no justificar que no se dividiera en lotes. Se adelantan subvenciones a clubes deportivos (72.000 € al Yeclano Deportivo, 18.000 € al Fútbol Base, 9.000 € al Club de Tenis) y 13.750 € a la Federación de Peñas de San Isidro. PP y Vox rechazan la moción del PSOE para un plan de mantenimiento de los colegios; se aprueba por unanimidad pedir a la Comunidad Autónoma el plan de gestión de los espacios protegidos del Altiplano.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta del Pleno de 4 de marzo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Nueva ordenanza de ayudas sociales para familias en situación de necesidad",
+      "categoria": "normativa",
+      "resumen": "Aprobación inicial de la nueva Ordenanza de ayudas y prestaciones para la atención de necesidades sociales, que sustituye a la de 2016: las cuantías se ligarán a valores que se actualizan solos (antes quedaban obsoletas), se simplifican trámites y se atiende antes a personas en riesgo de exclusión y a víctimas de violencia de género. Se abre un plazo de 30 días para reclamaciones; si no hay, queda aprobada definitivamente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785489H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Las ayudas sociales las concederá la Alcaldía por decreto, sin pasar por comisión",
+      "categoria": "normativa",
+      "resumen": "Aprobación inicial del cambio de los artículos 23 y 25 de la Ordenanza general de subvenciones: las ayudas sociales se consideran de interés social sin necesidad de dictamen de la Comisión de Hacienda y las resolverá la Alcaldía mediante decreto, para agilizarlas. 30 días de exposición pública.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881464F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Se rechaza el recurso de Actúa (basuras) que pedía cobrar los costes reales en la prórroga",
+      "categoria": "contrato",
+      "resumen": "Actúa, Servicios y Medio Ambiente, S.L., que sigue prestando la recogida de basuras y limpieza viaria con el contrato vencido el 31/03/2023 hasta que haya nuevo adjudicatario, recurrió para que el Pleno reconociera expresamente su derecho a cobrar los costes reales de ese periodo transitorio. Se desestima por innecesario: el acuerdo ya deja a salvo sus reclamaciones, que deberá resolver la Alcaldía o la Junta de Gobierno según su cuantía.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurrente; contratista actual de basuras y limpieza viaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "12 a favor (PP y Vox), 8 abstenciones (PSOE e IU-Verdes)",
+      "expediente": "719392F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Contrato de basuras y limpieza (63 millones): se rehacen los pliegos tras anularlos un tribunal",
+      "categoria": "contrato",
+      "resumen": "El Tribunal Administrativo Central de Recursos Contractuales, a recurso de la Cooperativa Moda Re, anuló una cláusula del pliego del nuevo contrato de recogida de basuras, recogida selectiva y limpieza viaria (valor estimado 63.125.992,49 €, 4.451.191,78 €/año, 12 años) por no justificar que no se dividiera en lotes ni la reserva para entidades sociales en la recogida de ropa usada. Se aprueban una nueva memoria justificativa y un nuevo pliego (no división en lotes motivada y condición especial de ejecución con contratos reservados para residuos textiles) y se reabre el plazo de ofertas.",
+      "entidades": [
+        {
+          "nombre": "Moda Re, Sociedad Cooperativa de Iniciativa Social",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurrente que logró anular la cláusula"
+        },
+        {
+          "nombre": "Tribunal Administrativo Central de Recursos Contractuales",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "anuló la cláusula 1.3 del pliego (Resolución 332/2024)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 63125992.49,
+      "importes": [
+        {
+          "concepto": "Valor estimado del contrato (12 años)",
+          "eur": 63125992.49,
+          "entidad": null
+        },
+        {
+          "concepto": "Precio base de licitación anual (IVA incluido)",
+          "eur": 4451191.78,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "12 a favor (PP y Vox), 8 abstenciones (PSOE e IU-Verdes)",
+      "expediente": "712712D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6",
+      "titulo": "La UNED justifica los 68.000 € de 2023 para el aula universitaria de Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de 68.000 € de 2023 al Consorcio del Centro Asociado de la UNED en Cartagena para mantener el Aula Universitaria de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Consorcio del Centro Asociado de la UNED en Cartagena",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "justifica la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 68000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853051T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Convenio 2024 con la Federación de Peñas de San Isidro: 13.750 € de anticipo",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio de colaboración de 2024 con la Federación de Peñas de San Isidro y se le adelantan 13.750 €, que deberá justificar.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13750.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "902318W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Yecla Club de Tenis: 9.000 € a cuenta de su subvención de 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se compromete el pago a cuenta del 75 % de la subvención de 2024 del convenio 2022-2025 con el Yecla Club de Tenis, para la promoción del tenis y otros deportes de raqueta.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869615Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Yeclano Deportivo: 72.000 € a cuenta de la temporada 2023/2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se compromete el pago a cuenta del 60 % de la subvención de la temporada 2023/2024 del convenio con el Yeclano Deportivo para la práctica del fútbol en instalaciones municipales (el convenio acaba el 15/09/2024, prorrogable un año).",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 72000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "12 a favor (PP y Vox), 8 abstenciones (PSOE e IU-Verdes)",
+      "expediente": "879081X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Fútbol Base de Yecla: 18.000 € a cuenta de la temporada 2023/2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se compromete el pago a cuenta del 75 % de la subvención de la temporada 2023/2024 del convenio con la Sociedad Deportiva Fútbol Base de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "866370R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Rechazada la moción del PSOE para un plan de mantenimiento de los colegios",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE pedía un plan municipal de conservación, mantenimiento y limpieza de los colegios con presupuesto propio y una memoria anual de actuaciones compartida con centros, AMPAS y grupos. Debate: PSOE e IU enumeran goteras, canaletas, columpios rotos o falta de sombra; el PP (concejala de Educación) dice que ya hay un plan, que el presupuesto de Educación es de unos 3 millones, que se creará una plaza de mantenedor y que muchas peticiones son inversiones de la Comunidad Autónoma; la alcaldesa se compromete a dar la información a grupos y centros.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "12 en contra (PP y Vox), 8 a favor (PSOE e IU-Verdes)",
+      "expediente": "904978P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Se pide a la Región aprobar ya el plan de los espacios protegidos del Altiplano",
+      "categoria": "mocion_politica",
+      "resumen": "Moción de IU-Verdes: instar a la Comunidad Autónoma a aprobar el Plan de gestión integral de los espacios protegidos del Altiplano (Sierra de Salinas, Carche, Buey, Serral, Monte Arabí y estepas ZEPA), en exposición pública desde 2018, pedirle explicaciones por el retraso e impulsar la revisión del Mapa Ecológico de Yecla (unos 20 años sin actualizar). Todos la apoyan; el PP anuncia un convenio con la asociación ANIDA y Vox reclama compensaciones económicas para los agricultores afectados por la ZEPA y rechaza ampliarla.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria de la petición"
+        },
+        {
+          "nombre": "ANIDA",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colaboró en el Mapa Ecológico; futuro convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "905004A",
+      "lugar": "Espacios protegidos del Altiplano (Sierra de Salinas, Sierra del Carche, Sierra del Buey, Sierra del Serral, Monte Arabí, Estepas de Yecla)",
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Urgente: 2.500 € a ADFY para pagar la hipoteca de su local social",
+      "categoria": "subvencion_concedida",
+      "resumen": "Tras aprobar por unanimidad la urgencia, se abona a la Asociación de Discapacitados Físicos de Yecla el primer plazo de 2024 (2.500 €) de la subvención para amortizar el préstamo hipotecario con el que compró su local social en la calle Ercilla (convenio de 2007, prorrogado hasta 2026).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (urgencia y fondo)",
+      "expediente": "882892P",
+      "lugar": "Local social de ADFY, calle Ercilla",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Cuentas del 4.º trimestre de 2023: no se cumple la estabilidad; deuda de 11,4 millones",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Informe de Intervención sobre la ejecución del presupuesto a 31/12/2023: el Ayuntamiento no cumple el objetivo de estabilidad presupuestaria (solo informativo, con las reglas fiscales suspendidas) y la deuda viva es de 11.367.101,03 €, por debajo de los límites legales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11367101.03,
+      "importes": [
+        {
+          "concepto": "Deuda viva a 31/12/2023",
+          "eur": 11367101.03,
+          "entidad": null
+        }
+      ],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "893116P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Morosidad del 4.º trimestre de 2023: 103 facturas pagadas tarde o pendientes fuera de plazo",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Periodo medio de pago de 27,76 días: 1.480 pagos en plazo (4.514.297,35 €) y 467 fuera de plazo (336.330,69 €). Quedaban 440 facturas pendientes (1.046.006,87 €), 103 de ellas ya fuera de plazo (280.073,20 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Pagos dentro de plazo (1.480)",
+          "eur": 4514297.35,
+          "entidad": null
+        },
+        {
+          "concepto": "Pagos fuera de plazo (467)",
+          "eur": 336330.69,
+          "entidad": null
+        },
+        {
+          "concepto": "Pendiente de pago a 31/12/2023 (440)",
+          "eur": 1046006.87,
+          "entidad": null
+        },
+        {
+          "concepto": "Pendiente fuera de plazo (103)",
+          "eur": 280073.2,
+          "entidad": null
+        }
+      ],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "893120W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "El Ayuntamiento paga a proveedores en una media de 22 días",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Periodo medio de pago a proveedores al cierre de 2023: 22,12 días (pagos realizados 4.003.747,91 €; pendientes 980.210,24 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Pagos realizados",
+          "eur": 4003747.91,
+          "entidad": null
+        },
+        {
+          "concepto": "Pagos pendientes",
+          "eur": 980210.24,
+          "entidad": null
+        }
+      ],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "893118R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Resoluciones de la Alcaldía, entre ellas cambios en las dedicaciones de concejales",
+      "categoria": "informacion",
+      "resumen": "El Pleno queda enterado de los decretos n.º 986 a 1415, en especial el n.º 1305, de 13/03/2024, que modifica los nombramientos de concejales con dedicación exclusiva o parcial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

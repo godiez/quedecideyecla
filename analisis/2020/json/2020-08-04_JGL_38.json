@@ -1,0 +1,785 @@
+{
+  "doc": "2020-08-04_JGL_38",
+  "organo": "JGL",
+  "sesion": 38,
+  "fecha": "2020-08-04",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 34,
+  "resumen": "La Junta de Gobierno adjudica un sondeo para sacar agua potable a Cesyr Estudios y Construcción por 292.215 euros, el servicio de grúa municipal a Grúas Los Raspa (38.720 euros al año) y material informático por unos 46.000 euros a cinco empresas. Paga 30.984 euros a Podium Gestión Integral por tener parado el contrato de socorrismo durante la COVID y le pide que siga hasta que haya contrato nuevo. Da visto bueno a un parque solar de Mirlo Blanco Renovables 2 rechazando las alegaciones de la asociación ecologista ANIDA, deniega una gran nave junto a una vivienda en Moratillas y concede varias licencias de obra y terrazas más grandes por la COVID.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 28 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: convocatorias de ayudas regionales y vuelta a las aulas",
+      "categoria": "informacion",
+      "resumen": "Se informa de publicaciones del BORM: ayudas a la rehabilitación en áreas de regeneración urbana (Plan de Vivienda), a la modernización de mercados municipales, a asociaciones de comerciantes y a la digitalización de micropymes por la COVID, instrucciones de comedores escolares, el contrato programa del Instituto de Fomento y la vuelta a las clases presenciales en el curso 2020-21.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Industria y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de tres vehículos a ARM Motor: 61.701 €",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar tres facturas de 20.567 euros cada una a ARM Motor por el suministro de vehículos municipales.",
+      "entidades": [
+        {
+          "nombre": "ARM Motor, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 61701.0,
+      "importes": [
+        {
+          "concepto": "Fra. VV/264/2020 suministro de vehículos",
+          "eur": 20567.0,
+          "entidad": "ARM Motor, S.L."
+        },
+        {
+          "concepto": "Fra. VV/265/2020 suministro de vehículos",
+          "eur": 20567.0,
+          "entidad": "ARM Motor, S.L."
+        },
+        {
+          "concepto": "Fra. VV/266/2020 suministro de vehículos",
+          "eur": 20567.0,
+          "entidad": "ARM Motor, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "328657T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación de la obra de las pinturas rupestres del Monte Arabí: 49.467 €",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 2 de la obra de puesta en valor de las pinturas rupestres de la Cueva del Mediodía (nuevo cerramiento y consolidación de los paneles), a favor de Construcciones Enciso y José.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 49467.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "287864M",
+      "lugar": "Cueva del Mediodía, Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia a Nuevos Campos Solares para la línea eléctrica de un parque solar de 2 MW",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para un centro de seccionamiento y una línea de media tensión de 20 kV que evacuará la energía de un parque solar fotovoltaico de 2 MW. Deberá reponer caminos y terminar en 24 meses.",
+      "entidades": [
+        {
+          "nombre": "Nuevos Campos Solares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "240438R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Denegada a Rural Yecla una vivienda con nave de 882 m² en el paraje Moratillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega la licencia para una vivienda aislada con piscina y un 'almacén' de 882 m²: por su tamaño no puede considerarse anexo de una casa de 156 m², y debe tramitarse aparte como nave agrícola o industrial.",
+      "entidades": [
+        {
+          "nombre": "Rural Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "74017C",
+      "lugar": "Paraje Moratillas, polígono 104, parcela 25",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para dos viviendas con garaje en la calle España",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia con proyecto básico para dos viviendas, garaje y trastero; necesitarán el proyecto de ejecución para empezar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "407729Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para una vivienda aislada con piscina en el paraje Las Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia con proyecto básico para vivienda unifamiliar aislada, trastero, aparcamiento cubierto y piscina en el campo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462290W",
+      "lugar": "Paraje Las Artesillas",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para derribar un inmueble en la calle Puerto Rico",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia de demolición, con fianzas de 590,54 y 175,51 euros, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470644Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para derribar un inmueble en la calle San Isidro",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia de demolición, con fianzas de 297,20 y 1.490,65 euros, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470907N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para una vivienda entre medianeras en la calle Historiador Jiménez Rubio",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir una vivienda unifamiliar, con fianza de 200 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471750J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Permiso para empezar una vivienda aislada con piscina en el paraje La Alberca",
+      "categoria": "licencia_obra",
+      "resumen": "Presentado el proyecto de ejecución, se autoriza a un particular a empezar las obras de la vivienda con piscina que tenía licencia desde el 30 de junio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472265Z",
+      "lugar": "Paraje La Alberca",
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia a Artytra para cuatro viviendas, dos oficinas y garajes en la calle San Antonio",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico para un edificio de cuatro viviendas, dos oficinas y garajes, con fianza de 870 euros y condiciones de protección contra incendios.",
+      "entidades": [
+        {
+          "nombre": "Artytra, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472993K",
+      "lugar": "Calle San Antonio, 39-41",
+      "interes": 2
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia para derribar un inmueble en la calle San Cristóbal",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia de demolición, con fianzas de 264,15 y 175,51 euros, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476822D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Visto bueno al parque solar de Mirlo Blanco Renovables 2; rechazadas las alegaciones de ANIDA",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Para la planta fotovoltaica en suelo no urbanizable (interés público), la asociación ecologista ANIDA pidió suspenderla hasta el nuevo Plan General y más medidas ambientales. Se desestiman sus alegaciones (la zona no está protegida en el Mapa Ecológico ni es inundable) y se informa favorablemente a la Consejería de Fomento, que es quien autoriza.",
+      "entidades": [
+        {
+          "nombre": "Mirlo Blanco Renovables 2, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Asociación Naturalista para la Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "alegante"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "270804R",
+      "lugar": "Polígono 50, parcelas 129 y 131",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Plus de jornada partida para tres técnicas de escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se reconoce el plus de jornada partida durante el curso 2020-21 a tres técnicas de educación infantil (escuelas El Parque, Pulgarcito y Campanilla) y se quita a quienes lo cobraban el curso pasado y ya no la hacen.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476640A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reducciones de jornada por cuidado de familiares en escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se conceden cinco reducciones de jornada no retribuidas (entre el 13 % y el 20 %) a trabajadoras de las escuelas infantiles para cuidar de hijos o familiares durante el curso 2020-21.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476640A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Jefatura accidental de la Policía Local del 3 al 16 de agosto",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de que el comisario segundo jefe ejercerá la jefatura de la Policía Local durante las vacaciones del jefe.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Servicio de grúa municipal a Grúas Los Raspa: 38.720 € al año",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Grúas Los Raspa, única empresa presentada, la retirada y depósito de vehículos y el movimiento de elementos de seguridad durante dos años, por 38.720 euros al año con IVA (48,40 euros por servicio ordinario).",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 38720.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412195T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Material informático a cinco empresas: 46.044 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudican los cinco lotes del suministro de material informático: ordenadores, monitores e impresoras, escáneres, móviles y tabletas, multifunción y televisores. Se rechazó la oferta de Copiyec por anormalmente baja sin justificar.",
+      "entidades": [
+        {
+          "nombre": "Main Memory, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Canon España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Estudios Integrales de Sistemas Informáticos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Copymur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Convergencia de Telecomunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Copiyec, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 46043.97,
+      "importes": [
+        {
+          "concepto": "Lote 1: ordenadores, monitores, impresoras A4 y tabletas de firma",
+          "eur": 26976.79,
+          "entidad": "Main Memory, S.L."
+        },
+        {
+          "concepto": "Lote 2: escáneres",
+          "eur": 6945.4,
+          "entidad": "Canon España, S.A.U."
+        },
+        {
+          "concepto": "Lote 3: móviles y tabletas",
+          "eur": 4295.5,
+          "entidad": "Estudios Integrales de Sistemas Informáticos, S.L."
+        },
+        {
+          "concepto": "Lote 4: máquinas multifunción (más precio por copia)",
+          "eur": 6860.7,
+          "entidad": "Copymur, S.L."
+        },
+        {
+          "concepto": "Lote 5: televisores",
+          "eur": 965.58,
+          "entidad": "Convergencia de Telecomunicaciones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412135K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Muebles para el semisótano del edificio Cazadores a Fama Sofás: 16.488,24 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el lote de mobiliario a Fama Sofás, único licitador; el lote 2 (complementos) queda desierto porque la única oferta superaba el precio máximo.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16488.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470558D",
+      "lugar": "Edificio Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Indemnización de 30.984 € a Podium por la suspensión del socorrismo por la COVID",
+      "categoria": "contrato",
+      "resumen": "Con las piscinas cerradas, el contrato de socorrismo y actividades deportivas estuvo suspendido. Se pagan a Podium Gestión Integral los gastos justificados de mayo (29.126,63 euros) y junio (1.857,44 euros), según el decreto ley COVID.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 30984.07,
+      "importes": [
+        {
+          "concepto": "Gastos indemnizables mayo 2020",
+          "eur": 29126.63,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Gastos indemnizables junio 2020",
+          "eur": 1857.44,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "342261N",
+      "lugar": "Piscinas municipales",
+      "interes": 3
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Podium seguirá con el socorrismo hasta que se adjudique el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "El contrato vence el 9 de agosto y el nuevo aún se está valorando. Para no dejar sin servicio las piscinas, Podium Gestión Integral continúa en las mismas condiciones hasta que se firme el nuevo.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "342261N",
+      "lugar": "Piscinas municipales",
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Sondeo para extraer agua potable a Cesyr Estudios y Construcción: 292.215 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la obra de un nuevo sondeo para extracción de agua potable por 241.500 euros más IVA (292.215 euros). Se excluyó a Servicios Integrales Obrarte por presentar la oferta fuera de plazo.",
+      "entidades": [
+        {
+          "nombre": "Cesyr Estudios y Construcción, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Servicios Integrales Obrarte, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador excluido"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 292215.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380943N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Campaña de difusión del Foro Creacción Yecla 2020: 7.986 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Grupo Comunicación Digital Murcia Media para la campaña de comunicación del Foro Creacción, de Juventud.",
+      "entidades": [
+        {
+          "nombre": "Grupo Comunicación Digital Murcia Media, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7986.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476735H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de 40 m² para el Bar Chicago en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano con el doble de superficie que en 2019 para compensar el aforo COVID; volverá a 8 m² cuando acaben las limitaciones.",
+      "entidades": [
+        {
+          "nombre": "Bar Chicago (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476827K",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de 44 m² para el Bar Obélix en la calle Rogelio Azorín Navarro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano con el doble de superficie por la COVID; se reducirá a 8 m² cuando acaben las limitaciones de aforo.",
+      "entidades": [
+        {
+          "nombre": "Bar Obélix (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476109N",
+      "lugar": "Calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de 16 m² para Yakka en Maestro Mora; denegado calcularla por aforo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la hamburguesería Yakka con superficie doble por la COVID, pero se deniega que se calcule según el tamaño y aforo del local en vez de por la fachada, que es el criterio general.",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476107K",
+      "lugar": "Calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Cambio en la terraza de la Heladería Muss en la avenida Pablo Picasso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza poner 9 m² de terraza en la acera de la fachada a la avenida Pablo Picasso, restándolos de la terraza ya instalada, sin aumentar el total.",
+      "entidades": [
+        {
+          "nombre": "Heladería Muss (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473054W",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil el 7 de agosto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476601X",
+      "lugar": "Salón de Plenos, Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Salón de Plenos para una boda civil el 27 de agosto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476755K",
+      "lugar": "Salón de Plenos, Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela Deportiva de verano gratis para niños en desventaja social",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 100 % del precio de la Escuela Deportiva Municipal de verano 2020 a los niños propuestos por Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475815E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Denegada el agua potable a una vivienda en el Camino de los Baños",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega conectar al agua potable una vivienda en suelo no urbanizable: la red más cercana (privada) está a 160 metros y el límite municipal en el campo es de 50 metros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "475396Y",
+      "lugar": "Paraje Camino de los Baños",
+      "interes": 1
+    }
+  ]
+}

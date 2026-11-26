@@ -1,0 +1,607 @@
+{
+  "doc": "2021-06-08_JGL_28",
+  "organo": "JGL",
+  "sesion": 28,
+  "fecha": "2021-06-08",
+  "tipo_sesion": "ordinaria",
+  "paginas": 24,
+  "resumen": "La Junta de Gobierno paga 9.409 € a la empresa del comedor de la Escuela Infantil El Parque por el cierre de la Covid en 2020, contrata a Telefónica el soporte del cortafuegos informático (14.641 €) y a un abogado para un pleito (7.091 €). Concede varias licencias de obras en el campo, una de ellas en zona inundable de El Lentiscar, y contrata personal del Plan de Inclusión Social por el Empleo. También agradece a los servicios de emergencia su trabajo en la tormenta del 5 de junio.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 2 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: concurso de habilitados nacionales y niveles de alerta Covid",
+      "categoria": "informacion",
+      "resumen": "Se informa de las bases del concurso estatal de puestos reservados a funcionarios de habilitación nacional (secretarios, interventores) y de dos órdenes de la Consejería de Salud sobre los niveles de alerta Covid y sus medidas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de la Función Pública",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica concurso"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "509698P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Permiso para empezar a construir una vivienda con piscina en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de una vivienda unifamiliar aislada con piscina en el paraje La Pujola (licencia nº 18/2021, concedida en marzo con el proyecto básico).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494862J",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para derribar parte de un edificio en la calle Concepción",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de demolición parcial de una edificación en la calle Concepción, con fianza de 187,46 € para reponer la urbanización, desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 187.46,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503596P",
+      "lugar": "Calle Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia a Alpa Jovi para derribar parte de un edificio en la calle Carmen",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Alpa Jovi, S.L. licencia de demolición parcial de una edificación en la calle Carmen, con fianza de 200,77 €, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "Alpa Jovi, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 200.77,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504341Z",
+      "lugar": "Calle Carmen",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para una marquesina junto a una nave agrícola en La Anchura",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una marquesina adosada a una nave existente en el paraje La Anchura, con el destino agrario avalado por un informe de la Dirección General de Política Agraria Común.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Política Agraria Común (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506632F",
+      "lugar": "Paraje La Anchura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para reformar y ampliar una vivienda en el paraje Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia, con proyecto básico, para reformar y ampliar una vivienda unifamiliar aislada en el paraje Artesillas; para empezar hará falta el proyecto de ejecución. Se advierte que puede condicionar el futuro Plan General.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508819T",
+      "lugar": "Paraje Artesillas",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Licencia para garaje y almacén junto a una vivienda en zona inundable de El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (nº 252/2021) para garaje, almacén y sala de instalaciones anejos a una vivienda en el paraje El Lentiscar; como es suelo inundable, antes de empezar debe registrar en la Confederación Hidrográfica del Segura una declaración de que conoce y asume el riesgo.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe declaración de riesgo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509382A",
+      "lugar": "Paraje El Lentiscar (suelo inundable)",
+      "interes": 2
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Permiso para dividir una finca agrícola de casi 6 hectáreas en La Decarada",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede licencia para segregar dos fincas (de 20.317,73 m², con las construcciones, y de 14.393,32 m²) de una finca de 57.865 m² en suelo no urbanizable del paraje La Decarada; el resto queda con 23.140,01 m². La finca 1 debe inscribirse como unidad ligada a la explotación agrícola.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498927E",
+      "lugar": "Paraje La Decarada (suelo no urbanizable)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de horario de un técnico informático para conciliar",
+      "categoria": "personal",
+      "resumen": "Se aprueba un nuevo horario para un técnico informático durante el curso escolar, por conciliación familiar, sin derecho a compensación económica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510194D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Anticipo de 4.700 € de nómina a un policía local",
+      "categoria": "personal",
+      "resumen": "Se concede a un funcionario de la Policía Local un anticipo de 4.700 € de su sueldo, que devolverá según el reglamento y deberá justificar en dos meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4700.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509911K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Renuncia de una técnica de administración general interina",
+      "categoria": "personal",
+      "resumen": "Se toma nota del cese voluntario de una técnica de administración general interina el 15 de junio de 2021 y se la excluye de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510222R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Contrato de tres peones del Plan de Inclusión Social por el Empleo (jóvenes)",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan Especial 2021 de Inclusión, Promoción y Reinserción Social a través del Empleo (programa de menores de 30 años), se contrata a tres peones y se crea una bolsa de sustitutos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507696J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Contrato de un capataz del Plan de Inclusión Social por el Empleo",
+      "categoria": "personal",
+      "resumen": "Dentro del mismo Plan Especial 2021 de Inclusión, se contrata a un capataz y se crea una bolsa de sustitutos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507698M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Abogado para un pleito en el Juzgado Contencioso nº 2 de Murcia: 7.091,54 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un abogado particular, por 7.091,54 € con IVA, el contrato menor de defensa del Ayuntamiento en el procedimiento ordinario 39/2021 del Juzgado de lo Contencioso-Administrativo nº 2 de Murcia (a propuesta de la concejalía de Tráfico y Seguridad Ciudadana).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 2 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "tramita el pleito"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7091.54,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509812Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Licencias y soporte del cortafuegos Fortinet a Telefónica por 14.641 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Telefónica Soluciones el contrato menor de licencias y soporte Fortinet (seguridad informática) para 2021 por 14.641 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14641.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505116A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Indemnización de 9.409 € a la empresa del comedor de la Escuela Infantil El Parque",
+      "categoria": "contrato",
+      "resumen": "Se paga a AMG Servicios Integrados, S.L. una indemnización de 9.409,20 € por los gastos justificados durante la suspensión por la Covid (16 de marzo a 31 de agosto de 2020) del contrato de cocina y comedor de la Escuela Infantil El Parque (precio máximo anual 53.427,95 € sin IVA).",
+      "entidades": [
+        {
+          "nombre": "AMG Servicios Integrados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9409.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477251? (OCR: 4772517)",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Prórroga un año del alquiler de un local municipal en la Plaza Mayor",
+      "categoria": "patrimonio",
+      "resumen": "Se prorroga hasta el 6 de mayo de 2022 el alquiler a una particular del inmueble municipal de la Plaza Mayor, 6; la renta se actualizará con el IPC.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "arrendataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474362M",
+      "lugar": "Plaza Mayor, 6 (inmueble municipal)",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Teatro 'Las ranas' de Caligae Teatro: entradas a 6 y 3 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se programa el espectáculo 'Las ranas' de Caligae Teatro en el Teatro Concha Segura el 24 de junio de 2021, con un presupuesto de 300 €; entrada general a 6 € y de estudiante a 3 €.",
+      "entidades": [
+        {
+          "nombre": "Caligae Teatro",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "cobra por la actuación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493636F",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "La asociación Mar de Movimientos entra en el registro de entidades de interés municipal",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe a la Asociación Mar de Movimientos (MDM), con sede en Yecla, en el Registro de Entidades Declaradas de Interés Municipal (REDIM).",
+      "entidades": [
+        {
+          "nombre": "Asociación Mar de Movimientos (MDM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "se inscribe en el REDIM"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "169928M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "La Asociación Radha-Kunda retira su petición de entrar en el registro municipal",
+      "categoria": "organizacion",
+      "resumen": "Se acepta el desistimiento de la Asociación Radha-Kunda de su solicitud de inscripción en el REDIM y se archiva.",
+      "entidades": [
+        {
+          "nombre": "Asociación Radha-Kunda",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "desiste"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "145159K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Carpa en el Parque de la Constitución sobre la mujer en el mundo rural",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia a instalar una carpa con toma de luz en el Parque de la Constitución del 21 al 27 de junio para informar del proyecto Territorioigualdad, sobre el papel de la mujer en el desarrollo rural.",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa vía pública"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506499X",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Auditorio para unas jornadas sobre la mujer y el empleo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la misma asociación comarcal el Auditorio Municipal Juan Miguel Benedito la mañana del 24 de junio para las jornadas 'Acceso de la mujer al mercado laboral y el emprendimiento' (proyecto Territorioigualdad).",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506499X",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Se encarga a Aqualia instalar válvulas en la urbanización El Rasillo",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia, concesionaria del agua, para instalar válvulas en la calle La Fuente de la urbanización El Rasillo y se le ordena hacer la obra.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6604.71,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510109K",
+      "lugar": "Calle La Fuente, urbanización El Rasillo",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Nuevas medidas Covid para la corrida de rejones del 3 de julio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se comunica a la empresa organizadora del festejo de rejones mixto del 3 de julio en la Plaza de Toros que debe cumplir las nuevas medidas Covid del informe sanitario del 2 de junio, que sustituye al anterior.",
+      "entidades": [
+        {
+          "nombre": "Producciones Artísticas y Taurinas Nazarí, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el festejo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509413T",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Teletrabajo tres días para una auxiliar con su hija confinada",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa de Estadística a teletrabajar los días 8, 10 y 11 de junio porque su hija debe estar confinada por contacto con un positivo de Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510348R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Cursos para empleados municipales de liderazgo e igualdad",
+      "categoria": "personal",
+      "resumen": "A propuesta del Comité de Seguridad y Salud (tras el protocolo antiacoso, el estudio de riesgos psicosociales y el Plan de Igualdad) se aprueban un curso online de gestión de equipos y liderazgo (11 horas, obligatorio para jefes) y otro de sensibilización en igualdad (hora y media, para todo el personal).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510275O? (OCR: 5102750)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Representante municipal en la recepción de las obras del sondeo de agua potable",
+      "categoria": "contrato",
+      "resumen": "Se designa al arquitecto jefe de los Servicios Técnicos como representante del Ayuntamiento en la recepción de las obras del sondeo para extraer agua potable (contrato C.O. 1/20).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380943N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Permiso a Derivados de la Madera Yecla para abrir una zanja en un camino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Derivados de la Madera Yecla, S.L. a abrir una zanja en un camino municipal (polígono 47) para soterrar la línea aérea de media tensión de 20 kV 'Cabezuelas', reponiendo después el firme; necesita antes el título urbanístico.",
+      "entidades": [
+        {
+          "nombre": "Derivados de la Madera Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Camino municipal, polígono 47",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Denegado quitar mobiliario urbano de la placeta Ortega para una futura terraza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega retirar mobiliario urbano de la placeta Ortega para la terraza de una cafetería que aún no tiene licencia de apertura; cuando la tenga, deberá pedir la terraza y se estudiará.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "510346P",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Agradecimiento a Policía, Bomberos, brigadas y Protección Civil por la tormenta del 5 de junio",
+      "categoria": "otros",
+      "resumen": "Se felicita a los más de 30 efectivos que atendieron la tormenta del 5 de junio (60 l/m² en el casco urbano y más de 120 en otras zonas, rachas de 60 km/h): viviendas y patios inundados, tres árboles grandes caídos, más de treinta tapas de alcantarilla levantadas y arrastres de tierra.",
+      "entidades": [
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe agradecimiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510497? (OCR: 5104977)",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

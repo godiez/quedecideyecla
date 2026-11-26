@@ -1,0 +1,1479 @@
+{
+  "doc": "2021-04-13_JGL_18",
+  "organo": "JGL",
+  "sesion": 18,
+  "fecha": "2021-04-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 60,
+  "resumen": "Primera Junta de Gobierno con la nueva alcaldesa. Se adjudica la redacción del proyecto de remodelación del Mercado Central (40.646 €) y el gasóleo de calefacción de colegios y edificios municipales (99.210 €), y el Ayuntamiento se opone a la planta solar 'Peñarrubia' de 49,94 MW porque el Pleno ha suspendido las licencias de plantas solares. Se autorizan 30 terrazas de verano, casi todas con el doble de superficie por la COVID, y se pide que San Isidro sea Fiesta de Interés Turístico Nacional.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 6 y 9 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: administración electrónica, COVID y una sentencia de Policía Local",
+      "categoria": "informacion",
+      "resumen": "Se informa del nuevo Reglamento estatal de funcionamiento electrónico del sector público, de la actualización de la norma de prudencia financiera para préstamos de entidades locales, del nivel de alerta COVID de la Región y la prórroga de las medidas restrictivas, y de una sentencia del Juzgado de lo Contencioso nº 5 de Murcia que anula por caducidad una sanción de 20 días de suspensión a una agente de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "503538D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: wifi municipal, basuras y alcantarillado de la avenida Pablo Picasso",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar tres facturas: material para redes wifi en dependencias municipales, el cobro de la tasa de recogida de basuras de enero de 2021 y la sustitución del alcantarillado de la avenida Pablo Picasso.",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36852.13,
+      "importes": [
+        {
+          "concepto": "Material para implantar redes wifi en dependencias municipales",
+          "eur": 10115.12,
+          "entidad": "Infomicro Comunicaciones, S.L."
+        },
+        {
+          "concepto": "Cobro de la tasa de recogida de residuos sólidos urbanos, enero 2021",
+          "eur": 13057.0,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Sustitución del alcantarillado en la avenida Pablo Picasso",
+          "eur": 13680.01,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494343D, 494569C, 500078D",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda unifamiliar entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de una vivienda unifamiliar con garaje y trasteros entre medianeras, cuya licencia se concedió en octubre de 2020. Fianza de 315 € por reposición de la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470909Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar las obras de un edificio de sótano y tres plantas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de un edificio con sótano, planta baja y tres plantas sin uso específico (licencia 334/2020). Fianza de 440 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479338Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia urbanística aplazada hasta que la estudie la comisión de Urbanismo",
+      "categoria": "licencia_obra",
+      "resumen": "Se deja el asunto sobre la mesa hasta que lo dictamine la Comisión Informativa de Obras y Urbanismo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "481914A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Permiso para empezar las obras de una vivienda aislada en el paraje Cerrico de la Fuente",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de una vivienda unifamiliar aislada en suelo rústico, cuya licencia se concedió en diciembre de 2020.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488179Q",
+      "lugar": "Paraje Cerrico de la Fuente (polígono 110)",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Permiso para empezar las obras de una vivienda unifamiliar (fianza de urbanización)",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de una vivienda unifamiliar (licencia de marzo de 2021). Se exige una fianza de 4.712,73 € para pagar la urbanización pendiente para que la parcela sea solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496644J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para una vivienda con garaje y piscina entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia, con proyecto básico, para una vivienda unifamiliar con garaje y piscina entre medianeras. La alcaldesa sale de la sesión por parentesco con el solicitante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501079T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Franloher segrega una parcela de 285 m² en la travesía de la avenida de Córdoba",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Franloher, S.L. licencia para segregar una parcela de 285 m² de una finca de 570 m² en suelo urbano sin edificar.",
+      "entidades": [
+        {
+          "nombre": "Franloher, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495559C",
+      "lugar": "Travesía Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Segregación de dos parcelas agrícolas en el paraje Gamellejas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede licencia para segregar dos parcelas (8.008 m² y 13.328 m²) de una finca de 14,9 hectáreas en suelo no urbanizable, a condición de que se agrupen como unidad ligada a la explotación agrícola existente.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494147Q",
+      "lugar": "Paraje Gamellejas (polígono 78)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Fin de la bolsa de empleo antigua de director de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se extingue la bolsa de empleo de director de la Escuela Municipal de Bellas Artes de 2019 y entra en vigor la aprobada el 23 de marzo de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "171738A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Fin de la bolsa de empleo antigua de profesor de dibujo de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se extingue la bolsa de empleo de profesor de dibujo de 2019 y entra en vigor la aprobada en noviembre de 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "296303H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Nueva bolsa de empleo de técnico superior de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se acuerda crear una nueva bolsa de empleo de técnico superior de Atención Temprana, porque la de 2009 solo tiene dos personas y una no está disponible. Se encargan las bases.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503409E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Un arquitecto técnico municipal, en el tribunal de Las Torres de Cotillas",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un arquitecto técnico del Ayuntamiento a formar parte del tribunal de una bolsa de empleo del Ayuntamiento de Las Torres de Cotillas.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Las Torres de Cotillas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503375H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Auxiliar administrativo interino para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se nombra un funcionario interino de la bolsa de auxiliares para sustituir, mientras dure su baja, a la única auxiliar administrativa de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "es nombrado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503291Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Nuevo director interino de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se contrata como director interino de la Escuela Municipal de Bellas Artes, a jornada completa, al primero de la nueva bolsa, que renuncia a su plaza de profesor de dibujo. La profesora que ocupaba la dirección de forma accidental vuelve a su puesto a media jornada.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "es contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503402W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Técnico de Educación Infantil para la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata, a 30 horas semanales, un técnico de Educación Infantil para sustituir una baja en la E.I. El Parque, como máximo hasta el final del curso 2020/2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "es contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503961X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Se devuelve el sueldo a una agente de Policía Local tras anularse su sanción",
+      "categoria": "reclamaciones",
+      "resumen": "Tras la sentencia que anuló por caducidad su sanción de 20 días de suspensión, se pagan a la agente 1.853,72 € brutos de sueldo no cobrado (con intereses), se cotizan las diferencias y se borra la sanción de su expediente.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1853.72,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "404531J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Ecotecno redactará el proyecto de remodelación del Mercado Central por 40.646 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Ecotecno Consultores Técnicos, S.L.L. la redacción del proyecto básico y de ejecución de la remodelación del Mercado Central, por 33.599,05 € más IVA (40.645,85 € en total). Se excluyó a una UTE por desvelar su oferta y se rechazó otra oferta por baja anormal no justificada.",
+      "entidades": [
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 40645.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486540A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Recursos Energéticos del Sureste suministrará el gasóleo de calefacción por 99.210 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el lote 2 (gasóleo C de calefacción para colegios públicos y dependencias municipales) del contrato de combustibles a Recursos Energéticos del Sureste, S.L., por un máximo de 81.992,01 € más IVA (99.210,33 € en total).",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 99210.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Contrato del musical 'Aladín, un musical genial' por 11.253 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Servicios Especializados en Distribución Artística, S.L. para representar el espectáculo 'Aladín, un musical genial', por 11.253 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Servicios Especializados en Distribución Artística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11253.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502679Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de 36 m² para Los Arcos Café en calle Forte",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Los Arcos Café' en calle Forte para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503156D",
+      "lugar": "Calle Forte",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de 32 m² para Cafetería Siglo XXI en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Siglo XXI' en calle Arcipreste Esteban Díaz para la temporada de verano (1 de abril a 31 de octubre de 2021) con 32 m². Es el doble de lo normal (16 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503334A",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de 36 m² para Bar Chicago en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Chicago' en calle San José para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503190A",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de 30 m² para Hadouken en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Hadouken' en calle San Antonio para la temporada de verano (1 de abril a 31 de octubre de 2021) con 30 m². Es el doble de lo normal (15 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503318D",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de 36 m² para Bar Tino en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Tino' en calle Cruz de Piedra para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503829N",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza de 36 m² para Café-Bar Tragaluz en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Café-Bar Tragaluz' en calle Arcipreste Esteban Díaz para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503530Y",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza de 30 m² para Colón 54 Pub Café en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Colón 54 Pub Café' en calle Colón para la temporada de verano (1 de abril a 31 de octubre de 2021) con 30 m². Es el doble de lo normal (15 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503147Q",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Terraza de 16 m² para Cafetería Pastelería Firenze en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Pastelería Firenze' en calle San José para la temporada de verano (1 de abril a 31 de octubre de 2021) con 16 m². Es el doble de lo normal (8 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503178J",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Terraza de 32 m² para Ventorrillo en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Ventorrillo' en calle Cruz de Piedra para la temporada de verano (1 de abril a 31 de octubre de 2021) con 32 m². Es el doble de lo normal (16 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503145N",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Terraza de 28 m² para Bar Semáforo Rojo en calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Semáforo Rojo' en calle Trinquete para la temporada de verano (1 de abril a 31 de octubre de 2021) con 28 m². Es el doble de lo normal (14 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503133X",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Terraza de 50 m² para Panadería-Cafetería El Paseo en avenida Pablo Picasso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Panadería-Cafetería El Paseo' en avenida Pablo Picasso para la temporada de verano (1 de abril a 31 de octubre de 2021) con 50 m². Es el doble de lo normal (25 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503380P",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Terraza de 100 m² para Cafetería Quimera en plaza Concejala Mª Carmen Lorente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Quimera' en plaza Concejala Mª Carmen Lorente para la temporada de verano (1 de abril a 31 de octubre de 2021) con 100 m². Es el doble de lo normal (50 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503179K",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.13",
+      "titulo": "Terraza de 20 m² para Bar La Familia en calle Salzillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar La Familia' en calle Salzillo para la temporada de verano (1 de abril a 31 de octubre de 2021) con 20 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503690W",
+      "lugar": "Calle Salzillo",
+      "interes": 1
+    },
+    {
+      "ref": "7.14",
+      "titulo": "Terraza de 48 m² para Bar de pinchos Barrabás en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar de pinchos Barrabás' en calle Arcipreste Esteban Díaz para la temporada de verano (1 de abril a 31 de octubre de 2021) con 48 m². Es el doble de lo normal (24 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503050F",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.15",
+      "titulo": "Terraza de 36 m² para Bar Liceo en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Liceo' en calle San José para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503184R",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.16",
+      "titulo": "Terraza de 24 m² para Cafetería Gardenia en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Gardenia' en calle Cruz de Piedra para la temporada de verano (1 de abril a 31 de octubre de 2021) con 24 m². Es el doble de lo normal (12 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503053K",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.17",
+      "titulo": "Terraza de 40 m² para Bar El Esquinazo en calle del Voluntariado Social",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar El Esquinazo' en calle del Voluntariado Social para la temporada de verano (1 de abril a 31 de octubre de 2021) con 40 m². Es el doble de lo normal (20 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503161K",
+      "lugar": "Calle del Voluntariado Social",
+      "interes": 1
+    },
+    {
+      "ref": "7.18",
+      "titulo": "Terraza de 24 m² para El Recreo en calle Lorca",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'El Recreo' en calle Lorca para la temporada de verano (1 de abril a 31 de octubre de 2021) con 24 m². Es el doble de lo normal (12 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503052J",
+      "lugar": "Calle Lorca",
+      "interes": 1
+    },
+    {
+      "ref": "7.19",
+      "titulo": "Terraza de 36 m² para Cafetería 9 de Julio en calle Generación del 27",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería 9 de Julio' en calle Generación del 27 para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m². Es el doble de lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503168W",
+      "lugar": "Calle Generación del 27",
+      "interes": 1
+    },
+    {
+      "ref": "7.20",
+      "titulo": "Terraza de 16 m² para Bar Gaggia en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Gaggia' en calle Arcipreste Esteban Díaz para la temporada de verano (1 de abril a 31 de octubre de 2021) con 16 m². Es el doble de lo normal (8 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503143K",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.21",
+      "titulo": "Terraza de 20 m² para Atrio Café en calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Atrio Café' en calle Rambla para la temporada de verano (1 de abril a 31 de octubre de 2021) con 20 m². Es el doble de lo normal (10 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503154A",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "7.22",
+      "titulo": "Terraza de 80 m² para Restaurante Azorín en calle Poeta Miguel Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Restaurante Azorín' en calle Poeta Miguel Ortega para la temporada de verano (1 de abril a 31 de octubre de 2021) con 80 m². Es el doble de lo normal (40 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503152Y",
+      "lugar": "Calle Poeta Miguel Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "7.23",
+      "titulo": "Terraza de 100 m² para Bar Peña Taurina en calle Tejeras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Peña Taurina' en calle Tejeras para la temporada de verano (1 de abril a 31 de octubre de 2021) con 100 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503138D",
+      "lugar": "Calle Tejeras",
+      "interes": 1
+    },
+    {
+      "ref": "7.24",
+      "titulo": "Terraza de 40 m² para Cafetería Los Billares en Arcipreste Esteban Díaz y Paco Corbalán",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Los Billares' en calles Arcipreste Esteban Díaz y Paco Corbalán para la temporada de verano (1 de abril a 31 de octubre de 2021) con 40 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503170Y",
+      "lugar": "Calles Arcipreste Esteban Díaz y Paco Corbalán",
+      "interes": 1
+    },
+    {
+      "ref": "7.25",
+      "titulo": "Terraza de 60 m² para Restaurante Pachamama en calle Párroco Juan Martínez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Restaurante Pachamama' en calle Párroco Juan Martínez para la temporada de verano (1 de abril a 31 de octubre de 2021) con 60 m². Es el doble de lo normal (30 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503186W",
+      "lugar": "Calle Párroco Juan Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "7.26",
+      "titulo": "Terraza de 40 m² para Bar Berlín en calle Hernán Cortés",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Berlín' en calle Hernán Cortés para la temporada de verano (1 de abril a 31 de octubre de 2021) con 40 m². Es el doble de lo normal (20 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504338F",
+      "lugar": "Calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "7.27",
+      "titulo": "Terraza de 40 m² para Archis en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Archis' en calle San Antonio para la temporada de verano (1 de abril a 31 de octubre de 2021) con 40 m². Es el doble de lo normal (20 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503181N",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.28",
+      "titulo": "Terraza de 136 m² para Aquarium Café en plaza Ocho de Marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Aquarium Café' en plaza Ocho de Marzo para la temporada de verano (1 de abril a 31 de octubre de 2021) con 136 m². Es el doble de lo normal (68 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503180M",
+      "lugar": "Plaza Ocho de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "7.29",
+      "titulo": "Terraza de 48 m² para Café Bar Picasso en avenida Pablo Picasso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Café Bar Picasso' en avenida Pablo Picasso para la temporada de verano (1 de abril a 31 de octubre de 2021) con 48 m². Es el doble de lo normal (24 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503141H",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.30",
+      "titulo": "Terraza de 20 m² para Pastelería El Niño en calle del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Pastelería El Niño' en calle del Niño Jesús para la temporada de verano (1 de abril a 31 de octubre de 2021) con 20 m². Es el doble de lo normal (10 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "El Niño Bakery Bread & Coffee, S.Coop.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502777C",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la 3ª planta del Ayuntamiento para una boda civil el 16 de abril.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503714D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos para una boda civil el 24 de abril.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503909Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Permiso para quemar restos vegetales (polígono 131, parcela 9000)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza una quema de restos vegetales cerca del casco urbano, de 9 a 10 h los lunes y el 1º y 3º sábado de cada mes, del 17 de abril al 31 de mayo y del 1 de octubre al 31 de diciembre de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503823E",
+      "lugar": "Polígono 131, parcela 9000",
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Permiso para quemar restos vegetales (polígono 34, parcela 302)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza una quema de restos vegetales de 8 a 9 h los lunes y el 1º y 3º sábado de cada mes, en primavera y otoño-invierno de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503477Z",
+      "lugar": "Polígono 34, parcela 302",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Tarjeta de residente en zona azul concedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul a una vecina, válida hasta el 31 de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503898J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Tarjeta de residente en zona azul concedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul a un vecino, válida hasta el 31 de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503900N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Nueva composición de la Mesa de Contratación tras el cambio de alcaldesa",
+      "categoria": "organizacion",
+      "resumen": "Al tomar posesión la nueva alcaldesa (Pleno de 11 de abril de 2021), se renueva la Mesa de Contratación permanente de la Junta de Gobierno y la Alcaldía: la preside la concejala de Hacienda, con el concejal de Industria como suplente, y la forman el secretario, la interventora y técnicos municipales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "216606R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Convenio con la CARM para prevenir y apagar incendios forestales (Plan INFOMUR 2021-2022)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con la Consejería de Transparencia, Participación y Administración Pública para el servicio de prevención y extinción de incendios forestales del Plan INFOMUR en 2021-2022. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Transparencia, Participación y Administración Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503950F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Servicio de conciliación familiar del tercer trimestre del curso: 14.762 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa y un gasto de 14.762 € para el servicio de conciliación familiar del 19 de abril al 18 de junio de 2021, para niños de 3 a 12 años con padres que trabajan o se forman. Tienen preferencia rentas bajas, familias numerosas, monoparentales y de acogida.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 14762.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503021Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Se pide a la Región apoyo para que San Isidro sea Fiesta de Interés Turístico Nacional",
+      "categoria": "otros",
+      "resumen": "Se pide al Instituto de Turismo de la Región de Murcia un informe favorable para declarar las Fiestas de San Isidro de Yecla Fiesta de Interés Turístico Nacional, y se le envía la memoria elaborada por la Federación de Peñas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "emite informe"
+        },
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "elabora la memoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498462J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "El Ayuntamiento se opone a la planta solar 'Peñarrubia' de 49,94 MW",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "La Dirección General de Energía pide informe sobre la planta fotovoltaica 'FV Peñarrubia' (49,94 MWp) y su línea de evacuación, entre Yecla y Jumilla. El Ayuntamiento aprueba el informe técnico y muestra su oposición, porque el Pleno del 5 de abril de 2021 suspendió las licencias para plantas solares.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Energía y Actividad Industrial y Minera (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita el proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "503455T",
+      "lugar": "Términos municipales de Yecla y Jumilla",
+      "interes": 3
+    },
+    {
+      "ref": "16",
+      "titulo": "Hidráulica San Pascual podrá abrir una zanja en un camino vecinal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Hidráulica San Pascual a abrir una zanja en un camino público junto a la parcela 402 del polígono 112 para una línea de baja tensión, que debe quedar hormigonada (25 cm) y con licencia urbanística previa.",
+      "entidades": [
+        {
+          "nombre": "Hidráulica San Pascual",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502960K",
+      "lugar": "Camino vecinal junto a polígono 112, parcela 402",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Conserje para el Edificio Bioclimático por las mañanas",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata de la bolsa un conserje-operario a 30 horas semanales para abrir el Edificio Bioclimático por las mañanas mientras la técnica de Juventud está de baja, como máximo hasta el 31 de julio de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "es contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503678D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Curso de destinos turísticos inteligentes para el personal de la Oficina de Turismo",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena a dos trabajadoras de la Oficina de Turismo hacer el curso online 'Gestores de destinos turísticos inteligentes en la Región de Murcia' en abril y mayo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504296M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Afedeco gestionará la conciliación familiar del tercer trimestre por 10.707 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: contrato menor con Afedeco, Asociación para la Formación y el Desarrollo Comunitario, para el servicio de conciliación familiar del tercer trimestre del curso 2020/2021, por 10.707,20 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Afedeco, Asociación para la Formación y el Desarrollo Comunitario",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10707.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501149J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Medidas contra inundaciones que el Ayuntamiento comunica a la CHS (2021-2027)",
+      "categoria": "medio_ambiente",
+      "resumen": "Urgente: a petición de la Confederación Hidrográfica del Segura, se le comunica que el nuevo Plan General en tramitación incluirá las medidas contra inundaciones que pidió la CHS y depósitos de laminación en la red de saneamiento (drenaje sostenible).",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "503410P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Permiso para quemar restos vegetales (polígono 34, parcelas 409 y 410)",
+      "categoria": "medio_ambiente",
+      "resumen": "Urgente: se autoriza una quema de restos vegetales de 8 a 9 h los lunes y el 1º y 3º sábado de cada mes, en primavera y otoño-invierno de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503982J",
+      "lugar": "Polígono 34, parcelas 409 y 410",
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Concentración en la Plaza Mayor en defensa de la sanidad pública",
+      "categoria": "informacion",
+      "resumen": "Urgente: se toma conocimiento del aviso de la Delegación del Gobierno sobre una concentración convocada para el 17 de abril de 2021 a las 12:00 en la Plaza Mayor en defensa de la sanidad, la educación, el transporte y las residencias públicas.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "503902P",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "doc": "2021-04-21_PLENO_07",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Asisten los 21 concejales.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 5,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno, por doce votos a favor (Grupo M. Popular) y nueve votos en contra (Grupos M. Socialista, Izquierda Unida y Ciudadanos), adopta los siguientes acuerdos"
+    }
+  ]
+}

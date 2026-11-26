@@ -1,0 +1,873 @@
+{
+  "doc": "2024-07-23_JGL_36",
+  "organo": "JGL",
+  "sesion": 36,
+  "fecha": "2024-07-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno aprueba el padrón del IBI urbano de 2024 (8,48 millones de euros al cobro) y paga 287.337 euros en facturas de servicios (jardines, basuras, centro de día, autobús). Rechaza un supermercado fuera del casco urbano y una residencia canina en suelo no urbanizable, y concede licencias a Plenoil (puntos de recarga) y Comercial Despol. También sube a 376.878 euros el contrato del nuevo Plan General con Ezquiaga por el IPC y pide a la CARM unos 116.000 euros para infancia y familia.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 16 y 19 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: suelo industrial regional, Plan de Obras y Servicios y dinero encontrado",
+      "categoria": "informacion",
+      "resumen": "Se informa de la exposición pública del avance de la modificación de las Directrices del Suelo Industrial de la Región de Murcia, del decreto regional que da subvenciones directas a 41 municipios para el Plan de Cooperación a las Obras y Servicios 2024/2025, y de la entrega a un particular de dinero hallado en la calle que nadie reclamó.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Urbanismo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947199E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: jardines, basuras, centro de día, autobús, socorrismo y grúa",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de junio (y abril en deportes) de los grandes servicios municipales: mantenimiento de jardines y recogida de basuras de Actúa, centro de día de mayores, subvención del autobús urbano, actividades deportivas y socorrismo, grúa municipal, agua de la SAT Aguas de Pinoso y dos trabajos del Plan de Sostenibilidad Turística (documento ambiental de un aparcamiento disuasorio y redacción de pliegos).",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cities Forum, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 287336.8,
+      "importes": [
+        {
+          "concepto": "Actividades deportivas y socorrismo, abril 2024",
+          "eur": 31329.95,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo (Plan Corresponsables), abril 2024",
+          "eur": 12637.8,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos (grúa), junio 2024",
+          "eur": 7877.1,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobús urbano, junio 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, junio 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Suministro de agua",
+          "eur": 10365.3,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, junio 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Recogida de r.s.u., limpieza viaria y recogida selectiva, junio 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Documento ambiental del aparcamiento disuasorio para recorridos turísticos",
+          "eur": 8232.84,
+          "entidad": "Neten Consultoría, S.L.L."
+        },
+        {
+          "concepto": "Redacción de pliegos del Plan de Sostenibilidad Turística Yecla ES+",
+          "eur": 9801.0,
+          "entidad": "Cities Forum, S.L.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785944P, 697847H, 841943Q, 836272P, 497255H, 538849C, 777199T, 495804R, 916544D, 844994D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del IBI 2024 para familias numerosas",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la bonificación del IBI urbano de 2024 a las familias numerosas de una relación adjunta, mientras dure su título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733265Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del IBI por familia numerosa: la solicitante no es la propietaria",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la bonificación del IBI por familia numerosa porque no es la titular (sujeto pasivo) del impuesto de la vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "926889X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegada rebaja del IBI por familia numerosa: el solicitante no es el propietario",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino la bonificación del IBI por familia numerosa por no ser el titular del impuesto de la vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "927828A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegadas rebajas del IBI por familia numerosa: la casa no es la vivienda habitual",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación del IBI a varias familias numerosas porque el inmueble no era su domicilio habitual a 1 de enero de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "733265Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Se quitan rebajas del IBI a familias numerosas que cambiaron de domicilio",
+      "categoria": "fiscal",
+      "resumen": "Se declaran extinguidas las bonificaciones del IBI de familias numerosas que se mudaron y ya no viven en el inmueble bonificado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639044M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Se quita la rebaja del IBI a una familia numerosa con el título caducado",
+      "categoria": "fiscal",
+      "resumen": "Se extingue la bonificación del IBI de 2024 de un contribuyente cuyo título de familia numerosa dejó de valer en noviembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda de La Hormiga",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI de 2025 a 2029 (máximo 100 € al año) por instalar placas solares de autoconsumo de 6 kW con una inversión de 10.954 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "811809N",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para un edificio de 3 viviendas y garajes en calle Maestro Mora",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a tres vecinos licencia (con proyecto básico) para construir un edificio en esquina con 3 viviendas y garajes, con fianza de 1.350 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927767Q",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Denegada a Truffle Farm Estates una residencia canina en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a Truffle Farm Estates, S.L. la licencia para una nave de 302 m² para residencia canina en suelo no urbanizable, porque ese uso no está permitido allí sin una autorización regional previa de interés público.",
+      "entidades": [
+        {
+          "nombre": "Truffle Farm Estates, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        },
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "948375N",
+      "lugar": "polígono 7, parcela 28",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Plenoil para una red eléctrica de puntos de recarga en avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Plenoil, S.L. licencia para una red subterránea de baja tensión que alimente puntos de recarga de coches eléctricos, con fianza de 8.069,30 € para reponer aceras y calzadas.",
+      "entidades": [
+        {
+          "nombre": "Plenoil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933464D",
+      "lugar": "avenida de la Paz, 187",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia a Comercial Despol para ampliar su nave almacén en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Comercial Despol, S.L. licencia para ampliar una nave almacén industrial en la avenida Juan Carlos I, con fianza de 3.400 €.",
+      "entidades": [
+        {
+          "nombre": "Comercial Despol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933072J",
+      "lugar": "avenida Juan Carlos I (carretera de Yecla a Villena, km 2)",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para instalar un ascensor en un edificio de 6 viviendas en calle Antonio Machado",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinas licencia (con proyecto básico) para instalar un elevador en un edificio de 6 viviendas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942931C",
+      "lugar": "calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Rechazado el supermercado de Restauraciones Tejares fuera del casco urbano",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se desestima tramitar la autorización regional de interés público para un supermercado de 2.060 m² en suelo urbanizable sin sectorizar: los motivos son vagos, podría ir en suelo urbano, la empresa parece una promotora sin actividad concreta y está a menos de 500 m de suelo residencial.",
+      "entidades": [
+        {
+          "nombre": "Restauraciones Tejares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "887326Y",
+      "lugar": "polígono 114, parcela 274",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Arquitecto técnico interino para la nueva plaza del presupuesto 2024",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un arquitecto técnico interino para la nueva plaza creada en el presupuesto de 2024, hasta que se cubra en propiedad (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957459E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Auxiliar-inspector de Servicios Técnicos interino para una nueva plaza",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un auxiliar-inspector de Servicios Técnicos interino para la nueva plaza creada en el presupuesto de 2024 (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957514F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Se pide a la CARM un trabajador social porque la bolsa municipal rechazó el puesto",
+      "categoria": "personal",
+      "resumen": "Como todos los integrantes de la bolsa municipal de trabajadores sociales rechazaron la plaza, se pide a la Comunidad Autónoma un candidato de su bolsa para Servicios Sociales y Atención Temprana.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "facilita candidato"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951600R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Nueva bolsa de técnicos de educación infantil en vigor desde el 31 de julio",
+      "categoria": "personal",
+      "resumen": "Se extinguen las bolsas de empleo de técnicos de educación infantil de 2016 y 2023 y entra en vigor la aprobada en junio de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "855377Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Adjudicada a Equitragua la barandilla de la avenida de la Cruz Roja",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Equitragua Technology, S.L., única licitadora, el suministro y colocación de barandilla metálica en dos tramos de la avenida de la Cruz Roja, con un año más de garantía.",
+      "entidades": [
+        {
+          "nombre": "Equitragua Technology, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 23958.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890781X",
+      "lugar": "avenida de la Cruz Roja",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano de la Pizzería Piccolo en calle Forte",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (16 m², 1 de abril a 31 de octubre) de la Pizzería Piccolo.",
+      "entidades": [
+        {
+          "nombre": "Pizzería Piccolo",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "944962Y",
+      "lugar": "calle Forte",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto benéfico de la Parroquia de San Juan Bautista en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia un puesto para recaudar fondos en el mercadillo de la calle San Francisco-Parque de la Constitución los días 17 y 24 de julio y 7 de agosto, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954977H",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil el 26 de julio de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para celebrar un matrimonio civil el 26 de julio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957599Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones para una boda civil el 28 de septiembre de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para celebrar un matrimonio civil el 28 de septiembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "958928W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil el 10 de octubre de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para celebrar un matrimonio civil el 10 de octubre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957037T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Corregido el aporte municipal a Servicios Sociales: 161.669 € y no 155.451 €",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se corrige un error en la aceptación de la subvención regional de 485.007 € para mantener los Centros de Servicios Sociales de Atención Primaria: el 25% que pone el Ayuntamiento no son 155.451 € sino 161.669 €.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 485007.0,
+      "importes": [
+        {
+          "concepto": "Subvención regional para Centros de Servicios Sociales de Atención Primaria 2024",
+          "eur": 485007.0,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal (25%)",
+          "eur": 161669.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951287H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Visitas guiadas de septiembre a diciembre con el Instituto de Turismo (3.605 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas por Yecla de septiembre a diciembre, organizado con el Instituto de Turismo de la Región de Murcia y la Red de Oficinas de Turismo, con un gasto de 3.605,80 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3605.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957601C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Padrón del IBI urbano 2024: 8,48 millones al cobro",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el padrón del IBI urbano de 2024: 54.855 recibos, 9.084.144,77 € brutos y 608.954,74 € de bonificaciones, 8.475.190,03 € al cobro. Se paga del 29 de julio al 13 de diciembre; los domiciliados en dos plazos (29 de julio y 28 de noviembre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8475190.03,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959735Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Padrón del IBI de características especiales 2024 (183.050 €)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el padrón del IBI de bienes de características especiales (grandes infraestructuras) de 2024: 113 recibos y 183.050,64 €, a pagar del 1 de agosto al 13 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 183050.64,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959735Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Revisión de precios del contrato del nuevo Plan General con Ezquiaga: 376.878 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba revisar el precio del contrato de revisión y adaptación del Plan General de Ordenación Urbana con Ezquiaga Arquitectura por la subida del IPC de 2018 a 2023 (19,1%): pasa de 324.237,94 € a 376.877,97 € sin IVA.",
+      "entidades": [
+        {
+          "nombre": "Ezquiaga Arquitectura, Sociedad y Territorio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 376877.97,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959982J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Contrato temporal de un cuidador de animales para el Centro de Protección Animal",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF un cuidador de animales para sustituir en septiembre las vacaciones del vigilante del Centro de Protección Animal (cuidado de animales, parque canino y recogida de animales abandonados).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959744D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Nueva bolsa de empleo de periodistas en vigor",
+      "categoria": "personal",
+      "resumen": "Se extingue la bolsa de empleo de periodistas de 2021 y entra en vigor la aprobada el 9 de julio de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762659Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "La demolición de inmuebles en calles Carmen y San Roque acabará el 14 de agosto",
+      "categoria": "contrato",
+      "resumen": "Se toma razón de que la contratista Servicios Profesionales Murcianos, S.L. prevé terminar el 14 de agosto la demolición de varios inmuebles en las calles Carmen y San Roque.",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "843146M",
+      "lugar": "calles Carmen y San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Prohibido parar y aparcar frente a los bancos de la calle Bailén",
+      "categoria": "via_publica_eventos",
+      "resumen": "A propuesta de la Policía Local se prohíbe parar y estacionar frente a los bancos de la fachada de la calle Bailén, 12.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953290P",
+      "lugar": "calle Bailén",
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Procesión de la Virgen del Cisne del colectivo ecuatoriano, sin escolta policial",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la procesión de la Virgen del Cisne del colectivo ecuatoriano el 14 de septiembre; como coincide con el sábado de Feria la Policía Local no podrá acompañarla y deberá respetar las normas de tráfico.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Ecuatoriano de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "949263X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.9",
+      "titulo": "La veterinaria municipal coordinará la Estrategia de Promoción de la Salud",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a la veterinaria-inspectora de Sanidad coordinadora local de la Estrategia de Promoción de la Salud y Prevención del Ministerio de Sanidad (adhesión aprobada por el Pleno en 2017).",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Sanidad",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe notificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959129Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "COAG pide medidas contra la plaga de conejos en el campo",
+      "categoria": "medio_ambiente",
+      "resumen": "Ante la petición de COAG Yecla de que la Comunidad Autónoma actúe contra la proliferación de conejos que dañan los cultivos, se le remite el informe del técnico de Medio Ambiente con la normativa y las medidas adoptadas.",
+      "entidades": [
+        {
+          "nombre": "COAG Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "954882A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Se piden 67.381 € a la CARM para apoyo a la familia e infancia 2024",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento manifiesta su interés en recibir 67.380,79 € de la Consejería de Política Social para actuaciones de apoyo a la familia e infancia (51.579,99 € subprograma A1 y 15.800,80 € A2), y 8.000 € más si sobran fondos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67380.79,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959778A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Se piden 48.916 € a la CARM para equipos de atención a la infancia (LOPIVI)",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento manifiesta su interés en recibir 48.916,16 € para implantar o reforzar los equipos de atención a la infancia y la familia de Servicios Sociales (ley LOPIVI), y 8.000 € más si hay remanentes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48916.16,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959863T",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

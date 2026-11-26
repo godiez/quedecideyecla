@@ -1,0 +1,933 @@
+{
+  "doc": "2024-01-23_JGL_04",
+  "organo": "JGL",
+  "sesion": 4,
+  "fecha": "2024-01-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 30,
+  "resumen": "La Junta de Gobierno adjudica a Alma Ata Salud el Centro de Día de mayores dependientes por 530.088 euros al año y reparte en cinco lotes el Carnaval 2024 (unos 60.000 euros). Paga 237.886 euros en facturas de deportes, Navidad y Reyes, y multa a una empresa de demoliciones por no presentar papeles. También pide a Carreteras del Estado un acceso al camino de la Rabosera desde la nueva rotonda de la A-33 y concreta a la CHS qué ramblas limpiar.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 16 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: devolución de una ayuda de empleo juvenil y caduca un trámite ambiental",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de la Consejería de Turismo, Cultura, Juventud y Deportes que obliga al Ayuntamiento a reintegrar la subvención de 2021 para orientación laboral de jóvenes, y de la caducidad del procedimiento de evaluación ambiental de la modificación del Plan General para actividades de muy alta ocupación de suelo no urbanizable. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "exige reintegro"
+        },
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "declara caducidad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "871838M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: deportes, fiestas de la Virgen, Reyes y Navidad",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 11 facturas: gestión deportiva y Plan Corresponsable (Podium), mantenimiento de instalaciones deportivas (Véctoris), alumbrado de fiestas y Navidad (Invemat), pirotecnia, boatos, jaimas y trajes de la Cabalgata de Reyes y espectáculos de Navidad.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Coeters Dragon, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vol Music Events, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grupo Renta Todo Expoferias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Produccions Musicals Hispania Artis, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 237886.31,
+      "importes": [
+        {
+          "concepto": "Plan Corresponsable, diciembre 2023",
+          "eur": 17070.76,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, diciembre 2023",
+          "eur": 24864.71,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas (C.SE. 5/21), diciembre 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Servicio pirotécnico Fiestas de la Virgen 2023",
+          "eur": 7300.0,
+          "entidad": "Coeters Dragon, S.L."
+        },
+        {
+          "concepto": "Boatos infantiles, Estrella de Oriente y Paymobil, Cabalgata de Reyes 2024",
+          "eur": 8712.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Jaimas para Emisarios y Reyes 2024 y ambientación de la Plaza Mayor",
+          "eur": 18072.56,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Espectáculo musical 'Súper Mario - El gran tributo', Teatro Concha Segura (29/12/2023)",
+          "eur": 7865.0,
+          "entidad": "Vol Music Events, S.L."
+        },
+        {
+          "concepto": "Trajes de Reyes, Emisarios, Pajes, chilabas y controladores, Reyes 2024",
+          "eur": 6214.56,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Boatos de animación de la Cabalgata de Reyes (5/1/2024)",
+          "eur": 10890.0,
+          "entidad": "Grupo Renta Todo Expoferias, S.L."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen 2023 y Navidad-Reyes (Yecla y Raspay) (C.SU. 6/23)",
+          "eur": 44866.2,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Concierto de Fin de Año de la Orquesta Filarmonía Ibérica (Navidad 2023)",
+          "eur": 16335.0,
+          "entidad": "Produccions Musicals Hispania Artis, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785944P, 509033Q, 834503H, 863069H, 862042F, 838832W, 863938P, 860769N, 832168P, 857082R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina la bonificación del 90% del impuesto de obras (ICIO) por una instalación fotovoltaica de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854153Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Cambio de titular de una licencia de 2008 para una vivienda en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del cambio de titular de la licencia urbanística 82/2008 (vivienda unifamiliar aislada) y de los nuevos directores de obra y coordinador de seguridad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857723H",
+      "lugar": "paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso de lactancia, vacaciones y excedencia de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la reincorporación tras la baja por maternidad y se le concede la lactancia acumulada, vacaciones y excedencia por cuidado de hijo hasta el 7 de agosto de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870901K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reconocimiento de antigüedad a una trabajadora social interina",
+      "categoria": "personal",
+      "resumen": "Se le reconocen un año, un mes y tres días de servicios previos en la Comunidad Autónoma a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872848P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "AFEDECO hará las actividades del Plan de Igualdad y del día contra la homofobia",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de servicios para las actividades del Plan de Igualdad de oportunidades entre mujeres y hombres y del día internacional contra la homofobia.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14459.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860453Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Mantenimiento del programa informático de la Policía Local (VINFOPOL) en 2024",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el contrato menor de mantenimiento del programa de gestión policial VINFOPOL para 2024.",
+      "entidades": [
+        {
+          "nombre": "Suitable Software Vinfoval, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868663C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Obra de teatro 'Entrevista con mi hija Mari' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata la representación teatral en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Servicios Especializados en Distribución Artística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7405.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871794A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Obra de teatro 'Las guerras de nuestros antepasados' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata la representación teatral en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9196.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871898W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Tramitación de cambios en el Catastro durante 2024",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional el contrato menor de tramitación de alteraciones catastrales de 2024.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870767Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Actividades educativas en colegios e institutos para grupos vulnerables y familias",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a una profesional un contrato menor de actuaciones educativas para alumnado de infantil a bachillerato, profesorado, profesionales y familias (Concejalía de Política Social).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11157.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "863872Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Alma Ata Salud gestionará el Centro de Día de mayores dependientes por 530.088 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto, durante un año, el servicio de Centro de Día para personas mayores dependientes por 530.088 € IVA incluido, más 6,22 € por cada menú. Fue la mejor oferta (56,58 puntos).",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 530088.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Contratos de infraestructura, vallas, luces y carpa del Carnaval 2024",
+      "categoria": "contrato",
+      "resumen": "Se adjudican los cinco lotes del contrato de organización del Carnaval 2024. Tres licitadores fueron excluidos por no estar inscritos en el registro oficial de licitadores (ROLECE).",
+      "entidades": [
+        {
+          "nombre": "Fluge Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Europea de Stands y Carpas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 60324.65,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades y desfiles",
+          "eur": 29766.0,
+          "entidad": "Fluge Levante, S.L."
+        },
+        {
+          "concepto": "Lote 2: acomodación, taquilla, control y limpieza",
+          "eur": 4440.7,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Lote 3: vallado de protección decorativo",
+          "eur": 2650.0,
+          "entidad": "Decourba 2007, S.L."
+        },
+        {
+          "concepto": "Lote 4: iluminación ornamental",
+          "eur": 16758.5,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Lote 5: alquiler e instalación de carpa en la Plaza San Cayetano",
+          "eur": 6709.45,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "844514M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Prórroga de un año del bar-cafetería del Centro de Mayores 'Herratillas'",
+      "categoria": "contrato",
+      "resumen": "Se prorroga (primera y última vez) el contrato del bar-cafetería del Centro de Personas Mayores Herratillas, del 16 de abril de 2024 al 15 de abril de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583035X",
+      "lugar": "Centro Municipal de Personas Mayores Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Multa a Demoliciones Coruña por no presentar papeles en la demolición de la calle Carmen",
+      "categoria": "contrato",
+      "resumen": "Se impone una penalidad del 3% (2.875,70 €) a la empresa propuesta para la demolición de varios inmuebles en las calles Carmen y San Roque (obra de 115.986,90 €) por no presentar la documentación; se pide al segundo clasificado, Servicios Profesionales Murcianos, S.L.",
+      "entidades": [
+        {
+          "nombre": "Demoliciones Coruña, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "penalizada"
+        },
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "siguiente licitador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2875.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M",
+      "lugar": "calle Carmen y calle San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "6.11",
+      "titulo": "Bases para adjudicar el bar de las fiestas de Carnaval 2024",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases del contrato menor del servicio de bar durante el Carnaval 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871694M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Denegado cambiar de sitio un contenedor de basura por alergia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la petición de un vecino de mover un contenedor junto a su casa alegando alergia: está a 2,40 m, no molesta más que otros y no acredita la patología.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "872657Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Aula del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vecina el uso de un aula el 10 de febrero para un club de lectura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871549K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio Juan Miguel Benedito para la Semana del Cine Espiritual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Delegación Episcopal de Enseñanza el uso del auditorio los días 30 y 31 de enero, previo pago del precio público de 240 €.",
+      "entidades": [
+        {
+          "nombre": "Delegación Episcopal de Enseñanza de la Diócesis de Cartagena",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "pide permiso / paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "858163T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Aula del Edificio Bioclimático para las actas previas de expropiación de la autovía A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula el 7 de febrero a Carreteras del Estado para levantar las actas previas a la ocupación de terrenos afectados por la autovía A-33 (tramo C-3223 a Yecla-N-344).",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "873378A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aulas del Edificio Bioclimático para reuniones de la peña 'El Pitorro'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un aula el 3 de febrero y dos reuniones más en los próximos meses.",
+      "entidades": [
+        {
+          "nombre": "Peña El Pitorro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "873184F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Aulas del Edificio Bioclimático para exámenes de inglés de Cambridge",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la academia Kensite School a hacer en aulas municipales los exámenes de Cambridge los días 29 de junio y 26 y 27 de julio.",
+      "entidades": [
+        {
+          "nombre": "Kensite School, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872379N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa y presupuesto de las Fiestas de San Blas 2024",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el programa de las fiestas de San Blas (2 a 4 de febrero) y un gasto de 4.183,57 €, con asistencia de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4183.57,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "866244R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Visitas guiadas de febrero a julio con el Instituto de Turismo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas organizado con el ITREM y la Red de Oficinas de Turismo y un presupuesto de 5.459,52 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5459.52,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871506A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Apoyo municipal a una competición de atletismo Sub14, Sub16 y Sub18",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la Federación de Atletismo regional la competición del 27 y 28 de enero en la pista Juan Palao, con gastos municipales de 629,20 € y uso gratuito de instalaciones valorado en 953,40 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1582.6,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 629.2,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 953.4,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869511E",
+      "lugar": "Pista de atletismo, Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Recibos de agua (4º trimestre 2023) y basura (1er trimestre 2024)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas cobratorias que gestiona FCC Aqualia: agua 286.441,61 € (canon para el Ayuntamiento de 28.045,93 €), canon de saneamiento autonómico 232.874,89 € y tasa de basura 370.915,50 €. Se anulan 22 € de recibos de 2022.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 286441.61,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 4T 2023",
+          "eur": 286441.61,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon a favor del Ayuntamiento",
+          "eur": 28045.93,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento (CARM)",
+          "eur": 232874.89,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Tasa de recogida de basura 1T 2024",
+          "eur": 370915.5,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874683N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Luz verde para empezar las obras de rehabilitación del Centro de Salud Francisco Palao",
+      "categoria": "licencia_obra",
+      "resumen": "La Consejería de Salud completa la documentación y se le autoriza a iniciar la rehabilitación sostenible del Centro de Salud Francisco Palao (licencia 234/2023).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781556W",
+      "lugar": "Centro de Salud Francisco Palao, calle Juan Albert",
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Cambio de horario de una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se autoriza de forma excepcional un horario especial durante los cursos escolares, como máximo hasta marzo de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874532D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Reuniones de cuatro técnicas de Servicios Sociales con la Dirección General de Familia",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a cinco reuniones de coordinación en 2024 y se cubren los desplazamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874717K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "AFEDECO dará formación para hombres del Plan Corresponsables",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para poner en marcha actividades de formación para hombres del Plan Corresponsables.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación para la Formación y el Desarrollo Comunitario",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "786276A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Terraza anual para el establecimiento 'Kampala' en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 18 m2 de noviembre de 2023 a octubre de 2024.",
+      "entidades": [
+        {
+          "nombre": "Kampala (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857981E",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Aparcamiento de un autobús de RTVE ('Únete a GeneraciónD') frente a la Feria del Mueble",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza estacionar del 5 al 7 de febrero un autobús del proyecto itinerante de RTVE sobre competencias digitales.",
+      "entidades": [
+        {
+          "nombre": "Alegría Activity, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874150Y",
+      "lugar": "frente a la Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Aulas del Edificio Bioclimático para talleres de Pilates y Tai Chi de ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden aulas hasta final de curso para talleres de la asociación de personas con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865916M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Fiesta de Carnaval infantil de la Concejalía de Juventud",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba una fiesta de Carnaval para niños de 5 a 12 años el 9 de febrero en el Edificio Bioclimático, con 190 € de gasto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 190.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874393K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Se pide a Carreteras un acceso al camino de la Rabosera desde la rotonda de la A-33",
+      "categoria": "otros",
+      "resumen": "Por las quejas vecinales tras abrir el último tramo de la autovía A-33, se pide al Estado habilitar un acceso al camino CRA-47 'Traviesa de la Rabosera' desde la rotonda de la RM-424 (pk 4+150), que evitaría un rodeo de 1.400 m.",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe solicitud"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870809H",
+      "lugar": "camino CRA-47 Traviesa de la Rabosera; rotonda RM-424 pk 4+150",
+      "interes": 3
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Se concreta a la CHS qué ramblas hay que limpiar",
+      "categoria": "medio_ambiente",
+      "resumen": "Ante la petición de la Confederación Hidrográfica del Segura, se le indica que la limpieza urgente hace falta en la confluencia de las ramblas de Agua Salada y Atalaya, junto a la carretera RM-A18 y el Camino de Marisparza.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura (CHS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe solicitud"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845443C",
+      "lugar": "ramblas de Agua Salada y Atalaya, RM-A18, Camino de Marisparza",
+      "interes": 2
+    }
+  ]
+}

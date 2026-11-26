@@ -1,0 +1,742 @@
+{
+  "doc": "2021-02-16_JGL_07",
+  "organo": "JGL",
+  "sesion": 7,
+  "fecha": "2021-02-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 41,
+  "resumen": "La Junta de Gobierno concede licencia a Retorno Solar, S.L. para una planta fotovoltaica de 1,99 MW en El Lidonero y apoya el interés público de dos naves textiles de 40 Grados Lencería, S.L. en la carretera de Villena. Pide a la Comunidad Autónoma una franja de protección alrededor del Monte Arabí que frene tendidos eléctricos, eólicas, fotovoltaicas y granjas intensivas. Rechaza el recurso de Sacyr Social contra la obligación de seguir prestando el Centro de Día de mayores y convoca los concursos para cubrir las plazas de Secretaría, Intervención y Tesorería.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497473K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: medidas COVID, ayudas del IMAS y dos resoluciones judiciales",
+      "categoria": "informacion",
+      "resumen": "Se informa de decretos y órdenes regionales con restricciones por la COVID-19, de una subvención directa del IMAS a ayuntamientos con centros de atención a personas con discapacidad (2020), de un escrito de la CHS sobre el plan de riesgo de inundación, de una sentencia que anula una sanción municipal por ruido a una particular y de un auto que extiende a otro particular los efectos de una sentencia previa.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta auto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "498076Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de planchas de goma para el parabalas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar una factura de planchas de goma negra cortadas a medida para un parabalas.",
+      "entidades": [
+        {
+          "nombre": "Ferregas García-Vaso, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8681.75,
+      "importes": [
+        {
+          "concepto": "Planchas de goma negra cortada a medida, función de parabalas",
+          "eur": 8681.75,
+          "entidad": "Ferregas García-Vaso, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Exención del impuesto de obras a las Hermanitas de los Ancianos Desamparados",
+      "categoria": "fiscal",
+      "resumen": "Se reconoce la exención del ICIO a la congregación religiosa por la reforma de ocho celdas de clausura en la Residencia Santa Teresa de Jornet (por el acuerdo Estado-Santa Sede) y se le devuelven los 2.419,24 euros que ya había pagado.",
+      "entidades": [
+        {
+          "nombre": "Congregación Hermanitas de los Ancianos Desamparados",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "recibe devolución"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2419.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494294W",
+      "lugar": "Residencia de Ancianos Santa Teresa de Jornet",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular de una licencia de vivienda en Casa Roja",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia urbanística 272/2019 para una vivienda unifamiliar aislada con garaje pasa a otro particular por una donación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "228397T",
+      "lugar": "Paraje Casa Roja",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una planta solar fotovoltaica de 1,99 MW en El Lidonero",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Retorno Solar, S.L. para construir una planta fotovoltaica de 1,99 MW. Un apoyo de la línea de evacuación en la zona del yacimiento de Los Torrejones deberá hacerse con supervisión de un arqueólogo; plazo de 6 meses para empezar y 24 para terminar.",
+      "entidades": [
+        {
+          "nombre": "Retorno Solar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479281T",
+      "lugar": "Paraje El Lidonero, polígono 130, parcela 46",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una nave agrícola en Las Moratillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Azorín & Rico, S.L. para construir una nave agrícola, que solo podrá usarse para el fin del proyecto según el informe de la Dirección General de Política Agraria Común.",
+      "entidades": [
+        {
+          "nombre": "Azorín & Rico, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491853E",
+      "lugar": "Paraje Las Moratillas, polígono 104, parcela 203",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para ampliar una nave de Tapicerías Navarro en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Tapicerías Navarro, S.L. para ampliar su nave industrial, con una fianza de 17.855,83 euros para reponer la urbanización que se dañe.",
+      "entidades": [
+        {
+          "nombre": "Tapicerías Navarro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de urbanización",
+          "eur": 17855.83,
+          "entidad": "Tapicerías Navarro, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492821Z",
+      "lugar": "Calle Santiago Ramón y Cajal, 19, Polígono Industrial Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Se para el plazo de una licencia de vivienda en suelo no urbanizable (El Lentiscar)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se suspende el plazo para resolver la licencia de una vivienda unifamiliar de unos particulares en suelo no urbanizable, autorizada por la CARM en 2007 con la anterior Ley del Suelo, mientras la Dirección General de Territorio y Arquitectura responde si esas autorizaciones antiguas siguen siendo válidas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consultada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497266Y",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Se para el plazo de una licencia de vivienda en suelo no urbanizable (La Pujola)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Igual que el punto anterior, para otra vivienda de particulares en suelo no urbanizable con autorización autonómica de 2003, a la espera de la respuesta de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consultada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490518A",
+      "lugar": "Paraje La Pujola",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Interés público para dos naves textiles de 40 Grados Lencería en la carretera de Villena",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor de declarar de interés público la construcción de dos naves industriales para comercializar productos textiles en suelo no urbanizable, sin alegaciones en la información pública, y se envía a la Consejería de Fomento para que la autorice.",
+      "entidades": [
+        {
+          "nombre": "40 Grados Lencería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475503X",
+      "lugar": "Carretera de Villena, polígono 47, parcelas 112, 113, 114, 236 y 237",
+      "interes": 3
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia de segregación de una finca rústica en Las Cabezuelas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una particular licencia para segregar 6.981,50 m² de una finca de 13.963 m² en suelo no urbanizable sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "244185X",
+      "lugar": "Paraje Las Cabezuelas",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un conserje para el Edificio Bioclimático",
+      "categoria": "personal",
+      "resumen": "Para cubrir el puesto, se contrata por obra o servicio a un conserje-operario de la bolsa de empleo hasta el 31 de julio de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495032W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Cambios en el plus de jornada partida de técnicas de escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Por los nuevos horarios, se quita el complemento de jornada partida a dos técnicas de Educación Infantil y se reconoce a otra que ahora trabaja en jornada partida toda la semana, desde el 1 de enero hasta el final del curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497862A",
+      "lugar": "Escuelas infantiles Pulgarcito y Campanilla",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Un informático municipal dará el curso de Informática básica de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a un analista programador municipal para impartir el curso 'Informática básica' de la Universidad Popular 2020/21, con una indemnización de 1.115,20 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1115.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497703E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Calendario laboral 2021 del personal de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se aprueba el nuevo calendario y jornada de 2021 del personal de la Universidad Popular, adaptado a la nueva jornada municipal de 35,3 horas semanales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497716Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Dos educadoras sociales, en el tribunal de una bolsa de empleo de Cieza",
+      "categoria": "personal",
+      "resumen": "Se autoriza a dos educadoras sociales municipales a formar parte del tribunal que seleccionará una bolsa de trabajo de educadores sociales del Ayuntamiento de Cieza.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Cieza",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498041Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Concurso para cubrir la plaza de Secretario del Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2021 para cubrir de forma definitiva el puesto vacante de Secretaría (funcionarios de habilitación nacional).",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498033N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Concurso para cubrir la plaza de Interventor del Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2021 para cubrir de forma definitiva el puesto vacante de Intervención.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498046F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Concurso para cubrir la plaza de Tesorero del Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2021 para cubrir de forma definitiva el puesto vacante de Tesorería.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498047",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Contrato del módulo de artes plásticas y oficios de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Epsilon Servicios Educativos, S.L. la impartición del módulo docente de Artes Plásticas y Oficios Artesanales de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10014.44,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497871N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza ampliada del Café Glamour",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Café Glamour en temporada de verano (20 m² en calle Antonio Machado de abril a agosto y 28 m² en calle San Ramón de agosto a octubre), mayor que en 2019 para compensar el aforo limitado por la COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496195K",
+      "lugar": "Calle Antonio Machado y calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "No se mueve una plaza de aparcamiento para discapacitados para poner una terraza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular trasladar la plaza reservada a personas con discapacidad de la calle España (pedida por la Escuela de Música) para instalar la terraza de la Cafetería Gaía, aunque se le ofrece un hueco de 8 m² entre esa plaza y la zona de carga y descarga.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "496198P",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Balizas en la isleta de la Avenida de la Paz frente a Mercadona",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se instalan señales de balizamiento en la isleta para separar los sentidos de circulación y evitar que se aparque allí.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497651S",
+      "lugar": "Avenida de la Paz, frente al supermercado Mercadona",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Se mueven los contenedores de la calle San Luis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Los contenedores de la calle San Luis se desplazan hasta una plaza de aparcamiento que se elimina, según indicó la Policía Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497185K",
+      "lugar": "Calle San Luis",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Espejo en el cruce de las calles Algeciras y San Bartolomé",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se instala un espejo convexo para mejorar la visibilidad de los coches y la seguridad de los peatones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497174W",
+      "lugar": "Cruce de las calles Algeciras y San Bartolomé",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Aqualia renovará el bombeo de agua de Raspay",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a FCC Aqualia, concesionaria del agua potable, la renovación del bombeo del servicio de Raspay.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4790.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497388R",
+      "lugar": "Raspay",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Aqualia instalará válvulas en Urbayecla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a FCC Aqualia la instalación de válvulas en la red de agua de Urbayecla.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4630.84,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497898A",
+      "lugar": "Urbayecla",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Denegado el agua potable para una nave en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a un particular el suministro de agua potable para una nave industrial porque no hay red pública ni privada a menos de 50 metros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "497151N",
+      "lugar": "Polígono 47, parcela 7",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Permiso de quema de restos vegetales (Cooperativa La Purísima)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor, a través de la Cooperativa del Vino La Purísima, quemar restos vegetales a menos de 1.500 m del casco urbano los miércoles y jueves de 11 a 12 h hasta el 17 de abril.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla La Purísima",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497218F",
+      "lugar": "Polígono 34, parcela 213",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Permiso de vertidos a la red para la gasolinera Campsa de la calle Valencia",
+      "categoria": "medio_ambiente",
+      "resumen": "Se concede a Campsa Estaciones de Servicio la autorización de vertidos industriales al alcantarillado de la estación de servicio 'Arabí', con obligación de analíticas y de depurar lo que no cumpla.",
+      "entidades": [
+        {
+          "nombre": "Campsa Estaciones de Servicio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497258M",
+      "lugar": "Calle Valencia, 23-A (antigua carretera N-344)",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Contratación de una técnica para la Escuela Infantil Campanilla",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se contrata de la bolsa a un técnico de Educación Infantil a 30 horas semanales para sustituir a una tutora de baja, como máximo hasta final de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498075X",
+      "lugar": "Escuela Infantil Campanilla",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Contratación de una auxiliar de biblioteca por jubilación",
+      "categoria": "personal",
+      "resumen": "Se contrata como interina a la única integrante de la bolsa de 2002 para cubrir la plaza de auxiliar de biblioteca que deja libre una jubilación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497907N",
+      "lugar": "Biblioteca central",
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Ayuda por hijo con discapacidad a un policía local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local la ayuda del convenio por hijo con discapacidad, de 139,43 euros al mes, condicionada a acreditar que no cobra otras prestaciones por lo mismo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Ayuda mensual por hijo con discapacidad",
+          "eur": 139.43,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498135E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Rechazado el recurso de Sacyr Social por la prórroga del Centro de Día de mayores",
+      "categoria": "reclamaciones",
+      "resumen": "Sacyr Social no quería seguir con el Centro de Día para mayores dependientes tras el fin de su contrato en mayo de 2020 y pedía más dinero por la continuidad obligada. Se desestima su recurso: el servicio debía seguir por interés general hasta que empezó el nuevo contratista (30 de noviembre de 2020) y la empresa no justificó mayores costes.",
+      "entidades": [
+        {
+          "nombre": "Sacyr Social, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "425479",
+      "lugar": "Centro de Día para personas mayores dependientes",
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Permiso de quema de restos vegetales (COAG)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor, a través de COAG Yecla, quemar restos vegetales los martes y el primer y tercer sábado de cada mes de 11 a 12 h hasta el 30 de abril.",
+      "entidades": [
+        {
+          "nombre": "COAG Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497200P",
+      "lugar": "Polígono 45, parcela 352",
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Permiso de quema de restos vegetales (Cooperativa La Purísima, polígono 109)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor, a través de la Cooperativa La Purísima, quemar restos vegetales los martes y el primer y tercer sábado de cada mes de 11 a 12 h, del 22 de febrero al 29 de abril.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla La Purísima",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498008D",
+      "lugar": "Polígono 109, parcela 23",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Yecla pide una franja de protección alrededor del Monte Arabí",
+      "categoria": "medio_ambiente",
+      "resumen": "Se envían a la Comunidad Autónoma alegaciones al plan de espacios protegidos del Altiplano para crear una zona de amortiguación junto al Monumento Natural del Monte Arabí que evite tendidos de alta tensión, industrias, eólicas, fotovoltaicas y ganadería intensiva.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe alegaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498211K",
+      "lugar": "Monte Arabí",
+      "interes": 3
+    }
+  ]
+}

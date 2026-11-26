@@ -1,0 +1,792 @@
+{
+  "doc": "2025-03-18_JGL_15",
+  "organo": "JGL",
+  "sesion": 15,
+  "fecha": "2025-03-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 25,
+  "resumen": "La Junta de Gobierno paga casi 207.000 euros en facturas (sobre todo instalaciones deportivas y el Centro de Día de mayores) y la obra de climatización de la Escuela de Música (47.085 €). Prorroga el seguro de responsabilidad civil con Zurich, contrata la retransmisión de Plenos en TeleYecla por 16.000 € y avisa de que las obras de la Casa del Guarda del Monte Arabí empiezan en abril. Cambia las bases de una oposición tras dos recursos y autoriza procesiones de Semana Santa, terrazas y usos de salas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 11 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas al campo, manifestación de AMPY, depuradoras y sentencia del Supremo",
+      "categoria": "informacion",
+      "resumen": "Se informa de cuatro documentos: el informe del Ministerio de Hacienda sobre la sostenibilidad financiera para que el Ayuntamiento conceda ayudas directas a explotaciones agrícolas y ganaderas; el informe de la Policía Local sobre la manifestación convocada por AMPY el 30 de marzo (de la Plaza Mayor al Parque de la Constitución); un informe sobre las aguas que llegan a las depuradoras de Yecla y Raspay en 2024; y una sentencia del Tribunal Supremo (Sala de lo Social) en un recurso de casación presentado por el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Gestión Presupuestaria y Financiera de Entidades Locales",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emite informe"
+        },
+        {
+          "nombre": "AMPY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "convoca manifestación"
+        },
+        {
+          "nombre": "Tribunal Supremo (Sala de lo Social)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1054308R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, centro de día, socorrismo y obra de agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar ocho facturas: mantenimiento y limpieza de instalaciones deportivas (febrero), cursos de la Universidad Popular, Centro de Día de mayores dependientes, actividades deportivas y socorrismo, multideporte de conciliación (Plan Corresponsables), renovación de la red de agua en calle La Fuente, montaje de la 'Casa de Papá Noel' de Navidad 2024 y la cuota anual de la Federación de Municipios.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 206841.69,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, febrero 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos, Universidad Popular, febrero 2025",
+          "eur": 6144.28,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, febrero 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, enero 2025",
+          "eur": 27813.87,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Multideporte jornadas de conciliación, enero 2025 (Plan Corresponsables)",
+          "eur": 12120.75,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Obras de renovación de red en calle La Fuente",
+          "eur": 20175.69,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Contrato menor: montaje y desmontaje 'Casa de Papá Noel' Navidad 2024",
+          "eur": 12087.9,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Cuota social",
+          "eur": 8629.68,
+          "entidad": "Federación de Municipios de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 628370M, 836272P, 941685X, 956892R, 1019631E, 1056011H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Pago de la obra de climatización de la Escuela de Música",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación única y final de la obra de instalación de aparatos de climatización en la Escuela de Música, a favor de la contratista.",
+      "entidades": [
+        {
+          "nombre": "DPV Instalación y Mantenimiento, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47084.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983068Y",
+      "lugar": "Escuela de Música",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recaudación de taquilla del espectáculo 'Gran Baile de Carnaval 2025'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo 'Gran Baile de Carnaval 2025' (1 de marzo, Feria del Mueble): 6.690,00 € recaudados y se dan de baja 2.810,00 € en entradas no vendidas (emitidas por 9.500,00 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6690,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945101Q",
+      "lugar": "Feria del Mueble de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Recaudación de taquilla del espectáculo 'Gala de Coronación Reina de Carnaval 2025'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo 'Gala de Coronación Reina de Carnaval 2025' (21 de febrero, Feria del Mueble): 2.682,00 € recaudados y se dan de baja 2.346,00 € en entradas no vendidas (emitidas por 5.028,00 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2682,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945101Q",
+      "lugar": "Feria del Mueble de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Recaudación de taquilla del espectáculo 'I Gala de Carnaval 2025'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo 'I Gala de Carnaval 2025' (22 de febrero, Feria del Mueble): 4.188,00 € recaudados y se dan de baja 840,00 € en entradas no vendidas (emitidas por 5.028,00 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4188,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945101Q",
+      "lugar": "Feria del Mueble de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Recaudación de taquilla del espectáculo 'II Gala de Carnaval 2025'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo 'II Gala de Carnaval 2025' (23 de febrero, Feria del Mueble): 4.896,00 € recaudados y se dan de baja 132,00 € en entradas no vendidas (emitidas por 5.028,00 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4896,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945101Q",
+      "lugar": "Feria del Mueble de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Recaudación de taquilla del espectáculo 'III Gala de Carnaval 2025'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo 'III Gala de Carnaval 2025' (28 de febrero, Feria del Mueble): 4.848,00 € recaudados y se dan de baja 180,00 € en entradas no vendidas (emitidas por 5.028,00 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4848,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945101Q",
+      "lugar": "Feria del Mueble de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares para autoconsumo en su vivienda del paraje Rabosera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993462J",
+      "lugar": "Paraje Rabosera",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oposición a Técnico/a de Gestión: se aceptan dos recursos y se cambian las bases",
+      "categoria": "personal",
+      "resumen": "Se estiman los recursos de dos aspirantes contra las bases de promoción interna de dos plazas de Técnico/a de Gestión: se crea una bolsa de empleo con quienes aprueben sin plaza (vigente hasta al menos 2028) y se permite presentarse también a funcionarios interinos, no solo de carrera.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991510Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "El Ayuntamiento paga el abogado de un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se asumen los gastos de abogado de un subinspector de la Policía Local en un procedimiento judicial abreviado del Juzgado nº 1 de Yecla, según el acuerdo de condiciones de trabajo de los funcionarios. Importe aún sin presupuestar.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de Primera Instancia e Instrucción nº 1 de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "tramita el procedimiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867117E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Plaza fija de Auxiliar de Hogar (media jornada) y bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a la aspirante con mejor nota en la plaza de Auxiliar de Hogar a media jornada (oferta de 2018) y se aprueba una bolsa de empleo de 8 personas, vigente de 2028 a 2031.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "756620M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Se extingue la antigua bolsa de empleo de Peón-Operario",
+      "categoria": "personal",
+      "resumen": "Se da por extinguida la bolsa de Peón-Operario de 2022 para que entre en vigor la nueva, creada tras el proceso selectivo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578768W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Permiso de lactancia de un empleado municipal: se aplaza",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la solicitud de permiso por lactancia de un empleado municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1045655Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "TeleYecla retransmitirá Plenos y actos municipales por 16.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Fibraworld Telecom el contrato menor para retransmitir en directo los Plenos y actos institucionales y difundir actividades municipales en TeleYecla y TeleYecla Radio.",
+      "entidades": [
+        {
+          "nombre": "Fibraworld Telecom, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16000.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043908Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Obra de teatro 'Una madre de película' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Pentación la representación de la obra 'Una madre de película' el 12 de abril de 2025 en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9075.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056751K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Obras de la Casa del Guarda del Monte Arabí: hay que vaciar el punto de información",
+      "categoria": "contrato",
+      "resumen": "Empiezan las obras para convertir la Casa del Guarda en centro de interpretación del Monte Arabí (Plan de Sostenibilidad Turística, fondos europeos Next Generation a través del ITREM). Los trabajos que afectan al edificio empezarán el 21 de abril y durarán unos tres meses, así que se pide a la Comunidad Autónoma que retire su Punto de Información del Monumento Natural.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe retirar su punto de información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867239Z",
+      "lugar": "Monte Arabí (Casa del Guarda)",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Prórroga del seguro de responsabilidad civil con Zurich",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año, hasta el 1 de junio de 2026, el seguro de responsabilidad civil patrimonial del Ayuntamiento con Zurich (acuerdo marco de la FEMP). Hay crédito reservado de 71.169,05 €.",
+      "entidades": [
+        {
+          "nombre": "Zurich Insurance PLC",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 71169.05,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "908685N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para la cafetería 'Glamour' en calle San Ramón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular una terraza de 26 m² de abril a octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052514A",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de invierno para 'Shop Pan & Café Lokal 3' en Plaza San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 44 m² para la temporada de invierno 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Shop Pan & Café, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015497N",
+      "lugar": "Plaza San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza anual para el 'Café-Bar Los Pirrikis' en calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular una terraza de 16 m² de noviembre de 2024 a octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051360Y",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Procesiones del Cristo del Sepulcro (5, 6 y 13 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan la Bajada, la Procesión de Rogativas y la Subida del Cristo del Sepulcro por sus recorridos tradicionales, con prohibición de aparcar y retirada de contenedores.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Caballeros y Damas del Santísimo Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054795T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Tamborada y procesión de Semana Santa del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio a celebrar una tamborada y una procesión los días 9 y 11 de abril.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058184A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Traslados extraordinarios del Cristo de la Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan traslados de la imagen el 28 de marzo y el 2 de abril, con apoyo de la Policía Local al tráfico.",
+      "entidades": [
+        {
+          "nombre": "Hermandad del Vía Crucis y Cofradía del Stmo. Cristo de la Paz",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1050523K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Pasacalles con marchas procesionales de la Cofradía de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un pasacalles el 22 de marzo, con apoyo de la Policía Local al tráfico.",
+      "entidades": [
+        {
+          "nombre": "Cofradía de Nuestra Sra. de las Angustias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058197T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Sala del Edificio Bioclimático para un curso de riego de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala para un curso de riego localizado para agricultores el 31 de marzo y el 1 de abril.",
+      "entidades": [
+        {
+          "nombre": "COAG Yecla (Coordinadora de Organizaciones de Agricultores y Ganaderos–Iniciativa Rural de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060794A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón del Edificio Bioclimático para la Semana Cultural de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del 1 al 3 de abril para la Semana Cultural de las peñas.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059772F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salas del Edificio Bioclimático para un curso de prevención de riesgos de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden dos salas para un curso de prevención de riesgos laborales en el campo los días 7 y 8 de abril.",
+      "entidades": [
+        {
+          "nombre": "COAG Yecla (Coordinadora de Organizaciones de Agricultores y Ganaderos–Iniciativa Rural de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060776A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Sala del Centro de Emprendimiento para una reunión de voluntariado de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones el 27 de marzo a la asociación de afectados de cáncer.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056491Z",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para AFEDECO",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina el 26 de marzo para un taller con usuarios del proyecto 'Crece'.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1061219Q",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Auditorio gratis para el Acto de Exaltación del Cristo del Sepulcro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' el 29 de marzo con rebaja del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Caballeros y Damas del Santísimo Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "recibe uso gratuito"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057110J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Bases para los chiringuitos de la Cabalgata de Carrozas de San Isidro 2025",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las bases para organizar la instalación de chiringuitos en la Cabalgata de Carrozas del 17 de mayo de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059950D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Memoria de reformas para el colegio Giner de los Ríos, enviada a la Comunidad",
+      "categoria": "otros",
+      "resumen": "Tras las quejas del colegio por deficiencias, el Ayuntamiento aprueba un informe y una memoria técnica con mejoras de accesibilidad, evacuación y eficiencia energética en el bloque de Infantil del CEIP Giner de los Ríos, y la remite a la Consejería de Educación para que actúe.",
+      "entidades": [
+        {
+          "nombre": "C.E.I.P. Giner de los Ríos",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante de mejoras"
+        },
+        {
+          "nombre": "Dirección General de Centros e Infraestructuras (Consejería de Educación, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059688P",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "otros",
+      "resumen": "Se reconoce a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947291H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras (urgente)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Asunto urgente: se cede la sala de reuniones el 31 de marzo para una formación de las asociadas. No hubo informes, ruegos ni preguntas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060966P",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    }
+  ]
+}

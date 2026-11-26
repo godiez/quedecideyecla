@@ -1,0 +1,758 @@
+{
+  "doc": "2020-11-03_JGL_54",
+  "organo": "JGL",
+  "sesion": 54,
+  "fecha": "2020-11-03",
+  "tipo_sesion": "ordinaria",
+  "paginas": 40,
+  "resumen": "La Junta de Gobierno rebaja a la mitad el impuesto de obras a Finca Las Gateras (bodega) y Fama Sofás (nave), pero lo deniega a un parque solar de 2 MW y a unas placas solares de New Rock Shoes por no ser 'uso industrial'. Pone a disposición de la Región los terrenos municipales para la Vía Verde del Chicharra hacia Villena. Se informa de que el SEF quiere retirar una ayuda del proyecto 'Administra 2018'. Además, muchos permisos de teletrabajo por la COVID-19, la marcha de la directora de Servicios Sociales a Molina de Segura y una licencia para derribar dos edificios en la calle San Antonio.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las dos sesiones anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores (el acta dice 27 y 30 de noviembre, por error: son de octubre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: confinamiento perimetral, pérdida de una ayuda del SEF e informe del Plan General",
+      "categoria": "informacion",
+      "resumen": "Se informa del decreto regional de limitación de movimientos por el estado de alarma de la COVID-19; de que el SEF inicia el procedimiento para que el Ayuntamiento pierda el derecho a cobrar la subvención del proyecto 'Administra 2018'; del informe de la Dirección General de Territorio y Arquitectura sobre el Plan General aprobado inicialmente; y de informes técnicos sobre biorresiduos y cambio de tarifa de saneamiento de los colegios Miguel Ortuño y El Alba.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "retira subvención"
+        },
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "afectado"
+        },
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "486417E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de agua potable de los colegios a FCC Aqualia",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a FCC Aqualia los consumos de agua potable de los centros escolares. El importe no se lee en el texto escaneado.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471509Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de la obra del sótano del edificio 'Cazadores'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de la obra de adecuación de la planta semisótano del edificio 'Cazadores' para uso lúdico: dos de 0 € y una de 9.860,40 €.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Archena, S.L. (nombre dudoso por OCR)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9860.4,
+      "importes": [
+        {
+          "concepto": "Certificación nº 13",
+          "eur": 0.0,
+          "entidad": "Construcciones Archena, S.L."
+        },
+        {
+          "concepto": "Certificación nº 14",
+          "eur": 0.0,
+          "entidad": "Construcciones Archena, S.L."
+        },
+        {
+          "concepto": "Certificación nº 15",
+          "eur": 9860.4,
+          "entidad": "Construcciones Archena, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "137606W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del ICIO a Finca Las Gateras por ampliar su bodega",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Finca Las Gateras una bonificación del 50% del impuesto de obras (ICIO) por la adecuación y ampliación de su bodega, por considerarse uso industrial.",
+      "entidades": [
+        {
+          "nombre": "Finca Las Gateras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "196825T",
+      "lugar": "polígono 94, parcela 173 (o 178, según el párrafo)",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegada rebaja del ICIO a un parque solar de 2 MW de Nuevos Campos Solares",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación del 50% del ICIO a Nuevos Campos Solares por su parque solar fotovoltaico de 2 MW, porque un parque solar no se considera 'uso industrial' según las directrices regionales del suelo industrial.",
+      "entidades": [
+        {
+          "nombre": "Nuevos Campos Solares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "394885C",
+      "lugar": "polígono 123, parcelas 114, 115, 117, 118 y 120",
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 50% del ICIO a Fama Sofás por su nueva nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Fama Sofás una bonificación del 50% del ICIO por la construcción de una nave industrial.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477356W",
+      "lugar": "paraje Las Artesillas / Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Denegada rebaja del ICIO a New Rock Shoes por placas solares en su nave",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a New Rock Shoes la bonificación del 50% del ICIO por una instalación fotovoltaica de autoconsumo sobre el techo de su nave, porque no se considera uso industrial.",
+      "entidades": [
+        {
+          "nombre": "New Rock Shoes, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "484905E",
+      "lugar": "paraje de las Serratillas",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia a Artytra para derribar dos edificios en la calle San Antonio",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Artytra licencia para demoler dos inmuebles entre medianeras en la calle San Antonio, con fianzas de 710,33 € (urbanización) y 2.009,39 € (alumbrado y mobiliario urbano), desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "ARTYTRA, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483076P",
+      "lugar": "calle San Antonio, 39 y 41",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de una psicóloga para el proyecto de prevención de adicciones",
+      "categoria": "personal",
+      "resumen": "Tras el proceso de selección con candidatos del SEF, se contrata a una psicóloga para el 'Proyecto de prevención de adicciones' y se crea una bolsa de empleo con el resto de aprobados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484249T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de tres personas con discapacidad intelectual (programa de inserción 2020)",
+      "categoria": "personal",
+      "resumen": "Se contrata a tres personas seleccionadas entre las enviadas por el SEF, dentro del programa de inserción sociolaboral de personas con discapacidad intelectual 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "419856J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Teletrabajo parcial para un técnico informático",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un técnico informático a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484786P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Aplazada la petición de teletrabajo de un auxiliar de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa la solicitud de teletrabajo de un auxiliar administrativo del Centro de Servicios Sociales para completar el expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "486251Z (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Teletrabajo parcial para un técnico de Administración General de Secretaría",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un técnico de Administración General de Secretaría a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486089Z (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Teletrabajo parcial para una auxiliar administrativa de Secretaría",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa de Secretaría a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486074D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Teletrabajo parcial para una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486473H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Teletrabajo parcial para la técnica de Juventud",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la técnica de Juventud a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486414A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Teletrabajo parcial para un auxiliar delineante",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar delineante a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483985C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Recurso de los pedagogos contra las bases de la bolsa de Educador Social",
+      "categoria": "reclamaciones",
+      "resumen": "El Consejo General de Colegios de Pedagogos y Psicopedagogos recurre las bases de la bolsa de empleo de Educador/a Social porque solo admiten la titulación de Educación Social. Antes de resolver, se da audiencia de diez días al Colegio de Educadores Sociales de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Consejo General de Colegios Oficiales de Pedagogos y Psicopedagogos de España",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recurre"
+        },
+        {
+          "nombre": "Colegio Profesional de Educadores Sociales de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "interesado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "396007K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Cambio de horario de la zona de carga y descarga de una farmacia (calle Juan Ortuño)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega cambiar el horario de mañana de la zona de carga y descarga junto a una farmacia, por coincidir con el de las calles peatonales, y se acepta ampliar el de tarde para que coincida con la apertura de la farmacia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "484168F",
+      "lugar": "calle Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Cambio de aparcamientos en la calle Maestro Mora para facilitar el acceso a una cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se cambian dos plazas de aparcamiento en batería por plazas en línea al principio del tramo de la calle Maestro Mora.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485578P",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Prohibido aparcar todo el año en los números pares de la calle Zaplana",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la titular de la cafetería 'Bulevar', por seguridad de su terraza, el aparcamiento prohibido semestral de la calle Zaplana pasa a ser fijo en los números pares.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulevar",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454959N",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Denegado prohibir aparcar todo el año en la avenida Pablo Picasso por una terraza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la cafetería 'Bulevar' que el aparcamiento prohibido semestral de la avenida Pablo Picasso pase a fijo, porque perjudicaría al resto de usuarios en beneficio de un local privado.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulevar",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "454959N",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Programación definitiva de la Universidad Popular (primer trimestre 2020/21)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los cursos del primer trimestre: acuarela, legislación para oposiciones, identificación de aves, informática, mindfulness y micología. Se aplazan Marketing 2.0 y Manipulador de alimentos hasta conocer los inscritos.",
+      "entidades": [
+        {
+          "nombre": "Universidad Popular de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475853H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Terrenos municipales disponibles para la Vía Verde del Chicharra (tramo Yecla-Villena)",
+      "categoria": "patrimonio",
+      "resumen": "Se comunica al Instituto de Turismo de la Región de Murcia que los terrenos municipales afectados por la obra de la Vía Verde del Chicharra, tramo Yecla-Villena (caminos vecinales públicos), están plenamente disponibles para que pueda contratar las obras.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "ejecuta la obra"
+        },
+        {
+          "nombre": "Consorcio de las Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "relacionado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "298022W",
+      "lugar": "antiguo trazado del tren Chicharra",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Autorización y apoyo a la A.D. Albatros para jugar en 3ª División de fútbol sala",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros Yecla a disputar sus partidos de 3ª División Nacional de fútbol sala 2020-21 en instalaciones municipales, con colaboración municipal (cesión de uso) y sujeta a los protocolos COVID.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480994Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Desestimado recurso contra multas de seguridad ciudadana",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de un particular que pedía anular tres sanciones de la Ley de Seguridad Ciudadana (art. 36.16, consumo o tenencia de drogas en la vía pública) alegando que el Ayuntamiento no era competente según dos sentencias de un juzgado de Murcia. El Ayuntamiento sostiene que la incompetencia no es 'manifiesta' y niega tener un registro ilegal de sancionados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "471343T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la obra de la cubierta de la sala escolar del pabellón Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de reparación de la cubierta de la sala escolar del pabellón Las Herratillas, elaborado por la adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Estructuras LYM, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482338P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Plan de seguridad de la obra de las cubiertas de la capilla de la Virgen de las Angustias",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de cambio de cubiertas de la capilla de la Virgen de las Angustias, junto a la iglesia de San Francisco.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473702W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Cambio de horario de un inspector de Servicios Públicos por conciliación",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar-inspector de Servicios Públicos a trabajar de 9 a 16:30 hasta final del curso escolar, por conciliación, sin coste.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486463T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Excedencia de una agente de la Policía Local por cuidado de hijo",
+      "categoria": "personal",
+      "resumen": "Se concede a una agente de la Policía Local excedencia voluntaria para cuidar a un hijo menor de tres años, como máximo hasta junio de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486724F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "La directora de Servicios Sociales se va en comisión de servicios a Molina de Segura",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la directora del Centro Municipal de Servicios Sociales a ocupar en comisión de servicios un puesto de trabajadora social en el Ayuntamiento de Molina de Segura, durante un año prorrogable, desde el 6 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Molina de Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486398D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Una trabajadora social pasa a dirigir Servicios Sociales en comisión de servicios",
+      "categoria": "personal",
+      "resumen": "Para cubrir la vacante, se autoriza a una trabajadora social municipal a ocupar el puesto de directora de Servicios Sociales en comisión de servicios durante un año prorrogable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486458M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Teletrabajo parcial para una orientadora laboral",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una orientadora laboral a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484221E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Teletrabajo parcial para una auxiliar administrativa de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa de Gestión Tributaria a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484144 (incompleto por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Teletrabajo parcial para un coordinador deportivo",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un coordinador deportivo a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485336D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Teletrabajo parcial para otro coordinador deportivo",
+      "categoria": "personal",
+      "resumen": "Se autoriza a otro coordinador deportivo a teletrabajar parte de su jornada por pertenecer a un grupo vulnerable a la COVID-19, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486013I (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Teletrabajo parcial para un monitor socorrista",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un monitor socorrista a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484308A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Teletrabajo parcial para una monitora socorrista",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una monitora socorrista a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo por la COVID-19. No supone coste económico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483963X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Interfibra usa el Salón de Actos del Ayuntamiento para un debate sobre el Pleno",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza excepcionalmente a Interfibra Telecomunicaciones a usar el Salón de Actos de la Casa Consistorial el 5 de noviembre para grabar un debate sobre el Pleno de noviembre, porque sus instalaciones no permiten mantener la distancia por la COVID-19.",
+      "entidades": [
+        {
+          "nombre": "Interfibra Telecomunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486527H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Denegada prórroga de suministro de agua para obras en una nave",
+      "categoria": "otros",
+      "resumen": "Se deniega a un particular prorrogar dos meses la autorización de agua para obras en una nave del polígono de la carretera de Fuente Álamo, porque ya presentó el certificado final de obra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "486642R",
+      "lugar": "polígono industrial de la Ctra. de Fuente Álamo",
+      "interes": 1
+    }
+  ]
+}

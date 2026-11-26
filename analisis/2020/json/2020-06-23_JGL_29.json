@@ -1,0 +1,655 @@
+{
+  "doc": "2020-06-23_JGL_29",
+  "organo": "JGL",
+  "sesion": 29,
+  "fecha": "2020-06-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno aprueba el proyecto y la licitación de un sondeo para sacar agua potable por 351.060 euros y compra uniformes para la Policía Local por 16.439 euros. Con la desescalada del COVID-19 se reabre el Centro de Día de mayores dependientes el 1 de julio, se reorganizan la Escuela de Verano municipal (19.545 euros) y la Escuela Deportiva de Verano, y se ceden colegios a AMPAs y AFEDECO para escuelas de verano. También se contratan refuerzos para Servicios Sociales, se da por justificada la subvención de 74.791 euros a la UNED y se devuelve un aval de 32.977 euros a la Junta de Compensación de la Zona 6.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 16 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: decretos de ayudas de la CARM y dos sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa de decretos regionales de ayudas (personas sin hogar por el COVID-19, libros de texto gratuitos en concertados, eficiencia energética en empresas FEDER) y de dos sentencias: una desestima el recurso de EDP Comercializadora por una deuda municipal de suministro de gas, y otra anula una multa municipal por la Ley de Seguridad Ciudadana.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "EDP Comercializadora, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "demandante (recurso desestimado)"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "472240P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: fibra óptica, mantenimiento Oracle y un camión volquete usado",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la fibra óptica para conectar sedes municipales de la avenida de la Feria, el mantenimiento Oracle de 2020 y la compra de un Nissan Cabstar volquete usado.",
+      "entidades": [
+        {
+          "nombre": "Elecnor, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Luis Forte e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34197.67,
+      "importes": [
+        {
+          "concepto": "Suministro e instalación de fibra óptica entre sedes municipales de la avenida de la Feria",
+          "eur": 16832.71,
+          "entidad": "Elecnor, S.A."
+        },
+        {
+          "concepto": "Mantenimiento Oracle 2020",
+          "eur": 7364.96,
+          "entidad": "Oracle Ibérica, S.R.L."
+        },
+        {
+          "concepto": "Vehículo Nissan Cabstar volquete usado",
+          "eur": 10000.0,
+          "entidad": "Luis Forte e Hijos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "311335K, 385331H, 451547Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Primera certificación de la obra de las pinturas rupestres del Monte Arabí",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 1 de la obra de nuevo cerramiento y consolidación de los paneles pintados de la Cueva del Mediodía del Monte Arabí.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21251.86,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "287864M",
+      "lugar": "Cueva del Mediodía, Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Indemnización por la ausencia del abogado municipal en un juicio: no se trata",
+      "categoria": "reclamaciones",
+      "resumen": "Estaba en el orden del día aceptar una indemnización por daños al Ayuntamiento porque su letrado no acudió a un juicio por despido (Juzgado de lo Social nº 6 de Murcia), pero por error no se trató.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "juzgado del procedimiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "216831E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Justificada la subvención de 2019 a la UNED para la Extensión Universitaria en Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por bien justificado hasta 74.791,93 € el uso de la subvención municipal de 2019 a la UNED de Cartagena para mantener la Extensión Universitaria en Yecla.",
+      "entidades": [
+        {
+          "nombre": "UNED, Centro Asociado de Cartagena",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 74791.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "413422Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Recepción definitiva de la urbanización de la Zona 6 y devolución del aval",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se reciben definitivamente las obras de urbanización de la Unidad de Actuación Zona 6 del suelo urbano (con efectos del 18 de junio de 2020) y se devuelve a su Junta de Compensación el aval del Banco de Sabadell que las garantizaba.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación de la U.A. Zona 6 del Suelo Urbano de Yecla",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "recibe devolución de aval"
+        },
+        {
+          "nombre": "Banco de Sabadell, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "avalista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32977.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "458785C",
+      "lugar": "Unidad de Actuación Zona 6, suelo urbano",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para segregar dos parcelas de una finca rústica",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una vecina licencia para segregar dos parcelas (52.173 y 33.451 m²) de una finca rústica de unos 16,5 hectáreas en suelo no urbanizable, sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "70314J",
+      "lugar": "Polígono 66",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Franloher para dividir un solar en la Travesía Avenida de Córdoba",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Franloher, S.L. licencia para segregar una parcela de 225 m² de un solar de 450 m² sin edificar en suelo urbano Zona 6.",
+      "entidades": [
+        {
+          "nombre": "Franloher, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "345604F",
+      "lugar": "Travesía Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Denegada la devolución de una fianza por cables de alumbrado sin reponer",
+      "categoria": "licencia_obra",
+      "resumen": "Se niega a un vecino la devolución de la fianza de 563,82 € de una demolición porque los cables del alumbrado público siguen atados provisionalmente con cuerdas a las medianeras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 563.82,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "471442F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un ordenanza-telefonista para Servicios Sociales por el COVID-19",
+      "categoria": "personal",
+      "resumen": "Tras la selección, se contrata a una persona como ordenanza-telefonista de refuerzo del Centro de Servicios Sociales y se crea una bolsa de empleo con otros 14 aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470703E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de un trabajador social de refuerzo por el COVID-19",
+      "categoria": "personal",
+      "resumen": "Tras la selección, se contrata a un trabajador social de refuerzo para el Centro de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470702D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Jornada completa para la psicóloga del centro de víctimas de violencia de género",
+      "categoria": "personal",
+      "resumen": "Se amplía a 37,5 horas semanales, del 1 de julio de 2020 al 30 de junio de 2021, la jornada de la psicóloga del CAVI, para cumplir con la subvención regional de atención a mujeres víctimas de violencia de género.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "460644J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Cómo recuperarán los empleados las horas del permiso obligatorio del confinamiento",
+      "categoria": "personal",
+      "resumen": "Los empleados que tuvieron el permiso retribuido recuperable (30 de marzo a 9 de abril) recuperarán las horas antes de fin de año: hasta un 30% con cursos de formación y el resto con vacaciones, días de asuntos propios u horas de trabajo, según lo pactado en la Mesa General de Negociación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472154W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación de un sondeo para extraer agua potable por 351.060 euros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto, el gasto y la licitación por procedimiento abierto simplificado de las obras de un sondeo para extracción de agua potable, con presupuesto de 351.060,70 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 351060.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380943N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Stara Seguridad suministrará uniformes a la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de suministro de vestuario para la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Stara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16439.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472223Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "La terraza del bar 'A la Mesa' se traslada a la plaza Concejala Mª Carmen Lorente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza cambiar la terraza del bar de la calle Pío Baroja a la plaza Concejala Mª Carmen Lorente, en el sitio que marque la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Bar 'A la Mesa' (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471607K",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nueva terraza excepcional por el COVID-19 para 'La Lola'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m² de abril a octubre de 2020 en la calle Arcipreste Esteban Díaz, de forma excepcional para compensar la reducción de aforo por el COVID-19; ocupa zona azul, por lo que se avisa a la concesionaria Continental Parking.",
+      "entidades": [
+        {
+          "nombre": "La Lola (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Continental Parking, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria de la zona azul (notificada)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471603E",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Bolardos ante la fachada de un inmueble para evitar coches mal aparcados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Con informe favorable de la Policía Local, se aprueba poner bolardos ante la puerta de un inmueble porque los coches aparcan indebidamente desde que se pusieron bolardos en el edificio de enfrente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471899Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Denegado un espejo en una doble curva del camino de la Fuente Álamo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la petición de una vecina por informe desfavorable de la Policía Local: solo se ponen espejos en cruces con visibilidad nula y en caminos tortuosos pueden dar una falsa sensación de seguridad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "407395C",
+      "lugar": "Camino de la Fuente Álamo (polígono 129)",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "La Escuela Municipal de Verano se adapta al COVID-19: julio, 72 plazas",
+      "categoria": "servicios_actividades",
+      "resumen": "Se reorganiza la Escuela de Vacaciones de Verano 2020: del 1 al 31 de julio, 72 participantes, en el CEIP San José de Calasanz y el IESO Azorín, de 8:45 a 13:45. Gasto de 19.545 € y precios de 6 € la primera semana, 10 € las demás o 46 € todo el mes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19545.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "414204J",
+      "lugar": "CEIP San José de Calasanz; IESO José Martínez Ruiz 'Azorín'",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Baja de una vendedora en el puesto 69 del mercadillo de los miércoles",
+      "categoria": "patrimonio",
+      "resumen": "Se da de baja a petición propia a la titular del puesto nº 69 del mercadillo semanal junto al Mercado Central desde el 1 de julio; el puesto queda vacante y se le devolverá la fianza si no hay recibos pendientes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471845Q",
+      "lugar": "Mercadillo de los miércoles, junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Contratación de una agente de turismo para reabrir la Oficina de Turismo",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata de la bolsa a un agente de Desarrollo Local-Turismo para sustituir a la titular de baja por maternidad ante la reapertura de la Oficina de Turismo; si no hay nadie en la bolsa, se seleccionará vía SEF con las bases y el tribunal que se aprueban.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472463Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Guardias de la Brigada de Obras tras el fallecimiento de dos trabajadores",
+      "categoria": "personal",
+      "resumen": "Tras fallecer dos empleados de la Brigada de Obras, se asigna provisionalmente a un oficial de albañilería las guardias semanales de ocho horas con su plus de penosidad desde julio; la segunda designación queda sobre la mesa y se pide preparar un concurso de provisión.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470768W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Escuela Deportiva Municipal de Verano 2020 con plan anti-COVID",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar la Escuela Deportiva Municipal de Verano 2020 según el proyecto del Servicio de Deportes y el plan de prevención elaborado por la Inspectora de Sanidad municipal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472530R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Reabre el 1 de julio el Centro de Día de mayores dependientes",
+      "categoria": "servicios_actividades",
+      "resumen": "Cerrado desde el 16 de marzo por el COVID-19, el Centro de Día de mayores dependientes de la calle Doctor Grande Covián (44 plazas, convenio con el IMAS) reabre con atención presencial el 1 de julio según el plan de contingencia de la empresa gestora SACYR Social.",
+      "entidades": [
+        {
+          "nombre": "SACYR Social, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista del servicio"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472491N",
+      "lugar": "Calle Doctor Grande Covián (P.I. Las Teresas)",
+      "interes": 3
+    },
+    {
+      "ref": "10.5",
+      "titulo": "El AMPA del CEIP San José de Calasanz usará el colegio en julio para una escuela de verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar el colegio del 1 al 31 de julio (8:45 a 14:00) para la escuela de verano 'Arcoiris', con las medidas anti-COVID; se deniega agosto por falta de personal.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Arcoiris (promotora particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471807N",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "El AMPA del CEIP Giner de los Ríos usará el colegio en julio para una escuela de verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar el colegio del 1 al 31 de julio (9:00 a 13:45) para la escuela de verano 'El circo de las ideas', con medidas anti-COVID y seguro de responsabilidad civil.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "El circo de las ideas (promotora particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472469H",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "AFEDECO hará su escuela de verano en el CEIP El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO a usar el CEIP El Alba del 1 al 31 de julio por la mañana para su Escuela de Verano 2020, con medidas anti-COVID y seguro; se deniegan junio, agosto y las tardes por falta de personal.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación para la Formación y el Desarrollo Comunitario",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471853C",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Cáritas retoma el curso de tapicería para jóvenes aplazado por el COVID-19",
+      "categoria": "patrimonio",
+      "resumen": "Se cambian las fechas de cesión del Aula de Tapizado de la calle Castillarejos a Cáritas Interparroquial para su programa 'Nazaret' de empleo para jóvenes en riesgo de exclusión: del 24 de junio al 28 de septiembre de 2020.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Interparroquial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión de uso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "384462A",
+      "lugar": "Aula de Tapizado, calle Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Corte de la calle San José para una noche comercial por San Juan",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de los comercios de la calle, se autoriza excepcionalmente cortar al tráfico la calle San José (de la plaza de San Cayetano a la calle San Francisco) el 26 de junio de 21 a 24 h, para ayudar al comercio tras el confinamiento.",
+      "entidades": [
+        {
+          "nombre": "Comercios de la calle San José (representante particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472215E",
+      "lugar": "Calle San José, de la plaza de San Cayetano a la calle San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Condolencias por la muerte de un oficial metalúrgico municipal",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa sus condolencias a la familia de un empleado municipal con veinte años de servicio, recientemente fallecido, y agradece su trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472853Q",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

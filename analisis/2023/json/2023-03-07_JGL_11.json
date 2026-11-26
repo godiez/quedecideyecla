@@ -1,0 +1,1091 @@
+{
+  "doc": "2023-03-07_JGL_11",
+  "organo": "JGL",
+  "sesion": 11,
+  "fecha": "2023-03-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 45,
+  "resumen": "La Junta de Gobierno premia los anteproyectos para reformar el campo de fútbol de la Constitución (18.150 €) y adjudica por 73.919 € la reforma y ampliación del Centro de Estimulación Temprana. Saca a concurso el servicio de comidas a domicilio para mayores (95.276 €), la teleasistencia (37.939 €) y una ampliación de las cámaras de seguridad (34.508 €), y aprueba la versión definitiva del Plan de Emergencia ante la Sequía para enviarla a la Confederación Hidrográfica del Segura. Paga 89.543 € en facturas (luces de Navidad, cabalgata, casa de Papá Noel, cableado robado en el polideportivo) y una certificación de 65.086 € de la restauración de la Capilla de las Angustias.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 28 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: liquidación de cursos del SEF y reforestación de un monte municipal",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos liquidaciones de subvenciones del Servicio Regional de Empleo y Formación para los cursos 'Comercio electrónico' y 'Reparación de móviles', y de dos resoluciones de la Dirección General de Medio Natural sobre plantaciones forestales en el monte municipal 'Algezares y Castillarejos' (Campaña Reforesta 2022 y campaña municipal con la asociación ANIDA).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Asociación Naturalista para la Investigación y la Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "740679X",
+      "lugar": "Monte 'Algezares y Castillarejos'",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: luces de fiestas, cabalgata de Reyes, casa de Papá Noel y cableado robado",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: la casa de Papá Noel de Navidad 2022, carrozas y animación de la Cabalgata de Reyes 2023, el alumbrado de fiestas de la Virgen y Navidad, el musical 'Viaje a Oz' y la reposición del cableado robado en el Polideportivo Juan Palao.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Tencadís Produccions, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 89543.25,
+      "importes": [
+        {
+          "concepto": "Montaje y decoración de la Casa de Papá Noel, Navidad 2022",
+          "eur": 10890.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler de carrozas, animación y Reyes Magos, Cabalgata 2023",
+          "eur": 17908.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen y Navidad-Reyes (Yecla y Raspay), dic. 2022-ene. 2023",
+          "eur": 42498.23,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Musical 'Viaje a Oz' en el Teatro Concha Segura",
+          "eur": 6776.0,
+          "entidad": "Tencadís Produccions, S.L."
+        },
+        {
+          "concepto": "Reposición e instalación de cableado robado en el Complejo Polideportivo Juan Palao",
+          "eur": 11471.02,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "709753T, 714816A, 6786500W, 733162F, 733194A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación de taquilla del musical infantil 'Viaje a Oz'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del musical (2.268 € vendidos de 3.492 € de cargo) y la baja de las entradas no vendidas (1.224 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2268.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recaudación de taquilla del Baile de Carnaval 2023",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (6.240 € vendidos de 6.250 €) y la baja de entradas no vendidas (10 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Recaudación de taquilla de la Gala de Coronación de la Reina del Carnaval 2023",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (2.210 € vendidos de 2.910 €) y la baja de entradas no vendidas (700 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2210.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Recaudación de taquilla de la I Gala del Carnaval 2023",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (4.105 € vendidos de 4.190 €) y la baja de entradas no vendidas (85 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4105.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Recaudación de taquilla de la II Gala del Carnaval 2023",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (4.095 € vendidos de 4.190 €) y la baja de entradas no vendidas (95 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4095.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI de 2023 a 2027 por instalar placas solares (inversión superior a 6.000 €), con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735588A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nueva modificación del proyecto de una vivienda de Franloher, S.L.",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza otra modificación del proyecto de la vivienda unifamiliar entre medianeras con licencia 216/2021 de la promotora Franloher, S.L., y se entiende concedida la licencia con el proyecto modificado.",
+      "entidades": [
+        {
+          "nombre": "Franloher, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507617Z",
+      "lugar": "calle Sor Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de director de obra y reanudación de las obras de Jumapa 2000, S.L.",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la nueva directora de obra y coordinadora de seguridad de la licencia 112/2022 de Jumapa 2000, S.L. y se levanta la paralización de las obras.",
+      "entidades": [
+        {
+          "nombre": "Jumapa 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599474D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Curso de software de instalaciones para un arquitecto y un delineante municipales",
+      "categoria": "personal",
+      "resumen": "Se ordena al arquitecto municipal y a un auxiliar delineante hacer el curso CYPECAD MEP Nivel 0 en marzo y abril, en horario laboral.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740169N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Curso de ESADE para el jefe de los Servicios Técnicos, pagado por el Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se ordena al arquitecto jefe de los Servicios Técnicos Municipales hacer online el curso 'Dirección de proyectos complejos' de ESADE y el Ayuntamiento paga la inscripción de 2.500 €.",
+      "entidades": [
+        {
+          "nombre": "ESADE",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 2500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740764P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Excedencia por cuidado de hijo de una profesora de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se concede excedencia voluntaria para cuidar a un hijo menor de tres años del 17 de marzo al 16 de junio de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740835N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Se reconoce el nivel 26 a la directora del Centro de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se le reconoce el grado personal consolidado de nivel 26 desde el 6 de noviembre de 2022, con pago de atrasos, por haber ocupado dos años en comisión de servicios, tras proceso selectivo, un puesto de ese nivel en el Ayuntamiento de Molina de Segura.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Molina de Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723795X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Denegado el nivel 24 a una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se rechaza reconocerle el grado consolidado de nivel 24 por haber dirigido en comisión de servicios el Centro de Servicios Sociales, porque esas comisiones se dieron sin proceso selectivo de mérito y capacidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "720116M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Premios del concurso de ideas para reformar el campo de fútbol de la Constitución",
+      "categoria": "contrato",
+      "resumen": "Se otorgan los premios del concurso de anteproyectos para la reforma integral por fases del campo de fútbol de la Constitución: primero a Neten Consultoría, S.L.L.-García Guisado Arquitectura, S.C.P. ('Incandescente', 81 puntos, 12.100 €), segundo a dos particulares (3.630 €) y tercero a Eoniak I.G.P., S.L. (2.420 €).",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Eoniak I.G.P., S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 18150.0,
+      "importes": [
+        {
+          "concepto": "Primer premio, trabajo 'Incandescente: Lo material se vuelve luz'",
+          "eur": 12100.0,
+          "entidad": "Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P."
+        },
+        {
+          "concepto": "Segundo premio, trabajo 'Una nueva mirada'",
+          "eur": 3630.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Tercer premio, trabajo 'Curvarena'",
+          "eur": 2420.0,
+          "entidad": "Eoniak I.G.P., S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693958F",
+      "lugar": "Campo de fútbol de la Constitución",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Adjudicada la reforma y ampliación del Centro de Estimulación Temprana",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la obra a Construcciones y Promociones Molina Yago 2000, S.L., único licitador, por 73.918,90 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 73918.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698794Y",
+      "lugar": "Centro de Estimulación Temprana",
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Contratada la obra de teatro 'Bodas de sangre' para el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor a la Asociación Cultural Tablas Teatro por 10.220 € IVA incluido para representar 'Bodas de sangre'.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Tablas Teatro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10220.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722447Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Subasta para vender como chatarra los vehículos del depósito de la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a procedimiento abierto simplificado la venta para desguace de los vehículos depositados en la Jefatura de la Policía Local, con un precio base de 15.000 € sin IVA (ingreso para el Ayuntamiento).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 15000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738251Z",
+      "lugar": "Jefatura de la Policía Local",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Auditorio gratis para dos actos del Centro de Educación de Adultos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 26 de abril (Día del Libro) y el 21 de junio (revista 'El Reloj'), con reducción del 100% del precio público (120 € por uso).",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Personas Adultas de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738567N",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Auditorio gratis para la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio el 22 y el 28 de abril para presentar el cartel, la revista y el programa de las Fiestas de San Isidro y entregar el premio San Isidro, con reducción del 100% del precio (120 € por uso).",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro Labrador de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738998M",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio para un acto del Partido Popular, pagando el precio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Partido Popular de Yecla a usar el Auditorio el 9 de marzo para un acto de partido, previo pago del precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Partido Popular de Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide permiso / paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736730M",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Sala del Centro de Emprendimiento para un taller de Amites Yecla ONG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la sala el 25 de marzo para el taller psicoeducativo 'Aprender a afrontar los procesos de pérdida'.",
+      "entidades": [
+        {
+          "nombre": "Amites Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740857T",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la sala cuatro tardes de marzo y abril para reuniones de padres y socios y su asamblea.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741357N",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Sala del Centro de Emprendimiento para el programa de empleo '100x100 Actívate'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones a la Subdirección General de Empleo de lunes a viernes por la mañana del 20 de marzo al 30 de junio para el programa '100x100 Actívate'.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741587H",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Salón del Centro de Desarrollo Local para una asamblea de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 16 de marzo para una asamblea informativa de los socios de la organización agraria COAG-Yecla.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia (COAG-Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740864D",
+      "lugar": "Centro de Desarrollo Local, Pol. Ind. Urbayecla II",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Boda civil en la Casa Consistorial (6 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738533Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Salón de Plenos para una reunión de la Comunidad de Regantes del Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos el 9 de marzo por la tarde.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes del Lentiscar de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741268P",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Versión definitiva del Plan de Emergencia ante la Sequía",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la versión definitiva (febrero 2023) del Plan de Emergencia municipal ante situaciones de sequía, obligatorio para municipios de más de 20.000 habitantes, con los cambios pedidos por la Oficina de Planificación Hidrológica, y se le envía antes de la aprobación final.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura (Oficina de Planificación Hidrológica)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "280097Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Cambios en el convenio de salud mental con el Servicio Murciano de Salud (50.000 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se modifica el convenio aprobado en noviembre de 2022 por el que el Servicio Murciano de Salud aporta 50.000 € al Ayuntamiento para acciones de prevención, inserción laboral y apoyo a personas con trastorno mental grave o adicciones; los cambios afectan a compromisos, comisión de seguimiento y protección del menor.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 50000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "699728W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide permiso para hacer fuego en el Cerrico de la Fuente en San Isidro y San Marcos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se solicita a la Dirección General del Medio Natural permiso para encender fuego en explanadas sin vegetación del área recreativa los días 16 y 23 de abril (gachasmigas y paellas de San Isidro y la Romería de San Marcos, más de mil personas), avisando a Protección Civil, Cruz Roja y Bomberos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740447Z",
+      "lugar": "Área recreativa del Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Pago de la factura de Correos de febrero",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la factura de febrero de 2023 de Correos.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6989.13,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "282726A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Certificación de obra de la restauración de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 9 de la restauración de la Capilla de las Angustias de la Iglesia de San Francisco a favor de la U.T.E. Zima, S.L.-Pegiro, S.L.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 65086.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco, Capilla de las Angustias",
+      "interes": 3
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Cambio de titular de una licencia de vivienda en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia 139/2005 de una vivienda unifamiliar aislada pasa a nuevos promotores particulares; las obras no podrán reanudarse hasta que se nombre nueva dirección de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740078M",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Bolsa de empleo urgente de técnicos de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Como la bolsa de 2016 está casi agotada, se crea una bolsa provisional mediante oferta al SEF para cubrir bajas en las Escuelas Infantiles hasta que termine el concurso-oposición de cuatro plazas fijas, y se nombra el tribunal.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736870F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Excedencia de un agente de la Policía Local que se va al Ayuntamiento de Murcia",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria desde el 13 de marzo a un agente que ha ganado plaza en la Policía Local de Murcia, condicionada a su toma de posesión.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "742074J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Licitación del servicio de teleasistencia domiciliaria",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado la teleasistencia domiciliaria durante dos años, con 18.969,90 € al año (IVA incluido); gasto previsto de 11.600 € en 2023, 18.969,60 € en 2024 y 7.369,60 € en 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 37939.2,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 11600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 18969.6,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 7369.6,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738332M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Licitación del servicio de comidas a domicilio para mayores y dependientes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto el servicio de comidas para personas mayores o dependientes durante dos años, con 47.637,97 € al año (IVA incluido); gasto de 31.758,65 € en 2023, 47.637,97 € en 2024 y 15.879,32 € en 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 95275.94,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 31758.65,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 47637.97,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 15879.32,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719486M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Licitación de la fase II de ampliación de las cámaras de seguridad ciudadana",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado el suministro e instalación de elementos para ampliar el sistema de seguridad ciudadana (fase II), con precio base de 34.508,35 € IVA incluido; el pliego técnico lo redacta un ingeniero de Materiales de Comunicación, S.L.",
+      "entidades": [
+        {
+          "nombre": "Materiales de Comunicación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta el pliego técnico"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34508.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SU.1/23",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Prórroga de un año de la Escuela de Vacaciones (actividades y limpieza)",
+      "categoria": "contrato",
+      "resumen": "Se prorroga del 26 de junio de 2023 al 25 de junio de 2024 (única prórroga posible) el contrato de la Escuela Municipal de Vacaciones con Recursos y Apoyo Técnico, S.L. (lote 1) y el de limpieza de sus instalaciones con un particular (lote 2). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Recursos y Apoyo Técnico, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508675T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Proyecto de restauración de zonas húmedas en Celadillas y la depuradora",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Neten Consultoría, S.L. un contrato menor de 14.876,95 € para redactar el proyecto de restauración paisajística y recuperación de zonas húmedas y hábitats en Celadillas y la EDAR.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14876.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740175X",
+      "lugar": "Celadillas; E.D.A.R.",
+      "interes": 2
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Prórroga por cuatro años del convenio del teléfono de emergencias 112",
+      "categoria": "convenio",
+      "resumen": "Se comunica a la Dirección General de Seguridad Ciudadana la conformidad con prorrogar cuatro años el convenio de integración en el servicio 112-Región de Murcia, que vencía el 2 de mayo de 2023.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "742290J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Banderolas de la Feria del Mueble en las farolas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Feria Regional del Mueble a colgar banderolas publicitarias en las farolas de la plaza del Industrial del Mueble del 1 de marzo al 11 de junio, con fianza de 300 €.",
+      "entidades": [
+        {
+          "nombre": "Feria Regional del Mueble e Industrias Afines de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "739939T",
+      "lugar": "Plaza del Industrial del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "11.13",
+      "titulo": "Boda civil en la Casa Consistorial (10 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Plenos para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741617Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.14",
+      "titulo": "Arco hinchable para una carrera del CEIP El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede y monta un arco hinchable municipal para una carrera en el colegio el 10 de marzo.",
+      "entidades": [
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741595T",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "11.15",
+      "titulo": "Ayuda a domicilio concedida de oficio a un vecino",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede de oficio el servicio de ayuda a domicilio a una persona según informe de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741352F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.16",
+      "titulo": "Circo 'Encantado': se corrige el aforo y debe pedir permiso a la CARM",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrige el acuerdo del 28 de febrero: el circo de Arte y Circo, S.L. junto a la antigua estación de ferrocarril (6-19 de marzo) tiene más de 150 plazas, así que debe pedir autorización a la Comunidad Autónoma; el Ayuntamiento aprueba su informe de viabilidad y exige fianza de 900 €.",
+      "entidades": [
+        {
+          "nombre": "Arte y Circo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 900.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735550Y",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 1
+    },
+    {
+      "ref": "11.17",
+      "titulo": "Apoyo municipal a la marcha BTT Komokabras del Club Ciclista Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con la XV marcha BTT Komokabras del 12 de marzo (salida en la calle Salzillo), con gastos municipales de 314,60 € e instalaciones gratis valoradas en 1.147 €, con numerosas condiciones de seguridad y medio ambiente.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autoriza la prueba"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1461.6,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 314.6,
+          "entidad": "Club Ciclista Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 1147.0,
+          "entidad": "Club Ciclista Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725298J",
+      "lugar": "calle Salzillo (CEIP Miguel Ortuño) y recorrido BTT",
+      "interes": 1
+    },
+    {
+      "ref": "11.18",
+      "titulo": "Apoyo municipal a la final regional de atletismo sub14 y sub16",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la FAMU la final regional del 11 de marzo en la pista Juan Palao, con gastos municipales de 314,60 € e instalaciones gratis valoradas en 340,50 €; se advierte al club que en el futuro respete los plazos de solicitud.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 655.1,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 314.6,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 340.5,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "728761T",
+      "lugar": "Pista de atletismo, Complejo Juan Palao Azorín",
+      "interes": 1
+    }
+  ]
+}

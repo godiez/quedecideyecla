@@ -1,0 +1,1032 @@
+{
+  "doc": "2024-04-16_JGL_17",
+  "organo": "JGL",
+  "sesion": 17,
+  "fecha": "2024-04-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 54,
+  "resumen": "La Junta de Gobierno paga 85.591 euros en facturas (centro de día de mayores, seguro, ciberseguridad, grúa y el proyecto de Casa Los Arcos) y firma un convenio con el Yecla Club de Tenis para el II Open Internacional Femenino, con hasta 7.000 euros. McDonald's obtiene licencias para la luz y la telefonía de un restaurante con recarga eléctrica, y se apoya convertir la Casa del Guarda del Monte Arabí en museo. Además se repite la licitación de fotocopiadoras por un error en el pliego, se hacen fijas tres trabajadoras y se preparan las Fiestas de San Isidro.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: centro de día, ciberseguridad, seguro, proyecto Casa Los Arcos y grúa",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: el Centro de Día de mayores dependientes de marzo, el soporte de ciberseguridad Fortinet, el seguro de responsabilidad civil, la redacción del proyecto de rehabilitación de Casa Los Arcos y el servicio de grúa de marzo.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nextret Ciberseguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mapfre España, Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 85590.67,
+      "importes": [
+        {
+          "concepto": "Servicio de Centro de Día para personas mayores dependientes, marzo 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Soporte de Fortinet 2024 (ciberseguridad)",
+          "eur": 9096.57,
+          "entidad": "Nextret Ciberseguridad, S.L."
+        },
+        {
+          "concepto": "Póliza de seguro de responsabilidad civil/patrimonial",
+          "eur": 10709.5,
+          "entidad": "Mapfre España, Compañía de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Redacción del proyecto de rehabilitación de Casa Los Arcos",
+          "eur": 10285.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos (grúa municipal), marzo 2024",
+          "eur": 11325.6,
+          "entidad": "Grúas Los Raspas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P, 853708F, 908618W, 682914R, 697847H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Denegada rebaja en el recibo del agua a una familia monoparental",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la bonificación en la tarifa del agua por familia monoparental, porque la ordenanza solo la prevé para familias numerosas. El Ayuntamiento estudiará cambiar la ordenanza para años futuros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "869349E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para construir una vivienda aislada en el paraje El Factor",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) para una vivienda unifamiliar aislada. Para empezar la obra hará falta el proyecto de ejecución; al no tener red de agua, deberá acreditar suministro por cisterna autorizado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672226Y",
+      "lugar": "paraje El Factor",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para construir una vivienda aislada en el paraje La Maneta",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para una vivienda unifamiliar aislada, con condiciones sobre vertidos, aljibes y ahorro de agua, y plazos de 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799607Q",
+      "lugar": "paraje La Maneta",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "McDonald's: licencia para una línea eléctrica subterránea de media tensión",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Restaurantes McDonald's licencia para una línea subterránea de media tensión que dará luz a un restaurante y a un punto de recarga de coches eléctricos, con fianza de 112 € para reponer aceras y calzadas.",
+      "entidades": [
+        {
+          "nombre": "Restaurantes McDonald's, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 112.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875994J",
+      "lugar": "polígono 46, parcela 292",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "McDonald's: licencia para un centro de transformación eléctrica",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Restaurantes McDonald's licencia para un centro de transformación de 250 kVA para el futuro restaurante y punto de recarga; deberá legalizar después la actividad.",
+      "entidades": [
+        {
+          "nombre": "Restaurantes McDonald's, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876087N",
+      "lugar": "polígono 46, parcela 292",
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Interés público para restaurar humedales junto a la depuradora (Las Celadillas)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor de declarar de interés público el proyecto municipal de restauración paisajística y recuperación de zonas húmedas para flora y fauna junto a la balsa de la depuradora (EDAR), en suelo no urbanizable. Lo autoriza la Consejería de Fomento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "875709N",
+      "lugar": "paraje Las Celadillas / Las Teresas (polígono 46, parcela 297)",
+      "interes": 2
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Interés público para convertir la Casa del Guarda del Monte Arabí en museo",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor de declarar de interés público las obras de acondicionamiento y cambio de uso de la Casa del Guarda del Monte Arabí para su futura musealización. Lo autoriza la Consejería de Fomento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "875751X",
+      "lugar": "Monte Arabí (polígono 5, parcela 3)",
+      "interes": 3
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Corrección de una licencia de parcelación en Avenida de la Paz y calle Tejeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige, a petición de la empresa, la licencia de 2023 para segregar una parcela de 1.427 m² de una finca de 6.940 m² con fachada a calle Tejeras, por un error en los linderos.",
+      "entidades": [
+        {
+          "nombre": "Mecod Proyecta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "844867C",
+      "lugar": "Avenida de la Paz y calle Tejeras (Suelo Urbano Zona 5)",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Sustitución temporal de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de Educación Infantil (20 h/semana) para sustituir a una trabajadora de baja (apoyo en la Escuela Infantil El Parque).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912042A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Sustitución temporal de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de Educación Infantil (30 h/semana) para sustituir a una trabajadora de baja (tutoría en la Escuela Infantil Perro Loco).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912019T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Sustitución temporal de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de Educación Infantil (30 h/semana) para sustituir a una trabajadora de baja (tutoría en la Escuela Infantil El Parque).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912034P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Contrato de sustitución de conserje-operario para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un conserje-operario para la plaza vacante de la Universidad Popular hasta que se cubra en propiedad (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "913085Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Nombramiento interino de un auxiliar administrativo para Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra a un auxiliar administrativo interino para Recaudación, porque las dos plazas están sin cubrir; si la bolsa no da candidato se acudirá a las listas de la Comunidad Autónoma.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "913934D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Dos limpiadoras pasan a ser fijas y se crea bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Dentro del proceso de estabilización de empleo temporal, se contrata como personal laboral fijo a las dos aspirantes que aprobaron (plazas de limpiador/a) y se crea una bolsa de empleo con 21 aspirantes, vigente al menos hasta 2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877005N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Una conserje-operaria pasa a ser fija (estabilización de empleo)",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo en la plaza de conserje-operario a la única aspirante que superó el proceso de estabilización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868587X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Bolsa de empleo de auxiliar-inspector de obras y rechazo de tres recursos",
+      "categoria": "personal",
+      "resumen": "Se rechazan los recursos de tres aspirantes que pedían más puntos por méritos y se aprueba una bolsa subsidiaria de 11 aspirantes para auxiliar-inspector de obras, vigente hasta finales de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832791E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Se extinguen las antiguas bolsas de conserjes-operarios",
+      "categoria": "personal",
+      "resumen": "Se declaran extinguidas las bolsas de empleo de conserjes-operarios de 2010, 2020 y 2021, al haberse aprobado una nueva el 9 de abril.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465248D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Plan de empleo 2024: contratación de un conserje joven para Juventud",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan de Promoción e Inserción Social a través del Empleo 2024 (jóvenes menores de 30 años) se contrata a un conserje-operario para el Servicio de Juventud y se crea una bolsa de reserva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "906501E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Viaje de la técnica de Juventud a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la técnica de Juventud asistir en Murcia a la presentación del III Plan de Formación de la Dirección General de Juventud, con gastos de viaje a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "887060D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Viaje de la psicóloga de Servicios Sociales a una reunión de centros CAVI",
+      "categoria": "personal",
+      "resumen": "Se ordena a la psicóloga de Servicios Sociales asistir en Murcia a la reunión de psicólogas de los centros de atención a víctimas de violencia de género (CAVI), con gastos a cargo municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911099Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Viaje de una trabajadora social a una reunión del Programa BÁSICO",
+      "categoria": "personal",
+      "resumen": "Se aprueba que una trabajadora social asista en Murcia a una reunión sobre los criterios del programa europeo de asistencia material básica (FSE+), con gastos a cargo municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912820F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.14",
+      "titulo": "Un policía local podrá hacer un curso de reconstrucción de accidentes",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir a un curso de investigación y reconstrucción de accidentes de tráfico en Murcia (mayo-junio), con las condiciones habituales (máx. 40 h y 40 € al año).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914315H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.15",
+      "titulo": "Una policía local podrá hacer un curso de reconstrucción de accidentes",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir al mismo curso de investigación y reconstrucción de accidentes de tráfico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911262R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.16",
+      "titulo": "Renuncia de una auxiliar administrativa interina de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una auxiliar administrativa interina de Recaudación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "914228M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se anula la licitación de fotocopiadoras por un error en el pliego",
+      "categoria": "contrato",
+      "resumen": "Se desiste del concurso de 2023 para suministrar y mantener máquinas multifunción porque la fórmula del pliego no se podía aplicar sin interpretaciones; seis empresas habían presentado ofertas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820678F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nueva licitación de 4 fotocopiadoras y su mantenimiento por 4 años",
+      "categoria": "contrato",
+      "resumen": "Se aprueba de nuevo el contrato mixto de suministro de 4 máquinas multifunción y mantenimiento de las Toshiba, Kyocera y Ricoh (valor estimado 49.167,49 €, 4 años, 4 lotes) y un gasto de 23.953,13 € en 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 49167.49,
+      "importes": [
+        {
+          "concepto": "Lote 1: mantenimiento máquinas Toshiba (anual)",
+          "eur": 1215.57,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: mantenimiento máquinas Kyocera (anual)",
+          "eur": 3490.49,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: mantenimiento máquinas Ricoh (anual)",
+          "eur": 3850.75,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: suministro de 4 máquinas y mantenimiento",
+          "eur": 20473.44,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876288R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Adjudicado el bar de las Fiestas de San Isidro 2024 por 4.650 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el servicio de bar de las Fiestas de San Isidro; el adjudicatario paga al Ayuntamiento 4.650 € y deja una garantía de 500 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 4650.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890006W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Mesa de la AYAC en el mercadillo para recaudar fondos (8 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto en el mercadillo del Parque de la Constitución el 8 de mayo, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "909236D",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Mesa de la AYAC en el mercadillo para recaudar fondos (15 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Misma autorización a la AYAC para el 15 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "909231X",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano para el establecimiento Kame House",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 13 m² del establecimiento Kame House.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "907416A",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano para el Bar Gran Zona",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de 12 m² del Bar Gran Zona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "908841E",
+      "lugar": "calle San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Atracciones y puestos de feria para las Fiestas de San Isidro 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a 15 feriantes a montar atracciones y puestos (coches de choque, tren de la bruja, camas elásticas, hinchables, churrería, hamburguesería, etc.), condicionado a un certificado técnico de montaje y seguridad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749134P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Paseo a caballo por las calles de la Peña Amigos del Caballo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña Amigos del Caballo un recorrido con caballos por la ciudad el 20 de abril, con la obligación de recoger los excrementos.",
+      "entidades": [
+        {
+          "nombre": "Asociación Peña Amigos del Caballo de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914536P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Actividad de pintura efímera de la Escuela de Bellas Artes en el parque de la Feria",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Pintura Efímera' de la Escuela Municipal de Bellas Artes en el parque de la Avenida de la Feria, del 1 de mayo al 15 de junio.",
+      "entidades": [
+        {
+          "nombre": "Escuela Municipal de Bellas Artes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767340A",
+      "lugar": "Parque de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Denegada petición de vecinos para cambiar el tráfico en calle Caudete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega lo que pedía una comunidad de propietarios sobre el tráfico en calle Caudete: la Policía Local cree que ya se tomaron medidas contra camiones y que permitir el paso solo a residentes confundiría al resto.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios de un edificio",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "899199N",
+      "lugar": "calle Caudete",
+      "interes": 2
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Horquillas de protección para peatones en calle Águilas con Lepanto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se instalarán provisionalmente horquillas amarillas de acero en el cruce de calle Águilas con Lepanto para proteger a los peatones de choques de vehículos, hasta la ampliación prevista de la calle.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "897202P",
+      "lugar": "calle Águilas con calle Lepanto",
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Aplazada la petición de Mercadona de cambiar el horario de carga y descarga",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la solicitud de Mercadona para cambiar el horario de su reserva de carga y descarga en Avenida Literato Azorín.",
+      "entidades": [
+        {
+          "nombre": "Mercadona, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "845282D",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de actos del Edificio Bioclimático para presentar una novela",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático el 23 de mayo para la presentación de la novela 'El hombre sin rostro'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914711H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Aulas del Edificio Bioclimático para cursos agrarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden aulas a COAG-Murcia en abril y mayo para cursos a agricultores de manejo seguro del tractor y de agricultura ecológica avanzada, con un proyector.",
+      "entidades": [
+        {
+          "nombre": "COAG-Murcia (Coordinadora de Organizaciones de Agricultores y Ganaderos)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914736R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Cambio de fecha del Auditorio para la coral del Centro de Mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia del 13 al 11 de junio el uso del Auditorio Juan Miguel Benedito por el Centro Social de Personas Mayores (IMAS) para su coral y muestra de fin de curso.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891330J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Denegado un puesto de frutas y verduras en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a un vecino el único puesto libre (6L, antes carnicería) para vender fruta y verdura, porque ya hay dos puestos de ese tipo y se quiere mantener la variedad del mercado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "824024D",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convenio con el Yecla Club de Tenis para el II Open Internacional Femenino",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba organizar con el Yecla Club de Tenis el II Open Internacional de Tenis Femenino 'Ciudad de Yecla' W35 (28 abril-5 mayo, torneo ITF de 25.000 $). El Ayuntamiento aporta hasta 7.000 € en dinero y recursos estimados en 12.000 €.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [
+        {
+          "concepto": "Aportación económica municipal máxima",
+          "eur": 7000.0,
+          "entidad": "Yecla Club de Tenis"
+        },
+        {
+          "concepto": "Recursos municipales aportados (valor estimado)",
+          "eur": 12000.0,
+          "entidad": "Yecla Club de Tenis"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877593E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "McDonald's: permiso para abrir zanja en un camino público para telefonía",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Restaurantes McDonald's a abrir una zanja en el camino público CRA-2 para la conducción de telefonía, con fianza de 300 € para reponer el firme.",
+      "entidades": [
+        {
+          "nombre": "Restaurantes McDonald's, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "897677Z",
+      "lugar": "camino CRA-2, junto a polígono 46, parcela 292",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Prácticas no remuneradas de una estudiante de la UNED en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una estudiante de Educación Social de la UNED a hacer 120 horas de prácticas sin remuneración en el Centro de Servicios Sociales en abril y mayo.",
+      "entidades": [
+        {
+          "nombre": "Universidad Nacional de Educación a Distancia (UNED), centro de Elche",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "912377Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "904435K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911032Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Curso en Murcia para tres trabajadoras de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena a tres trabajadoras de la Agencia de Desarrollo Local hacer un curso sobre gestión de fondos europeos del Plan de Recuperación (PRTR) y plan antifraude, con gastos a cargo municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "915201N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Cambio de sitio del puesto del auxiliar-inspector de Servicios Públicos",
+      "categoria": "personal",
+      "resumen": "Urgente: el puesto del auxiliar de Servicios Públicos-inspector vuelve a su ubicación original, entre el despacho del jefe de Servicios Públicos y los inspectores de obras.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "915747X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Mesa informativa de la Asociación de Fibromialgia en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Asociación de Fibromialgia de Yecla un puesto informativo en el mercadillo del Parque de la Constitución el 24 de abril, Día Internacional de la Fibromialgia.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "913081T",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Terraza de verano para el Borneo Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza la terraza de verano de 12 m² del establecimiento Borneo Café.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "914757X",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Exhibición de la Policía Nacional en la Plaza de Toros por su bicentenario",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Jefatura Superior de Policía de Murcia una exhibición de medios policiales para escolares en la Plaza de Toros el 23 de abril, por el bicentenario de la Policía Nacional.",
+      "entidades": [
+        {
+          "nombre": "Jefatura Superior de Policía de la Región de Murcia (Policía Nacional)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911783Q",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Pabellón gratis para la Copa Albatros 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Urgente: se autoriza a la Asociación Deportiva Albatros Yecla a celebrar la Copa Albatros el 20 de abril en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación (valorado en 386,80 €) y apoyo municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 386.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "897943T",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Horario especial del Mercado de San Cayetano el 30 de abril",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: el Mercado de San Cayetano abrirá el 30 de abril de 17:30 a 21:30; la empresa de limpieza T.S.I. Levante prestará servicio extra de conserjería y limpieza.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "915926W",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    }
+  ]
+}

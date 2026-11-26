@@ -1,0 +1,74 @@
+{
+  "doc": "2026-06-19_PLENO_10",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Ausente una concejala del PSOE (excusada al final del acta).",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 6,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Por unanimidad se ratifica la urgencia de la convocatoria."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 6,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos"
+    }
+  ]
+}

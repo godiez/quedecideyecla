@@ -1,0 +1,100 @@
+{
+  "doc": "2024-07-19_JGL_35",
+  "organo": "JGL",
+  "sesion": 35,
+  "fecha": "2024-07-19",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 4,
+  "resumen": "Sesión urgente de la Junta de Gobierno. Se aprueba definitivamente el cambio del proyecto de urbanización del sector Los Rosales (SUPR-6). Se abre el contrato de 114.950 euros, con fondos europeos Next Generation, para redactar y dirigir la obra que convertirá el edificio de Cazadores en centro multifuncional, invitando solo al equipo que ganó el concurso de ideas. Y se pide ayuda a la Comunidad Autónoma para arreglar los accesos al Camino Casa Faldeta (48.390 euros).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma que la sesión se convoca con carácter urgente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "958859Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aprobación definitiva del cambio del proyecto de urbanización de Los Rosales",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba definitivamente la modificación del proyecto de urbanización del sector SUPR-6 'Los Rosales', presentada por su Junta de Compensación, en los mismos términos que la aprobación inicial de 21 de marzo de 2024. No hubo alegaciones en la información pública. Se publicará en el BORM y se notificará a los propietarios.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610804P",
+      "lugar": "Sector SUPR-6 'Los Rosales'",
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Contrato del proyecto y dirección de obra del edificio de Cazadores (114.950 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y el gasto de 114.950 euros para contratar la redacción del proyecto, la dirección facultativa y la coordinación de seguridad y salud de la rehabilitación del edificio de 'Cazadores' como centro multifuncional (ocio, cultura y promoción económica), dentro del programa PIREP con fondos europeos Next Generation. Es un procedimiento negociado sin publicidad: solo se invita al equipo que ganó en 2022 el concurso de anteproyectos.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "invitada como licitador único"
+        },
+        {
+          "nombre": "García Guisado Arquitectura, S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "invitada como licitador único"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU, programa PIREP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 114950.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854499E",
+      "lugar": "Edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Petición de ayuda a la CARM para arreglar los accesos al Camino Casa Faldeta",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba la memoria valorada de las obras de acondicionamiento de los accesos al camino rural CRA-39 'Camino Casa Faldeta' (desde el polígono Urbayecla y desde el Camino de las Lenceras), por 48.390,04 euros, y se pide a la Dirección General del Agua de la Comunidad Autónoma que colabore en su ejecución. El camino está en mal estado y da acceso a muchas viviendas rurales.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Agua (Consejería de Agua, Agricultura, Ganadería y Pesca, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide ayuda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48390.04,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951329Q",
+      "lugar": "Camino rural CRA-39 'Camino Casa Faldeta', accesos desde el polígono Urbayecla y el CRA-45 'Camino de las Lenceras por la Fuente Álamo'",
+      "interes": 2
+    }
+  ]
+}

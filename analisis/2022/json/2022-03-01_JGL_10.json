@@ -1,0 +1,862 @@
+{
+  "doc": "2022-03-01_JGL_10",
+  "organo": "JGL",
+  "sesion": 10,
+  "fecha": "2022-03-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 31,
+  "resumen": "La Junta de Gobierno licita por 1,13 millones de euros la restauración de la Capilla de la Virgen de las Angustias en la iglesia de San Francisco y paga 88.000 euros en facturas de deporte y alumbrado de fiestas. Informa a favor del interés público para ampliar un almacén de Maderas del Sureste en suelo no urbanizable y fija criterios para los edificios 'fuera de ordenación'. También contrata el concierto de Pasión Vega, prepara una corrida de toros, aprueba Música en la Cuaresma y exime del IBI a la Cofradía de la Esperanza.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 22 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de zonas de bajas emisiones, Plan de Obras y reintegro de una subvención",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución provisional de ayudas estatales para zonas de bajas emisiones y transporte urbano sostenible, del Plan de Cooperación a las Obras y Servicios 2022-2023, del inicio de un reintegro parcial de una subvención regional de apoyo a familias y conciliación (2016), del pago de 18.720 euros del SEF por un curso de tapizado y de una invitación a una jornada sobre buen gobierno.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Transportes y Movilidad (Ministerio)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias y Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18720.0,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "591990J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: actividades deportivas y socorrismo, y alumbrado de fiestas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar dos mensualidades (diciembre y enero) del contrato de actividades deportivas y socorrismo y el segundo plazo del alumbrado ornamental de Fiestas de la Virgen, Navidad y Reyes.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 88221.36,
+      "importes": [
+        {
+          "concepto": "Actividades deportivas y socorrismo, diciembre 2021",
+          "eur": 26263.56,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, enero 2022",
+          "eur": 27127.21,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen, Navidad y Reyes 2021-22, 2º plazo",
+          "eur": 34830.59,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470771Z, 546961T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación final de la reurbanización de la calle Rambla",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación final de la obra de reurbanización de la calle Rambla (POS 2020), a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12524.27,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501950D",
+      "lugar": "calle Rambla",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'La llave mágica' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (1.650 euros) y se dan de baja las entradas no vendidas (2.160 euros) del espectáculo del 12 de febrero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1650.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590652A",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo 'Únic@s' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (1.014 euros) y se dan de baja las entradas no vendidas (891 euros) del espectáculo del 16 de febrero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1014.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591236M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "La Cofradía de la Esperanza queda exenta del IBI de su local",
+      "categoria": "fiscal",
+      "resumen": "Se reconoce a la Cofradía de Nuestra Señora de la Esperanza, como entidad religiosa sin ánimo de lucro (Ley 49/2002), la exención del IBI de su inmueble de la calle San Ramón a partir de 2023.",
+      "entidades": [
+        {
+          "nombre": "Cofradía de Nuestra Señora de la Esperanza",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "592532M",
+      "lugar": "calle San Ramón",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Modificación de licencia de vivienda aislada en Serratillas / La Cañadilla",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una vecina modificar el proyecto de su vivienda unifamiliar aislada, con licencia de 2018, y se mantiene la licencia con el proyecto modificado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "92414D",
+      "lugar": "Paraje Serratillas / La Cañadilla (polígono 130)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Fama Sofás modifica el proyecto de su nave en Las Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Fama Sofás modificar el proyecto de la nave industrial que tiene licenciada desde 2020 en suelo no urbanizable, en el paraje Las Artesillas / Las Teresas.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477356W",
+      "lugar": "Paraje Las Artesillas / Las Teresas (SNU)",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Esenzia Dormire modifica la ampliación de su nave en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Esenzia Dormire modificar el proyecto de ampliación de su nave industrial en la carretera de Villena (RM-425, km 6), paraje Herrada del Manco.",
+      "entidades": [
+        {
+          "nombre": "Esenzia Dormire, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508808D",
+      "lugar": "Ctra. de Villena RM-425 km 6, Paraje Herrada del Manco (polígono 42)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para vivienda aislada en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia, con proyecto básico, para construir una vivienda unifamiliar aislada; para empezar las obras deberán presentar el proyecto de ejecución y acreditar la agrupación de parcelas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525615X",
+      "lugar": "Paraje La Pujola (polígono 113)",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para vivienda aislada en Los Clérigos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para construir una vivienda unifamiliar aislada, con condiciones de saneamiento (fosa séptica) y agua potable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544695X",
+      "lugar": "Paraje Los Clérigos (polígono 130)",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Aplazada la licencia de una comunidad de propietarios en la calle Miguel Ortuño",
+      "categoria": "licencia_obra",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la solicitud de licencia urbanística de una comunidad de propietarios.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios Miguel Ortuño, 32",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "579679K",
+      "lugar": "calle Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Interés público para ampliar el almacén de Maderas del Sureste en la carretera de Valencia",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Tras la información pública sin alegaciones, se informa a favor del interés público de la ampliación de un cobertizo-almacén de madera en suelo no urbanizable y se envía a la Consejería de Fomento para que lo autorice.",
+      "entidades": [
+        {
+          "nombre": "Almacén Maderas del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501567X",
+      "lugar": "Ctra. de Valencia km 3,5 (SNU)",
+      "interes": 3
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Criterios para considerar edificios 'fuera de ordenación' o 'fuera de norma'",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Como el Plan General vigente no lo regula, se adoptan como criterios orientativos los del nuevo Plan General en tramitación (aprobado inicialmente en 2017) para los informes sobre edificios fuera de ordenación o de norma. Los informes que se aparten deberán motivarse y firmarlos dos técnicos. Se publicará en la web.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591488M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Aplazado el nombramiento de un arquitecto interino",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa el nombramiento de un arquitecto superior interino porque el arquitecto municipal se ha reincorporado.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "578924M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Un agente de Policía Local pasa a segunda actividad por edad",
+      "categoria": "personal",
+      "resumen": "Se aprueba el pase a segunda actividad, con destino en Atención al Ciudadano, de un agente que ha cumplido 59 años; mantiene sus retribuciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580003K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Otro agente de Policía Local pasa a segunda actividad por edad",
+      "categoria": "personal",
+      "resumen": "Se aprueba el pase a segunda actividad, con destino en Atención al Ciudadano, de otro agente que cumplirá 59 años en abril; mantiene sus retribuciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580006P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Calendario laboral 2022 de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario laboral de 2022 del personal de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "Universidad Popular de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591219N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Se licita la restauración de la Capilla de las Angustias de San Francisco por 1,13 millones",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y el expediente de contratación, por procedimiento abierto simplificado, de las obras de restauración de la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco, con un presupuesto de 1.134.004,03 euros (IVA incluido), y se designan los técnicos municipales responsables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1134004.03,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato menor para organizar una corrida de toros en abril",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las condiciones y un gasto de 7.000 euros para contratar la organización de una corrida de toros en abril de 2022; se pedirán ofertas a empresas hasta el 10 de marzo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586235Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Mantenimiento de ascensores municipales 2022 para Zardoya Otis",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Zardoya Otis el contrato menor de mantenimiento de los ascensores municipales de 2022.",
+      "entidades": [
+        {
+          "nombre": "Zardoya Otis, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6584.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "589932A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Suministro de tóner 2022 para Seinsol",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Seinsol el contrato menor de suministro de tóner para 2022.",
+      "entidades": [
+        {
+          "nombre": "Seinsol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6110.51,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586002R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Caldera nueva para el Hogar de la Tercera Edad de Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Calfrica Servicios el contrato menor de instalación de una caldera de 50 kW en el Hogar de la Tercera Edad Herratillas.",
+      "entidades": [
+        {
+          "nombre": "Calfrica Servicios, S.C.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7865.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591797Q",
+      "lugar": "Hogar de la Tercera Edad Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Taichí de AYAC en el jardín de la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados por el Cáncer a hacer taichí en el Jardín de la Feria varios días por semana de abril a octubre, sin reserva de espacio.",
+      "entidades": [
+        {
+          "nombre": "AYAC (Asociación de Yecla de Afectados por el Cáncer)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588991T",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para una reunión de la A.D. Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos a la Asociación Deportiva Albatros para una reunión con los padres de su escuela de fútbol sala el 16 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590951Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones para una boda civil (25 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590693H",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil (26 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591848M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Auditorio gratis para una charla de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal Juan Miguel Benedito a AYAC para una charla informativa el 16 de marzo, con una rebaja del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "AYAC (Asociación de Yecla de Afectados por el Cáncer)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590943E",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Auditorio gratis para la Semana de Montaña del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio al Centro Excursionista de Yecla para la Semana de Montaña (31 de mayo, 1 y 2 de junio), con una rebaja del 100% del precio público (360 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 360.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575894D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Teatro Concha Segura gratis para la Semana de Montaña",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura al Centro Excursionista de Yecla el 3 de junio para la Semana de Montaña, con una rebaja del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575894D",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Adhesión al convenio regional de intercambio electrónico de datos (ECAL)",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento se adhiere al convenio tipo con la Comunidad Autónoma para intercambiar datos electrónicamente en un entorno cerrado de comunicación, y se habilita a la alcaldesa para firmarlo.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Economía, Hacienda y Administración Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591399N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Aportación municipal a las Directrices de Ordenación Cinegética regional",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba y envía a la Dirección General de Medio Ambiente el informe del técnico de medio ambiente como aportación a la evaluación ambiental de las directrices regionales de caza.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Política Forestal, Caza y Pesca Fluvial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585029Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Deficiencias en el cambio de alumbrado de los colegios Miguel Ortuño y Giner de los Ríos",
+      "categoria": "reclamaciones",
+      "resumen": "Ante las deficiencias detectadas por el técnico municipal en el nuevo alumbrado instalado por la Consejería de Educación en dos colegios públicos, se pide a la Consejería que no reciba la obra hasta que se corrijan.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "contratante"
+        },
+        {
+          "nombre": "Zadisa Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "592463Q",
+      "lugar": "CEIP Miguel Ortuño y CEIP Giner de los Ríos",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Aplazada la renovación de la red de agua en la calle Santa Bárbara por Aqualia",
+      "categoria": "contrato",
+      "resumen": "Se deja sobre la mesa, para estudiarlo mejor, la ejecución por FCC Aqualia de la renovación de la red de agua potable de la calle Santa Bárbara.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "591218M",
+      "lugar": "calle Santa Bárbara",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Servicio de ayuda a domicilio concedido de oficio",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede el servicio de ayuda a domicilio a una vecina según el informe de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591996R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Tarjeta de residente de zona azul",
+      "categoria": "otros",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585712P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Contratación temporal de un fontanero y bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se pide al SEF candidatos para contratar a un oficial fontanero que sustituya a otro de baja, se aprueban las bases y el tribunal y se crea una bolsa de empleo de fontaneros.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "589294P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Reducción de jornada a un conductor municipal para cuidar a un familiar",
+      "categoria": "personal",
+      "resumen": "Se concede a un conductor municipal una reducción de jornada del 35,41% durante tres meses prorrogables para cuidar a un familiar enfermo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594115K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Concierto de Pasión Vega por 13.794 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el contrato menor del concierto de Pasión Vega a la empresa Concert Toru Gestion, S.L.",
+      "entidades": [
+        {
+          "nombre": "Concert Toru Gestion, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13794.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590225H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Procesión del Vía Crucis de San José Artesano (4 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia de San José Artesano la procesión del Vía Crucis, con medidas Covid y apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San José Artesano",
+          "cif": null,
+          "tipo": "parroquia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593622A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Procesión del Cristo de Medinaceli (6 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia de San José Artesano la procesión del Cristo de Medinaceli, con medidas Covid y apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San José Artesano",
+          "cif": null,
+          "tipo": "parroquia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593631N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Programa 'Música en la Cuaresma 2022'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de Música en la Cuaresma 2022, con un presupuesto de 15.306,50 euros, y los desfiles de bandas de tambores y cornetas hasta el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 15306.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "592462P",
+      "lugar": "Plaza de San Cayetano - Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "15.7",
+      "titulo": "Memoria para las ayudas de rehabilitación de viviendas a nivel de barrio",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba la memoria justificativa del entorno residencial de rehabilitación (fondos europeos de recuperación, RD 853/2021) y se envía a la Dirección General de Vivienda de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Vivienda (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531662W",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

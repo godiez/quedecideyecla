@@ -1,0 +1,576 @@
+{
+  "doc": "2021-03-30_JGL_15",
+  "organo": "JGL",
+  "sesion": 15,
+  "fecha": "2021-03-30",
+  "tipo_sesion": "ordinaria",
+  "paginas": 30,
+  "resumen": "La Junta de Gobierno informa a favor de declarar de interés público la ampliación de naves de Comodón Descanso en El Lentiscar (suelo no urbanizable) y decide que el Ayuntamiento haga por sí mismo obras de caminos en el Cerro del Castillo por 48.809 euros. Se autorizan siete terrazas de verano, ampliadas por la COVID-19, se instala una pilona en la plaza Alcalde José Martínez Sánchez a petición de IU-Verdes y se pide a Salud que las bandas de Semana Santa puedan ensayar. Un aspirante a policía local pierde la plaza por no tener el carné de moto a tiempo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 23 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: nivel de alerta sanitaria COVID-19 en la Región",
+      "categoria": "informacion",
+      "resumen": "Se informa de la Orden de la Consejería de Salud de 23 de marzo de 2021 que publica el nivel de alerta sanitaria por COVID-19 de la Región de Murcia y de cada municipio.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de una obra de sustitución de zuncho en un edificio de la calle Epifanio Ibáñez",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 7.739,54 € a una constructora por sustituir un zuncho en un edificio de la calle Epifanio Ibáñez.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7739.54,
+      "importes": [
+        {
+          "concepto": "Sustitución de zuncho en edificio de calle Epifanio Ibáñez",
+          "eur": 7739.54,
+          "entidad": "Construcciones y Promociones Molina Yago 2000, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472584R",
+      "lugar": "calle Epifanio Ibáñez",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja en el agua para familias numerosas (2021)",
+      "categoria": "fiscal",
+      "resumen": "Se concede la tarifa reducida del agua potable a las familias numerosas de una lista del expediente, mientras tengan vigente el título; habrá que pedir la prórroga al renovarlo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "433666P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja en el agua a familias numerosas con el título en renovación",
+      "categoria": "fiscal",
+      "resumen": "Se concede la tarifa reducida del agua a varias familias numerosas que tienen el título caducado y en renovación, condicionada a que presenten el título en vigor a 1 de enero de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "433666P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegada la rebaja del agua por familia numerosa a un vecino",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la tarifa reducida a un solicitante porque no tenía el título de familia numerosa en vigor a 1 de enero de 2021 y la vivienda no es su residencia habitual.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "433666P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegada la rebaja del agua a familias que no son titulares del contrato",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la tarifa reducida por familia numerosa a varios solicitantes porque no son los titulares del contrato de suministro de agua de la vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "433666P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de un edificio de 3 viviendas en la avenida Pablo Picasso",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza empezar las obras de un edificio de 3 viviendas, garaje y trasteros (licencia 327/2020, concedida en diciembre de 2020), con una fianza de 1.350 € para reponer la urbanización y plazos de 6 meses para empezar y 36 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479170P",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Interés público para ampliar naves de Comodón Descanso en El Lentiscar (SNU)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "La Junta informa a favor de declarar de interés público el cambio de uso del suelo de unas naves existentes para ampliar una nave industrial en suelo no urbanizable, y lo envía a la Consejería de Fomento para que la autorice. No hubo alegaciones. Una concejala se ausentó por parentesco con el interesado.",
+      "entidades": [
+        {
+          "nombre": "Comodón Descanso, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476876D (S.N.U. 10/2020)",
+      "lugar": "Paraje El Lentiscar (polígono 113)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Concurso para el puesto de Jefe de los Servicios Técnicos: admitidos y comisión",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de admitidos al concurso de méritos para el puesto de Jefe de los Servicios Técnicos, se nombra la comisión de valoración y se cita a los aspirantes el 6 de mayo de 2021 para valorar méritos y defender su memoria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "257184A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Un aspirante a policía local pierde la plaza por no tener el carné A2 a tiempo",
+      "categoria": "personal",
+      "resumen": "Se anula la propuesta de nombramiento como policía en prácticas de un aspirante de la oposición de 9 plazas de Agente (oferta de 2018), porque obtuvo el permiso de conducir A2 después del plazo de solicitudes. El propio aspirante reconoció el error y renunció.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1542530",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Exclusión de una persona de la bolsa de auxiliares administrativos",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de empleo de auxiliares administrativos de 2019 a una persona que renunció a un nombramiento interino por haber conseguido plaza en otra administración.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502130D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "El ingeniero de caminos municipal formará parte de un tribunal en Las Torres de Cotillas",
+      "categoria": "personal",
+      "resumen": "Se autoriza al ingeniero de caminos del Ayuntamiento a ser miembro del tribunal que creará una bolsa de empleo de ingenieros de caminos en el Ayuntamiento de Las Torres de Cotillas. En el acta el apartado aparece numerado como 7 (error de numeración).",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Las Torres de Cotillas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502499Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para Balmoral Café en calle Primero de Mayo (137 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Balmoral Café en calle Primero de Mayo del 1 de abril al 31 de octubre de 2021, con 137 m². Por la COVID-19 se autoriza más superficie que en 2019, hasta que acaben las limitaciones de aforo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502205H",
+      "lugar": "calle Primero de Mayo",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de verano para Cafetería Gaia en calle de España (38 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Cafetería Gaia en calle de España del 1 de abril al 31 de octubre de 2021, con 38 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502212R",
+      "lugar": "calle de España",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano para Borneo Café en calle Cruz de Piedra (20 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Borneo Café en calle Cruz de Piedra del 1 de abril al 31 de octubre de 2021, con 20 m². Por la COVID-19 se autoriza más superficie que en 2019, hasta que acaben las limitaciones de aforo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501920M",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano para El Búho Bar en calle Arcipreste Esteban Díaz (44 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento El Búho Bar en calle Arcipreste Esteban Díaz del 1 de abril al 31 de octubre de 2021, con 44 m². Por la COVID-19 se autoriza más superficie que en 2019, hasta que acaben las limitaciones de aforo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501608D",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de verano para Bar A la Mesa en Plaza Concejala Mª Carmen Lorente (96 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Bar A la Mesa en Plaza Concejala Mª Carmen Lorente del 1 de abril al 31 de octubre de 2021, con 96 m². Por la COVID-19 se autoriza más superficie que en 2019, hasta que acaben las limitaciones de aforo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456490P",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Terraza de verano para La Ibense II en Plaza Concejala Mª Carmen Lorente (68 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento La Ibense II en Plaza Concejala Mª Carmen Lorente del 1 de abril al 31 de octubre de 2021, con 68 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501143H",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Terraza de verano para Yakka and Grill en calle Maestro Mora (16 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Yakka and Grill en calle Maestro Mora del 1 de abril al 31 de octubre de 2021, con 16 m². Por la COVID-19 se autoriza más superficie que en 2019, hasta que acaben las limitaciones de aforo.",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501916F",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Pilona para impedir el paso de coches a la plaza Alcalde José Martínez Sánchez",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de IU-Verdes, se aprueba instalar una pilona extraíble en la entrada de esta plaza peatonal para que solo puedan entrar los servicios de emergencia, por el peligro para peatones y niños.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499041N",
+      "lugar": "Plaza Alcalde José Martínez Sánchez",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil (5 de abril de 2021)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos de la Casa Consistorial el 5 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501826K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (5 de abril de 2021)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la Casa Consistorial el 5 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502244M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (10 de abril de 2021)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la Casa Consistorial el 10 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502259H",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (17 de abril de 2021)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la Casa Consistorial el 17 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502270Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Más plazo para canjear los premios de la campaña de Navidad de los mercados",
+      "categoria": "servicios_actividades",
+      "resumen": "Por el cierre de restaurantes por la COVID-19, se amplía hasta el 30 de abril de 2021 el plazo para disfrutar de los 50 premios (comida o cena para dos de 60 €) de la IV campaña de dinamización de los mercados municipales de Navidad 2020, que tenía un presupuesto de 4.773 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488656P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce la condición de residente en zona azul a una solicitante (vinculada a una sociedad familiar) para su vehículo. El acta dice 'vigencia hasta el 31 de diciembre de 2018', probablemente una errata.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501297X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Tarjeta de residente de zona azul para otro vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce la condición de residente en zona azul a un solicitante para su vehículo, con la misma vigencia (el acta dice 2018, probable errata).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501731Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Poda de pinos en los miradores del Cerro del Castillo",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba podar y descopar algunos pinos en los miradores del Paso de la Bandera y de la Explanada del Santuario para mejorar las vistas; lo harán los servicios municipales avisando a los agentes medioambientales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500995C",
+      "lugar": "Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Petición a Salud para que las bandas de Semana Santa puedan volver a ensayar",
+      "categoria": "otros",
+      "resumen": "El Ayuntamiento pide a la Consejería de Salud que estudie condiciones sanitarias para que las bandas de cornetas y tambores y agrupaciones musicales de Semana Santa puedan reanudar sus ensayos durante la pandemia, como se ha hecho en Andalucía, para evitar que desaparezcan.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe petición"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502602J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Visitas guiadas al Museo de Semana Santa del Real Cabildo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Real Cabildo Superior de Cofradías Pasionarias, con una guía turística oficial, a hacer tres visitas guiadas diarias al Museo de la Semana Santa del 1 al 4 de abril de 2021, con condiciones sanitarias.",
+      "entidades": [
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502528F",
+      "lugar": "Museo de la Semana Santa",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Permiso para quemar restos vegetales en una parcela cercana al casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en una parcela del polígono 130, a menos de 1.500 m de viviendas, solo lunes y primer y tercer sábado del mes, de 13 a 14 h, del 3 al 30 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502235Z",
+      "lugar": "polígono 130",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Rebaja del 95% en la tasa de basura a pensionistas (2021)",
+      "categoria": "fiscal",
+      "resumen": "Urgente: se conceden, deniegan y retiran bonificaciones del 95% en la tasa de basura a pensionistas y jubilados con ingresos por persona inferiores al IPREM, según listados del expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "430747K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Obra municipal de caminos y sendas en el Cerro del Castillo (zona poniente)",
+      "categoria": "contrato",
+      "resumen": "Urgente: se aprueba la memoria técnica y que el propio Ayuntamiento ejecute (por administración) el acondicionamiento de caminos y sendas de la zona verde del Cerro del Castillo, zona poniente, con un gasto de 48.809,41 € (IVA incluido, en materiales).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 48809.41,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501550Y",
+      "lugar": "Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Baja de un titular del puesto 3L del Mercado Central",
+      "categoria": "patrimonio",
+      "resumen": "Urgente: se da de baja a un comerciante en el puesto 3L del Mercado Central desde el 1 de marzo de 2021, se anula su recibo de marzo y el puesto queda vacante para adjudicarlo de nuevo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502689B",
+      "lugar": "Mercado Central",
+      "interes": 1
+    }
+  ]
+}

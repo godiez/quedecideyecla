@@ -1,0 +1,74 @@
+{
+  "doc": "2025-09-29_PLENO_17",
+  "asistentes": {
+    "PP": 8,
+    "PSOE": 7,
+    "Vox": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria y urgente. Se excusa la ausencia de dos concejalas, una del PP y otra de Vox (según la lista de asistentes de otras sesiones); asisten 19. Los totales del acta (10 a favor PP e IU-Verdes; 9 abstenciones PSOE y Vox) cuadran con PP 8, PSOE 7, Vox 2, IU-Verdes 2.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 8,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Se ratifica, por unanimidad, la urgencia de la convocatoria de la sesión."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 8,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 7
+        },
+        "Vox": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno, por diez votos a favor (Grupo M. Popular y Grupo M. Izquierda Unida-Verdes), y nueve abstenciones (Grupo M. Socialista y Grupo M. Vox), adopta el siguiente acuerdo:"
+    }
+  ]
+}

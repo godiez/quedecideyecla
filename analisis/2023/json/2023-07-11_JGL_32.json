@@ -1,0 +1,799 @@
+{
+  "doc": "2023-07-11_JGL_32",
+  "organo": "JGL",
+  "sesion": 32,
+  "fecha": "2023-07-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 49,
+  "resumen": "La Junta de Gobierno paga 110.477 euros en facturas (limpieza de edificios, autobús urbano) y aprueba gastar 54.450 euros en traer a Los Morancos a la Plaza de Toros. Concede licencia a la Consejería de Salud para rehabilitar el Centro de Salud Francisco Palao y a Inurban para una nave en La Herrada, además de varias viviendas en el campo. También lanza una segunda fase del plan de empleo social (50.433 €), da becas de arqueología y autoriza el Triatlón Ciudad de Yecla.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 4 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús urbano, cobro de la tasa de basura y plataforma Sedipualba",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 110.477,65 €: limpieza de inmuebles municipales de junio, la subvención del autobús urbano de junio, el cobro por Aqualia de los recibos de basura de abril y la aportación de 2023 a la plataforma de administración electrónica Sedipualba de la Diputación de Albacete.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 110477.65,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, junio 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Cobro de recibos de la tasa de basura, abril 2023",
+          "eur": 14019.96,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Aportación al convenio de la plataforma Sedipualba, 2023",
+          "eur": 15233.66,
+          "entidad": "Diputación Provincial de Albacete"
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, junio 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 762290M, 787761N, 551537Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Rebaja del IBI por placas solares en una vivienda del paraje La Decarada",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI por su instalación fotovoltaica de autoconsumo, de 2024 a 2028 y con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796489K",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del IBI por placas solares en otra vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a dos vecinos la bonificación del 50% del IBI por placas solares, de 2024 a 2028 y con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795594R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Cambio de proyecto de una vivienda con almacén y piscina en el paraje Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza modificar el proyecto de una vivienda unifamiliar aislada con almacén y piscina (licencia 125/2022) y se entiende concedida la licencia con el proyecto nuevo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597803H",
+      "lugar": "Paraje Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para una vivienda aislada en el paraje La Cañadilla",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico para una vivienda unifamiliar aislada (licencia 50/2023). 6 meses para empezar y 24 para terminar; debe presentar proyecto de ejecución, fosa séptica impermeable y, para ocuparla, garantizar agua potable y autorización de vertido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735587Z",
+      "lugar": "Paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para una vivienda aislada en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico para una vivienda unifamiliar aislada (licencia 74/2023). 6 meses para empezar y 24 para terminar; debe presentar proyecto de ejecución, fosa séptica impermeable y, para ocuparla, garantizar agua potable y autorización de vertido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732024A",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para derribar un edificio en ruina en el casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza demoler un edificio en estado ruinoso (licencia 120/2023), con fianzas de 4.733,92 € por daños a la urbanización y al alumbrado público, vallado del solar después y un mes de plazo para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4733.92,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de la urbanización",
+          "eur": 412.24,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Fianza por cables de alumbrado público y mobiliario urbano",
+          "eur": 4321.68,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780867N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para derribar una casa y construir otra entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para demoler una edificación y construir una vivienda unifamiliar entre medianeras (licencia 125/2023), con fianzas de 548,21 € y desratización previa al derribo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 548.21,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "743432W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Licencia para instalar un ascensor en un edificio de 3 viviendas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir un elevador en un edificio existente de tres viviendas (licencia 204/2023), con fianza de 281,19 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 281.19,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755900M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Licencia a la Consejería de Salud para rehabilitar el Centro de Salud Francisco Palao",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la Consejería de Salud de la CARM para la rehabilitación sostenible del Centro de Salud Francisco Palao (licencia 234/2023), con 6 meses para empezar y 24 para terminar.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781556W",
+      "lugar": "Centro de Salud Francisco Palao, calle Juan Albert",
+      "interes": 3
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para una vivienda con garaje y piscina en el paraje Casa Palao",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico para una vivienda unifamiliar aislada con garaje, trastero y piscina (licencia 237/2023), con condiciones sobre fosa séptica, aljibes y agua de la piscina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758883E",
+      "lugar": "Paraje Casa Palao",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Cambio de proyecto y permiso para empezar una vivienda con piscina en el paraje Viñales",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza modificar el proyecto de una vivienda unifamiliar aislada con piscina (licencia 276/2022) y empezar las obras; al no tener red de agua potable deberá abastecerse con aljibes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "627465E",
+      "lugar": "Paraje Viñales",
+      "interes": 1
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Licencia a Inurban para una nave industrial en La Herrada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Inurban, S.A. para construir una nave industrial sin actividad definida en la parcela 12-A del polígono industrial La Herrada, con fianza de 8.111,25 €.",
+      "entidades": [
+        {
+          "nombre": "Inurban, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8111.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "775992R",
+      "lugar": "Polígono industrial La Herrada, avenida Juan Carlos I, parcela 12-A",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Auxiliar administrativo interino para Urbanismo y Contratación",
+      "categoria": "personal",
+      "resumen": "Se nombrará un interino de la bolsa de 2019 para sustituir a la auxiliar de la Sección de Urbanismo y Contratación, que pasa a otro puesto por concurso; lleva expedientes sancionadores y de disciplina urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796622W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Se retrasa la marcha de la auxiliar de Urbanismo hasta que llegue su sustituto",
+      "categoria": "personal",
+      "resumen": "Se aplaza el cese de la auxiliar administrativa de Urbanismo y Contratación hasta que se nombre al interino, como máximo tres meses desde la publicación del concurso en el BORM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718883Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Dos trabajadoras sociales a una reunión sobre dependencia en Molina de Segura",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a la reunión de técnicos de dependencia convocada por el IMAS el 26 de septiembre y se pagan los desplazamientos.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796450F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Sustitución de una técnica de la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa una técnica de Educación Infantil por la baja de la tutora de un aula de 2-3 años, por las tardes y como máximo hasta el 24 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795465N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Compra de un monocular de visión nocturna para la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de suministro de un monocular nocturno para la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Nightvision Laser Spain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13794.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792040F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "54.450 € para traer a Los Morancos a la Plaza de Toros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar por procedimiento negociado sin publicidad (con el representante en exclusiva) el espectáculo 'Todo por la Matria' de Los Morancos en la Plaza de Toros, dentro del Verano en Danza 2023, con un gasto de 54.450 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 54450.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793100D",
+      "lugar": "Plaza de Toros de Yecla",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para el 'Kebab Estambul' en calle Peligros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 12 m2 de abril a octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Kebab Estambul (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789472P",
+      "lugar": "Calle Peligros",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aparcamiento reservado para motos en la avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe de la Policía Local, se habilita una zona de aparcamiento para motocicletas en la avenida Literato Azorín.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745839N",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Espacio de ocio del Edificio Cazadores para la Asociación Cultural Costsune",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza su uso el 15 de julio por la tarde para actividades de ocio, con un máximo de 30 personas de 11 a 35 años.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Costsune",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795157K",
+      "lugar": "Edificio Cazadores (sótano)",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Aula de cocina para un programa de empleo de atención a dependientes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo colegio San José de Calasanz del 31 de julio al 4 de agosto a los alumnos del Programa Mixto de Empleo y Formación 'Atención sociosanitaria a personas dependientes en domicilio'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796396F",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Sala del Centro de Emprendimiento para la S.A.T. Umbría la Pava",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala de reuniones el 13 de julio para su junta general.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. nº 3788 'Umbría la Pava'",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795366A",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Escuela de Ocio Alternativo Verano 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de la escuela de ocio juvenil de verano y un gasto de 3.690,50 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3690.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796531T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Becas de auxiliares de arqueología 2023: siete becas y dos medias becas",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden siete becas de 900 € (250 horas) y dos medias becas de 450 € (dos estudiantes empatados en el octavo puesto comparten una) para trabajos de arqueología en julio-septiembre. Se deniegan dos solicitudes por no ser universitario o no estar empadronada en Yecla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 7200.0,
+      "importes": [
+        {
+          "concepto": "7 becas de 900 €",
+          "eur": 6300.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "2 medias becas de 450 €",
+          "eur": 900.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768385C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Beca de prácticas de arqueología: una concedida y otra desierta",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se concede una beca de 2.400 € (4 meses, hasta 440 horas) a la única aspirante que cumplía los requisitos; se deniega otra solicitud por no estar empadronada y la segunda beca queda desierta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768388F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Cambio de titular de un puesto del mercadillo de los miércoles",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza que el puesto 27-Z del mercado ambulante junto a San Cayetano (textil) pase de A.B. Playton, S.L.U. a una vendedora particular desde el 1 de marzo de 2023, por 12 años, y se rehacen los recibos de marzo a junio.",
+      "entidades": [
+        {
+          "nombre": "A.B. Playton, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cede el puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700052W",
+      "lugar": "Mercado semanal junto al Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "V Triatlón Ciudad de Yecla en Los Rosales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Triatlón Arabí Yecla el triatlón de menores y campeonato regional por relevos del 16 de julio en el Centro de Ocio Los Rosales y calles cercanas, con gastos municipales de 400 € y uso gratuito de instalaciones valorado en 892 €.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Triatlón de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cubre el seguro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1292.0,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 400.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 892.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "786460F",
+      "lugar": "Centro de Ocio Los Rosales, Ronda Norte y calle Perales",
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Marcha nocturna por la Sierra de la Magdalena",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Excursionista de Yecla la marcha nocturna de senderismo del 14 de julio, con avisos a agentes medioambientales y SEPRONA y precaución por las canteras cercanas al recorrido.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792560D",
+      "lugar": "Sierra de la Magdalena",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Plan de empleo social 2023: contratación de tres peones para Cultura",
+      "categoria": "personal",
+      "resumen": "Se contrata a tres peones para Cultura con el Programa de Mejora de la Empleabilidad del Plan de Promoción e Inserción Social y se aprueba una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "773874A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Plan de empleo social 2023: contratación de dos peones jóvenes para Cultura",
+      "categoria": "personal",
+      "resumen": "Se contrata a dos peones para Cultura con el programa para menores de 30 años sin experiencia y se aprueba una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "773874A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Sustitución de la limpiadora de la Casa Consistorial",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un limpiador para cubrir la baja de la limpiadora del Ayuntamiento, como máximo hasta el 22 de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797117H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Auxiliar administrativo interino para la Oficina de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra un interino de la bolsa de 2019 para una plaza vacante de la Oficina de Recaudación (fraccionamientos, cobros de deportes y Universidad Popular, padrones de IBI y vehículos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796471K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Auxiliar administrativo interino para Intervención",
+      "categoria": "personal",
+      "resumen": "Se nombrará un interino para sustituir a la auxiliar de Contabilidad de Intervención, que pasa a la Policía Local por concurso; se justifica en que los retrasos afectan al periodo medio de pago a proveedores.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796760M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Se retrasa la marcha de la auxiliar de Intervención hasta que llegue su sustituto",
+      "categoria": "personal",
+      "resumen": "Se aplaza el cese de la auxiliar administrativa de Intervención hasta que se nombre al interino, como máximo tres meses desde la publicación del concurso en el BORM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718883Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Segunda fase del plan de empleo social 2023: 50.433 € para ocho contratos",
+      "categoria": "personal",
+      "resumen": "Se aprueba una 2ª fase del Plan de Promoción e Inserción Social a través del Empleo con 50.433,33 €: tres peones, albañiles, pintor y fontanero (Mejora de la Empleabilidad) y un peón joven, contratos de 3 meses a 30 horas semanales, oferta al SEF y tribunales de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe oferta de empleo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 50433.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796879C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Adhesión al servicio de apoyo de TRAGSATEC para los fondos europeos de recuperación",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento se adhiere, sin coste, al servicio de asistencia técnica del Ministerio de Hacienda, prestado por TRAGSATEC, para participar en el Plan de Recuperación (PRTR), y nombra interlocutora a la directora de la Agencia de Desarrollo Local.",
+      "entidades": [
+        {
+          "nombre": "Tecnologías y Servicios Agrarios, S.A., S.M.E., M.P. (TRAGSATEC)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        },
+        {
+          "nombre": "Secretaría de Estado de Presupuestos y Gastos (Ministerio de Hacienda y Función Pública)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "encarga el servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792137Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Responsable de comunicación de las ayudas de fondos europeos",
+      "categoria": "organizacion",
+      "resumen": "Se nombra al director del Gabinete de Comunicación responsable de la publicidad de las ayudas del Plan de Recuperación, Transformación y Resiliencia que recibe el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797245K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.10",
+      "titulo": "Asfalto en frío para bachear caminos rurales (Casa Faldeta y Ontur)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para poner 122 toneladas de asfalto en frío en la campaña de bacheo de caminos rurales.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14632.09,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795614W",
+      "lugar": "Caminos rurales de Casa Faldeta y Ontur",
+      "interes": 2
+    },
+    {
+      "ref": "14.11",
+      "titulo": "Boda civil en la Casa Consistorial (22 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796895Z",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

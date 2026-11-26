@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Revisión de actas</title>
+<style>
+  :root {
+    --bg: #f6f5f1; --panel: #fff; --ink: #1d1d1b; --muted: #6b6a66; --line: #e2e0d8;
+    --accent: #1f5f8b; --ok: #2e7d4f; --warn: #b26a00; --bad: #b3261e; --sel: #e8f0f7;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: var(--bg); }
+  header { display: flex; gap: 12px; align-items: center; padding: 8px 12px; border-bottom: 1px solid var(--line); background: var(--panel); flex-wrap: wrap; }
+  header h1 { font-size: 15px; margin: 0 8px 0 0; }
+  header select, header input { width: auto; font: inherit; padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+  .progress { margin-left: auto; display: flex; align-items: center; gap: 8px; color: var(--muted); }
+  .bar { width: 160px; height: 8px; background: var(--line); border-radius: 4px; overflow: hidden; }
+  .bar > div { height: 100%; background: var(--ok); }
+  body { display: flex; flex-direction: column; height: 100vh; }
+  main { flex: 1; min-height: 0; display: grid; grid-template-columns: 300px minmax(380px, 1fr) minmax(380px, 1.1fr); }
+  #list { overflow-y: auto; border-right: 1px solid var(--line); background: var(--panel); }
+  .item { padding: 7px 10px; border-bottom: 1px solid var(--line); cursor: pointer; display: grid; grid-template-columns: 10px 1fr; gap: 8px; }
+  .item:hover { background: #faf9f6; }
+  .item.sel { background: var(--sel); }
+  .dot { width: 10px; height: 10px; border-radius: 50%; margin-top: 4px; background: var(--line); }
+  .dot.aprobado { background: var(--ok); } .dot.corregido { background: var(--warn); } .dot.descartado { background: var(--bad); }
+  .item .t { font-weight: 500; }
+  .item .m { color: var(--muted); font-size: 12px; }
+  #card { overflow-y: auto; padding: 14px 16px; }
+  #card h2 { font-size: 16px; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 12px; margin-bottom: 12px; }
+  .help { font-size: 11.5px; color: var(--muted); margin-top: 3px; line-height: 1.35; }
+  details.cats { font-size: 12px; margin-top: 8px; } details.cats dl { margin: 6px 0; } details.cats dt { font-weight: 600; margin-top: 4px; } details.cats dd { margin: 0 0 0 10px; color: var(--muted); }
+  label { display: block; font-size: 12px; color: var(--muted); margin: 10px 0 3px; }
+  input[type=text], input[type=number], textarea, select { width: 100%; font: inherit; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+  textarea { min-height: 64px; resize: vertical; }
+  .row { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .ents { width: 100%; border-collapse: collapse; }
+  .ents td { padding: 2px 2px; }
+  .ents input { padding: 4px 6px; }
+  .ents button, .small { font: inherit; font-size: 12px; border: 1px solid var(--line); background: #fff; border-radius: 6px; padding: 3px 8px; cursor: pointer; }
+  table.imp { width: 100%; border-collapse: collapse; font-size: 12px; }
+  table.imp td { border-bottom: 1px solid var(--line); padding: 3px 4px; }
+  table.imp td.n { text-align: right; white-space: nowrap; }
+  .actions { position: sticky; bottom: 0; background: var(--bg); padding: 10px 0; margin-top: 14px; display: flex; gap: 8px; flex-wrap: wrap; border-top: 1px solid var(--line); }
+  .btn { font: inherit; font-weight: 600; border: 0; border-radius: 8px; padding: 9px 14px; cursor: pointer; color: #fff; }
+  .btn.ok { background: var(--ok); } .btn.bad { background: var(--bad); } .btn.nav { background: #fff; color: var(--ink); border: 1px solid var(--line); }
+  kbd { font: 11px ui-monospace, monospace; border: 1px solid rgba(0,0,0,.25); border-radius: 3px; padding: 0 4px; margin-left: 4px; opacity: .8; }
+  .state { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 12px; background: var(--line); }
+  .state.aprobado { background: #dcefe3; color: var(--ok); } .state.corregido { background: #f6e7cf; color: var(--warn); } .state.descartado { background: #f5d9d6; color: var(--bad); }
+  .notice { background: #fff7e6; border: 1px solid #f0d9a8; padding: 8px 10px; border-radius: 6px; font-size: 12px; margin: 8px 0; }
+  #pdf { border: 0; width: 100%; height: 100%; background: #525659; }
+  .empty { color: var(--muted); padding: 40px; text-align: center; }
+  #toast { position: fixed; bottom: 16px; left: 50%; transform: translateX(-50%); background: var(--ink); color: #fff; padding: 8px 14px; border-radius: 8px; opacity: 0; transition: opacity .2s; pointer-events: none; }
+  #toast.on { opacity: .92; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Revisión de actas</h1>
+  <select id="fPriority"><option value="priority">Prioritarios (dinero, interés alto, suelo)</option><option value="all">Todos</option></select>
+  <select id="fState"><option value="pendiente">Pendientes</option><option value="">Todos los estados</option><option value="aprobado">Aprobados</option><option value="corregido">Corregidos</option><option value="descartado">Descartados</option></select>
+  <select id="fBody"><option value="">JGL y Pleno</option><option value="JGL">Junta de Gobierno</option><option value="PLENO">Pleno</option></select>
+  <select id="fCat"><option value="">Todas las categorías</option></select>
+  <select id="fOrder"><option value="date">Orden: fecha, más antigua primero</option><option value="date_desc">Orden: fecha, más reciente primero</option><option value="amount">Orden: importe, de mayor a menor</option><option value="interest">Orden: interés, de mayor a menor</option></select>
+  <input id="fText" type="search" placeholder="Buscar (título, entidad, expediente)…" size="28">
+  <div class="progress"><span id="prog"></span><div class="bar"><div id="progBar" style="width:0"></div></div></div>
+</header>
+<main>
+  <div id="list"></div>
+  <div id="card"><div class="empty">Cargando…</div></div>
+  <iframe id="pdf" title="PDF del acta"></iframe>
+</main>
+<div id="toast"></div>
+<script>
+const $ = (s) => document.querySelector(s);
+let POINTS = [], REVS = {}, CATS = [], RESULTS = [], CAT_HELP = {}, INT_HELP = {}, visible = [], current = null, currentPdf = "";
+
+const fmt = (n) => n == null ? "" : Number(n).toLocaleString("es-ES", {minimumFractionDigits: 2, maximumFractionDigits: 2}) + " €";
+const stateOf = (id) => (REVS[id] && REVS[id].estado) || "pendiente";
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+const view = (p) => ({...p, ...((REVS[p.id] && REVS[p.id].cambios) || {})});
+
+function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 1400); }
+
+async function load() {
+  const r = await fetch("/api/points"); const d = await r.json();
+  if (d.year) { $("header h1").textContent = `Revisión de actas ${d.year}`; document.title = $("header h1").textContent; }
+  POINTS = d.points; REVS = d.reviews; CATS = d.categories; RESULTS = d.results; CAT_HELP = d.category_help || {}; INT_HELP = d.interest_help || {};
+  $("#fCat").innerHTML += CATS.map((c) => `<option>${esc(c)}</option>`).join("");
+  filter(); nextPending(-1);
+}
+
+function filter() {
+  const prio = $("#fPriority").value, st = $("#fState").value, body = $("#fBody").value, cat = $("#fCat").value;
+  const q = $("#fText").value.trim().toLowerCase();
+  visible = POINTS.filter((p) => {
+    const v = view(p);
+    if (prio === "priority" && !p.priority) return false;
+    if (st && stateOf(p.id) !== st) return false;
+    if (body && p.organo !== body) return false;
+    if (cat && v.categoria !== cat) return false;
+    if (q) {
+      const hay = [v.titulo, v.resumen, p.expediente, p.doc, ...(v.entidades || []).map((e) => e.nombre)].join(" ").toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+  const order = $("#fOrder").value, amount = (p) => view(p).importe_eur || 0;
+  if (order === "date_desc") visible.sort((a, b) => (b.fecha || "").localeCompare(a.fecha || "") || b.doc.localeCompare(a.doc));
+  else if (order === "amount") visible.sort((a, b) => amount(b) - amount(a));
+  else if (order === "interest") visible.sort((a, b) => (view(b).interes || 1) - (view(a).interes || 1) || amount(b) - amount(a));
+  renderList(); progress();
+}
+
+function progress() {
+  const base = POINTS.filter((p) => $("#fPriority").value !== "priority" || p.priority);
+  const done = base.filter((p) => stateOf(p.id) !== "pendiente").length;
+  $("#prog").textContent = `${done} de ${base.length} revisados`;
+  $("#progBar").style.width = (base.length ? (100 * done / base.length) : 0) + "%";
+}
+
+function renderList() {
+  $("#list").innerHTML = visible.length ? visible.map((p) => {
+    const v = view(p);
+    return `<div class="item ${current && current.id === p.id ? "sel" : ""}" data-id="${esc(p.id)}">
+      <div class="dot ${esc(stateOf(p.id))}"></div>
+      <div><div class="t">${esc(v.titulo)}</div>
+      <div class="m">${esc(p.fecha)} · ${esc(p.organo)} ${esc(p.sesion ?? "")} · ${esc(p.ref)} · ${esc(v.categoria)}${v.importe_eur ? " · " + fmt(v.importe_eur) : ""}</div></div></div>`;
+  }).join("") : `<div class="empty">No hay puntos con estos filtros.</div>`;
+  $("#list").querySelectorAll(".item").forEach((el) => el.onclick = () => openPoint(el.dataset.id));
+}
+
+function amountRow(i = {}) {
+  return `<tr><td><input type="text" class="iE" value="${esc(i.entidad)}" placeholder="Entidad (o 'particular')"></td>
+    <td><input type="text" class="iC" value="${esc(i.concepto)}" placeholder="Concepto"></td>
+    <td style="width:20%"><input type="number" step="0.01" class="iV" value="${esc(i.eur ?? "")}" placeholder="€"></td>
+    <td style="width:30px"><button type="button" class="remove" title="Quitar">✕</button></td></tr>`;
+}
+
+function checkSum() {
+  const rows = [...document.querySelectorAll("#amounts .iV")].map((x) => Number(x.value) || 0);
+  const total = Number($("#amount_eur").value) || 0, sum = rows.reduce((a, b) => a + b, 0), warn = $("#sumWarning");
+  if (rows.length && total && Math.abs(sum - total) > 0.01) {
+    warn.style.display = ""; warn.textContent = `La suma del desglose (${fmt(sum)}) no coincide con el importe total (${fmt(total)}). Puede ser correcto si el total incluye partidas sin entidad.`;
+  } else warn.style.display = "none";
+}
+
+function entityRow(e = {}) {
+  return `<tr><td><input type="text" class="eN" value="${esc(e.nombre)}" placeholder="Nombre (o 'particular')"></td>
+    <td style="width:22%"><input type="text" class="eT" value="${esc(e.tipo)}" placeholder="tipo"></td>
+    <td style="width:22%"><input type="text" class="eR" value="${esc(e.rol)}" placeholder="rol"></td>
+    <td style="width:30px"><button type="button" class="remove" title="Quitar">✕</button></td></tr>`;
+}
+
+function openPoint(id) {
+  current = POINTS.find((p) => p.id === id);
+  if (!current) return;
+  const v = view(current), r = REVS[id];
+  const opt = (list, sel) => list.map((x) => `<option ${x === sel ? "selected" : ""}>${esc(x)}</option>`).join("");
+  const amounts = `<label>Desglose de importes (quién cobra cada parte)</label>
+    <table class="ents"><tbody id="amounts">${(v.importes || []).map(amountRow).join("")}</tbody></table>
+    <button type="button" class="small" id="addAmount">+ Añadir línea</button>
+    <div id="sumWarning" class="notice" style="display:none"></div>`;
+  $("#card").innerHTML = `
+    <h2>${esc(current.titulo)}</h2>
+    <div class="meta">${esc(current.doc)} · punto ${esc(current.ref)} · expediente ${esc(current.expediente || "—")} · pág. ${esc(current.page)}
+      · <span class="state ${esc(stateOf(id))}">${esc(stateOf(id))}</span></div>
+    ${r && r.nota ? `<div class="notice">Nota: ${esc(r.nota)}</div>` : ""}
+    <div class="notice">Comprueba con el PDF: importe, a quién va el dinero, resultado y que no aparezca el nombre de ningún particular.</div>
+    <label>Título (lenguaje llano)</label><input type="text" id="title" value="${esc(v.titulo)}">
+    <label>Resumen</label><textarea id="summary">${esc(v.resumen)}</textarea>
+    <div class="row">
+      <div><label>Categoría</label><select id="category">${opt(CATS, v.categoria)}</select><div class="help" id="catHelp">${esc(CAT_HELP[v.categoria] || "")}</div></div>
+      <div><label>Importe total (€)</label><input type="number" step="0.01" id="amount_eur" value="${esc(v.importe_eur ?? "")}"></div>
+      <div><label>Resultado</label><select id="result">${opt(RESULTS, v.resultado)}</select></div>
+    </div>
+    <div class="row">
+      <div><label>Interés para el vecino</label><select id="interest">${opt(["1", "2", "3"], String(v.interes ?? 1))}</select><div class="help" id="intHelp">${esc(INT_HELP[String(v.interes ?? 1)] || "")}</div></div>
+      <div><label>Lugar</label><input type="text" id="place" value="${esc(v.lugar)}"></div>
+      <div><label>¿Hay personas físicas implicadas? (privacidad)</label><select id="has_private">${opt(["no", "sí"], v.hay_particulares ? "sí" : "no")}</select><div class="help">Sí = aparece algún vecino, solicitante, trabajador u opositor. La web no mostrará nombres ni direcciones. No mide si al pueblo le importa.</div></div>
+    </div>
+    <details class="cats"><summary>Ver qué incluye cada categoría</summary><dl>${CATS.map((c) => `<dt>${esc(c)}</dt><dd>${esc(CAT_HELP[c] || "")}</dd>`).join("")}</dl></details>
+    ${current.organo === "PLENO" ? `<label>Votación</label><textarea id="vote">${esc(v.votacion)}</textarea>` : ""}
+    <label>Entidades</label>
+    <table class="ents"><tbody id="ents">${(v.entidades || []).map(entityRow).join("")}</tbody></table>
+    <button type="button" class="small" id="addEnt">+ Añadir entidad</button>
+    ${amounts}
+    <label>Nota de revisión (opcional)</label><input type="text" id="note" value="${esc(r ? r.nota : "")}">
+    <div class="actions">
+      <button class="btn ok" id="bOk">Guardar como correcto<kbd>A</kbd></button>
+      <button class="btn bad" id="bDiscard">Descartar<kbd>D</kbd></button>
+      <button class="btn nav" id="bPrev">Anterior<kbd>K</kbd></button>
+      <button class="btn nav" id="bNext">Siguiente<kbd>J</kbd></button>
+    </div>`;
+  $("#category").onchange = () => { $("#catHelp").textContent = CAT_HELP[$("#category").value] || ""; };
+  $("#interest").onchange = () => { $("#intHelp").textContent = INT_HELP[$("#interest").value] || ""; };
+  $("#addEnt").onclick = () => { $("#ents").insertAdjacentHTML("beforeend", entityRow()); bindRemove(); };
+  $("#addAmount").onclick = () => { $("#amounts").insertAdjacentHTML("beforeend", amountRow()); bindRemove(); };
+  $("#amounts").oninput = checkSum; $("#amount_eur").oninput = checkSum;
+  bindRemove(); checkSum();
+  $("#bOk").onclick = () => save(false);
+  $("#bDiscard").onclick = () => save(true);
+  $("#bPrev").onclick = () => move(-1);
+  $("#bNext").onclick = () => move(1);
+  const src = `/pdf/${encodeURIComponent(current.doc)}.pdf`;
+  // Changing only the #page does not always move the viewer: a reload is forced with a parameter.
+  const pg = encodeURIComponent(current.page);
+  const next = `${src}?p=${pg}#page=${pg}&view=FitH&navpanes=0`;
+  if (next !== currentPdf) { $("#pdf").src = next; currentPdf = next; }
+  renderList();
+  const sel = $("#list .item.sel"); if (sel) sel.scrollIntoView({block: "nearest"});
+}
+
+function bindRemove() { document.querySelectorAll(".remove").forEach((b) => b.onclick = () => { b.closest("tr").remove(); checkSum(); }); }
+
+function readForm() {
+  const num = $("#amount_eur").value;
+  const f = {
+    titulo: $("#title").value.trim(), resumen: $("#summary").value.trim(), categoria: $("#category").value,
+    importe_eur: num === "" ? null : Number(num), resultado: $("#result").value, interes: Number($("#interest").value),
+    lugar: $("#place").value.trim() || null, hay_particulares: $("#has_private").value === "sí",
+    entidades: [...document.querySelectorAll("#ents tr")].map((tr) => ({
+      nombre: tr.querySelector(".eN").value.trim(), tipo: tr.querySelector(".eT").value.trim(), rol: tr.querySelector(".eR").value.trim(),
+    })).filter((e) => e.nombre),
+    importes: [...document.querySelectorAll("#amounts tr")].map((tr) => ({
+      entidad: tr.querySelector(".iE").value.trim() || null, concepto: tr.querySelector(".iC").value.trim(),
+      eur: tr.querySelector(".iV").value === "" ? null : Number(tr.querySelector(".iV").value),
+    })).filter((i) => i.entidad || i.concepto || i.eur != null),
+  };
+  if ($("#vote")) f.votacion = $("#vote").value.trim();
+  return f;
+}
+
+function normal(k, x) {
+  if (k === "importes") return JSON.stringify((x || []).map((i) => ({entidad: i.entidad || null, concepto: i.concepto || "", eur: i.eur == null ? null : Number(i.eur)})));
+  if (k === "entidades") return JSON.stringify((x || []).map((e) => ({nombre: e.nombre || "", tipo: e.tipo || "", rol: e.rol || ""})));
+  if (k === "hay_particulares") return !!x;
+  if (k === "lugar") return x || null;
+  if (k === "interes") return Number(x ?? 1);
+  return x ?? null;
+}
+
+async function save(discard) {
+  if (!current) return;
+  let changes = {}, state = "descartado";
+  if (!discard) {
+    const f = readForm();
+    for (const k of Object.keys(f)) {
+      if (JSON.stringify(normal(k, f[k])) !== JSON.stringify(normal(k, current[k]))) changes[k] = f[k];
+    }
+    state = Object.keys(changes).length ? "corregido" : "aprobado";
+  }
+  const r = await fetch(`/api/review/${encodeURIComponent(current.id)}`, {
+    method: "POST", headers: {"Content-Type": "application/json"},
+    body: JSON.stringify({estado: state, cambios: changes, nota: $("#note").value}),
+  });
+  if (!r.ok) { toast("Error al guardar: " + (await r.json()).error); return; }
+  REVS[current.id] = await r.json();
+  toast(REVS[current.id].estado === "descartado" ? "Descartado" : REVS[current.id].estado === "corregido" ? "Guardado con correcciones" : "Aprobado");
+  const idx = visible.findIndex((p) => p.id === current.id);
+  filter();
+  nextPending(idx - 1);
+}
+
+function nextPending(from) {
+  const list = visible.length ? visible : [];
+  const next = list.slice(Math.max(from + 1, 0)).find((p) => stateOf(p.id) === "pendiente") || list.find((p) => stateOf(p.id) === "pendiente") || list[0];
+  if (next) openPoint(next.id); else $("#card").innerHTML = `<div class="empty">Nada que revisar con estos filtros.</div>`;
+}
+
+function move(d) {
+  const i = visible.findIndex((p) => current && p.id === current.id);
+  const p = visible[Math.min(Math.max(i + d, 0), visible.length - 1)];
+  if (p) openPoint(p.id);
+}
+
+document.addEventListener("keydown", (e) => {
+  const inField = ["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement.tagName);
+  if ((e.ctrlKey || e.metaKey) && e.key === "Enter") { e.preventDefault(); save(false); return; }
+  if (inField || e.ctrlKey || e.metaKey || e.altKey) return;
+  if (e.key === "a") save(false);
+  else if (e.key === "d") save(true);
+  else if (e.key === "j") move(1);
+  else if (e.key === "k") move(-1);
+});
+["#fPriority", "#fState", "#fBody", "#fCat", "#fOrder"].forEach((s) => $(s).onchange = () => { filter(); nextPending(-1); });
+$("#fText").oninput = () => filter();
+load();
+</script>
+</body>
+</html>

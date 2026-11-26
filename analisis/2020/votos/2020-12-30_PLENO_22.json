@@ -1,0 +1,74 @@
+{
+  "doc": "2020-12-30_PLENO_22",
+  "asistentes": {
+    "PP": 11,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria y urgente. Falta una concejala del PP, que no figura en la lista de asistentes (el acta no menciona su ausencia; 20 presentes). Dos votaciones por unanimidad: ratificación de la urgencia y justificación y pago del 2.º plazo a la Asociación Kapaces. Los punto_idx se han calculado como ref - 1 porque el JSON del análisis aún no existía al escribir este fichero.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Explicada por el Sr. Alcalde la urgencia de la sesión, se aprueba por unanimidad."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Dar por justificado el primer plazo de la subvención otorgada a la Asociación Kapaces"
+    }
+  ]
+}

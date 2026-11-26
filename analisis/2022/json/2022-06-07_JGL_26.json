@@ -1,0 +1,822 @@
+{
+  "doc": "2022-06-07_JGL_26",
+  "organo": "JGL",
+  "sesion": 26,
+  "fecha": "2022-06-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 38,
+  "resumen": "La Junta de Gobierno pide al Ministerio de Transportes 1,7 millones de euros para rehabilitar la Casa de Cultura y el antiguo Colegio San José de Calasanz, y concede los premios del concurso de ideas para convertir el Edificio de Cazadores en centro de ocio y cultura. Reconoce a Continental Parking, concesionaria de la zona azul, una indemnización de 23.488 euros por la suspensión del servicio durante el confinamiento de 2020. Paga más de 100.000 euros en facturas, licita la señalética turística del casco urbano (34.555 euros), aprueba la Escuela Municipal de Verano y el programa deportivo de verano, y vuelve a reclamar al Gobierno un autobús Yecla-Villena.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 31 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones del SEF: anticipo de cursos para parados y justificación de agentes de empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos escritos del Servicio Regional de Empleo y Formación: el pago anticipado de una subvención para cursos de formación de desempleados y la justificación de la subvención del programa de Agentes de Empleo y Desarrollo Local. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: teatro, festival CreAcción, parcheo de caminos, residuos y grúa",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: la obra de teatro 'Señora de rojo sobre fondo gris', una obra artística para el festival CreAcción, el parcheo de caminos rurales de abril, la aportación de abril al Consorcio de Residuos y el servicio de grúa de abril.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alicer Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 71457.16,
+      "importes": [
+        {
+          "concepto": "Obra de teatro 'Señora de rojo sobre fondo gris', Teatro Concha Segura",
+          "eur": 10648.0,
+          "entidad": "Pentación, S.A."
+        },
+        {
+          "concepto": "Creación de obra artística y participación en el Festival CreAcción Yecla",
+          "eur": 9010.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Parcheo de caminos rurales del término municipal, abril 2022",
+          "eur": 20299.69,
+          "entidad": "Alicer Obras y Servicios, S.L."
+        },
+        {
+          "concepto": "Aportación de abril 2022 al Consorcio de Residuos",
+          "eur": 24433.07,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Servicio de grúa, abril 2022",
+          "eur": 7066.4,
+          "entidad": "Grúas Los Raspas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597753N, 613694D, 610108Y, 584325N, 412195T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la obra 'Señora de rojo sobre fondo gris': 4.549,80 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de entradas vendidas (4.549,80 euros) de la obra de teatro del 28 de mayo en el Teatro Concha Segura y se dan de baja las no vendidas (4.141,20 euros).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4549.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633234R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Psicólogos asesores del tribunal de las 22 plazas de Policía Local",
+      "categoria": "personal",
+      "resumen": "Terminadas las pruebas físicas de la oposición a 22 plazas de agente de Policía Local, se nombra a dos psicólogos como asesores del tribunal para preparar y evaluar las pruebas psicotécnicas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511880W, 618342J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación de la señalética turística del casco urbano: 34.555 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y los pliegos para contratar, por procedimiento abierto simplificado, el suministro e instalación de señales turísticas en el casco urbano, con un precio de licitación de 34.555 euros. La memoria técnica la redactó Rocamora Diseño y Arquitectura.",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta pliego técnico"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34555.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633349C",
+      "lugar": "casco urbano",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Grúa municipal de junio a agosto: Grúas Los Raspas, 9.830 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor del servicio de retirada de vehículos de la vía pública con grúa durante el verano de 2022.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9830.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633299H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano de la Cafetería Carrusel Kinder en la Plaza del Recuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular una terraza de 20 m² de abril a octubre para la cafetería, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular (Cafetería Carrusel Kinder)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "631842J",
+      "lugar": "Plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Fachada del Ayuntamiento iluminada de verde por el Día Mundial de la ELA",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación ELA de la Región de Murcia, la fachada de la Casa Consistorial se ilumina de verde el 21 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación ELA de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "634004M",
+      "lugar": "Casa Consistorial, Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Denegado otra vez a Yakka Franquicias mover un contenedor junto a su terraza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por tercera vez se deniega a la empresa del restaurante Yakk&Grill trasladar un contenedor de basura que dice perjudicar a su terraza. Los técnicos recuerdan que no hay riesgo sanitario, que el servicio público no puede supeditarse a una terraza y que el 20 de mayo el solicitante movió el contenedor sin permiso, lo que provocó un altercado con vecinos.",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "544760M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 1 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633279E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Sala del Edificio Bioclimático para expropiaciones del área de servicio de la A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala del Edificio Bioclimático los días 5 y 6 de julio a la Demarcación de Carreteras del Estado para levantar las actas previas a la ocupación de los terrenos afectados por las futuras áreas de servicio del Altiplano en la autovía A-33 (km 44,5).",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635049N",
+      "lugar": "Edificio Bioclimático; autovía A-33 p.k. 44+500",
+      "interes": 2
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón del Edificio Bioclimático para una reunión de la A.D. Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático el 29 de junio para una reunión con los padres de la escuela de fútbol sala.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635732M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Escuela de verano en el CEIP Méndez Núñez organizada por su AMPA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar el colegio del 4 al 29 de julio, de 9 a 14 h, para una escuela de verano que imparte una empresa particular ('El Trébol'); el AMPA asume limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "particular (El Trébol)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633309X",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Escuela Municipal de Verano 2022: 18.031 € y precios desde 5 € al día",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación y un gasto de 18.031,61 euros para la Escuela Municipal de Verano, con precios de 5 euros/día, 25 euros/semana o 125 euros la escuela completa, y descuentos para familias numerosas, discapacidad, hermanos y familias en paro.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 18031.61,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "632215C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Los comercios no abrirán el 8 de diciembre (Purísima) sino el 9 de octubre",
+      "categoria": "otros",
+      "resumen": "Como el 8 de diciembre es la fiesta de la Inmaculada, patrona de Yecla, se cambia ese día de apertura comercial en festivo por el domingo 9 de octubre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Comercio e Innovación Empresarial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633738R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Nuevos representantes en la comisión del convenio con el Catastro",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a la nueva jefa del Negociado de Catastro y Obras como representante titular, y a un funcionario como suplente, en la comisión de seguimiento del convenio de gestión catastral con la Dirección General del Catastro.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "socio del convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "261519X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Se vuelve a pedir al Ministerio un autobús diario entre Yecla y Villena",
+      "categoria": "mocion_politica",
+      "resumen": "Sin respuesta desde 2020, se reitera al Ministerio de Transportes la petición de una línea regular de autobús Yecla-Villena (al menos un viaje diario de ida y vuelta) para conectar con el tren hacia Alicante, Valencia y Madrid, y una reunión con el director general de Transporte Terrestre con todos los grupos municipales.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "375762R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Nueva licencia de segregación de una finca rústica de 77 hectáreas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se modifica una licencia de 2018 no ejecutada: un particular podrá separar de una finca en suelo no urbanizable dos parcelas (46 y 31 hectáreas), quedando las construcciones en una finca resto de unas 2 hectáreas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "80841E",
+      "lugar": "Suelo no urbanizable, polígonos 96 y 7",
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Continental Parking cobrará 23.488 € por la suspensión de la zona azul en 2020",
+      "categoria": "contrato",
+      "resumen": "Resolviendo su recurso, se reconoce a la concesionaria de la zona azul (ORA) una indemnización de 23.488 euros por los ingresos perdidos mientras el Ayuntamiento suspendió el servicio (marzo-mayo de 2020), descontando el ahorro por el ERTE; pedía 27.384. Se rechaza anular el acuerdo de 2021 y los posibles incumplimientos de la empresa se tramitarán aparte.",
+      "entidades": [
+        {
+          "nombre": "Continental Parking, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 23488.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508437N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Concesión de oficio del servicio de ayuda a domicilio",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales, se concede el servicio de ayuda a domicilio a una persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635862R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Pago de facturas: talleres de igualdad y dos renovaciones de red de agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las actividades de sensibilización en igualdad en centros educativos y dos obras de FCC Aqualia de renovación de tuberías en la calle Escultor J. Palao y la Avenida de la Paz.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 30639.41,
+      "importes": [
+        {
+          "concepto": "Actividades de sensibilización y promoción de la igualdad en el ámbito educativo 2022",
+          "eur": 8739.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Renovación de red en calle Escultor J. Palao",
+          "eur": 15208.78,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Renovación de red de agua potable en Avenida de la Paz",
+          "eur": 6691.63,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580868M, 581062F, 585220F",
+      "lugar": "calle Escultor J. Palao; Avenida de la Paz",
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Reunión de coordinación en Murcia para la asesora jurídica del CAVI",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del CAVI de Servicios Sociales asistir a una reunión de la Dirección General de Mujer y Diversidad en Murcia, pagándole el desplazamiento si no puede usar el vehículo del centro.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Mujer y Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635506Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Prórroga de la reducción de jornada de un conductor municipal",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses la reducción de jornada del 35,41% de un conductor municipal para cuidar a un familiar enfermo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594115K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Reincorporación de una agente de empleo tras excedencia",
+      "categoria": "personal",
+      "resumen": "Se autoriza la vuelta al trabajo el 13 de junio de una agente de Empleo y Desarrollo Local que estaba en excedencia por cuidado de hijo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635670A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Permiso de lactancia a un técnico informático",
+      "categoria": "personal",
+      "resumen": "Se concede a un técnico informático una hora diaria de permiso retribuido por lactancia entre el 16 de junio y el 18 de agosto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635517N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Prórroga un año del seguro de la flota de vehículos con Catalana Occidente",
+      "categoria": "contrato",
+      "resumen": "Se prorroga hasta el 1 de julio de 2023 (primera prórroga) la póliza de seguro de los vehículos municipales. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Seguros Catalana Occidente, S.A. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498615X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.7",
+      "titulo": "Compra de dos cabinas de almacenamiento informático NAS: 9.574 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de suministro de dos cabinas de almacenamiento de datos de 72 TB para los servicios informáticos.",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9574.61,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621598F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Premios del concurso de ideas para rehabilitar el Edificio de Cazadores",
+      "categoria": "contrato",
+      "resumen": "Se conceden los premios del concurso de anteproyectos para convertir el Edificio de Cazadores en centro de ocio, cultura y promoción económica: 1º 'Rebrotar' (10.890 euros), destacado por su integración urbana y soluciones bioclimáticas; 2º 'Un rayo de sol' (2.420 euros); 3º 'Vive el ágora' (1.210 euros), de un particular.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "premiado (con un estudio de arquitectura S.C.P. de particulares)"
+        },
+        {
+          "nombre": "Urjato, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "premiado"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "premiado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14520.0,
+      "importes": [
+        {
+          "concepto": "Primer premio, lema 'Rebrotar. Volver a vivir o Ser'",
+          "eur": 10890.0,
+          "entidad": "Neten Consultoría, S.L.L. y particular (S.C.P.)"
+        },
+        {
+          "concepto": "Segundo premio, lema 'Un rayo de sol'",
+          "eur": 2420.0,
+          "entidad": "Urjato, S.L."
+        },
+        {
+          "concepto": "Tercer premio, lema 'Vive el ágora'",
+          "eur": 1210.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612270A",
+      "lugar": "Edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Terraza de verano del Bar El Esquinazo en calle del Voluntariado Social",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 24 m² de abril a octubre, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular (Bar El Esquinazo)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "634381K",
+      "lugar": "calle del Voluntariado Social",
+      "interes": 1
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Corte de la calle San José para la jornada comercial de San Juan",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cierra al tráfico la calle San José, entre la calle Rambla y la calle San Francisco, el 17 de junio de 20 a 24 h para una jornada comercial especial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "634497X",
+      "lugar": "calle San José, entre calle Rambla y calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "15.11",
+      "titulo": "Escuela de verano en el CEIP Las Herratillas organizada por su AMPA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar el colegio del 23 de junio al 29 de julio, de 8:45 a 14 h, para una escuela de verano que imparte una empresa particular ('Ahijó extraescolares'); el AMPA asume limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Las Herratillas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "particular (Ahijó extraescolares)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633315E",
+      "lugar": "CEIP Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "15.12",
+      "titulo": "Se piden 1,7 millones al Ministerio para rehabilitar la Casa de Cultura",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita a los fondos europeos de recuperación (Ministerio de Transportes) una subvención de 1.713.140,95 euros para rehabilitar la Casa de Cultura y el antiguo Colegio San José de Calasanz (obra presupuestada en 2,9 millones) y pagar el proyecto y la dirección de obra; el Ayuntamiento se compromete a mantener el uso público 20 años.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención (solicitada)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1713140.95,
+      "importes": [
+        {
+          "concepto": "Subvención para ejecución de obras",
+          "eur": 1581750.0,
+          "entidad": "Ministerio de Transportes, Movilidad y Agenda Urbana"
+        },
+        {
+          "concepto": "Subvención para honorarios de proyecto y dirección de obra",
+          "eur": 131390.95,
+          "entidad": "Ministerio de Transportes, Movilidad y Agenda Urbana"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602551C",
+      "lugar": "Casa Municipal de Cultura y antiguo Colegio San José de Calasanz",
+      "interes": 3
+    },
+    {
+      "ref": "15.13",
+      "titulo": "Programa Deportivo de Verano 2022 y torneos de fútbito y tenis",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban las actividades y cursos del Verano Deportivo, los torneos locales de fútbito (60 euros por equipo más 15 de fianza) y tenis dobles (10 euros por persona) y un 10% de descuento en la escuela deportiva de vacaciones por apuntarse 4 semanas o más.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635467T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.14",
+      "titulo": "Pabellón José Ortega Chumilla gratis para un campeonato de gimnasia rítmica",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el campeonato de liga del 11 de junio y se cede gratis el pabellón (valorado en 1.183 euros), con apertura, limpieza y material municipal.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Federación de Gimnasia Rítmica de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1183.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "634502D",
+      "lugar": "Pabellón Polideportivo Municipal José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "15.15",
+      "titulo": "Yecla se suma a la Mesa de Destinos Turísticos Inteligentes de la Región",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el protocolo para impulsar los Destinos Turísticos Inteligentes con el Instituto de Turismo de la Región de Murcia, SEGITTUR y otros ayuntamientos; firma la alcaldesa y representa a Yecla el concejal de Turismo.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "socio del convenio"
+        },
+        {
+          "nombre": "Sociedad Mercantil Estatal de Gestión de la Innovación y las Tecnologías Turísticas, S.A. (SEGITTUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "socio del convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636303E",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

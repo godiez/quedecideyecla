@@ -1,0 +1,234 @@
+{
+  "doc": "2026-01-07_JGL_01",
+  "organo": "JGL",
+  "sesion": 1,
+  "fecha": "2026-01-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 11,
+  "resumen": "Se pagan tres facturas a FCC Aqualia (agua y cobro de la basura) por unos 32.700 euros y se cierra la taquilla de una obra de teatro infantil. Se conceden rebajas en el IBI y en el impuesto de obras por poner placas solares. En personal se excluye a dos personas de bolsas de empleo por renunciar sin justificar y se responde a la reclamación de una empleada.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Comunicaciones: subvenciones regionales recibidas (festivales, formación, conciliación)",
+      "categoria": "informacion",
+      "resumen": "Se informa de cinco resoluciones de la CARM y del SEF que conceden o adelantan subvenciones al Ayuntamiento: festivales de música, dos cursos de formación (animación sociocultural e inteligencia artificial), Plan Corresponsables y servicios de conciliación familiar.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1207906Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas a FCC Aqualia (agua de colegios, cobro de basura, consumos)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres pagos a FCC Aqualia: revisión de tarifas del agua de los colegios de 2024, premio de cobranza de la basura de octubre de 2025 y excesos de consumo municipal de 2024.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32702.93,
+      "importes": [
+        {
+          "concepto": "Revisión tarifas agua potable centros de enseñanza 2024",
+          "eur": 6491.12,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Premio cobranza basura, octubre 2025",
+          "eur": 16243.77,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Excesos de consumos municipales 2024",
+          "eur": 9968.04,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009621C, 1186986R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Cuentas de la taquilla de la obra infantil 'Blancanieves y el espejo mágico'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de la función del 26/12/2025 en el Teatro Concha Segura: 3.492 € de cargo, 2.934 € en taquilla y 558 € de anulaciones (venta por Instant Ticket).",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2934.0,
+      "importes": [
+        {
+          "concepto": "Cargo",
+          "eur": 3492.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Taquilla",
+          "eur": 2934.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por anulación",
+          "eur": 558.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebajas en IBI e ICIO a un vecino por instalar placas solares en su casa",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular un 50% de rebaja en el IBI (2026-2030, máximo 100 €/año) y un 90% en el impuesto de obras (ICIO) por una instalación fotovoltaica de autoconsumo de 3 kW (obra de 7.347 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059250F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Rebaja del IBI a Alberto Muñoz Muñoz, S.L. por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la empresa un 50% de rebaja en el IBI de 2026 a 2028 (máximo 100 €/año) por una instalación fotovoltaica de 15 kW hecha en 2023 (obra de 18.100 €); no se aplica con carácter retroactivo.",
+      "entidades": [
+        {
+          "nombre": "Alberto Muñoz Muñoz, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1202888D",
+      "lugar": "Avda. Adolfo Suárez",
+      "interes": 1
+    },
+    {
+      "ref": "3.1-3.2",
+      "titulo": "Exclusión de dos personas de bolsas de empleo (trabajo social y auxiliar de hogar)",
+      "categoria": "personal",
+      "resumen": "Se excluye a dos particulares de las bolsas de empleo de Trabajador Social y de Auxiliar de Hogar por no aceptar el llamamiento sin causa justificada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122679C, 918775C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Jubilación de una auxiliar administrativa tras 37 años",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación de una empleada municipal el 22 de febrero de 2026 y se le agradecen sus más de 37 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1206608W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Respuesta a la reclamación de una empleada sobre la bolsa de auxiliares administrativos",
+      "categoria": "reclamaciones",
+      "resumen": "Se aprueba el informe de Personal: la renuncia justificada de la reclamante a un llamamiento no la saca de la bolsa, sigue en el puesto número 4 y no ha cambiado el funcionamiento de la bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1166644P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Cesión del aula de cocina del antiguo colegio San José de Calasanz al Centro de Mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Personas Mayores del IMAS a usar el aula de cocina los días 28 y 29 de enero de 2026 para un taller de panes de San Blas.",
+      "entidades": [
+        {
+          "nombre": "Centro de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1200531E",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "organizacion",
+      "resumen": "No se plantearon cuestiones urgentes, informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "doc": "2024-01-30_JGL_05",
+  "organo": "JGL",
+  "sesion": 5,
+  "fecha": "2024-01-30",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno paga casi 400.000 euros en servicios de diciembre de 2023 (basura y limpieza viaria, zonas verdes, tratamiento de residuos, centro de día, autobús urbano, grúa y una renovación de red de agua). Aprueba las Fiestas de Carnaval 2024 con un presupuesto de 29.221,50 euros y precios de entrada, y pide a la Comunidad Autónoma la autorización ambiental del Ecoparque. También rechaza el recurso contra la oposición de 10 plazas de auxiliar administrativo y las peticiones de dos subinspectores de la Policía Local de cobrar el sueldo íntegro del grupo B.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 23 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación del Ministerio sobre la subvención de la capilla de San Francisco",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Ministerio de Transportes, Movilidad y Agenda Urbana ha enviado la propuesta de liquidación de la subvención concedida para restaurar la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Arquitectura y Edificación (Ministerio de Transportes, Movilidad y Agenda Urbana)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "876292Y",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de la subvención del autobús urbano de diciembre de 2023",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a la empresa concesionaria la subvención del servicio de autobuses urbanos correspondiente a diciembre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28107.32,
+      "importes": [
+        {
+          "concepto": "Subvención servicio de autobuses urbanos, diciembre 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551537Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722241N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la bonificación del 50% del IBI por placas solares porque la instalación (5.107,12 € de presupuesto) no llega a la inversión mínima de 6.000 € que exige la ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "867042A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda aislada con piscina en Casa Palao",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a iniciar las obras de una vivienda unifamiliar aislada con garaje, trastero y piscina, cuya licencia se concedió en julio de 2023, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758883E",
+      "lugar": "Paraje Casa Palao (polígono 105)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca rústica en Fuente de la Negra",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a dos particulares licencia para segregar una parcela de 41.630 m² de una finca de casi 39,5 hectáreas en suelo no urbanizable; la casa existente queda en la finca restante.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843284D",
+      "lugar": "Paraje Fuente de la Negra (polígono 128), suelo no urbanizable",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación temporal de un fontanero para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Por una jubilación y el fin de otro contrato solo queda un fontanero de tres y hay 305 avisos sin atender; se pide al SEF un mínimo de 10 candidatos para contratar un fontanero oficial de 1ª durante seis meses y se aprueban las bases de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "873737Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Denegado a un subinspector de Policía Local cobrar el sueldo íntegro del grupo B",
+      "categoria": "personal",
+      "resumen": "Un subinspector que acreditó la titulación en junio de 2023 pide dejar de sufrir el descuento en nómina por su paso al grupo B. Se deniega: se le aplica el mismo descuento de un año que a sus compañeros, hasta el 7 de junio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "866366M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Denegada a otro subinspector la misma petición sobre el sueldo del grupo B",
+      "categoria": "personal",
+      "resumen": "Petición idéntica de otro subinspector de la Policía Local; se deniega por los mismos motivos y se mantiene el descuento en nómina hasta el 7 de junio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "866376A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Un técnico municipal impartirá el curso 'La Ruta del Vino' de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a un técnico auxiliar de Medio Ambiente para impartir parte del curso 'La Ruta del Vino: el camino para conocer Yecla', con una indemnización de 142,64 € más 45,61 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 188.25,
+      "importes": [
+        {
+          "concepto": "Indemnización por impartir el curso",
+          "eur": 142.64,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Seguridad Social a cargo del Ayuntamiento",
+          "eur": 45.61,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875108D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Una agente de Turismo impartirá el curso 'La Ruta del Vino'",
+      "categoria": "personal",
+      "resumen": "Se designa a la Agente de Desarrollo Local de Turismo para impartir el mismo curso de la Universidad Popular, con una indemnización de 975,26 € más 323,62 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1298.88,
+      "importes": [
+        {
+          "concepto": "Indemnización por impartir el curso",
+          "eur": 975.26,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Seguridad Social a cargo del Ayuntamiento",
+          "eur": 323.62,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875100R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Corrección de un error en la contratación de un trabajador social",
+      "categoria": "personal",
+      "resumen": "Se corrige el acuerdo del 9 de enero para contratar un trabajador social sustituto hasta que se cubra la plaza, quitando la referencia errónea al puesto de la UTS 5. Se contratará de la bolsa de 2021 (hasta tres años) o, si no es posible, por seis meses.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865929E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Jubilación de una conserje tras más de 41 años de servicio",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación de una conserje-operaria municipal el 13 de abril de 2024 y se le agradecen más de 41 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874890A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Rechazado el recurso contra la oposición de 10 plazas de auxiliar administrativo",
+      "categoria": "reclamaciones",
+      "resumen": "Un particular recurrió las bases del concurso-oposición de 10 plazas de auxiliar administrativo (ofertas de 2018, 2019 y 2022) alegando caducidad de plazas, falta de calendario y de paridad en el tribunal, entre otros motivos. Se desestiman todos los motivos y la suspensión cautelar, y se le da acceso al expediente electrónico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "695609Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Curso de formación para la técnica de Juventud (700,20 €)",
+      "categoria": "personal",
+      "resumen": "Se ordena a la técnica de Juventud realizar el curso online 'Experto en Técnico de Juventud' de la Universidad de Castilla-La Mancha, con 700,20 € de matrícula y desplazamientos a Toledo a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Castilla-La Mancha",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 700.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876156J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Puesto de gofres y crepes en la plaza de San Cayetano en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a instalar un remolque de venta de gofres y crepes en la plaza de San Cayetano los días 9, 10 y 11 de febrero, pagando una tasa de 42 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 42.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869596Y",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Afectados de Cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC a usar la sala de reuniones del Centro de Emprendimiento el 6 de febrero para una asamblea.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871625Q",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Peluqueras de Yecla a usar la sala de reuniones del Centro de Emprendimiento el 5 de febrero para una actividad formativa.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "873942J",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio gratis para la presentación del cartel de Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' al Real Cabildo de Cofradías el 18 de febrero para presentar el cartel y programa de Semana Santa y nombrar al Nazareno del año, con rebaja del 100% del precio (120 €) y permiso para un ágape en los soportales.",
+      "entidades": [
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868644A",
+      "lugar": "Auditorio Municipal 'Juan Miguel Benedito'",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Salón de Plenos para la asamblea de la Comunidad de Regantes del Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Comunidad de Regantes del Lentiscar a usar el Salón de Plenos el 23 de febrero para su Asamblea General.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes del Lentiscar de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875586R",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Uso del salón de la Casa Consistorial para una boda civil (9 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la 3ª planta el 9 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872321H",
+      "lugar": "Casa Consistorial, Salón de Sesiones 3ª planta",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Uso del salón de la Casa Consistorial para una boda civil (24 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a celebrar su matrimonio civil en el Salón de Sesiones de la 3ª planta el 24 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875098P",
+      "lugar": "Casa Consistorial, Salón de Sesiones 3ª planta",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Fiestas de Carnaval 2024: programa, presupuesto de 29.221 € y precio de entradas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las Fiestas de Carnaval del 2 al 11 de febrero (coronación de la Reina en el Teatro Concha Segura, tres galas y baile en la Feria del Mueble, desfiles adulto e infantil) con un presupuesto de 29.221,50 € y entradas de 6 € para las galas y 10 € para el baile.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cede el recinto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 29221.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823538D",
+      "lugar": "Teatro Concha Segura, recinto de la Feria del Mueble, plaza de San Cayetano y centro urbano",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Apoyo al Club de Atletismo Yeclano para el Campeonato Regional Sub18",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la Federación de Atletismo de la Región de Murcia a celebrar el Campeonato Regional Sub18 y Control Sub16 el 3 de febrero, con colaboración municipal de 350,90 € en gastos y uso gratuito de la pista valorado en 476,70 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 827.6,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 350.9,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 476.7,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869511E",
+      "lugar": "Pista de atletismo del Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pago de servicios de diciembre: basura, zonas verdes, residuos, centro de día, grúa y agua",
+      "categoria": "pago_factura",
+      "resumen": "Por urgencia se aprueba pagar siete facturas de diciembre de 2023: recogida de basura y limpieza viaria, mantenimiento de zonas verdes, tratamiento de residuos, plazas del Centro de Día, servicio de grúa y renovación de la red de agua en calle San Vicente.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 370736.02,
+      "importes": [
+        {
+          "concepto": "Centro de Día, plazas de dependientes, diciembre 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, diciembre 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, diciembre 2023",
+          "eur": 72330.32,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Mantenimiento de zonas verdes, 1-19 diciembre 2023",
+          "eur": 29803.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de zonas verdes, 20-31 diciembre 2023",
+          "eur": 18823.0,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Retirada y depósito de vehículos (grúa), diciembre 2023",
+          "eur": 9946.2,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Renovación de red en calle San Vicente",
+          "eur": 22282.08,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A, 495804R, 584325N, 538849C, 697847H, 845585Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Desplazamiento de la asesora jurídica del CAVI a una reunión regional",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del Centro de Atención a Víctimas de Violencia (CAVI) asistir a una reunión de la red regional, con desplazamiento a cargo del Ayuntamiento. El acta fecha la reunión el 2 de enero de 2024, probablemente una errata.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Mujer y Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877853Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Un mantenedor cubrirá las guardias de fontanería con plus de penosidad",
+      "categoria": "personal",
+      "resumen": "Como solo queda un fontanero de los tres necesarios para las guardias, se asigna provisionalmente a un mantenedor de la Brigada de Obras las guardias semanales de ocho horas, con su plus de penosidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877369T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Adjudicado el bar de la Feria del Mueble en Carnaval (paga 922 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el contrato menor del servicio de bar en la Feria del Mueble durante el Carnaval; el adjudicatario paga al Ayuntamiento 922 € y deja 500 € de garantía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 922.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871694M",
+      "lugar": "Recinto de la Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Procesión de la Candelaria de la Parroquia de la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia de la Purísima a celebrar la Procesión de la Candelaria el 3 de febrero con apoyo de la Policía Local para el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877949Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Puesto ambulante de frutos secos y globos en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un particular licencia de puesto eventual para vender frutos secos, algodón, globos y baratijas en un carrito durante el Carnaval, con una tasa de 36 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 36.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876008D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Puesto de patatas fritas y pizzas en la plaza de San Cayetano en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a instalar un remolque de venta de patatas fritas y pizzas en la plaza de San Cayetano del 9 al 11 de febrero, con una tasa de 48 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 48.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877583Q",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Se pide la autorización ambiental del Ecoparque de Las Teresas",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueban el informe de situación del suelo y el proyecto técnico del Ecoparque municipal y se solicita a la Dirección General de Medio Ambiente su autorización ambiental sectorial.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875653K",
+      "lugar": "Ecoparque, P.I. Las Teresas, calle Doctor Trueta",
+      "interes": 2
+    }
+  ]
+}

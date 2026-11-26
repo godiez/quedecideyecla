@@ -1,0 +1,813 @@
+{
+  "doc": "2023-07-04_JGL_31",
+  "organo": "JGL",
+  "sesion": 31,
+  "fecha": "2023-07-04",
+  "tipo_sesion": "ordinaria",
+  "paginas": 34,
+  "resumen": "La Junta de Gobierno aprueba el programa 'Verano en Danza 2023' en la Plaza de Toros, con un presupuesto de 92.504 euros (casi la mitad para la actuación de Los Morancos), y paga 249.697 euros en facturas, sobre todo la recogida de basura y la limpieza viaria. Prorroga un año más el contrato de la luz con Gas Natural Comercializadora y rebaja a 16.697 euros el impuesto de obras que debe pagar la empresa que reforma los juzgados. Hace fijas a 15 técnicas de Educación Infantil y reconoce ante la Comunidad Autónoma que el Ayuntamiento no ha hecho a tiempo el censo de amianto que exige la ley.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 27 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: plan turístico, rehabilitación del centro, reintegro y dos sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa de: el representante del Gobierno en la Junta Local de Seguridad; problemas con la aplicación CoFFEE del Plan de Sostenibilidad Turística de Yecla (3,3 millones de euros); un acuerdo de la Comisión Bilateral sobre la rehabilitación de viviendas 'Yecla Centro. Fase I' (fondos europeos NextGenerationEU); una orden de la Comunidad Autónoma que obliga a devolver la subvención de la señalización turística del casco urbano; y dos sentencias del Juzgado Contencioso nº 6 de Murcia que dan la razón a vecinos contra el Ayuntamiento (una multa de medio ambiente y la falta de ejecución de una resolución de infracción urbanística).",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención / pide reintegro"
+        },
+        {
+          "nombre": "Comisión Bilateral (Ministerio y CARM) del Plan de Recuperación",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "793151Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza viaria, consorcio de residuos y Teatro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la recogida de basura, limpieza viaria y recogida selectiva de mayo, el tratamiento de residuos de mayo al Consorcio regional y los servicios generales del Teatro y Auditorio de enero a abril.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la gestión de residuos sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 249697.04,
+      "importes": [
+        {
+          "concepto": "Servicios generales Teatro y Auditorio, enero a abril 2023",
+          "eur": 9437.7,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, mayo 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos, mayo 2023",
+          "eur": 59995.0,
+          "entidad": "Consorcio para la gestión de residuos sólidos de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774388P, 495804R, 584325N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebajado a 16.697 € el impuesto de obras de la reforma de los juzgados",
+      "categoria": "fiscal",
+      "resumen": "La UTE que reforma los juzgados para el Ministerio de Justicia (mejora de eficiencia energética) pidió bajar el ICIO. Se le deniegan bonificaciones, el tipo reducido para instalaciones y el descuento por pago anticipado, pero se aceptan quitar de la base la seguridad y salud, residuos, control de calidad y la baja de licitación: la base pasa de 623.683 € a 505.959 € y el impuesto de 20.582 € a 16.697 €.",
+      "entidades": [
+        {
+          "nombre": "UTE Juzgados Lote 11",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga impuesto / reclama"
+        },
+        {
+          "nombre": "Ministerio de Justicia (Subdirección General de Obras y Patrimonio)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promotor de la obra"
+        },
+        {
+          "nombre": "Sociedad Estatal de Gestión Inmobiliaria de Patrimonio, S.A. (SEGIPSA)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta el proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16696.65,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "711871K",
+      "lugar": "Juzgados de Yecla, calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Se queda la fianza de un chiringuito de la Cabalgata de San Isidro por disturbios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se incauta la fianza del titular del chiringuito nº 144 de la Cabalgata de Carrozas de San Isidro 2023, porque según la Policía Local hubo disturbios o problemas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753986D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Se queda la fianza de otro chiringuito de la Cabalgata por disturbios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se incauta la fianza del titular del chiringuito nº 78B de la Cabalgata de Carrozas de San Isidro 2023 por disturbios o problemas según la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753986D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Se queda la fianza de un tercer chiringuito de la Cabalgata por disturbios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se incauta la fianza del titular del chiringuito nº 190 de la Cabalgata de Carrozas de San Isidro 2023 por disturbios o problemas según la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753986D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda con piscina en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Tras presentar el proyecto corregido (fosa séptica) y la nota registral de zona inundable, se autoriza a un vecino a iniciar las obras de una vivienda unifamiliar con piscina (licencia 88/2016).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "116699H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar las obras de una vivienda aislada en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un matrimonio a iniciar las obras de una vivienda aislada con aparcamiento y trastero (licencia 665/2022), recordando que debe dejar pasar el agua por debajo del edificio: las aberturas del proyecto son insuficientes y se revisará antes de la primera ocupación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696701Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Permiso para empezar las obras de una vivienda aislada con aparcamiento",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un matrimonio a iniciar las obras de una vivienda unifamiliar aislada con aparcamiento (licencia 768/2022).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "709605N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "El Ayuntamiento no ha hecho a tiempo el censo de amianto que exige la ley",
+      "categoria": "medio_ambiente",
+      "resumen": "La Comunidad Autónoma reitera que el Ayuntamiento debía tener antes del 10 de abril de 2023 un censo de edificios e instalaciones con amianto y un calendario para retirarlo (Ley 7/2022). El Ayuntamiento reconoce que no ha cumplido y envía a la Dirección General de Medio Ambiente el informe del jefe de los Servicios Técnicos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requiere"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677208R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "15 técnicas de Educación Infantil pasan a ser personal fijo",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a las 15 aspirantes con mejor puntuación del concurso de méritos de estabilización de empleo temporal para plazas de Técnico de Educación Infantil (30 horas), tras estimar alegaciones de tres aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785401K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de analista programador: lista provisional de admitidos y fechas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 6 aspirantes admitidos a la bolsa de empleo de Analista Programador/Analista de Sistemas, se nombra el tribunal y se fija la valoración de méritos el 30 de agosto y el examen tipo test el 1 de septiembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681923Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Se encargan las bases de una bolsa de empleo de arquitectos técnicos",
+      "categoria": "personal",
+      "resumen": "A propuesta del jefe de los Servicios Técnicos, se encarga redactar las bases de un concurso-oposición para crear una bolsa de arquitectos técnicos interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793644W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Reparación de la pala cargadora de caminos por 15.562 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para reparar la pala cargadora del servicio de mantenimiento de caminos.",
+      "entidades": [
+        {
+          "nombre": "Soluciones de Maquinaria y Distribuciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15562.45,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793398R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Adjudicada la organización de 'Verano en Danza 2023' por 35.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular, único licitador y al precio de salida sin mejoras, el contrato mixto de servicios y suministro para la infraestructura, producción y organización de 'Verano en Danza 2023'.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 35000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783431Z",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Comidas a domicilio para mayores: Serunion, única oferta, propuesta para adjudicar",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de la única oferta presentada al contrato de comidas a domicilio para mayores o dependientes y se pide a Serunion que presente la documentación y una garantía de 4.352,62 € (5% del precio de dos años sin IVA, lo que supone unos 87.000 € sin IVA).",
+      "entidades": [
+        {
+          "nombre": "Serunion, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766229H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Denegado un paso de peatones elevado en la calle Pintor Juan Albert",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una vecina pidió un paso sobreelevado a la altura de la plaza de la Concordia. Se deniega porque ya hay otro cerca para los escolares y la Policía Local no ve más velocidad que en otras calles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "784393K",
+      "lugar": "calle Pintor Juan Albert, plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Denegada a Pastelería Polmar la zona de carga y descarga en domingos y festivos",
+      "categoria": "via_publica_eventos",
+      "resumen": "La pastelería pidió que la zona de carga y descarga funcionase también domingos y festivos. Se deniega porque es para todos los comercios y hay que repartir el aparcamiento.",
+      "entidades": [
+        {
+          "nombre": "Pastelería Polmar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "745836J",
+      "lugar": "calle San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Fiesta de fin de curso del AMPA de la Escuela Infantil La Campanilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la fiesta en la placeta Pintor Juan Ortuño el 14 de julio, de 17:00 a 00:00, sin instalaciones y con limpieza a cargo de los organizadores, y se le prestan 8 vallas.",
+      "entidades": [
+        {
+          "nombre": "AMPA de la E.I. La Campanilla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782144M",
+      "lugar": "placeta Pintor Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Boda civil en la Casa Consistorial (4 de agosto)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793286M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Boda civil en la Casa Consistorial (8 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792884D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Boda civil en la Casa Consistorial (3 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788930M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Boda civil en el Auditorio Municipal (21 de octubre), pagando 120 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Auditorio Juan Miguel Benedito para un matrimonio civil, previo pago del precio público de 120 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784815X",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón del Edificio Bioclimático para un taller de CERMI con mujeres con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Comisión de Mujeres e Igualdad de CERMI Región de Murcia a usar el Salón de Actos del Edificio Bioclimático el 7 de julio para un taller con mujeres con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "CERMI Región de Murcia (Comisión de Mujeres e Igualdad)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794466A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Espacio de ocio del Edificio Cazadores para AMPY en julio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Personas con Discapacidad Intelectual de Yecla a usar el espacio de ocio del sótano del Edificio Cazadores seis días de julio para actividades de ocio y deporte.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793581X",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Espacio de ocio del Edificio Cazadores para la escuela de verano de AFEDECO",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO a usar el espacio de ocio del sótano del Edificio Cazadores el 18 de julio para su escuela de verano y campamento urbano.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793498F",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "'Residencia de Artistas', 2ª edición, de la Escuela de Bellas Artes (3.800 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Residencia de Artistas, 2ª edición' de la Escuela Municipal de Bellas Artes, dentro del programa 'Edículo activo', con un gasto estimado de 3.800 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "791225Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "'Verano en Danza 2023' en la Plaza de Toros: 92.504 €, con Los Morancos",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de julio en la Plaza de Toros (cinco espectáculos de baile de academias locales a 5-6 €, concierto de la Banda de la AAMY y el humor de Los Morancos a 15-25 €) y su presupuesto de 92.504,50 € con IVA; solo Los Morancos cuestan 45.500 € más IVA, y se gastan 7.050 € en césped artificial para el ruedo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Los Morancos",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad General de Autores y Editores (SGAE)",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 92504.5,
+      "importes": [
+        {
+          "concepto": "Espectáculo de humor 'Todo por la matria' (sin IVA)",
+          "eur": 45500.0,
+          "entidad": "Los Morancos"
+        },
+        {
+          "concepto": "Concierto 'De la zarzuela al musical' (sin IVA)",
+          "eur": 2000.0,
+          "entidad": "Asociación de Amigos de la Música de Yecla (AAMY)"
+        },
+        {
+          "concepto": "Derechos de autor (sin IVA)",
+          "eur": 5000.0,
+          "entidad": "Sociedad General de Autores y Editores (SGAE)"
+        },
+        {
+          "concepto": "Alquiler de sillas, mobiliario y decoración (sin IVA)",
+          "eur": 7500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Césped artificial para el ruedo (sin IVA)",
+          "eur": 7050.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA 21%",
+          "eur": 16054.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 3
+    },
+    {
+      "ref": "11",
+      "titulo": "Condolencias por la muerte de un exalcalde de Yecla (1973-1979)",
+      "categoria": "organizacion",
+      "resumen": "La Junta de Gobierno expresa sus condolencias a la familia del que fue alcalde de Yecla entre 1973 y 1979, fallecido el 27 de junio de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792979K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago del mantenimiento del programa informático de la Policía Local",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento del programa de gestión policial VINFOPOL.",
+      "entidades": [
+        {
+          "nombre": "Suitable Software Vinfoval, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782796R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Un fontanero municipal más en las guardias de verano",
+      "categoria": "personal",
+      "resumen": "Se asigna provisionalmente, de julio a septiembre, a un oficial de fontanería al servicio de guardias semanales (que solo tenía tres trabajadores), con su plus de penosidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778926R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Turnos de un policía local con reducción de jornada por cuidado de hijos",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cuadrante del segundo semestre de un agente de la Policía Local con reducción de jornada del 35%, aplicada sobre todo en turnos de mañana de días laborables.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "727549K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Plan de empleo social 2023: contratado un ordenanza-telefonista",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan de Promoción e Inserción Social a través del Empleo 2023 se contrata a una persona como ordenanza-telefonista y se aprueba una lista de espera de cinco aspirantes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "773877E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Prorrogado un año el contrato de la luz con Gas Natural Comercializadora",
+      "categoria": "contrato",
+      "resumen": "Se prorroga del 6 de agosto de 2023 al 5 de agosto de 2024 (tercera de cuatro prórrogas posibles) el suministro eléctrico de edificios, instalaciones y alumbrado público, contratado a través del acuerdo marco de la FEMP. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Gas Natural Comercializadora, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "acuerdo marco"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794205N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Bases para adjudicar el bar de 'Verano en Danza 2023'",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases del contrato menor del servicio de bar en la Plaza de Toros durante 'Verano en Danza 2023'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794071C",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Puesto benéfico de la Parroquia de San Juan Bautista en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia a poner un puesto para recaudar fondos los miércoles de julio y se le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista de Yecla",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794198D",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Sala del Centro de Emprendimiento para un acto de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a usar la sala de reuniones el 10 de julio para entregar los premios de la I Edición Solidaria de Geolocalización.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794675Q",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Quinta tanda de ayudas a familias para luz, gas, agua y electrodomésticos",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas a las familias que recoge el informe de Servicios Sociales para pagar suministros básicos de su vivienda y comprar electrodomésticos eficientes. El acta no dice cuántas ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621084R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Dos menores cumplen trabajos en beneficio de la comunidad en el Espacio Joven",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de la asociación CEFIS, se autoriza que dos menores cumplan en el Espacio Joven medidas judiciales de 40 y 35 horas de trabajos en beneficio de la comunidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación Colectivo de Estudios Formación e Intervención Social (CEFIS)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide colaboración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794194Y",
+      "lugar": "Espacio Joven",
+      "interes": 1
+    }
+  ]
+}

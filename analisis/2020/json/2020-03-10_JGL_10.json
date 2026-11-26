@@ -1,0 +1,951 @@
+{
+  "doc": "2020-03-10_JGL_10",
+  "organo": "JGL",
+  "sesion": 10,
+  "fecha": "2020-03-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 41,
+  "resumen": "La Junta de Gobierno paga a Podium casi 88.000 euros como indemnización por horas de socorrismo hechas fuera de contrato, y aprueba el plan presupuestario 2021-2023 (unos 28 millones al año y deuda a la baja). Licita el servicio de grúa (70.000 € al año) y la infraestructura de San Isidro (91.214 €), adjudica un ascensor para el centro de emprendimiento y tres obras de teatro, y convoca los concursos para cubrir en propiedad Secretaría, Intervención y Tesorería. La Bata LAN se aplaza por el coronavirus.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 3 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: concurso de habilitados, reintegro de un curso del SEF y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución del concurso de puestos de habilitación nacional (BOE), del inicio por el SEF de un reintegro parcial de la subvención de un curso de tapizado (AC-2017-2109) y de una sentencia del Juzgado Contencioso nº 5 de Murcia que anula una multa municipal por infracción grave de la Ley de Seguridad Ciudadana.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de la Función Pública",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro de subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "423299Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de gasóleo B a Multigás Enértica",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar una factura de gasóleo B.",
+      "entidades": [
+        {
+          "nombre": "Multigás Enértica, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13580.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397298D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Indemnización de 71.389 € a Podium por horas extra de socorrismo sin contrato",
+      "categoria": "pago_factura",
+      "resumen": "Se convalida y paga como indemnización (enriquecimiento injusto) un exceso de horas de socorrismo y actividades dirigidas en las piscinas (junio 2018-junio 2019) que se hizo fuera del contrato C.SE. 5/2015, ya agotado; la Intervención detectó omisión de la fiscalización previa.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 71389.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "353197C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Indemnización de 16.527 € a Podium por horas de socorrismo con el contrato caducado",
+      "categoria": "pago_factura",
+      "resumen": "Se convalida y paga como indemnización el servicio de socorrismo y actividades dirigidas de junio a noviembre de 2019, prestado cuando el contrato C.SE. 5/2015 ya había expirado, con omisión de la fiscalización previa.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16527.86,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "353199E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Teatro gratis para la obra benéfica de ADFY y KAPACES",
+      "categoria": "fiscal",
+      "resumen": "Se rebaja al 100% el precio público del Teatro Concha Segura (1.800 €/día) para una obra teatral benéfica el 22 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe bonificación"
+        },
+        {
+          "nombre": "Asociación para la vida independiente de personas con diversidad funcional de Yecla (KAPACES)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "408668W",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Plan presupuestario 2021-2023: unos 28,3 millones al año y deuda a la baja",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el plan presupuestario a medio plazo: ingresos no financieros de unos 26,9 millones al año, gastos de 26,6 millones, superávit de 47.000-52.000 € y deuda que baja de 9,6 a 9,0 millones (36% a 34% de los ingresos). Personal, 11,8 millones; IBI urbana, 9 millones. Se remite a Hacienda y se da cuenta al Pleno.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Hacienda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "417387E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular de una licencia de vivienda aislada en Umbría de Las Botijas",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del cambio de promotor y constructor de la licencia urbanística 5/2013 para una vivienda unifamiliar aislada, tras una compraventa.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "415151Z",
+      "lugar": "Paraje Umbría de Las Botijas",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de técnico director en una obra de vivienda en Casa Carrasco",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del cambio de director de ejecución y coordinador de seguridad y salud de la licencia 120/2017 de una vivienda unifamiliar aislada.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "415292W",
+      "lugar": "Paraje Casa Carrasco",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Aplazado: establecimiento comercial de Morales Puche en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deja sobre la mesa, para mejor estudio, el escrito de Morales Puche, S.L. sobre la construcción de un establecimiento comercial (expediente S.N.U. 5/2019).",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "182847E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Convocatoria del concurso para cubrir en propiedad la Secretaría",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario 2020 para cubrir en propiedad el puesto de Secretaría, reservado a funcionarios de habilitación nacional.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica en BORM"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "422408D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Convocatoria del concurso para cubrir en propiedad la Intervención",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario 2020 para cubrir en propiedad el puesto de Intervención.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica en BORM"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "422433N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Convocatoria del concurso para cubrir en propiedad la Tesorería",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario 2020 para cubrir en propiedad el puesto de Tesorería.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica en BORM"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "422449K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Dos trabajadores sociales irán a una reunión del IMAS sobre dependencia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadores sociales asistir en Murcia a una reunión técnica sobre la Ley de Dependencia y se les pagan los gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "422406A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Denegada a un agente de Policía Local la formación con el sonómetro",
+      "categoria": "personal",
+      "resumen": "Se deniega la petición de un agente de recibir formación sobre el sonómetro de ruido: según la Jefatura no hubo curso, solo se explicó a los agentes de turno, y un cabo le enseñará cuando lo use. Se le pide que presente sus solicitudes de forma clara.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "202326J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Un agente de Policía Local pide el detalle de 44 minutos de trabajo que debe",
+      "categoria": "personal",
+      "resumen": "Se le facilita el informe de la Jefatura: los 44 minutos corresponden a horario no cumplido en tres días de 2017 y 2018, con la misma revisión que al resto de la plantilla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "202326J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación del servicio de grúa municipal: 70.000 € al año durante dos años",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto (con anuncio en el Diario de la UE) para la retirada, traslado y depósito de vehículos y movimiento de elementos de seguridad, con precio base de 70.000 € anuales IVA incluido por dos años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 140000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412195T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Musical «Aladín» en el Teatro Concha Segura por 9.075 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el espectáculo «Aladín, un musical genial» del 14 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Servicios Especializados en Distribución Artística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9075.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "413542P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Obra «La fuerza del cariño» en el Teatro Concha Segura por 13.915 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la representación de «La fuerza del cariño» del 22 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13915.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "413544R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Obra «Intocables» en el Teatro Concha Segura por 10.285 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la representación teatral «Intocables» del 18 de abril (el acuerdo repite por error el título «La fuerza del cariño»).",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10285.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "415872A",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para el «Bar A la Mesa»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 6 m² en temporada de invierno; tasa pagada de 42 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 42.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "384117X",
+      "lugar": "C/ Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno para la «Churrería La Paloma»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 27 m² en temporada de invierno, previo pago de una tasa de 189 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 189.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "376968R",
+      "lugar": "Avda. de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de invierno para el Café-Bar «Tragaluz»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 20 m² en temporada de invierno; tasa pagada de 140 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 140.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "392783H",
+      "lugar": "C/ Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de invierno para «Conca Café»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 32 m² en temporada de invierno; tasa pagada de 224 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 224.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "392784J",
+      "lugar": "C/ Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de invierno para la «Cafetería Mogambo»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 23 m² en temporada de invierno; tasa pagada de 161 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 161.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "392785K",
+      "lugar": "Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Clausura de la 9ª Ruta del Vino y la Tapa en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino el acto de clausura el 15 de marzo, con tableros, bidones y banquillos municipales, venta de alcohol y permiso para superar los límites de ruido; fianza de limpieza de 300 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "418712W",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Festival escolar «Musiqueando 2020» en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a varios colegios el festival de música escolar del 2 de abril, con megafonía y punto de luz municipales y permiso para superar los límites de ruido.",
+      "entidades": [
+        {
+          "nombre": "Colegio San Francisco de Asís",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "C.E.I.P. Alfonso X",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "C.E.I.P. La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "C.E.I.P. Herratillas",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "C.E.I.P. El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "C.E.I.P. Giner de los Ríos",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Colegio de Educación Especial Virgen de la Esperanza",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Colegio de La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "408525X",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de actos del Edificio Bioclimático para el CEIP La Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 25 de marzo para una jornada de microexperiencias educativas.",
+      "entidades": [
+        {
+          "nombre": "C.E.I.P. La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "421309C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala municipal para las expropiaciones de la Autovía A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de C/ Epifanio Ibáñez 2 del 22 de abril al 8 de mayo para levantar actas de ocupación y pago de depósitos e indemnizaciones de la obra de la Autovía A-33, tramo enlace C-3223 a Yecla-enlace N-344.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (Ministerio de Transportes, Movilidad y Agenda Urbana)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "408575Q",
+      "lugar": "C/ Epifanio Ibáñez 2",
+      "interes": 2
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Despacho en la Casa del Deporte II para el Club Ciclista Yecla",
+      "categoria": "patrimonio",
+      "resumen": "Se cede al Club Ciclista Yecla, en precario y de forma compartida, el despacho nº 3 de la Casa del Deporte II (complejo Juan Palao), con fianza de 100 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "419561Z",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Cambio de titular de un puesto de calzado del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la transmisión del puesto 6-Z del mercadillo junto al Mercado de San Cayetano entre dos particulares, por doce años.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "366993N",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Baja en el puesto 25 del mercadillo junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja al titular del puesto 25, que queda vacante; de la fianza de 90 € se retienen 72 € por un recibo impagado y se devuelven 18 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "376800J",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Baja en el puesto 27 del mercadillo junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja al titular del puesto 27, que queda vacante, y se le devolverá la fianza.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "419009H",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Baja con efecto desde 2019 en el puesto 26 del mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja desde enero de 2019 al titular del puesto 26, que no montaba desde entonces, y se anulan los recibos de enero de 2019 a febrero de 2020.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "418917E",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Normas de matrícula y bonificaciones de las escuelas infantiles 2020/2021",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la oferta de plazas, las normas de matrícula, funcionamiento y bonificaciones de las escuelas infantiles municipales y el plazo de solicitudes del 13 al 28 de abril de 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "409067Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Programa de inserción laboral para personas con discapacidad intelectual: 52.750 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa 2020 de inserción sociolaboral para personas con discapacidad intelectual leve o moderada y un gasto de 52.750 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 52750.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "419856J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Protocolo con Cruz Roja para el servicio de mediación sociolaboral",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un protocolo con la Asamblea Local de Cruz Roja para coordinar el programa SMS de mediación sociolaboral para personas en riesgo de exclusión, financiado por el FSE (80%) y la CARM (20%).",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española, Asamblea Local de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "416311K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Aplazada la «Bata LAN 2020» por el coronavirus",
+      "categoria": "servicios_actividades",
+      "resumen": "Se deja sobre la mesa la actividad juvenil Bata LAN (27-29 de marzo) a la espera de las medidas por la epidemia de coronavirus.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "416477Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Horario especial del Mercado de San Cayetano la víspera de San José",
+      "categoria": "servicios_actividades",
+      "resumen": "El 18 de marzo el mercado abrirá de 8:00 a 14:00 y de 17:30 a 21:30, y se contrata a TSI Levante el cierre y limpieza extra.",
+      "entidades": [
+        {
+          "nombre": "TSI Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "417369E",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Pago de 15.930 € de gasóleo para polideportivos y colegios a Las Balsillas",
+      "categoria": "pago_factura",
+      "resumen": "Se corrige un error de adjudicación (los contratos menores se hicieron a nombre de otra empresa del mismo grupo) y se paga una factura única del gasóleo de 2019 de instalaciones deportivas y colegios.",
+      "entidades": [
+        {
+          "nombre": "Las Balsillas Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Estaciones de Servicio Las Balsillas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria por error"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15930.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "406568D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Licitación de la infraestructura de las Fiestas de San Isidro 2020: 91.214 €",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado en cinco lotes: producción y escenarios (54.813 €), aseos portátiles (5.929 €), vallado (7.845,64 €), tribunas y sillas (15.125 €) y alumbrado de Los Ventorrillos (7.502 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 91214.64,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actuaciones y conciertos",
+          "eur": 54813.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: aseos portátiles",
+          "eur": 5929.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: vallado ornamental",
+          "eur": 7845.64,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: tribunas y sillas",
+          "eur": 15125.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: electricidad y alumbrado festivo",
+          "eur": 7502.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "421960F",
+      "lugar": "Los Ventorrillos de San Isidro",
+      "interes": 2
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Ascensor para el centro de emprendimiento: 29.645 € a Pecres",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto (32.000 €) y se adjudica por contrato menor la instalación de un ascensor en el centro de emprendimiento y capacitación tecnológica.",
+      "entidades": [
+        {
+          "nombre": "Pecres, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 29645.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "405349K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Prácticas de alumnos del IES Castillo Puche en las escuelas infantiles",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a ocho alumnos del ciclo superior de Educación Infantil a hacer prácticas en las escuelas infantiles municipales de marzo a junio.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "424370D",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

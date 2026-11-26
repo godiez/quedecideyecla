@@ -1,0 +1,607 @@
+{
+  "doc": "2025-03-04_JGL_12",
+  "organo": "JGL",
+  "sesion": 12,
+  "fecha": "2025-03-04",
+  "tipo_sesion": "ordinaria",
+  "paginas": 29,
+  "resumen": "La Junta de Gobierno adjudica la rehabilitación de un aula-taller en el Centro de Formación La Herrada por 46.803 euros, renueva las licencias de seguridad informática Fortinet por 14.469 euros y paga 37.404 euros de la obra del centro enoturístico de la Casa de los Arcos. Se nombra un nuevo jefe jurídico de Urbanismo tras la renuncia de la anterior, se cambian las bases de las oposiciones de auxiliar de biblioteca y mecánico, y se aprueban la Música en la Cuaresma (12.463 euros), un servicio de conciliación y la colaboración con una carrera de BTT y un campeonato de atletismo. Se desaconseja un circo en los terrenos de la antigua estación porque coincide con las Fiestas de San Isidro.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 26 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: ayuda de la CARM para vehículos patrulla rural de la Policía Local",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden de la Comunidad Autónoma que concede y paga al Ayuntamiento una subvención para comprar vehículos patrulla rural de la Policía Local (cuarta anualidad, 2024, del programa de ayuda a las policías locales 2021-2025). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1054306P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de la obra de teatro 'Animales de compañía': 11.979 €",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a Pentación la representación de la obra 'Animales de compañía' el 8 de febrero en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11979.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037638P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 7 del centro enoturístico de la Casa de los Arcos: 37.404 €",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la séptima certificación de la obra del centro enoturístico y mejora energética de la Casa de los Arcos (Plan de Sostenibilidad Turística 'Yecla ES +', fondos europeos Next Generation), a favor de la constructora Urgacen Viena 25.",
+      "entidades": [
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37403.59,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Paralizada la obra de una vivienda por renuncia de la directora de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "El Colegio de Aparejadores comunica que la directora de ejecución de la obra de una vivienda unifamiliar (licencia 414/2018) renuncia por dejar la profesión. La Junta toma nota y la obra queda paralizada hasta que se nombre un nuevo director.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "81881Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "La asesora jurídica del CAVI irá a un encuentro de derecho de familia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del Centro de Atención a Víctimas de Violencia de Género asistir al I Encuentro Regional de Profesionales de Derecho de Familia del Colegio de Abogados de Murcia (6 y 7 de marzo), con gastos a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Ilustre Colegio Oficial de Abogados de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052678D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Personal de Servicios Sociales acompañará a 110 mayores en una visita a Cehegín",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora y dos trabajadoras sociales organizar y acompañar la visita cultural a Cehegín de 110 usuarios del Centro de Mayores Herratillas el 29 de abril; se les pagarán horas extraordinarias.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053643T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Renuncia la jefa interina del departamento jurídico de Urbanismo",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia voluntaria, desde el 27 de febrero, de la técnica de administración general interina que era jefa del Departamento Jurídico-Administrativo de Urbanismo, y se la excluye de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054541Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Oferta al SEF para contratar un pintor y cuatro peones (programa de empleo 2024)",
+      "categoria": "personal",
+      "resumen": "Se pide al Servicio Regional de Empleo y Formación tres candidatos por puesto para contratar un pintor oficial de primera (5 meses) y cuatro peones (4 meses) para mejorar edificios y espacios públicos, dentro del programa Empleo Público Local subvencionado por el SEF. Se nombra la comisión de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "980079X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Renovación de licencias y soporte de seguridad informática Fortinet: 14.469 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Nextret el contrato menor de renovación de licencias y soporte de los equipos de seguridad Fortinet del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Nextret, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14468.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046688J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Marketing digital 'Yecla es Comercio': 7.653 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Onuson Producciones el contrato menor del proyecto de marketing digital 'Yecla es Comercio' para promocionar el comercio local.",
+      "entidades": [
+        {
+          "nombre": "Onuson Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7653.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054513C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "El Centro de Mayores del IMAS usará el jardín de la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Social de Personas Mayores del IMAS a usar el jardín de la Avenida de la Feria el 29 de mayo para una muestra de talleres de ejercicio físico, y se le prestan una carpa, una mesa y 50 sillas.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046367N",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Informe desfavorable a un circo junto a la antigua estación en San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una particular pide instalar el 'Circo Francia de París' del 11 de abril al 4 de mayo en terrenos privados junto a la antigua estación de tren. El Ayuntamiento responde que no es competente (aforo menor de 150 personas, corresponde a la CARM) y aprueba informes desfavorables porque coincide con las Fiestas de San Isidro, que ocupan esos terrenos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "competente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1053054A",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis al CEIP La Pedrera para su Semana Cultural",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio La Pedrera a usar el Auditorio Juan Miguel Benedito el 10 de marzo y se le rebaja el 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "C.E.I.P. La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053843X",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis al IES Azorín para un intercambio educativo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES J. Martínez Ruiz 'Azorín' a usar el Auditorio el 22 de mayo (Programa de Promoción del Talento) y se le rebaja el 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "I.E.S. J. Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051696P",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Plenos para un documental de la Asociación del Nordeste",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia a usar el Salón de Plenos el 28 de marzo para proyectar un documental y un ágape.",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1047445K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Sesiones para una boda civil el 2 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1049825Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Servicio de conciliación en días sin cole (17-18 de marzo y 2 de mayo): 3.025 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el servicio de conciliación del Servicio de Juventud para los días no lectivos 17 y 18 de marzo y 2 de mayo, con un presupuesto de 3.025 €, financiado con la subvención regional de 16.470 € cofinanciada por el Fondo Social Europeo Plus.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3025.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054122J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayuda a domicilio concedida de oficio a un vecino",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede el servicio de ayuda a domicilio a una persona, según el informe de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1053301T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Nombramiento urgente de un nuevo jefe jurídico de Urbanismo interino",
+      "categoria": "personal",
+      "resumen": "Por urgencia (hay dos plazas de técnico de administración general vacantes en Secretaría), se nombra de la bolsa de empleo un técnico de administración general interino como jefe del Departamento Jurídico-Administrativo de Urbanismo, hasta que la plaza se cubra en propiedad (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054819C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Oposición de auxiliar de biblioteca: se acepta un recurso y se valora la FP II",
+      "categoria": "personal",
+      "resumen": "Se estima el recurso de una aspirante contra las bases de las tres plazas de auxiliar de biblioteca y se añade como mérito (0,75 puntos) el título de FP II o módulo de nivel 3 en Biblioteconomía, Archivística y Documentación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015282P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Oposición de mecánico: cambia el tribunal porque la CARM no envía vocal",
+      "categoria": "personal",
+      "resumen": "Como la Comunidad Autónoma no tiene funcionarios disponibles para el tribunal de la plaza de mecánico del parque móvil, se modifican las bases: los cuatro vocales podrán ser de cualquier administración pública.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1020318J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Obra del aula-taller del Centro de Formación La Herrada: 46.803 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (48.391 €) y se adjudica a Construcciones y Promociones Molina Yago 2000 el contrato menor de obras para rehabilitar un aula-taller del Centro de Formación La Herrada por 46.802,80 €.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 46802.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1049337N",
+      "lugar": "Centro de Formación La Herrada",
+      "interes": 3
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Unidad móvil de la campaña digital 'Applícate' en la Estación de Autobuses",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Fundación Integra Digital (CARM), a petición de Silma 97 en su nombre, a instalar del 9 al 16 de marzo una unidad móvil de formación en competencias digitales básicas en el recinto de la Estación de Autobuses.",
+      "entidades": [
+        {
+          "nombre": "Fundación Integra Digital",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Silma 97, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052163N",
+      "lugar": "Estación de Autobuses, Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Sermón de las Siete Palabras de la Cofradía de la Vera Cruz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Cofradía del Santísimo Cristo de la Agonía y Vera Cruz a usar la Capilla de la Virgen de las Angustias (Iglesia de San Francisco) el 7 y 8 de marzo para el Sermón de las Siete Palabras, con los gastos a su cargo.",
+      "entidades": [
+        {
+          "nombre": "Cofradía del Santísimo Cristo de la Agonía y Vera Cruz",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051584J",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Puesto de venta de caracoles en el Mercado de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se adjudica provisionalmente a una vecina un puesto de venta de caracoles en el Mercado de San Cayetano del 1 de marzo al 31 de agosto, a 10 € por metro y mes, con las condiciones sanitarias de la inspectora municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046532R",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Programa 'Música en la Cuaresma 2025': 12.463 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el programa y el presupuesto de gastos de la actividad cultural 'Música en la Cuaresma 2025'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12463.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1055418J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Campeonatos regionales Sub10 y Sub12 de atletismo en la pista Juan Palao",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la Federación de Atletismo de la Región de Murcia a celebrar los campeonatos de invierno el 8 de marzo, con colaboración municipal: gastos de 375,10 € y uso gratuito de la pista valorado en 408,60 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 783.7,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 375.1,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 408.6,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1023386W",
+      "lugar": "Pista de atletismo del Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Colaboración con la XVII Marcha BTT Komokabras del Club Ciclista Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la colaboración municipal con la marcha de bicicleta de montaña del 9 de marzo (salida en calle Salzillo): gastos de 914,46 € y uso gratuito de instalaciones deportivas valorado en 1.147 €.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2061.46,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 914.46,
+          "entidad": "Club Ciclista Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 1147.0,
+          "entidad": "Club Ciclista Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1033776A",
+      "lugar": "Calle Salzillo (salida y llegada)",
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "organizacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

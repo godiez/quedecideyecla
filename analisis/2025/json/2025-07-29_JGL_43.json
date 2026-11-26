@@ -1,0 +1,1027 @@
+{
+  "doc": "2025-07-29_JGL_43",
+  "organo": "JGL",
+  "sesion": 43,
+  "fecha": "2025-07-29",
+  "tipo_sesion": "ordinaria",
+  "paginas": 58,
+  "resumen": "La Junta de Gobierno prepara la Feria de Septiembre: adjudica los montajes por 161.491 euros y los conciertos de Mägo de Oz (35.090 euros) y Depol (26.620 euros). También adjudica por 148.062 euros una plataforma de inteligencia turística con fondos europeos, paga 194.283 euros en facturas (limpieza de edificios y asfaltado de calles y caminos) y aprueba un criterio para que los trasteros y vestidores que en realidad son habitaciones tengan que tener ventana. Se conceden licencias para naves de Proyecto Denver y Colchones Gomarco y se contratan diez técnicas para las escuelas infantiles.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 22 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: limpieza de edificios, asfaltado de calles y caminos, Verano en Danza",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas por 194.283 €: limpieza de edificios municipales de junio, asfaltado de calles del casco urbano y de caminos rurales, prevención de riesgos laborales, el festival 'Verano en Danza 2025' y la escuela de verano de diversidad funcional 'Concilia en Verano'.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quirón Prevención, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 194283.0,
+      "importes": [
+        {
+          "concepto": "Limpieza de edificios municipales, junio 2025",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de prevención ajeno del personal municipal (C.SE. 13/23)",
+          "eur": 6085.66,
+          "entidad": "Quirón Prevención, S.L.U."
+        },
+        {
+          "concepto": "Contrato menor: parcheo y asfaltado de tramos de las calles San Antonio, Rambla de Algezares, Infanta María Teresa y Arcipreste Esteban Díaz",
+          "eur": 47850.32,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Infraestructura, producción y organización de 'Verano en Danza 2025' (C.SE. 7/25)",
+          "eur": 13368.2,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Contrato menor: parcheo y asfaltado de caminos rurales (Casa Faldeta y Quiñones)",
+          "eur": 48339.5,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Contrato menor: escuela de diversidad funcional 'Concilia en Verano 2025'",
+          "eur": 14520.0,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q, 784028D, 1085986P, 1103035T, 1106802A, 1101496F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "La Casa Cuna La Anunciación no pagará IBI por sus pisos de la calle San Antonio",
+      "categoria": "fiscal",
+      "resumen": "Se reconoce a la fundación religiosa Casa Cuna La Anunciación, entidad benéfica sin ánimo de lucro, la exención del IBI de cuatro pisos de su titularidad a partir de 2026, mientras cumpla los requisitos de la Ley de mecenazgo.",
+      "entidades": [
+        {
+          "nombre": "Fundación Pía Autónoma Casa Cuna La Anunciación",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "recibe exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1099914J",
+      "lugar": "Calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Denegado perdonar el impuesto de un coche a una vecina en concurso de acreedores",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina que obtuvo del juzgado la exoneración de sus deudas anular el impuesto de vehículos de 2021 (110,72 €), porque las deudas públicas no entran en esa exoneración.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 110.72,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1100382J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Inicio de obras de una vivienda adosada con piscina y corrección de su dirección",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a dos vecinos a empezar la construcción de una vivienda adosada con garaje y piscina, con licencia ya concedida en mayo, y se corrige el número de la calle; fianza de 442,25 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1024026J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para reformar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para reformar su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058744D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para elevar una planta en una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia (con proyecto básico) para añadir una planta de uso residencial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059494W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para ampliar un local comercial y poner ascensor en una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia (con proyecto básico) para ampliar un local comercial e instalar ascensor en una vivienda unifamiliar; fianza de 375 € por urbanización pendiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059019K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para reformar una vivienda aislada en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para reformar una vivienda aislada en suelo rústico (polígono 74).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059463C",
+      "lugar": "Polígono 74",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Repsol pone un monoposte con su marca en la gasolinera de la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Repsol para instalar un monoposte publicitario corporativo en la estación de servicio de la RM-425, km 3,5.",
+      "entidades": [
+        {
+          "nombre": "Repsol Comercial de Productos Petrolíferos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060199Z",
+      "lugar": "Carretera de Villena RM-425, P.K. 3+500",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Colchones Gomarco amplía su nave industrial en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Colchones Gomarco para demoler una edificación sin uso, legalizar una nave autoportante ya existente y ampliar su nave industrial.",
+      "entidades": [
+        {
+          "nombre": "Colchones Gomarco, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1072662J",
+      "lugar": "Carretera de Villena RM-425, km 6",
+      "interes": 2
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en la Rambla del Panizo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para construir una vivienda aislada en el campo, con fosa séptica estanca y cumplimiento de la normativa de vertidos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1073456M",
+      "lugar": "Paraje Rambla del Panizo, polígono 84",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Proyecto Denver construirá tres naves industriales en la calle Ramón y Cajal",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Proyecto Denver, S.L. para construir tres naves industriales sin uso específico, con fianza de 17.919,30 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115799X",
+      "lugar": "Calle Santiago Ramón y Cajal esquina calle Doctor Trueta",
+      "interes": 2
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Licencia para dividir una finca de regadío en el Lentiscar",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se anula una licencia de segregación de 2002 que no se llegó a usar y se concede a los nuevos propietarios otra para segregar dos parcelas de 5.422 y 5.151 m² de una finca de viñedo de regadío en suelo no urbanizable; quedan 7.099 m² de resto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1071193T",
+      "lugar": "Paraje Lentiscar, polígono 112",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Sustituta para una técnica de la escuela infantil Alameda",
+      "categoria": "personal",
+      "resumen": "Se contrata desde la bolsa a una técnica de educación infantil a jornada completa desde septiembre para cubrir una baja médica (coste 2.947 € al mes).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123960F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Sustituta para una técnica de la escuela infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata desde la bolsa a una técnica de educación infantil a 30 horas semanales para cubrir una baja médica que dura desde 2024 (coste 2.505 € al mes).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124790J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Diez técnicas de educación infantil para el curso 2025-2026",
+      "categoria": "personal",
+      "resumen": "Se contratan desde la bolsa diez técnicas de educación infantil a tiempo parcial (una a 30 h, una a 22,5 h y ocho a 20 h) para las escuelas infantiles El Parque, Alameda, Campanilla y Perro Loco durante el curso 2025-2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1125994F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Contratado un peón de Cultura y Festejos y nueva bolsa de peones",
+      "categoria": "personal",
+      "resumen": "Tras la selección con candidatos del SEF, se contrata al aspirante con más nota para cubrir la baja del peón de Cultura y Festejos y se crea una bolsa transitoria de peón-operario con tres personas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124515C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Reconocimiento de antigüedad a una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una trabajadora social casi 4 años de servicios previos en el Ayuntamiento de Alcantarilla y en la Comunidad Autónoma.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126191E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Reducciones de jornada de siete técnicas de escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se aprueban, para el curso 2025-2026, las reducciones de jornada por cuidado de hijos o familiares de siete técnicas de educación infantil (entre el 5 % y el 43 %).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124791K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Dos trabajadoras sociales a una reunión del IMAS sobre dependencia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadoras sociales asistir el 23 de septiembre en Murcia a un grupo de trabajo sobre la Ley de Dependencia, con gastos a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124852W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Dos policías locales desfilarán en Nueva York el 12 de octubre",
+      "categoria": "personal",
+      "resumen": "Se autoriza a dos agentes de la Policía Local a participar con uniforme de gala en el desfile de la Hispanidad 'Ride-Along' de Nueva York, en representación de Yecla. El acta no dice quién paga el viaje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1125906J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Unidad móvil de formación digital de la CARM en la Estación de Autobuses",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Fundación Integra Digital (CARM) a instalar del 8 al 12 de septiembre una unidad móvil de la campaña 'Applícate' de competencias digitales básicas, con fondos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Fundación Integra Digital (CARM)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Silman 97, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122800W",
+      "lugar": "Estación de Autobuses, Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Denegado mover el ecoparque móvil de la Avenida de Córdoba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la petición de un vecino de cambiar de sitio el contenedor del ecoparque móvil por seguridad vial: el emplazamiento está justificado, aunque se reforzará su señalización con reflectantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1124996W",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Presentación de las equipaciones del Yeclano Deportivo en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la presentación de equipaciones del club el 31 de julio con colaboración municipal, pero se le niega la megafonía y sonorización gratis.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124240W",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Aula del Bioclimático para un taller de CERMI para mujeres con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se presta un aula el 19 de septiembre para el taller 'Únicas' dirigido a mujeres con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "CERMI Región de Murcia (Comisión de Mujeres e Igualdad)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1125310F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Salón de Plenos para una boda civil el 1 de agosto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126765C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Salón de Sesiones para una boda civil el 13 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126928D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Salón de Sesiones para una boda civil el 24 de octubre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1127439N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Salón de Sesiones para una boda civil el 26 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1127207Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Auditorio Juan Miguel Benedito para una boda civil el 27 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del auditorio para un matrimonio civil previo pago del precio público de 120 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1128049K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Visita de la Asociación de Diabéticos al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza el 5 de octubre para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1111721H",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Trasteros y vestidores grandes contarán como habitaciones: deberán tener ventana",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Ante proyectos que llaman 'trastero', 'vestidor' o 'sala multiusos' a estancias que en realidad son habitaciones para no cumplir la obligación de ventilación e iluminación natural, se aprueba un criterio: toda estancia cerrada de más de 6 m² integrada en la vivienda y apta como habitación será pieza habitable, se llame como se llame. Se enviará circular a los técnicos y se publicará en la web.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126318F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "Uso provisional de instalaciones deportivas por los clubes en pretemporada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Como aún no se ha convocado el reparto de instalaciones deportivas de la temporada 2025-2026, se autoriza de forma provisional a los clubes federados a entrenar y jugar partidos de preparación, con como máximo las horas de la temporada anterior; la cesión gratuita queda pendiente de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1127682A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Visto bueno a una fiesta con DJ en la terraza del bar Samsara",
+      "categoria": "licencia_actividad",
+      "resumen": "Se emite informe favorable para que el café-bar Samsara celebre su aniversario la noche del 23 al 24 de agosto con música de DJ en su terraza hasta las 23:00 (máximo 80 dBA); después la música solo podrá seguir dentro con el límite nocturno de 55 dBA.",
+      "entidades": [
+        {
+          "nombre": "particular (café bar Samsara)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126371E",
+      "lugar": "Calle Pascual Amat, 32 (local)",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Prácticas de un alumno del Centro de Adultos en la Casa de Cultura",
+      "categoria": "convenio",
+      "resumen": "Se autorizan 207 horas de prácticas no remuneradas de un alumno de FP de Informática del CEA de Yecla en el servicio de información de la Casa de Cultura.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos CEA de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126622D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Protección Civil de Yecla ayudará en los encierros de Blanca",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil a colaborar en los encierros de toros de Blanca los días 9, 11, 13 y 14 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Blanca",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122409C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Protección Civil de Yecla ayudará en las fiestas de Montealegre del Castillo",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil a colaborar en las fiestas patronales de Montealegre del Castillo los días 12, 14 y 15 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122466F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "otros",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113712Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "148.062 € a Iurban por una plataforma de inteligencia turística",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a Iurban Digital Tourism, S.L., única licitadora, la creación de un sistema de inteligencia turística y una web de oferta turística del plan 'Yecla es +', con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Iurban Digital Tourism, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 148061.89,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1095593H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Concierto de Mägo de Oz en la Feria de Septiembre por 35.090 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se contrata a Silbato Producciones, que tiene los derechos exclusivos, el concierto de Mägo de Oz del 19 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Silbato Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 35090.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116270A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Concierto de Depol en la Feria de Septiembre por 26.620 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se contrata a Eventos Mazarrock, con derechos exclusivos del artista, el concierto de Depol del 13 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Eventos Mazarrock, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26620.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115754J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Montajes de la Feria de Septiembre: 161.491 € en cuatro lotes",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudican los cuatro lotes de la infraestructura de la Feria 2025: sonido, luces y escenarios; aseos y camerinos; alumbrado y electricidad del Real; y carpas.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Camión Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 161490.59,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de conciertos y espectáculos",
+          "eur": 68365.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Lote 2: aseos, casetas sanitarias y camerinos",
+          "eur": 32367.5,
+          "entidad": "Camión Toilet, S.L.U."
+        },
+        {
+          "concepto": "Lote 3: alumbrado del Real de la Feria y suministro eléctrico",
+          "eur": 29661.09,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Lote 4: alquiler de carpas para el Real de la Feria",
+          "eur": 31097.0,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1111199H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Dirección de obra de los Baños Árabes de Los Torrejones por 7.139 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a un arquitecto el contrato menor de dirección de la obra del Plan Director del yacimiento de Los Torrejones (fase I, Baños Árabes).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7139.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1127419K",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Alquiler de un local para el espacio de ocio juvenil Cazadores: 17.072 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se alquila a un particular durante 12 meses un local para los servicios de dinamización del espacio de ocio juvenil Cazadores.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 17072.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1128484P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Reparación de un colector en la Rambla de Algezares por 22.264 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se aprueba la memoria valorada y se adjudica a Construcciones Martínez Sánchez e Hijo la reparación de un colector secundario de alcantarillado.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22264.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123024F",
+      "lugar": "Rambla de Algezares",
+      "interes": 2
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Pabellón gratis para que entrene un jugador de baloncesto de la Red Deportiva",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Red Deportiva Yecla a usar gratis instalaciones municipales (valoradas en 200,20 €) en julio y agosto para los entrenamientos de pretemporada de jugadores de categoría nacional formados en el club.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 200.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1128180R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Normas de reserva y uso de la pista de vóley playa de Los Rosales",
+      "categoria": "normativa",
+      "resumen": "Urgente: se incluye en la normativa de instalaciones deportivas el procedimiento para reservar y usar la pista de vóley playa del Centro de Ocio Los Rosales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120441T",
+      "lugar": "Centro de Ocio Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Nuevo director para la obra de los Baños Árabes",
+      "categoria": "contrato",
+      "resumen": "Urgente: se nombra a un arquitecto externo director de la obra del yacimiento de Los Torrejones en sustitución del arquitecto municipal designado en febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Plan de seguridad y salud de la obra del edificio de Cazadores",
+      "categoria": "contrato",
+      "resumen": "Urgente: se aprueba el plan de seguridad y salud presentado por la UTE adjudicataria de la rehabilitación del edificio de Cazadores (fondos Next Generation).",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores (Citanias Obras y Servicios, S.L.U. - Industria y Montajes Eléctricos, S.A.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "III Día Mundial del Turismo: 1.424 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: se aprueba el programa del Día Mundial del Turismo (25, 27 y 28 de septiembre) con un presupuesto de 1.423,90 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1423.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1125486A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Se piden 66.500 € al SEF para pagar a dos agentes de desarrollo local",
+      "categoria": "subvencion_recibida",
+      "resumen": "Urgente: se aprueba un proyecto de empleabilidad de 104.947,80 € con dos técnicos de desarrollo local y se piden al SEF dos subvenciones de 33.250 € cada una; el Ayuntamiento pone el 36,64 % del coste.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 66500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119482M",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

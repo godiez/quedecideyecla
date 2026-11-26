@@ -1,0 +1,423 @@
+{
+  "doc": "2022-01-12_JGL_02",
+  "organo": "JGL",
+  "sesion": 2,
+  "fecha": "2022-01-12",
+  "tipo_sesion": "ordinaria",
+  "paginas": 15,
+  "resumen": "La Junta de Gobierno paga 66.978 euros en facturas de las fiestas y la Navidad (alumbrado, fuegos artificiales, exposición de Playmobil, Navilandia y publicidad en radio y televisión) y aprueba las Fiestas de San Antón 2022 con 2.359,50 euros. Rechaza el recurso de un restaurante que quería apartar un contenedor de basura de su terraza, autoriza o corrige varias terrazas de bares y crea una plaza de aparcamiento para personas con movilidad reducida. También se nombra un administrativo interino para el Negociado de Obras y Catastro y dos policías locales comunican su jubilación anticipada.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 4 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: alerta Covid-19, plan regional de recursos minerales y Ecoembes",
+      "categoria": "informacion",
+      "resumen": "Se informa de las órdenes de la Consejería de Salud sobre el nivel de alerta Covid-19, del plan 2022 de la Red de Radio de Emergencia (REMER), de la petición de la CARM de un informe municipal en tres meses sobre el Plan de Ordenación Territorial de los Recursos Minerales, del calendario del Instituto Geográfico Nacional para firmar la delimitación con la Comunidad Valenciana y de un informe técnico sobre el borrador de convenio entre Ecoembes y la CARM.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide informe"
+        },
+        {
+          "nombre": "Instituto Geográfico Nacional",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Ecoembes",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "parte en convenio con la CARM"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "574690F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: alumbrado, fuegos artificiales, Playmobil, Navilandia y publicidad",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: montaje del alumbrado de las Fiestas de la Virgen y Navidad, fuegos artificiales de las fiestas patronales 2021, la exposición de Playmobil en la Iglesia de San Francisco, Navilandia 2021-2022 y publicidad en radio y televisión de 2021.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Coeters Dragón, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Interfibra Telecomunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 66977.97,
+      "importes": [
+        {
+          "concepto": "Exposición Playmobil en la Iglesia de San Francisco",
+          "eur": 10890.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen y Navidad (montaje y alumbrado)",
+          "eur": 30000.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Fuegos artificiales Fiestas patronales 2021",
+          "eur": 7197.99,
+          "entidad": "Coeters Dragón, S.L."
+        },
+        {
+          "concepto": "Navilandia Yecla 2021-2022",
+          "eur": 10890.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Publicidad en radio y televisión 2021",
+          "eur": 7999.98,
+          "entidad": "Interfibra Telecomunicaciones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572583E, 546961T, 563021Z, 572401C, 515242P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Un subinspector compensa con un curso 41 horas no trabajadas en 2020 por el cuadrante Covid",
+      "categoria": "personal",
+      "resumen": "Se da por compensado con un curso de formación el defecto de 41 horas de jornada de un subinspector de la Policía Local en 2020, debido al cuadrante especial por la Covid-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574388M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Rechazado el recurso de un restaurante para apartar un contenedor de su terraza",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de Yakka Franquicias, S.L. (restaurante de la calle Maestro Mora) contra la negativa a trasladar el contenedor de basura junto a su terraza: ya se movió una vez a petición suya, la terraza está ampliada solo por la Covid y la inspección sanitaria municipal no ve riesgo.",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "544760M",
+      "lugar": "calle Maestro Mora",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Denegada la terraza del Café 'Conca' por no tener licencia de actividad válida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la terraza en la calle Arcipreste Esteban Díaz porque la declaración responsable de la actividad tenía deficiencias sin subsanar y no surte efectos.",
+      "entidades": [
+        {
+          "nombre": "Café 'Conca' (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "571621T",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Dos salas del Edificio Bioclimático para un taller de arteterapia del colectivo 'Artífices'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de dos salas el 29 de enero de 2022 para un taller de arteterapia, con las medidas del plan Covid-19 del edificio.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Artístico y Cultural 'Artífices'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574740A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Nombramiento interino de un administrativo para jefe del Negociado de Obras y Catastro",
+      "categoria": "personal",
+      "resumen": "Se nombra funcionario interino, de la bolsa de administrativos, a quien corresponda para cubrir la plaza vacante de jefe del Negociado de Obras y Catastro, hasta que se cubra en propiedad (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575023T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Contrato de una técnico de Educación Infantil para la Escuela 'El Perro Loco'",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa, a tiempo parcial (30 horas), a un técnico de Educación Infantil para sustituir a una tutora de aula de gateo de baja, como máximo hasta final del curso 2021/22.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575023T",
+      "lugar": "Escuela Infantil 'El Perro Loco'",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "La Policía Local podrá disfrutar hasta el 31 de marzo las vacaciones pendientes de 2021",
+      "categoria": "personal",
+      "resumen": "Por la pandemia y la falta de efectivos, se amplía excepcionalmente hasta el 31 de marzo el plazo para que los policías locales disfruten vacaciones y días de asuntos propios de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575602Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Un agente de la Policía Local comunica jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente se acogerá en 2022 a la jubilación anticipada de policías locales (RD 1449/2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575605C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Una agente de la Policía Local comunica jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que una agente se acogerá en 2022 a la jubilación anticipada de policías locales (RD 1449/2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575600W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Mesa informativa de Vox en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al partido Vox Yecla a instalar una mesa informativa el 15 de enero de 2022 de 10:30 a 13:30, cumpliendo las medidas sanitarias.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575465H",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Bolardos en la calle Águilas para evitar choques contra un edificio",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de varios vecinos, se instalan bolardos en la fachada de un edificio de la calle Águilas, en el cruce con la calle Lepanto, donde los coches chocan con frecuencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572343X",
+      "lugar": "cruce de las calles Lepanto y Águilas",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Una plaza de aparcamiento para movilidad reducida sí y dos no, a petición de ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se crea una plaza reservada a personas con movilidad reducida en la calle Miguel Puche Bautista y se deniegan otras dos (calles Águilas/Pintor Juan Albert y Cruz de Piedra): en una no se acreditan dificultades de los usuarios y en la otra el solicitante ya tiene un vado de discapacitados.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "561479H",
+      "lugar": "calle Miguel Puche Bautista",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Corrección de la dirección de la terraza del 'Borneo Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrige un error: la terraza anual de 12 m2 del 'Borneo Café' está en la calle Cruz de Piedra, no en la calle Colón.",
+      "entidades": [
+        {
+          "nombre": "Borneo Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "549955C",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Corrección del titular y la dirección de la terraza del 'Búho Bar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrigen el titular y la calle (Arcipreste Esteban Díaz) de la terraza anual del 'Búho Bar', de 54 m2 en lugar de 27 por las limitaciones de aforo de la Covid-19.",
+      "entidades": [
+        {
+          "nombre": "Búho Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "546324J",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Corrección del titular de la terraza de la cafetería 'Los Billares'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrige el titular de la terraza anual de 40 m2 de la cafetería 'Los Billares' en la calle Arcipreste Esteban Díaz.",
+      "entidades": [
+        {
+          "nombre": "Cafetería 'Los Billares' (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "564609E",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Fiestas de San Antón 2022: programa y presupuesto de 2.359,50 euros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa del 14 al 16 de enero (hoguera junto a la antigua estación de ferrocarril, vueltas a la iglesia de Los Dolores con bendición de animales y pasacalles) con un gasto de 2.359,50 €; la Asociación de Amigos de San Antón limpiará los excrementos de los caballos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2359.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575671T",
+      "lugar": "Iglesia de Los Dolores (Hospitalico); antigua estación de ferrocarril",
+      "interes": 2
+    }
+  ]
+}

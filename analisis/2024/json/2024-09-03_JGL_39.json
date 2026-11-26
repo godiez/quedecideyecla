@@ -1,0 +1,1144 @@
+{
+  "doc": "2024-09-03_JGL_39",
+  "organo": "JGL",
+  "sesion": 39,
+  "fecha": "2024-09-03",
+  "tipo_sesion": "ordinaria",
+  "paginas": 63,
+  "resumen": "La Junta de Gobierno contrata los conciertos de Chanel (52.800 euros) y León Benavente (39.930 euros) para la Feria de Septiembre y paga 319.416 euros en facturas, sobre todo de basura, limpieza y jardines a Actúa. Muestra interés en comprar a Bodegas Castaño, por 80.000 euros, terrenos del Monte Arabí que sirven de aparcamiento para las pinturas rupestres, y pide a Hacienda el visto bueno para que el Ayuntamiento lleve tres escuelas infantiles de 0 a 3 años. También adjudica dos asfaltados de calles y caminos (unos 96.000 euros), aprueba la programación de la Universidad Popular y deniega varias terrazas, un bolardo y un cambio de contenedores.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 30 de julio y 6 de agosto",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: cañones antigranizo, ayudas a víctimas de violencia de género y otras",
+      "categoria": "informacion",
+      "resumen": "Se informa de seis escritos: la respuesta de la Confederación Hidrográfica del Segura a la petición municipal de medidas contra los cañones antigranizo; un recordatorio del Ministerio de Política Territorial sobre el plazo de los proyectos de transformación digital (fondos europeos, convocatoria 2022); la asignación inicial de 90.673,86 € de la Consejería de Política Social para el personal de los centros CAVI y PAE de atención a mujeres víctimas de violencia de género; el pago de la anualidad 2024 del Plan de Obras y Servicios 2024/25; la justificación aceptada por el SEF de 27.045 € para Agentes de Empleo y Desarrollo Local, y la concesión de ayudas SICTED de calidad turística.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "responde sobre cañones antigranizo"
+        },
+        {
+          "nombre": "Ministerio de Política Territorial y Memoria Democrática",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recuerda plazos de subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga Plan de Obras y Servicios"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da por justificada subvención"
+        },
+        {
+          "nombre": "Dirección General de Competitividad y Calidad Turística (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede subvención SICTED"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 117718.86,
+      "importes": [
+        {
+          "concepto": "Asignación inicial personal CAVI y PAE (violencia de género)",
+          "eur": 90673.86,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Subvención Agentes de Empleo y Desarrollo Local (justificada)",
+          "eur": 27045.0,
+          "entidad": "Servicio Regional de Empleo y Formación (SEF)"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947223N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza, jardines, centro de día y fotocopiadoras",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas por 319.416,16 €: la recogida de basura y limpieza viaria de julio a Actúa (180.264,34 €, cifra con errata en el acta), el mantenimiento de jardines también a Actúa (66.900,71 €), el Centro de Día para mayores dependientes de julio a Alma Ata Salud (44.174 €), el cobro de la tasa de basura del tercer trimestre a FCC Aqualia (14.765,90 €) y las máquinas multifunción de Elite Electron (13.311,21 €).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Elite Electron In. Tecn., S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 319416.16,
+      "importes": [
+        {
+          "concepto": "Recogida de RSU, limpieza viaria y recogida selectiva, julio 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, julio 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Cobro de recibos de la tasa de basura, 3.er trimestre 2024",
+          "eur": 14765.9,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Suministro y mantenimiento de máquinas multifunción",
+          "eur": 13311.21,
+          "entidad": "Elite Electron In. Tecn., S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876288R, 836272P, 495804R, 777199T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: derribos en calle Carmen y aceras en calle del Niño",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban dos certificaciones de obra: la n.º 4 del derribo de varios inmuebles en las calles Carmen y San Roque (43.549,83 €, Servicios Profesionales Murcianos) y la n.º 1 de la mejora de itinerarios peatonales en las calles del Niño, Pintor Aguirre y Carlos III (54.886,23 €, Mediterráneo de Obras y Asfaltos).",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 98436.06,
+      "importes": [
+        {
+          "concepto": "Certificación n.º 4 demolición de inmuebles en calles Carmen y San Roque",
+          "eur": 43549.83,
+          "entidad": "Servicios Profesionales Murcianos, S.L."
+        },
+        {
+          "concepto": "Certificación n.º 1 itinerarios peatonales calles del Niño, Pintor Aguirre y Carlos III",
+          "eur": 54886.23,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M, 867238Y",
+      "lugar": "Calles Carmen, San Roque, del Niño, Pintor Aguirre y Carlos III",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Se deniega rebaja del IBI por placas solares que no llegan a la inversión mínima",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un particular la bonificación del 50 % del IBI por placas solares en su vivienda porque la instalación costó 5.500 € sin IVA y la ordenanza exige al menos 6.000 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "855817K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50 % del IBI por placas solares a una vecina",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una particular la bonificación del 50 % del IBI de 2025 a 2029 (máximo 100 € al año) por instalar placas solares de autoconsumo en su vivienda (obra de 6.797,81 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "921952P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 90 % del impuesto de obras por placas solares a una vecina",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la misma particular la bonificación del 90 % del ICIO por la instalación de placas solares en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "921952P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Supermercado Lepanto Tolosa por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Supermercado Lepanto Tolosa, S.L. la bonificación del 50 % del ICIO (máximo 1.000 €) por instalar placas solares de autoconsumo en su supermercado de la calle Lepanto.",
+      "entidades": [
+        {
+          "nombre": "Supermercado Lepanto Tolosa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "943711K",
+      "lugar": "Calle Lepanto",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Rebaja del 90 % del impuesto de obras por instalar un ascensor en un edificio de viviendas",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 90 % del ICIO por la instalación de un ascensor en un edificio de viviendas, a petición de un vecino mayor de 70 años que reside en él.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "948353H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Denegada a Azorín & Rico una segregación de finca rústica por formar núcleo de población",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se deniega a Azorín & Rico, S.L. la licencia para segregar una finca registral porque, según el informe técnico, la división de la finca rústica original con un camino interior y suministros particulares ha creado un núcleo de población, prohibido por el Plan General y la ley regional del suelo.",
+      "entidades": [
+        {
+          "nombre": "Azorín & Rico, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia de segregación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "767851K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Dos subinspectores de la Policía Local pasan a funcionarios de carrera",
+      "categoria": "personal",
+      "resumen": "Tras superar el curso selectivo regional, se nombra funcionarios de carrera a los dos aspirantes que ganaron por promoción interna las plazas de Subinspector de Policía Local (Oferta de Empleo de 2020).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614474M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de empleo de jardineros con diez aspirantes",
+      "categoria": "personal",
+      "resumen": "Se aprueba la bolsa de empleo de Jardinero/a para contrataciones temporales, con diez aspirantes ordenados por puntuación (de 18,86 a 11,66 puntos), vigente hasta el 31 de diciembre de 2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847664M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Las plazas de director de Bellas Artes y técnico de Atención Temprana pasan a funcionario",
+      "categoria": "personal",
+      "resumen": "Se modifican las Ofertas de Empleo Público de 2021 y 2022 para que las plazas de Director de la Escuela Municipal de Bellas Artes (A2) y Técnico Superior del Centro de Desarrollo Infantil y Atención Temprana (A1) sean de funcionario en lugar de personal laboral, como ya recoge la plantilla de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953677C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Renuncia de una auxiliar de biblioteca del Centro de Lectura Los Huertos",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una auxiliar de biblioteca temporal del Centro de Lectura Los Huertos, que pasa a la Biblioteca Regional de Murcia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "970241H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Una profesora vuelve a la Escuela de Bellas Artes y cesa su sustituto",
+      "categoria": "personal",
+      "resumen": "Una profesora de la Escuela Municipal de Bellas Artes en excedencia se reincorpora a tiempo parcial, y se extingue el contrato del profesor que la sustituía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970264P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Anticipo de 5.000 euros de sueldo a un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un subinspector de la Policía Local un anticipo de 5.000 € de su nómina, que deberá devolver y justificar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 5000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970279K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Jubilación de una ordenanza-telefonista tras más de 36 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de una ordenanza-telefonista el 2 de octubre de 2024 y se le agradecen más de 36 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "970228P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Jubilación anticipada de un delineante tras más de 38 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada voluntaria de un delineante municipal el 31 de octubre de 2024 y se le agradecen más de 38 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "970280M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Trabajadoras sociales a una reunión del IMAS sobre dependencia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadoras sociales del programa de mayores y dependientes asistir el 8 de octubre a una reunión del IMAS en Murcia sobre la Ley de Dependencia, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "963495N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Educadora social a reuniones de técnicos de familia en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a una educadora social asistir a reuniones con la Dirección General de Familias y Protección de Menores en Murcia (26 de septiembre y 28 de noviembre), con gastos de desplazamiento pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962943X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Asesora jurídica de Servicios Sociales a unas jornadas sobre menores",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del Centro de Servicios Sociales asistir a las I Jornadas sobre Menores y Adolescencia del Consejo General de la Abogacía (12 y 13 de septiembre), con desplazamiento, alojamiento y manutención pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "969906R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Concierto de Chanel en la Feria de Septiembre por 52.800 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica sin publicidad, a la única licitadora (persona física que actúa en su propio nombre), el concierto de Chanel en el recinto ferial el 14 de septiembre de 2024 por 52.800 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 52800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964641E",
+      "lugar": "Recinto Ferial",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Concierto de León Benavente en la Feria de Septiembre por 39.930 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica sin publicidad a Ser Brigada, S.L., que tiene la exclusiva del grupo, el concierto de León Benavente en el recinto ferial el 21 de septiembre de 2024 por 39.930 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Ser Brigada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39930.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964463H",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Asfaltado de tramos de las calles Alfonso X, Hernán Cortés e Infante Juan Manuel",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de parcheo y asfaltado de tramos de las calles Alfonso X el Sabio, Hernán Cortés e Infante D. Juan Manuel, adjudicado a Involucra, S.L. por 47.889,99 € (IVA incluido), justo por debajo del presupuesto de 48.000 €.",
+      "entidades": [
+        {
+          "nombre": "Involucra, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47889.99,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968092Y",
+      "lugar": "Calles Alfonso X el Sabio, Hernán Cortés e Infante D. Juan Manuel",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Fiestas de la Vendimia 2024 en el Parque de la Constitución y la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla a celebrar las Fiestas de la Vendimia (7 y 8 de septiembre) con venta de bebidas alcohólicas, cediéndole carpas, electricidad y contenedores; debe depositar una fianza de 400 € para la limpieza.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961586M",
+      "lugar": "Parque de la Constitución y Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Romería de San Isidro del Teatro Concha Segura a la ermita",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Federación de Peñas de San Isidro una romería desde el Teatro Concha Segura hasta la ermita de San Isidro y una misa el 8 de septiembre, prestándole megafonía, vallas, soportes y sillas.",
+      "entidades": [
+        {
+          "nombre": "Federación de Asociaciones de Peñas de las Fiestas de San Isidro Labrador de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza romería"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961042F",
+      "lugar": "Teatro Concha Segura - ermita de San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Sesiones de taichi para mayores en el jardín de la Avenida de la Feria",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban sesiones de taichi para unas 50 personas mayores, organizadas por Servicios Sociales, de lunes a jueves en octubre y mayo en el jardín de la Avenida de la Feria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949072F",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Denegada la ampliación de la terraza del Plaza Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega al titular (particular) del bar Plaza Café ampliar su terraza de 80 m² en la plaza de San Cayetano, porque ya hay otras terrazas y la concentración alteraría el uso de una plaza de mucho paso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "868358D",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegada la ampliación de la terraza de The Mood en la avenida de Córdoba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Themoodyecla, S.L. ampliar la terraza de 24 m² del local The Mood porque concentraría gente en la acera junto al portal de las viviendas y parte de su actividad es ocio nocturno.",
+      "entidades": [
+        {
+          "nombre": "Themoodyecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita ampliación de terraza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "922543K",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Zona de carga y descarga junto al Mercado Central, aplazada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la habilitación de una zona de carga y descarga en el entorno del Mercado Central.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "962837Z",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado un bolardo en la fachada de una casa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular poner un bolardo en su fachada para evitar golpes de coches: incumpliría la accesibilidad, ya hay señal de prohibido aparcar y un bolardo enfrente, y otro impediría girar a ambulancias y bomberos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "960818W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Denegado mover unos contenedores en la calle San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una comunidad de bienes de particulares trasladar los contenedores situados en la calle peatonal San Pascual: no dificultan el paso, no hay problemas de seguridad y es mejor que estén junto a un solar sin viviendas.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita reubicación de contenedores"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "965165H",
+      "lugar": "Calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Nueva parada del autobús Yecla-Jumilla-Murcia cerca del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se informa a favor de que Interbús habilite una parada de la línea Yecla-Jumilla-Murcia en la Avenida de la Cruz Roja, para que los estudiantes de Jumilla lleguen al IES José Luis Castillo Puche sin ir desde la estación de autobuses.",
+      "entidades": [
+        {
+          "nombre": "Interbus Murcia Tres, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del transporte, solicita parada"
+        },
+        {
+          "nombre": "Dirección General de Movilidad y Transportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza la parada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "968621H",
+      "lugar": "Avenida de la Cruz Roja",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Aula del Edificio Bioclimático para una reunión sobre colonias felinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Soy su Voz un aula o el salón de actos del Edificio Bioclimático el 5 de octubre para una reunión de gestoras de colonias felinas.",
+      "entidades": [
+        {
+          "nombre": "Asociación Soy su Voz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964426F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial el 24 de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962408D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Visita de la Asociación de Diabéticos al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Diabéticos del Altiplano de Yecla a usar el Aula de la Naturaleza Coto Salinas el 6 de octubre para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951490P",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Denegado un puesto de fruta y verdura en el mercadillo junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular un puesto de fruta y verdura en el mercado ambulante junto al Mercado Central (ahora en calle San Francisco-Parque de la Constitución) porque la ordenanza prohíbe vender esos productos en la calle; se le devuelve la fianza de 90 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "958719E",
+      "lugar": "Calle San Francisco - Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide a Hacienda el visto bueno para que el Ayuntamiento lleve tres escuelas infantiles de 0-3 años",
+      "categoria": "servicios_actividades",
+      "resumen": "Tras confirmar la Consejería de Educación que no hay duplicidad, se pide al Ministerio de Hacienda el informe de sostenibilidad financiera para que el Ayuntamiento asuma la educación de 1 a 3 años en el CAI La Alameda y los centros Pulgarcito y Campanilla, que crearán unas 191 plazas públicas nuevas con fondos europeos (MRR). La Consejería destaca la falta de plazas públicas tras cerrarse la escuela La Concepción.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Hacienda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe emitir informe de sostenibilidad"
+        },
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informó que no hay duplicidad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "642899Q",
+      "lugar": "CAI La Alameda, E.I. Pulgarcito y C.I. Campanilla",
+      "interes": 3
+    },
+    {
+      "ref": "11",
+      "titulo": "Festival Nacional de Folclore Ciudad de Yecla 2024: 17.109 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa y el presupuesto del Festival Nacional de Folclore Ciudad de Yecla 2024, por 17.109,33 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17109.33,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964543T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "II Día Mundial del Turismo, el 28 de septiembre",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba celebrar la II edición del Día Mundial del Turismo el 28 de septiembre de 2024, con un presupuesto de 1.200,70 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1200.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961805Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Cursos y talleres de la Universidad Popular 2024/2025",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación inicial de la Universidad Popular (unos 50 cursos: cerámica, bolillos, restauración, pilates, yoga, catas de vino, cocina, informática, inglés, micología...), con preinscripción del 23 al 27 de septiembre, sorteo si hay más solicitudes que plazas, máximo 2 cursos por persona y descuento del 40 % para mayores de 65, jóvenes, familias numerosas, pensionistas, personas con discapacidad y desempleados.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "952981K",
+      "lugar": "Universidad Popular (calle San Antonio)",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Actividades de conciliación para niños durante la Feria de Septiembre",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban actividades para niños de 3 a 12 años del 13 al 22 de septiembre, dentro del Plan Corresponsables (subvención regional), con prioridad para hijos de víctimas de violencia de género, familias monoparentales, desempleadas de larga duración y rentas bajas; gasto de 7.127,20 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7127.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971117Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Convenio con la Universidad de Murcia para la Universidad Internacional del Mar en Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Convenio de un año con la Universidad de Murcia, con una aportación municipal de 7.000 €, para el seminario internacional sobre la decoración en las villae de Hispania y las esculturas de Afrodisias, en Yecla del 26 al 29 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "recibe aportación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953170Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Corrección de 3 céntimos en las ayudas del proyecto Housing First",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se corrige un error de cálculo en las ayudas de inclusión residencial (Housing First) concedidas en febrero: el total debía ser 1.848,25 € y no 1.848,22 €, y se abonan 0,03 € a un beneficiario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 0.03,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869595X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Archivada la oferta de venta al Ayuntamiento de una parcela calificada como parque",
+      "categoria": "patrimonio",
+      "resumen": "Se declara caducado y se archiva el expediente en el que tres particulares ofrecían vender al Ayuntamiento una parcela en Las Serratillas calificada como parque urbano (que podían pedir que se expropiara), porque no aportaron plano, valoración ni certificado de propiedad; la parcela linda con un monte comunal y la Cañada Real de los Serranos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "693758D",
+      "lugar": "Paraje de Las Serratillas",
+      "interes": 2
+    },
+    {
+      "ref": "18",
+      "titulo": "Interés en comprar a Bodegas Castaño terrenos del Monte Arabí por 80.000 euros",
+      "categoria": "patrimonio",
+      "resumen": "Bodegas Castaño, S.L. ofrece vender por 80.000 € varias parcelas en el Monte Arabí, entre ellas las que se usan de aparcamiento para visitar las pinturas rupestres de Cantos de la Visera (Patrimonio Mundial) y otras junto al yacimiento de Los Atochares. El Ayuntamiento muestra interés en comprarlas, pero le exige certificados registrales y catastrales y planos (hay parcelas sin inscribir, a nombre de otros o que podrían solaparse con la finca comunal Medianiles del Atochar), con aviso de caducidad en tres meses.",
+      "entidades": [
+        {
+          "nombre": "Bodegas Castaño, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ofrece en venta terrenos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 80000.0,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "805127H, 922029X, 967511Q",
+      "lugar": "Paraje del Monte Arabí (Cantos de la Visera, Los Atochares)",
+      "interes": 3
+    },
+    {
+      "ref": "19",
+      "titulo": "Presentación de la temporada de la A.D. Albatros en el pabellón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros Yecla su acto de presentación de temporada y un partido amistoso en el Pabellón José Ortega Chumilla el 7 de septiembre, con uso gratuito de la instalación valorado en 135,70 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 135.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955850W",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "20.1",
+      "titulo": "Se amplía el contrato de una cuidadora de animales por la baja del titular",
+      "categoria": "personal",
+      "resumen": "Se modifica el contrato de una cuidadora de animales que iba a sustituir a un vigilante-operario en vacaciones, para que lo sustituya mientras dure su baja médica y posteriores vacaciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971140W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "20.2",
+      "titulo": "Contratación de una técnico de educación infantil para la E.I. Campanilla",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una persona como Técnico de Educación Infantil (20 horas semanales) para sustituir a una trabajadora de baja en la Escuela Infantil Campanilla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972449Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "20.3",
+      "titulo": "Parcheo de caminos rurales: Umbría del Factor, Depósito, Anchura y Sax",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de parcheo de tramos de los caminos rurales Umbría del Factor, del Depósito, Anchura y Sax, adjudicado a Asfaltos y Construcciones Aitana, S.L. por 48.376,56 € (IVA incluido), presupuesto 48.400 €.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48376.56,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971138D",
+      "lugar": "Caminos de Umbría del Factor, del Depósito, Anchura y Sax",
+      "interes": 2
+    },
+    {
+      "ref": "20.4",
+      "titulo": "Puesto de patatas fritas en la avenida de Cartagena durante la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una particular licencia para un puesto de patatas fritas de 15 metros en la avenida de Cartagena esquina con Historiador Miguel Ortuño del 6 al 29 de septiembre, previo pago de la tasa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971519H",
+      "lugar": "Avenida de Cartagena esquina calle Historiador Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "20.5",
+      "titulo": "Sala del Centro de Emprendimiento para la asamblea de los cazadores San Huberto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación de Cazadores San Huberto la sala de reuniones del Centro de Emprendimiento para su asamblea general el 7 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Cazadores San Huberto",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973056R",
+      "lugar": "Centro de Emprendimiento (calle Arcipreste Esteban Díaz)",
+      "interes": 1
+    },
+    {
+      "ref": "20.6",
+      "titulo": "Protección Civil de Yecla ayuda en las fiestas y encierros de Calasparra",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil de Yecla a colaborar en las fiestas y encierros de Calasparra del 3 al 8 de septiembre, a petición de ese Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Calasparra",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971950F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "20.7",
+      "titulo": "Calendario de bajas e inscripciones de las actividades deportivas 2024/2025",
+      "categoria": "servicios_actividades",
+      "resumen": "Se amplía hasta el 9 de septiembre el plazo para darse de baja del primer ciclo de actividades deportivas dirigidas, se aprueba el calendario de inscripciones y el inicio de las actividades el 30 de septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971959T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "20.8",
+      "titulo": "Uso provisional de instalaciones deportivas por clubes y colegios hasta la convocatoria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Como aún no se ha convocado el reparto de horarios de las instalaciones deportivas para 2024/2025, se autoriza provisionalmente su uso por escuelas deportivas, clubes, centros docentes y colectivos especiales; si luego no se aprueba la cesión gratuita, pagarán el precio público.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949712W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "20.9",
+      "titulo": "Memorial de baloncesto Francisco Peidró: UCAM Murcia contra Flamengo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar con la Red Deportiva Yecla el Memorial Francisco Peidró, partido amistoso entre el UCAM Murcia (ACB) y el Flamengo el 4 de septiembre en el Pabellón José Ortega Chumilla, con una aportación municipal de 9.000 €.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora en la organización"
+        },
+        {
+          "nombre": "UCAM Murcia",
+          "cif": null,
+          "tipo": "club",
+          "rol": "participa"
+        },
+        {
+          "nombre": "CDR Flamengo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971593K",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    }
+  ]
+}

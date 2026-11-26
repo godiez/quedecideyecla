@@ -1,0 +1,794 @@
+{
+  "doc": "2025-10-28_JGL_60",
+  "organo": "JGL",
+  "sesion": 60,
+  "fecha": "2025-10-28",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 25,
+  "resumen": "El Ayuntamiento pagará 133.190 euros para reparar los cerramientos y la sacristía de la Ermita de San Roque, en un convenio con el Obispado de Cartagena. La Junta paga 144.344 euros en facturas (polideportivos, socorrismo, comedor infantil y asfaltado de calles) y 36.593 euros en obras de aceras. Rechaza el recurso de una interina cesada tras casi seis años, prorroga los contratos del gasóleo de calefacción y de la Universidad Popular, y aplaza la contratación de personal para restaurar el castillo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se ratifica la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "La Junta confirma por unanimidad la urgencia de esta sesión extraordinaria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aprobación del acta del 21 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, del 21 de octubre de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Comunicaciones: pago de la señalización turística, renuncia a un curso de tapicería y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la CARM reconoce y propone el pago de la subvención del proyecto 'Señalización Turística', de que el SEF acepta la renuncia del Ayuntamiento a la subvención del curso 'Tapizado del Mueble' y de una sentencia firme del Juzgado de lo Contencioso-Administrativo nº 6 de Murcia (P.A. 449/2024). No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Política Agraria Común (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga subvención"
+        },
+        {
+          "nombre": "Servicio de Empleo y Formación de la Región de Murcia (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "acepta renuncia a subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1169196J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Pago de facturas: polideportivos, comedor infantil, socorrismo, asfaltado y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento de las instalaciones deportivas (septiembre), el comedor de la Escuela Infantil El Parque (julio), las actividades deportivas y socorrismo (agosto y septiembre), el programa de contabilidad SICAL, un arreglo de suelo en el CEIP Las Herratillas y el parcheo y asfaltado de las calles Doctor Antonio Ortega y Pío Baroja.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Spai Innova Astigitas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 144344.28,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, septiembre 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Comedor Escuela Infantil El Parque, julio 2025",
+          "eur": 6110.58,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, agosto 2025",
+          "eur": 11757.22,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, septiembre 2025",
+          "eur": 9882.74,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Servicio SPAI SICAL, julio a septiembre 2025",
+          "eur": 8433.92,
+          "entidad": "Spai Innova Astigitas, S.L."
+        },
+        {
+          "concepto": "Mantenimiento del pavimento de una planta del CEIP Las Herratillas",
+          "eur": 7175.3,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Parcheo y asfaltado de calles Doctor Antonio Ortega y Pío Baroja",
+          "eur": 25289.0,
+          "entidad": "Alicaser, Obras y Servicios, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 607446A, 941685X, 1091562J, 1139518P, 1144022W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Certificaciones de obra: aceras de Arco del Niño, Hijas de la Caridad y calle España",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación final de la mejora de itinerarios peatonales en las calles Arco del Niño e Hijas de la Caridad y la nº 4 de la calle España (tramo calle Don Lucio - Placeta de los Ortega), ambas del Plan de Obras y Servicios 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36593.15,
+      "importes": [
+        {
+          "concepto": "Certificación nº 3 y última, itinerarios peatonales calles Arco del Niño e Hijas de la Caridad (C.O. 5/25)",
+          "eur": 12078.72,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Certificación nº 4, itinerarios peatonales calle España (C.O. 2/25)",
+          "eur": 24514.43,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081368A, 1045370D",
+      "lugar": "Calles Arco del Niño, Hijas de la Caridad y España",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Rebaja del IBI por placas solares en una vivienda en diseminado",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI de 2026 a 2030 (máximo 100 € al año) por una instalación solar de autoconsumo de 5,75 kW con una inversión de 7.737,26 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058643N",
+      "lugar": "Diseminado, polígono 105",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la bonificación del 50% del IBI porque su instalación solar (4.428,91 €) no llega a la inversión mínima de 6.000 € de la ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1058634A",
+      "lugar": "Diseminado, polígono 34",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Liquidación de entradas de la obra 'Mamá quiero ser Mayordomo'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del espectáculo del 17 de octubre en el Teatro Concha Segura: cargo de 3.492 €, de los que 2.370 € son taquilla y 1.122 € bajas por anulación.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta de entradas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3492.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 2370.0,
+          "entidad": "Instant Ticket"
+        },
+        {
+          "concepto": "Bajas por anulación",
+          "eur": 1122.0,
+          "entidad": "Instant Ticket"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Liquidación de entradas del monólogo del Comandante Lara",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de la venta de entradas del monólogo 'Viaje con nosotros' del 26 de octubre en el Teatro Concha Segura: cargo de 9.492 €, de los que 8.726 € son taquilla y 766 € bajas por anulación.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta de entradas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9492.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 8726.0,
+          "entidad": "Instant Ticket"
+        },
+        {
+          "concepto": "Bajas por anulación",
+          "eur": 766.0,
+          "entidad": "Instant Ticket"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de personal para la restauración del castillo (Hisn Yakka): aplazado",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa, para estudiarlo mejor, la contratación de personal para el proyecto 'El Renacer de Yakka' de conservación y restauración del castillo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1168464R",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Rechazado el recurso de una interina cesada tras casi seis años",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de una auxiliar administrativa interina de las Escuelas Infantiles (desde noviembre de 2019) cesada el 30 de septiembre de 2025 al tomar posesión los diez aprobados de la oposición. Pedía volver a su puesto o una indemnización por abuso de temporalidad; el Ayuntamiento responde que cumplió los plazos legales y que la compensación de la ley de 2021 no se aplica a nombramientos anteriores.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1163965T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Viaje del director de Deportes a un foro en Alhama de Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena al director del Servicio Municipal de Deportes asistir el 30 de octubre al foro de colaboración público-privada de la asociación de empresarios de servicios deportivos (AEESDAP) en Alhama de Murcia, pagando el Ayuntamiento los gastos.",
+      "entidades": [
+        {
+          "nombre": "Asociación Española de Empresarios de Servicios Deportivos a las Administraciones Públicas (AEESDAP)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el foro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1173042A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Viaje de la directora de Servicios Sociales a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora del Centro de Servicios Sociales asistir el 4 de noviembre a la reunión regional de responsables de Atención Primaria de la Consejería de Política Social, pagando el Ayuntamiento los gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169416P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Gastos de la directora de Servicios Sociales en la jornada de la Mujer Rural",
+      "categoria": "personal",
+      "resumen": "Se aprueba a posteriori la asistencia de la directora de Servicios Sociales a la jornada del Día Internacional de la Mujer Rural de AFAMER en Jumilla (15 de octubre) y se asumen sus gastos.",
+      "entidades": [
+        {
+          "nombre": "AFAMER",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza la jornada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169424A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Nueva bolsa de empleo de arquitectos técnicos",
+      "categoria": "personal",
+      "resumen": "Como la bolsa de 2024 se ha agotado, se encarga a Secretaría redactar las bases de una nueva bolsa de arquitectos técnicos para nombramientos interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169593K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Nueva bolsa de empleo de ingenieros técnicos industriales",
+      "categoria": "personal",
+      "resumen": "Como la bolsa de 2024 se ha agotado, se encarga a Secretaría redactar las bases de una nueva bolsa de ingenieros técnicos industriales para nombramientos interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169601X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Curso de formación para el secretario municipal",
+      "categoria": "personal",
+      "resumen": "Se ordena al secretario accidental hacer un curso virtual de 40 horas sobre funcionarización del personal laboral, del CEMCI (Diputación de Granada), con una matrícula de 250 € a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Centro de Estudios Municipales y de Cooperación Internacional (CEMCI), Diputación de Granada",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra la matrícula"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 250.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1173927E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Prórroga del suministro de gasóleo de calefacción para colegios y edificios",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (1 de noviembre de 2025 a 31 de octubre de 2026, última prórroga posible) el contrato de gasóleo C para calefacción y agua caliente de colegios y dependencias municipales (lote 2). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750072R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Tercera y última prórroga del contrato de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (9 de enero de 2026 a 8 de enero de 2027, última prórroga posible) el contrato de organización de la actividad docente de la Universidad Popular (lotes 1 a 4). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "985975K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto de detección de diabetes en el mercado de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Diabéticos del Altiplano un puesto en el mercado de San Francisco el 26 de noviembre para una jornada de detección precoz de la diabetes, con carpas, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano Yecla y Jumilla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "instala puesto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169954M",
+      "lugar": "Mercado de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Fiesta de Holywins de la parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia del Niño Jesús a usar la calle del Niño y el aparcamiento el 31 de octubre (16:30 a 22:00) para la fiesta infantil de Holywins por Todos los Santos, con juegos, tómbola, hinchable y procesión.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170820P",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Desfile de nuevos músicos y traslado de Santa Cecilia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música los desfiles de recogida de nuevos músicos y traslado de Santa Cecilia los días 8 y 23 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1171302J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Pilonas en la calle San Cristóbal para evitar aparcamientos y atropellos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ordena poner pilonas en la calle San Cristóbal, entre calle Jabonería y Callejón del Cerro, para impedir aparcar y proteger a peatones con movilidad reducida; las colocará la Brigada de Obras.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163820R",
+      "lugar": "Calle San Cristóbal, entre calle Jabonería y Callejón del Cerro",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salas del Edificio Bioclimático para un curso de montaña del Club Akawi",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Akawi el uso de salas del Edificio Bioclimático los días 13 y 14 de noviembre para un curso de uso de Wikiloc en montaña.",
+      "entidades": [
+        {
+          "nombre": "Club Akawi",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa las salas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170070Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Edificio Bioclimático para el curso de fitosanitarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG Yecla una sala del Edificio Bioclimático los días 24 y 27 de noviembre para un curso básico del carnet de productos fitosanitarios para agricultores.",
+      "entidades": [
+        {
+          "nombre": "COAG Iniciativa Rural de Murcia (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172931X",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salas del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular el uso de dos salas del Edificio Bioclimático el 22 de noviembre para un club de lectura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172925N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Sesiones para una boda civil (28 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su boda civil el 28 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172086Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de Sesiones para una boda civil (10 de enero de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su boda civil el 10 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167560M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Salón de Plenos para una boda civil (7 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la 1ª planta para su boda civil el 7 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172284Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Auditorio gratis para AFEMY: coloquio sobre prevención del suicidio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de familiares y personas con enfermedad mental AFEMY el uso del Auditorio Juan Miguel Benedito el 30 de octubre para un coloquio sobre prevención del suicidio (Día Mundial de la Salud Mental), con rebaja del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1171863N",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Exposición del Círculo Fotográfico Clic Clac bajo la rampa de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Círculo Fotográfico de Yecla Clic Clac a usar el salón bajo la rampa de acceso a la Iglesia de San Francisco del 10 al 23 de noviembre para una exposición fotográfica.",
+      "entidades": [
+        {
+          "nombre": "Asociación Círculo Fotográfico de Yecla Clic Clac",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el salón"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116038D",
+      "lugar": "Salón bajo la rampa de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "El Ayuntamiento pagará 133.190 euros para reparar la Ermita de San Roque",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba un convenio con el Obispado de Cartagena por el que el Ayuntamiento costea, con 133.190,75 €, la reparación de los cerramientos y la sacristía de la Ermita de San Roque; el Ayuntamiento contratará las obras y el convenio dura los tres meses de ejecución.",
+      "entidades": [
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "firma el convenio; propietario de la ermita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 133190.75,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172601N",
+      "lugar": "Ermita de San Roque",
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Vallas para la fiesta de Halloween del AMPA del CEIP Méndez Núñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden 20 vallas municipales al AMPA del CEIP Méndez Núñez para su actividad de Halloween del 7 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe vallas en préstamo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170111E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "XII Marcha Canina Benéfica de la Protectora de Animales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Sociedad Protectora de Animales de Yecla (SPANDY) la XII Marcha Canina Benéfica del 9 de noviembre, con salida y llegada en el Cerro de la Fuente y apoyo de la Policía Local en los cruces de carretera.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Protectora de Animales de Yecla (SPANDY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170865C",
+      "lugar": "Cerro de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Plan de seguridad de la obra del centro enoturístico de la Casa de los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra para terminar el centro enoturístico de la Casa de los Arcos y mejorar su eficiencia energética (Plan de Sostenibilidad Turística 'Yecla ES +', fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria de la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122691T",
+      "lugar": "Casa de los Arcos",
+      "interes": 2
+    }
+  ]
+}

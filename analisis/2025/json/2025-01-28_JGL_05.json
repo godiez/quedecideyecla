@@ -1,0 +1,964 @@
+{
+  "doc": "2025-01-28_JGL_05",
+  "organo": "JGL",
+  "sesion": 5,
+  "fecha": "2025-01-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno paga 426.325 euros en facturas, sobre todo basura y limpieza viaria, jardines, el centro de día de mayores y las fiestas de Reyes, y aprueba la programación del Teatro Concha Segura hasta mayo (77.309 euros en cachés). Se aprueba el proyecto básico de rehabilitación del edificio de Cazadores y se convocan dos plazas de mantenedor. Fuera del orden del día se rechaza la última entrega de la empresa del plan de movilidad y se niega al ingeniero municipal que deje de recibir la obra del Mercado Central.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 21 y 24 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de la CARM a la Policía Local y reintegro de un curso del SEF",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos órdenes de la Comunidad Autónoma que conceden y pagan al Ayuntamiento ayudas para material de la Policía Local (anualidad 2024 del programa 2021-2025), de la autorización arqueológica para soterrar la línea eléctrica de la planta solar 'La Arboreda' (9,94 MWp) junto a la N-344, y de la liquidación con obligación de reintegro de la subvención del SEF para el curso 'Yecla Potencia Joven 2022'. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1026901C",
+      "lugar": "Carretera N-344, polígono 43",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza, jardines, Reyes, alumbrado y centro de día",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar diez facturas por 426.325 €: recogida de basura y limpieza viaria y mantenimiento de jardines de diciembre, centro de día de mayores, agua, alumbrado de fiestas y Navidad, y la cabalgata y montajes de Reyes 2025.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grupo Almansa Eventos S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ropería Ximo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 426325.11,
+      "importes": [
+        {
+          "concepto": "Contrato menor: pasacalles de hinchables, Cabalgata de Reyes 2025",
+          "eur": 18029.0,
+          "entidad": "Grupo Almansa Eventos S.L.U."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen 2024 y Navidad-Reyes (Yecla y Raspay)",
+          "eur": 44951.5,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Infraestructura Fiestas de Reyes Magos 2025, Lote 1 (C.SU. 10/24)",
+          "eur": 19958.95,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Infraestructura Fiestas de Reyes Magos 2025, Lote 2 (C.SU. 10/24)",
+          "eur": 27097.95,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Contrato menor: trajes de Reyes Magos, pajes y emisarios 2025",
+          "eur": 6214.56,
+          "entidad": "Ropería Ximo, S.L."
+        },
+        {
+          "concepto": "Contrato menor: servicios técnicos generales Cabalgata de Reyes 2025",
+          "eur": 6171.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, diciembre 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, diciembre 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Suministro de agua, factura SAT24/00033V",
+          "eur": 12563.1,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, diciembre 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1025676A, 983533T, 1008663X, 1025728Y, 1025682J, 836272P, 777199T, 497255H, 495804R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Pinocho' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla: 3.168 € recaudados y baja de 324 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3168.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de 'La tienda mágica de la Navidad' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla: 1.878 € recaudados y baja de 1.614 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1878.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del concierto de Fin de Año y Año Nuevo",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del concierto en el Teatro Concha Segura: 4.303,60 € recaudados y baja de 3.712,40 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4303.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Pago de los Bonos Yeclanea 2024 de apoyo al comercio local",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se dan por justificados y se pagan los bonos de compra Yeclanea 2024 de una nueva lista de beneficiarios, y se aprueban las listas de bonos no usados, devueltos o aplicados fuera de plazo. Es un programa financiado por la Comunidad Autónoma. El acta no da importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Impulso al Comercio, Innovación Empresarial e Industrias y Oficios Artesanales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931952D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para cambiar el tejado de una vivienda unifamiliar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para sustituir la cubierta de su vivienda, con fianza de 135 € para reponer la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981001C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Aprobado el proyecto básico de rehabilitación del edificio de Cazadores",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba el proyecto básico para convertir el edificio de Cazadores en centro multifuncional de ocio, cultura y promoción económica, redactado por la UTE Neten Consultoría-García Guisado Arquitectura dentro del programa PIREP con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "UTE Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854499E",
+      "lugar": "Edificio de Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Convocatoria de dos plazas fijas de mantenedor para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para dos plazas fijas de mantenedor (grupo C2), de la Oferta de Empleo Público de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1027059X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Cambio de horario de una pintora municipal para conciliar",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una trabajadora de la Brigada de Obras a cambiar su horario por conciliación familiar hasta 2032.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035529K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Reconocimiento de antigüedad a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una funcionaria interina 5 años, 2 meses y 10 días de servicios previos en la Comunidad Autónoma, que le dan derecho a un trienio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034902P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso sin sueldo a una educadora social",
+      "categoria": "personal",
+      "resumen": "Se concede a una educadora de Servicios Sociales licencia sin retribución del 5 al 21 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1032190Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Permiso de lactancia acumulado para un policía local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local acumular el permiso de lactancia del 17 al 22 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1031513H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Jubilación de una auxiliar administrativa tras 39 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de una empleada municipal el 28 de febrero y se le agradecen sus más de 39 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1032468J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Un policía local se acoge a la jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente de la Policía Local se acoge a la jubilación anticipada prevista para policías locales (R.D. 1449/2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1036955Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Otro policía local se acoge a la jubilación anticipada",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un segundo agente de la Policía Local se acoge a la misma modalidad de jubilación anticipada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1038046F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Arquitecto técnico interino 18 meses para las ayudas de rehabilitación energética",
+      "categoria": "personal",
+      "resumen": "Se aprueba un programa temporal y el nombramiento, desde la bolsa de empleo, de un arquitecto técnico interino a media jornada (26,5 horas) durante 18 meses para gestionar las ayudas europeas de rehabilitación energética de viviendas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1027884R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Gastos de viaje de la directora de Servicios Sociales a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de la directora de Servicios Sociales a una reunión regional en la Consejería y se pagan sus gastos de desplazamiento.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036660F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "La interventora irá a unas jornadas de formación en Madrid",
+      "categoria": "personal",
+      "resumen": "Se ordena a la interventora asistir a unas jornadas del INAP sobre control interno del 10 al 12 de febrero en Madrid, con gastos a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto Nacional de Administración Pública (INAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037727N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Limpieza de los aseos del Monte Arabí y del Cerrico de la Fuente en 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 8.532,70 € el contrato menor de limpieza de la Casa del Guarda del Monte Arabí y de apertura y limpieza de los aseos del Cerrico de la Fuente durante 2025, a un autónomo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8532.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1029991H",
+      "lugar": "Monte Arabí; Cerrico de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Curso de monitores de ocio y tiempo libre, adjudicado a Afedeco",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la asociación Afedeco por 6.000 € el contrato menor para impartir un curso de monitores de ocio y tiempo libre.",
+      "entidades": [
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034991N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Actividades de los días de la igualdad y la mujer 2025, adjudicadas a Afedeco",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Afedeco por 14.689,40 € el contrato menor de actividades para conmemorar los días relacionados con la igualdad y la mujer en 2025.",
+      "entidades": [
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14689.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022663Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Charlas educativas en colegios e institutos por 11.937 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional por 11.937,50 € un contrato menor de actuaciones educativas para alumnado de infantil a bachillerato y FP, profesorado, familias y grupos vulnerables (Política Social).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11937.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1025801Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Obra de teatro 'Animales de compañía' por 11.979 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Pentación, S.A. la representación de 'Animales de compañía' el 8 de febrero en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11979.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037638P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Mesa informativa de AYAC por el Día Mundial contra el Cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner una mesa informativa el 5 de febrero en el Parque de la Constitución (mercado semanal) y se le presta carpa, mesa y sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1032128M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Policía Local acompañará la procesión de la Virgen de Lourdes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ordena a la Policía Local acompañar y controlar el tráfico en la procesión de la Virgen de Lourdes del 9 de febrero, desde la parroquia de San José.",
+      "entidades": [
+        {
+          "nombre": "Hospitalidad Murciana Nuestra Señora de Lourdes",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034440Y",
+      "lugar": "Parroquia de San José y calles del recorrido",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Curso de monitor de ocio y tiempo libre en el Espacio Joven: 6.700 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar con la Dirección General de Juventud de la CARM un curso básico de monitor de ocio y tiempo libre del 7 de marzo al 10 de mayo, con un presupuesto de 6.700 €.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6700.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978686M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Edificio Bioclimático para la Peña El Pitorro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se presta una sala a la peña para preparar su participación en las Fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Peña sociocultural El Pitorro",
+          "cif": null,
+          "tipo": "peña",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035119Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de actos del Bioclimático para la Asociación Soy Su Voz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se presta el salón de actos para una reunión sobre bienestar animal y colonias felinas.",
+      "entidades": [
+        {
+          "nombre": "Asociación Soy Su Voz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035608W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Visita del IES Azorín al Teatro Concha Segura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una visita al teatro dentro de un programa Erasmus+.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034999Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Espacio en la escuela infantil El Parque para la asociación de autismo Astrade",
+      "categoria": "patrimonio",
+      "resumen": "Se cede durante dos años prorrogables a la asociación Astrade un espacio de la escuela infantil municipal El Parque, por las tardes, para atender a menores con autismo (TEA) de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Astrade (Asociación para la Atención de personas con Autismo y otros TGD de la Región de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1028465Z",
+      "lugar": "E.I. Municipal El Parque",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Visitas guiadas de febrero a julio con el Instituto de Turismo: 6.184 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas y actividades turísticas organizado con el Instituto de Turismo de la Región de Murcia, con un presupuesto de 6.184,31 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6184.31,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036409H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Programación del Teatro Concha Segura hasta mayo: 77.309 € en cachés",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del teatro de febrero a mayo (José Mercé, 'Parejas imperfectas', 'Una madre de película', 'El gran show', bandas de Semana Santa...), con 77.309 € en cachés, y los precios de las entradas (de 6 a 25 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Agrupación Musical Santa María Magdalena",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 77309.0,
+      "importes": [
+        {
+          "concepto": "Concierto 'Cine y Música'",
+          "eur": 2000.0,
+          "entidad": "Asociación Amigos de la Música de Yecla"
+        },
+        {
+          "concepto": "Animales de Compañía",
+          "eur": 11979.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto 40 aniversario",
+          "eur": 2000.0,
+          "entidad": "Agrupación Musical Santa María Magdalena"
+        },
+        {
+          "concepto": "Supremo",
+          "eur": 2420.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Parejas Imperfectas",
+          "eur": 10285.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto José Mercé",
+          "eur": 21780.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Monólogo 'Hablando en serio'",
+          "eur": 4200.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Danza española ENdanza 'Taconcito de madera'",
+          "eur": 2420.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Una Madre de Película",
+          "eur": 9075.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lisístrata, Caligae Teatro",
+          "eur": 800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "El Gran Show, el musical",
+          "eur": 10350.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Elección de Reinas y Damas de San Isidro 2025: 6.612 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las convivencias de las candidatas y el acto de elección del 22 de marzo en el Teatro Concha Segura, con un presupuesto de 6.612,65 € y entradas a 8 €.",
+      "entidades": [
+        {
+          "nombre": "Bodegas La Purísima",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "lugar de actividad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6612.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036388D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Nuevos criterios de ayudas de ocio y formación para jóvenes vulnerables",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se modifican los criterios de las ayudas municipales para actividades formativas y de ocio de jóvenes en riesgo de exclusión social (creadas tras la COVID) y se deja sin efecto el acuerdo de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "605629C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Prácticas de una estudiante de máster en el Centro de Atención Temprana",
+      "categoria": "convenio",
+      "resumen": "Se autorizan 105 horas de prácticas no remuneradas de una estudiante del Máster de Atención Temprana de la Universidad Nebrija.",
+      "entidades": [
+        {
+          "nombre": "Universidad Antonio de Nebrija",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036470R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "otros",
+      "resumen": "Se reconoce a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030716A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Tarjeta de residente de zona azul para otra vecina",
+      "categoria": "otros",
+      "resumen": "Se reconoce a otra vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030722J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Técnicos de Servicios Sociales a reuniones de familia en Murcia",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena a tres técnicas del Programa de Familias y Menores asistir a cinco reuniones en Murcia en 2025, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037708M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Se rechaza el último trabajo de Pmus & Civil del plan de movilidad 'Yecla Sostenible'",
+      "categoria": "contrato",
+      "resumen": "Urgente: se da por no terminado el contrato de asistencia técnica para la movilidad y zona de bajas emisiones (fondos Next Generation) y se exige a Pmus & Civil, S.L. corregir la documentación; hasta entonces no se paga el último plazo, porque el informe técnico ve escenarios mezclados que pueden desvirtuar los datos.",
+      "entidades": [
+        {
+          "nombre": "Pmus & Civil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista requerido"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "640397Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Las mejoras del contrato de jardines se harán tal como las ofertó Actúa",
+      "categoria": "contrato",
+      "resumen": "Urgente: el jefe de Servicios Públicos quería cambiar las mejoras ofrecidas por Actúa en el contrato de jardines por otras; Contratación dice que la ley no lo permite, así que se harán las ofertadas y según el calendario previsto.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "944760R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Denegado que el ingeniero municipal deje de recibir la obra del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Urgente: se rechaza la petición del ingeniero de caminos municipal de dejar de ser el representante del Ayuntamiento en la recepción de la obra de remodelación del Mercado Central, por no ver justificados sus motivos; podrá pedir asesoramiento técnico sobre las instalaciones eléctricas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 1038162R",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Yecla acepta una ayuda de 10.170 € de la CARM contra el absentismo escolar",
+      "categoria": "subvencion_recibida",
+      "resumen": "Urgente: el Ayuntamiento da su conformidad al borrador de decreto de la Consejería de Educación que le asigna 10.170,06 € para reducir el absentismo escolar en el curso 2024-2025 (cofinanciado por el FSE+), sin aportación municipal.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Formación Profesional (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10170.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034655X",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

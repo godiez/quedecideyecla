@@ -1,0 +1,1344 @@
+{
+  "doc": "2022-11-22_JGL_54",
+  "organo": "JGL",
+  "sesion": 54,
+  "fecha": "2022-11-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 59,
+  "resumen": "La Junta de Gobierno adjudica a Véctoris el mantenimiento de las instalaciones deportivas por 908.346 euros al año, las luces de fiestas y Navidad a Invemat Levante (84.879 euros) y un camión de 73.000 euros, y saca a licitación la reurbanización de la calle San Antonio (334.150 euros). Aprueba los Bonos Yeclanea (50.000 euros para el comercio) y la convocatoria de subvenciones deportivas (132.000 euros). Abre expediente de penalización por el retraso de la obra de la Casa de la Cultura, concede 16 licencias de obra (entre ellas naves industriales y 12 apartamentos turísticos) y deniega la ampliación de una vivienda en suelo rústico que ya había crecido más del 300%.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior (el acta deja en blanco su fecha).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: empleo público, Concha Segura, cámaras del Arabí y Cerro de los Santos",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el SEF da por justificada la subvención de empleo público local, de la autorización patrimonial para pavimentar junto al Teatro Concha Segura, del permiso de la Delegación del Gobierno para las cámaras de la Casa del Guarda del Arabí, de la petición de Montealegre del Castillo de un informe arqueológico sobre el Cerro de los Santos para declararlo BIC y de un cambio del canon de saneamiento del colegio El Alba.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "696976Y",
+      "lugar": "Teatro Concha Segura; Monte Arabí; Cerro de los Santos",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: residuos, publicidad en Teleyecla, furgón y LAN party",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: la aportación de septiembre al Consorcio de Residuos, la publicidad municipal en Teleyecla, un furgón para las escuelas infantiles y unas jornadas tecnológicas tipo LAN party.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Last Day Ocio Alternativo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Fibraworld Telecom, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 74023.14,
+      "importes": [
+        {
+          "concepto": "Furgón para las escuelas infantiles (contrato menor)",
+          "eur": 11700.7,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Jornadas tecnológicas 'Lan-BataLan Yecla 2022'",
+          "eur": 7744.0,
+          "entidad": "Last Day Ocio Alternativo, S.L."
+        },
+        {
+          "concepto": "Aportación de septiembre 2022",
+          "eur": 38578.44,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Publicidad de actividades municipales en Teleyecla Radio y Teleyecla TV 2022",
+          "eur": 16000.0,
+          "entidad": "Fibraworld Telecom, S.A.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674571E, 693818M, 584325N, 588399X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cuentas de taquilla de un concierto en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del 13 de noviembre: de 3.558 € en entradas puestas a la venta se vendieron 1.326 € y se dan de baja 2.232 € no vendidos. El título habla del musical 'Los viajes de Monipé' y el texto de un concierto.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1326.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nuevo proyecto para derribar dos edificios en ruina en calle Juan Ortuño",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a la empresa a cambiar el proyecto de demolición de dos edificios declarados en ruina en junio de 2022 (licencia de 2014 que no se ejecutó). Deberá documentar con fotos los elementos protegidos de la fachada para reproducirlos en la nueva construcción y dejar fianzas de 2.094,52 €.",
+      "entidades": [
+        {
+          "nombre": "Ortiz Panadero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628487Z (lic. 11/2013)",
+      "lugar": "Calle Juan Ortuño, 4-6",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar la reforma de una vivienda en Umbría Peñas Blancas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de reforma de su vivienda unifamiliar, ya con licencia desde agosto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575705Q (lic. 565/2021)",
+      "lugar": "Paraje Umbría Peñas Blancas",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para un edificio de 12 apartamentos turísticos en calle San Roque",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico) para construir un edificio entre medianeras de 12 apartamentos turísticos de una llave; necesitará proyecto de ejecución para empezar y fianza de 400 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "625933C (lic. 242/2022)",
+      "lugar": "Calle San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para un edificio de dos viviendas con garajes en calle Trinquete",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a varios particulares licencia (con proyecto básico) para construir un edificio de dos viviendas, trasteros y garajes; fianza de 1.250 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "646189K (lic. 328/2022)",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para dos naves de fabricación de muebles tapizados en la carretera de Pinoso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir dos naves industriales para fabricar muebles tapizados en la carretera Yecla-Pinoso.",
+      "entidades": [
+        {
+          "nombre": "Hekora Tapizados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "643122A (lic. 378/2022)",
+      "lugar": "Carretera Yecla-Pinoso, polígono 45, parcelas 536 y 399",
+      "interes": 3
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Denegada la ampliación de una vivienda en El Lentiscar (suelo no urbanizable)",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un particular la reforma y ampliación de su vivienda en suelo no urbanizable: la parcela no llega a 5.000 m² y la casa ya ha pasado de unos 85 m² a unos 257 m² con cuatro ampliaciones, más del 300%, cuando solo se permite un 20%.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "646146A (lic. 428/2022)",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Placas solares para la Comunidad de Regantes Hoya del Carche-Ermita",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para una instalación solar fotovoltaica de autoconsumo sin excedentes, con fianza de 600 € por posibles daños en caminos rurales.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Carche-Ermita",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658531C (lic. 489/2022)",
+      "lugar": "Paraje El Carche-Maysanta, polígono 72, parcelas 7 y 70",
+      "interes": 2
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Ascensor en un edificio de 3 viviendas en calle Historiador Miguel Ortuño",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la comunidad de propietarios para instalar un ascensor; fianza de 300 €.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "669139K (lic. 513/2022)",
+      "lugar": "Calle Historiador Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Rehabilitación de una vivienda en calle San Ramón",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a una constructora para rehabilitar una vivienda entre medianeras; fianza de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Soriano Ejido, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "671600D (lic. 524/2022)",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Nave industrial en el polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una nave industrial sin uso específico; fianza de 3.448,85 €.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "671274A (lic. 551/2022)",
+      "lugar": "Polígono industrial Las Teresas, parcela A5 (10)",
+      "interes": 2
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Vivienda con piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para una vivienda unifamiliar aislada con piscina en suelo rústico; deberá tener fosa séptica y abastecerse de agua con depósitos o aljibes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672223T (lic. 552/2022)",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Derribo de una vivienda en avenida Pablo Picasso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a una promotora para demoler una vivienda entre medianeras, con desratización previa y fianzas de 441,62 €.",
+      "entidades": [
+        {
+          "nombre": "Edificios Mundo Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681943T (lic. 564/2022)",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Vivienda aislada en El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos particulares licencia para una vivienda unifamiliar aislada en suelo rústico, con fosa séptica y depósitos de agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682093C (lic. 581/2022)",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.14",
+      "titulo": "Ascensor en un edificio de 9 viviendas en calle Niño Jesús",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la comunidad de propietarios para instalar un ascensor.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "676411K (lic. 587/2022)",
+      "lugar": "Calle Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "4.15",
+      "titulo": "Vivienda entre medianeras en calle Rambla de Algezares",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico) para una vivienda unifamiliar entre medianeras; fianza de 475 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686706J (lic. 647/2022)",
+      "lugar": "Calle Rambla de Algezares",
+      "interes": 1
+    },
+    {
+      "ref": "4.16",
+      "titulo": "Placas solares para las bombas de la depuradora de Yecla",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la Comunidad Autónoma para una instalación fotovoltaica que alimente los equipos de bombeo de la depuradora (EDAR); fianza de 400 € por los caminos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Agua (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691250W (lic. 678/2022)",
+      "lugar": "EDAR de Yecla, polígono 46, parcela 297",
+      "interes": 2
+    },
+    {
+      "ref": "4.17",
+      "titulo": "XTI Footwear: almacén logístico en suelo no urbanizable en Herrada del Manco",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "La Comunidad Autónoma pidió justificar que no hay parcelas industriales libres. El Ayuntamiento responde que en el polígono municipal Las Teresas no queda ninguna en venta y que el de Las Artesillas/Las Teresas, privado, no ha empezado a urbanizarse, y ratifica su informe favorable a ampliar la nave y convertirla en almacén logístico.",
+      "entidades": [
+        {
+          "nombre": "XTI Footwear, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "528187T (S.N.U. 8/21)",
+      "lugar": "Paraje Herrada del Manco",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se cambia el baremo de títulos en la bolsa de Técnico de Administración General",
+      "categoria": "personal",
+      "resumen": "Tras el recurso de una aspirante, se modifica la puntuación de las titulaciones (doctorado 2, máster 1,5, grado 1, otras 0,5 puntos) en las bases de la bolsa de empleo de Técnico de Administración General y se vuelve a convocar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658496D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratadas dos auxiliares de ayuda a domicilio",
+      "categoria": "personal",
+      "resumen": "Se contrata a dos auxiliares de ayuda a domicilio para el proyecto de acompañamiento a personas vulnerables con capacidad de obrar limitada y se crea una lista de espera con tres aspirantes más.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690354A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Unidad responsable de la accesibilidad de la web municipal",
+      "categoria": "organizacion",
+      "resumen": "A petición del Ministerio, se designa al Departamento de Informática como Unidad de Accesibilidad del Ayuntamiento para cumplir la norma de accesibilidad de webs y apps públicas.",
+      "entidades": [
+        {
+          "nombre": "Secretaría de Estado de Digitalización e Inteligencia Artificial",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685022W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Anticipo de nómina a un policía local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local un anticipo de 2.000 € de su sueldo, a devolver de forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691686A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Reconocimiento de antigüedad a la directora de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se reconocen a efectos de antigüedad los servicios prestados en comisión de servicios en el Ayuntamiento de Molina de Segura (2017-2022).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695975H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Prórroga de reducción de jornada a un conductor municipal",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses la reducción de jornada del 35,41% de un conductor municipal para cuidar de un familiar enfermo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697979Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Cambio temporal de horario a un trabajador social",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un trabajador social a hacer horario de 9:00 a 16:15 del 21 de noviembre al 2 de diciembre, sin cambio de sueldo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697951C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Retraso en la cubierta de la Casa de la Cultura: expediente de penalización",
+      "categoria": "contrato",
+      "resumen": "La obra debía acabar el 20 de agosto y la empresa dice que terminará el 2 de diciembre. Se declara el incumplimiento y se abre expediente para imponer una penalidad de 62,17 € por día de retraso (unos 72 días); no se rescinde por lo avanzado de la obra.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R (C.O. 3/20)",
+      "lugar": "Casa de la Cultura",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Sale a licitación la reurbanización de la calle San Antonio por 334.150 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre el procedimiento para adjudicar la reurbanización de la calle San Antonio entre San Francisco y Don Lucio (Plan de Obras y Servicios 2022/2023), con presupuesto de 334.150,10 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 334150.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "654214F (C.O. 7/22)",
+      "lugar": "Calle San Antonio, entre calle San Francisco y calle Don Lucio",
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Luces de las Fiestas de la Virgen y Navidad: 84.879 € a Invemat Levante",
+      "categoria": "contrato",
+      "resumen": "Se adjudica, a la única empresa que se presentó, el suministro e instalación del alumbrado ornamental de las Fiestas de la Virgen y de Navidad y Reyes en Yecla y Raspay por 84.879,08 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 84879.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "678650W (C.SU. 6/22)",
+      "lugar": "Yecla y Raspay",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Mantenimiento de instalaciones deportivas: 908.346 € al año a Véctoris",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por dos años el mantenimiento, limpieza y atención de las instalaciones deportivas municipales por 908.346,26 € al año con IVA. Se rechazaron las ofertas de Sacyr Facilities y Verdú Masip Servicios por ser anormalmente bajas.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sacyr Facilities, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        },
+        {
+          "nombre": "Verdú Masip Servicios, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 908346.26,
+      "importes": [
+        {
+          "concepto": "Precio anual con IVA (duración inicial 2 años)",
+          "eur": 908346.26,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q (C.SE. 5/21)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Compra de un camión para la Brigada de Agricultura por 73.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la única empresa licitadora el suministro de un camión para la Brigada de Agricultura por 73.000 € con IVA, que además se lleva el camión volquete actual.",
+      "entidades": [
+        {
+          "nombre": "Nemauto, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 73000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682443N (C.SU. 7/22)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de la cafetería La Parada en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la cafetería La Parada en calle San José: 16 m² en temporada de invierno, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Cafetería La Parada",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689192M",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de bar Keyko en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento bar Keyko en calle San Antonio: 18 m² en temporada anual (nov. 2022-oct. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "bar Keyko",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690483E",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de Hendrix Café en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento Hendrix Café en calle San José: 8 m² en temporada de invierno (nov. 2022-mar. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Hendrix Café",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690484F",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Denegada la ampliación de la terraza del Chicago Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega poner cuatro mesas en la acera de calle San José porque el criterio es no permitir terrazas en aceras de menos de 3,5 m con mucho paso de peatones.",
+      "entidades": [
+        {
+          "nombre": "Chicago Café",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "691261K",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Ganchillo en el Parque de la Constitución por las víctimas de violencia de género",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colectivo Amatista a colocar un tejido de ganchillo en una estructura del Parque de la Constitución el 28 de noviembre, en recuerdo de las víctimas de 2022, que deberá retirarse antes del 4 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Amatista",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697838W",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Edificio Bioclimático para la asamblea del Club Ciclista Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 28 de noviembre para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697146J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Centro de Emprendimiento para AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones del Centro de Emprendimiento el 1 de diciembre para una reunión del voluntariado de la asociación.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697861C",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Colegio El Alba para una jornada de convivencia de la AMPA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar las instalaciones exteriores del colegio el 27 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698017T",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Colegio San José de Calasanz para la Escuela de Navidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar el colegio durante las vacaciones de Navidad (de 8 a 14 h) para una 'Escuela de Navidad' que organiza una profesional particular.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697416J",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Bonos Yeclanea 2022: 50.000 € de ayudas al comercio local",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases de las ayudas directas al pequeño comercio por la crisis de precios y la covid: 10.000 bonos de 5 € de descuento para los clientes, que paga el Ayuntamiento, con un máximo de 500 € por comercio. Los comercios tienen diez días para apuntarse desde que se publique en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 50000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687516J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Permiso para abrir una zanja en el camino de Sax para llevar agua a una nave",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a abrir una zanja en un camino público para instalar la tubería de agua potable de una nave industrial en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697863E",
+      "lugar": "Camino de Sax, polígono 45",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la sobrecubierta del pabellón José Ortega Chumilla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de sobrecubierta de las salas polivalentes del pabellón, elaborado por la empresa adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "LYM, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684920D",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de facturas: instalaciones deportivas y combustible",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento de las instalaciones deportivas de octubre y combustible para vehículos y colegios.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 63279.13,
+      "importes": [
+        {
+          "concepto": "Combustible para vehículos y maquinaria municipales y gasóleo C para colegios y dependencias",
+          "eur": 7156.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, octubre 2022",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117Z, 508989E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Dos orientadores laborales para jóvenes, con fondos europeos",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF candidatos para contratar dos orientadores laborales a tiempo parcial (30 y 20 horas) para jóvenes de Garantía Juvenil hasta fin de 2022, con una subvención regional del Fondo Social Europeo, y se nombra el tribunal.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Fondo Social Europeo)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695356Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Terraza de establecimiento Jordan en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento establecimiento Jordan en calle San José: 12 m² en temporada de invierno (nov. 2022-mar. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "establecimiento Jordan",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696122M",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Terraza de bar El Esquinazo en Avenida de la Libertad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento bar El Esquinazo en Avenida de la Libertad: 10 m² en temporada de invierno (nov. 2022-mar. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "bar El Esquinazo",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696120J",
+      "lugar": "Avenida de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Terraza de bar Gaggia en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento bar Gaggia en calle Arcipreste Esteban Díaz: 14 m² en temporada anual (nov. 2022-oct. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "bar Gaggia",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689197T",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Terraza de mesón La Parra en Avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento mesón La Parra en Avenida Literato Azorín: 16 m² en temporada anual (nov. 2022-oct. 2023), con las condiciones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "mesón La Parra",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696114A",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Sala del Edificio Bioclimático para un ensayo de teatro del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala el 26 de noviembre para ensayar una obra de teatro.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698913N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Edificio Bioclimático para la asamblea del Club de Atletismo Yeclano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 29 de noviembre para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698963H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Salas del Edificio Bioclimático para el consulado de Bolivia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden dos salas el domingo 27 de noviembre para actividades consulares del viceconsulado de Bolivia en Murcia, sin fotocopiadora ni proyector por no haber personal ese día.",
+      "entidades": [
+        {
+          "nombre": "Viceconsulado de Bolivia en Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698953T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Misa de Pajes en la Iglesia de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la Misa de Pajes el 6 de diciembre en la Iglesia de San Francisco, que está en obras de restauración, con las condiciones de los técnicos; los gastos corren a cargo de la organización.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Parroquia de la Purísima",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "notificada"
+        },
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L. - Pegiro, S.L. U.T.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de la restauración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673050R",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "12.11",
+      "titulo": "VIII Muestra de Decoración Navideña del Comercio Local",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban las bases del concurso de escaparates navideños, con un presupuesto de 2.195 €; inscripción del 28 de noviembre al 16 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2195.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698112A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Convocatoria de subvenciones deportivas 2022: 132.000 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan ayudas para clubes y asociaciones deportivas (competiciones, escuelas, proyecto de temporada, eventos y actividades) y becas para deportistas no profesionales empadronados, con un máximo de 132.000 €. Solo hay 5 días para pedirlas desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 132000.0,
+      "importes": [
+        {
+          "concepto": "Deporte escolar y escuelas deportivas (condicionado a transferencia de crédito)",
+          "eur": 22000.0,
+          "entidad": "clubes y asociaciones"
+        },
+        {
+          "concepto": "Instituciones sin fines de lucro",
+          "eur": 93000.0,
+          "entidad": "clubes y asociaciones"
+        },
+        {
+          "concepto": "Premios y becas deportivas (condicionado a transferencia de crédito)",
+          "eur": 17000.0,
+          "entidad": "deportistas"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694991Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Tercer reparto de ayudas para libros y material escolar",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas extraordinarias de Servicios Sociales para libros y material escolar a los menores de la lista del informe; el acta no da el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "650996M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Cross Popular Fiestas de la Virgen: 5.950 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza el Cross Popular de las Fiestas de la Virgen el 27 de noviembre en el polideportivo Juan Palao Azorín, junto a la Escuadra de Arcabuceros y tres clubes, con una aportación municipal de 5.950 €.",
+      "entidades": [
+        {
+          "nombre": "Escuadra de Arcabuceros Virgen del Castillo",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "coorganiza"
+        },
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5950.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695390W",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "12.15",
+      "titulo": "Carrera de ciclocross CX Race Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya la prueba de ciclocross del 26 de noviembre en el polideportivo Juan Palao Azorín y el Cerro de las Trancas (gastos municipales de 259,20 € e instalaciones gratis valoradas en 310 €). Se advierte al club de que no se le autorizarán más eventos si no los pide en plazo.",
+      "entidades": [
+        {
+          "nombre": "Pafgio Cycling Club",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 569.2,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 259.2,
+          "entidad": "Pafgio Cycling Club"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 310.0,
+          "entidad": "Pafgio Cycling Club"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "688945T",
+      "lugar": "Complejo Juan Palao Azorín y Cerro de las Trancas",
+      "interes": 1
+    },
+    {
+      "ref": "12.16",
+      "titulo": "Convenio con la Universidad de Évora para prácticas de máster en Deportes",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con la Universidad de Évora (Portugal) para que un alumno haga 300 horas de prácticas no remuneradas del máster en Dirección y Gestión Deportiva en el Servicio Municipal de Deportes.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Évora",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694587E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.17",
+      "titulo": "El Ayuntamiento no quiere comprar una finca junto al monte Arabí",
+      "categoria": "patrimonio",
+      "resumen": "Un particular avisa de que va a vender una parcela de cultivo colindante con el monte Arabí (el Ayuntamiento tiene derecho preferente de compra por la Ley de Montes). Se le responde que no hay interés en comprarla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682074A",
+      "lugar": "Junto al monte Arabí",
+      "interes": 2
+    }
+  ]
+}

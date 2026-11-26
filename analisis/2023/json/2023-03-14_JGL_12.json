@@ -1,0 +1,871 @@
+{
+  "doc": "2023-03-14_JGL_12",
+  "organo": "JGL",
+  "sesion": 12,
+  "fecha": "2023-03-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 24,
+  "resumen": "La Junta de Gobierno paga 133.359 euros en facturas (limpieza de edificios, autobús urbano, concierto de Funambulista, Carnaval) y 229.143 euros en certificaciones de obra del Mercado Central, la Avenida Cruz Roja y la calle San Antonio. Saca a licitación europea los servicios técnicos y generales del Teatro Concha Segura y el Auditorio por dos años (204.079 euros), adjudica el Plan de Igualdad a Unimat Prevención (7.986 euros) y una obra de alcantarillado en la calle Pascual Amat (24.498 euros). Pide a la Comunidad Autónoma 300.000 euros para el yacimiento de Los Torrejones y autoriza la procesión del Cristo del Sepulcro y la clausura de la Ruta del Vino y la Tapa.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: depuradora, condecoraciones policiales, Vías Verdes y Atención Temprana",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de ESAMUR sobre el agua que llegó a la depuradora en 2022, del decreto regional de condecoraciones a policías locales, de un recordatorio de la Delegación del Gobierno sobre datos de gastos de personal, de la aportación municipal al Consorcio de Vías Verdes, de una subvención nominativa del IMAS para el Centro de Atención Temprana y de una sentencia que desestima el recurso de un particular sobre la plusvalía. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Consorcio de Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe aportación municipal"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús, concierto y Carnaval",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: la limpieza de edificios municipales de febrero, la subvención del autobús urbano de febrero, el concierto de Funambulista, unas jornadas de crecimiento familiar, la carpa de la Plaza de San Cayetano y el alumbrado del Carnaval 2023.",
+      "entidades": [
+        {
+          "nombre": "Señorita Rock'n Roll, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación Social de Cooperación y Gestión",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 133359.18,
+      "importes": [
+        {
+          "concepto": "Concierto de Funambulista",
+          "eur": 19360.0,
+          "entidad": "Señorita Rock'n Roll, S.L.U."
+        },
+        {
+          "concepto": "Jornadas de crecimiento familiar en Yecla",
+          "eur": 9580.66,
+          "entidad": "Asociación Social de Cooperación y Gestión"
+        },
+        {
+          "concepto": "Alquiler e instalación de carpa en la Plaza de San Cayetano (Carnaval)",
+          "eur": 6618.7,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, febrero de 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, febrero de 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Fiestas de Carnaval 2023, Lote 4 (alumbrado ornamental)",
+          "eur": 16575.79,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732191H, 727818J, 719683K, 551537Z, 118095X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2-3.4",
+      "titulo": "Recaudación de taquilla de tres espectáculos del Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla y la baja de entradas no vendidas de 'Funambulista', 'El desmoronamiento de la ternura' y la actuación de la Agrupación Musical Oración del Huerto y Santa María Magdalena. En total se ingresan 6.739,40 euros.",
+      "entidades": [
+        {
+          "nombre": "Teatro Concha Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "ingresa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6739.4,
+      "importes": [
+        {
+          "concepto": "Taquilla 'Funambulista' (04/03/2023); baja 3.814,60 €",
+          "eur": 5677.4,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla 'El desmoronamiento de la ternura' (03/03/2023); baja 3.156 €",
+          "eur": 336.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla Agrupación Musical Oración del Huerto y Santa María Magdalena (26/02/2023); baja 438 €",
+          "eur": 726.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J, 731751X",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Certificaciones de obra: carril ciclable de Avda. Cruz Roja y Mercado Central",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación final del carril ciclable y peatonal de la Avenida Cruz Roja y la cuarta certificación de la remodelación del Mercado Central.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 195304.73,
+      "importes": [
+        {
+          "concepto": "Certificación final, pavimentación y señalización de vías ciclables peatonales en Avda. Cruz Roja",
+          "eur": 22064.33,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 4, remodelación del Mercado Central",
+          "eur": 173240.4,
+          "entidad": "Guerola Transfer, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620929C, 638478A",
+      "lugar": "Avenida Cruz Roja; Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Cambio de director de obra y constructora en una licencia de 2008",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el titular de una licencia urbanística de 2008 designa un nuevo director de ejecución y coordinador de seguridad y a Maza Construcciones y Contratas como empresa constructora.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "632190R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Plan de Igualdad del Ayuntamiento adjudicado a Unimat Prevención",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la redacción y puesta en marcha del Plan de Igualdad del Ayuntamiento a Unimat Prevención por 7.986 euros; empató con EgaleCo Lab y ganó por tener más trabajadores con discapacidad en plantilla.",
+      "entidades": [
+        {
+          "nombre": "Unimat Prevención, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "EgaleCo Lab, S.Coop.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7986.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687219X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Procesiones de la Parroquia del Niño Jesús: sin acuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "No se adopta acuerdo porque las procesiones solicitadas ya se habían celebrado.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": "736892M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Bajada, rogativa y subida del Cristo del Sepulcro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan las procesiones del Santísimo Cristo del Sepulcro del 25 y 26 de marzo y del 2 de abril de 2023 entre el Santuario del Castillo y la Basílica de la Purísima, con prohibición de aparcar en el recorrido y retirada de contenedores.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Caballeros del Santísimo Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "742201K",
+      "lugar": "Santuario del Castillo - Basílica de la Purísima",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Permiso para quitar un árbol de la acera durante una demolición",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a retirar temporalmente un árbol de la acera de la calle San Ramón para demoler un inmueble; después deberá plantar a su cargo un aligustre y la fianza se devolverá cuando el árbol haya arraigado.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "711318R",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "7.1-7.3",
+      "titulo": "Uso de salas del Ayuntamiento: Peñas de San Isidro, Policía Nacional y una boda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos a la Federación de Peñas de San Isidro (asamblea) y a la Comisaría de la Policía Nacional (conferencia), y del Salón de Sesiones a una pareja para su boda civil.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Comisaría de la Policía Nacional de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744547T, 742632J",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.4-7.5",
+      "titulo": "Teatro gratis para las galas benéficas de No hay límite y AFEMY",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se cede el Teatro Concha Segura con el 100% de descuento del precio público (1.800 euros cada una) a la asociación No hay límite Yecla para su VIII Gala por la diversidad y a AFEMY para su gala benéfica.",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "AFEMY (Asociación de Familiares y Personas con Enfermedad Mental de Yecla-Salud Mental del Altiplano)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3600.0,
+      "importes": [
+        {
+          "concepto": "Exención del precio público del Teatro, VIII Gala por la diversidad (26/05/2023)",
+          "eur": 1800.0,
+          "entidad": "Asociación No hay límite Yecla"
+        },
+        {
+          "concepto": "Exención del precio público del Teatro, Gala Benéfica (17/03/2023)",
+          "eur": 1800.0,
+          "entidad": "AFEMY"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "712616W, 717097T",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Pista de atletismo gratis para la Miniolimpiada del CEIP El Alba",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba ceder gratis al AMPA del CEIP El Alba la pista de atletismo del polideportivo Juan Palao para su Miniolimpiada del 4 de marzo, valorada en 204,30 euros.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 204.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729492J",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Dos becas de 6.000 euros en la Casa de Cultura y el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden a dos particulares, por mayor puntuación, sendas becas de hasta 6.000 euros para trabajos de formación en la Casa Municipal de Cultura y en el Museo Arqueológico durante 2023, y se crea una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "becario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12000.0,
+      "importes": [
+        {
+          "concepto": "Beca de la Casa Municipal de Cultura",
+          "eur": 6000.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Beca del Museo Arqueológico Municipal",
+          "eur": 6000.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722708M",
+      "lugar": "Casa Municipal de Cultura; Museo Arqueológico Municipal",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Cuarta tanda de ayudas para pagar luz, gas y agua y comprar electrodomésticos",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas a familias para pagar los suministros de luz, gas o agua de su vivienda y para comprar electrodomésticos eficientes. Ni los beneficiarios ni los importes aparecen en el acta.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621084R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayuda excepcional para la limpieza de choque de una vivienda",
+      "categoria": "subvencion_concedida",
+      "resumen": "Servicios Sociales concede de oficio y sin coste para el interesado una ayuda para una limpieza a fondo de su vivienda. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "743173K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Un ex policía local cede su revólver al Ayuntamiento",
+      "categoria": "patrimonio",
+      "resumen": "Se acepta la cesión definitiva al Ayuntamiento del revólver de un ex cabo de la Policía Local, con su guía de pertenencia.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744321E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Horario especial del Mercado de San Cayetano en Semana Santa",
+      "categoria": "servicios_actividades",
+      "resumen": "El Mercado de San Cayetano abrirá el 5 de abril por la tarde (17:30 a 21:30) y el festivo 6 de abril por la mañana (8:00 a 14:00); se autoriza contratar los servicios externos necesarios.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745029N",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Certificaciones 1 y 2 de la reurbanización de la calle San Antonio",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las dos primeras certificaciones de la reurbanización de la calle San Antonio (la primera, a cero euros).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33838.44,
+      "importes": [
+        {
+          "concepto": "Certificación nº 1, reurbanización calle San Antonio",
+          "eur": 0.0,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 2, reurbanización calle San Antonio",
+          "eur": 33838.44,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "654214F",
+      "lugar": "Calle San Antonio (entre calle San Francisco y calle Don Lucio)",
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Jubilación anticipada de un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente de la Policía Local se jubila anticipadamente el 14 de abril de 2023 y se le agradecen sus más de 33 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "709865Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Contratación de una técnica de educación infantil en la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia de la sustituta, se contrata de la bolsa de empleo a otra técnica de educación infantil (20 horas semanales) para cubrir una baja en la Escuela Infantil El Parque hasta final de curso como máximo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744637T",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Renuncia de una auxiliar administrativa interina de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de una auxiliar administrativa interina de la Universidad Popular, que ha obtenido plaza fija en otro ayuntamiento, con efectos del 20 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746312W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Curso de Sistemas de Información Geográfica para un delineante municipal",
+      "categoria": "personal",
+      "resumen": "Se ordena a un auxiliar delineante hacer un curso básico de SIG del Instituto Geográfico Nacional; el Ayuntamiento paga la inscripción de 100 euros.",
+      "entidades": [
+        {
+          "nombre": "Instituto Geográfico Nacional",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "imparte el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740764P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Renovación del alcantarillado de la calle Pascual Amat",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular (contratista autónomo) por 24.497,56 euros el contrato menor de renovación parcial del alcantarillado de la calle Pascual Amat, entre Hijas de la Caridad y Peligros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 24497.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741249N",
+      "lugar": "Calle Pascual Amat (entre calle Hijas de la Caridad y calle Peligros)",
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Licitación de los servicios técnicos del Teatro Concha Segura y el Auditorio",
+      "categoria": "contrato",
+      "resumen": "Se abre un procedimiento abierto, publicado también en el Diario Oficial de la UE, para contratar durante dos años los servicios técnicos (62.375,50 euros al año) y generales (39.663,80 euros al año) del Teatro Concha Segura, el Auditorio Juan Miguel Benedito y otras actividades culturales. Gasto total de 204.078,60 euros entre 2023 y 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 204078.6,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 51019.65,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 102039.3,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 51019.65,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "739284J",
+      "lugar": "Teatro Concha Segura; Auditorio Juan Miguel Benedito",
+      "interes": 3
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Escuela de Semana Santa en el CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP San José de Calasanz a usar el colegio en las vacaciones de Semana Santa para una escuela de vacaciones que organiza una monitora particular ('Arcoiris'), corriendo con la limpieza y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746154A",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "El Área de Salud V usa salas del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Gerencia del Área V de Salud-Altiplano a usar salas del Edificio Bioclimático para una reunión del Consejo de Salud el 24 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Gerencia del Área V de Salud-Altiplano (Servicio Murciano de Salud)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745580D",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Se piden 300.000 euros a la CARM para el yacimiento de Los Torrejones",
+      "categoria": "subvencion_recibida",
+      "resumen": "A propuesta de la Dirección General de Patrimonio Cultural, el Ayuntamiento solicita una subvención directa de 300.000 euros para la Fase I del Plan Director del yacimiento romano de Los Torrejones, que cubre todo el presupuesto.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744115T",
+      "lugar": "Yacimiento de Los Torrejones",
+      "interes": 3
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Prácticas de dos alumnos del IES Castillo Puche en Servicios Públicos",
+      "categoria": "personal",
+      "resumen": "Dos alumnos del ciclo de Instalaciones Eléctricas y Automáticas del IES José Luis Castillo Puche harán prácticas no remuneradas en el Departamento de Servicios Públicos del 15 de marzo al 13 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744673T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "i-DE abre una zanja en el camino de la Rabosera para una línea eléctrica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la distribuidora eléctrica a abrir una zanja por el camino CRA-47 'Travesía de la Rabosera' y otros caminos para una nueva línea subterránea de media tensión, con fianza de 2.318 euros y reposición del firme.",
+      "entidades": [
+        {
+          "nombre": "I-Redes Eléctricas Inteligentes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2318.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694492Y",
+      "lugar": "Camino CRA-47 'Travesía de la Rabosera' y otros caminos de tercer orden",
+      "interes": 2
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Orange abre una zanja en el Camino Casa del Cristo para fibra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Orange a abrir una zanja en el Camino Casa del Cristo para su red de fibra hacia un nodo en La Cañadilla (carretera Yecla-Jumilla), con fianza de 300 euros.",
+      "entidades": [
+        {
+          "nombre": "Orange Comunicaciones Fijas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694492Y",
+      "lugar": "Camino Casa del Cristo; paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "13.14",
+      "titulo": "Clausura de la 10ª Ruta del Vino y la Tapa en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla la fiesta de clausura de la 10ª Ruta del Vino y la Tapa el 26 de marzo en el Parque de la Constitución, con carpas, mesas y vallas municipales, venta de alcohol y permiso para superar el límite de ruido; fianza de limpieza de 400 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741236W",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "13.15",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

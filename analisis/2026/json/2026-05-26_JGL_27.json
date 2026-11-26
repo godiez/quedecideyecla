@@ -1,0 +1,964 @@
+{
+  "doc": "2026-05-26_JGL_27",
+  "organo": "JGL",
+  "sesion": 27,
+  "fecha": "2026-05-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta paga unos 545.000 € en facturas y certificaciones de obra, casi todo de obras turísticas con fondos europeos (Iglesia de la Asunción, Casa de los Arcos, jardín vertical del Mercado). Prorroga un año el contrato de jardines con Actúa, paraliza la licitación de talleres para mayores por un error de costes salariales y adjudica reformas en el colegio Giner de los Ríos. Aprueba las escuelas de verano, el evento 'The Burguer Land' y becas de arqueología y cultura, y deniega a ADFY una plaza de aparcamiento para discapacitados.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 19 y 22 de mayo de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "El SEF pide devolver parte de una subvención de empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio de Empleo y Formación ha resuelto que el Ayuntamiento devuelva parte de la subvención del programa 'Fomento Territorial del Empleo' (no consta el importe).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1292768M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: colector, fiestas de San Isidro, etilómetro y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban pagos por 104767.16 €: la sustitución de un colector en calle San Antonio (47.734,50 €), equipos de restauración, un etilómetro para la Policía, la orquesta y un espectáculo de las fiestas de San Isidro y el soporte del programa de contabilidad.",
+      "entidades": [
+        {
+          "nombre": "Spai Innova Astigitas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "CTS España Productos y Equipos para la Restauración S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grupo Tecnología del Tráfico S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Karalan Gestión Comercial S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "La Cartagenera de Espectáculos S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 104767.16,
+      "importes": [
+        {
+          "concepto": "Soporte y mantenimiento del programa de contabilidad SPAI Sical, enero-marzo 2026",
+          "eur": 8433.92,
+          "entidad": "Spai Innova Astigitas, S.L."
+        },
+        {
+          "concepto": "Sustitución de colector en calle San Antonio / Numancia / Jabonerías",
+          "eur": 47734.5,
+          "entidad": "Construcciones Martínez Sánchez e Hijo S.L."
+        },
+        {
+          "concepto": "Equipos de restauración (ultrasonidos, microcincel, agitador magnético)",
+          "eur": 16171.95,
+          "entidad": "CTS España Productos y Equipos para la Restauración S.L."
+        },
+        {
+          "concepto": "Etilómetro evidencial para la Policía Local",
+          "eur": 10041.79,
+          "entidad": "Grupo Tecnología del Tráfico S.L."
+        },
+        {
+          "concepto": "Orquesta 'La Mundial Show', Fiestas de San Isidro",
+          "eur": 14890.0,
+          "entidad": "Karalan Gestión Comercial S.L."
+        },
+        {
+          "concepto": "Espectáculo 'Voy a Pasármelo G', recinto ferial Los Ventorrillos",
+          "eur": 7495.0,
+          "entidad": "La Cartagenera de Espectáculos S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1149861E, 1154728P, 1254996A, 1258789T, 1263342R, 1263358P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones del Jardín Vertical y del Centro Enoturístico Casa de los Arcos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban dos certificaciones de obras del Plan de Sostenibilidad Turística pagadas con fondos europeos: la última del jardín vertical junto al Mercado Central y la nº 5 del centro enoturístico de la Casa de los Arcos (261498.16 € en total).",
+      "entidades": [
+        {
+          "nombre": "Acer Proyectos y Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 261498.16,
+      "importes": [
+        {
+          "concepto": "Certificación nº 2 (última) Jardín Vertical junto al Mercado Central",
+          "eur": 144459.13,
+          "entidad": "Acer Proyectos y Obras, S.L."
+        },
+        {
+          "concepto": "Certificación nº 5 Centro Enoturístico Casa de los Arcos",
+          "eur": 117039.03,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939349C, 1122691T",
+      "lugar": "Mercado Central; Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 90 % del impuesto de obras a la asociación de Alzheimer",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica hasta el 90 % del ICIO de la reforma del nuevo local de la Asociación de Alzheimer (rampa, dos aseos adaptados y nuevas salas), por favorecer la accesibilidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1224474J",
+      "lugar": "calle España esquina calle Jabonería",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Pierde la fianza un chiringuito de la Cabalgata de San Isidro",
+      "categoria": "reclamaciones",
+      "resumen": "Se queda con la fianza de la titular de un chiringuito de la Cabalgata de Carrozas por no retirarlo a tiempo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260693N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Pierde la fianza otro chiringuito de la Cabalgata de San Isidro",
+      "categoria": "reclamaciones",
+      "resumen": "Se queda con la fianza del titular de otro chiringuito de la Cabalgata de Carrozas por no retirarlo a tiempo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260693N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Corrección de un error en el cambio de promotor de una licencia de 2008",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige el número de expediente (114/2008, no 144/2008) en el cambio de promotor y técnicos de una licencia de obra; la constructora es PRO7 2022, S.L.",
+      "entidades": [
+        {
+          "nombre": "PRO7 2022, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1228091H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir una vivienda aislada en suelo rústico y se levanta la paralización de las obras; debe comunicarse a Patrimonio Natural de la CARM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949852P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para ampliar una vivienda aislada con piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para ampliar una vivienda aislada con piscina en el campo, con condiciones de fosa séptica y ahorro de agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1134115K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para ampliar una vivienda aislada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para ampliar una vivienda aislada; si se mueven tierras debe supervisarlo un arqueólogo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1237547Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para rehabilitar una vivienda y garaje en Raspay",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia (con proyecto básico) para rehabilitar una vivienda y garaje en la pedanía de Raspay; para empezar necesita el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261257X",
+      "lugar": "Raspay",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se deniega un curso a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se deniega a un agente un curso de la EFIAP porque no hizo los cambios de turno necesarios para cubrir los servicios mínimos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1269963N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se deniega el mismo curso a otro agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se deniega a otro agente el mismo curso de la EFIAP por el mismo motivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1275176D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Viaje de una trabajadora social para grabar a una vecina centenaria",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social acompañar en Alicante la grabación a una persona mayor centenaria de Yecla, con gastos pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1289102W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "La directora de Servicios Sociales acompaña un viaje de mujeres a Cieza",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora de Servicios Sociales asistir al viaje cultural y de convivencia de mujeres a Cieza, con gastos pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1289125C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Curso de gestión de centros de servicios sociales para la directora",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora de Servicios Sociales asistir a un curso en la EFIAP, con gastos pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291297T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación de la organización de 'Verano en Danza 2026'",
+      "categoria": "contrato",
+      "resumen": "Se abre concurso para los servicios y suministros de infraestructura y producción de 'Verano en Danza 2026', con un precio máximo de 35.940,20 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 35940.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283076A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Obras de reforma en el colegio Giner de los Ríos",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de obras de acondicionamiento y reforma del CEIP Giner de los Ríos por 48.109,60 €.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000 S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48109.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1278704D",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Renovación de licencias del cortafuegos informático Fortinet",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para renovar las licencias Fortinet de seguridad informática.",
+      "entidades": [
+        {
+          "nombre": "Nunsys S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9673.95,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1278804R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Bases para adjudicar el bar de 'Verano en Danza' en la Plaza de Toros",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para elegir quién llevará el bar durante 'Verano en Danza 2026' en la Plaza de Toros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292346A",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Se deniega a ADFY una plaza de aparcamiento para discapacitados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la plaza reservada pedida por la asociación ADFY: la Policía Local informa que es una calle casi vecinal, el solicitante tiene garaje y hay otra plaza cerca en calle San Cristóbal.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1286758P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Evento gastronómico 'The Burguer Land' del 11 al 14 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba organizar el evento de hamburguesas 'The Burguer Land-Yecla' en el aparcamiento junto a Arcipreste Esteban Díaz y Antonio Machado, con 21.545 € de la Concejalía de Juventud.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 21545.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1285013Q",
+      "lugar": "Aparcamiento junto a calles Arcipreste Esteban Díaz y Antonio Machado",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil (29 de agosto)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1290729E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (8 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291623X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (11 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291921K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para elecciones sindicales de CCOO",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos a CCOO del Hábitat varios días de mayo y junio para el proceso electoral en OGARA S.Coop., la empresa que presta la ayuda a domicilio.",
+      "entidades": [
+        {
+          "nombre": "Comisiones Obreras del Hábitat",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "OGARA S.COOP",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1290087N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Graduación de Infantil del AMPA en el colegio Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar el salón de actos del colegio el 4 de junio para la graduación de Infantil, a su cargo.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1289517X",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Actividades de una asociación en el Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza el 30 y 31 de mayo para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación cri cri, crear, criar, creixer",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266424Y",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de 8 becas de auxiliar de arqueología",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan 8 becas de 1.000 € para jóvenes de 18 a 35 años estudiantes o titulados en Historia, Arte, Humanidades o Restauración.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283159Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Dos becas de 6.000 € en la Casa de Cultura y el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden dos becas de hasta 6.000 € (una en el Museo Arqueológico y otra en la Casa de Cultura) a los aspirantes con mejor puntuación; se excluyen 4 solicitudes por no estar empadronados y 1 por titulación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12000.0,
+      "importes": [
+        {
+          "concepto": "Beca Museo Arqueológico Municipal",
+          "eur": 6000.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Beca Casa Municipal de Cultura",
+          "eur": 6000.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1233240J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela de verano para personas con diversidad funcional 'Concilia en Verano'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se organiza del 23 de junio al 24 de julio una escuela de verano adaptada para familias con personas dependientes o con discapacidad, con 12.100 € de gasto, dentro de la subvención de 16.470 € de la CARM y el Fondo Social Europeo Plus.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Fondo Social Europeo Plus",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16470.0,
+      "importes": [
+        {
+          "concepto": "Subvención CARM/FSE+ recibida",
+          "eur": 16470.0,
+          "entidad": "CARM"
+        },
+        {
+          "concepto": "Gasto autorizado para la escuela",
+          "eur": 12100.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1289341C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Escuela Municipal de Vacaciones de verano y Navidad 2026",
+      "categoria": "otros",
+      "resumen": "Se aprueba la escuela de vacaciones para niños de 3 a 12 años (23 junio-31 julio y 23-31 diciembre) con 29.450,19 € de presupuesto, financiada por el Plan Corresponsables, y un precio de 3 € por niño y día.",
+      "entidades": [
+        {
+          "nombre": "Plan Corresponsables (CARM / Ministerio de Igualdad)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 29450.19,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1285445Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Proyecto de señalización de ciclosenderos y rutas naturales",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto técnico para adecuar y señalizar las rutas naturales (incluida la ruta Raspay-Pansas en el Parque Regional del Carche) dentro del contrato de ciclosenderos financiado con fondos europeos; se empieza sin esperar el informe formal del Parque por los plazos de la subvención.",
+      "entidades": [
+        {
+          "nombre": "Grupo Silvoturismo Servicios Ambientales",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactor"
+        },
+        {
+          "nombre": "Subdirección General de Montes, Caza y Pesca Fluvial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982777T",
+      "lugar": "Rutas naturales del término municipal; Sierra del Carche",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Campeonato de tenis de mesa de la Peña Destripaterrones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el XXVIII Campeonato de Tenis de Mesa 'Fiestas de San Isidro' el 31 de mayo en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 239,10 €.",
+      "entidades": [
+        {
+          "nombre": "Peña Destripaterrones",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 239.1,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283669Z",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Iberdrola (i-DE) podrá enterrar una línea de alta tensión",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a i-DE a ocupar el subsuelo de terreno público para renovar una línea subterránea de alta tensión de 20 kV entre el centro de transformación 'Feria de Yecla' y la calle Arquitecto Justo Millán, en precario y condicionado a licencia urbanística.",
+      "entidades": [
+        {
+          "nombre": "I-DE Redes Eléctricas Inteligentes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179136P",
+      "lugar": "Entre C.T. Feria de Yecla (traviesa Lomica) y calle Arquitecto Justo Millán",
+      "interes": 2
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Certificación de 179.684 € de la rehabilitación de la Iglesia de la Asunción",
+      "categoria": "pago_factura",
+      "resumen": "Urgente: se aprueba la certificación nº 8 de la obra que convierte la Iglesia de la Asunción en centro de visitantes, pagada con fondos europeos a través del ITREM.",
+      "entidades": [
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 179684.47,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093901H",
+      "lugar": "Iglesia de la Asunción",
+      "interes": 3
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Contratación de un mantenedor para los colegios",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata de la bolsa un mantenedor para la Brigada de Obras (mantenimiento de colegios) hasta que se cubra la plaza, máximo 3 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275933E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Curso sobre proyectos europeos para personal de la ADL",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena a una trabajadora de la Agencia de Desarrollo Local asistir a un curso de la EFIAP sobre proyectos europeos, con gastos pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292619E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Prórroga de un año del contrato de jardines con Actúa",
+      "categoria": "contrato",
+      "resumen": "Urgente: se prorroga hasta el 31 de mayo de 2027 (primera de dos prórrogas posibles) el contrato de mantenimiento de jardines y zonas verdes con Actúa, a petición de la empresa.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Se paraliza la licitación de talleres para mayores de Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Urgente: se suspende el plazo de ofertas del contrato de talleres y animación del Centro de Mayores 'Las Herratillas' porque el presupuesto no incluía las subidas salariales del nuevo convenio colectivo; se corregirá y se volverá a abrir.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274301N",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Conciertos del V Festival de Música de Cámara",
+      "categoria": "contrato",
+      "resumen": "Urgente: contrato menor para los conciertos del festival los días 27 y 28 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Diesis Formación S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9680.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292856J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Procesión del Sagrado Corazón de Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza la procesión del 29 de mayo desde la Ermita de San Roque hasta la Iglesia de San Francisco, con cortes de tráfico de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "institucion_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1290712F",
+      "lugar": "Ermita de San Roque - Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se cede la sala de reuniones del Centro de Emprendimiento el 1 y 2 de junio para un curso de formación de las asociadas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1293615N",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Programa Verano Deportivo 2026",
+      "categoria": "otros",
+      "resumen": "Urgente: se aprueba el programa deportivo de verano del Servicio Municipal de Deportes, dentro del Plan Corresponsables (subvención regional de 205.481,66 € ya concedida); sus costes ya están en el presupuesto.",
+      "entidades": [
+        {
+          "nombre": "Plan Corresponsables (CARM / Ministerio de Igualdad)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1293323H",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

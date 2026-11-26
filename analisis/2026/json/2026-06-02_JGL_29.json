@@ -1,0 +1,938 @@
+{
+  "doc": "2026-06-02_JGL_29",
+  "organo": "JGL",
+  "sesion": 29,
+  "fecha": "2026-06-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 51,
+  "resumen": "La Junta paga unos 207.000 euros en facturas (gimnasios y montaje de las Fiestas de San Isidro) y casi 77.000 euros en certificaciones de obra, y reconoce 69.618,93 euros a Actúa (la empresa de la basura) por los mayores costes de agosto de 2024, ya que sigue trabajando sin contrato en vigor. Reclama al IMAS que pague el Centro de Día 'Las Teresas' durante su cierre por obras. Además, saca a concurso el bar del Centro de Mayores Las Herratillas, adjudica contratos menores (Burger Land, escuela de verano inclusiva) y autoriza ocho terrazas de bar y la mejora del camino rural de la Capellanía por la CARM.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de actas anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: gimnasios municipales y montaje de las Fiestas de San Isidro",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan el mantenimiento y la limpieza de las instalaciones deportivas (marzo) y los seis lotes del montaje de las Fiestas de San Isidro 2026: escenarios y sonido, aseos, vallas, tribunas y sillas, iluminación y carpas.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Camion Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 206805.07,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas municipales, marzo 2026",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 1: producción e infraestructura de actuaciones y conciertos",
+          "eur": 44770.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 2: tráiler de aseos atendidos del 8 al 17 de mayo",
+          "eur": 24066.9,
+          "entidad": "Camion Toilet, S.L.U."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 3: vallado decorativo de protección",
+          "eur": 15415.4,
+          "entidad": "Decourba 2007, S.L.U."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 4: tribunas decoradas y sillas",
+          "eur": 13279.75,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 5: iluminación ornamental y suministro eléctrico",
+          "eur": 20691.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Fiestas de San Isidro 2026, lote 6: alquiler e instalación de carpas",
+          "eur": 12886.5,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 1247320P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de obra: calle España y Casa de los Arcos (centro enoturístico)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la última certificación y la certificación final de la mejora de aceras en calle España (entre calle D. Lucio y Placeta de los Ortega) y la certificación nº 6 de las obras del centro enoturístico de la Casa de los Arcos, pagado con fondos europeos Next Generation. Las tres obras son de la misma empresa.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 77137.52,
+      "importes": [
+        {
+          "concepto": "Certificación nº 5 y última, mejora de itinerarios peatonales en calle España (POS 2024/25)",
+          "eur": 9296.73,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Certificación final, mejora de itinerarios peatonales en calle España (POS 2024/25)",
+          "eur": 17532.73,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Certificación nº 6, centro enoturístico Casa de los Arcos (Plan de Sostenibilidad Turística, Next Generation EU)",
+          "eur": 50308.06,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045370D, 1122691T",
+      "lugar": "Calle España; Casa de los Arcos",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Recaudación de taquilla de la obra de teatro 'Páncreas'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba lo recaudado en taquilla por la obra 'Páncreas' en el Teatro Concha Segura (600 euros) y se dan de baja las entradas no vendidas (4.056 euros).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "importes": [
+        {
+          "concepto": "Recaudación de taquilla",
+          "eur": 600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 4056.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Recaudación de taquilla del Pregón de las Fiestas de San Isidro",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba lo recaudado en taquilla por el Pregón de San Isidro 2026 (1.760 euros) y se dan de baja las entradas no vendidas (2.896 euros).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1760.0,
+      "importes": [
+        {
+          "concepto": "Recaudación de taquilla",
+          "eur": 1760.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 2896.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1257101Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Rebaja del 95% en la tasa de basura a un pensionista",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un pensionista que vive de alquiler la bonificación del 95% en la tasa de basura de 2026. Se le había quitado por error al revisar la lista en marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291638R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.6",
+      "titulo": "Actúa cobra 69.618 € más por la recogida de basura de agosto de 2024",
+      "categoria": "pago_factura",
+      "resumen": "El contrato de recogida de basura y limpieza viaria terminó, pero la empresa sigue prestando el servicio por orden del Pleno hasta que haya un contrato nuevo. Se le reconocen 69.618,93 euros como indemnización por lo que le costó realmente el servicio en agosto de 2024 y no cobró en la factura, para que el Ayuntamiento no se beneficie a su costa. Se descuentan los gastos financieros, las amortizaciones y el IVA.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 69618.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.7",
+      "titulo": "Se reclama al IMAS que pague el Centro de Día Las Teresas durante su cierre por obras",
+      "categoria": "reclamaciones",
+      "resumen": "El Centro de Día para mayores dependientes 'Las Teresas' cerró del 18 al 29 de mayo de 2026 para cambiar urgentemente el suelo, que estaba dañado. El IMAS (Comunidad Autónoma) se niega a pagar esos días. El Ayuntamiento le reclama los costes fijos de personal y mantenimiento, porque tuvo que seguir pagando a la empresa que gestiona el centro. Recuerda que el IMAS sí pagó en cierres anteriores, como el COVID o las DANAs.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclamado"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264621T",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "3",
+      "titulo": "Permiso para dividir una finca rústica en el paraje Fuente de la Negra",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se da licencia a unos particulares para separar una parcela de regadío de 117.620 m² de una finca de unos 353.000 m² en suelo no urbanizable. Los técnicos dicen que cumple la superficie mínima de cultivo y que no crea un núcleo de población. La parte que queda (235.477 m²) mantiene la construcción existente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216893E",
+      "lugar": "Paraje Fuente de la Negra, polígono 128",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oposición a 2 plazas de Analista Programador: admitidos, tribunal y fechas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de admitidos (6) y excluidos (1, por presentar fuera de plazo) para dos plazas de informático. También se nombra el tribunal y se fija la valoración de méritos para el 2 de noviembre de 2026 y el examen tipo test para el 6 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113863H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Convocatoria de una plaza de Arquitecto Técnico",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para una plaza fija de Arquitecto Técnico en el servicio de Urbanismo (Oferta de Empleo de 2025). Habrá 20 días para presentarse desde que se publique en el BOE.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1284361K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Nueva bolsa de empleo de reserva de Técnico de Administración General",
+      "categoria": "personal",
+      "resumen": "Hay que cubrir de forma temporal la jefatura de Gestión Tributaria y los integrantes disponibles de la bolsa han renunciado. Por eso se crea una bolsa de reserva con 12 aspirantes que aprobaron algún examen de la oposición anterior.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296652F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Seis contratos de inserción laboral para personas en riesgo de exclusión",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF (Servicio de Empleo regional) contratar a seis personas en riesgo de exclusión social, durante 3 o 4 meses y a 30 horas semanales: cuatro peones, una ordenanza-telefonista y una limpiadora. Es el Proyecto de Inserción Socio-Laboral de 2026.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287256F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Contratación de una auxiliar de biblioteca para el Centro de Lectura Alameda",
+      "categoria": "personal",
+      "resumen": "La auxiliar del Centro de Lectura 'Alameda' ha pedido una excedencia y su puesto a media jornada queda vacante. Se contrata a otra persona de la bolsa de empleo hasta que la plaza se cubra de forma definitiva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1295378M",
+      "lugar": "Centro de Lectura Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Permiso de lactancia y vacaciones a una arquitecta técnica",
+      "categoria": "personal",
+      "resumen": "Se concede a una empleada municipal el permiso de lactancia acumulado (del 8 de junio al 9 de julio) y después sus vacaciones (del 10 de julio al 6 de agosto).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294331H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Se amplía la reducción de jornada de un conductor municipal",
+      "categoria": "personal",
+      "resumen": "Se amplía seis meses más la reducción de jornada de un conductor municipal para que cuide a un familiar mayor que no puede valerse por sí mismo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697979Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Jubilación anticipada de un policía local",
+      "categoria": "personal",
+      "resumen": "Se toma nota de que un policía local se jubila de forma anticipada el 12 de septiembre de 2026, como permite la norma especial para policías locales. Se le agradecen más de 36 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1213744F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Exclusión de una persona de la bolsa de empleo de limpieza",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de limpiadores a una persona que rechazó una sustitución en la Casa Consistorial sin dar motivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920457N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Curso de licitación electrónica para una técnica de Contratación",
+      "categoria": "personal",
+      "resumen": "Se ordena a una técnica de Contratación hacer un curso en línea de 40 horas, organizado por el CEMCI (Diputación de Granada), sobre la Plataforma de Contratación del Sector Público. El Ayuntamiento paga la matrícula de 250 euros.",
+      "entidades": [
+        {
+          "nombre": "CEMCI (Diputación de Granada)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1295346R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Jornadas de formación y reuniones para dos técnicas de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la trabajadora social y a la educadora social del servicio de acompañamiento intensivo a ir a una jornada en Murcia, a una comisión regional y a una reunión en Cieza. El Ayuntamiento paga los viajes y las dietas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296031T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Concurso para el bar-cafetería del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado) del servicio de bar-cafetería del Centro Municipal de Mayores 'Las Herratillas'. El precio base es de 37.504,69 euros al año con IVA, con gasto previsto en 2026, 2027 y 2028.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 75009.38,
+      "importes": [
+        {
+          "concepto": "Gasto 2026",
+          "eur": 15626.95,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2027",
+          "eur": 37504.69,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2028",
+          "eur": 21877.74,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1270114Y",
+      "lugar": "Centro Municipal de Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Escuela de verano inclusiva 'Concilia en Verano 2026'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la escuela de verano para menores con diversidad funcional 'Concilia en Verano 2026', por 12.100 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283404F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Publicidad institucional en El Periódico de Yecla digital",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la publicidad municipal en la edición digital de 'El Periódico de Yecla' durante 2026, por 8.400 euros con IVA. El adjudicatario es un particular.",
+      "entidades": [
+        {
+          "nombre": "particular (El Periódico de Yecla)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1290730F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Organización del evento gastronómico 'The Burger Land Yecla'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la producción y la infraestructura técnica del evento 'The Burger Land Yecla', del 11 al 14 de junio de 2026, por 17.545 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Proceed Events",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17545.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292613X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Denegada la ampliación de la terraza del Bar Abracadabra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega ampliar la terraza en la acera del 'Bar Abracadabra' de la calle San José porque la Policía Local lo desaconseja por la seguridad de los peatones.",
+      "entidades": [
+        {
+          "nombre": "Bar Abracadabra",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1267629X",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "6.2-6.8",
+      "titulo": "Siete terrazas de verano autorizadas a bares y cafeterías",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan siete terrazas de verano (del 1 de abril al 31 de octubre de 2026): Bar de Pintxos Barrabás (24 m²), Trébol Bar (16 m²), Kebab Pizzería Sabores (12 m²), cafetería Archis (25 m²), Tapería Taguara (20 m²), Heladería la Ibense III (68 m²) y restaurante Pachamama (30 m²). Los titulares son particulares.",
+      "entidades": [
+        {
+          "nombre": "Bar de Pintxos Barrabás",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Trébol Bar",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Kebab Pizzería Sabores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Cafetería Archis",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Tapería Taguara",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Heladería la Ibense III",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Restaurante Pachamama",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1269613C, 1270400W, 1271844A, 1274771Q, 1281450R, 1286015H, 1286289N",
+      "lugar": "C/ Arcipreste Esteban Díaz, C/ Rambla, Avda. Pablo Picasso, C/ San Antonio, Plaza de la Concordia, Plaza Concejala María del Carmen Lorente, C/ Párroco Joaquín Guillamón",
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Denegada la iluminación en fucsia de edificios por el Síndrome de Turner",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega iluminar de color fucsia los edificios municipales el 28 de agosto, como pedían dos asociaciones del Síndrome de Turner. El motivo es que el Ayuntamiento no tiene medios propios, contratarlo es caro y las asociaciones no son de Yecla ni están inscritas en el registro municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Síndrome de Turner Alejandra Grandes",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Federación Española de Turner (FESTURNER)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1295073N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "El Auditorio, para la gala de los Premios Deportistas del año",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' el 3 de julio para la entrega de los Premios Deportistas del año 2026. La empresa paga el precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Radiocomunicaciones y Publicidad Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294664W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.2-7.5",
+      "titulo": "Cuatro bodas civiles en el Ayuntamiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a cuatro parejas a usar el Salón de Plenos o el Salón de Sesiones para casarse por lo civil (13 de junio, 17 de julio, 28 de agosto y 25 de septiembre de 2026). En dos casos cambian la sala o la fecha que ya tenían aprobada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169889X, 1291246Y, 1286938P, 1283850A",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "La AYAC usa el Centro de Emprendimiento para formar a sus voluntarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones del Centro de Emprendimiento a la Asociación de Yecla de afectados de Cáncer el 25 de junio, para una formación de sus voluntarios.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296042J",
+      "lugar": "Centro de Emprendimiento, C/ Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.7-7.8",
+      "titulo": "La AMPA del CEIP Giner de los Ríos usa el colegio para la fiesta de fin de curso y la graduación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el colegio el 18 de junio (fiesta de fin de curso) y el 19 de junio (graduación de 6º de Primaria). La AMPA se encarga de la vigilancia, la limpieza y los posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294090Y, 1294142W",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Bases para elegir al Rey o Reina del Carnaval 2027",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las bases para elegir entre los miembros de las peñas al representante (Rey o Reina) del Carnaval de Yecla 2027, que se celebrará del 29 al 31 de enero y del 5 al 7 de febrero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294025H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Festival de Folclore Infantil 'Ciudad de Yecla' 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba celebrar el Festival de Folclore Infantil el 13 de junio, con un presupuesto de 8.475,50 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8475.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296029Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Programa de ejercicio físico para pacientes de cáncer",
+      "categoria": "otros",
+      "resumen": "Se aprueba el programa 'Actividad física y oncología' del Plan Municipal de Actividad Física y Salud. Lo hace el personal de la empresa que lleva las piscinas y actividades deportivas y se paga con contratos que ya existen, sin gasto nuevo.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258426P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "VIII Torneo de Primavera de Ajedrez del Club de Ajedrez Municipal Yeclano",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el torneo de ajedrez del 7 de junio en el paseo de la calle Abad José Sola, frente al Edificio Bioclimático. El Ayuntamiento colabora cediendo gratis instalaciones valoradas en 270,20 euros y otros medios.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 270.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275545Q",
+      "lugar": "Paseo de C/ Abad José Sola, frente al Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "La CARM arreglará el camino rural de la Capellanía",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento da su conformidad y autoriza a la Dirección General del Agua de la CARM a mejorar el camino rural de la Capellanía con ayudas de la Política Agraria Común. Se compromete a cumplir lo que pide la Comunidad Autónoma y confirma que tiene los terrenos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Agua, Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "ejecuta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942478Y",
+      "lugar": "Camino rural de la Capellanía",
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Aqualia renovará la tubería de agua de la calle Águilas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia para renovar la red de agua de la calle Águilas, por 3.155,23 euros con IVA, y se le encarga la obra. Se paga con el canon del contrato de agua.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3155.23,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1288406D",
+      "lugar": "Calle Águilas",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Agua potable para una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza dar agua potable a la vivienda unifamiliar de un particular en suelo no urbanizable (polígono 113), con las condiciones que fija el jefe de Servicios Públicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276864Y",
+      "lugar": "Polígono 113",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Apoyo a dos honores que concede el Ayuntamiento de Murcia",
+      "categoria": "organizacion",
+      "resumen": "Yecla apoya dos propuestas del Ayuntamiento de Murcia: dar la Medalla de Oro de la Ciudad, a título póstumo, a una persona y nombrar Hijo Predilecto a otra.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1295730A, 1295815T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Dos tarjetas de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a dos vecinas la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1290337K, 1294062J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "La AMPA del CEIP San José de Calasanz usa el colegio para la graduación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por urgencia, se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio el 4 de junio para la graduación de 6º de Primaria.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296918A",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Se pide a la CHS permiso para regar la nueva zona verde de Las Celadillas",
+      "categoria": "otros",
+      "resumen": "En el paraje de Las Celadillas, junto a la depuradora, se están plantando más de 900 árboles y arbustos, con un sendero y un observatorio de aves, pagados con fondos europeos. La Confederación Hidrográfica del Segura dijo que no sobraba agua depurada. Ahora se le pide permiso para regar con 500 m³ al año que ceden dos comunidades de regantes. El Ayuntamiento pondrá un contador.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Comunidad de Regantes del Pozo de Santiago",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987951E",
+      "lugar": "Paraje Las Celadillas (EDAR)",
+      "interes": 2
+    }
+  ]
+}

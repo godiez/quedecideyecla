@@ -1,0 +1,1174 @@
+{
+  "doc": "2024-05-14_JGL_22",
+  "organo": "JGL",
+  "sesion": 22,
+  "fecha": "2024-05-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 56,
+  "resumen": "La Junta de Gobierno acepta 356.485 euros de fondos europeos del Consejo Superior de Deportes para mejorar el Complejo Juan Palao y pide a la Comunidad Autónoma casi un millón de euros para seis obras: el entorno de la antigua estación de tren (563.000 €) y mejoras peatonales en calle España, Arco del Niño, Hijas de la Caridad y varios cruces. Paga 361.012 euros en servicios de abril (limpieza viaria y de edificios, zonas verdes, centro de día) y aprueba el padrón de vados de 2024, con 463.521 euros al cobro. También concede 13 licencias de obra, entre ellas a Banco Sabadell, Degusta y una nave agrícola, y aprueba listas de aspirantes de dos bolsas de empleo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior (el acta deja en blanco su fecha).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda deportiva europea, colegios concertados y Transparencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de cuatro escritos: el Estado deniega un beneficio fiscal a inmuebles de los colegios concertados San Francisco de Asís y La Inmaculada; el Consejo Superior de Deportes propone conceder 356.485,65 € para el Complejo Juan Palao; el Consejo de la Transparencia de la Región de Murcia inadmite una reclamación de 'Soy su voz' contra el Ayuntamiento; y la Consejería de Economía autoriza cambiar partidas de la subvención de la Feria Outlet 2024 y Yeclanea 2023.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Estabilidad Presupuestaria y Gestión Financiera Territorial",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "deniega beneficio fiscal"
+        },
+        {
+          "nombre": "Colegio San Francisco de Asís",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "afectado"
+        },
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "afectado"
+        },
+        {
+          "nombre": "Consejo Superior de Deportes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejo de la Transparencia de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "resuelve reclamación"
+        },
+        {
+          "nombre": "Soy su voz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "reclama"
+        },
+        {
+          "nombre": "Consejería de Economía, Hacienda y Empresa (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 356485.65,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "928504P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza viaria y de edificios, zonas verdes, centro de día y software",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar siete facturas: recogida de basura y limpieza viaria, limpieza de edificios municipales y zonas verdes de abril, plazas del Centro de Día, prevención de riesgos laborales, plataforma de recursos humanos y mantenimiento del software de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Espúblico Servicios para la Administración",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quirón Prevención, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Suitable Software Vinfoval, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 361012.56,
+      "importes": [
+        {
+          "concepto": "Mantenimiento 2024 software de gestión policial VinfoPol",
+          "eur": 7260.0,
+          "entidad": "Suitable Software Vinfoval, S.L."
+        },
+        {
+          "concepto": "Plataforma de recursos humanos (contenido editorial y servicios)",
+          "eur": 8681.98,
+          "entidad": "Espúblico Servicios para la Administración"
+        },
+        {
+          "concepto": "Prestación técnica y médica (prevención de riesgos)",
+          "eur": 7886.83,
+          "entidad": "Quirón Prevención, S.L.U."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, abril 2024",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de zonas verdes, abril 2024",
+          "eur": 48626.09,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza viaria, recogida de basura y recogida selectiva",
+          "eur": 180264.34,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, abril 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868663C, 881462D, 784028D, 777197Q, 538849C, 495804R, 836272P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Las aves' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del espectáculo 'Las aves' (27 de abril): de 3.492 € en entradas puestas a la venta, se vendieron 1.755 € y se dan de baja 1.737 € no vendidos.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1755.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Corregido el canon del agua a favor de Aqualia: 24.672 € en vez de 28.045 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se corrige un error del acuerdo de enero: el canon del servicio de agua del 4º trimestre de 2023 a favor de FCC Aqualia es de 24.672,54 € y no de 28.045,93 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "liquidación de canon"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24672.54,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874683N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegadas siete rebajas de la tasa de vado a pensionistas",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a siete vecinos jubilados o pensionistas la bonificación del 50% de la tasa de vado de 2024 porque tienen más inmuebles urbanos o un garaje de más de 25 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "867931K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 90% del ICIO para instalar un ascensor en un edificio con mayores",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una comunidad de propietarios la bonificación del 90% del impuesto de obras por instalar un ascensor, ya que en el edificio viven varias personas mayores de 70 años, una de ellas dependiente.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (edificio de viviendas)",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "892058W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a iniciar la construcción de una vivienda unifamiliar entre medianeras con licencia de 2022, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609887Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Aceptada la renuncia a una licencia de vivienda en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se acepta la renuncia de dos particulares a su licencia de 2022 para construir una vivienda aislada y se cierra el expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609978R",
+      "lugar": "Paraje Los Quiñones (polígono 115)",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Corregida la parcela de una licencia de vivienda en Fuente la Negra",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige un segundo error del acuerdo de 2022 que concedió licencia de vivienda aislada a dos particulares: la obra está en la parcela 96 del polígono 128, no en la 2 del polígono 110.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "630560D",
+      "lugar": "Paraje Fuente la Negra (polígono 128)",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Corregida la parcela en el permiso de inicio de esa misma obra",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige el mismo error de ubicación en el acuerdo de marzo de 2024 que autorizó el inicio de las obras de esa vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "630560D",
+      "lugar": "Paraje Fuente la Negra (polígono 128)",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de proyecto de una vivienda con piscina en La Decarada (en dos fases)",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a modificar el proyecto básico de su vivienda aislada con garaje, barbacoa y piscina para ejecutarla en dos fases, y se le concede la nueva licencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696864R",
+      "lugar": "Paraje La Decarada (polígono 35)",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Permiso para empezar una vivienda con piscina en Umbría Peñas Blancas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a iniciar las obras de una vivienda unifamiliar con garaje y piscina cuya licencia se concedió en marzo de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788250R",
+      "lugar": "Paraje Umbría Peñas Blancas (polígono 31)",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para una nave industrial en la avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una comunidad de bienes licencia para construir una nave industrial sin uso específico, con una fianza de 8.300 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "comunidad_bienes",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859543K",
+      "lugar": "Avenida de la Paz",
+      "interes": 2
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia para derribar una vivienda y una nave en la avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler una vivienda y una nave industrial entre medianeras, con fianzas de 1.347 € y 4.192 €, desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911057H",
+      "lugar": "Avenida de la Paz",
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia para quitar trasteros y reforzar un garaje en una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para demoler trasteros y reforzar la estructura del garaje de su vivienda, con fianza de 250 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "906106F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia a Banco Sabadell para reformar su edificio catalogado de calle España",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Banco Sabadell licencia para una reforma parcial interior en un edificio catalogado, con fianza de 375 €.",
+      "entidades": [
+        {
+          "nombre": "Banco Sabadell, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "894659H",
+      "lugar": "Calle España, 14",
+      "interes": 2
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Licencia para un almacén agrícola y cabezal de riego en Casa Santa",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Sociedad Muñoz y Alcántara licencia para construir una nave de almacén agrícola y un cabezal de riego en el campo.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Muñoz y Alcántara, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900960J",
+      "lugar": "Paraje Casa Santa (polígono 96, parcela 18)",
+      "interes": 2
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Licencia a Degusta para derribar una vivienda en calle San Pascual",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Degusta Horno Restaurante Pastelería licencia para demoler una vivienda entre medianeras, con fianzas de 201,88 € y 440,99 €, desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "Degusta Horno Restaurante Pastelería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "902702D",
+      "lugar": "Calle San Pascual",
+      "interes": 2
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Licencia para una vivienda aislada con almacén y piscina en Carrascalejo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir una vivienda aislada con almacén y piscina; al no haber red de agua potable deberá abastecerse con cisternas autorizadas y tener permiso de vertido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "901788J",
+      "lugar": "Paraje Carrascalejo (polígono 54)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de inspector de rentas: 45 admitidos y examen el 11 de junio",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 45 admitidos y 1 excluido para la bolsa de empleo de inspector de rentas-auxiliar, se nombra el tribunal y se fija la valoración de méritos el 7 de junio y el examen tipo test el 11 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882174R",
+      "lugar": "Espacio Joven (Edificio Bioclimático)",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de empleo de peón-operario: 23 admitidos y examen el 10 de junio",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 23 admitidos y 3 excluidos (fuera de plazo) para la bolsa de empleo de peón-operario, se nombra el tribunal y se fija la valoración de méritos el 6 de junio y el examen el 10 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "894795X",
+      "lugar": "Espacio Joven (Edificio Bioclimático)",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Se extingue la bolsa de empleo de 2016 de programador de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de empleo de programador de Cultura y Festejos de 2016 y queda vigente la nueva aprobada en marzo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927101Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Sustituta para una técnica de la Escuela Infantil Campanilla",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de educación infantil a tiempo parcial (30 h/semana) para sustituir a la tutora del aula 1 de la Escuela Infantil Campanilla mientras esté de baja o permiso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "928209E",
+      "lugar": "Escuela Infantil Campanilla",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Sustituta para una trabajadora social de baja por embarazo",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un trabajador social a jornada completa para sustituir a una trabajadora social durante su permiso por riesgo en el embarazo y maternidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927088Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Curso de sistemas de información geográfica para una inspectora de obras",
+      "categoria": "personal",
+      "resumen": "Se ordena a una inspectora de obras hacer un curso online básico de sistemas de información geográfica, pagando el Ayuntamiento los 100 € de inscripción.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "928814W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Dos informáticos municipales, en el tribunal de unas oposiciones de Jumilla",
+      "categoria": "personal",
+      "resumen": "A petición del Ayuntamiento de Jumilla, se autoriza a dos funcionarios informáticos municipales a formar parte del tribunal de su concurso-oposición de dos plazas de técnico auxiliar informático.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Jumilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927497Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Una logopeda municipal, en el tribunal de Las Torres de Cotillas",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la logopeda del Centro de Desarrollo Infantil y Atención Temprana a ser vocal suplente en el concurso de una plaza de logopeda del Ayuntamiento de Las Torres de Cotillas.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Las Torres de Cotillas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927069X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Anticipo de 4.000 € de sueldo a una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a una agente de la Policía Local un anticipo de 4.000 € de su sueldo, que devolverá en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "926689T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Días de asuntos propios proporcionales para una administrativa que se jubila",
+      "categoria": "personal",
+      "resumen": "Se deniega a una administrativa que se jubila en julio disfrutar todos los días de asuntos propios del año: tendrá los proporcionales (tres más cuatro por antigüedad). Sí se le reconocen 18 horas de exceso de jornada por la jornada reducida de verano y Navidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "918717X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Jubilación de una auxiliar administrativa tras más de 40 años",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación de una auxiliar administrativa el 25 de julio de 2024 y se le agradecen más de 40 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "924638W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.12",
+      "titulo": "Reconocida la antigüedad previa de una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una auxiliar administrativa interina 4 años, 1 mes y 24 días de servicios previos en otras administraciones (antigüedad desde marzo de 2020).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "926780W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 8 m² para el bar Los Hermanos en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (abril a octubre) del bar Los Hermanos, de 8 m², tras pagar una tasa de 96 €.",
+      "entidades": [
+        {
+          "nombre": "Bar Los Hermanos",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 96.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922547Q",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 16 m² para la Cafetería Bulebar en calle Zaplana",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de la Cafetería Bulebar, de 16 m², tras pagar una tasa de 192 €.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulebar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 192.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "897059Q",
+      "lugar": "Calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de 20 m² para el Bar Berlín en calle Hernán Cortés",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano del Bar Berlín, de 20 m², tras pagar una tasa de 240 €.",
+      "entidades": [
+        {
+          "nombre": "Hermanos Berlín, C.B. (Bar Berlín)",
+          "cif": null,
+          "tipo": "comunidad_bienes",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922550W",
+      "lugar": "Calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de 9 m² para la Cafetería TJ en avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de la Cafetería TJ, de 9 m², tras pagar una tasa de 108 €.",
+      "entidades": [
+        {
+          "nombre": "Cafetería TJ",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 108.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922552Y",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Puesto de la Parroquia San Juan Bautista para recaudar fondos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia San Juan Bautista a instalar un puesto junto a la avenida de Cartagena para recaudar fondos parroquiales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771573E",
+      "lugar": "Avenida de Cartagena",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Procesión-ofrenda de San Isidro del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio La Inmaculada a celebrar una procesión-ofrenda por San Isidro el 17 de mayo por las calles Colón, San Francisco y el Parque de la Constitución, con patrulla de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927382F",
+      "lugar": "Calles Colón y San Francisco, Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil (13 de julio de 2024)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos el 13 de julio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "924519E",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Uso del Salón de Plenos para una boda civil (14 de febrero de 2025)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a celebrar su matrimonio civil en el Salón de Plenos el 14 de febrero de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "921248M",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Teatro Concha Segura gratis para el IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura al IES Felipe VI el 14 de junio para presentar un proyecto interdisciplinar, con rebaja del 100% del precio (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "IES Felipe VI",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "924527Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Agua potable de obra para una nave de Hekora Tapizados en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Hekora Tapizados el suministro de agua potable para las obras de construcción de una nave industrial en suelo no urbanizable en el Camino de Los Baños.",
+      "entidades": [
+        {
+          "nombre": "Hekora Tapizados, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "924359H",
+      "lugar": "Camino de Los Baños (polígono 45, parcela 536), suelo no urbanizable",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Informe favorable para el circo Teatro Circo Días Brothers junto a la antigua estación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una particular pide instalar el 'Teatro Circo Días Brothers' del 31 de mayo al 9 de junio en terrenos privados junto a la antigua estación. Como el aforo supera 150 personas, el permiso lo da la Comunidad Autónoma; el Ayuntamiento emite informe de viabilidad favorable y se lo remite.",
+      "entidades": [
+        {
+          "nombre": "Teatro Circo Días Brothers",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Servicio de Registros Especiales y Espectáculos Públicos (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "921657E",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Padrón de la tasa de vados 2024: 463.521 € al cobro",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón de la tasa de entrada de vehículos y reservas de vía pública de 2024 (472.632,41 €, menos 9.110,70 € de bonificación por domiciliar; 463.521,71 € al cobro), con bajas solicitadas por vecinos y pago voluntario del 24 de mayo al 29 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 463521.71,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765605Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "La psicóloga del CAVI declarará como testigo en la Audiencia Provincial",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la psicóloga del Centro de Atención a Víctimas de Violencia (CAVI) a acudir como testigo a un juicio en la Audiencia Provincial de Murcia el 29 de mayo, con desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929326F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Jubilación de una administrativa tras más de 36 años",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación de una administrativa municipal el 7 de julio de 2024 y se le agradecen más de 36 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929780M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Reconocida la antigüedad previa de la jefa jurídica de Urbanismo (interina)",
+      "categoria": "personal",
+      "resumen": "Se reconocen a la técnica interina jefa del Departamento Jurídico-Administrativo de Urbanismo servicios previos de 9 meses y 10 días (A2) y 7 meses y 26 días (A1), con antigüedad desde diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929575C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Fin de la reducción de jornada de la técnica de Juventud y del contrato de su sustituta",
+      "categoria": "personal",
+      "resumen": "La técnica de Juventud vuelve a jornada completa el 1 de julio, por lo que termina el 30 de junio el contrato de la técnica que cubría el 40% de su jornada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929685E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Puesto ambulante de juguetes y globos en las Fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un particular licencia de puesto eventual para vender juguetes, algodón y globos en un carrito los días 12, 17 y 18 de mayo, con una tasa de 12 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "916779E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Puesto informativo de Vox en el mercadillo los días 15 y 22 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al partido Vox Yecla a poner un puesto informativo en el mercado ambulante de la calle San Francisco-Parque de la Constitución los días 15 y 22 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "930517K",
+      "lugar": "Mercado ambulante, calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Se piden 553.000 € a la CARM para mejorar el entorno de la antigua estación",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto 'Mejora del entorno urbano de la antigua estación de tren' (563.000,90 €) y se pide su inclusión en el Plan de Obras y Servicios 2024-2025: la Comunidad Autónoma pondría 552.999,79 € y el Ayuntamiento 10.001,11 €.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 563000.9,
+      "importes": [
+        {
+          "concepto": "Aportación CARM",
+          "eur": 552999.79,
+          "entidad": "Dirección General de Administración Local (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal",
+          "eur": 10001.11,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Entorno de la antigua estación de tren",
+      "interes": 3
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Se piden 231.392 € a la CARM para mejorar las aceras de calle España",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto 'Mejora de itinerarios peatonales en calle España' (231.391,93 €), corrigiendo su importe, y se pide que lo financie entero la Comunidad Autónoma con el Plan de Obras y Servicios 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 231391.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Calle España",
+      "interes": 2
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Se piden 70.468 € para itinerarios peatonales en Arco del Niño e Hijas de la Caridad",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de mejora peatonal en calle Arco del Niño y calle Hijas de la Caridad, fase I (70.467,80 €), y se pide que lo financie entero la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 70467.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Calles Arco del Niño e Hijas de la Caridad",
+      "interes": 2
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Se piden 16.172 € para pasos peatonales elevados en San Cristóbal con Concepción",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de vados peatonales a distinto nivel en el cruce de calle San Cristóbal y calle Concepción (16.172,48 €) y se pide que lo financie entero la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16172.48,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Cruce de calle San Cristóbal y calle Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Plan Complementario: itinerarios peatonales en Hijas de la Caridad, fase II (77.661 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de mejora peatonal en calle Hijas de la Caridad, fase II (77.661,14 €), y se pide su financiación al Plan Complementario de la Comunidad Autónoma; el Ayuntamiento pagará lo que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 77661.14,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Calle Hijas de la Caridad",
+      "interes": 1
+    },
+    {
+      "ref": "10.13",
+      "titulo": "Plan Complementario: pasos peatonales elevados en Historiador Miguel Ortuño (26.242 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de vados peatonales a distinto nivel en el cruce de calle Historiador Miguel Ortuño con Antonio Machado (26.242,15 €) y se pide su financiación al Plan Complementario; el Ayuntamiento pagará lo que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26242.15,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896270W",
+      "lugar": "Cruce de calle Historiador Miguel Ortuño y calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "10.14",
+      "titulo": "Aceptados 356.486 € de fondos europeos para modernizar el Complejo Juan Palao",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención del Consejo Superior de Deportes, con fondos europeos del Plan de Recuperación, para adecuar, digitalizar, hacer accesible y más eficiente el Complejo Deportivo Juan Palao Azorín y fomentar el turismo deportivo.",
+      "entidades": [
+        {
+          "nombre": "Consejo Superior de Deportes (Ministerio de Educación, Formación Profesional y Deportes)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 356485.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "808355Q",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 3
+    },
+    {
+      "ref": "10.15",
+      "titulo": "Convenio de prácticas con el Complejo Educativo de Cheste (Generalitat Valenciana)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con la Generalitat Valenciana para que alumnos del CIPFP Complejo Educativo de Cheste hagan prácticas formativas no remuneradas en el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Generalitat Valenciana (Consellería de Educación, Universidades y Ocupación)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        },
+        {
+          "nombre": "CIPFP Complejo Educativo de Cheste",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929794F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.16",
+      "titulo": "Un alumno de Cheste hará 400 horas de prácticas en los Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un alumno del ciclo superior de Educación y Control Ambiental a hacer 400 horas de prácticas no remuneradas en los Servicios Técnicos Municipales del 20 de mayo al 26 de julio.",
+      "entidades": [
+        {
+          "nombre": "CIPFP Complejo Educativo de Cheste",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "envía alumno"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929804W",
+      "lugar": "Servicios Técnicos Municipales",
+      "interes": 1
+    }
+  ]
+}

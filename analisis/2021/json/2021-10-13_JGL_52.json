@@ -1,0 +1,882 @@
+{
+  "doc": "2021-10-13_JGL_52",
+  "organo": "JGL",
+  "sesion": 52,
+  "fecha": "2021-10-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 29,
+  "resumen": "La Junta de Gobierno saca a concurso material informático por 60.000 euros y adjudica dos obras menores: la conexión por fibra de la piscina Los Rosales, el Parque de Educación Vial y el Pabellón (22.901 euros) y la impermeabilización del patio de la Universidad Popular (37.311 euros). Pide a la Comunidad Autónoma dos ayudas de turismo de 40.000 euros cada una y empieza el trámite para poner placas solares en la Casa del Guarda del Monte Arabí, futuro centro de interpretación. Rebaja a la mitad el impuesto de obras a dos fabricantes de colchones por sus naves y la Comunidad Autónoma reclama al Ayuntamiento la devolución de 11.034 euros de una ayuda de juventud de 2019.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 5 y 7 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: alerta COVID, empleo público local y reintegro de una ayuda de juventud",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos órdenes de la Consejería de Salud sobre el nivel de alerta COVID; de la concesión por el SEF de la subvención de 'Empleo Público Local' 2021 y de la justificación de la de 2019; del inicio por la Dirección General de Juventud de un procedimiento para que el Ayuntamiento devuelva 11.033,95 € de una subvención de 2019 para orientación laboral de jóvenes; y de la respuesta de la Dirección General del Medio Natural sobre la transmisión de una parcela rústica de particulares.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica nivel de alerta COVID"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro de subvención"
+        },
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "responde a una comunicación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11033.95,
+      "importes": [
+        {
+          "concepto": "Reintegro reclamado de la subvención de 2019 de orientación y acompañamiento a jóvenes",
+          "eur": 11033.95,
+          "entidad": "Dirección General de Juventud (CARM)"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "5434197Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de una factura de aglomerado asfáltico",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 6.437,20 € a Levantina de Mezclas Bituminosas, S.L. por 80 toneladas de aglomerado y 200 litros de emulsión.",
+      "entidades": [
+        {
+          "nombre": "Levantina de Mezclas Bituminosas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6437.2,
+      "importes": [
+        {
+          "concepto": "80 t de aglomerado AF-8 calizo y 200 l de emulsión",
+          "eur": 6437.2,
+          "entidad": "Levantina de Mezclas Bituminosas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517274M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recibos del agua (3.er trimestre) y de la basura (4.º trimestre de 2021)",
+      "categoria": "fiscal",
+      "resumen": "Con los datos de FCC Aqualia, S.A., concesionaria del agua, se toma razón del padrón del agua del 3.er trimestre (321.260,41 €), se liquida el canon para el Ayuntamiento (53.912,77 €), se fija el canon de saneamiento que cobra para la Comunidad Autónoma (239.684,48 €), se aprueba el padrón de la tasa de basura del 4.º trimestre (348.222,70 €) y se anulan recibos antiguos por 22 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua y colaboradora en el cobro de la basura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria del agua potable, 3.er trimestre 2021",
+          "eur": 321260.41,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de la concesión a favor del Ayuntamiento",
+          "eur": 53912.77,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 239684.48,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria de la tasa de basura, 4.º trimestre 2021",
+          "eur": 348222.7,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos anulados de la tasa de basura 2021",
+          "eur": 22.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "5443850",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Essenzia Dormire por ampliar su nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Essenzia Dormire, S.L. una bonificación del 50 % del ICIO por la ampliación de su nave industrial (licencia 197/21), por ser obra industrial de especial interés municipal. El acta no indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Essenzia Dormire, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508808D",
+      "lugar": "Ctra. de Villena (RM-425) km 6, paraje Herrada del Manco (polígono 42, parcela 342)",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Yecla Colchón por su nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Yecla Colchón, S.L. una bonificación del 50 % del ICIO por la construcción de su nave industrial (licencia 142/19). El acta no indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Yecla Colchón, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "183515H",
+      "lugar": "Ctra. de Villena km 2,4 (polígono 47, parcelas 37 y 40)",
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Precio de 20 céntimos por jugar al futbolín en el Centro Juvenil Cazadores",
+      "categoria": "fiscal",
+      "resumen": "Se crea un precio público de 0,20 € por partida de futbolín en el Centro de Ocio Juvenil 'Cazadores'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 0.2,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544616M",
+      "lugar": "Centro de Ocio Juvenil Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar la ampliación de una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a iniciar las obras de ampliación de su vivienda adosada, ya con licencia desde mayo, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501980W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para reformar y ampliar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para reformar y ampliar una vivienda unifamiliar entre medianeras, con una fianza de 300 € por la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508197E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Jumapa para reformar y ampliar su nave en La Herrada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Jumapa, S.L. licencia para reformar y ampliar una nave industrial, con una fianza de 9.159,49 € para reponer la urbanización que se dañe.",
+      "entidades": [
+        {
+          "nombre": "Jumapa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de urbanización",
+          "eur": 9159.49,
+          "entidad": "Jumapa, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524150M",
+      "lugar": "Polígono industrial La Herrada, parcela 12G (Ctra. de Villena)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Permiso para dividir una finca agrícola en el paraje Quiñones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a varios particulares a segregar dos parcelas (12.203 m² y 10.000 m²) de una finca de regadío sin construcciones en suelo no urbanizable, al superar la unidad mínima de cultivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508055H",
+      "lugar": "Paraje Quiñones (suelo no urbanizable)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contrato temporal de un conserje para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo, con contrato de interinidad, a un conserje-operario para la Universidad Popular mientras dura la baja del titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543171E",
+      "lugar": "Universidad Popular",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Un policía local compensa con un curso las horas que le faltaron en 2020",
+      "categoria": "personal",
+      "resumen": "Se dan por compensadas, con un curso de formación, las 23 horas de menos que trabajó un agente de la Policía Local en 2020 por el cuadrante especial COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543928F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "El arquitecto municipal, en el tribunal de una bolsa de arquitectos de Alpera",
+      "categoria": "personal",
+      "resumen": "A petición del Ayuntamiento de Alpera, se designa al arquitecto jefe de los Servicios Técnicos Municipales como vocal suplente del tribunal de su bolsa de trabajo de arquitectos.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Alpera",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544707N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso a un empleado para un curso de morteros y corcho proyectado",
+      "categoria": "personal",
+      "resumen": "Se autoriza al jefe de equipo de Pintura a asistir en Nules (25 y 26 de noviembre) a un curso organizado por la empresa Suberlev, aplazado desde 2020; el Ayuntamiento paga gastos hasta 40 € al año por empleado.",
+      "entidades": [
+        {
+          "nombre": "Suberlev",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544365N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Técnicas de Servicios Sociales a una reunión con la Dirección General de Familia",
+      "categoria": "personal",
+      "resumen": "Se ordena a cuatro técnicas de familia de los Servicios Sociales asistir el 26 de octubre a una reunión con la Dirección General de Familia (Servicio de Familia y Protección de Menores), con el vehículo del Centro de Servicios Sociales.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Familia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "540614D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Se saca a concurso la compra de material informático por 60.000 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado el suministro de material informático en cuatro lotes, con un gasto máximo de 60.000 € (valor estimado 49.586,78 € sin IVA).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 60000.0,
+      "importes": [
+        {
+          "concepto": "Lote 1 (IVA incluido)",
+          "eur": 36768.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2 (IVA incluido)",
+          "eur": 6050.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3 (IVA incluido)",
+          "eur": 5929.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4 (IVA incluido)",
+          "eur": 11253.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519913C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Desierto el concurso de muebles para el sótano del edificio Cazadores",
+      "categoria": "contrato",
+      "resumen": "Se declara desierto el contrato de suministro de mobiliario para la planta semisótano del edificio 'Cazadores' porque no se presentó ninguna empresa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "531478P",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Fibra óptica para la piscina Los Rosales, Educación Vial y el Pabellón",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Servicios Profesionales Murcianos, S.L., por 22.901,39 € (presupuesto 25.000 €), el contrato menor para conectar por fibra la piscina Los Rosales, el Parque de Educación Vial y el Pabellón Polideportivo.",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22901.39,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "541161N",
+      "lugar": "Piscina Los Rosales, Parque de Educación Vial y Pabellón Polideportivo",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Impermeabilización del patio de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Intagua Obras Públicas, S.L., por 37.310,59 € IVA incluido (presupuesto 39.000 €), el contrato menor para impermeabilizar el patio de la planta baja de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "Intagua Obras Públicas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37310.59,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "542072D",
+      "lugar": "Universidad Popular de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza del Mesón La Parra en calle Rambla: se aplaza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la petición de instalar la terraza del restaurante Mesón La Parra en la calle Rambla.",
+      "entidades": [
+        {
+          "nombre": "Restaurante Mesón La Parra",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita terraza (lo pide un particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "541939T",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Cambio de aparcamiento en calles Concepción y Cruz de Piedra: se aplaza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la modificación de la regulación de estacionamiento en las calles Concepción y Cruz de Piedra.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "544137X",
+      "lugar": "Calles Concepción y Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio para dos actos de las Escuadras de la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a la Agrupación de Escuadras de la Purísima Concepción para la presentación de cargos festeros (20 de noviembre) y un café tertulia (28 de noviembre), pagando 240 € (120 € por acto).",
+      "entidades": [
+        {
+          "nombre": "Agrupación de Escuadras de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "paga precio público por uso del auditorio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "541422A",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para presentar un libro de historia local",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio el 18 de noviembre a la Asociación Centro de Estudios Locales de Yecla y Norte de Murcia para presentar las actas de unas jornadas de historia local sobre la Yecla del siglo XIX, con rebaja del 100 % del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación Centro de Estudios Locales de Yecla y Norte de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "exenta del precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544112M",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Plenos para una boda civil (3 de diciembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos de la Casa Consistorial, con protocolo COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "541259Z",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Sesiones para una boda civil (15 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la 3.ª planta de la Casa Consistorial, con protocolo COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543806M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón del Edificio Bioclimático para el Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático a la Asociación Club Fondistas Yecla el 20 de octubre para una sesión ordinaria.",
+      "entidades": [
+        {
+          "nombre": "Asociación Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543884W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Aulas del Edificio Bioclimático para cursos agrarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden dos aulas del Edificio Bioclimático a COAG-IR Murcia para un curso de carné de fitosanitarios (25-28 de octubre) y otro de manejo seguro del tractor (9-11 de noviembre).",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos-Iniciativa Rural de Murcia (COAG-IR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "542960M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una particular la condición de residente en zona azul para su vehículo, hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "541933K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Denegado el pago de 12 horas extra a un antiguo policía local",
+      "categoria": "personal",
+      "resumen": "Se deniega a un antiguo agente (ahora en el Ayuntamiento de Abarán) el pago de 12 horas extra de 2020, porque calculó mal la jornada del personal de mañana (1.695 horas, no 1.680) y porque no se pueden reclamar horas extra por comparación con otros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-2",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Explicación de 1,5 horas de jornada que se reclaman al mismo agente",
+      "categoria": "personal",
+      "resumen": "Se informa al antiguo agente del detalle de los retrasos y salidas anticipadas que suman la hora y media de defecto de jornada que se le reclama.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-3",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Explicación de 54 minutos de jornada que se reclaman al mismo agente",
+      "categoria": "personal",
+      "resumen": "Se le detalla, con una tabla de servicios (relevos COVID, accidentes, detenidos...), el saldo de horas que deja 54 minutos de defecto de jornada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-4",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Denegada la queja por un día de asuntos propios no concedido",
+      "categoria": "reclamaciones",
+      "resumen": "Se rechaza que fuera ilegal negarle el día de asuntos particulares del 8 de marzo de 2021 (estaba a punto de cesar y debía entregar el material) y se le niega la indemnización de 1 € que pedía; podrá disfrutar el día en Abarán.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Abarán",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nuevo destino del agente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-5",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Denegada la queja por dos días de vacaciones no concedidos",
+      "categoria": "reclamaciones",
+      "resumen": "Se rechaza que fuera ilegal negarle las vacaciones del 10 y 11 de marzo de 2021 (cesó el día 10) y se le niega la indemnización pedida de 200 € por día (400 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-6",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "La compensación por ir a un juicio de testigo, a pedir en Abarán",
+      "categoria": "personal",
+      "resumen": "Se informa al antiguo agente de que, como el día del juicio (28 de abril de 2021) ya trabajaba para el Ayuntamiento de Abarán, debe pedir allí la compensación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "534232P-7",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Se piden 40.000 € a la CARM para señalización turística del casco urbano",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto 'Señalización turística del casco urbano' (40.000 €) y se pide la misma cantidad a la Consejería de Presidencia, Turismo y Deportes en la convocatoria de competitividad y calidad turísticas.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 40000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543118F",
+      "lugar": "Casco urbano",
+      "interes": 2
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Se piden 40.000 € a la CARM para el proyecto turístico '24/365 días en Yecla'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto '24/365 Turísticos días en Yecla' (40.000 €) y se pide la misma cantidad a la Consejería de Presidencia, Turismo y Deportes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 40000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543084",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Fiesta juvenil de Halloween en el Edificio Bioclimático",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la 'Fiesta de Halloween 2021: Zombie' el 30 de octubre en el Edificio Bioclimático, con el Proyecto Joven de Cruz Roja Española, y un presupuesto de 1.525 €.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española (Proyecto Joven)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora en la actividad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1525.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544738F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Apoyo municipal a la Feria del Mueble 2021",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se responde a las peticiones de la Feria del Mueble para su certamen de octubre: Protección Civil estará con un vehículo y cuatro voluntarios, ya están pintadas dos plazas para personas con discapacidad y la brigada pinta las plazas de aparcamiento; no hace falta cerrar el aparcamiento para limpiarlo.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble de Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "solicita apoyo municipal"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora en el evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "545809T",
+      "lugar": "Recinto de la Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Placas solares para la Casa del Guarda del Monte Arabí",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se aprueba la memoria (15.661,16 € sin IVA) para poner paneles fotovoltaicos en la cubierta de la Casa del Guarda del Monte Arabí, se declara de interés público (será punto de información y futuro Centro de Interpretación) y se abre información pública en el BORM, al estar en un monumento natural protegido sin plan de ordenación aprobado.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le comunica el expediente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15661.16,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531261N",
+      "lugar": "Casa del Guarda, Monte Arabí (monumento natural)",
+      "interes": 3
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Teatro Concha Segura gratis para una charla de Vicente del Bosque organizada por una empresa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura a Joaquín Verdú Díaz, S.L. el 19 de octubre para un acto de responsabilidad social corporativa con una ponencia de Vicente del Bosque sobre 'El triunfo de los valores'; el precio público es de 1.800 €, pero se le aplica una rebaja del 100 %.",
+      "entidades": [
+        {
+          "nombre": "Joaquín Verdú Díaz, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa el teatro con exención del precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [
+        {
+          "concepto": "Precio público del Teatro Concha Segura, rebajado al 100 %",
+          "eur": 1800.0,
+          "entidad": "Joaquín Verdú Díaz, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544268D",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    }
+  ]
+}

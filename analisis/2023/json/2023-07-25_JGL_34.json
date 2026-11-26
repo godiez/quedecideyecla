@@ -1,0 +1,696 @@
+{
+  "doc": "2023-07-25_JGL_34",
+  "organo": "JGL",
+  "sesion": 34,
+  "fecha": "2023-07-25",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno paga la octava certificación de la obra del Mercado Central (361.647 euros) y conoce un informe sobre deficiencias graves en su urbanización. Contrata a Los Morancos por 54.450 euros y las comidas a domicilio para mayores con Serunion, y abre las licitaciones del combustible municipal (717.445 euros en dos años) y de la Feria de Septiembre (156.315 euros). Además, 22 policías locales pasan a ser funcionarios de carrera y se convocan las oposiciones para hacer fijo a personal temporal.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 18 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Informe sobre deficiencias graves en la urbanización del Mercado Central",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de un informe del ingeniero técnico municipal de Servicios Públicos (19 de julio de 2023) sobre 'deficiencias graves en la urbanización de las obras del Mercado Central'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Mercado Central",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: jardines, basura y limpieza viaria, y Centro de Día (junio)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de junio de 2023 del mantenimiento de zonas verdes, la recogida de basura y limpieza viaria, y las plazas para dependientes del Centro de Día.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 266177.43,
+      "importes": [
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, junio 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, junio 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas para personas dependientes, junio 2023",
+          "eur": 37287.0,
+          "entidad": "Alma Ata Salud, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538849C, 495804R, 457254A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 8 de la obra de remodelación del Mercado Central",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la octava certificación de la obra de remodelación del Mercado Central, por 361.647,83 euros, a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 361647.83,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina la bonificación del 50% del IBI por instalar placas solares, de 2024 a 2028 y con un máximo de 100 euros al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799577Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del IBI por placas solares en otra vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a otra vecina la misma bonificación del 50% del IBI por placas solares, de 2024 a 2028 y con un máximo de 100 euros al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799788R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Pago de 12.000 € a la asociación de afectados de cáncer (AYAC)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 12.000 euros concedida en diciembre de 2022 a AYAC para atención integral a personas con cáncer, supervivientes, familiares y cuidadores.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "671923C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Pago de 8.037,30 € a AFEDECO por un proyecto para adolescentes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 8.037,30 euros a AFEDECO para el 'Proyecto Crece', de habilidades sociales para adolescentes y jóvenes.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Formación y el Desarrollo Comunitario (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8037.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744554D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Pago de 3.500 € a la asociación de autismo TEA",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 3.500 euros a la asociación para personas con Trastorno del Espectro Autista para atención integral a personas con autismo y sus familias.",
+      "entidades": [
+        {
+          "nombre": "Asociación para personas con Trastorno del Espectro Autista TEA",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672913C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Pago de 2.591 € a la asociación de fibromialgia AFIYE",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 2.591 euros a la Asociación de Fibromialgia de Yecla para el proyecto 'Siempre activas'.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla (AFIYE)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2591.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672322F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Denegado que los coches eléctricos no paguen la zona azul",
+      "categoria": "fiscal",
+      "resumen": "Una vecina pidió que los vehículos eléctricos no pagaran la tasa de la zona azul. Se deniega porque la ley no permite exenciones en tasas que no estén previstas en una norma con rango de ley u ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "795453X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nombrados funcionarios de carrera 22 nuevos agentes de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Los 22 aspirantes que aprobaron la oposición (ofertas de empleo de 2018 y 2020) y superaron el curso selectivo de la Comunidad Autónoma pasan a ser agentes de Policía Local funcionarios de carrera; deben tomar posesión en diez días.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511880W, 618342J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Corrección en el tribunal de la oposición de dos conserjes-operarios",
+      "categoria": "personal",
+      "resumen": "Se corrige el tribunal de selección de dos plazas de conserje-operario porque uno de los vocales suplentes designados era también aspirante; se nombra otro suplente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695941K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Renuncia de un conserje del programa de inserción laboral",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de un trabajador contratado como conserje-peón dentro de un proyecto de inserción laboral de personas con discapacidad intelectual, y se contratará al siguiente de la bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "652268D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Listas provisionales de las oposiciones de estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales de admitidos y excluidos, los tribunales y las fechas de examen de 11 plazas para hacer fijo al personal temporal: auxiliar administrativo, logopeda, programador de Cultura y Festejos, 4 técnicos de educación infantil, auxiliar de hogar, conserje-operario y 2 limpiadores. Los exámenes serán entre octubre de 2023 y febrero de 2024 en el Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Adjudicado el servicio de comidas a domicilio para mayores a Serunion",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Serunion, única empresa que se presentó, el servicio de comidas a domicilio para personas mayores y dependientes por 47.878,88 euros al año (IVA incluido) durante dos años. No ofertó ninguna de las mejoras puntuables.",
+      "entidades": [
+        {
+          "nombre": "Serunion, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47878.88,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766229H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratado el espectáculo de Los Morancos por 54.450 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata sin publicidad, con la empresa que tiene la exclusiva, el espectáculo 'Todo por la Matria' de Los Morancos en la plaza de toros el 29 de julio de 2023, dentro de 'Verano en danza 2023', por 54.450 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Eventos Mazarrock, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 54450.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "793100D",
+      "lugar": "Plaza de toros",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Uso del salón del Edificio Bioclimático para la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Red Deportiva Yecla a usar el salón de actos del Edificio Bioclimático el 26 de julio para una reunión de padres de un equipo de baloncesto.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "800634R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la Casa Consistorial el 21 de septiembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801446W",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Auditorio gratis para AYAC para presentar su calendario solidario",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC a usar el Auditorio Municipal el 27 de octubre de 2023 para presentar su calendario solidario 2024 y se le perdona el 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788357Q",
+      "lugar": "Auditorio Municipal 'Juan Miguel Benedito'",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Becas de auxiliar de arqueología: una renuncia y dos medias becas pasan a enteras",
+      "categoria": "subvencion_concedida",
+      "resumen": "Una becaria renuncia a su beca de arqueología de 900 euros y, con ese dinero, las dos medias becas (450 euros) concedidas el 11 de julio pasan a becas enteras de 900 euros cada una, para trabajos de julio a septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 900.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768385C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Visitas guiadas en Yecla de septiembre a diciembre con el Instituto de Turismo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas organizado con el Instituto de Turismo de la Región de Murcia y la Red de Oficinas de Turismo para septiembre a diciembre de 2023, con un presupuesto de 3.630 euros.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3630.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801872M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Prorrogado seis meses el programa de coordinación de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses el programa temporal de coordinación de proyectos del Centro Municipal de Servicios Sociales, la trabajadora social que lo lleva y el contrato de la trabajadora social que la sustituye.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588030J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Contratado un oficial pintor del Plan de Inserción Social por el Empleo",
+      "categoria": "personal",
+      "resumen": "Dentro de la 2ª fase del Plan de Promoción e Inserción Social a través del Empleo 2023 se contrata a un oficial de 2ª pintor propuesto por la comisión de selección.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801421K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Licitación del combustible para vehículos y la calefacción de colegios (717.445 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación, por dos años, del suministro de combustible para los vehículos y máquinas municipales (270.337,12 euros) y de gasóleo de calefacción para colegios públicos y edificios municipales (447.108,17 euros). Se reserva el gasto de 2023, 2024 y 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 717445.29,
+      "importes": [
+        {
+          "concepto": "Lote 1: combustibles de automoción (2 años)",
+          "eur": 270337.12,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: gasóleo C de calefacción (2 años)",
+          "eur": 447108.17,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750072R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Licitación de la infraestructura de la Feria de Septiembre (156.314 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación de la infraestructura de la Feria de Septiembre 2023 en cuatro lotes: escenarios y producción de conciertos (81.699,60 €), aseos (19.500,12 €), alumbrado del Real de la Feria y suministro eléctrico (30.600 €) y casetas/carpas (24.515 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 156314.72,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades, conciertos y espectáculos",
+          "eur": 81699.6,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: suministro e instalación de aseos",
+          "eur": 19500.12,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: alumbrado del Real de la Feria y suministro eléctrico",
+          "eur": 30600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: alquiler e instalación de casetas/carpas del Real de la Feria",
+          "eur": 24515.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 14/23 (750072R según el acta)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Corrida de toros de la Feria: contrato menor de hasta 7.000 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las condiciones y un gasto de 7.000 euros para contratar la organización de una corrida de toros el 24 de septiembre de 2023 en la plaza de toros; se pedirán ofertas a empresas hasta el 31 de agosto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794008P",
+      "lugar": "Plaza de toros",
+      "interes": 2
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Compra de licencias de seguridad informática Fortinet a Nextret",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Nextret, S.L., por contrato menor, el suministro de las licencias Fortinet 2023 por 10.154,46 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Nextret, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10154.46,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798834R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Autorizadas las atracciones y puestos de la Feria de Yecla 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la instalación de unas 70 atracciones, casetas de tiro, tómbolas y puestos de comida (churrerías, hamburgueserías, gofres...) en la Feria de 2023, condicionadas a un certificado técnico de montaje. La mayoría de titulares son particulares.",
+      "entidades": [
+        {
+          "nombre": "Almazán Events, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        },
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "autorizada"
+        },
+        {
+          "nombre": "V.B. Grupo Atracciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783997K",
+      "lugar": "Real de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "9.8",
+      "titulo": "Programa y presupuesto de las Fiestas de San Roque",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de las Fiestas de San Roque del 16 de agosto y su presupuesto de 1.694 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1694.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802055Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.9",
+      "titulo": "Se retiran contenedores en la calle Caudete tras la queja de un vecino",
+      "categoria": "medio_ambiente",
+      "resumen": "Un vecino se quejó de suciedad y exceso de contenedores en la calle Caudete. Se dejan solo un contenedor de basura y uno de vidrio, envases y papel, se avisa de que puede empeorar la situación y se pide a la Policía Local que vigile y sancione.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "800757N",
+      "lugar": "Calle Caudete",
+      "interes": 2
+    },
+    {
+      "ref": "9.10",
+      "titulo": "Uso del Auditorio para presentar un libro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a usar el Auditorio Municipal el 28 de septiembre de 2023 para presentar el libro 'Fotografías y falsedades', previo pago del precio público de 120 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "800919N",
+      "lugar": "Auditorio Municipal 'Juan Miguel Benedito'",
+      "interes": 1
+    },
+    {
+      "ref": "9.11",
+      "titulo": "Cambio de vehículo de la licencia de taxi nº 10",
+      "categoria": "licencia_actividad",
+      "resumen": "Se autoriza al titular de la licencia de taxi nº 10 a cambiar el vehículo con el que presta el servicio; debe presentar la matriculación en un mes y pagar la tasa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802386A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.12",
+      "titulo": "Plan de seguridad de la obra de asfaltado de varias calles",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de parcheo y asfaltado de las calles Justina, Pintor Aguirre, Infante Don Juan Manuel y Juan Ortuño.",
+      "entidades": [
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Calles Justina, Pintor Aguirre, Infante Don Juan Manuel y Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "9.13",
+      "titulo": "Plan de seguridad de las placas solares de la Escuela Infantil El Parque",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de instalación fotovoltaica para la climatización de aulas de la Escuela Infantil 'El Parque'.",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795010F",
+      "lugar": "Escuela Infantil 'El Parque'",
+      "interes": 1
+    },
+    {
+      "ref": "9.14",
+      "titulo": "Plan de seguridad del bacheo de caminos rurales",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la colocación de 122 toneladas de asfalto en frío para bachear los caminos rurales de Casa Faldeta y Ontur.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "795614W",
+      "lugar": "Caminos de Casa Faldeta y Ontur",
+      "interes": 1
+    }
+  ]
+}

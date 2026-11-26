@@ -1,0 +1,775 @@
+{
+  "doc": "2023-02-21_JGL_09",
+  "organo": "JGL",
+  "sesion": 9,
+  "fecha": "2023-02-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 31,
+  "resumen": "La Junta de Gobierno paga 90.000 euros de limpieza de edificios municipales y del Centro de Día, y las dos últimas certificaciones (162.698 euros) del carril bici y peatonal de la Avenida de la Cruz Roja. Adjudica la reposición del cableado robado en el polideportivo Juan Palao, una caldera de biomasa para el albergue del Ramblizo y el proyecto para poner en valor el yacimiento de Yakka, y abre la contratación del concierto de Funambulista. Deniega el agua potable a una nave en suelo no urbanizable sin licencia de actividad y aprueba el programa de Música en la Cuaresma.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 14 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Plan Infomur y caza del muflón en el Monte Arabí",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Dirección General de Seguridad Ciudadana y Emergencias que pide documentación del Plan Infomur 2023-2024 y de otro de la Oficina Regional de Caza y Pesca Fluvial sobre la caza del muflón en el Monte Arabí.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Oficina Regional de Caza y Pesca Fluvial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "733262W",
+      "lugar": "Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, Centro de Día y Universidad Popular",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la limpieza de inmuebles municipales de enero, las plazas de dependientes del Centro de Día de enero y las clases de artes plásticas de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 97326.84,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, enero 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, enero 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Actividad docente de la Universidad Popular 2022/23, Lote 1 Artes plásticas y oficios artísticos",
+          "eur": 6923.14,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 457254A, 628370M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones 5 y 6 (última) del carril bici y peatonal de la Avenida de la Cruz Roja",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las dos últimas certificaciones de la obra de pavimentación y señalización de vías ciclables y peatonales en la Avenida de la Cruz Roja.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 162698.47,
+      "importes": [
+        {
+          "concepto": "Certificación nº 5",
+          "eur": 82442.09,
+          "entidad": "Mediterráneo de Obras y Asfaltos"
+        },
+        {
+          "concepto": "Certificación nº 6 y última",
+          "eur": 80256.38,
+          "entidad": "Mediterráneo de Obras y Asfaltos"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620929C",
+      "lugar": "Avenida de la Cruz Roja",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo '80 Pascuas de Navidad' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (1.446 €) y la baja de las entradas no vendidas (2.046 €) del espectáculo de los Coros y Danzas Francisco Salzillo del 29 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Grupo de Coros y Danzas Francisco Salzillo de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1446.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo 'Padre Putativo: La Historia de San José'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (2.664 €) y la baja de las entradas no vendidas (894 €) del espectáculo del 26 de diciembre en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2664.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del concierto 'Juntos por Navidad' (Voces de Hécula y Los Ruiseñores)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (1.236 €) y la baja de las entradas no vendidas (2.256 €) del concierto del 27 de diciembre en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Voces de Hécula",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        },
+        {
+          "nombre": "Los Ruiseñores",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1236.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 50% del IBI por placas solares en el paraje El Lentiscar",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50% del IBI de 2023 a 2027 por una instalación fotovoltaica de autoconsumo, con un máximo de 100 € al año.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732508Y",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Modificación de licencia de vivienda aislada con piscina en zona inundable (La Decarada)",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular modificar el proyecto de una vivienda unifamiliar aislada con piscina concedida en 2017. Por estar en zona inundable debe dejar paso libre al agua bajo la edificación, anotarlo en el Registro y declarar el riesgo ante la Confederación Hidrográfica del Segura.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "116699H",
+      "lugar": "Paraje La Decarada (también citado como La Hormiga), polígono 34",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de titular de la licencia de naves en el polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que la licencia urbanística nº 119/2020 para construir naves sin uso en la avenida Juan Carlos I pasa de GMC Sistemas de Descanso a Colchones Gomarco.",
+      "entidades": [
+        {
+          "nombre": "GMC Sistemas de Descanso, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "transmite licencia"
+        },
+        {
+          "nombre": "Colchones Gomarco, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nuevo titular"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436294P",
+      "lugar": "Polígono Industrial Las Teresas, avenida Juan Carlos I, parcela 10",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de una técnica de Educación Infantil para sustituir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un técnico de Educación Infantil (30 h/semana) para sustituir una baja en la Escuela Infantil Pulgarcito hasta fin de curso como máximo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733458R",
+      "lugar": "Escuela Infantil Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Prórroga de dos meses del contrato de la auxiliar administrativa de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se prorroga dos meses el contrato temporal de una auxiliar administrativa de la Policía Local porque sigue la acumulación de tareas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677367N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "El secretario accidental va a un seminario en Madrid sobre fondos europeos",
+      "categoria": "personal",
+      "resumen": "Se ordena al secretario accidental asistir el 22 de febrero en Madrid a un seminario sobre el informe de gestión de los fondos del Plan de Recuperación (PRTR); el Ayuntamiento paga desplazamiento y manutención.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735141E",
+      "lugar": "Madrid",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Ocho becas de prácticas para personas con discapacidad intelectual (conserje-peón)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Segunda fase del proyecto de inserción laboral de personas con discapacidad intelectual, financiado con fondos europeos Next Generation a través de la CARM: se dan ocho becas de 180 € para un mes de prácticas, tras el cual se contratará a cuatro como conserjes-peones.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1440.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "652268D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Reponer el cableado robado en el polideportivo Juan Palao",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de suministro e instalación del cableado eléctrico robado en el Complejo Polideportivo Juan Palao.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11471.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733194A",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Musical 'Viaje a Oz' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de la actuación 'Viaje a Oz, el Musical' en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Trencadís Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6776.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733162F",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Petición de una empresa para sustituir un árbol en el polígono Las Teresas",
+      "categoria": "medio_ambiente",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la petición de Proyecto Denver para sustituir un árbol en la calle Santiago Ramón y Cajal.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "734365C",
+      "lugar": "Polígono Industrial Las Teresas, calle Santiago Ramón y Cajal",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Vox usa la sala del Centro de Emprendimiento para una charla con agricultores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox a usar el 25 de febrero la sala de reuniones del Centro de Emprendimiento para una charla-coloquio con agricultores, ganaderos, sindicatos y regantes.",
+      "entidades": [
+        {
+          "nombre": "Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita uso de sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735328P",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Peluqueras de Yecla a usar la sala de reuniones del Centro de Emprendimiento el 6 de marzo para una actividad formativa.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733965X",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio gratis para presentar el cartel de Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Real Cabildo de Cofradías Pasionarias el 26 de febrero para presentar el cartel y programa de Semana Santa y nombrar al Nazareno del año, con rebaja del 100% del precio (120 €) y permiso para un ágape en los soportales.",
+      "entidades": [
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación con reducción de precio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729138R",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Préstamo de urnas y cabinas al Servicio Murciano de Salud para elecciones sindicales",
+      "categoria": "patrimonio",
+      "resumen": "Se ceden tres urnas y tres cabinas al Hospital Virgen del Castillo para sus elecciones sindicales del 23 de marzo; el traslado lo hacen los servicios municipales.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe material cedido"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733066Y",
+      "lugar": "Hospital Virgen del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Baja del puesto 50 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un particular deja su puesto nº 50 del mercadillo de los miércoles desde el 1 de febrero; el puesto queda vacante para adjudicarlo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita baja"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733313Q",
+      "lugar": "Mercadillo de los miércoles, junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Prácticas de alumnas del IES Castillo Puche en las escuelas infantiles",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a tres estudiantes del ciclo superior de Educación Infantil del IES José Luis Castillo Puche a hacer sus prácticas en las Escuelas Infantiles Municipales del 3 de marzo al 7 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro educativo en convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732985K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegada el agua potable a una nave en suelo no urbanizable sin licencia de actividad",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a Abdón y Miguel el suministro de agua potable para una nave industrial en suelo no urbanizable del Camino de Sax, porque no tiene licencia de actividad en esa ubicación.",
+      "entidades": [
+        {
+          "nombre": "Abdón y Miguel, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita suministro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "730309T",
+      "lugar": "Camino de Sax (suelo no urbanizable)",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de la obra de teatro 'Villa y Marte'",
+      "categoria": "pago_factura",
+      "resumen": "Cuestión urgente: se aprueba pagar la actuación 'Villa y Marte'.",
+      "entidades": [
+        {
+          "nombre": "Ron Lalá Teatro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11979.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722293K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Ayuda mensual a un policía local por hija con discapacidad",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local la ayuda por hija con discapacidad del acuerdo de condiciones de trabajo: 147,38 € al mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 147.38,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735594J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Una cuidadora de animales cubre tres días la centralita de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se encarga temporalmente a una cuidadora de animales las funciones de ordenanza-telefonista del Centro de Servicios Sociales del 22 al 24 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735754F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Una auxiliar de Intervención apoya parte de la jornada a la Policía Local",
+      "categoria": "personal",
+      "resumen": "Al terminar su comisión de servicios, una auxiliar administrativa de Intervención seguirá apoyando a la Policía Local los lunes completos y las primeras horas de martes a viernes, hasta que se resuelva el concurso de puestos de auxiliar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "734287T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Reducción de jornada a una técnica de Educación Infantil para cuidar a un familiar",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil una reducción de jornada del 14,7% para cuidar a un familiar enfermo, desde el 1 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722855Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Se revoca un acuerdo sobre jornada de un policía: ya se había concedido por silencio",
+      "categoria": "personal",
+      "resumen": "La Junta anula su acuerdo del 7 de febrero que concedía a un agente de la Policía Local una reducción de jornada del 35% con condiciones distintas a las pedidas: como no se contestó en diez días, la petición ya estaba aprobada por silencio administrativo. Se le concede en los términos que solicitó.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "727549K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Se abre la contratación del concierto de Funambulista en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y el gasto del concierto de Funambulista (programación de enero a mayo) por procedimiento negociado sin publicidad, invitando al único representante con exclusiva del grupo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19360.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732191H",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Caldera de biomasa y radiadores para el albergue del Ramblizo",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de obra para instalar calefacción con caldera de biomasa y radiadores en la Casa Albergue Ramblizo.",
+      "entidades": [
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12130.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "730042Y",
+      "lugar": "Casa Albergue Ramblizo",
+      "interes": 2
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Proyecto y dirección de obra para poner en valor el yacimiento de Yakka",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con un profesional particular para redactar el proyecto y dirigir la obra de acondicionamiento y puesta en valor del yacimiento de Yakka.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 17666.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732139K",
+      "lugar": "Yacimiento de Yakka",
+      "interes": 3
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Mesa informativa de Vox en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox a poner una mesa informativa en la Plaza de España el 25 de febrero de 10 a 13 horas.",
+      "entidades": [
+        {
+          "nombre": "Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita ocupación de vía pública"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735636R",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Procesiones de Vía Crucis y Domingo de Ramos de la Cofradía de la Sangre y el Perdón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan el Vía Crucis del 24 de febrero y la procesión de Domingo de Ramos del 2 de abril, con apoyo de la Policía Local y prohibición de aparcar ante la parroquia de San José Obrero.",
+      "entidades": [
+        {
+          "nombre": "Cofradía del Santísimo Cristo de la Sangre y el Perdón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735699E",
+      "lugar": "Parroquia de San José Obrero",
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Programa y presupuesto de Música en la Cuaresma 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del ciclo cultural Música en la Cuaresma 2023 y su presupuesto de gastos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17605.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "731751X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Apoyo municipal a la carrera de montaña UTY Trail Yecla 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con medios humanos y materiales en la 13ª UTY Trail Yecla del 25 de febrero por la Sierra Salinas, el Carche y las Pansas, organizada por el Club Fondistas Yecla con la Federación de Atletismo; el gasto municipal es de 314,60 €.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 314.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715774F, 717587Z",
+      "lugar": "Sierra Salinas, Sierra del Carche y Las Pansas",
+      "interes": 2
+    }
+  ]
+}

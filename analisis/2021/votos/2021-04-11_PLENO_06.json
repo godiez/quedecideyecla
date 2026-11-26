@@ -1,0 +1,43 @@
+{
+  "doc": "2021-04-11_PLENO_06",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria de elección de Alcaldesa tras la renuncia del Alcalde. Asisten los 21 concejales (el concejal del PP que sustituye al Alcalde dimitido toma posesión al inicio y se incorpora antes de votar). Se registra solo la votación del sistema de elección (secreta por papeleta, aprobada por unanimidad). La elección de Alcaldesa fue secreta por papeleta (12, 5, 2 y 2 votos a los cabezas de lista de PP, PSOE, IU-Verdes y Cs); no hay votos a favor/en contra/abstención ni consta el voto por grupo, por lo que no se registra ni se reparte.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "otra",
+      "final": false,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "el Sr. Presidente somete a votación la propuesta de que la elección de Alcalde se lleve a cabo de forma secreta mediante papeleta, resultando aprobada la propuesta por unanimidad."
+    }
+  ]
+}

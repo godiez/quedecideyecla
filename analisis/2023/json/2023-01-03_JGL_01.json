@@ -1,0 +1,288 @@
+{
+  "doc": "2023-01-03_JGL_01",
+  "organo": "JGL",
+  "sesion": 1,
+  "fecha": "2023-01-03",
+  "tipo_sesion": "ordinaria",
+  "paginas": 9,
+  "resumen": "Primera Junta de Gobierno del año, muy corta. Se contrata un recebo de corcho para el campo nº 2 del Polideportivo Juan Palao Azorín por 18.010 euros y un Agente de Desarrollo Local temporal para gestionar los proyectos con fondos europeos (Mercado Central, Casa de Cultura, Edificio de Cazadores, bajas emisiones...), que suman más de 10 millones. Se pagan 16.577 euros por espectáculos de Navidad y se da licencia para una vivienda en zona inundable.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 28 de diciembre (el acta dice por error 2023).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: liquidación y reintegro de subvenciones de empleo y un proyecto social",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el SEF liquida la subvención de un curso de 'Logística de flotas y sistemas telemáticos' y exige devolver parte de la ayuda del proyecto 'Yecla Emplea Verde 2021', y de que la Consejería de Política Social modifica un proyecto de acompañamiento a personas con capacidad de obrar limitada. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención y pide reintegro parcial"
+        },
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias, Política Social y Transparencia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "modifica proyecto subvencionado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "713425T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para una vivienda aislada en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos particulares licencia (con proyecto básico) para una vivienda unifamiliar aislada con aparcamiento y trastero en suelo rústico. Al estar en zona inundable, deben dejar paso al agua bajo la casa, inscribir el riesgo en el Registro, poner fosa séptica y presentar declaración ante la Confederación Hidrográfica del Segura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696701Q (licencia 665/2022)",
+      "lugar": "polígono 111, parcela 394",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Paradas las obras de una demolición por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que el director de ejecución y coordinador de seguridad renuncia en la demolición de una vivienda en calle San José promovida por Jumapa 2000, S.L.; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Jumapa 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        },
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "599474D (licencia 112/2022)",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de horario a un auxiliar delineante",
+      "categoria": "personal",
+      "resumen": "Se autoriza, a petición propia y hasta fin de curso, un horario distinto de lunes a viernes a un auxiliar delineante, sin cambio de sueldo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "713598J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Reconocimiento de antigüedad a una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se reconocen 277 días trabajados en el Ayuntamiento de Almansa a una técnica de Educación Infantil a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "713874R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Auditorio gratis para el sorteo de Navidad del comercio (ASOCOMY)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal Juan Miguel Benedito a la Asociación de Comerciantes de Yecla el 14 de enero para el sorteo de Navidad del comercio, con rebaja del 100% del precio (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación con rebaja del 100%"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "707634A",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Denegada tarjeta de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino la tarjeta de residente de zona azul porque no es el titular del vehículo, según la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "712945C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Pago de espectáculos de Navidad: Boing Planet y videomapping",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el espectáculo infantil 'Boing Planet' del 23 de diciembre y la producción del videomapping navideño del 28 al 30 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Fools Entertainment, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 16577.0,
+      "importes": [
+        {
+          "concepto": "Actuación 'Boing Planet, las aventuras de Billie Green' (23-12-2022)",
+          "eur": 6655.0,
+          "entidad": "Fools Entertainment, S.L."
+        },
+        {
+          "concepto": "Producción e infraestructura técnica del videomapping navideño (28-30 dic. 2022)",
+          "eur": 9922.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689886A, 708068D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Contrato temporal de un Agente de Desarrollo Local para los fondos europeos",
+      "categoria": "personal",
+      "resumen": "Se contrata hasta el 31-12-2024 un Agente de Desarrollo Local de la bolsa de empleo para gestionar los proyectos del Plan de Recuperación (fondos Next Generation): Mercado Central (1,83 M€), Casa de Cultura y C.S. José de Calasanz (2,91 M€), Edificio de Cazadores (2,63 M€), zona de bajas emisiones (2 M€), digitalización (241.000 €), rehabilitación de barrios (440.000 €) y bibliotecas (10.000 €).",
+      "entidades": [
+        {
+          "nombre": "Plan de Recuperación, Transformación y Resiliencia (Gobierno de España / UE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia los proyectos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Subvención PRTR: remodelación del Mercado Central",
+          "eur": 1826363.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: remodelación Casa de Cultura y C.S. José de Calasanz",
+          "eur": 2913317.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: remodelación del Edificio de Cazadores",
+          "eur": 2632694.47,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: implantación de zona de bajas emisiones",
+          "eur": 2000000.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: transformación digital de la Administración",
+          "eur": 241000.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: rehabilitación de barrios",
+          "eur": 440000.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        },
+        {
+          "concepto": "Subvención PRTR: bibliotecas",
+          "eur": 10000.0,
+          "entidad": "Plan de Recuperación, Transformación y Resiliencia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "709909K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Recebo de corcho para el campo nº 2 del Polideportivo Juan Palao Azorín",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Realturf Systems, S.L. por contrato menor el suministro e instalación de relleno orgánico de corcho en el césped del campo nº 2 del Polideportivo Juan Palao Azorín.",
+      "entidades": [
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18010.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "714606J",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

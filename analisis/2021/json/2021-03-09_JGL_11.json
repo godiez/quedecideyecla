@@ -1,0 +1,700 @@
+{
+  "doc": "2021-03-09_JGL_11",
+  "organo": "JGL",
+  "sesion": 11,
+  "fecha": "2021-03-09",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno rechaza las facturas de la empresa del Centro de Día de mayores, que reclamaba más dinero por el cierre por la COVID, y le ordena facturar algo menos descontando la comida no servida. Adjudica el gasóleo de calefacción de colegios y dependencias a Recursos Energéticos del Sureste (el lote de gasóleo de automoción queda desierto) y una obra de alcantarillado en la avenida Pablo Picasso por 13.630 euros. También aprueba la programación del Teatro Concha Segura de marzo a junio (36.243 euros), nombra policías locales en prácticas, rebaja a la mitad el ICIO a una fábrica de tapicería y pide a la Comunidad Autónoma que controle los muflones del Monte Arabí.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 2 y 5 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499863E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: nuevas restricciones COVID en la Región de Murcia",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta del decreto regional 19/2021 que limita la circulación de personas en varios municipios por el estado de alarma, y de la orden de la Consejería de Salud que publica el nivel de alerta sanitaria de cada municipio.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta normas"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta normas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago del seguro de la flota municipal y de la cuota a la Federación de Municipios",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las pólizas de seguro de los vehículos municipales a Mapfre y la cuota de 2021 a la Federación de Municipios de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Mapfre España Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22106.66,
+      "importes": [
+        {
+          "concepto": "Pólizas de seguro de la flota municipal",
+          "eur": 13746.5,
+          "entidad": "Mapfre España Compañía de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Cuota 2021",
+          "eur": 8360.16,
+          "entidad": "Federación de Municipios de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492002M, 500287T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Pago de 3.000 € al Centro Tecnológico del Mueble por el concurso de diseño 2019",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 3.000 € al Centro Tecnológico del Mueble y la Madera de la Región de Murcia por organizar la 24ª edición del Concurso Internacional de Diseño Industrial (anualidad 2019).",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "327634Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del ICIO a Tapicerías Navarro por ampliar su nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Tapicerías Navarro, S.L. una bonificación del 50% del impuesto de obras (ICIO) por la ampliación de su nave industrial en el polígono Las Teresas, por ser obra de uso industrial. La cuota provisional del impuesto era de 14.556,04 €, así que la rebaja ronda los 7.278 €.",
+      "entidades": [
+        {
+          "nombre": "Tapicerías Navarro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7278.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492821Z",
+      "lugar": "Calle Santiago Ramón y Cajal, polígono industrial Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Se suspende el plazo de una licencia de vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se paraliza el plazo para resolver la licencia de una vivienda unifamiliar en suelo no urbanizable (paraje Los Quiñones) pedida por una vecina con una autorización regional de 2007, mientras la Dirección General de Territorio y Arquitectura responde si esas autorizaciones de la antigua Ley del Suelo siguen valiendo.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consultada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "499748W",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación interina de un mantenedor para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata como interino, de la bolsa de empleo, a un mantenedor para la Brigada Municipal de Obras por las muchas peticiones de mantenimiento pendientes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499300Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación interina de un mantenedor para Medio Ambiente",
+      "categoria": "personal",
+      "resumen": "Se contrata un mantenedor interino para cuidar instalaciones naturales (Casa del Guarda del Monte Arabí, Aula de la Naturaleza de la Sierra de Salinas, Cerrico de la Fuente, Cerro del Castillo, Los Castillarejos...), desatendidas desde la jubilación del anterior empleado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498560W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Nombramiento de un auxiliar administrativo interino para Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar de administración general interino, de la bolsa de 2018, para la Oficina de Recaudación, que se había quedado con un solo puesto de atención al público.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499629E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Nombramiento de agentes de Policía Local en prácticas",
+      "categoria": "personal",
+      "resumen": "Se nombran funcionarios en prácticas a los aspirantes aprobados en la oposición de nueve plazas de Agente de Policía Local, que harán el curso selectivo regional. A uno de ellos se le abre audiencia porque no tenía el carné de moto A2 al cerrar el plazo de instancias y podría perder la plaza.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "notificada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "154253Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Baja de una limpiadora municipal que renuncia a su puesto",
+      "categoria": "personal",
+      "resumen": "Se toma razón del cese de una limpiadora de la Casa Consistorial que ha renunciado y se la excluye de la bolsa de empleo de limpiadores de 2011.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500065K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Cambio de centro de trabajo de una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una limpiadora a pasar del CEIP Miguel Ortuño a la Casa Consistorial, al no interesar el cambio a sus compañeras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500219Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Calendario laboral 2021 del personal de Juventud",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario y la jornada laboral de 2021 del Servicio de Juventud, dentro de la jornada general de 35,3 horas semanales aprobada por el Pleno.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500273Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Formación online obligatoria para el personal de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos empleados de la Agencia de Desarrollo Local hacer un curso online del SEF sobre las aplicaciones del Fondo Social Europeo y Garantía Juvenil, y se designa un responsable informático.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "imparte formación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485305K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Indemnización de 749,90 € a Podium por el cierre del Centro de Mayores",
+      "categoria": "contrato",
+      "resumen": "Se pagan a Podium Gestión Integral, S.L. 749,90 € de gastos de febrero de 2021 por la suspensión COVID del contrato de dinamización del Centro de Mayores Las Herratillas.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 749.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436944R",
+      "lugar": "Centro de Mayores Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Gasóleo de calefacción: propuesta de adjudicación a Recursos Energéticos del Sureste",
+      "categoria": "contrato",
+      "resumen": "En el contrato de combustibles, el lote del gasóleo de calefacción para colegios y dependencias se propone a Recursos Energéticos del Sureste, S.L. (mayor descuento), a la que se pide la documentación y una garantía de 4.104,15 €. El lote de gasóleo de automoción queda desierto porque nadie se presentó.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Rechazadas las facturas del Centro de Día por el cierre COVID",
+      "categoria": "contrato",
+      "resumen": "Alma Ata Salud, S.L., que gestiona el Centro de Día de mayores dependientes (447.443,93 €/año), pedía 6.085,67 € extra por desequilibrio económico de diciembre y enero. Se rechazan sus facturas y se le pide facturar 34.673,39 € (diciembre) y 34.237,79 € (enero), descontando solo el coste de la comida no servida.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "reclama"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 68911.18,
+      "importes": [
+        {
+          "concepto": "Factura correcta de diciembre de 2020 (37.286,99 € menos 2.613,60 € de manutención)",
+          "eur": 34673.39,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Factura correcta de enero de 2021 (37.286,99 € menos 3.049,20 € de manutención)",
+          "eur": 34237.79,
+          "entidad": "Alma Ata Salud, S.L."
+        }
+      ],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": "Centro de Día de Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Obra de alcantarillado en la avenida Pablo Picasso por 13.630 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Construcciones J.J. Gómez Yecla, S.L. el contrato menor para sustituir 47 metros de alcantarillado en la avenida Pablo Picasso esquina calle Concepción (presupuesto 16.238,88 €).",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13630.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500078D",
+      "lugar": "Avenida Pablo Picasso esquina calle Concepción",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para un kebab en la calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza de 16 m² del establecimiento 'Yecla Kebab' en la calle Rambla, el doble de lo habitual por las limitaciones de aforo COVID; volverá a 8 m² cuando acaben.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499832M",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Horquillas entre el aparcamiento de la Feria del Mueble y la parada de taxis",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se instalarán horquillas de separación entre el aparcamiento de la Feria del Mueble y la parada de taxis.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500074Y",
+      "lugar": "Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Programación del Teatro Concha Segura de marzo a junio: 36.243 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban seis espectáculos (Shuarma canta a Bowie, José Antonio Abellán, Aladín, El Brujo, La llamada de los patos y Las Ranas) con un presupuesto de 36.243 € y entradas de 6 a 15 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 36243.0,
+      "importes": [
+        {
+          "concepto": "Shuarma canta a Bowie (13/03)",
+          "eur": 6655.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Mi vida es un show, José Antonio Abellán (9 y 10/04)",
+          "eur": 7260.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Aladín, un musical genial (17/04)",
+          "eur": 11253.0,
+          "entidad": null
+        },
+        {
+          "concepto": "El Brujo. Dos tablas y una pasión (24/04)",
+          "eur": 9075.0,
+          "entidad": null
+        },
+        {
+          "concepto": "La llamada de los patos (29/05)",
+          "eur": 1500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Las Ranas, Caligae Teatro (20/06)",
+          "eur": 500.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493636F",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela Municipal de Vacaciones de Semana Santa 2021",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la escuela de vacaciones del 29 de marzo al 6 de abril para niños de 3 a 12 años con padres trabajando, con un gasto de 5.590,86 €, financiada por la CARM y el Fondo Social Europeo (80%).",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5590.86,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500234W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Normas de matrícula y bonificaciones de las Escuelas Infantiles 2021/2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la oferta de plazas, las normas de matrícula, funcionamiento y bonificaciones de las escuelas infantiles municipales para el curso 2021/2022; el plazo de solicitudes va del 5 al 16 de abril de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499348P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Comidas a domicilio gratis para varios vecinos",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede de oficio y sin coste el servicio de comidas a domicilio a los vecinos propuestos por Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500350F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Red Deportiva Yecla podrá usar instalaciones municipales para competir",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al club Red Deportiva Yecla a usar las instalaciones deportivas municipales para sus partidos federados de la temporada 2020-2021, con protocolos COVID; la cesión gratuita queda pendiente de la convocatoria de uso o, si no, pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484309C",
+      "lugar": "Instalaciones deportivas municipales",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Muflones en el Monte Arabí: el Ayuntamiento pide a la CARM que los controle",
+      "categoria": "medio_ambiente",
+      "resumen": "La Sociedad de Cazadores San Huberto pidió una batida de jabalíes y muflones en el coto municipal del Monte Arabí por daños a cultivos. Como es Monumento Natural, el Ayuntamiento envía el informe técnico a la Dirección General de Medio Natural y le pide que decida cómo controlar los muflones.",
+      "entidades": [
+        {
+          "nombre": "Sociedad de Cazadores San Huberto",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "competente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "484259H",
+      "lugar": "Monte Arabí (coto MU-12074-CP)",
+      "interes": 2
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Permiso de quema de restos vegetales (polígono 109)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor a quemar restos vegetales en una parcela a menos de 1.500 m del casco urbano, de 11 a 12 h los lunes y sábados indicados de marzo-mayo y octubre-diciembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499783T",
+      "lugar": "Polígono 109",
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Permiso de quema de restos vegetales (polígono 44)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un agricultor a quemar restos vegetales, de 11 a 12 h los miércoles y jueves de marzo-mayo y octubre-diciembre de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499825C",
+      "lugar": "Polígono 44",
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Permiso de quema pedido por la Cooperativa La Purísima para una socia",
+      "categoria": "medio_ambiente",
+      "resumen": "A petición de la Cooperativa del Vino de Yecla 'La Purísima', se autoriza a una agricultora a quemar restos vegetales de 13 a 14 h los miércoles y jueves del 10 de marzo al 27 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla La Purísima",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500194P",
+      "lugar": "Polígono 43 o 45 (el acta se contradice)",
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Permiso de quema pedido por la Cooperativa La Purísima para un socio",
+      "categoria": "medio_ambiente",
+      "resumen": "A petición de la Cooperativa La Purísima, se autoriza a un agricultor a quemar restos vegetales de 12 a 13 h los lunes y sábados indicados de marzo-mayo y octubre-diciembre.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla La Purísima",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500196R",
+      "lugar": "Polígono 34",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Prácticas de desarrollo web de un alumno del IES Castillo Puche",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno del ciclo de Desarrollo de Aplicaciones Web del IES José Luis Castillo Puche a hacer 400 horas de prácticas no remuneradas en el Ayuntamiento (16 de marzo a 4 de junio).",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500124R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Plenos el 20 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500317K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "La Asociación Kapaces dará talleres de patrimonio en el Museo Arqueológico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Asociación Kapaces a dar talleres sobre conservación del patrimonio local con arte y arqueología en el Museo Arqueológico Cayetano de Mergelina, hasta un nuevo convenio o como máximo hasta fin de 2021.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499505H",
+      "lugar": "Museo Arqueológico Municipal Cayetano de Mergelina",
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Contrato del concierto 'Shuarma canta a Bowie' por 6.655 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a Producciones Moon Scene, A.I.E. el contrato menor del concierto 'Shuarma canta a Bowie' en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Producciones Moon Scene, A.I.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6655.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493738I",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    }
+  ]
+}

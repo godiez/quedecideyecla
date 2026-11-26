@@ -1,0 +1,83 @@
+{
+  "doc": "2025-06-16_JGL_35",
+  "organo": "JGL",
+  "sesion": 35,
+  "fecha": "2025-06-16",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 5,
+  "resumen": "Sesión urgente con un único asunto: el Ayuntamiento rompe el contrato de las obras del centro enoturístico de la Casa de los Arcos con Urgacén Viena 25, S.L. (622.278,80 €) porque la empresa abandonó la obra, y se queda con su fianza de 25.714 €. Las obras, pagadas con fondos europeos del Plan de Sostenibilidad Turística, se tendrán que volver a licitar.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma que la convocatoria urgente está justificada.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1106411H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Se rompe el contrato de la obra de la Casa de los Arcos por abandono de la empresa",
+      "categoria": "contrato",
+      "resumen": "Con el visto bueno del Consejo Jurídico de la Región de Murcia (dictamen 138/2025), se resuelve por incumplimiento culpable el contrato de obras del Centro Enoturístico y eficiencia energética de la Casa de los Arcos, adjudicado en 2024 a Urgacén Viena 25, S.L. por 622.278,80 € y que debía acabar en enero de 2025. La empresa abandonó la obra (la Brigada Municipal tuvo que asegurarla tras quejas de vecinos), la paralizó por su cuenta y un subcontratista retiró sin aviso el andamio que sujetaba la fachada. Se incauta la fianza de 25.714 € (seguro de caución de Fiatc) y se abren expedientes para liquidar el contrato y reclamar daños y perjuicios. Obra financiada con fondos Next Generation EU (Plan de Sostenibilidad Turística 'Yecla es +').",
+      "entidades": [
+        {
+          "nombre": "Urgacén Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista sancionada (contrato resuelto)"
+        },
+        {
+          "nombre": "Fiatc Mutua de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aseguradora de la fianza incautada"
+        },
+        {
+          "nombre": "Credicand Suscripción de Riesgos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "agencia representante de la aseguradora"
+        },
+        {
+          "nombre": "Sermaco",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "subcontratista del andamiaje"
+        },
+        {
+          "nombre": "Consejo Jurídico de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "emite dictamen favorable"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25714.0,
+      "importes": [
+        {
+          "concepto": "Precio de adjudicación del contrato (IVA incluido)",
+          "eur": 622278.8,
+          "entidad": "Urgacén Viena 25, S.L."
+        },
+        {
+          "concepto": "Garantía definitiva incautada",
+          "eur": 25714.0,
+          "entidad": "Urgacén Viena 25, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.O.5/24 (900819N)",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    }
+  ]
+}

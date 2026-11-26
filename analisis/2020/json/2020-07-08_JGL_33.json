@@ -1,0 +1,886 @@
+{
+  "doc": "2020-07-08_JGL_33",
+  "organo": "JGL",
+  "sesion": 33,
+  "fecha": "2020-07-08",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno adjudica la electricidad municipal a Gas Natural Comercializadora (847.000 € al año, energía 100% renovable) y licita el centro de día para mayores dependientes (459.000 € al año) y la nueva cubierta de la capilla de la Virgen de las Angustias (244.330 €). Aprueba el padrón del IBI 2020 (8,33 millones al cobro) y propone adjudicar las luces LED a Invemat Levante y la grúa a Grúas Los Raspas. Tras varias sentencias, deja de tramitar las multas por consumo de drogas en la calle y las envía a la Delegación del Gobierno. También reabren el centro de día y el de mayores Las Herratillas tras la COVID.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 30 de junio y 3 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas COVID de empleo, ayudas del SEF y dos sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa de una resolución del Tesoro sobre prudencia financiera, del Real Decreto-ley 25/2020 de reactivación económica, de convocatorias de ayudas del SEF (autoempleo Cuota Cero, contratación indefinida), de la CARM (tercer sector contra la pobreza) y del INFO (ferias internacionales), y de dos sentencias: una del Juzgado de lo Social nº 4 que estima la demanda por despido de una trabajadora contra Clece, OHL Servicios Ingesan, el Ayuntamiento y el IMAS, y otra del Contencioso nº 3 que anula una sanción de medio ambiente a Canteras Faber.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General del Tesoro y Financiación Internacional",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "Instituto de Fomento de la Región de Murcia (INFO)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca ayudas"
+        },
+        {
+          "nombre": "Juzgado de lo Social nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Clece, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "demandada"
+        },
+        {
+          "nombre": "OHL Servicios Ingesan, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "demandada"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "demandado"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 3 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Canteras Faber, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "gana recurso contra sanción"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "473711H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Rebajas del IBI a familias numerosas",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban bonificaciones del IBI urbano de 2020 a una relación de familias numerosas (expedientes 4 a 979), mientras esté vigente su título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "176831Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegada rebaja del IBI: título de familia numerosa no vigente",
+      "categoria": "fiscal",
+      "resumen": "Se deniega una bonificación del IBI porque el título de familia numerosa no era válido a 1 de enero de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "176831Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del IBI por no aportar el título de familia numerosa",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una pareja la bonificación del IBI por no presentar el título de familia numerosa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "176831Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegadas rebajas del IBI: la casa no era vivienda habitual",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación por familia numerosa a varios contribuyentes porque el inmueble no era su vivienda habitual a 1 de enero de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "176832Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegada rebaja del IBI: los solicitantes no pagan el impuesto",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una pareja la bonificación porque no son sujetos pasivos del IBI (lo es la usufructuaria de la vivienda).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "176832Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Retiradas rebajas del IBI a familias que se mudaron",
+      "categoria": "fiscal",
+      "resumen": "Se declaran extinguidas desde el 1 de enero de 2020 las bonificaciones por familia numerosa de varios contribuyentes que cambiaron de domicilio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "176832Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Padrón del IBI urbano 2020: 8,33 millones al cobro",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del IBI urbano de 2020: 54.265 recibos, 8,84 millones brutos, 506.592 € de bonificaciones y 8.330.389,53 € al cobro. Pago voluntario del 8 de julio al 15 de diciembre; domiciliados en dos plazos (27 de agosto y 27 de noviembre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8330389.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473669Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Plan de empleo social: contratación de diez peones",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan Especial 2020 de Inclusión a través del Empleo se contrata a diez peonas (el título habla de once) y se crea una bolsa de ocho suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471897N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Plan de empleo social: contratación de cuatro oficiales pintores",
+      "categoria": "personal",
+      "resumen": "Se contrata a cuatro oficiales de 2ª pintores dentro del Plan Especial 2020 de Inclusión a través del Empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471905Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Plan de empleo social: contratación de un oficial electricista",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial de 2ª electricista y se crea una bolsa de un suplente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471911H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Plan de empleo social: contratación de una conserje-operaria",
+      "categoria": "personal",
+      "resumen": "Se contrata a una conserje-operaria dentro del Plan Especial 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472565Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "El secretario accidental vuelve al trabajo presencial tras el teletrabajo",
+      "categoria": "personal",
+      "resumen": "Se aprueba que el secretario accidental vuelva a trabajar en la Casa Consistorial, tras meses de teletrabajo por la COVID-19, aunque podrá seguir trabajando a distancia cuando convenga.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474113Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Jubilación anticipada de un agente de Policía Local tras 38 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente se jubila el 3 de agosto con el coeficiente reductor para policías locales, se le abonarán las indemnizaciones del acuerdo de condiciones de trabajo y se le agradecen sus 38 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473673E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación del centro de día para mayores dependientes: 459.000 € al año",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto (con anuncio en el Diario de la UE) para el servicio de centro de día para mayores dependientes, por dos años y 458.916,84 € anuales IVA incluido; para 2020 se reservan 267.701,49 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 917833.68,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Electricidad municipal para Naturgy: 847.000 € al año con energía 100% renovable",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Gas Natural Comercializadora, a través del acuerdo marco de la FEMP, el suministro eléctrico en alta y baja tensión: 700.000 € al año sin IVA (847.000 € con IVA), un año prorrogable cuatro más (valor estimado 3,5 millones), con energía 100% renovable y un estudio de energía reactiva. Mejoró las ofertas de Endesa e Iberdrola.",
+      "entidades": [
+        {
+          "nombre": "Gas Natural Comercializadora, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Endesa Energía, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador"
+        },
+        {
+          "nombre": "Iberdrola Clientes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 847000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "453164W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Luces LED del alumbrado público: Invemat Levante, primera clasificada",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de la mesa de contratación (cuatro ofertas admitidas de siete) para el suministro e instalación de LED en el alumbrado público y se pide documentación a Invemat Levante (92,70 puntos), con garantía definitiva de 6.750 €.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397126P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Servicio de grúa municipal: Grúas Los Raspas, única oferta",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de la única oferta presentada (inicialmente considerada anormalmente baja) para retirada y depósito de vehículos y se pide documentación a Grúas Los Raspas, con garantía definitiva de 3.200 €.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412195T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Aplazado el contrato del festival de arquitectura efímera Creacción 2020",
+      "categoria": "contrato",
+      "resumen": "Se deja sobre la mesa la adjudicación del contrato menor de diseño y montaje del festival Creacción 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "472279T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Refuerzo de la ayuda a domicilio: 15.600 € a Asistencia, Formación y Eventos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la cobertura de bajas y eventualidades del personal del servicio de ayuda a domicilio mientras no se cubran con la bolsa de empleo.",
+      "entidades": [
+        {
+          "nombre": "Asistencia, Formación y Eventos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471775T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Indemnización de 8.340 € a Epsilon por la Universidad Popular parada por la COVID",
+      "categoria": "pago_factura",
+      "resumen": "Se paga a la adjudicataria de los cursos de la Universidad Popular la indemnización por los gastos de mayo, al estar suspendido el contrato por la pandemia (RDL 8/2020).",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8340.09,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "234543E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para «Bocatapa Avenida»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una pequeña terraza de 3,56 m² (2-3 mesas pegadas a la fachada) para la temporada de verano.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472088D",
+      "lugar": "C/ Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza doble por la COVID para «La Boheme» en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 96 m², el doble que en 2019, para compensar las limitaciones de aforo por la COVID; volverá a 48 m² cuando desaparezcan.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473241E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Se traslada la parada de taxis de la rotonda de la Feria del Mueble",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición del titular de un bar, y con el acuerdo de los taxistas, la parada de taxis pasa al lado opuesto de la misma rotonda para dejar sitio a una terraza.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472199H",
+      "lugar": "Rotonda de la Feria del Mueble",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Baja en el puesto 53 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja desde el 1 de abril al titular del puesto 53, se anulan los recibos posteriores y el puesto queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473633Z",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Baja en el puesto 9 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja desde el 1 de julio al titular del puesto 9, que queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473647T",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Baja en el puesto 54 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja desde el 1 de julio al titular del puesto 54, que queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473647T",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Baja en el puesto 4 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja desde el 1 de julio al titular del puesto 4, que queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473238A",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocatoria de ayudas a las fiestas populares 2020: hasta 12.000 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan subvenciones para proyectos de promoción y difusión de las fiestas populares en 2020, para asociaciones y personas, con un máximo de 12.000 €; plazo de 30 días desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "451469Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Reabre el centro de día de mayores de la calle Doctor Grande Covián",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la reapertura presencial del centro de día para mayores dependientes el 6 de julio, con el plan de contingencia COVID de la empresa gestora.",
+      "entidades": [
+        {
+          "nombre": "SACYR Social, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "gestiona el servicio"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza apertura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473009H",
+      "lugar": "C/ Doctor Grande Covián",
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Medidas COVID para reabrir el centro de mayores Las Herratillas (Podium)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la desescalada en tres fases del centro de mayores Las Herratillas y se requiere a Podium, encargada de la dinamización, que adopte las medidas sanitarias.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473674F",
+      "lugar": "Centro de Personas Mayores Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Medidas COVID para reabrir el bar del centro de mayores Las Herratillas",
+      "categoria": "servicios_actividades",
+      "resumen": "Se requiere al adjudicatario del bar-cafetería del centro que adopte las medidas sanitarias de la desescalada.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473674F",
+      "lugar": "Centro de Personas Mayores Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela de Ocio Alternativo e Integración de verano: 6.650 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza del 10 al 31 de julio una escuela de ocio para 50 participantes (25 con diversidad funcional) en el Edificio Bioclimático y otros espacios, con un gasto de 6.650 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6650.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473629T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul hasta el 31 de diciembre de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "423366J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul hasta el 31 de diciembre de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473216W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Tarjeta de residente de zona azul para un familiar de una concejala",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul; una concejala sale de la sala por parentesco con el solicitante.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472458R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Contratación de una agente de desarrollo local de turismo",
+      "categoria": "personal",
+      "resumen": "Tras selección por oferta al SEF, se contrata a una agente de desarrollo local-turismo y se crea una bolsa de ocho suplentes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473125T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Cuatro nuevos cabos de Policía Local en prácticas",
+      "categoria": "personal",
+      "resumen": "Se nombra funcionarios en prácticas a los cuatro aspirantes aprobados en la promoción interna a cabo de la Policía Local (seis plazas de la oferta de 2018), que harán el curso selectivo regional.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "187022D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "La arquitecta municipal formará parte de un tribunal de la Mancomunidad Monte Ibérico",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la arquitecta municipal a ser miembro del tribunal para cubrir una plaza interina de arquitecto en la Mancomunidad de Municipios Monte Ibérico.",
+      "entidades": [
+        {
+          "nombre": "Mancomunidad de Municipios Monte Ibérico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472002J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Licitación de la nueva cubierta de la capilla de la Virgen de las Angustias: 244.330 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre procedimiento abierto simplificado para cambiar las cubiertas de la capilla de la Virgen de las Angustias en la Iglesia de San Francisco, por 244.330,29 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 244330.29,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473702W",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Protocolo COVID del campo La Constitución y amistoso del Yeclano sin público",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el protocolo y plan de contingencia del campo municipal de La Constitución y se autoriza al Yeclano Deportivo a jugar un amistoso a puerta cerrada contra el CD Toledo el 10 de julio.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474007T",
+      "lugar": "Campo Municipal de Deportes La Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Convocatoria de tres becas de prácticas de arqueología: 5.400 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan tres becas de prácticas de arqueología para titulados en Humanidades de 18 a 35 años, con un máximo de 5.400 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "459141X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Convocatoria de doce becas de auxiliares de arqueología: 9.000 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan doce becas de auxiliares de arqueología para estudiantes o graduados recientes en Humanidades de 18 a 35 años, con un máximo de 9.000 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470773C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Las multas por consumo de drogas en la calle pasan a la Delegación del Gobierno",
+      "categoria": "reclamaciones",
+      "resumen": "Tras tres sentencias que dicen que el Ayuntamiento no es competente para sancionar la tenencia y consumo de drogas en la vía pública, se envían las denuncias a la Delegación del Gobierno; solo se terminan en el Ayuntamiento los expedientes que podrían prescribir. El Ayuntamiento mantiene que sí es competente.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe expedientes"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencias"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473257C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Cambio temporal del horario de carga y descarga de Mercadona en Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Del 4 de julio al 26 de agosto la reserva de carga y descarga de Mercadona pasa a funcionar de 6:30 a 8:00 y de 20:00 a 23:00, sin coste adicional.",
+      "entidades": [
+        {
+          "nombre": "Mercadona, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471645N",
+      "lugar": "Avda. Literato Azorín",
+      "interes": 1
+    }
+  ]
+}

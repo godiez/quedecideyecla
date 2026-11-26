@@ -1,0 +1,598 @@
+{
+  "doc": "2022-07-05_JGL_33",
+  "organo": "JGL",
+  "sesion": 33,
+  "fecha": "2022-07-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "Por falta de liquidez, el Ayuntamiento pide al Consorcio de Bomberos pagar en cinco plazos los 816.780 euros de su aportación de 2022. La Junta saca a licitación la reurbanización de la calle España (220.000 euros), las redes de agua y saneamiento de la calle San Ramón (95.000 euros), la Universidad Popular 2022/23 y material informático (68.534 euros), y prepara el contrato del concierto de Loquillo (47.190 euros). También adjudica a Involucra el asfaltado de varias calles (47.698 euros), aprueba 'Músicas del Aire' (25.041 euros), ayudas sociales para recibos de luz, gas y agua, y autoriza el Triatlón Ciudad de Yecla.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 28 y 29 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: anticipo de un curso del SEF y horario de terrazas",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el SEF reconoce y paga un anticipo de la subvención del curso 'Gestión Comercial y de Ventas en Microempresas' y de un informe de la Policía Local sobre el horario de apertura de las terrazas. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "643276P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: una obra artística y el programa de radio 'Atrévete'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la creación de una obra artística a un particular y la grabación y emisión del programa de radio 'Atrévete' a la SER.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Española de Radiodifusión, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 27002.7,
+      "importes": [
+        {
+          "concepto": "Creación de obra artística",
+          "eur": 9010.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Grabación y emisión del programa de radio 'Atrévete'",
+          "eur": 17992.7,
+          "entidad": "Sociedad Española de Radiodifusión, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "613699K, 626615Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Se pide pagar en cinco plazos los 816.780 € del Consorcio de Bomberos",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Como la Tesorería no tiene liquidez para pagar la aportación de 2022 al Consorcio de Extinción de Incendios y Salvamento en dos plazos (junio y noviembre), se le pide un plan de cinco pagos de 163.356 euros entre julio y diciembre, sin intereses.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de Extinción de Incendios y Salvamento de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra aportación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 816780.04,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644647T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Escuela de Verano Deportiva gratis para menores en desventaja social",
+      "categoria": "fiscal",
+      "resumen": "A propuesta de Servicios Sociales, se bonifica el 100% del precio de la Escuela de Verano Deportiva 2022 a los menores en situación de desventaja social que figuran en el informe de Deportes. No se indica cuántos ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "642663N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI de 2023 a 2027 (máximo 100 euros al año) por una instalación fotovoltaica de 5 kW de más de 6.000 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513206M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Segregación en el paraje Sierra Isidro con agrupación a fincas vecinas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a un vecino a segregar 411 m² de una finca de regadío en suelo no urbanizable, siempre que las dos partes se unan a la vez a fincas colindantes porque no llegan a la unidad mínima de cultivo. Se acepta que renuncie a otras seis solicitudes de segregación que se iban a denegar por ser parcelaciones prohibidas que podrían crear un núcleo de población.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617272Y",
+      "lugar": "Paraje Sierra Isidro, polígono 113",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un auxiliar administrativo del plan de empleo para jóvenes",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan Especial 2022 de Inclusión y Reinserción Social a través del Empleo (programa de menores de 30 años sin experiencia), se contrata a un auxiliar administrativo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622095X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de empleo de técnico superior de atención temprana",
+      "categoria": "personal",
+      "resumen": "Se rechaza la reclamación de una aspirante que pedía revisar su nota del ejercicio práctico y se aprueba la bolsa de empleo de técnico superior de atención temprana con siete personas, vigente hasta el 31-12-2025. Una concejala se ausenta por interés personal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad de los presentes (una concejala se ausenta por interés personal)",
+      "expediente": "503409E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Asfaltado de calles Santa Bárbara, Arcipreste Esteban Díaz y General Cabanellas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Involucra, como contrato menor, la repavimentación de tramos de las calles Santa Bárbara, Arcipreste Esteban Díaz, General Cabanellas y la plaza Pedáneo Ricardo Yáñez.",
+      "entidades": [
+        {
+          "nombre": "Involucra, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47697.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "642659H",
+      "lugar": "C/ Santa Bárbara, C/ Arcipreste Esteban Díaz, C/ General Cabanellas y Plaza Pedáneo Ricardo Yáñez",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Nueva bomba de calor para la climatización del Hogar del Pensionista",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Calfrica Servicios, como contrato menor, el cambio de la bomba de calor del Hogar del Pensionista.",
+      "entidades": [
+        {
+          "nombre": "Calfrica Servicios, S. Coop.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17900.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644415X",
+      "lugar": "Hogar del Pensionista",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Licitación de las nuevas redes de agua y saneamiento de la calle San Ramón",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre la licitación (procedimiento abierto simplificado) para renovar el saneamiento y el agua potable de la calle San Ramón, entre Numancia e Iberia, con un presupuesto de 94.999,99 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 94999.99,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644608P",
+      "lugar": "Calle San Ramón (entre calle Numancia y calle Iberia)",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Licitación de la reurbanización de la calle España por 220.000 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre la licitación (procedimiento abierto simplificado) para reurbanizar la calle España entre Martínez Corbalán y Don Lucio, con un presupuesto de 220.000 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 220000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644768M",
+      "lugar": "Calle España (entre calle Martínez Corbalán y calle Don Lucio)",
+      "interes": 3
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Licitación de los cursos de la Universidad Popular 2022/23",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto armonizado) de la organización de los cursos de la Universidad Popular 2022/23 en cinco lotes: artes plásticas, patronaje, artes aplicadas, técnicas físicas y restauración de muebles (unos 138.600 euros al año en total). Para 2022 se autoriza un gasto de 43.867,32 euros.",
+      "entidades": [
+        {
+          "nombre": "Universidad Popular de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "servicio municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 43867.32,
+      "importes": [
+        {
+          "concepto": "Lote 1: artes plásticas y oficios artísticos (anual)",
+          "eur": 58626.93,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: patronaje y confección (anual)",
+          "eur": 20918.19,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: artes aplicadas y oficios artesanales (anual)",
+          "eur": 28027.55,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: técnicas físicas de control físico y mental (anual)",
+          "eur": 14978.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: restauración de muebles y artes decorativas (anual)",
+          "eur": 16070.25,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón del Edificio Bioclimático para una reunión de padres de Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Red Deportiva Yecla a usar el salón de actos del Edificio Bioclimático el 14 de julio para una reunión de padres.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "643634M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Tráfico seguirá haciendo los exámenes teóricos del carné en el Edificio Bioclimático",
+      "categoria": "patrimonio",
+      "resumen": "Se actualiza, por tiempo indefinido, la cesión gratuita a la Jefatura Provincial de Tráfico de aulas y aseos del Edificio Bioclimático para los exámenes teóricos del permiso de conducir; el Ayuntamiento paga mantenimiento y limpieza.",
+      "entidades": [
+        {
+          "nombre": "Jefatura Provincial de Tráfico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614927Q",
+      "lugar": "Edificio Bioclimático (calle Abad José Sola)",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Escuela de Ocio Alternativo Verano 2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de la Escuela de Ocio Alternativo de verano, con un gasto de 7.139 euros y precios de 10 euros por semana o 30 euros la escuela completa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7139.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644557T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Comida a domicilio gratuita para una persona",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se concede de oficio, sin coste, el servicio de comidas a domicilio a una persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644431T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayudas para pagar luz, gas y agua y comprar electrodomésticos eficientes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Segunda concesión de ayudas a personas y familias para pagar los suministros básicos de su vivienda y comprar electrodomésticos que ahorren energía o agua. No se indica el número de beneficiarios ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621084R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Terraza de verano para el restaurante San Marco en calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular del restaurante 'San Marco' una terraza de 30 m² en temporada de verano, que no podrá montarse antes de las 7:15.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640609K",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Licitación de material informático por 68.534 €",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado abreviado) del suministro de material informático en cuatro lotes, con un gasto de 68.534,40 euros IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 68534.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635003Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Contrato del concierto de Loquillo en la Plaza de Toros: 47.190 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar por procedimiento negociado sin publicidad, con la empresa que tiene la exclusiva del artista, el concierto de Loquillo en la Plaza de Toros dentro de 'Verano en Danza 2022', con un gasto de 47.190 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 47190.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641356Y",
+      "lugar": "Plaza de Toros",
+      "interes": 3
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Programa 'Músicas del Aire 2022': 25.041 € y entrada libre",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de 'Músicas del Aire' en nueve días de julio, con un presupuesto de 25.040,95 euros y entrada gratuita hasta completar aforo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 25040.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "645796P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Ampliación de la acera de la entrada de la parroquia de San Juan Bautista",
+      "categoria": "contrato",
+      "resumen": "Se aprueba ampliar la acera del acceso principal a la parroquia de San Juan Bautista con medios municipales (obra por administración), con 2.395,55 euros en materiales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2395.55,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "632865E",
+      "lugar": "Parroquia de San Juan Bautista",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Tercera versión del proyecto de cierre del porche del IES Felipe VI",
+      "categoria": "otros",
+      "resumen": "Se aprueba de nuevo, revisada según las indicaciones de la Consejería de Educación, la memoria de las obras para cerrar el porche del IES Felipe VI (47.336,07 euros) y se envía a la Consejería para que programe la obra.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "revisa y programa la obra"
+        },
+        {
+          "nombre": "IES Felipe VI",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47336.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "587857T",
+      "lugar": "IES Felipe VI",
+      "interes": 2
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Visto bueno a la reforma del bypass de la depuradora de Yecla (ESAMUR)",
+      "categoria": "medio_ambiente",
+      "resumen": "El Ayuntamiento da su conformidad al proyecto de ESAMUR para reformar el bypass de la depuradora de aguas residuales (EDAR) de Yecla y se compromete a recibir las obras en cuanto terminen.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "promotor de la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "642424F",
+      "lugar": "EDAR de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Instalaciones gratis para los entrenamientos de verano del Club Gimnasia Rítmica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Gimnasia Rítmica Yecla a entrenar en julio y agosto en instalaciones municipales para competiciones regionales y nacionales, con uso gratuito valorado en 1.431,60 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1431.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "645725Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "IV Triatlón Ciudad de Yecla en Los Rosales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Triatlón Arabí Yecla el IV Triatlón de Menores y Campeonato Regional por relevos el 10 de julio en el Centro de Ocio Los Rosales y calles, con gastos municipales de 266,20 euros y uso gratis de instalaciones valorado en 892 euros. Se le advierte que respete los plazos de solicitud.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Triatlón de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "calendario y seguro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1158.2,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 266.2,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 892.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "632691N, 646091Z",
+      "lugar": "Centro de Ocio Los Rosales y circuito urbano",
+      "interes": 2
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Entrenamientos de verano gratis para dos jugadores de baloncesto de categoría nacional",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de Red Deportiva Yecla se autoriza a dos jugadores de baloncesto formados en el club, que juegan en categoría nacional, a entrenar en julio y agosto en instalaciones municipales gratis (valorado en 238 y 595 euros).",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 833.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "646132F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Agradecimiento al Hospital Virgen del Castillo por 25 años del curso de primeros auxilios",
+      "categoria": "otros",
+      "resumen": "Se agradece al Área de Salud V, al Hospital Virgen del Castillo y a sus servicios de Urgencias y Pediatría su colaboración desinteresada durante 25 ediciones del curso de urgencias médicas y primeros auxilios de la Universidad Popular, por el que han pasado más de 700 alumnos.",
+      "entidades": [
+        {
+          "nombre": "Hospital Virgen del Castillo (Área de Salud V)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "643712W",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

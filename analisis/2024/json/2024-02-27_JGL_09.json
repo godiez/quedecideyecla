@@ -1,0 +1,884 @@
+{
+  "doc": "2024-02-27_JGL_09",
+  "organo": "JGL",
+  "sesion": 9,
+  "fecha": "2024-02-27",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno paga 269.651 euros en facturas (sobre todo la basura, limpieza viaria y zonas verdes de Actúa) y 55.329 euros de la obra del Mercado Central. Aprueba el programa de San Marcos (8.022 euros), la I Semana Internacional de Teatro, las escuelas de Semana Santa y un servicio de conciliación de fin de semana adjudicado a AFEDECO por 10.278 euros. Crea el canal interno de denuncias del Ayuntamiento, convoca una bolsa de fontaneros y autoriza procesiones, terrazas, una concentración motera y la carrera popular.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 20 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Sentencia que da la razón a una vecina en una reclamación por daños",
+      "categoria": "informacion",
+      "resumen": "Se informa de una sentencia del Juzgado de lo Contencioso-Administrativo nº 7 de Murcia que estima el recurso de una particular contra el silencio del Ayuntamiento ante su reclamación de responsabilidad patrimonial de 2021.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura, limpieza viaria, zonas verdes, carpa y seguro de vehículos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de enero de la recogida de basura y limpieza viaria y del mantenimiento de zonas verdes (Actúa), una carpa en la plaza de San Cayetano, el cobro de recibos de la tasa de basura (FCC Aqualia) y el seguro de la flota de vehículos municipales.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Occident, GCO, S.A. de Seguros y Reaseguros, S.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 269651.07,
+      "importes": [
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, enero 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, enero 2024",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Alquiler e instalación de carpa en plaza de San Cayetano (Lote 5 C.SU 8/23)",
+          "eur": 6709.45,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Cobro de recibos de la tasa de basura emitidos en enero 2024",
+          "eur": 14682.14,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Seguro de la flota de vehículos municipales",
+          "eur": 19369.05,
+          "entidad": "Occident, GCO, S.A. de Seguros y Reaseguros, S.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 538849C, 844514M, 874683N, 498615X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 11 de la remodelación del Mercado Central",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 11 de la obra de remodelación del Mercado Central a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 55328.86,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Concedida rebaja del ICIO por placas solares tras recurso de un vecino",
+      "categoria": "fiscal",
+      "resumen": "Se estima el recurso de un particular: el Ayuntamiento no había contado un pago a cuenta y la inversión (7.465 euros) sí supera el mínimo de 6.000 euros, así que se le concede la bonificación del 90% del impuesto de obras por su instalación solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751329N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Denegada rebaja del ICIO por placas solares (inversión menor de 6.000 euros)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un particular la bonificación del 90% del impuesto de obras por placas solares: la factura de instalación (5.974 euros) no llega al mínimo de 6.000 euros y los gastos de tramitación no cuentan.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "836072M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Autorizado el inicio de obras de una vivienda unifamiliar con piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a dos particulares a empezar la construcción de una vivienda unifamiliar aislada con barbacoa y piscina, cuya licencia se concedió en diciembre de 2023, tras presentar el proyecto de ejecución. Un concejal se ausenta por parentesco con los interesados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "805950A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bases para una bolsa de empleo de oficial fontanero",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de empleo de Oficial de Artes y Oficios-Fontanero (grupo C2) para contrataciones temporales. Plazo de 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "885639E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "El Ayuntamiento paga el abogado de un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se acuerda asumir los gastos de defensa de un subinspector de la Policía Local en un procedimiento judicial del Juzgado de Instrucción nº 2 de Yecla, según el acuerdo de condiciones de trabajo de los funcionarios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "887308Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Bases del contrato del bar de las Fiestas de San Isidro 2024",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar el contrato menor del servicio de bar en las Fiestas de San Isidro 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890006W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puestos informativos de AYAC en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner dos puestos informativos el 13 de marzo en el Parque de la Constitución y la plaza de San Cayetano, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842804M",
+      "lugar": "Parque de la Constitución y plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Carpa de Cruz Roja por el Día Internacional de la Mujer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja a instalar una carpa el 8 de marzo para una actividad de sensibilización por el Día de la Mujer.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "887412R",
+      "lugar": "Calle San Francisco esquina Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Procesiones del Cristo del Sepulcro (bajada, rogativas y subida)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan la bajada (16 de marzo), la procesión de rogativas (17 de marzo) y la subida (24 de marzo) del Cristo del Sepulcro entre el Santuario del Castillo y la Basílica de la Purísima, con prohibición de aparcar en el recorrido.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Caballeros y Damas del Stmo. Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "888777N",
+      "lugar": "Santuario del Castillo - Basílica de la Purísima",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Procesión del Cristo de Medinaceli",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia de San José Artesano la procesión del Cristo de Medinaceli el 3 de marzo, con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San José Artesano",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "887398Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de la cafetería Shop Pan & Café en la plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza anual (noviembre 2023 - octubre 2024) de 44 m² de la cafetería en la plaza de San Cayetano.",
+      "entidades": [
+        {
+          "nombre": "Shop Pan & Café, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "886744P",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza del bar La Tapeoteca en la plaza María del Carmen Lorente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza anual (noviembre 2023 - octubre 2024) de 54 m² del bar restaurante La Tapeoteca.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "886742M",
+      "lugar": "Plaza María del Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Concentración motera en la calle Castillarejos con corte de calle",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un grupo motero a celebrar el 28 de abril una reunión con escenario y expositores en el polígono Urbayecla y un recorrido por la ciudad. Se corta la calle previo pago de una tasa de 102,80 euros y se prestan vallas, escenario, megafonía, sillas y tableros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Motero \"Los Extranjeros\"",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831473Z",
+      "lugar": "Calle Castillarejos, polígono Urbayecla",
+      "interes": 2
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Denegados bolardos junto a una cochera particular",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular poner bolardos junto a su cochera: la Policía Local informa en contra porque ya está prohibido aparcar, no paga vado y se multiplicarían estos elementos en la calle.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "778605X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Denegado a JYSK exponer muebles en el acceso a su tienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a JYSK exponer muebles en la zona de acceso a su tienda de la carretera de Villena: la Policía Local considera que es una zona de uso público para el tráfico.",
+      "entidades": [
+        {
+          "nombre": "JYSK DBL Iberia, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "862582F",
+      "lugar": "Carretera de Villena",
+      "interes": 2
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Colectivo Amatista: no se repinta la plaza Ocho de Marzo, pero se plantan lavandas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega al Colectivo Amatista repintar muros y mobiliario de la plaza Ocho de Marzo (está en buen estado) y se ordena a Servicios Públicos plantar 10-20 lavandas alrededor del monolito.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Amatista",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "889424M",
+      "lugar": "Plaza Ocho de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Cáritas usa la sala del Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a Cáritas la sala de reuniones del Centro de Emprendimiento el 29 de febrero para itinerarios de inserción laboral de jóvenes vulnerables (Proyecto Nazaret).",
+      "entidades": [
+        {
+          "nombre": "Cáritas Diócesis de Cartagena",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890374F",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Kapaces usa la sala del Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la asociación Kapaces la sala de reuniones del Centro de Emprendimiento el 24 de marzo para una actividad de fomento de la lectura.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Vida Independiente de Personas con Diversidad Funcional (Kapaces)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890966D",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil el 15 de marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "888830M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Sesiones para una boda civil el 27 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891002D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Teatro Concha Segura gratis para la muestra del Centro de Mayores del IMAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 6 de junio al Centro Social de Personas Mayores del IMAS para la muestra de fin de curso de sus talleres, con rebaja del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "878372M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Teatro Concha Segura gratis para la gala benéfica de ARY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 30 de noviembre a la asociación ARY para una gala benéfica por el Día Mundial Sin Alcohol, con rebaja del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de Problemas con el Alcohol y otras Drogas y otras Conductas Adictivas de Yecla (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881560P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Bases para los chiringuitos de la cabalgata de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las bases para organizar la instalación de chiringuitos en la Cabalgata de Carrozas de San Isidro del 19 de mayo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "889700W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Programa y presupuesto de la Romería de San Marcos 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de San Marcos en el Cerrico de la Fuente (24 de abril) con un presupuesto de 8.022,23 euros. Se fijan precios de inscripción (paellas 15 euros, gachasmigas 5 euros) y el jurado del concurso de gachasmigas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8022.23,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882693N",
+      "lugar": "Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "I Semana Internacional del Teatro",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de la I Semana Internacional de Teatro (10 a 15 de marzo) con un presupuesto de 2.601,50 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2601.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890477Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Escuela Municipal de Semana Santa 2024 (conciliación)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela Municipal de Semana Santa (25 de marzo a 2 de abril) para niños de 3 a 12 años, con un presupuesto de 4.715,25 euros financiado por el Plan Corresponsables y un precio de 15 euros por niño.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4715.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "887544A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Nuevas formas de pago en las instalaciones deportivas",
+      "categoria": "normativa",
+      "resumen": "Se modifica la normativa de uso de las instalaciones deportivas municipales para permitir el pago por plataforma telemática, en metálico en Recaudación o por transferencia.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890571E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Se pide a la CARM arreglar el camino al Mirador de la Sierra de Salinas",
+      "categoria": "medio_ambiente",
+      "resumen": "A petición del Grupo Socialista, se solicita a la Consejería de Medio Ambiente que repare el firme del camino de acceso al Mirador de la Sierra de Salinas.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Medio Ambiente, Universidad, Investigación y Mar Menor (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria"
+        },
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875596F",
+      "lugar": "Sierra de Salinas",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Condolencia por el fallecimiento del presidente de CETEM",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa a la familia, en nombre de todos los grupos, su pésame por la muerte del presidente de CETEM y de ANIEME, figura destacada de la industria del mueble.",
+      "entidades": [
+        {
+          "nombre": "CETEM",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "otro"
+        },
+        {
+          "nombre": "ANIEME",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891525E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Contratación de una técnico de educación infantil por baja",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se contrata de la bolsa a un técnico de educación infantil a tiempo parcial (30 h/semana) para sustituir a una trabajadora de baja en las escuelas infantiles El Parque y Alameda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891533Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Ampliación temporal de jornada de una auxiliar de hogar",
+      "categoria": "personal",
+      "resumen": "Se amplía a jornada completa, de forma temporal, a una auxiliar de hogar a media jornada, hasta que se cubra por oposición la plaza que deja vacante una jubilación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881637X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Un agente de desarrollo local asiste a una reunión del SEF en Fortuna",
+      "categoria": "personal",
+      "resumen": "Se ordena a un agente de empleo y desarrollo local acudir a una reunión de la Alianza SEF-Entidades Locales sobre programas de empleo, pagando el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891420J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Curso de formación para personal de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se ordena a seis trabajadoras de la Agencia de Desarrollo Local hacer un curso de la Escuela de Formación de la Administración Pública sobre el sistema de gestión Coffee, pagando desplazamientos y comidas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "892095X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.5",
+      "titulo": "La técnica de Juventud asiste a una jornada de emprendimiento juvenil",
+      "categoria": "personal",
+      "resumen": "Se ordena a la técnica de Juventud asistir a una jornada de emprendimiento juvenil en el Campus de Espinardo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891611Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.6",
+      "titulo": "El jefe de la Policía Local asiste al salón de seguridad SICUR 2024",
+      "categoria": "personal",
+      "resumen": "Se autoriza al comisario jefe de la Policía Local a asistir a SICUR-2024 el 29 de febrero, con las condiciones generales de cursos voluntarios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398745N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Servicio de conciliación en fines de semana y días no lectivos",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el servicio de conciliación familiar en fines de semana y días no lectivos del 1 de marzo al 22 de junio, con un presupuesto de 13.189 euros, financiado con una subvención regional cofinanciada por el Fondo Social Europeo Plus.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13189.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "886476R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Adjudicado a AFEDECO el servicio de conciliación de fin de semana",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a la asociación AFEDECO el servicio de conciliación en fines de semana y días no lectivos por 10.277,55 euros.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación para la formación y del desarrollo comunitario",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10277.55,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890233K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Encargo de un sistema de información geográfica con censo de locales y actividades",
+      "categoria": "organizacion",
+      "resumen": "Se encarga al Servicio de Informática implantar, si hace falta contratándolo fuera, un SIG municipal de inventarios urbanos con un censo de locales y actividades consultable por la ciudadanía.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "828745K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.10",
+      "titulo": "Aprobado el canal interno de denuncias del Ayuntamiento",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el Sistema Interno de Información (canal de denuncias de la Ley 2/2023 de protección del informante), que funcionará con el programa 'Centinela Canal de Denuncias', y se designa responsable a una jefa de negociado municipal.",
+      "entidades": [
+        {
+          "nombre": "Lefebvre El Derecho, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "proveedor del programa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "862941E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.11",
+      "titulo": "Escuela Deportiva Municipal de Semana Santa 'Actívate'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la escuela deportiva de Semana Santa (25 de marzo a 2 de abril) para niños de 3 a 12 años, con presupuesto de 14.235 euros del Plan Corresponsables; precio de 15 euros la escuela completa o 3 euros por día.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 14235.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890258W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.12",
+      "titulo": "Autorización y apoyo municipal a la XV Carrera Popular Ciudad de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la carrera popular del 2 de marzo organizada por el Atletismo Yeclano con la Federación regional, con gastos municipales de 508,20 euros y uso gratuito de instalaciones deportivas valorado en 620 euros.",
+      "entidades": [
+        {
+          "nombre": "Agrupación Deportiva Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe ayuda en especie"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1128.2,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 508.2,
+          "entidad": "Agrupación Deportiva Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 620.0,
+          "entidad": "Agrupación Deportiva Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864479Q",
+      "lugar": "Calle San José y Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "16.13",
+      "titulo": "Permiso para fotografiar el busto del emperador Adriano",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a un fotógrafo documental a fotografiar con fines formativos el busto de Adriano del Museo Arqueológico Municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "889277H",
+      "lugar": "Museo Arqueológico Municipal",
+      "interes": 1
+    }
+  ]
+}

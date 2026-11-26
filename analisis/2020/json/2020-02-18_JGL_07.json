@@ -1,0 +1,857 @@
+{
+  "doc": "2020-02-18_JGL_07",
+  "organo": "JGL",
+  "sesion": 7,
+  "fecha": "2020-02-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno aprueba la programación del Teatro Concha Segura de marzo a junio de 2020, con un presupuesto de 82.715 euros en cachés, y encarga a FCC Aqualia la renovación de la red de agua de la calle Salzillo por 24.384 euros. Adjudica el asfaltado de siete calles por 46.024 euros y el proyecto del futuro Centro de Protección Animal. Revoca la ejecución del aval de 57.963 euros de la obra de la piscina cubierta por no haber dado audiencia a la empresa, cambia el horario del Edificio Bioclimático y reparte 2.506 euros contra la pobreza energética.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 11 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: asesoramiento financiero regional y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito del Instituto de Crédito y Finanzas de la Región de Murcia que anuncia un servicio de asesoramiento financiero para ayuntamientos, y de una sentencia del Tribunal Superior de Justicia de Murcia (nº 48/2020) que desestima la apelación de un particular contra una sentencia anterior favorable al Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Crédito y Finanzas de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "392841N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: señales luminosas de la Policía Local y agua de colegios de 2015",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la instalación de señalización prioritaria en tres coches de la Policía Local y la diferencia de tarifa del agua de los centros escolares del año 2015.",
+      "entidades": [
+        {
+          "nombre": "Radinstal, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10811.37,
+      "importes": [
+        {
+          "concepto": "Suministro e instalación de señalización prioritaria en tres vehículos de Policía Local",
+          "eur": 7078.5,
+          "entidad": "Radinstal, S.L."
+        },
+        {
+          "concepto": "Diferencia entre tarifa vigente y facturado en centros escolares, año 2015",
+          "eur": 3732.87,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "321919K, 349675K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratación temporal de una técnica de educación infantil por baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de educación infantil, 30 horas semanales, para sustituir a una tutora de la Escuela Infantil «El Parque» de baja, como máximo hasta el final del curso 2019/20.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395240W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contratación temporal de otra técnica de educación infantil por baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de educación infantil, 22,5 horas semanales, para sustituir a una trabajadora de apoyo de las escuelas «Perro Loco» y «El Parque», como máximo hasta el final del curso 2019/20.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "394782J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Prórroga de la comisión de servicios de una auxiliar en la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se prorroga un año, hasta el 28 de febrero de 2021, la comisión de servicios de una auxiliar administrativa de Intervención que trabaja en la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "394560A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Permiso sin sueldo de tres meses para una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se concede a una trabajadora social un permiso sin retribución de hasta tres meses desde el 11 de febrero, con el descuento correspondiente de vacaciones y paga extra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397173E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "El jefe de la Policía Local irá al salón de seguridad SICUR 2020",
+      "categoria": "personal",
+      "resumen": "Se autoriza al comisario jefe de la Policía Local a asistir a SICUR 2020, Salón Internacional de la Seguridad, los días 26 y 27 de febrero, con las condiciones habituales de formación voluntaria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398745N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Cuatro técnicas de escuelas infantiles irán a unas jornadas en Almansa",
+      "categoria": "personal",
+      "resumen": "Se autoriza a cuatro técnicas de las escuelas infantiles municipales a asistir a las «VI Jornadas Educar para ser» en Almansa los días 22 y 23 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395429H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "La veterinaria municipal irá a una jornada sobre listeria en alimentos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la veterinaria municipal a asistir el 20 de febrero en Murcia a una jornada técnica sobre prevención de la contaminación por listeria, organizada por la Consejería de Salud.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395269K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Una trabajadora social y una educadora irán a una reunión en Jumilla",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social y una educadora social asistir el 19 de febrero en Jumilla a una supervisión del programa regional de acompañamiento para la inclusión social, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "394956A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Una psicóloga y una educadora irán a una reunión sobre un caso de menores",
+      "categoria": "personal",
+      "resumen": "Se ordena a una psicóloga y una educadora social de Servicios Sociales asistir el 21 de febrero en Murcia a una reunión de coordinación con el Servicio de Protección de Menores regional.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "399753N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Se devuelven 639 € a un policía local tras rebajar un juez su sanción",
+      "categoria": "reclamaciones",
+      "resumen": "En ejecución de una sentencia que redujo de catorce a siete días la suspensión de funciones impuesta a un agente de la Policía Local en 2017, se le abonan 639,28 euros (sueldo dejado de cobrar e intereses) y se borra la sanción anulada de su expediente.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 639.28,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397305N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Asfaltado de siete calles por 46.024 € a Asfaltos y Construcciones Aitana",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (47.908 €) y se adjudica por contrato menor el parcheo y asfaltado de tramos de las calles Gerona, Padre Lasalde, San Antonio, San Ramón, El Carmen, San Miguel y Paco Corbalán.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 46024.21,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "386607E",
+      "lugar": "Calles Gerona, Padre Lasalde, San Antonio, San Ramón, El Carmen, San Miguel y Paco Corbalán",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Proyecto del futuro Centro de Protección Animal por 7.139 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a una profesional particular la redacción del proyecto básico y de ejecución del Centro de Protección Animal (C.P.A.).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7139.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "388567C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de invierno para el «Bar Cafetería 9 de julio»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular la terraza de invierno (25 m², hasta el 31 de marzo) en la calle Generación del 27; tasa pagada de 175 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 175.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "364304D",
+      "lugar": "C/ Generación del 27",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de invierno para el «Bar Berlín»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de invierno (20 m², hasta el 31 de marzo) del «Bar Berlín» en la calle Hernán Cortés; tasa pagada de 140 €.",
+      "entidades": [
+        {
+          "nombre": "Hermanos Bar Berlín C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 140.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "367980J",
+      "lugar": "Calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de invierno para «Aquarium Café»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los titulares la terraza de invierno (32 m², hasta el 31 de marzo) del «Aquarium Café»; tasa pagada de 224 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 224.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "367992A",
+      "lugar": "Plaza Ocho de Marzo / C/ San José",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de invierno para el «Bar El Esquinazo»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular la terraza de invierno (10 m², hasta el 31 de marzo) en la avenida de la Libertad; tasa pagada de 70 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 70.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "367985Q",
+      "lugar": "Avda. de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de invierno para el «Bar Estación»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular la terraza de invierno (8 m², hasta el 31 de marzo) en la avenida Pablo Picasso; tasa pagada de 56 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 56.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "373283Z",
+      "lugar": "Avda. Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Terraza de invierno para la «Cafetería Ideal»",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular la terraza de invierno (41 m², hasta el 31 de marzo) en la avenida de la Feria; tasa pagada de 287 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 287.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "373271H",
+      "lugar": "Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Vía Crucis de Cuaresma de la Parroquia del Niño Jesús: cortes de tráfico parciales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza cortar el tráfico para los Vía Crucis del 26 de febrero y 13 de marzo; se deniega el corte para el del 28 de febrero por la tarde y los de madrugada de los viernes, que deberán hacerse por las aceras y respetando el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397026A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Se permite vender y beber alcohol en San Cayetano en el Baile de Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la venta y consumo de bebidas alcohólicas en la Plaza de San Cayetano el 22 de febrero, durante el Baile de Carnaval tras el gran desfile, por ser fiesta tradicional.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "294878D",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Denegado más control de tráfico en la Plaza del Alcalde José Martínez Sánchez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un vecino pedía medidas para que se cumpla la prohibición de circular en la plaza; se deniega porque la Policía Local no ha observado problemas de tráfico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "390851Z",
+      "lugar": "Plaza del Alcalde José Martínez Sánchez",
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Pintado de un contra-vado en la calle Magdalena",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba pintar el contra-vado de la cochera de un vecino; su mantenimiento correrá en adelante a su cargo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "396992D",
+      "lugar": "Calle Magdalena",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de actos del Edificio Bioclimático para el club Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros Yecla el uso del salón de actos el 3 de marzo para una reunión con familias de su escuela.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395735H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salas del Edificio Bioclimático para unas jornadas de formación de matronas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular el uso del salón de actos y una sala los días 9 y 11 de mayo para jornadas de formación de matronas docentes.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398592A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Programación del Teatro Concha Segura de marzo a junio: 82.715 € en cachés",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del teatro (Beethoven, Revolver, Aladín, La fuerza del cariño, Desmontando a Séneca con Jorge Javier Vázquez, Intocables, El Brujo, Toc Toc, etc.), su presupuesto de cachés y los precios de las entradas, entre 3 y 18 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 82715.0,
+      "importes": [
+        {
+          "concepto": "Concierto especial 250º Aniversario Beethoven",
+          "eur": 6000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto Revolver 30 Años Tour",
+          "eur": 12520.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Aladín, un musical genial",
+          "eur": 9075.0,
+          "entidad": null
+        },
+        {
+          "concepto": "La Fuerza del Cariño",
+          "eur": 13915.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Desmontando a Séneca",
+          "eur": 10285.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Intocables",
+          "eur": 10285.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Pasión y Muerte de Jesús de Nazaret",
+          "eur": 7260.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Las Ranas (Teatro Caligae, IES Castillo Puche)",
+          "eur": 500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Peter Pan",
+          "eur": 2500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "El Brujo, Dos Tablas y Una Pasión",
+          "eur": 9075.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Troyanas (Teatro Caligae, IES Castillo Puche)",
+          "eur": 500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Toc Toc",
+          "eur": 800.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "399952P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Cambio de promotor y director de obra en una licencia de 3 viviendas de 2006",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia urbanística 234/2006 para tres viviendas y garajes pasa de la empresa Cambia de Piel Confort, S.L. a una particular que adquirió los inmuebles por adjudicación judicial, y de un nuevo director de obra.",
+      "entidades": [
+        {
+          "nombre": "Cambia de Piel Confort, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor anterior"
+        },
+        {
+          "nombre": "Colegio Oficial de Arquitectos de la Región de Murcia",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "nuevo promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "368804D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Segundo reparto de ayudas contra la pobreza energética: 2.506 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas para pagar luz, gas y agua a personas en riesgo de exclusión social, según la relación del Centro Municipal de Servicios Sociales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe ayuda"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 2506.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "290023K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Yecla se adhiere a «Espacios Expositivos» del instituto regional de cultura",
+      "categoria": "convenio",
+      "resumen": "Se aprueba la adhesión al programa 2020 del Instituto de Industrias Culturales y las Artes de la Región de Murcia para traer exposiciones a las salas municipales.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Industrias Culturales y las Artes de la Región de Murcia (ICA)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398024M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Arreglo del cauce junto al camino de Las Nogueras",
+      "categoria": "otros",
+      "resumen": "A petición de un vecino, se retira el lateral exterior deteriorado del cauce, se rellena hasta la rasante del camino y se repone la señal de ceda el paso, para evitar accidentes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "355823Z",
+      "lugar": "Camino de Las Nogueras",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Renovación de la red de agua de la calle Salzillo: 24.384 € a FCC Aqualia",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se ordena a la concesionaria del agua renovar la red de agua potable de la calle Salzillo, entre Pablo Picasso y Molino, dentro del contrato del servicio.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24384.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395206Y",
+      "lugar": "Calle Salzillo, entre Avda. Pablo Picasso y calle Molino",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "La Asociación de Celíacos de Murcia en Yecla, entidad de interés municipal",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe a la delegación de Yecla de la Asociación de Celíacos de Murcia (ACMU) en el Registro de Entidades Declaradas de Interés Municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Celíacos de Murcia (ACMU), Delegación de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397621C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Nuevo horario del Edificio Bioclimático para estudiantes",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de los jóvenes, el Edificio Bioclimático abrirá de lunes a miércoles de 16:00 a 21:30, jueves y viernes de 16:00 a 22:00 y sábados mañana y tarde; se ajusta el horario del conserje.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "401589N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Se revoca la ejecución del aval de 57.963 € de la obra de la piscina cubierta",
+      "categoria": "contrato",
+      "resumen": "Se anula el acuerdo de la semana anterior que exigía al Banco de Sabadell ejecutar la garantía de la UTE que reformó la piscina cubierta (Fase I) por deficiencias sin reparar, porque no se dio audiencia a los interesados; cuando se valoren las reparaciones se les oirá y, si procede, se incautará la fianza.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Servimar 2008, S.L. - Instalaciones Sánchez Mateos, S.L.",
+          "cif": "U73943532",
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Banco de Sabadell, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "avalista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 57963.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "145380R",
+      "lugar": "Piscina Municipal Cubierta",
+      "interes": 3
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Aula del Edificio Bioclimático para un trabajo de fin de máster",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular el uso de un aula el 24 de febrero para un trabajo final de máster de orientación laboral.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "402877C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "20.000 litros de gasóleo de calefacción para colegios: 13.580 € a Multigás",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el suministro de 20.000 litros de gasóleo C para la calefacción de los colegios de infantil y primaria en febrero.",
+      "entidades": [
+        {
+          "nombre": "Multigás Enérgica, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13580.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397298D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Una vendedora pierde el puesto 2C del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se declara la pérdida de los derechos sobre el puesto 2C (salazones) por estar cerrado desde julio de 2019 y deber 288,61 euros de recibos; se dan diez días para retirar las instalaciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "318569H",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Se pide a Minas que actúe en una cantera abandonada que hunde un camino",
+      "categoria": "medio_ambiente",
+      "resumen": "Una antigua cantera de áridos abandonada desde hace al menos 35 años en el paraje Casa de los Pinos está hundiendo un camino por las lluvias; se pide al Servicio de Minas regional que revise el caso y busque solución.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Energía y Actividad Industrial y Minera (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "288141X",
+      "lugar": "Paraje Casa de los Pinos",
+      "interes": 2
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Colaboración municipal con la Ultra Trail Yecla 2020 del Club Fondistas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con medios humanos y materiales en la Ultra Trail Vuelta al Término de Yecla del 22 de febrero (pruebas de 61 y 21 km por Sierra Salinas, El Carche, Raspay y Sierra de las Pansas), con condiciones de seguridad y medio ambiente.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "329949N",
+      "lugar": "Sierra Salinas, El Carche, Raspay y Sierra de las Pansas",
+      "interes": 1
+    }
+  ]
+}

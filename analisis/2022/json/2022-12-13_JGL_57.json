@@ -1,0 +1,657 @@
+{
+  "doc": "2022-12-13_JGL_57",
+  "organo": "JGL",
+  "sesion": 57,
+  "fecha": "2022-12-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 21,
+  "resumen": "Se adjudica a Mediterráneo de Obras y Asfaltos la renovación de la calle Cerro (149.236,74 €) y se pagan unos 690.000 € en facturas y certificaciones de obra (basura y limpieza de Actúa, calle San Ramón, carril bici de la Avda. de la Cruz Roja, capilla de San Francisco). Se abre expediente de penalidades a la constructora de la reforma de la 2ª planta del Ayuntamiento por retraso. Se pide al Estado una subvención de 241.174 € para modernizar la informática municipal y se aprueba la lista de comercios beneficiarios de los 'Bonos Yeclanea 2022'.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 29 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la Junta de Gobierno del 29 de noviembre de 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reintegro parcial de 'Yecla Emplea Verde' y ayuda contra adicciones",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Regional de Empleo y Formación inicia el reintegro parcial de la subvención del proyecto 'Yecla Emplea Verde 2021', y de que la Consejería de Salud concede una subvención directa para programas de prevención de adicciones de 2022 (importes no constan).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro parcial de subvención"
+        },
+        {
+          "nombre": "Consejería de Salud Pública y Adicciones (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "706476R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza viaria, limpieza de edificios y un aparcamiento",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan la recogida de basura y limpieza viaria de noviembre, la limpieza de edificios municipales de noviembre y la pavimentación de una parcela para aparcamiento en las calles Juan Ortuño, Arco del Niño y Niño.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 253911.12,
+      "importes": [
+        {
+          "concepto": "Pavimentación de parcela para aparcamiento en calles Juan Ortuño, Arco del Niño y Niño (contrato menor)",
+          "eur": 20530.07,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, noviembre 2022",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, noviembre 2022",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684221H, 495804R, 118095X",
+      "lugar": "Calles Juan Ortuño, Arco del Niño y Niño",
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Casa de Cultura, calle San Ramón y calle España",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la última certificación del cambio parcial de la cubierta de la Casa de Cultura, dos de la renovación de saneamiento y agua en la calle San Ramón (entre Numancia e Iberia) y una de la reurbanización de la calle España (entre Martínez Corbalán y D. Lucio).",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "CESYR Estudios y Construcción, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 118214.56,
+      "importes": [
+        {
+          "concepto": "Certificación nº 8 y última, sustitución parcial de la cubierta de la Casa de Cultura",
+          "eur": 8174.78,
+          "entidad": "Construcciones Enciso y José, S.L."
+        },
+        {
+          "concepto": "Certificación nº 1, saneamiento y agua potable calle San Ramón",
+          "eur": 52495.22,
+          "entidad": "CESYR Estudios y Construcción, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2, saneamiento y agua potable calle San Ramón",
+          "eur": 20563.67,
+          "entidad": "CESYR Estudios y Construcción, S.L."
+        },
+        {
+          "concepto": "Certificación nº 3, reurbanización calle España",
+          "eur": 36980.89,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R, 644608P, 644768M",
+      "lugar": "Casa de Cultura; calle San Ramón; calle España",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a unos particulares la bonificación del 50% del IBI de su vivienda por instalar placas solares de autoconsumo, de 2023 a 2027 y con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "706398J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Se autoriza modificar el proyecto de una vivienda en el Cerrico de la Fuente",
+      "categoria": "licencia_obra",
+      "resumen": "Se aprueba el proyecto modificado de una vivienda unifamiliar aislada de una particular, cuya licencia se concedió en diciembre de 2020, y se entiende concedida la licencia con ese proyecto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488179C",
+      "lugar": "Paraje Cerrico de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Alquiler de hinchables para Navilandia 2022",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a un particular para alquilar los hinchables de la actividad juvenil de Navidad 'Navilandia 2022', por 7.199,50 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7199.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "705438A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Mediterráneo de Obras y Asfaltos renovará la calle Cerro por 149.236 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto simplificado la renovación del pavimento, alcantarillado y agua potable de la calle Cerro (entre Saliente y Travesía de San Cristóbal), obra del POS 2022, por 149.236,74 € IVA incluido; la empresa quedó primera en todos los criterios y no hubo excluidas.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 149236.74,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677313N",
+      "lugar": "Calle Cerro, entre calle Saliente y Travesía de San Cristóbal",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de invierno para el Café 'Gardenia'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 12 m² del Café 'Gardenia' en la calle Cruz de Piedra para la temporada de invierno.",
+      "entidades": [
+        {
+          "nombre": "Café Gardenia (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700250W",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza anual para el Bar 'RH'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 9 m² del Bar 'RH' en la calle Francisco Azorín, de noviembre de 2022 a octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Bar RH (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700325Z",
+      "lugar": "Calle Francisco Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del CEIP 'El Alba' los sábados para entrenar (liga escolar Albatros)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar las instalaciones del colegio los sábados de 11 a 12 h durante el curso 2022/23 para entrenamientos de la liga escolar Albatros, corriendo con limpieza y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "cede instalaciones"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "707009H",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Uso del CEIP 'El Alba' los sábados para entrenar (otro equipo de la liga Albatros)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otro particular a usar las instalaciones del colegio los sábados de 12 a 13 h durante el curso 2022/23 para entrenamientos de la liga escolar Albatros.",
+      "entidades": [
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "cede instalaciones"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "707006D",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Pago de facturas urgentes: zonas verdes, autobús urbano, informática y Fiestas de la Virgen",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan el mantenimiento de zonas verdes de noviembre, el autobús urbano de octubre, material informático y la infraestructura técnica de las Fiestas de la Virgen 2022 (esta última a un particular).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "COPIYEC, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 96762.76,
+      "importes": [
+        {
+          "concepto": "Infraestructura técnica y producción Fiestas de la Virgen 2022 (contrato menor)",
+          "eur": 6630.8,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Suministro de material informático",
+          "eur": 15367.0,
+          "entidad": "COPIYEC, S.L.U."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, noviembre 2022",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, octubre 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703652W, 635003Z, 538849C, 551537Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Certificaciones: capilla de las Angustias (San Francisco) y carril bici de la Avda. Cruz Roja",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 6 de la restauración de la Capilla de las Angustias de la Iglesia de San Francisco y las certificaciones 2, 3 y 4 de las vías ciclables y peatonales de la Avenida de la Cruz Roja.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 222636.78,
+      "importes": [
+        {
+          "concepto": "Certificación nº 6, restauración Capilla de las Angustias (Iglesia de San Francisco)",
+          "eur": 115532.87,
+          "entidad": "U.T.E. Zima, S.L. - Pegiro, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2, vías ciclables Avda. de la Cruz Roja",
+          "eur": 41530.8,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 3, vías ciclables Avda. de la Cruz Roja",
+          "eur": 12003.74,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 4, vías ciclables Avda. de la Cruz Roja",
+          "eur": 53569.37,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C, 620929C",
+      "lugar": "Iglesia de San Francisco; Avenida de la Cruz Roja",
+      "interes": 3
+    },
+    {
+      "ref": "8.3",
+      "titulo": "La calle San Ramón renovada se abre al uso antes de la recepción formal",
+      "categoria": "contrato",
+      "resumen": "Terminadas las obras de saneamiento y agua de la calle San Ramón, se acuerda ponerlas en servicio sin esperar al acto formal de recepción, para que los vecinos puedan entrar con vehículos y accedan las emergencias; se designa al arquitecto jefe municipal como representante para la recepción.",
+      "entidades": [
+        {
+          "nombre": "CESYR Estudios y Construcción, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644608P",
+      "lugar": "Calle San Ramón, entre calle Numancia y calle Iberia",
+      "interes": 2
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Penalización por retraso en la reforma de la 2ª planta del Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "Las obras de redistribución de la 2ª planta de la Casa Consistorial debían acabar el 6 de diciembre y no están terminadas: se abre expediente para imponer a la constructora una penalidad de 22,80 € por día de retraso (no se resuelve el contrato por lo avanzado de la obra) y se le avisa de que debe certificar antes de fin de año porque se paga con remanente de 2021.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679379H",
+      "lugar": "Casa Consistorial",
+      "interes": 3
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Reparación del campo de fútbol nº 2 del polideportivo Juan Palao (54.353 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto para reparar la superficie y el perímetro del campo de fútbol nº 2 del Complejo Polideportivo 'Juan Palao', por 54.353,26 €, y se ejecutará con medios propios del Ayuntamiento (por administración).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 54353.26,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "702624R",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 2
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Navilandia 2022: actividad juvenil de Navidad",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza 'Navilandia 2022' del 27 al 30 de diciembre y del 2 al 4 de enero, con un presupuesto de 9.965,32 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9965.32,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "705306R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Escuela Municipal de Navidad 'Actívate' para conciliar en vacaciones",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza la escuela de Navidad del 27 de diciembre al 5 de enero (9.353,66 €), dentro del Plan Corresponsables, para niños de 3 a 12 años con prioridad para familias monoparentales, víctimas de violencia de género, paradas de larga duración y rentas bajas; se modifica el procedimiento de admisión.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9353.66,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "707777Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Puesto benéfico de la escuela infantil Bubbles para Cáritas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una mesa con toldo en la calle Arcipreste Esteban Díaz el 16 de diciembre para recoger ropa, juguetes y alimentos para Cáritas Interparroquial y vender manualidades de los alumnos.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación Infantil Británico Bubbles",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Cáritas Interparroquial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704252D",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Puesto del Centro de Educación de Adultos a beneficio de KAPACES",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al CEA de Yecla un puesto con carpa municipal en la Plaza Mayor el 21 de diciembre para recaudar fondos para la asociación KAPACES con su taller de centros navideños.",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos (CEA) de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Asociación KAPACES",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703124M",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Cruz Roja Juventud usará el Edificio de Cazadores para la campaña del juguete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Juventud a usar el sótano del Edificio de Cazadores el 17 de diciembre para su campaña de sensibilización sobre el juguete educativo.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Juventud",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "707737T",
+      "lugar": "Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "8.11",
+      "titulo": "Informe favorable a una fiesta de Nochevieja en carpa (calle del Vino-Avda. Cartagena)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el informe municipal de viabilidad para que un particular pida a la CARM permiso para una fiesta de Nochevieja en carpa a partir de la 1:00 del 1 de enero; por estar lejos de viviendas se permite excepcionalmente hasta 85 dBA de ruido y se exige una fianza de 600 €.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia y Hacienda, Servicio de Espectáculos Públicos (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza el espectáculo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695577E",
+      "lugar": "Calle del Vino - Avenida de Cartagena",
+      "interes": 2
+    },
+    {
+      "ref": "8.12",
+      "titulo": "Lista de comercios que reciben los 'Bonos Yeclanea 2022'",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reconoce como beneficiarios de los bonos de descuento 'Yeclanea 2022' (ayuda al comercio minorista por el Covid y la subida de precios) a los autónomos y pequeñas empresas de la relación nº 1 y se deniega a los de la relación nº 2; las listas y los importes no figuran en el acta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687516J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.13",
+      "titulo": "Se piden 241.174 € de fondos europeos para modernizar la informática municipal",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto 'Infraestructuras tecnológicas para la modernización del puesto de trabajo y mejora en la relación digital con los ciudadanos' y se solicita al Estado (Plan de Recuperación, Orden TER/836/2022) una subvención de 241.174,41 €, con compromiso antifraude.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Política Territorial (Plan de Recuperación, Transformación y Resiliencia)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención (solicitada)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 241174.41,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704225Q",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

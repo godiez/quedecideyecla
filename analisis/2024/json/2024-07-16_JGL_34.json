@@ -1,0 +1,870 @@
+{
+  "doc": "2024-07-16_JGL_34",
+  "organo": "JGL",
+  "sesion": 34,
+  "fecha": "2024-07-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno acepta una subvención regional de 41.000 euros para dinamizar el comercio local (Yeclanea, Feria Outlet y 'Conoce tu comercio') y pide otra de 30.000 euros para el proyecto turístico 'Yecla, accesible para ti'. Convoca ayudas de hasta 10.000 euros para fiestas populares, encarga a FCC Aqualia renovar la red de agua de la calle La Fuente (20.176 euros) y traslada Deportes y la Oficina de Turismo por las obras del centro enoturístico. Cede el campo de La Constitución al Yeclano Deportivo, recién ascendido a Primera RFEF, y deniega a cuatro familias monoparentales la rebaja del IBI.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 9 y 12 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: desbordamientos de la depuradora, ayudas del SEF y un reintegro",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Confederación Hidrográfica del Segura sobre vertidos por desbordamientos de la depuradora (EDAR) de Yecla; de la concesión provisional de ayudas del SEF de 'Fomento Territorial del Empleo' y del anticipo de un curso de tapizado; de una advertencia de la Dirección General de Vivienda sobre las ayudas de rehabilitación con fondos europeos; del inicio del reintegro de una subvención de Garantía Juvenil de 2022; y de una sentencia que desestima el recurso de un vecino contra una multa por la ley de seguridad ciudadana. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura - Comisaría de Aguas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Vivienda y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "947203K",
+      "lugar": "EDAR de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Universidad Popular, Housing First e igualdad",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban facturas de los cursos de artes plásticas de la Universidad Popular (Epsilon), el proyecto Housing First de alojamiento para personas sin hogar de noviembre y diciembre de 2023 (Eulen), el plan municipal de igualdad (AFEDECO) y un proyecto coeducativo de un profesional particular.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "AFEDECO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 39848.79,
+      "importes": [
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos de la Universidad Popular, junio 2024",
+          "eur": 6576.98,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Proyecto Housing First y alojamiento transitorio, noviembre 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto Housing First y alojamiento transitorio, diciembre 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Plan municipal de igualdad y actuaciones del día contra la homofobia",
+          "eur": 9459.25,
+          "entidad": "AFEDECO"
+        },
+        {
+          "concepto": "Proyecto coeducativo para la igualdad y las relaciones sanas de pareja, 2024",
+          "eur": 8583.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M, 647410F, 860453Z, 863872Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegada la rebaja del IBI a cuatro familias monoparentales",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a cuatro familias monoparentales la bonificación del IBI de 2024 prevista para familias numerosas, porque la ordenanza fiscal no las equipara.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "733265Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Padrones del agua (2º trimestre) y de la basura (3er trimestre)",
+      "categoria": "fiscal",
+      "resumen": "Se toma razón de la lista de cobro del agua del segundo trimestre (291.612,82 euros; canon de saneamiento para la CARM de 237.142,53 euros) y se aprueba la de la tasa de basura del tercer trimestre de 2024 (373.557,40 euros), que recauda FCC Aqualia. Se anulan recibos antiguos de basura por 143 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria del agua, 2º trimestre 2024",
+          "eur": 291612.82,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 237142.53,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria de la tasa de basura, 3er trimestre 2024",
+          "eur": 373557.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de basura de 2023 y 2024 anulados",
+          "eur": 143.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955965E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nombramiento interino de un auxiliar administrativo para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Como la auxiliar de Cultura y Festejos pasa a ser funcionaria de carrera en la Universidad Popular, se nombrará a un interino de la bolsa de auxiliares administrativos desde el 1 de agosto, hasta cubrir la plaza (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954515Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Nombramiento interino de un trabajador social para Servicios Sociales y Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se nombrará interino, de la bolsa de trabajadores sociales, para la nueva plaza creada en el presupuesto de 2024, repartida entre el Centro de Servicios Sociales y el Centro de Atención Temprana, necesaria para cumplir el convenio con el IMAS.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951600R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Contrato temporal de un periodista para el Gabinete de Comunicación",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un periodista para el Gabinete de Comunicación desde el 2 de septiembre, hasta que la plaza se cubra de forma definitiva (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955392J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Renuncia de la conserje sustituta del CEIP Las Herratillas",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de la conserje-operaria sustituta del CEIP Las Herratillas, desde el 16 de septiembre, por haber obtenido plaza en otra administración.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955378P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Nuevo conserje sustituto para el CEIP Las Herratillas",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un conserje-operario para el CEIP Las Herratillas desde el 16 de septiembre, mientras dure la baja del titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955802D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Cuatro aspirantes excluidas de la bolsa de auxiliares administrativos",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de auxiliares administrativos de 2019 a dos aspirantes que pidieron la baja y a otras dos que rechazaron el nombramiento sin justificación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "292067Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "La técnica de Atención Temprana pasa a jornada completa",
+      "categoria": "personal",
+      "resumen": "Se amplía la jornada de la técnica de Atención Temprana de 15 horas semanales a jornada completa, como prevé el presupuesto de 2024 y la adenda al convenio con el IMAS.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953145N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Excedencia de una técnica de Educación Infantil que es docente en Valencia",
+      "categoria": "personal",
+      "resumen": "Una técnica de Educación Infantil recién contratada como fija opta por seguir como docente en la Generalitat Valenciana, y se la declara en excedencia voluntaria por incompatibilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "956876W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "AFEDECO formará al personal del Centro de Día Las Teresas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a AFEDECO (Asociación de Formación y Desarrollo Comunitario) la formación de los profesionales del Centro de Día de Personas Mayores Las Teresas, por 6.776 euros.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6776.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "944309Q",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano de la Cafetería Tagos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de la Cafetería Tagos en la calle Antonio Ortega, con 14 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934340W",
+      "lugar": "Calle Antonio Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de verano de La Ibense IV",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una comunidad de bienes la terraza de verano de La Ibense IV en la Plaza de la Concordia, con 40 m².",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934957C",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano de Milano Pizzería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Pakeuropa 2022, S.L. la terraza de verano de Milano Pizzería en la calle San Francisco, con 32 m².",
+      "entidades": [
+        {
+          "nombre": "Pakeuropa 2022, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947918D",
+      "lugar": "Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano de Yakk and Grill",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de Yakk and Grill en la calle Maestro Mora, con 16 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947919E",
+      "lugar": "Calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de verano de Kebab Pizzería Sabores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano de Kebab Pizzería Sabores en la Avenida Pablo Picasso, con 12 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953181N",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Terraza de verano del Bar La Cerámica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano del Bar La Cerámica en la Plaza Alcalde José Martínez Sánchez, con 24 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955038R",
+      "lugar": "Plaza Alcalde José Martínez Sánchez",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Denegado un contravado frente a una cochera en Alférez Maestre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino reservar el aparcamiento de enfrente de su cochera (contravado) para sacar un furgón, porque la cochera no tiene vado, la calle es suficientemente ancha para un turismo y la Policía no los concede en esos casos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "946791N",
+      "lugar": "Calle Alférez Maestre",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil (18 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954693N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil (2 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "956726M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de Plenos para una boda civil (21 de diciembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la Casa Consistorial para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955309T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Aula de la Naturaleza Coto Salinas para la Asociación de Colonos Sierra Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Aula de la Naturaleza Coto Salinas del 19 al 21 de julio a la Asociación de Colonos Sierra Salinas para actividades educativas y recreativas de tipo ambiental.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Colonos Sierra Salinas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942536D",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocatoria de ayudas para fiestas populares 2024: hasta 10.000 euros",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan subvenciones de concurrencia competitiva para promover y difundir las fiestas populares en 2024, con un máximo de 10.000 euros, para asociaciones con domicilio en Yecla y otras personas o entidades. Plazo: 30 días desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "884453H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Plan de seguridad de la obra del centro enoturístico",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por la constructora Urgacen Viena 25 para la obra del centro enoturístico y la mejora energética de edificios de uso turístico.",
+      "entidades": [
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Deportes y la Oficina de Turismo se mudan por las obras del centro enoturístico",
+      "categoria": "servicios_actividades",
+      "resumen": "Por el inicio de las obras del centro enoturístico, el Servicio Municipal de Deportes se traslada provisionalmente al Edificio Bioclimático y la Oficina de Turismo a unos locales municipales frente al Mercado Central, en la calle Epifanio Ibáñez.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Edificio Bioclimático; calle Epifanio Ibáñez",
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Pago de la producción del festival Verano en Danza",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueba el pago a un proveedor particular por la infraestructura, producción y organización del festival 'Verano en Danza'.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12753.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938784R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Taquilla del espectáculo 'De Película' de una academia de baile",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación en taquilla (3.114 euros) del espectáculo de una academia de baile del 5 de julio y la baja de las entradas no vendidas (9.294 euros de 12.408 emitidos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3114.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Teatro Concha Segura / Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Taquilla del espectáculo 'Sueña' de la Academia de Baile Paso a Paso",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación en taquilla (2.556 euros) del espectáculo del 6 de julio y la baja de las entradas no vendidas (9.852 euros de 12.408 emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Paso a Paso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2556.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Teatro Concha Segura / Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Taquilla del espectáculo 'Soñar y Vigilia' de Lucasport",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación en taquilla (5.286 euros) del espectáculo del 7 de julio y la baja de las entradas no vendidas (7.122 euros de 12.408 emitidos).",
+      "entidades": [
+        {
+          "nombre": "Lucasport",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5286.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920245T",
+      "lugar": "Teatro Concha Segura / Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Permiso para empezar a construir una vivienda con garaje y piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un vecino a empezar las obras de una vivienda unifamiliar entre medianeras con garaje y piscina, con la condición de depositar la fianza y no cubrir el acceso a la parcela.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861533Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Plan de empleo 2024: dos peones para Festejos y bolsa de reserva",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan de Promoción e Inserción Social a través del Empleo 2024 (fase II), se contrata a dos peones para Festejos a través del SEF y se crea una bolsa de cuatro reservas.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "950161T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Se extingue la antigua bolsa de ingenieros técnicos industriales de 2015",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de empleo de ingenieros técnicos industriales de 2015 y entra en vigor la nueva, aprobada el 9 de julio de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900101Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Contrato de conciliación en vacaciones de las escuelas infantiles",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a un proveedor (anonimizado en el acta) el servicio de atención a niños en las escuelas infantiles municipales en vacaciones (final de julio, Navidad 2024-25 y Semana Santa 2025), por 14.202,98 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14202.98,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934592W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.9",
+      "titulo": "FCC Aqualia renovará la red de agua de la calle La Fuente",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia y se le encarga, dentro del contrato del agua, la renovación de la red de la calle La Fuente por 20.175,69 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20175.69,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "956892R",
+      "lugar": "Calle La Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Fiestas de San Roque 2024: programa y presupuesto",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de las Fiestas de San Roque del 16 de agosto, con un presupuesto de 1.694 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1694.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954124Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Se aceptan 41.000 euros de la CARM para el comercio local (Yeclanea y Feria Outlet)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención de 41.000 euros de la Consejería de Economía, Hacienda y Empresa para dinamizar el comercio local: Yeclanea 2024, la difusión de la Feria Outlet de Yecla 2025 y el proyecto 'Conoce tu comercio'.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Economía, Hacienda y Empresa (CARM) - Dirección General de Comercio",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 41000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931952D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Se piden 30.000 euros para el proyecto turístico 'Yecla, accesible para ti'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de turismo accesible 'Yecla, accesible para ti' (31.800 euros) y se piden 30.000 euros a la Consejería de Turismo, Cultura, Juventud y Deportes; el Ayuntamiento pondrá 1.800 euros.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 30000.0,
+      "importes": [
+        {
+          "concepto": "Subvención solicitada",
+          "eur": 30000.0,
+          "entidad": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal (6%)",
+          "eur": 1800.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "956962P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.13",
+      "titulo": "Los clubes podrán usar las instalaciones deportivas en pretemporada",
+      "categoria": "servicios_actividades",
+      "resumen": "Como aún no se ha convocado el reparto de horarios de las instalaciones deportivas para la temporada 2024/25, se autoriza de forma provisional a los equipos federados a entrenar y jugar amistosos, con como máximo las horas de la temporada anterior. Si al final no se aprueba la cesión gratuita, los clubes pagarán el precio público.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949712W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.14",
+      "titulo": "Marcha nocturna por la Sierra de la Magdalena del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Excursionista de Yecla a celebrar el 19 de julio una marcha nocturna no competitiva por la Sierra de la Magdalena, con condiciones de seguridad vial, medio ambiente, aviso a cotos de caza y precaución por las canteras cercanas.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953236P",
+      "lugar": "Sierra de la Magdalena",
+      "interes": 1
+    },
+    {
+      "ref": "11.15",
+      "titulo": "El Yeclano Deportivo, ya en Primera RFEF, podrá usar el campo de La Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Yeclano Deportivo, ascendido a Primera RFEF, a entrenar, jugar un amistoso con el FC Cartagena el 24 de julio y disputar la liga 2024/25 en el campo municipal de La Constitución, que se le cede con las condiciones del convenio anterior mientras se redacta uno nuevo (el vigente acaba el 15 de septiembre y el ascenso es causa de resolución).",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949708P",
+      "lugar": "Campo Municipal de Deportes La Constitución",
+      "interes": 3
+    },
+    {
+      "ref": "11.16",
+      "titulo": "Pabellones para el equipo de fútbol sala femenino de la SD Hispania",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Sociedad Deportiva Hispania a usar el pabellón José Ortega Chumilla y la sala escolar Las Herratillas para su equipo de Segunda División de fútbol sala femenino en la temporada 2024/25. La cesión gratuita queda pendiente del reparto general; si no se aprueba, pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Hispania",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957145T",
+      "lugar": "Pabellón José Ortega Chumilla; sala escolar Las Herratillas",
+      "interes": 2
+    }
+  ]
+}

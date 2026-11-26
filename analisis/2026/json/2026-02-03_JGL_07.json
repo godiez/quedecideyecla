@@ -1,0 +1,721 @@
+{
+  "doc": "2026-02-03_JGL_07",
+  "organo": "JGL",
+  "sesion": 7,
+  "fecha": "2026-02-03",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno paga 160.167 euros en facturas (tratamiento de basuras, agua, limpieza, alquiler de solares para aparcamiento) y 96.162 euros en certificaciones de tres obras: edificio de Cazadores, entorno de la antigua estación y la Iglesia de la Asunción. Aprueba la programación del Teatro Concha Segura de enero a mayo (76.238 euros en cachés) y un patrocinio de 24.200 euros a la Vuelta Ciclista a la Región de Murcia. Rechaza la petición del PSOE de un paso de peatones en la calle San Pablo por motivos de seguridad vial.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 27 y 29 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: basuras, agua, limpieza, alquiler de solares y comedor",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan el tratamiento de residuos de diciembre, una factura de agua, la limpieza de edificios municipales, el alquiler anual de dos solares en calle España (aparcamiento), un curso de inglés C1 del SEF y el comedor de la Escuela Infantil El Parque.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Aparcamientos La Fuensanta, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zero Suite, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 160166.85,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura de 30/12/2025",
+          "eur": 12175.02,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, diciembre 2025",
+          "eur": 84924.24,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Alquiler solar C/ España 29, año 2026",
+          "eur": 8517.43,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler solar C/ España 24, año 2026",
+          "eur": 9237.21,
+          "entidad": "Aparcamientos La Fuensanta, S.A."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, diciembre 2025",
+          "eur": 32363.88,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Horas de curso SEF de inglés C1",
+          "eur": 5355.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Comedor Escuela Infantil El Parque, noviembre 2025",
+          "eur": 7594.07,
+          "entidad": "Zero Suite, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de obra: Cazadores, antigua estación e Iglesia de la Asunción",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 6 del edificio de Cazadores (fondos europeos PIREP), la nº 3 de la mejora del entorno de la antigua estación de tren (Plan de Obras y Servicios) y la nº 4 de la rehabilitación de la Iglesia de la Asunción como centro de visitantes (Plan de Sostenibilidad Turística, ITREM).",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores (Citanias Obras y Servicios, S.L.U. - Industria y Montajes Eléctricos, S.A.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 96162.23,
+      "importes": [
+        {
+          "concepto": "Certificación nº 6 rehabilitación edificio de Cazadores",
+          "eur": 41478.54,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        },
+        {
+          "concepto": "Certificación nº 3 mejora entorno antigua estación de tren",
+          "eur": 13469.79,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Certificación nº 4 rehabilitación Iglesia de la Asunción",
+          "eur": 41213.9,
+          "entidad": "Zima Desarrollos Integrales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C, 1081372F, 1093901H",
+      "lugar": "Edificio de Cazadores, antigua estación de tren, Iglesia de la Asunción",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Contrato de una técnica de Educación Infantil para la E.I. El Parque",
+      "categoria": "personal",
+      "resumen": "Tras reconocerse la incapacidad permanente de una trabajadora, se termina el contrato de sustitución y se contrata de la bolsa a un/a técnico de Educación Infantil a 30 horas semanales hasta fin de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210132P",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Trabajador/a social interino para reducir la lista de espera de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se nombra un/a trabajador/a social interino a jornada completa para el programa de reducción de la lista de espera del Centro de Desarrollo Infantil y Atención Temprana (CDIAT).",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211598A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Renuncia de una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una auxiliar administrativa interina del Gabinete de Comunicación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1222504Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Exclusión de un aspirante de la bolsa de conserjes",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de Conserjes-Operarios a una persona que rechazó sin justificación un puesto en el CEIP El Alba.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1221546R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Calendario laboral 2026 del Centro de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se aprueba el nuevo calendario y jornada 2026 del personal de mañana del CDIAT.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1220880R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Reuniones en Murcia de técnicas de Familia y CAVI",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres técnicas de Servicios Sociales asistir a cuatro reuniones de coordinación con la Dirección General de Familias de la CARM, pagando desplazamientos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Familias y Protección de Menores (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216169Z",
+      "lugar": "Murcia",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contrato menor de talleres educativos de Servicios Sociales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 12.370 euros a un adjudicatario anonimizado un contrato de actividades educativas para alumnado de Infantil a Ciclos, profesorado, familias y grupos vulnerables.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12370.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1206666A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Convalidación de la compra de dos ordenadores de topografía (Renacer de Yakka)",
+      "categoria": "contrato",
+      "resumen": "Cultura adjudicó por decreto, sin ser competente, la compra de dos ordenadores para el proyecto Renacer de Yakka por 11.678,92 euros; la Junta corrige el error y convalida el gasto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 11678.92,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214634R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Bar de la Feria del Mueble en Carnaval 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el servicio de bar del Carnaval en la Feria del Mueble a una adjudicataria anonimizada, que pagará 2.007 euros al Ayuntamiento y deja una garantía de 500 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2007.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211528D",
+      "lugar": "Recinto Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza anual de Tapeo Urban en la Plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular una terraza de 40 m² de noviembre 2025 a octubre 2026.",
+      "entidades": [
+        {
+          "nombre": "Tapeo Urban",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214613N",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Puesto de gofres y crepes en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular un remolque de gofres y crepes en la Plaza de San Cayetano del 13 al 15 de febrero, pagando una tasa de 42 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 42.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219550W",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Traslado de un contenedor que tapaba un garaje en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se mueve un contenedor que dificultaba la entrada a un garaje y se avisa a la concesionaria de basuras.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria informada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1220203C",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Traslado de contenedores de reciclaje en calle General Cabanellas",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se trasladan los contenedores de envases y papel que quitaban visibilidad a coches y peatones a un solar junto a la calle Molino.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria informada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1221186R",
+      "lugar": "Calle General Cabanellas",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Circo Tribertis junto a la antigua estación: informe favorable",
+      "categoria": "via_publica_eventos",
+      "resumen": "Para el circo (aforo 715 personas, 10 al 24 de febrero, en terrenos privados), el Ayuntamiento indica que la autorización corresponde a la CARM, emite informe de viabilidad favorable y exige una fianza de 900 euros.",
+      "entidades": [
+        {
+          "nombre": "Tribertis Art, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1219692R",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Rechazado el paso de peatones en la calle San Pablo que pedía el PSOE",
+      "categoria": "via_publica_eventos",
+      "resumen": "El PSOE pidió en 2024 un paso peatonal para senderistas entre el Cerro del Castillo y los Castillarejos. La Policía Local lo desaconseja (cuatro carriles, curva y cambio de rasante) e incluso propone una barrera en la mediana; el paso elevado más cercano está a 400 m. Se desestima.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "875764P",
+      "lugar": "Calle San Pablo",
+      "interes": 3
+    },
+    {
+      "ref": "6",
+      "titulo": "Aulas del Edificio Bioclimático para exámenes Cambridge",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una academia a usar aulas del Edificio Bioclimático para exámenes de Cambridge en junio y julio de 2026.",
+      "entidades": [
+        {
+          "nombre": "Kensite School, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1222378Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Programación del Teatro Concha Segura de enero a mayo de 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban 15 espectáculos (El Brujo, Inmaduros, Los Lunes al Sol, Millán Salcedo, concierto de Año Nuevo...) con 76.238,10 euros en cachés y entradas de 6 a 18 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cine Club Odeón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 76238.1,
+      "importes": [
+        {
+          "concepto": "Concierto Año Nuevo European Strauss Orchestra",
+          "eur": 14000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto Cine y Música (10 enero)",
+          "eur": 2000.0,
+          "entidad": "Asociación Amigos de la Música y Cine Club Odeón"
+        },
+        {
+          "concepto": "El Brujo, Volar con los pies en el suelo",
+          "eur": 9075.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Musical Essencial The Music of Abba",
+          "eur": 2117.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto Cine y Música (1 marzo)",
+          "eur": 2000.0,
+          "entidad": "Asociación Amigos de la Música y Cine Club Odeón"
+        },
+        {
+          "concepto": "Danza ENdanza, Luna",
+          "eur": 2420.0,
+          "entidad": null
+        },
+        {
+          "concepto": "A solas con Ricardo Gómez y monólogo, clausura III Festival Semana del Teatro",
+          "eur": 8000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "La Bella Durmiente, musical",
+          "eur": 7502.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Inmaduros",
+          "eur": 13358.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Los Lunes al Sol",
+          "eur": 8349.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Monólogo Millán Salcedo, Preguntamelón",
+          "eur": 4840.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Páncreas",
+          "eur": 1476.2,
+          "entidad": null
+        },
+        {
+          "concepto": "La Celestina, hilando fino",
+          "eur": 1100.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Prácticas de una alumna de Marketing en Turismo",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a una alumna del CIFP Politécnico de Murcia a hacer 340 horas de prácticas no remuneradas en el Servicio de Turismo, de marzo a junio.",
+      "entidades": [
+        {
+          "nombre": "CIFP Politécnico de Murcia",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223207Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Auxiliar administrativo interino para becas y ayudas de la ADL",
+      "categoria": "personal",
+      "resumen": "Se nombra por tres meses un auxiliar administrativo interino para la Agencia de Desarrollo Local por el aumento de expedientes de becas y ayudas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223158F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Viaje de la Interventora y la directora de la ADL a unas jornadas en Granada",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a las jornadas de puesta en marcha del Plan de Acción Integrado 'Yecla Avanza' en Armilla (Granada), del 10 al 12 de febrero, con gastos pagados.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223948D",
+      "lugar": "Armilla (Granada)",
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Patrocinio de 24.200 euros a la Vuelta Ciclista a la Región de Murcia 2026",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el contrato privado de patrocinio de la Vuelta Ciclista Costa Cálida 2026 por 24.200 euros, por procedimiento negociado sin publicidad, invitando solo al organizador en exclusiva.",
+      "entidades": [
+        {
+          "nombre": "Club Murciano Organizador de Carreras Ciclistas",
+          "cif": null,
+          "tipo": "club",
+          "rol": "invitado a licitar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214673X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Corte de tráfico para inaugurar la escultura 'El Abrazo de la Música'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música un corte de tráfico el 7 de febrero de 19 a 21 h para inaugurar la escultura de un artista local.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1217447Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.5",
+      "titulo": "XVI Duatlón Ciudad de Yecla: autorización y apoyo municipal",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el duatlón del 8 de febrero (Edículo, Avenida de la Feria, Ronda Norte...) y el Ayuntamiento colabora con gastos de 1.165,03 euros y uso gratuito de instalaciones deportivas valorado en 713 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe ayuda en especie"
+        },
+        {
+          "nombre": "Federación de Triatlón de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "calendario oficial"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1878.03,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 1165.03,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 713.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208957H",
+      "lugar": "Avenida de la Feria, Avenida Juan Carlos I, Ronda Norte",
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Rodaje de la película 'El Desvío' en el Teatro Concha Segura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cirrus Films el rodaje del largometraje, patrocinado por el Ayuntamiento, el 5 de febrero en el Teatro y con cortes en las calles Miguel Golf y San Roque.",
+      "entidades": [
+        {
+          "nombre": "Cirrus Films, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1195989X",
+      "lugar": "Teatro Concha Segura, calle Miguel Golf, calle San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Requerimiento de la CARM sobre la inspección de la depuradora",
+      "categoria": "informacion",
+      "resumen": "Se pasa a ESAMUR el requerimiento de la Dirección General de Industria pidiendo el certificado de inspección de la EDAR.",
+      "entidades": [
+        {
+          "nombre": "ESAMUR (Entidad Regional de Saneamiento y Depuración)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "destinatario"
+        },
+        {
+          "nombre": "Dirección General de Industria, Energía y Minas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requiere"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1224704D",
+      "lugar": "EDAR",
+      "interes": 1
+    }
+  ]
+}

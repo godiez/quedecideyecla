@@ -1,0 +1,896 @@
+{
+  "doc": "2020-09-22_JGL_45",
+  "organo": "JGL",
+  "sesion": 45,
+  "fecha": "2020-09-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 45,
+  "resumen": "La Junta de Gobierno paga 231.579 euros por el césped artificial del campo nº 2 del Juan Palao y otras facturas y certificaciones de obra (en total unos 380.000 euros). Abre un expediente de penalización a la constructora del edificio educativo de La Alameda por más de 200 días de retraso y elige a Alma Ata Salud como mejor oferta para gestionar el Centro de Día de mayores. Concede licencia a Fama Sofás para una nave en suelo no urbanizable, paga 7.006 euros por una sentencia sobre tres aerogeneradores y reparte ayudas a familias vulnerables (30.356 euros) y a fiestas populares (10.800 euros). Además, la nueva calle entre la avenida de Córdoba y la calle Perales se llamará Sor Concepción.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 15 y 21 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: césped artificial del campo nº 2 del Juan Palao y otras",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban seis pagos por 274.399,41 euros, sobre todo el suministro y colocación del césped artificial del campo de fútbol nº 2 del Complejo Juan Palao (231.579,48 euros). También cinco actuaciones aplazadas por el COVID de Amigos de la Música, el correo de julio, la revisión de extintores, publicidad y la Escuela de Vacaciones de verano.",
+      "entidades": [
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Bifan Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Intefibra Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Imaginación Educativa y Diseño Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 274399.41,
+      "importes": [
+        {
+          "concepto": "Suministro y colocación de césped artificial en el campo de fútbol nº 2 del Complejo Polideportivo Juan Palao",
+          "eur": 231579.48,
+          "entidad": "Realturf Systems, S.L."
+        },
+        {
+          "concepto": "Cinco actuaciones pendientes por el COVID-19",
+          "eur": 10000.0,
+          "entidad": "Asociación de Amigos de la Música de Yecla"
+        },
+        {
+          "concepto": "Facturación de julio de 2020",
+          "eur": 6912.83,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A."
+        },
+        {
+          "concepto": "Revisión de extintores",
+          "eur": 6807.1,
+          "entidad": "Bifan Seguridad, S.L."
+        },
+        {
+          "concepto": "Publicidad enero-julio 2020",
+          "eur": 6000.0,
+          "entidad": "Intefibra Comunicaciones, S.L."
+        },
+        {
+          "concepto": "Escuela Municipal de Vacaciones Verano 2020",
+          "eur": 13100.0,
+          "entidad": "Imaginación Educativa y Diseño Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "114105E, 276269H, 282726A, 445421D, 386065C, 472027H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de obra: calles Jabonería y Numancia, edificio de La Alameda y 'Cazadores'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban certificaciones de obra por 105.828,69 euros: la nº 5 de la reurbanización de las calles Jabonería y Numancia (79.573,67), la nº 19 del edificio educativo polivalente de La Alameda (25.022,89) y las nº 10, 11 y 12 de la adecuación del semisótano del edificio 'Cazadores' para uso lúdico (0, 0 y 1.232,13).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Avance y Desarrollo de Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Constu Archena, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 105828.69,
+      "importes": [
+        {
+          "concepto": "Certificación nº 5, reurbanización calle Jabonería y calle Numancia",
+          "eur": 79573.67,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.L."
+        },
+        {
+          "concepto": "Certificación nº 19, edificio educativo polivalente en el barrio de La Alameda",
+          "eur": 25022.89,
+          "entidad": "Avance y Desarrollo de Obras, S.L."
+        },
+        {
+          "concepto": "Certificaciones nº 10 y 11, semisótano del edificio Cazadores",
+          "eur": 0.0,
+          "entidad": "Constu Archena, S.L."
+        },
+        {
+          "concepto": "Certificación nº 12, semisótano del edificio Cazadores",
+          "eur": 1232.13,
+          "entidad": "Constu Archena, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "313410R, 65557C, 137606W",
+      "lugar": "Calle Jabonería, calle Numancia, barrio de La Alameda, edificio Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Vivienda aislada en Fuente de la Negra: cambio de proyecto e inicio de obras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a modificar el proyecto de una vivienda unifamiliar aislada con licencia de 2018 (más pequeña y sin piscina) y a empezar las obras.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "116400R",
+      "lugar": "Paraje Fuente de la Negra",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cambio de constructora de una nave agrícola en Cerrico de la Fuente",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de empresa constructora en la licencia de una nave agrícola concedida a un particular en junio. El nombre de la nueva empresa no se lee en el texto.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "368886R",
+      "lugar": "Paraje Cerrico de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para construir una vivienda unifamiliar entre medianeras en el casco urbano, con una fianza de 120 euros para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474288J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para cambio de uso y rehabilitación de un edificio en la avenida de Córdoba",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para cambiar el uso y rehabilitar un edificio en la avenida de Córdoba, con una fianza de 865 euros para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475443N",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para derribar una vivienda en la calle Juan Ortuño",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler una vivienda entre medianeras, con fianzas de 230,72 euros (urbanización) y 175,51 euros (cables de alumbrado y mobiliario), desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476513Z",
+      "lugar": "Calle Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Licencia para una vivienda aislada en Las Cabezuelas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico, sin permiso aún para empezar) para construir una vivienda unifamiliar aislada en el paraje Las Cabezuelas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476899K",
+      "lugar": "Paraje Las Cabezuelas",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Fama Sofás construye una nave industrial en suelo no urbanizable (Las Teresas)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Fama Sofás, S.L.U. licencia para construir una nave industrial en suelo no urbanizable en el paraje Las Artesillas/Las Teresas, con autorización previa de la Dirección General de Territorio y Arquitectura de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        },
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477356W",
+      "lugar": "Paraje Las Artesillas / Las Teresas (suelo no urbanizable)",
+      "interes": 3
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para cuatro naves de derivados de la madera en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (proyecto básico) para cuatro naves industriales de almacenamiento y producción de derivados de la madera en el paraje Las Teresas, con autorización autonómica previa.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        },
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477932W",
+      "lugar": "Paraje Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Nueva calle 'Sor Concepción' entre la avenida de Córdoba y la calle Perales",
+      "categoria": "organizacion",
+      "resumen": "A petición de la Unidad de Actuación Zona 6, se da el nombre de 'Calle de Sor Concepción' a la nueva calle entre la calle Perales y la avenida de Córdoba, en reconocimiento a su labor en el Asilo de Ancianos y dentro del acuerdo de poner nombres de mujeres a calles.",
+      "entidades": [
+        {
+          "nombre": "Unidad de Actuación Zona 6 del Suelo Urbano de Yecla",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "117374W",
+      "lugar": "Entre calle Perales y avenida de Córdoba",
+      "interes": 2
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Un edificio sale del censo de inspección técnica de 2020",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima la reclamación de un particular: su edificio se construyó en 1979, no antes, así que queda fuera del censo de edificios que deben pasar el informe de evaluación en 2020 (entrará en 2034). Se pide al Catastro corregir el año de construcción.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "reclama"
+        },
+        {
+          "nombre": "Oficina del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe corregir datos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "478019Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Excedencia de una técnica de Educación Infantil por cuidado de hijo",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil excedencia por cuidado de hijo menor de tres años desde el 3 de octubre de 2020 hasta mayo de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480819E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Vuelta al trabajo de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se toma nota de que una técnica de Educación Infantil en excedencia vuelve a su puesto el 13 de octubre, con jornada de 3,5 horas diarias.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "480883T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Centro de Día para mayores dependientes: Alma Ata Salud, la mejor oferta",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de las tres ofertas del contrato del Centro de Día para personas mayores dependientes, encabezada por Alma Ata Salud, S.L. (51,83 puntos), y se le pide la documentación previa a la adjudicación y una garantía definitiva del 5% del precio de dos años.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Carpa de Cruz Roja Juventud sobre el coronavirus en la plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Juventud de Yecla a poner una carpa el 26 de septiembre en la plaza de San Cayetano para concienciar a los jóvenes sobre el peligro del coronavirus.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Juventud, Asamblea Local de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481062R",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Zona de carga y descarga para una farmacia en la calle Juan Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una zona de carga y descarga en la calle Juan Ortuño, a petición del titular de una farmacia, para el reparto de medicamentos, en horario de mañana y tarde y en distinta fachada según la época del año.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479144D",
+      "lugar": "Calle Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Plaza de aparcamiento para discapacitados en la calle Maestro Mora",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla, se habilita una plaza reservada para personas con discapacidad en la calle Maestro Mora.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480317H",
+      "lugar": "Calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Sala del Edificio Bioclimático para las reuniones del Grupo Scout",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de una sala del Edificio Bioclimático para las reuniones de un grupo scout durante el curso 2020/2021, a petición de una particular.",
+      "entidades": [
+        {
+          "nombre": "Grupo Scout",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480050M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Cuatro salas del Edificio Bioclimático para clases del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES José Luis Castillo Puche a usar cuatro salas del Edificio Bioclimático por las mañanas durante el curso 2020/2021 para el ciclo superior de Enseñanza y Animación Sociodeportiva.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476657Z",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Plan de seguridad de la obra del colector de saneamiento de la calle Juan XXIII",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de sustitución del colector de saneamiento de la calle Juan XXIII (entre calle Lepanto y avenida de la Paz), elaborado por la adjudicataria Maza Construcciones y Contratas, S.L.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455391N",
+      "lugar": "Calle Juan XXIII, entre calle Lepanto y avenida de la Paz",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas de 7.102,85 € a familias vulnerables (remanente de 2018)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas económicas a familias en situación de vulnerabilidad para cubrir necesidades básicas, por un total de 7.102,85 euros, con el remanente de una subvención de 2018 de apoyo a familia e infancia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 7102.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481235H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayudas de 23.253,08 € para pagar luz, gas y agua y comprar electrodomésticos eficientes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas a personas y familias para pagar los suministros de luz, gas y agua de su vivienda y comprar electrodomésticos que ahorren energía y agua, por un total de 23.253,08 euros (Orden de concesión de 2020).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 23253.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480914M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Subvenciones de 10.800 € a fiestas populares 2020",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden subvenciones para promocionar fiestas populares: Corte de Honor de la Purísima Concepción 4.500 euros, Asociación Yeclana Amigos de San Antón 3.000, Asociación Caballeros Santísimo Cristo del Sepulcro 1.800 y la Mayordomía de San Blas (a nombre de una particular) 1.500.",
+      "entidades": [
+        {
+          "nombre": "Corte de Honor de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación Yeclana Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación Caballeros Santísimo Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Mayordomía de San Blas (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10800.0,
+      "importes": [
+        {
+          "concepto": "Promoción de fiestas populares 2020",
+          "eur": 4500.0,
+          "entidad": "Corte de Honor de la Purísima Concepción"
+        },
+        {
+          "concepto": "Promoción de fiestas populares 2020",
+          "eur": 3000.0,
+          "entidad": "Asociación Yeclana Amigos de San Antón"
+        },
+        {
+          "concepto": "Promoción de fiestas populares 2020",
+          "eur": 1800.0,
+          "entidad": "Asociación Caballeros Santísimo Cristo del Sepulcro"
+        },
+        {
+          "concepto": "Promoción de fiestas populares 2020 (Mayordomía de San Blas)",
+          "eur": 1500.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "451469Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "El Ayuntamiento paga 7.006 € por la sentencia de los tres aerogeneradores",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de una sentencia de la Audiencia Provincial de Murcia, que reconoce a dos particulares la propiedad del terreno donde están tres aerogeneradores, el Ayuntamiento consigna en el juzgado 7.006,28 euros: lo cobrado por esos molinos desde la primera sentencia (6.699,23) más intereses (307,50). Las particulares han recurrido además en casación.",
+      "entidades": [
+        {
+          "nombre": "Audiencia Provincial de Murcia, Sección 1ª",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de 1ª Instancia e Instrucción nº 1 de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe la consignación"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7006.28,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "207137O, 476288M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Protocolo COVID para las bodas civiles en el Ayuntamiento",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el protocolo de higiene, prevención y aforo frente al COVID para celebrar bodas civiles en los salones de la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481363K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Excedencia de una monitora socorrista para trabajar en el Servicio Murciano de Salud",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria a una monitora socorrista municipal desde el 22 de septiembre porque pasa a trabajar en el Servicio Murciano de Salud.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nuevo empleador"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481704",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Expediente de penalización a la constructora del edificio educativo de La Alameda",
+      "categoria": "contrato",
+      "resumen": "Se declara que Avance y Desarrollo de Obras, S.L. incumple el contrato del edificio educativo polivalente de La Alameda: lleva unos 220 días de retraso (penalidad prevista de 130,74 euros al día) y no ha justificado la contratación de un desempleado exigida. Se abre expediente de penalidades en lugar de rescindir el contrato porque quedan unas cuatro semanas de obra.",
+      "entidades": [
+        {
+          "nombre": "Avance y Desarrollo de Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481708P",
+      "lugar": "Barrio de La Alameda",
+      "interes": 3
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Protocolos COVID del pabellón José Ortega Chumilla y del complejo Juan Palao",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los protocolos de prácticas responsables y los planes de contingencia frente al COVID del Pabellón José Ortega Chumilla y del Complejo Polideportivo 'Concejal Juan Palao Azorín'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481440R",
+      "lugar": "Pabellón José Ortega Chumilla y Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Partido amistoso sin público Yeclano Deportivo - Hércules C.F.",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Yeclano Deportivo, con colaboración municipal, a jugar a puerta cerrada un amistoso contra el Hércules C.F. el 26 de septiembre en el campo 'La Constitución', con entrada de medios de comunicación, y se le cede el campo para entrenar y competir según el convenio aprobado por el Pleno en julio.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso y recibe colaboración"
+        },
+        {
+          "nombre": "Hércules C.F.",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "equipo rival"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480734M",
+      "lugar": "Campo Municipal de Deportes La Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Entrenamientos del juvenil de Liga Nacional de la S.D. Fútbol Base",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza, de forma provisional y con los protocolos COVID, a la Sociedad Deportiva Fútbol Base (equipo de Liga Nacional Juvenil) a empezar los entrenamientos de la temporada 2020-2021 en las instalaciones deportivas municipales. La cesión gratuita de las instalaciones queda pendiente de la convocatoria de reservas de la temporada; si no se aprueba, el club pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481314R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Entrenamientos del fútbol sala femenino de la S.D. Hispania en el pabellón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza, de forma provisional y con los protocolos COVID, a la Sociedad Deportiva Hispania (equipo de Segunda División Nacional Femenina de fútbol sala) a empezar los entrenamientos de la temporada 2020-2021 en el Pabellón José Ortega Chumilla. La cesión gratuita de las instalaciones queda pendiente de la convocatoria de reservas de la temporada; si no se aprueba, el club pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Hispania",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481073H",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Entrenamientos del fútbol sala de la A.D. Albatros en el pabellón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza, de forma provisional y con los protocolos COVID, a la Asociación Deportiva Albatros Yecla (equipo de Tercera División de fútbol sala) a empezar los entrenamientos de la temporada 2020-2021 en el Pabellón José Ortega Chumilla. La cesión gratuita de las instalaciones queda pendiente de la convocatoria de reservas de la temporada; si no se aprueba, el club pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480994Y",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Boda civil en el Salón de Sesiones (26 de septiembre, 11:45)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial, con un máximo de 30 personas y el protocolo COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481084",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Boda civil en el Salón de Sesiones (26 de septiembre, 13:30)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial, con un máximo de 30 personas y el protocolo COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481085Z",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

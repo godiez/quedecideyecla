@@ -1,0 +1,628 @@
+{
+  "doc": "2023-01-17_JGL_04",
+  "organo": "JGL",
+  "sesion": 4,
+  "fecha": "2023-01-17",
+  "tipo_sesion": "ordinaria",
+  "paginas": 24,
+  "resumen": "La Junta de Gobierno saca a licitación la organización del Carnaval 2023 (61.589 euros en cinco lotes), convalida el contrato del comedor de las escuelas infantiles (13.200 euros) y aprueba los programas de las fiestas de San Antón y San Blas. Convoca los concursos para cubrir las plazas de Secretaría, Intervención y Tesorería. Toma razón del padrón del agua (257.249 euros) y aprueba el de la basura del primer trimestre (362.099 euros), deniega a un supermercado cambiar el tráfico de la calle San Nicolás y traslada a la Comunidad Autónoma las quejas de vecinos contra la batida de muflones en el Monte Arabí.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 10 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: cursos del SEF y dinero encontrado en la calle",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos resoluciones del Servicio Regional de Empleo y Formación: la liquidación, con pérdida parcial del derecho al cobro, de la subvención de un curso de competencias clave de 2019, y la concesión y pago de la del curso de Inglés B2 de 2022. También de un informe de la Policía Local sobre la entrega de dinero encontrado en la vía pública en 2020. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "717260W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago del autobús urbano de diciembre de 2022",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a la concesionaria el servicio de autobuses urbanos de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26138.87,
+      "importes": [
+        {
+          "concepto": "Servicio de autobuses urbanos, diciembre de 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551537Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2-3.5",
+      "titulo": "Recaudación de taquilla de cuatro espectáculos del Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla y se dan de baja las entradas no vendidas de 'La casita de chocolate', el Concierto Extraordinario de Año Nuevo, 'Las aventuras de Billie Green' (Boing Planet) y 'Campeones de la comedia'. En total se ingresan 6.939 euros en taquilla.",
+      "entidades": [
+        {
+          "nombre": "Teatro Concha Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "ingresa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6939.0,
+      "importes": [
+        {
+          "concepto": "Taquilla 'La casita de chocolate' (17/12/2022); baja 1.026 €",
+          "eur": 2532.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla 'Concierto Extraordinario y Año Nuevo' (30/12/2022); baja 4.010,40 €",
+          "eur": 2259.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla 'Las aventuras de Billie Green' (23/12/2022); baja 3.030 €",
+          "eur": 528.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Taquilla 'Campeones de la comedia' (3/01/2023); baja 1.938 €",
+          "eur": 1620.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia para segregar una finca agrícola en el Paraje Magán",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una particular licencia para segregar 20.700 m² de una finca de 26.456 m² en suelo no urbanizable; el resto, de 5.756 m², conserva el almacén existente.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "653185C",
+      "lugar": "Paraje Magán (suelo no urbanizable)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1-5.3",
+      "titulo": "Concursos para cubrir las plazas de Secretaría, Intervención y Tesorería",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso ordinario de méritos de 2023 para cubrir de forma definitiva los tres puestos vacantes de habilitación nacional: Secretaría, Intervención y Tesorería. Se enviarán a la Comunidad Autónoma para su publicación en el BORM.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717883K, 717874Y, 717857Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Permiso a AYAC para hacer taichí en el jardín de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de afectados por el cáncer a hacer taichí en el jardín de la Avenida de la Feria varios días a la semana de noviembre de 2022 a julio de 2023, sin reserva de espacio.",
+      "entidades": [
+        {
+          "nombre": "AYAC (Asociación de Yecla de Afectados por el Cáncer)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700726F",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.1-7.3",
+      "titulo": "Tres bodas civiles en el Ayuntamiento y en el Auditorio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a tres parejas a celebrar su boda civil: dos en el Salón de Sesiones de la Casa Consistorial y una en el Auditorio Municipal 'Juan Miguel Benedito', esta última previo pago de 120 euros de precio público.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717656W, 712620A, 649416R",
+      "lugar": "Casa Consistorial; Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Red Deportiva Yecla usa el salón del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Red Deportiva Yecla a usar el salón de actos del Edificio Bioclimático para una reunión de padres del equipo de baloncesto infantil.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718826W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Proyecto 'Entrelazados' de jóvenes con diversidad funcional 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Juventud organizará en 2023 el proyecto 'Entrelazados' (320 horas) para integrar a niños y jóvenes con diversidad funcional en sus actividades con ayuda de voluntarios. Presupuesto de 5.920 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5920.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715198F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa y presupuesto de las Fiestas de San Antón 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de San Antón (15, 20, 21 y 22 de enero) con un presupuesto de 4.719,10 euros: hoguera junto a la antigua estación, vueltas y bendición de animales en la iglesia de Los Dolores ('Hospitalico') y procesión, con cortes de tráfico.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4719.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717137Z",
+      "lugar": "Iglesia de Los Dolores; solar junto a la antigua estación de ferrocarril",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Programa y presupuesto de las Fiestas de San Blas 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las fiestas de San Blas (3, 4 y 5 de febrero) con un presupuesto de 3.569,50 euros y la asistencia de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3569.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718257E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un particular la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2024.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718672E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago del boato de la Cabalgata de Reyes y la orquesta de Fin de Año",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el boato 'Estrella de Oriente' y los caballos LED de la Cabalgata de Reyes 2023 y la actuación de la Orquesta Diesis en el concierto de Fin de Año 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diesis Formación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 17061.0,
+      "importes": [
+        {
+          "concepto": "Boato 'Estrella de Oriente' y caballos LED, Cabalgata de Reyes 2023",
+          "eur": 6776.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Actuación de la Orquesta Diesis, concierto de Fin de Año 2022",
+          "eur": 10285.0,
+          "entidad": "Diesis Formación, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "712788J, 703624F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Padrones del agua (4º trimestre 2022) y de la basura (1er trimestre 2023)",
+      "categoria": "fiscal",
+      "resumen": "Se toma razón del padrón del agua del cuarto trimestre de 2022 (257.248,61 euros), se liquida a favor del Ayuntamiento el canon (38.345,19 euros), Aqualia recaudará 223.070,58 euros de canon de saneamiento para la Comunidad Autónoma y se aprueba el padrón de la basura del primer trimestre de 2023 (362.099,40 euros). Se anulan recibos de basura antiguos por 1.006,80 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 619348.01,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria del agua potable, 4º trimestre 2022",
+          "eur": 257248.61,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon a favor del Ayuntamiento, 4º trimestre 2022",
+          "eur": 38345.19,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar por cuenta de la CARM",
+          "eur": 223070.58,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        },
+        {
+          "concepto": "Lista cobratoria de la tasa de basura, 1er trimestre 2023",
+          "eur": 362099.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación de recibos de basura de 2021 y 2022",
+          "eur": -1006.8,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719004R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Rebaja del IBI por placas solares en el Paraje El Lentiscar",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50% del IBI de 2023 a 2027 (máximo 100 euros al año) por instalar placas solares de autoconsumo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719844J",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un particular la bonificación del IBI por placas solares porque la instalación costó 3.137,77 euros, por debajo de la inversión mínima de 6.000 euros que exige la ordenanza.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "719904R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Una educadora social acude a una reunión con el Centro Especial de Empleo Jero Avanza",
+      "categoria": "personal",
+      "resumen": "Se ordena a una educadora social de Servicios Sociales asistir a una reunión con el Centro Especial de Empleo Jero Avanza, que contrata a personas con discapacidad, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Centro Especial de Empleo Jero Avanza",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719719K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Licitación de la organización de las Fiestas de Carnaval 2023 (cinco lotes)",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado abreviado) de la infraestructura y producción del Carnaval 2023 en cinco lotes: producción de espectáculos y desfiles, acomodación y limpieza, vallado, alumbrado ornamental y carpa en la Plaza de San Cayetano. Gasto máximo de 61.589 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 61589.0,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades, espectáculos y desfiles",
+          "eur": 31460.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: acomodación, taquilla, control y limpieza",
+          "eur": 4235.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: alquiler e instalación de vallado",
+          "eur": 2662.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: alumbrado extraordinario ornamental",
+          "eur": 16577.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: carpa en la Plaza de San Cayetano",
+          "eur": 6655.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719683K",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 3
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Convalidado el contrato del comedor de las escuelas infantiles (enero-marzo)",
+      "categoria": "contrato",
+      "resumen": "Se convalida la adjudicación del comedor de las escuelas infantiles de enero a marzo de 2023 a AMG Servicios Integrados por 13.200 euros, porque la directora la había aprobado por resolución sin ser el órgano competente.",
+      "entidades": [
+        {
+          "nombre": "AMG Servicios Integrados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "708587Z",
+      "lugar": "Escuelas infantiles municipales",
+      "interes": 2
+    },
+    {
+      "ref": "12.8",
+      "titulo": "El Club de Gimnasia Rítmica Yecla usa el salón del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del salón de actos del Edificio Bioclimático para la asamblea general de socios del 26 de enero (la solicitud es del Club de Gimnasia Rítmica, aunque el acuerdo nombra a Red Deportiva Yecla).",
+      "entidades": [
+        {
+          "nombre": "Club de Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "720079K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Denegado al supermercado UVEN cambiar el tráfico de la calle San Nicolás",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la empresa titular del supermercado UVEN reordenar el tráfico de la calle San Nicolás para que entren sus camiones de mercancías; se le indica un recorrido alternativo (Abad José Sola, La Unión, Mazarrón, San Vicente y San Nicolás) que señalizará la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Salvador Rubio Sanjuán, S.L. (supermercado UVEN)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "709313H",
+      "lugar": "Calle San Nicolás",
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Prácticas de máster en el Centro de Atención a Víctimas de Violencia de Género",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una estudiante de la Universidad Internacional de Valencia a hacer 100 horas de prácticas no remuneradas en el CAVI entre febrero y junio de 2023.",
+      "entidades": [
+        {
+          "nombre": "Universidad Internacional de Valencia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687372J",
+      "lugar": "CAVI",
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Quejas vecinales contra la batida de muflones en el Monte Arabí",
+      "categoria": "medio_ambiente",
+      "resumen": "En octubre de 2022 el Ayuntamiento pidió a la Comunidad Autónoma controlar los muflones que dañan almendros y viñas junto al Monte Arabí. Dos vecinos se oponen a la batida por dañar a los animales y al Monte Arabí, monumento natural; sus escritos se remiten a la Dirección General de Medio Natural para que los tenga en cuenta.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide"
+        },
+        {
+          "nombre": "Bodegas Castaño, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitó el control de muflones (acuerdo anterior)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716476F",
+      "lugar": "Monte Arabí",
+      "interes": 3
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Plan de seguridad de la reurbanización de la calle San Antonio",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de reurbanización de la calle San Antonio (entre San Francisco y Don Lucio), presentado por la constructora adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "654214F",
+      "lugar": "Calle San Antonio (entre calle San Francisco y calle Don Lucio)",
+      "interes": 1
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

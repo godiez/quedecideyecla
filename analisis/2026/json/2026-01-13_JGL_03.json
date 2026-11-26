@@ -1,0 +1,555 @@
+{
+  "doc": "2026-01-13_JGL_03",
+  "organo": "JGL",
+  "sesion": 3,
+  "fecha": "2026-01-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno aprobó sacar a licitación la restauración del castillo (Hisn Yakka), fase 1, por algo más de 1 millón de euros con fondos europeos. También pagó unos 150.000 euros en facturas de servicios municipales (instalaciones deportivas, autobús urbano, Plan Corresponsables, Cabalgata de Reyes) y certificaciones de obra de la Iglesia de la Asunción y del Cerro del Castillo. Resolvió los recursos de varias aspirantes en las oposiciones de Trabajador/a Social, con lo que cambia el orden de la bolsa de empleo, y aprobó las fiestas de San Antón (4.840 euros).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de actas anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 30 de diciembre de 2025 y del 7 y 9 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aviso de la resolución regional de ayudas a Programas Experienciales de empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución del Servicio Regional de Empleo y Formación (SEF) que concede subvenciones a entidades locales para Programas Experienciales para personas en paro, ejercicio 2025.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1209609N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas de diciembre: deportes, autobús urbano, Corresponsables, Reyes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cinco pagos a empresas: mantenimiento y limpieza de instalaciones deportivas, autobús urbano, Plan Corresponsables, soporte del programa de contabilidad y el pasacalles de la Cabalgata de Reyes 2026.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Spai Innova Astigitas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vértigo Producciones & Management, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 151798.11,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas municipales, diciembre 2025",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, diciembre 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables, diciembre 2025",
+          "eur": 20605.28,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Soporte y mantenimiento de la aplicación informática SPAI Sical, octubre-diciembre 2025",
+          "eur": 8433.93,
+          "entidad": "Spai Innova Astigitas, S.L.U."
+        },
+        {
+          "concepto": "Pasacalles Super Mario Bros y Monstruos SA, Cabalgata de Reyes 2026 (contrato menor)",
+          "eur": 18137.9,
+          "entidad": "Vértigo Producciones & Management, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 841943Q, 941685X, 1149861E, 1201449E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 3 de la rehabilitación de la Iglesia de la Asunción",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la tercera certificación de la obra que convierte la Iglesia de la Asunción en centro de visitantes y mejora la accesibilidad del entorno, pagada con fondos turísticos regionales (ITREM) y europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 42698.13,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093901H",
+      "lugar": "Iglesia de la Asunción",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar a construir una nave textil en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a 40 Grados Lencería S.L. a iniciar las obras de una nave industrial para venta de productos textiles, con licencia concedida en diciembre y autorización excepcional de la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "40 Grados Lencería S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1091614F",
+      "lugar": "Ctra. Yecla-Villena, polígono 47",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para construir una vivienda unifamiliar aislada en el campo, con fosa séptica y condiciones de vertidos y agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1155386D",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Inicio de obras de vivienda aislada con piscina en Umbría la Pava",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar la construcción de una vivienda unifamiliar aislada con piscina, con licencia concedida en octubre de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988703Z",
+      "lugar": "paraje Umbría la Pava",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Segregación de una finca agrícola en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a un particular dividir una finca de unas 2,5 hectáreas de almendros y regadío, separando una parcela de 5.208 m²; cumple la unidad mínima de cultivo. La finca la cruza un camino público.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1105997H",
+      "lugar": "junto al Camino Viejo de Almansa",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición de 2 peones-operarios para la Policía Local: admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 43 aspirantes admitidos, se nombra el tribunal y se fija la valoración de méritos el 10 de marzo y el examen tipo test el 12 de marzo de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084964W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Oposición de Técnico Superior de Atención Temprana: admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Para una plaza de funcionario (A1) en el Centro de Desarrollo Infantil y Atención Temprana: 17 admitidos y 2 excluidos (fuera de plazo); tribunal nombrado; méritos el 28 de abril y examen el 7 de mayo de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037112J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Recursos en la oposición de Trabajador/a Social: se rehace la bolsa de empleo",
+      "categoria": "reclamaciones",
+      "resumen": "Se resuelven seis recursos de alzada de aspirantes: dos desestimados, dos estimados y dos estimados en parte. Cambian varias notas y el orden de la bolsa de empleo (vigente hasta 2031), aunque las dos plazas fijas ya adjudicadas no varían.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "930221Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Contratación temporal de un Ordenanza-Telefonista por jubilación",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un ordenanza-telefonista para cubrir la plaza que queda libre por jubilación, hasta que se cubra por oposición (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209743Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contratación de un Oficial 1ª de Albañilería para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un oficial de albañilería durante 6 meses por acumulación de trabajo en la Brigada de Obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209969N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Reducción de jornada de una técnica municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica municipal una reducción de jornada sin sueldo del 32,17 % para cuidado de un familiar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1176363N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Segunda actividad por embarazo para una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Una agente pasa a tareas de oficina y atención al público por embarazo, manteniendo su sueldo y con uniforme adaptado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209682P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Respuesta a una consulta sobre la bolsa subsidiaria de Auxiliar Administrativo",
+      "categoria": "personal",
+      "resumen": "Se aprueba el informe que responde a una particular cómo se creó la bolsa subsidiaria de auxiliar administrativo y cómo se hacen los llamamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1182537N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Visita guiada al Teatro Concha Segura y a la Capilla de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una guía turística oficial a hacer una visita al teatro y a la capilla de la Virgen de las Angustias (Iglesia de San Francisco) el 17 de enero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210057K",
+      "lugar": "Teatro Concha Segura; Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Fundación Aladina usa el Teatro Concha Segura para una gala benéfica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el teatro el 25 de enero a la Fundación Aladina para una gala a favor de un gimnasio para niños con cáncer en La Arrixaca, previo pago del precio público de 1.800 euros.",
+      "entidades": [
+        {
+          "nombre": "Fundación Aladina",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [
+        {
+          "concepto": "Precio público por uso del Teatro Concha Segura (lo paga la fundación)",
+          "eur": 1800.0,
+          "entidad": "Fundación Aladina"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208176Y",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Programa y presupuesto de las Fiestas de San Antón 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las fiestas del 11 al 18 de enero con 4.840 euros de gasto: hoguera el 16 junto a la antigua estación, vueltas y bendición de animales el 17 y pasacalles el 18, con cortes de tráfico. La Asociación de Amigos de San Antón limpia los excrementos de los caballos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4840.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208440P",
+      "lugar": "Iglesia de Los Dolores (Hospitalico); antigua estación de ferrocarril; recorrido desde la Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Plan de seguridad de las obras del edificio de Cazadores (plataforma elevadora)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba un anexo al plan de seguridad y salud de la obra que rehabilita el edificio de Cazadores como centro de ocio, cultura y promoción económica, financiada con fondos europeos (PIREP).",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores (Citanias Obras y Servicios, S.L.U. - Industria y Montajes Eléctricos, S.A.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Certificaciones 1 y 2 de los senderos del Cerro del Castillo",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban dos certificaciones de la obra de acondicionamiento de recorridos en el monte público Cerro del Castillo, con fondos turísticos regionales y europeos.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6996.27,
+      "importes": [
+        {
+          "concepto": "Certificación nº 1",
+          "eur": 93.36,
+          "entidad": "Ingeniería Ortín, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2",
+          "eur": 6902.91,
+          "entidad": "Ingeniería Ortín, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081479E",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Sustitución de una técnica de Educación Infantil en la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una técnica de educación infantil (30 horas semanales) para cubrir una baja por accidente laboral, como máximo hasta final del curso 2025/2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210130M",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Sustitución del conserje del CEIP El Alba",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un conserje-operario para el colegio El Alba mientras dure la ausencia del titular.",
+      "entidades": [
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210945T",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Se licita la restauración del castillo (Hisn Yakka), fase 1, por 1,04 millones",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre la licitación (procedimiento abierto simplificado) de las obras 'El Renacer de Yakka' para conservar y restaurar el castillo, con fondos europeos Next Generation gestionados por la Secretaría de Estado de Turismo. Rocamora Diseño y Arquitectura, S.L., autora del proyecto, dirigirá la obra.",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta y dirige"
+        },
+        {
+          "nombre": "Secretaría de Estado de Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1036268.22,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo (Hisn Yakka), Cerro del Castillo",
+      "interes": 3
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Asociación de Peluqueras de Yecla usa la sala del Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación a usar la sala de reuniones del Centro de Emprendimiento los días 19 y 26 de enero para un curso de formación.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1209673C",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    }
+  ]
+}

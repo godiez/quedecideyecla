@@ -1,0 +1,1015 @@
+{
+  "doc": "2026-05-19_JGL_25",
+  "organo": "JGL",
+  "sesion": 25,
+  "fecha": "2026-05-19",
+  "tipo_sesion": "ordinaria",
+  "paginas": 43,
+  "resumen": "La Junta paga más de medio millón de euros en servicios de abril, sobre todo basuras y jardines a Actúa. Da por válido el uso provisional de la nave de Graphenano para fabricar baterías de grafeno en suelo no urbanizable inundable, y exige a la constructora del Mercado Central reparar fallos de climatización e incendios. Saca a concurso los servicios del Teatro y Auditorio (208.000 €), rompe el contrato con la empresa de limpieza que no pagó a sus trabajadoras y concede 225 ayudas de 110 € para libros escolares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 12 de mayo de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Cierre del programa regional de empleo público local",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución del SEF que declara cumplido y cerrado el programa 'Empleo Público Local' (contratación de personas en obras y servicios de interés social).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1289026P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, jardines, centro de día y asfaltado",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban pagos por 507889.58 €, sobre todo la recogida de basura y limpieza viaria de abril (365.314,87 €) y el mantenimiento de jardines, ambos a Actúa.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 507889.58,
+      "importes": [
+        {
+          "concepto": "Recogida de basura, recogida selectiva y limpieza viaria, abril 2026",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, abril 2026",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, abril 2026",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Asfaltado para adecuar solares en calle España",
+          "eur": 31500.0,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "712712D, 777199T, 836272P, 1187891Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Última certificación de la rehabilitación de la Casa del Guarda del Monte Arabí",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 9 y última de la obra que convierte la Casa del Guarda en centro de interpretación del Monte Arabí, pagada con fondos europeos Next Generation a través del ITREM.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22256.76,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867239Z",
+      "lugar": "Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Se corrige la fianza de un edificio de 36 viviendas",
+      "categoria": "licencia_obra",
+      "resumen": "Se rectifica un error en la licencia de un edificio de 36 viviendas con garajes: la fianza para garantizar la urbanización pasa de 66.393,63 € a 7.760,61 € (el 10 % legal de un presupuesto de urbanización de 77.606,09 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 7760.61,
+      "importes": [
+        {
+          "concepto": "Fianza anterior (errónea)",
+          "eur": 66393.63,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Fianza corregida",
+          "eur": 7760.61,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119134D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Se acepta la renuncia a una licencia de división de viviendas",
+      "categoria": "licencia_obra",
+      "resumen": "Un particular renuncia a su licencia para dividir dos viviendas porque ya tramitó la misma obra por declaración responsable; se cierra el expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1020902W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Graphenano podrá fabricar baterías de grafeno en zona inundable de suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se da por válida desde el 20/12/2025 la declaración responsable de uso provisional de Graphenano para fabricar baterías de grafeno base agua en su nave de la carretera de Villena, en suelo no urbanizable parcialmente inundable. Se le exigen medidas contra inundaciones y no le autoriza aún la actividad, que necesita permisos ambientales. La Confederación Hidrográfica del Segura nunca contestó.",
+      "entidades": [
+        {
+          "nombre": "Graphenano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1006165C",
+      "lugar": "Ctra. de Yecla a Villena, km 0,5",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nombramiento interino de un Técnico de Administración General",
+      "categoria": "personal",
+      "resumen": "Se nombra un TAG interino de la bolsa para cubrir la jefatura de Gestión Tributaria, vacante porque su titular hace de Tesorero accidental y hay mucho trabajo pendiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1285399C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nombramiento interino de un Administrativo para Estadística",
+      "categoria": "personal",
+      "resumen": "Se nombra un administrativo interino hasta 9 meses en Estadística por el aumento de habitantes y la próxima jubilación del jefe del negociado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1286084D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contratación de Auxiliar de Hogar por jubilación",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa una auxiliar de ayuda a domicilio desde el 20 de junio para sustituir a una trabajadora que se jubila (máximo 3 años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1279076W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Contratación de Auxiliar de Hogar por sustitución",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa otra auxiliar de ayuda a domicilio desde el 4 de junio por la jubilación de una trabajadora temporal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1281205C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contratación de un Peón-Operario para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se contrata un peón hasta 6 meses para la brigada y Festejos (San Isidro, Verano en Danza), porque nadie de la bolsa principal aceptó la plaza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287785Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Se extingue la antigua bolsa de Auxiliar de Biblioteca",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de 2019 para que entre en vigor la nueva bolsa de Auxiliar de Biblioteca aprobada el 12 de mayo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491211N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Curso de mediación policial para un subinspector",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un subinspector de la Policía Local a asistir a un curso de la EFIAP de 30 horas en Murcia.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública (EFIAP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1285072Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Curso de infografía 3D de accidentes para un agente",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir a una jornada formativa organizada por la Policía Local de Elda.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Elda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1286681H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Curso sobre agresores activos para una agente",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a un curso de la EFIAP de 24 horas en Beniel.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública (EFIAP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1288053N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "El director de Deportes va a un foro de deporte y turismo",
+      "categoria": "personal",
+      "resumen": "Se ordena al director del Servicio Municipal de Deportes asistir al II Foro Nacional del Deporte y el Turismo en La Nucía, con gastos pagados por el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1288207C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Se exige a la constructora arreglar fallos del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "La obra de remodelación del Mercado Central, recibida en diciembre de 2025, tiene fallos en climatización y protección contra incendios. Se da a Guerola Transfer 20 días para repararlos dentro de la garantía.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licitación de los servicios técnicos y generales del Teatro y Auditorio",
+      "categoria": "contrato",
+      "resumen": "Se abre concurso (dos lotes, dos años) para los servicios técnicos y generales de los espectáculos de Cultura en el Teatro Concha Segura y el Auditorio: 104.080,08 € al año, 208.160,16 € en total.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 208160.16,
+      "importes": [
+        {
+          "concepto": "Lote 1 Servicios Técnicos (anual)",
+          "eur": 63623.01,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2 Servicios Generales (anual)",
+          "eur": 40457.07,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2026",
+          "eur": 51366.7,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2027",
+          "eur": 104080.08,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto 2028",
+          "eur": 52713.38,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175405H",
+      "lugar": "Teatro Concha Segura y Auditorio Juan Miguel Benedito",
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Nueva solera en el patio del colegio San José de Calasanz",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para hacer 90 m² de solera de hormigón en el patio de recreo del CEIP San José de Calasanz.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8651.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1281065H",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Mantenimiento del programa informático de la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para el mantenimiento del programa de gestión policial Vinfopol.",
+      "entidades": [
+        {
+          "nombre": "Suitable Software Vinfoval, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1286077T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Fecha de recepción de las obras de los Baños Árabes de Los Torrejones",
+      "categoria": "contrato",
+      "resumen": "Terminadas las obras de la fase I del Plan Director del yacimiento de Los Torrejones (Baños Árabes), se fija su recepción el 28 de mayo de 2026.",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano para 'Picasso Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Picasso Café' en Avenida Pablo Picasso: 14 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1254253T",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de verano para el 'Bar Berlín'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del 'Bar Berlín' en calle Hernán Cortés: 20 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [
+        {
+          "nombre": "Hermanos Bar Berlín C.B.",
+          "cif": null,
+          "tipo": "comunidad_bienes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1254369E",
+      "lugar": "calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de verano para 'Café Bar Terrae'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Terrae' en calle Arcipreste Esteban Díaz: 16 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258210P",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano para 'Pizzería Piccolo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Pizzería Piccolo' en calle Forte: 15 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1259645H",
+      "lugar": "calle Forte",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de verano para 'Arrocería Brandy'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Arrocería Brandy' en Avenida Pablo Picasso: 18 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1260646Y",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza de verano para 'Bar San Marco'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar San Marco' en calle Trinquete: 30 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261587E",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza de verano para 'Hamburguesería Yakk and Grill'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Hamburguesería Yakk and Grill' en calle Maestro Mora: 16 m² del 1 de abril al 31 de octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1263539Q",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Unidad móvil de formación digital en la Estación de Autobuses",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Fundación Integra Digital (CARM) a instalar del 8 al 12 de junio una unidad móvil de la campaña 'Applícate' de competencias digitales básicas, financiada con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Fundación Integra Digital (CARM)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Silman 97, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1280596F",
+      "lugar": "Estación de Autobuses, Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil (10 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1150357T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Salón de Plenos para una boda civil (18 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1286938P",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (30 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Sesiones de la 3ª planta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287026M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para un taller de CERMI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 12 de junio para un taller del proyecto ÚNICAS.",
+      "entidades": [
+        {
+          "nombre": "CERMI Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283970R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón del Edificio Bioclimático para renovar pasaportes paraguayos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 13 de junio para que la embajada de Paraguay tramite pasaportes a los paraguayos residentes en Yecla.",
+      "entidades": [
+        {
+          "nombre": "Asociación Paraguaya en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287979K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Jornada de convivencia del AMPA en el colegio Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA a usar las instalaciones exteriores del colegio el 25 de mayo, a su cargo y responsabilidad.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287637K",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Visita del Colectivo Amatista al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza el 5 de julio para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Amatista Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283428P",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas de 110 € para libros y material escolar (curso 2024/25)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 225 ayudas de 110 € para libros y material escolar a familias con pocos recursos y se deniegan 150 (la mayoría por ser incompatibles con becas de la CARM o del Ministerio, o por superar la renta).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 24750.0,
+      "importes": [
+        {
+          "concepto": "225 ayudas x 110 €",
+          "eur": 24750.0,
+          "entidad": "particulares"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1182809Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Proyecto de inserción laboral para personas en riesgo de exclusión 2026",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el proyecto de Servicios Sociales para ayudar a encontrar trabajo a personas en riesgo de exclusión, con 43.496,44 € de presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 43496.44,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287256F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Fiestas de San Isidro en Raspay",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las fiestas del 23 de mayo en Raspay, con un gasto de 5.004,39 €, y una inscripción de 15 € para el festival de paellas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5004.39,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1285969T",
+      "lugar": "Raspay",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "V Festival Internacional de Música de Cámara 'Juan Oliver Astorga'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa del festival (26 al 29 de mayo) con un presupuesto de 21.852,50 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 21852.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1288012F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Yecla se adhiere al Pacto de las Alcaldías por el clima",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento se suma al Pacto de las Alcaldías-Europa por una Europa más justa y con neutralidad climática, promovido por la Unión Europea.",
+      "entidades": [
+        {
+          "nombre": "Unión Europea",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1288439Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Permiso de vertidos a la red para la gasolinera de Morales Puche",
+      "categoria": "licencia_actividad",
+      "resumen": "Se autoriza a Morales Puche, S.L. a verter las aguas de su estación de servicio con lavaderos al alcantarillado, con límites de contaminantes y control ambiental cada 8 años.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1278298P",
+      "lugar": "Paraje Las Teresas, polígono 46, parcela 292",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Apoyo municipal a dos campeonatos de atletismo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan dos jornadas de atletismo (24 y 30 de mayo) en la pista Juan Palao Azorín, con cesión gratuita de la instalación (851 €) y gastos municipales de 750,20 €.",
+      "entidades": [
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano (ADA Yeclano)",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1601.2,
+      "importes": [
+        {
+          "concepto": "Uso gratuito de instalaciones",
+          "eur": 851.0,
+          "entidad": "ADA Yeclano"
+        },
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 750.2,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208940J",
+      "lugar": "Pista de Atletismo Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Plan de seguridad de la obra del suelo del Centro de Día Las Teresas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa que cambiará 560 m² de suelo en el Centro de Día para mayores 'Las Teresas'.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276674J",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Contratación de una limpiadora por baja",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata de la bolsa una limpiadora para la Casa Consistorial mientras dure la baja de la titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1289713T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Se rompe el contrato con la empresa de limpieza que no pagó a sus trabajadoras",
+      "categoria": "contrato",
+      "resumen": "Urgente: se resuelve el contrato de limpieza de la Escuela de Vacaciones con TSI Levante por incumplimiento grave (no dirigió el servicio ni pagó los sueldos a las trabajadoras) y se queda con su fianza de 354,07 €. La empresa está en concurso de acreedores.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L. (TSI Levante)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Compañía de Auditoria Consejeros Auditores, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "administrador concursal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 354.07,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931170R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Propuesta de días sin colegio para el curso 2026/27",
+      "categoria": "organizacion",
+      "resumen": "Urgente: a propuesta del Consejo Escolar Municipal, se piden a la CARM como días no lectivos el 30 de marzo y el 10 y 11 de junio de 2027.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Formación Profesional (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1277271N",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

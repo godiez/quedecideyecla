@@ -1,0 +1,979 @@
+{
+  "doc": "2022-10-26_JGL_50",
+  "organo": "JGL",
+  "sesion": 50,
+  "fecha": "2022-10-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 45,
+  "resumen": "La Junta de Gobierno propone dar a Véctoris el gran contrato de mantenimiento, limpieza y atención de las instalaciones deportivas (fianza de 75.070 euros, lo que supone unos 1,5 millones en dos años) y a Épsilon la animación del Centro de Mayores Las Herratillas. Licita por 149.987 euros la renovación de la Calle del Cerro, adjudica juegos infantiles para la Plaza del Recuerdo, la pavimentación de un aparcamiento y de la zona del Teatro Concha Segura, una sobrecubierta en el Pabellón José Ortega Chumilla y los proyectos de la cubierta del Ayuntamiento y de la Casa Los Arcos. Aprueba las listas de cobro del agua (317.940 euros) y de la basura (361.456 euros), paga 95.023 euros en facturas y se suma a la candidatura de San Javier a sede de la Agencia Espacial Española.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 18 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: cambio de delegado de protección de datos y ayudas de empleo del SEF",
+      "categoria": "informacion",
+      "resumen": "La Agencia de Protección de Datos comunica la baja de Symlogic, S.L. y el alta de AJ Despacho Consultoría de Empresas, S.L. como delegado de protección de datos; el SEF envía la propuesta provisional de subvenciones del Programa Mixto Empleo-Formación 2022 (desempleados de 25 a 54 años) y la liquidación del proyecto 'Yecla T-Emplea'. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Agencia Española de Protección de Datos",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Symlogic, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "deja de ser delegado de protección de datos"
+        },
+        {
+          "nombre": "AJ Despacho Consultoría de Empresas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nuevo delegado de protección de datos"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "683513Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Mago Yunke, 15 pistolas para la Policía, césped y bomba de aguas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: la actuación del Mago Yunke en el Teatro Concha Segura, la reparación del motor de un Nissan Navara de Agricultura, 15 pistolas 9 mm con portacargadores para la Policía Local, labores extraordinarias del césped del Complejo Juan Palao y una bomba sumergible de aguas residuales.",
+      "entidades": [
+        {
+          "nombre": "Fama y Medio, A.I.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Uniformidad y Suministros de Protección, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Altiplano Comercial del Instalador, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 46397.32,
+      "importes": [
+        {
+          "concepto": "Actuación del Mago Yunke en el Teatro Concha Segura",
+          "eur": 8954.0,
+          "entidad": "Fama y Medio, A.I.E."
+        },
+        {
+          "concepto": "Reparación del motor del Nissan Navara del Servicio de Agricultura",
+          "eur": 10010.78,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Material policial: 15 pistolas 9x19 mm y 15 portacargadores",
+          "eur": 9897.8,
+          "entidad": "Uniformidad y Suministros de Protección, S.L."
+        },
+        {
+          "concepto": "Labores extraordinarias del césped natural del Complejo Deportivo Juan Palao",
+          "eur": 9439.84,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Bomba sumergible para aguas residuales",
+          "eur": 8094.9,
+          "entidad": "Altiplano Comercial del Instalador, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "676938R, 650907N, 670082W, 672128M, 663131Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recibos del agua (3er trimestre) y de la basura (4º trimestre) de 2022",
+      "categoria": "fiscal",
+      "resumen": "Se toma razón de la lista de cobro del agua potable del 3er trimestre (317.940,07 €), de la que corresponden al Ayuntamiento 48.007,35 € de canon y 239.086,29 € de canon de saneamiento para la CARM, y se aprueba la lista de la tasa de basura del 4º trimestre (361.456 €), que cobra FCC Aqualia. Se anulan recibos de basura por 111 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 679396.07,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria del agua potable, 3er trimestre 2022",
+          "eur": 317940.07,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria de la tasa de basura, 4º trimestre 2022",
+          "eur": 361456.0,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681948A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Aportación de 8.235 € al Consorcio de las Vías Verdes para la Vía Verde del Chicharra",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la aportación municipal de 2022 al Consorcio de las Vías Verdes de la Región de Murcia: 4.000 € de cuota y 4.235 € del alquiler de terrenos de ADIF, para acondicionar la Vía Verde del Chicharra que unirá con la Comunidad Valenciana.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de las Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "ADIF",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "arrienda terrenos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8235.0,
+      "importes": [
+        {
+          "concepto": "Cuota anual 2022",
+          "eur": 4000.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        },
+        {
+          "concepto": "Arrendamiento de terrenos de ADIF",
+          "eur": 4235.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "632681Z",
+      "lugar": "Vía Verde del Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Obras paradas por renuncia del director de ejecución (licencia 97/2007)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de la renuncia del director de ejecución; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684682Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Nuevo director de obra y nueva constructora (licencia 181/2007)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del nuevo director de ejecución y coordinador de seguridad, y de que Altiplano Renueva, S.L. pasa a ser la constructora.",
+      "entidades": [
+        {
+          "nombre": "Altiplano Renueva, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "680104P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Obras paradas por renuncia del director de obra (licencia 314/2021)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de la renuncia del director de ejecución y coordinador de seguridad; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516874F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para segregar dos parcelas de una finca rústica en el paraje Charquillos",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a dos vecinos segregar dos parcelas de 25.000 y 34.025 m² de una finca de entre 10,8 (Registro) y 14,2 hectáreas (Catastro) en suelo no urbanizable; las construcciones en ruina quedan en la finca resto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639147E",
+      "lugar": "paraje Charquillos",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se preparará una nueva bolsa de empleo de analistas programadores",
+      "categoria": "personal",
+      "resumen": "Como la bolsa de 2019 está agotada, se encarga redactar las bases de una nueva bolsa de analistas programadores-analistas de sistemas para nombramientos interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681923Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación temporal de un cuidador para el centro de protección animal",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF un candidato para sustituir unos dos meses (30 horas semanales) al vigilante-operario del centro de protección animal y del parque canino, que estará de baja; se da por extinguida la bolsa de vigilantes de 2010.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682382D",
+      "lugar": "Centro de protección animal",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Sustitución de una técnica de la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una persona técnica de educación infantil (20 horas semanales) para sustituir una baja, como máximo hasta final del curso 2022/23.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684211T",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Rechazado el recurso de un opositor a policía local suspendido en el examen oral",
+      "categoria": "personal",
+      "resumen": "Un aspirante con 4,63 puntos pedía otra corrección porque le dieron incompleto el guion de un tema; se desestima porque el tribunal le amplió el tiempo y la nota se puso en votación secreta según las bases.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "618342J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Servicios técnicos para el Teatro Concha Segura y el Auditorio (oct.-nov.)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de producción técnica de los espectáculos culturales de octubre y noviembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "680454A",
+      "lugar": "Teatro Concha Segura; Auditorio Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Épsilon dará el módulo de Artes Plásticas de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para organizar el módulo 'Artes Plásticas y Oficios Artísticos' de octubre a diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14687.59,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681594J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Épsilon dará el módulo de Patronaje y Moda de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para organizar el módulo 'Oficios artesanales. Patronaje y moda' de octubre a diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13921.05,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681601T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Programa de nóminas 'Ginpix Cloud Savia'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor del servicio de la aplicación de nóminas del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Soluciones Avanzadas en Informática Aplicada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14846.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681087E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Proyecto para cambiar la cubierta antigua del Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a una profesional un contrato menor para redactar el proyecto de sustitución de la cubierta antigua de la Casa Consistorial.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 9680.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683051H",
+      "lugar": "Casa Consistorial",
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Pavimentación de un solar para aparcamiento entre Juan Ortuño, Arco del Niño y Niño",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de obras para pavimentar una parcela destinada a aparcamiento.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20530.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684221H",
+      "lugar": "Calles Juan Ortuño, Arco del Niño y Niño",
+      "interes": 2
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Proyecto de rehabilitación de la Casa Los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional un contrato menor para redactar el proyecto de rehabilitación de la Casa Los Arcos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10285.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682914R",
+      "lugar": "Casa Los Arcos",
+      "interes": 2
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Corrección: cuatro empresas fueron excluidas del contrato de farolas de la Ctra. de Pinoso",
+      "categoria": "contrato",
+      "resumen": "Se corrige el acuerdo del 11 de octubre que adjudicó a Invemat Levante el alumbrado público de la carretera de Pinoso por 71.148 €: decía que no hubo empresas excluidas, pero se excluyeron cuatro por no cumplir los requisitos técnicos.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Elecnor Servicios y Proyectos, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Iluminaciones Futuras de Led, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Lumen Eléctricas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 71148.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641597H",
+      "lugar": "Carretera de Pinoso",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Fiesta 'Holywins' de la parroquia del Niño Jesús en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la fiesta infantil de Todos los Santos el 31 de octubre de 16:00 a 22:00 en el parque, su escenario y alrededores, y se prestan 200 sillas.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679112M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Salón del Edificio Bioclimático para una asamblea de COAG sobre la PAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 2 de noviembre para una asamblea informativa sobre la Política Agraria Común 2023-2027.",
+      "entidades": [
+        {
+          "nombre": "COAG Yecla (Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682677N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela infantil gratis en junio y julio para un niño por bajos ingresos",
+      "categoria": "fiscal",
+      "resumen": "Se concede una bonificación del 100% de la cuota de escuela infantil en junio y julio de 2022 (curso 2021/22) a un niño por ingresos familiares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538355Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Rebajas en las escuelas infantiles para el curso 2022/23",
+      "categoria": "fiscal",
+      "resumen": "Se conceden bonificaciones por ingresos a siete niños (del 75% al 100%, algunas con comedor y merienda), se deniega a uno por superar la renta, y se aplican rebajas del 50% por hermanos y del 15-20% por familia numerosa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674758P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Candidatura a 'Sendero Azul' para Las Pasarelas del Yecla Valora",
+      "categoria": "medio_ambiente",
+      "resumen": "Se presenta la candidatura del sendero al galardón Bandera Sendero Azul de ADEAC; el Ayuntamiento se compromete a mantenerlo y a hacer al menos una actividad de educación ambiental.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Educación Ambiental y del Consumidor (ADEAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "concede galardón"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684179Z",
+      "lugar": "Sendero de Las Pasarelas del Yecla Valora",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Curso de monitor de ocio y tiempo libre (180 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Juventud organiza de noviembre a marzo un curso básico de monitor de ocio y tiempo libre con un presupuesto de 6.550 €; la inscripción cuesta 180 €, con 20% de descuento para Garantía Juvenil y socios de asociaciones juveniles.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6550.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683902P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Denegada el agua potable a una finca en el paraje Los Clérigos",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega conectar una vivienda en suelo no urbanizable a la red del camino de Los Clérigos porque la tubería es estrecha y desde 2001 no se admiten nuevas conexiones para no perjudicar a los usuarios actuales.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "670940M",
+      "lugar": "paraje Los Clérigos",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Condolencias por el fallecimiento de un exconcejal (2003-2007)",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa sus condolencias a la familia de un concejal de la Corporación entre 2003 y 2007, fallecido el 16 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684849E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Yecla apoya a San Javier como sede de la Agencia Espacial Española",
+      "categoria": "mocion_politica",
+      "resumen": "Se aprueba la adhesión a la candidatura del Ayuntamiento de San Javier para albergar la Agencia Espacial Española en la antigua terminal de su aeropuerto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de San Javier",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "candidato"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684842W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Pago a Actúa por las zonas verdes de septiembre",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la factura de limpieza, mantenimiento y conservación de zonas verdes de septiembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48626.09,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538849C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Permiso para empezar la ampliación y cambio a vivienda en el paraje La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Presentado el proyecto de ejecución, se autoriza iniciar las obras de ampliación y cambio de uso a vivienda de la licencia 335/2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "520240F",
+      "lugar": "paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Permiso para empezar las obras de una vivienda (licencia 446/2022)",
+      "categoria": "licencia_obra",
+      "resumen": "Cumplida la condición documental, se autoriza iniciar las obras de una vivienda en el casco urbano (el acta la describe a la vez como vivienda entre medianeras y como reforma y ampliación de unifamiliar con jardín y piscina).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "651105N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Anticipo de 2.939 € de sueldo a un conserje",
+      "categoria": "personal",
+      "resumen": "Se concede un anticipo de nómina de 2.939 € a devolver en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2939.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685514D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Sustitución del conserje-operario de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un conserje-operario (35,3 horas semanales) para cubrir una baja, como máximo hasta final del curso 2022/23.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685862M",
+      "lugar": "Universidad Popular",
+      "interes": 1
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Permiso sin sueldo a un peón, pero solo hasta el 22 de noviembre por las fiestas",
+      "categoria": "personal",
+      "resumen": "Se concede a un peón-operario licencia sin sueldo del 1 al 22 de noviembre y se le deniega a partir del 23, porque debe preparar la infraestructura de las fiestas patronales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "686564M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Sobrecubierta para las salas del Pabellón José Ortega Chumilla",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de obras para instalar una sobrecubierta en las salas de ejercicio polivalente del pabellón.",
+      "entidades": [
+        {
+          "nombre": "Estructuras LYM, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21598.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684920D",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Pavimentación junto al Teatro Concha Segura y el Parque de la Constitución",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de obras para pavimentar la zona anexa al teatro y al parque.",
+      "entidades": [
+        {
+          "nombre": "Tecnología de Obras del Sureste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17796.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684921E",
+      "lugar": "Teatro Concha Segura y Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Épsilon, elegida para la animación del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de la Mesa (dos ofertas) y se pide a Épsilon Servicios Educativos, S.L., la mejor con 48,06 puntos, la documentación previa y una fianza de 5.982,26 € (5% del precio de dos años) para adjudicarle la animación sociocultural del centro.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647398P",
+      "lugar": "Centro de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "16.10",
+      "titulo": "Véctoris, elegida para mantener y limpiar las instalaciones deportivas",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación de la Mesa (cuatro ofertas) y se pide a Véctoris, S.L., la mejor con 79 puntos, la documentación previa y una fianza de 75.069,99 € (5% del precio de dos años sin IVA, es decir, unos 1,5 millones de euros) para adjudicarle el mantenimiento, limpieza y atención de las instalaciones deportivas municipales.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q",
+      "lugar": "Instalaciones deportivas municipales",
+      "interes": 3
+    },
+    {
+      "ref": "16.11",
+      "titulo": "Licitación de 149.987 € para renovar la Calle del Cerro (Planes de Obras y Servicios)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado la renovación del pavimento, alcantarillado y agua potable de la Calle del Cerro, entre la calle Saliente y la travesía de San Cristóbal (POS 2022-23).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 149986.68,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677313N",
+      "lugar": "Calle del Cerro (entre calle Saliente y travesía de calle San Cristóbal)",
+      "interes": 3
+    },
+    {
+      "ref": "16.12",
+      "titulo": "Ludomáquina instalará juegos infantiles en la Plaza del Recuerdo",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro e instalación de juegos infantiles por 15.634,41 € IVA incluido; se excluyen Benito Urbana y Construcciones La Carrasca porque su parque superaba el área de seguridad.",
+      "entidades": [
+        {
+          "nombre": "Ludomáquina, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Benito Urbana, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Construcciones La Carrasca, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15634.41,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647150W",
+      "lugar": "Plaza del Recuerdo",
+      "interes": 2
+    },
+    {
+      "ref": "16.13",
+      "titulo": "Pódium sigue con la animación de Las Herratillas hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "El contrato de Pódium Gestión Integral acaba el 31 de octubre y no admite prórroga; por interés general se acuerda que siga prestando el servicio en las mismas condiciones hasta que entre en vigor el nuevo (previsto en noviembre o diciembre).",
+      "entidades": [
+        {
+          "nombre": "Pódium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525175K",
+      "lugar": "Centro de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "16.14",
+      "titulo": "XVII Concurso Literario 'Nuestra Constitución' para alumnos de ESO",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria, con 600 € en premios; los trabajos se presentan del 26 de octubre al 17 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686570W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.15",
+      "titulo": "X Concurso de Dibujo 'Nuestra Constitución' para 5º y 6º de Primaria",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria, con 225 € en premios; los trabajos se presentan del 26 de octubre al 17 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 225.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686556A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.16",
+      "titulo": "Salas del Edificio Bioclimático para el Grupo Scout de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan dos salas el 3 de noviembre para una asamblea extraordinaria de padres.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Scout de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686406R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    }
+  ]
+}

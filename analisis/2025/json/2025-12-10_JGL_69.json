@@ -1,0 +1,778 @@
+{
+  "doc": "2025-12-10_JGL_69",
+  "organo": "JGL",
+  "sesion": 69,
+  "fecha": "2025-12-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 29,
+  "resumen": "La Junta de Gobierno paga unos 500.000 euros en facturas, entre ellas una motoniveladora para caminos (114.950 euros), el Centro de Día de mayores, el autobús urbano, las luces de Navidad y el patrocinio de la película 'La Deriva'. Adjudica el derribo de un edificio en el cruce de Lepanto, Águilas y Avenida de la Paz (44.553 euros) y el Concierto de Año Nuevo. Concede licencias a una nave textil y a la ampliación de una almazara, y pide a la Confederación Hidrográfica que revise la Rambla de Tobarrillas por los pinos caídos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 2 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reintegro de ayuda de Protección Civil, anticipo del SEF y luz del Mercado",
+      "categoria": "informacion",
+      "resumen": "Se informa de cuatro resoluciones: la CARM pide reintegrar la subvención para el personal de Protección Civil; el Servicio de Empleo y Formación paga un anticipo de una subvención de formación (financiada por el SEPE); e Industria autoriza la nueva línea de media tensión y el nuevo centro de transformación que darán luz al Mercado Central. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro de subvención"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Servicio Público de Empleo Estatal (SEPE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Dirección General de Industria, Energía y Minas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1195946M",
+      "lugar": "Mercado Central",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Centro de Día, autobús urbano, luces de Navidad, película y caminos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar ocho facturas, entre ellas el Centro de Día de mayores dependientes, el autobús urbano de noviembre, el alumbrado de Fiestas de la Virgen y Navidad, el asfaltado del camino rural de la Anchura y el patrocinio publicitario del largometraje 'La Deriva' para promoción turística.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Involucra, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cirrus Films, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 176595.36,
+      "importes": [
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, noviembre 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, noviembre 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "2ª factura del primer hito del proyecto inmersivo de musicalización digital",
+          "eur": 6794.4,
+          "entidad": "particular (proveedor anonimizado)"
+        },
+        {
+          "concepto": "Instalación fotovoltaica de autoconsumo en la Escuela Infantil La Alameda",
+          "eur": 6412.09,
+          "entidad": "Redeles Eléctrica de Levante, S.L."
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen, Navidad y Reyes (Yecla y Raspay), dic. 2025-ene. 2026",
+          "eur": 31480.86,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Lavavajillas, congelador, frigorífico y depurador para el Centro de Día de Mayores",
+          "eur": 13834.23,
+          "entidad": "particular (proveedor anonimizado)"
+        },
+        {
+          "concepto": "Parcheo y asfaltado de tramos del camino rural de la Anchura",
+          "eur": 26945.3,
+          "entidad": "Involucra, S.L."
+        },
+        {
+          "concepto": "Patrocinio publicitario del largometraje 'La Deriva' para promoción turística y cultural",
+          "eur": 18029.0,
+          "entidad": "Cirrus Films, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P, 841943Q, 1080531N, 1152046P, 1153664M, 1167104D, 1168363C, 1184279H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 8 (0 €) de la Casa del Guarda del Monte Arabí",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 8, por importe de 0 euros, de la rehabilitación de la Casa del Guarda como centro de interpretación del Monte Arabí (Plan de Sostenibilidad Turística, fondos Next Generation).",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 0.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867239Z",
+      "lugar": "Monte Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 90% del ICIO por instalar un ascensor en un edificio de viviendas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una comunidad de propietarios una bonificación de hasta el 90% del impuesto de obras (ICIO) por instalar un ascensor, porque en el edificio viven dos personas con discapacidad y una mayor de 70 años.",
+      "entidades": [
+        {
+          "nombre": "particular (comunidad de propietarios)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078333K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina una bonificación del 50% del IBI (máximo 100 euros al año) de 2026 a 2030 por una instalación fotovoltaica de 4,6 kW con una inversión de 6.744 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1066378F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del Concierto extraordinario de Santa Cecilia",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de la taquilla del concierto del 30 de noviembre: 3.012 euros recaudados y 480 euros de entradas no vendidas dadas de baja.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3012.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una nave textil de 40 Grados Lencería en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia urbanística (con proyecto básico; necesita proyecto de ejecución para empezar) para construir una nave industrial de comercialización de productos textiles.",
+      "entidades": [
+        {
+          "nombre": "40 Grados Lencería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1091614F",
+      "lugar": "Ctra. Yecla-Villena, polígono 47, parcela 299",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dos viviendas entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para construir dos viviendas entre medianeras, con fianza de 769,18 euros por posibles daños en la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1102934D",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para vivienda aislada con piscina en el paraje Los Baños",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para una vivienda unifamiliar aislada con piscina, con fosa séptica estanca y condiciones de ahorro de agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1109977K",
+      "lugar": "Paraje Los Baños",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia de ampliación para Almazara Deortegas en el paraje Los Pinillos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la almazara para ampliar su edificación con 606 m² cubiertos y una nave, condicionada a la autorización autonómica y a obtener después la licencia de actividad.",
+      "entidades": [
+        {
+          "nombre": "Almazara Deortegas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126725X",
+      "lugar": "Paraje Los Pinillos, polígono 121, parcela 274",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia de demolición parcial de un edificio en la calle Aljezares",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para derribar parcialmente una edificación, con fianza de 1.304,39 euros, desratización previa, vallado del solar y plan de trabajo por posible amianto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1132863X",
+      "lugar": "Calle Aljezares",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para vivienda aislada en el paraje Casa de las Herreras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para una vivienda unifamiliar aislada, con fosa séptica estanca.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1140982Y",
+      "lugar": "Paraje Casa de las Herreras",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Derribo de un edificio en el cruce de Lepanto, Águilas y Avenida de la Paz",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor la demolición de una edificación en la intersección de las calles Lepanto, Águilas y Avenida de la Paz y el arreglo del vial.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 44553.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1161941H",
+      "lugar": "Intersección calles Lepanto, Águilas y Avenida de la Paz",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato menor: reparación de los equipos contra incendios de las instalaciones deportivas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el mantenimiento correctivo y reposición de los dispositivos contra incendios de las instalaciones deportivas municipales.",
+      "entidades": [
+        {
+          "nombre": "Bifan Ibérica de Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7123.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193853E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Concierto de Año Nuevo de la Orquesta Strauss en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se contrata el Concierto de Año Nuevo de la Orquesta Strauss del 3 de enero de 2026.",
+      "entidades": [
+        {
+          "nombre": "Festival Internacional Andrés Segovia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193592R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Montaje y desmontaje de la Casa de Papá Noel de Navidad 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el contrato menor de montaje y desmontaje de la 'Casa de Papá Noel'.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11979.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1195838M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Material didáctico y deportivo para el Plan Corresponsables",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro de material didáctico y de actividades físico-deportivas del Plan Corresponsables (conciliación familiar).",
+      "entidades": [
+        {
+          "nombre": "Ranking La Tienda del Deporte, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14450.88,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1196919N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza del Mesón La Parra en la Avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular una terraza anual de 16 m² (noviembre 2025 a octubre 2026).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1188858R",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza del Aquarium Café en la Plaza 8 de Marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza anual de 68 m² (noviembre 2025 a octubre 2026).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192797N",
+      "lugar": "Plaza 8 de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Puesto informativo de la Asociación Kapaces en el mercado de la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto el 17 de diciembre para actividades de divulgación y se le presta una carpa, una mesa y dos sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1194846J",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial el 24 de enero de 2026 para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1194789E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación Kapaces",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala de reuniones el 14 de diciembre para una actividad entre socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Vida Independiente de Personas con Diversidad Funcional (Kapaces)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1195379Z",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Se pide a la CHS revisar la Rambla de Tobarrillas por los pinos caídos",
+      "categoria": "medio_ambiente",
+      "resumen": "Tras quejas vecinales por numerosos pinos carrascos caídos en un tramo de 1 km de la Rambla de Tobarrillas, al norte del puente de la RM-426, se pide a la Confederación Hidrográfica del Segura que valore el estado del cauce preservando sus valores naturales (olmeda protegida, flora rara, aves, murciélagos y anfibios amenazados).",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura (Comisaría de Aguas)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "se le pide informe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1195202D",
+      "lugar": "Rambla de Tobarrillas, junto al puente de la RM-426",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Prórroga del convenio ECAL de intercambio electrónico de datos con la CARM",
+      "categoria": "convenio",
+      "resumen": "Se propone a la Comunidad Autónoma prorrogar el convenio de 2022 para usar la plataforma ECAL de tramitación electrónica entre administraciones, sin coste económico para el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Economía, Hacienda, Fondos Europeos y Transformación Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "parte del convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591399N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Taller de teatro ConectArte para jóvenes (II edición)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la segunda edición del taller 'ConectArte' para desarrollar habilidades sociales de los jóvenes a través de las artes escénicas, del 10 de enero al 21 de marzo de 2026, con un presupuesto de 6.800 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1196427E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Urgente: pago de facturas, entre ellas una motoniveladora de 114.950 € para caminos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: la motoniveladora para el servicio de conservación de caminos, el mantenimiento y limpieza de instalaciones deportivas de noviembre, el proyecto de restauración del castillo 'Hisn Yakka' (fondos Next Generation), 15 farolas solares, el mantenimiento de campos de césped artificial con césped de segunda mano y el Plan Corresponsables de octubre.",
+      "entidades": [
+        {
+          "nombre": "Emsa Maquinaria y Proyectos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Obras y Pavimentos Especiales, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Crealux Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 274752.32,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, noviembre 2025",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables, octubre 2025",
+          "eur": 9340.61,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Proyecto, dirección y coordinación de 'El Renacer de Yakka', restauración del Hisn Yakka (Next Generation)",
+          "eur": 42120.0,
+          "entidad": "Rocamora Diseño y Arquitectura, S.L.P."
+        },
+        {
+          "concepto": "Motoniveladora para el servicio municipal de conservación de caminos",
+          "eur": 114950.0,
+          "entidad": "Emsa Maquinaria y Proyectos, S.L."
+        },
+        {
+          "concepto": "15 farolas solares LED en diversos emplazamientos",
+          "eur": 14501.85,
+          "entidad": "Crealux Levante, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de campos de césped artificial con césped de segunda mano",
+          "eur": 18144.34,
+          "entidad": "Obras y Pavimentos Especiales, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 941685X, 1091140Y, 1115954M, 1180442D, 1182221Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Urgente: certificaciones de la calle Perales y de la Iglesia de la Asunción",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación final de la peatonalización de la calle Perales junto a San Francisco y San Roque (11.730,51 €) y la certificación nº 2 de la rehabilitación de la Iglesia de la Asunción como centro de visitantes (37.356,37 €), ambas del Plan de Sostenibilidad Turística con fondos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 49086.88,
+      "importes": [
+        {
+          "concepto": "Certificación final: peatonalización de la calle Perales",
+          "eur": 11730.51,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 2: rehabilitación de la Iglesia de la Asunción como centro de visitantes",
+          "eur": 37356.37,
+          "entidad": "Zima Desarrollos Integrales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996177E, 1093901H",
+      "lugar": "Calle Perales; Iglesia de la Asunción",
+      "interes": 2
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Urgente: prórroga de reducción de jornada a un conductor municipal",
+      "categoria": "personal",
+      "resumen": "Se prorroga seis meses la reducción de jornada de un conductor municipal para cuidar a un familiar que no puede valerse por sí mismo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697979Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Urgente: nuevo director de ejecución en la obra de los Baños Árabes de Los Torrejones",
+      "categoria": "contrato",
+      "resumen": "Por la baja de un arquitecto técnico municipal, se designa a otro como director de ejecución y coordinador de seguridad de la obra del Plan Director del yacimiento de Los Torrejones (fase I, Baños Árabes).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Urgente: cambio de edades en los campeonatos locales de fútbol sala y tenis",
+      "categoria": "servicios_actividades",
+      "resumen": "Se modifica la normativa: el campeonato local de fútbol sala será para mayores de 18 años (salvo excepciones que estudie el Servicio de Deportes) y el de tenis tendrá una sola categoría absoluta para mayores de 16 años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181869K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "informacion",
+      "resumen": "No se presentan informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

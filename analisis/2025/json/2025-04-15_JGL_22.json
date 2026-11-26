@@ -1,0 +1,312 @@
+{
+  "doc": "2025-04-15_JGL_22",
+  "organo": "JGL",
+  "sesion": 22,
+  "fecha": "2025-04-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 21,
+  "resumen": "La Junta de Gobierno licita por 180.000 euros (fondos europeos) el proyecto y la dirección de las obras de restauración del castillo (Hisn Yakka) y paga 119.218 euros en facturas, sobre todo limpieza de edificios municipales y autobús urbano. Aprueba los recibos del agua y la basura del trimestre, el programa de la romería de San Marcos (8.276 euros, paella a 4 euros) y la contratación fija de una educadora social, rechazando cuatro recursos de aspirantes. Además, la Comunidad Autónoma inicia la declaración como Bien de Interés Cultural del yacimiento de Fuente Pinar I.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reclamación de transparencia y Fuente Pinar I hacia BIC",
+      "categoria": "informacion",
+      "resumen": "Se informa de una resolución de la Comisión de Transparencia de la Región de Murcia sobre la reclamación de un vecino al que no se dio acceso a información pública, y de que la Dirección General de Patrimonio Cultural inicia la declaración de Bien de Interés Cultural (zona arqueológica) del yacimiento de Fuente Pinar I.",
+      "entidades": [
+        {
+          "nombre": "Comisión de Transparencia de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "resuelve reclamación"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "inicia declaración BIC"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1065723X",
+      "lugar": "Yacimiento de Fuente Pinar I",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús urbano, agua y comedor infantil",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: limpieza de edificios municipales de marzo, autobús urbano de marzo, suministro de agua, comedor de la Escuela Infantil El Parque de febrero y un elevador portátil para el Auditorio Juan Miguel Benedito.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Salvatec Accesibilidad, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 119218.0,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura de 31/03/2025",
+          "eur": 10581.12,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil El Parque, febrero 2025",
+          "eur": 6572.08,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, marzo 2025",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, marzo 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Suministro e instalación de elevador vertical transportable en el Auditorio Juan Miguel Benedito (contrato menor)",
+          "eur": 9020.0,
+          "entidad": "Salvatec Accesibilidad, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 607446A, 777197Q, 841943Q, 1047187C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recibos del agua, canon de saneamiento y basura del trimestre",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas de cobro presentadas por Aqualia: agua del primer trimestre (343.757,09 €), canon municipal (15.489,81 €), canon de saneamiento que se recauda para la Comunidad Autónoma (246.287,98 €) y tasa de basura del segundo trimestre (376.638,40 €). Se anulan 165 € de recibos de basura de años anteriores.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable, 1er trimestre 2025",
+          "eur": 343757.09,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon municipal 1er trimestre 2025 (ingreso del Ayuntamiento)",
+          "eur": 15489.81,
+          "entidad": null
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar por cuenta de la CARM",
+          "eur": 246287.98,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basura, 2º trimestre 2025",
+          "eur": 376638.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación de recibos de basura de 2024 y 2025",
+          "eur": 165.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076332F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Audiotec montará la infraestructura de los actos de Semana Santa",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de servicios generales de infraestructuras para actos y procesiones de Semana Santa.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7068.82,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1074837E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Salón del Centro de Desarrollo Local para la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del salón de actos el 24 de abril para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1070988J",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Programa de la romería de San Marcos 2025 en el Cerrico de la Fuente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa del 27 de abril con un presupuesto de 8.276,40 €, los precios de la paella gigante (4 € la ración) y del concurso de gachasmigas (5 €) y el jurado del concurso (concejal de Festejos, un representante por grupo municipal y dos de la antigua Peña Gachasmiguera). Hacer fuego fuera de las barbacoas depende del permiso de Medio Natural de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza encendido de fuego"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8276.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076305T",
+      "lugar": "Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Cambio de titular del puesto 35-Z del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza traspasar entre particulares un puesto de textil del mercadillo junto al Mercado de San Cayetano, con efectos de enero de 2025 y validez hasta 2036; se anulan los recibos de la anterior titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015456F",
+      "lugar": "Mercadillo junto al Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Cambio de titular del puesto 36-Z del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza traspasar entre particulares un puesto de calzado y cuero del mercadillo junto al Mercado de San Cayetano, con efectos de enero de 2025 y validez hasta 2036.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015453C",
+      "lugar": "Mercadillo junto al Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Cambio de titular del puesto 38 del mercadillo junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza traspasar entre particulares un puesto de textil del mercadillo aledaño al Mercado Central (provisionalmente en el Jardín de la Constitución), desde abril de 2025 y hasta 2037.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1074499K",
+      "lugar": "Jardín de la Constitución (Mercado Central provisional)",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Plaza fija de educador social: contratación, bolsa y cuatro recursos rechazados",
+      "categoria": "personal",
+      "resumen": "Se contrata como laboral fija a media jornada a la aspirante con mejor nota (37,22 puntos) en la plaza de Educador Social de la Oferta de Empleo de 2018 y se crea una bolsa de 15 personas hasta 2031. Se desestiman cuatro recursos de aspirantes (anonimato del examen, valoración de méritos, corrección del ejercicio práctico y una trabajadora que reclama la plaza por abuso de temporalidad, asunto pendiente en el Juzgado de lo Social nº 3 de Murcia).",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 3 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "tramita demanda relacionada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758924M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Licitación de 180.000 € para el proyecto de restauración del castillo (Hisn Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto simplificado la redacción del proyecto, la dirección de obra y la coordinación de seguridad de 'El Renacer de Yakka. Conservación y Restauración del Hisn Yakka', con fondos europeos Next Generation, por 180.000 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 180000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1055857T",
+      "lugar": "Cerro del Castillo (Hisn Yakka)",
+      "interes": 3
+    }
+  ]
+}

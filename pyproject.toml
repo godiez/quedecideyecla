@@ -1,0 +1,21 @@
+[project]
+name = "actas"
+version = "0.1.0"
+description = "Qué decide el Ayuntamiento: descarga, analiza y publica como web las actas de la Junta de Gobierno Local y del Pleno de un municipio"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.10.2,<0.11.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[project.scripts]
+actas = "actas.cli:main"

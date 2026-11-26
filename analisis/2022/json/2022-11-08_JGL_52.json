@@ -1,0 +1,731 @@
+{
+  "doc": "2022-11-08_JGL_52",
+  "organo": "JGL",
+  "sesion": 52,
+  "fecha": "2022-11-08",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno adjudica a Eulen el proyecto 'Housing First' de alojamiento para personas sin hogar por 106.607 euros (fondos europeos) y prorroga un año el Centro de Día de mayores con Alma Ata Salud. Aprueba las bases para hacer fijos a los interinos de larga duración, convoca ayudas para comerciantes (15.000 €) y AMPAs (17.000 €) y aprueba un presupuesto de 50.759 euros para las Fiestas de la Virgen. También rechaza recuperar un supuesto camino público vallado porque era un antiguo brazal de riego y exime del IAE al colegio La Inmaculada.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 2 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: procesionaria, travesías, zonas de bajas emisiones y agua",
+      "categoria": "informacion",
+      "resumen": "Se informa del tratamiento contra la procesionaria en los montes públicos 'Cerro de la Flor y otros' y 'Loma de la Rambla del Panizo', de los carteles para las obras de seguridad vial en las travesías (convenio con la Consejería de Fomento), de las obligaciones de publicidad de la ayuda europea para zonas de bajas emisiones y de la resolución que modifica la concesión de agua para el abastecimiento de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Secretaría General de Transportes y Movilidad (Ministerio)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "689285Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: autobús urbano de octubre y tributo musical a Coco",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el servicio de autobuses urbanos de octubre de 2022 y el espectáculo 'Tributo Musical Coco' del Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zeus Tomas Producciones Artísticas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33398.87,
+      "importes": [
+        {
+          "concepto": "Servicio de autobuses urbanos, octubre 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Espectáculo 'Tributo Musical Coco' en el Teatro Concha Segura",
+          "eur": 7260.0,
+          "entidad": "Zeus Tomas Producciones Artísticas, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551537Z, 678376P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación de taquilla de 'Maestríssimo' de Yllana",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Maestríssimo' (Yllana) en el Teatro Concha Segura: de 6.364 € en entradas emitidas se vendieron 2.574,80 € y se dan de baja 3.789,20 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2574.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recaudación de taquilla del 'Mago Yunke'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del 'Mago Yunke' en el Teatro Concha Segura: de 6.364 € emitidos se vendieron 5.789,20 € y se dan de baja 574,80 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5789.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Nueva dirección de obra y fin de la paralización de una obra de Proyecto Denver",
+      "categoria": "licencia_obra",
+      "resumen": "A petición de Proyecto Denver, S.L., titular de la licencia 314/2021, se toma nota de la renuncia del anterior director de obra y del nombramiento de los nuevos técnicos, y se levanta la paralización de las obras acordada el 26 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516874F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Convocatoria de 2 plazas de subinspector de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de promoción interna de dos plazas de subinspector de Policía Local (oferta de empleo de 2020).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614474M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de empleo de auxiliar de servicios públicos-inspector",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de una bolsa de empleo, por concurso-oposición, para cubrir puestos temporales de auxiliar de servicios públicos-inspector (grupo C2). Plazo de 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673539X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Bases generales de la estabilización ordinaria de interinos",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases generales comunes de los procesos ordinarios de estabilización de empleo temporal (Ley 20/2021) para convertir en fijas plazas ocupadas por interinos al menos desde 2017; cada proceso tendrá luego sus bases específicas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Bases generales de la estabilización extraordinaria de interinos (concurso)",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases generales comunes del proceso extraordinario de estabilización, solo por concurso de méritos y por una vez, para plazas ocupadas temporalmente desde antes del 1 de enero de 2016.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contratación temporal de un limpiador para el Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un limpiador para reforzar la limpieza de la Casa Consistorial durante sus obras, las fiestas y la Navidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687578W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Sustitución de la limpiadora del CEIP Miguel Ortuño",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un limpiador (35,3 h/semana) para sustituir la baja de la limpiadora del CEIP Miguel Ortuño desde el 21 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689155K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Personal del CAVI a una formación sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres trabajadoras del Centro de Atención a Víctimas de Violencia de Género asistir a una jornada en Murcia el 14 de noviembre, con pago del desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687691C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Personal de Servicios Sociales a una jornada del Programa de Acompañamiento",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadoras de Servicios Sociales asistir a una jornada en Murcia el 11 de noviembre sobre inclusión social, con pago del desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689626P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Un auxiliar delineante vuelve al horario general",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar delineante, a petición suya, a volver al horario general de la Casa Consistorial desde el 7 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690884M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Horario especial para una educadora social",
+      "categoria": "personal",
+      "resumen": "Se autoriza de forma excepcional un horario especial a una educadora social durante el curso 2022/23, sin derecho al complemento por jornada partida.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691473E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Jubilación de una auxiliar administrativa sin premio por jubilación",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación voluntaria de una auxiliar administrativa el 17 de diciembre, tras más de 30 años de servicio, pero se le deniega la indemnización por jubilación del acuerdo de condiciones de trabajo, porque el Tribunal Supremo y el Tribunal de Cuentas la consideran ilegal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "690902M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Uniformes de la Policía Local por 16.130 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Satara Seguridad, S.L. el suministro de vestuario para los agentes de Policía Local por 16.130,75 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16130.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682175Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Limpieza de edificios municipales: más horas en el Edificio Bioclimático",
+      "categoria": "contrato",
+      "resumen": "Cuarta modificación del contrato de limpieza de inmuebles municipales con Técnicas y Servicios Integrales de Levante: 4 horas más los sábados en el Edificio Bioclimático (208 h/año, 3.058,63 € al año). El contrato pasa de 637.400,59 € a 640.459,22 € anuales con IVA (6,85% acumulado de modificaciones). Gasto para 2022: 509,77 €.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3058.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "675316P",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Desfile de nuevos músicos y traslado de Santa Cecilia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música los desfiles de recogida de nuevos músicos y traslado de Santa Cecilia los días 12 y 26 de noviembre, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687891E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para una conferencia de AMITES sobre adicción a la tecnología",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a AMITES Yecla ONG el 16 de noviembre para la conferencia 'Jóvenes adictos a las tecnologías', con descuento del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "AMITES Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión gratuita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686269C",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón del Edificio Bioclimático para la gala del Club Triatlón Arabí",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Triatlón Arabí Yecla a usar el salón de actos del Edificio Bioclimático el 19 de noviembre para su asamblea anual y gala de premios.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687449Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas de 15.000 € para asociaciones de comerciantes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan las subvenciones de fomento del comercio local de 2022, hasta 15.000 € en total, para asociaciones o federaciones de comerciantes sin ánimo de lucro. Plazo: 10 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 15000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "688568W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayudas de 17.000 € para AMPAs y FAMPA",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan las subvenciones de 2022 para las asociaciones de madres y padres de colegios, institutos, escuelas infantiles municipales y Atención Temprana, y para la FAMPA: hasta 17.000 € en total (máximo 1.025 € por AMPA de colegio o instituto, 150 € escuela infantil, 600 € Atención Temprana y 250 € FAMPA).",
+      "entidades": [
+        {
+          "nombre": "FAMPA de Yecla",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "puede recibir"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690044W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11",
+      "titulo": "Beca de 6.000 € en el Gabinete de Comunicación",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convoca una beca de formación de 10 meses (1.200 horas) en el Gabinete Municipal de Comunicación para titulados en Periodismo, Comunicación o Protocolo, de hasta 6.000 € (1.200 € con cargo a 2022).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684216A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Semana de los Derechos de la Infancia: 13.650 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar del 14 al 20 de noviembre las actividades del Día Internacional de los Derechos de la Infancia, con un presupuesto de 13.650 €, y las bases del 'Fotomaratón de los Derechos' y del IV Concurso de Relatos Cortos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 13650.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683075Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Denegado recuperar un supuesto camino público vallado por un vecino",
+      "categoria": "reclamaciones",
+      "resumen": "Varios vecinos y Muebles Orga, S.L. denunciaron que un particular había vallado un camino público y pidieron al Ayuntamiento recuperarlo. Se deniega porque, según escrituras, catastro antiguo y fotos aéreas, era un antiguo brazal de riego y no un camino municipal. Como parte de la valla está en la zona de afección de la carretera Yecla-Almansa sin permiso regional, se avisa a la Dirección General de Carreteras.",
+      "entidades": [
+        {
+          "nombre": "Muebles Orga, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe aviso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "636112P",
+      "lugar": "Junto a la carretera Yecla-Almansa (RM-426), polígono 34",
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Trabajos en beneficio de la comunidad en servicios municipales",
+      "categoria": "otros",
+      "resumen": "Se acepta que varias personas cumplan penas de trabajos en beneficio de la comunidad en los servicios de Festejos, Agricultura y Escuelas Infantiles, a petición de Instituciones Penitenciarias, con tutores municipales.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Ejecución Penal y Reinserción Social",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687000R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Plan de seguridad de la remodelación del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de las obras de remodelación del Mercado Central, que ejecuta Guerola Transfer, S.L.U.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 2
+    },
+    {
+      "ref": "16.1",
+      "titulo": "El colegio La Inmaculada queda exento del IAE",
+      "categoria": "fiscal",
+      "resumen": "Se estima el recurso de la Fundación Alma Mater, titular del Colegio La Inmaculada: como entidad sin ánimo de lucro acogida a la ley de mecenazgo queda exenta del Impuesto de Actividades Económicas desde 2021, y se anulan los recibos de 2021 y 2022 (824,72 € cada uno).",
+      "entidades": [
+        {
+          "nombre": "Fundación Alma Mater",
+          "cif": "G73966129",
+          "tipo": "fundacion",
+          "rol": "recibe exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1649.44,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691528F",
+      "lugar": "Colegio La Inmaculada",
+      "interes": 2
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Presupuesto de las Fiestas de la Virgen 2022: 50.759 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el presupuesto de gastos de las Fiestas de la Virgen de 2022 por 50.759,50 € con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 50759.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691492F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Contratación de una cuidadora de animales sustituta",
+      "categoria": "personal",
+      "resumen": "Se contrata, tras el proceso de selección, a una cuidadora de animales para sustituir la baja de un vigilante-operario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687405E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Eulen gestionará el proyecto 'Housing First' para personas sin hogar: 106.607 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Eulen Servicios Sociosanitarios el proyecto piloto 'Housing First' y alojamiento transitorio en Yecla, para personas vulnerables, por un máximo de 106.606,97 € con IVA. Lo paga una subvención regional con fondos europeos Next Generation. Obtuvo 74,49 puntos.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consejo de Gobierno de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 106606.97,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Prórroga del Centro de Día de mayores con Alma Ata Salud",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (1-12-2022 a 30-11-2023) el contrato del Centro de Día para personas mayores dependientes con Alma Ata Salud, S.L. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Cambios en los campeonatos locales de futbito juvenil y tenis mixto",
+      "categoria": "servicios_actividades",
+      "resumen": "Se modifican el Campeonato Local Juvenil de Futbito y el de Tenis Mixto del proyecto municipal de deporte 2022/2023, según el informe del Servicio de Deportes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "670453K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Bases para elegir Rey o Reina del Carnaval 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las bases para elegir a la persona que representará a las peñas como Rey o Reina del Carnaval, que se celebrará los días 10, 11, 17, 18 y 19 de febrero de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Puesto informativo de AYAC sobre salud masculina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer un puesto informativo en la Plaza de San Cayetano el 16 de noviembre y se le presta una carpa, dos mesas y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685607H",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Protección Civil acompañará una ruta de senderismo de mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Protección Civil a acompañar el 11 de noviembre la marcha de senderismo del Centro Social de Personas Mayores del IMAS, del Edificio Bioclimático a Los Castillarejos.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS en Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "acompaña"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691205H",
+      "lugar": "Edificio Bioclimático - Los Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "16.10",
+      "titulo": "Apoyo al proyecto de ESAMUR de biogás con lodos de depuradora",
+      "categoria": "medio_ambiente",
+      "resumen": "El Ayuntamiento declara de interés municipal el proyecto de ESAMUR para producir biogás a partir de los lodos de las depuradoras del Altiplano, que se presenta a ayudas estatales del Plan de Recuperación, porque reduce emisiones.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685776R",
+      "lugar": "Altiplano",
+      "interes": 2
+    }
+  ]
+}

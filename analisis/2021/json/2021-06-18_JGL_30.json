@@ -1,0 +1,50 @@
+{
+  "doc": "2021-06-18_JGL_30",
+  "organo": "JGL",
+  "sesion": 30,
+  "fecha": "2021-06-18",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 3,
+  "resumen": "Un juzgado da en parte la razón a unos propietarios de terrenos junto al antiguo Matadero, en la avenida de Villena, que el Ayuntamiento debe expropiar para zona verde y calles. El Ayuntamiento los valoraba en 2.434 euros y los propietarios pedían 288.187 euros. Ahora la superficie a expropiar sube a 1.643 m² y el precio lo fijará el Jurado Provincial de Expropiación, al que la Junta de Gobierno envía el expediente.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Expropiación junto al antiguo Matadero: el precio lo fijará el Jurado Provincial",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de la sentencia 63/2021 del Juzgado de lo Contencioso-Administrativo nº 6 de Murcia, que estima en parte el recurso de los propietarios (particulares), se envía al Jurado Provincial de Expropiación Forzosa el expediente de los terrenos de la avenida de Villena 1 para que fije la indemnización. La sentencia amplía la superficie a expropiar a 1.643,49 m² (1.246,56 m² de zona verde y 396,83 m² de viales). El Ayuntamiento los había valorado en 2.434,53 € en 2019; los propietarios reclamaban 288.187,48 €.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Jurado Provincial de Expropiación Forzosa de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "fijará el justiprecio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Valoración municipal de 2019 (1.246,56 m² de zona verde)",
+          "eur": 2434.53,
+          "entidad": null
+        },
+        {
+          "concepto": "Justiprecio reclamado por los propietarios (con 5% de premio de afección)",
+          "eur": 288187.48,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "115009K, 392100J",
+      "lugar": "Avenida de Villena 1, junto al antiguo Matadero Municipal",
+      "interes": 3
+    }
+  ]
+}

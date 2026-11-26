@@ -1,0 +1,815 @@
+{
+  "doc": "2023-05-23_JGL_23",
+  "organo": "JGL",
+  "sesion": 23,
+  "fecha": "2023-05-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 28,
+  "resumen": "La Junta paga 169.223 euros en servicios mensuales (zonas verdes, instalaciones deportivas, Centro de Día y el programa Housing First) y 26.392 euros en facturas de eventos, entre ellas dos alquileres de jaimas de Reyes y Emisarios. Licita las comidas a domicilio para mayores (casi 100.000 euros en dos años), anula la licitación del servicio de prevención de riesgos laborales por un error en el pliego y prorroga la teleasistencia de Ilunion hasta que entre el nuevo contrato. Rechaza el recurso de una carnicería que perdió su puesto en el Mercado de San Cayetano por tenerlo cerrado más de un año y propone los días no lectivos del curso 2023/24.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 17 de mayo de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reintegro de una ayuda del Mercado de San Cayetano y plan de sequía",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Dirección General de Comercio inicia el reintegro parcial de la ayuda para filtros de climatización del Mercado de San Cayetano, y de que la Confederación Hidrográfica del Segura convoca al Ayuntamiento a una mesa técnica sobre los planes de emergencia de abastecimiento de agua (con informe del técnico municipal de Servicios Públicos).",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Comercio e Innovación Empresarial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro parcial de subvención"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convoca mesa técnica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "778711T",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de servicios de abril: zonas verdes, polideportivos, Centro de Día y Housing First",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de abril de la limpieza y mantenimiento de zonas verdes, el mantenimiento y atención de las instalaciones deportivas, las plazas del Centro de Día de dependientes y el proyecto piloto 'Housing First' de alojamiento para personas sin hogar.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Elulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 169223.38,
+      "importes": [
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, abril 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, abril 2023 (C.SE. 5/21)",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, abril 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Proyecto piloto 'Housing First' y alojamiento transitorio",
+          "eur": 7614.78,
+          "entidad": "Elulen Servicios Sociosanitarios, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538849C, 509033Q, 457254A, 647410F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 1 de la reforma del Centro de Estimulación Temprana",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la primera certificación de la obra de reforma y ampliación del Centro de Estimulación Temprana, a favor de Construcciones Molina Yago 2000, S.L.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15971.46,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698794Y",
+      "lugar": "Centro de Estimulación Temprana",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de promotor de una licencia de vivienda de 2007",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de titular de una licencia de 2007 para una vivienda unifamiliar con garaje y trasteros; el nuevo promotor no puede empezar las obras hasta nombrar a los técnicos directores.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762281Z (licencia 162/2007)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca rústica en el paraje La Fontanica",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una particular licencia para segregar una parcela de regadío de 23.199 m² de una finca de suelo no urbanizable; el resto (43.213 m²) conserva las construcciones existentes. Cumple la unidad mínima de cultivo de regadío (0,20 ha).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735808F",
+      "lugar": "paraje La Fontanica o Decarada, polígono 34, parcelas 444 y 464",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Una auxiliar de Secretaría irá a un curso en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a una auxiliar administrativa de Secretaría asistir a un curso sobre remisión de expedientes a los juzgados (plataforma INSIDE) en Murcia, pagando el Ayuntamiento el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749823X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Técnicas del CAVI irán a un curso sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres técnicas del Centro de Atención a Víctimas de Violencia de Género (CAVI) asistir en Yecla a un curso sobre atención a mujeres víctimas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777909E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano del Bar Obélix",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) del Bar Obélix, 20 m², tras pagar la tasa de 240 euros.",
+      "entidades": [
+        {
+          "nombre": "Bar Obélix",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante (titular particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 240.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761465Q",
+      "lugar": "calle Rogelio Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de verano de El Recreo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano del establecimiento El Recreo, 20 m² (la petición dice calle Lorca y el acuerdo calle Játiva).",
+      "entidades": [
+        {
+          "nombre": "El Recreo",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante (titular particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754806R",
+      "lugar": "calle Lorca / calle Játiva",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano del Bar Berlín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Hermanos Berlín, C.B. la terraza de verano del Bar Berlín, 20 m².",
+      "entidades": [
+        {
+          "nombre": "Hermanos Berlín, C.B. (Bar Berlín)",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761487X",
+      "lugar": "calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano del Bar Gran Zona",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano del Bar Gran Zona, 12 m².",
+      "entidades": [
+        {
+          "nombre": "Bar Gran Zona",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante (titular particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738143Z",
+      "lugar": "calle San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de verano del restaurante San Marco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano del restaurante San Marco, 30 m².",
+      "entidades": [
+        {
+          "nombre": "Restaurante San Marco",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante (titular particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761500P",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Puesto informativo de AYAC por el Día Mundial Sin Tabaco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer un puesto en el Parque de la Constitución el 31 de mayo sobre prevención del tabaquismo, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767496R",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Puesto informativo contra la droga en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas un puesto el 28 de junio por el Día internacional contra la droga, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750603E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Aplazada una plaza de aparcamiento para discapacitados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa para estudiarla mejor la petición de una vecina de una plaza de aparcamiento para personas con discapacidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "749857T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja usar el Salón de Sesiones de la Casa Consistorial para su boda civil el 8 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764840D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Auditorio gratis para presentar un libro de historia de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Centro de Estudios Locales el 1 de junio para presentar el libro 'De oro, barro y plomo. Yecla, una villa de frontera (1550-1600)', con rebaja del 100% del precio (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro de Estudios Locales",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación con rebaja del 100%"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774909N",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Escuela de verano en el CEIP La Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP La Paz a usar el colegio del 1 al 30 de julio, de 9 a 14 h, para la escuela de verano que organizará Ludoteca Neverland (Psico-Educa, C.B.), corriendo con los gastos y la limpieza.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP La Paz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Ludoteca Neverland (Psico-Educa, C.B.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777479H",
+      "lugar": "CEIP La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Sala del Centro de Emprendimiento para la asamblea de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación de Yecla de Afectados de Cáncer la sala de reuniones del Centro de Emprendimiento el 20 de junio para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778119X",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Días sin clase del curso 2023/24 en Yecla",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta del Consejo Escolar Municipal se piden a la Consejería de Educación como días no lectivos el 13 de octubre de 2023, el 18 de marzo y el 2 de abril de 2024, además de las fiestas locales del 18 de septiembre y el 7 de diciembre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Centros Educativos e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe la propuesta"
+        },
+        {
+          "nombre": "Consejo Escolar Municipal",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777176M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Criterios del proyecto de acompañamiento a personas con capacidad limitada",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los criterios de admisión y funcionamiento del proyecto de Servicios Sociales de acompañamiento social a personas con capacidad de obrar limitada en situación vulnerable.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774333N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Criterios del proyecto municipal de Educación Desescolarizada",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los criterios de admisión al proyecto municipal de Educación Desescolarizada de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777906A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Criterios de acceso al programa Housing First de vivienda para personas sin hogar",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los criterios para acceder al proyecto municipal Housing First y alojamiento transitorio en Yecla.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777979C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Punto repetido por error (sin acuerdo)",
+      "categoria": "organizacion",
+      "resumen": "El punto repetía por error el punto 9 del orden del día, así que no se adopta acuerdo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": null,
+      "expediente": "774333N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de facturas: concierto de Leah y jaimas de Reyes y Emisarios",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a la Asociación de Amigos de la Música la actuación de Leah (21 y 22 de abril) y a una particular dos alquileres de tres jaimas, uno para el evento de Emisarios y otro para los Reyes Magos (contratación cuestionada por IU-Verdes en el Pleno del 8 de mayo).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 26392.0,
+      "importes": [
+        {
+          "concepto": "Actuación musical Leah, 21 y 22 de abril de 2023",
+          "eur": 8000.0,
+          "entidad": "Asociación de Amigos de la Música de Yecla"
+        },
+        {
+          "concepto": "Alquiler de tres jaimas, evento Emisarios",
+          "eur": 9196.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler de tres jaimas, evento Reyes Magos",
+          "eur": 9196.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759789N, 715578J, 712267K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Contrato de técnicos de Educación Infantil para la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo personal técnico de Educación Infantil (el título dice uno y el acuerdo cuatro) a 30 horas semanales para el aula de 1-2 años de la Escuela Infantil El Parque hasta fin de curso, por la baja de una trabajadora.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778905N",
+      "lugar": "Escuela Infantil Municipal El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Contrato de un conserje para Juventud con el plan de empleo de 2023",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan de Promoción e Inserción Social a través del Empleo 2023 (jóvenes menores de 30 años sin experiencia), se contrata a una persona como conserje-operaria del Servicio de Juventud.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "773872Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "La directora de Servicios Sociales irá a un curso sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora del Centro Municipal de Servicios Sociales asistir al mismo curso de violencia de género que el personal del CAVI.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778742M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Se anula la licitación del servicio de prevención de riesgos laborales",
+      "categoria": "contrato",
+      "resumen": "Se renuncia a adjudicar el servicio de prevención ajeno (higiene, seguridad, ergonomía y vigilancia de la salud del personal), al que se habían presentado cinco ofertas, porque el pliego olvidó exigir instalaciones en Yecla para los reconocimientos médicos. Se licitará de nuevo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 16/22",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Ilunion seguirá con la teleasistencia hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "Termina el 31 de mayo el contrato de teleasistencia domiciliaria de Ilunion Sociosanitario, S.A. y se acuerda que siga prestándolo hasta que se formalice el nuevo, en el que la Mesa de Contratación ha propuesto a Cruz Roja Española (pendiente de justificar una oferta anormalmente baja).",
+      "entidades": [
+        {
+          "nombre": "Ilunion Sociosanitario, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista (continuidad)"
+        },
+        {
+          "nombre": "Cruz Roja Española Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "propuesta como adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "114919K (C.SE. 9/2018; nuevo C.SE. 5/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Licitación de las comidas a domicilio para mayores",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto el servicio de comidas a domicilio para personas mayores o dependientes, dos años, con un precio de 49.866,30 euros al año (IVA incluido). Gasto: 20.777,62 € en 2023, 49.866,30 € en 2024 y 29.088,68 € en 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 99732.6,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 20777.62,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 49866.3,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 29088.68,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766229H (C.SE. 9/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Puesto de detección de diabetes en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Diabéticos del Altiplano un puesto el 24 de mayo para una jornada de detección precoz de la diabetes, con carpas, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747768R",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Fiestas de San Isidro de Raspay 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las Fiestas de San Isidro de Raspay del 27 de mayo, con un presupuesto de 5.989,50 euros, y un precio de 10 euros por inscribirse en el concurso de paellas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5989.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "778590A",
+      "lugar": "Raspay (Local Social)",
+      "interes": 2
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Cambios en el Torneo de Futbito Verano 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se modifica el Torneo de Futbito Verano 2023 del programa municipal de deportes según la propuesta del Servicio de Deportes (el acta no detalla los cambios).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "670453K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Rechazado el recurso de una carnicería que perdió su puesto en el Mercado de San Cayetano",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de Carnes Selectas del Altiplano, S.L., que perdió el puesto 6L del Mercado de San Cayetano por tenerlo cerrado desde enero de 2022 (el reglamento lo quita a las 12 semanas cerrado) y no traspasarlo en el plazo extra concedido; se le deniega el cambio de titularidad.",
+      "entidades": [
+        {
+          "nombre": "Carnes Selectas del Altiplano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurrente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "750567E, 687836D",
+      "lugar": "Mercado de San Cayetano, puesto 6L",
+      "interes": 2
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Jornada de convivencia en el CEIP El Alba, sin las sillas pedidas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP El Alba usar el patio del colegio el 3 y 4 de junio para unas jornadas de convivencia, pero se le niegan las 200 sillas y 8 vallas pedidas para el 22 de junio porque coinciden con otros actos municipales.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776830F",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Carpas para la jornada de puertas abiertas del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden cinco carpas municipales al IES José Luis Castillo Puche para su jornada de puertas abiertas del 1 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776986Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.14",
+      "titulo": "Informes, ruegos y preguntas: no se presentan",
+      "categoria": "mocion_politica",
+      "resumen": "No se presentan informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

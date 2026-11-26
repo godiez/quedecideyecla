@@ -1,0 +1,831 @@
+{
+  "doc": "2025-10-07_JGL_57",
+  "organo": "JGL",
+  "sesion": 57,
+  "fecha": "2025-10-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno adjudica por 508.200 euros a Obras y Pavimentos Especiales la renovación del césped del Campo de Fútbol nº 3 y licita servidores informáticos por 193.144 euros. Paga 126.718 euros en facturas (sobre todo el tratamiento de basuras) y 196.007 euros en certificaciones de obra (Casa del Guarda del Arabí, calles España y Arco del Niño, edificio Cazadores), y reconoce 72.326 euros a Actúa por seguir prestando la recogida de basura sin contrato. También nombra ocho auxiliares administrativos interinos, aprueba el padrón del IBI rústico (313.836 euros) y abre consulta pública para cambiar la zona azul.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 30 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de la CARM para deportes, adicciones y turismo",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la CARM acepta el cambio en la obra subvencionada del césped del Campo de Fútbol nº 3 del complejo Juan Palao Azorín, de una subvención directa de Salud Pública para programas de prevención de adicciones 2025 y de la concesión y pago de ayudas del programa de calidad turística SICTED 2025. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Salud Pública y Adicciones (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1160985E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: tratamiento de basuras, aseos de la Feria, piscina y curso de monitores",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: el tratamiento de residuos urbanos de agosto, el tráiler de aseos de la Feria de Septiembre, la reparación del agua caliente y la calefacción de la piscina cubierta y un curso de monitores de ocio y tiempo libre.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Hernandez Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Camión Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 126718.17,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, agosto 2025",
+          "eur": 76766.13,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Curso de formación de monitores y monitoras de ocio y tiempo libre",
+          "eur": 6000.0,
+          "entidad": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla"
+        },
+        {
+          "concepto": "Reparación del agua caliente sanitaria y calefacción de la Piscina Municipal Cubierta",
+          "eur": 11584.54,
+          "entidad": "Hernandez Servicios Climatización, S.L."
+        },
+        {
+          "concepto": "Feria de Septiembre 2025, Lote 2: semirremolque tráiler de aseos",
+          "eur": 32367.5,
+          "entidad": "Camión Toilet, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 1034991N, 1086056M, 1111199H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Casa del Guarda del Arabí, calles y edificio Cazadores",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cinco certificaciones de obra: la Casa del Guarda del Monte Arabí como centro de interpretación (fondos europeos de turismo), los Baños Árabes de Los Torrejones (0 euros), los itinerarios peatonales de calle España y de calles Arco del Niño e Hijas de la Caridad (Plan de Obras y Servicios) y la rehabilitación del edificio Cazadores como centro multifuncional (fondos Next Generation).",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "U.T.E. Edificio de Cazadores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 196007.47,
+      "importes": [
+        {
+          "concepto": "Certificación nº 6, rehabilitación de la Casa del Guarda del Monte Arabí (PSTD Yecla ES+, Next Generation EU)",
+          "eur": 25373.51,
+          "entidad": "Ingeniería Ortín, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2, Plan Director yacimiento Los Torrejones (Fase I) Baños Árabes",
+          "eur": 0.0,
+          "entidad": "Rehabilitaciones y Construcciones Galán e Hijos, S.L."
+        },
+        {
+          "concepto": "Certificación nº 3, itinerarios peatonales en calle España (POS 2024/25)",
+          "eur": 44982.71,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2, rehabilitación del edificio Cazadores (PIREP Local, Next Generation EU)",
+          "eur": 53777.17,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        },
+        {
+          "concepto": "Certificación nº 2, itinerarios peatonales en calles Arco del Niño e Hijas de la Caridad (POS 2024/25)",
+          "eur": 71874.08,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867239Z, 1042512J, 1045370D, 1076617C, 1081368A",
+      "lugar": "Monte Arabí; Los Torrejones; calle España; calle Arco del Niño y calle Hijas de la Caridad",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI durante cinco años (2026-2030) por una instalación solar de autoconsumo de 5 kW en su vivienda, con una inversión de 6.054,80 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077483E",
+      "lugar": "Paraje La Rabosera",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en la misma vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede al mismo vecino la bonificación del 90% del impuesto de obras (ICIO) por la instalación fotovoltaica de autoconsumo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077483E",
+      "lugar": "Paraje La Rabosera",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Actúa cobra 72.326 € por seguir recogiendo la basura sin contrato (febrero 2024)",
+      "categoria": "contrato",
+      "resumen": "Como el contrato de recogida de basura y limpieza viaria terminó y la empresa sigue prestándolo por orden del Pleno hasta que haya uno nuevo, se le reconoce una indemnización por la diferencia entre lo que le costó el servicio en febrero de 2024 y lo que se le pagó, para evitar el enriquecimiento injusto del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 72325.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Padrón 2025 del IBI rústico: 313.836 € a cobrar hasta el 19 de diciembre",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del IBI de fincas rústicas de 2025 (10.330 registros, 3.777 no exentos) por 313.836,04 euros. Se paga del 17 de octubre al 19 de diciembre; los recibos domiciliados se cargan el 28 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 313836.04,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159629X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Auxiliar administrativo interino para Caja y Tesorería",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un auxiliar administrativo interino, hasta tres años, para cubrir la plaza de Caja y Tesorería que quedó vacante por una jubilación en 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158976P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Auxiliar administrativo interino para la Oficina de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino, hasta tres años, para la Oficina de Recaudación, por la excedencia del titular y la llegada de los plazos de cobro de padrones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158962W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Auxiliar administrativo interino para la Casa de Cultura",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino, hasta tres años, para la Casa de Cultura (biblioteca, archivo, museo y sala de exposiciones), puesto que quedó vacío el 30 de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158452M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Auxiliar administrativo interino para las Escuelas Infantiles",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino, hasta tres años, para las Escuelas Infantiles Municipales, uno de los dos puestos que quedaron sin cubrir tras la oposición de 10 plazas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158587Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Dos auxiliares administrativos interinos para Registro y Secretaría",
+      "categoria": "personal",
+      "resumen": "Se nombran dos auxiliares administrativos interinos, hasta tres años, para el Registro de Entrada y la Secretaría General, tras dos bajas producidas justo después de la toma de posesión de los nuevos funcionarios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159286W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Auxiliar administrativo interino para Estadística (nueve meses)",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino por acumulación de tareas en el Negociado de Estadística (padrón y certificados de empadronamiento), por un máximo de nueve meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159220D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Auxiliar administrativo interino para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino, hasta tres años, para la plaza vacante del servicio de Cultura y Festejos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159529H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Contrato de seis meses de un periodista para el Gabinete de Comunicación",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un periodista durante seis meses por acumulación de trabajo y la próxima jubilación del director del Gabinete de Comunicación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154789Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Contrato temporal de un mantenedor para los colegios",
+      "categoria": "personal",
+      "resumen": "Se contrata un mantenedor para la Brigada de Obras, hasta seis meses o hasta que haya nueva bolsa, por la renuncia del que mantenía los colegios al empezar el curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157515K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Un técnico municipal podrá no trabajar 56 días pagados antes de jubilarse",
+      "categoria": "personal",
+      "resumen": "Para compensar 56 días de permisos sin sueldo de 1997 y 2003 en los que el Ayuntamiento le dio de baja indebidamente en la Seguridad Social (y que ya no se pueden cotizar por prescripción), se acepta que un ingeniero técnico municipal deje de ir a trabajar los 56 días previos a su jubilación cobrando y cotizando. Se le recuerda que las peticiones deben hacerse por registro y no incorporando informes propios a un expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081799Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Dos trabajadoras sociales irán a una formación en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadoras sociales asistir a unas jornadas de formación sobre acompañamiento social intensivo en Murcia (octubre y noviembre); el Ayuntamiento paga los desplazamientos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familia e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza la formación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157187E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Curso online sobre tribunales de selección para el secretario accidental",
+      "categoria": "personal",
+      "resumen": "Se ordena al secretario accidental hacer un curso virtual de 40 horas sobre órganos técnicos de selección del CEMCI (Diputación de Granada); el Ayuntamiento paga la matrícula de 250 euros.",
+      "entidades": [
+        {
+          "nombre": "Centro de Estudios Municipales y de Cooperación Internacional (CEMCI), Diputación de Granada",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159537T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Ayuda por hijos con discapacidad a una trabajadora municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar-inspectora de obras la ayuda del convenio por hijo con discapacidad: 164,41 euros al mes por un hijo y 81,11 euros al mes por otro. Deberá acreditar cada año que no recibe otras ayudas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1156835Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nueva composición de la Mesa de Contratación",
+      "categoria": "organizacion",
+      "resumen": "Se renueva la composición de la Mesa de Contratación de la Junta de Gobierno y de la Alcaldía para incluir a la nueva técnica de gestión de Contratación. La preside el concejal de Urbanismo, con suplentes de Hacienda y Servicios Públicos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "790755X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Placas solares en la Escuela Infantil La Alameda",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (9.872,24 euros) y se adjudica por contrato menor la instalación solar fotovoltaica de la Escuela Infantil La Alameda.",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6412.09,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1152046P",
+      "lugar": "Escuela Infantil La Alameda",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Vados peatonales en el cruce de Historiador Miguel Ortuño y Antonio Machado",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto (26.242,15 euros) y se adjudica por contrato menor la ejecución de vados peatonales accesibles en ese cruce, obra del Plan de Obras y Servicios 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Navarro y Palao S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21638.43,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1146205C",
+      "lugar": "Cruce de calle Historiador Miguel Ortuño con calle Antonio Machado",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Mantenimiento anual de los sistemas contra incendios municipales 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el mantenimiento reglamentario anual de las instalaciones contra incendios del Ayuntamiento en 2025.",
+      "entidades": [
+        {
+          "nombre": "Bifan Ibérica de Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9928.91,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1136439N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Bolardo en una esquina para que los coches no golpeen una fachada",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe de la Policía Local, se aprueba instalar un bolardo en la esquina de su vivienda para evitar que los vehículos dañen la fachada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1155784F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Se trasladan cuatro contenedores de basura durante una obra",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino que va a reformar su vivienda, se trasladan provisionalmente cuatro contenedores de orgánica a un solar de la calle Molino hasta que acaben las obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159332J",
+      "lugar": "Calle Molino (solar)",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Consulta pública para cambiar la zona azul en la Ordenanza de Circulación",
+      "categoria": "normativa",
+      "resumen": "Se abre una consulta pública de 15 días en yecla.es para modificar el artículo 16 de la Ordenanza de Circulación y adaptarlo al nuevo contrato de la zona azul: duración mínima y máxima del aparcamiento, más tiempo para algunos colectivos profesionales y vehículos que no pagarán.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157395T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocatoria de ayudas a asociaciones juveniles 2025 (hasta 4.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones para asociaciones y entidades juveniles de Yecla inscritas en el censo regional, para actividades de 2025, con un máximo total de 4.000 euros y 20 días para pedirlas desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157198W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Campaña de comercio 'Yecla Con Sentido' en la Feria del Mueble (19.257 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa y el presupuesto de la campaña de promoción del comercio local 'Yecla Con Sentido', del 9 al 19 de octubre en la Feria del Mueble.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19257.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154954D",
+      "lugar": "Feria del Mueble",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Convenio con la Universidad de Murcia para la Universidad del Mar en Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio anual con la Universidad de Murcia para las actividades de la Universidad Internacional del Mar en Yecla, con una aportación municipal de 7.000 euros para el seminario 'Bene Lava. Las Termas en las Villae de Hispania'.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe aportación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121705Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Programa definitivo de cursos de la Universidad Popular 2025/2026",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de la Universidad Popular: 22 cursos largos (bolillos, bordado, cerámica, pilates, yoga, restauración, etc.) y 22 talleres cortos (cocina, catas, informática, micología...). Otros seis cursos quedan pendientes hasta conocer los inscritos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "119357N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Prácticas de un alumno del IES Castillo Puche en el Servicio de Deportes",
+      "categoria": "convenio",
+      "resumen": "Se autoriza que un alumno del ciclo de Enseñanza y Animación Sociodeportiva haga 400 horas de prácticas no remuneradas en el Servicio Municipal de Deportes entre octubre y diciembre, con la colaboración de la empresa que gestiona las actividades deportivas.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1160196J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Plan de seguridad de la obra del colector de calle Molineta",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la sustitución de 39 metros de colector de alcantarillado en calle Molineta.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Martinez Sanchez e Hijo S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126624F",
+      "lugar": "Calle Molineta",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Plan de seguridad de la obra del entorno de la Antigua Estación de Tren",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la mejora del entorno urbano de la Antigua Estación de Tren (Plan de Obras y Servicios 2024/25).",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación de Tren",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Pabellón gratis para la presentación de temporada del Hispania Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba la cesión gratuita del Pabellón José Ortega Chumilla, valorada en 39,85 euros, para la presentación de la temporada 2025/2026 y un partido de liga del 4 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Hispania Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe cesión gratuita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154081Q",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Adjudicado por 508.200 € el nuevo césped del Campo de Fútbol nº 3",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la renovación del césped y elementos perimetrales del Campo de Fútbol nº 3 del complejo Juan Palao Azorín (420.000 euros más IVA), financiada por el Consejo Superior de Deportes con fondos europeos y la CARM. Era la única oferta clasificada: la de Realturf Systems fue rechazada por incumplir el pliego técnico.",
+      "entidades": [
+        {
+          "nombre": "Obras y Pavimentos Especiales, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora rechazada"
+        },
+        {
+          "nombre": "Consejo Superior de Deportes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 508200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145333Q",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 3
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Licitación de servidores para el centro de datos municipal (193.144 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueban los pliegos y se abre procedimiento abierto para comprar e instalar servidores para el Centro de Datos del Ayuntamiento, con un presupuesto de 193.144,02 euros IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 193144.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093145H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Adjudicado el bar-cafetería del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular, por contrato menor de concesión, la explotación del bar-cafetería del Centro Municipal de Personas Mayores Las Herratillas por un precio total de 15.611,05 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 15611.05,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1134281Q",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Ciclosenderos turísticos: se pide informe a la CARM por pasar por espacios protegidos",
+      "categoria": "contrato",
+      "resumen": "En el contrato de ciclosenderos turísticos adjudicado en 2024 a Silvoturismo Mediterráneo (88.570,40 euros, fondos europeos), varias rutas cruzan espacios protegidos (Parque Regional de El Carche, ZEPA de las Estepas de Yecla y montes de utilidad pública), así que se envían las 7 rutas a la CARM y se le pide un informe de viabilidad.",
+      "entidades": [
+        {
+          "nombre": "Silvoturismo Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982777T",
+      "lugar": "Sierra de las Pansas (Parque Regional El Carche); ZEPA Estepas de Yecla; montes Algezares y Castillarejos y Cerro de la Flor",
+      "interes": 2
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Teatro 'Mamá quiero ser Mayordomo': caché de 1.700 € y entradas a 6 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la obra de teatro 'Mamá quiero ser Mayordomo' en el Teatro Concha Segura el 17 de octubre, con un caché de 1.700 euros y entradas a 6 euros en todas las zonas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1700.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    }
+  ]
+}

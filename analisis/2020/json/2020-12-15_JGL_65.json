@@ -1,0 +1,758 @@
+{
+  "doc": "2020-12-15_JGL_65",
+  "organo": "JGL",
+  "sesion": 65,
+  "fecha": "2020-12-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 54,
+  "resumen": "El Ayuntamiento manifiesta su frontal oposición a la planta solar El Quijote, de 305 hectáreas, porque dañaría la zona protegida de las Estepas de Yecla. Sube de grado a unos 120 empleados municipales con la nueva carrera profesional (78.929 €) y elige a Elecnor Seguridad para el sistema de videovigilancia ciudadana. También licita la renovación de tuberías en la calle San Ramón, aprueba la Escuela de Navidad, compra equipos informáticos, deniega 60 contenedores privados de ropa y aceite y frena las carpas en las terrazas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Liquidación de obligaciones: tasa de basuras cobrada por FCC Aqualia (abril)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba una liquidación a FCC Aqualia, S.A. relativa al cobro de la tasa de recogida de basuras de abril de 2020. El importe no se lee en el acta (OCR).",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "443764P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Se rechaza una factura de socorrismo en piscinas por falta de fiscalización",
+      "categoria": "pago_factura",
+      "resumen": "Se suspende el pago y se rechaza la factura de 5.562,16 € de Podium Gestión Integral, S.L. por el socorrismo y las actividades dirigidas en las piscinas municipales, porque el gasto no se fiscalizó. Como el servicio se prestó, se abre un expediente para pagarle como indemnización por enriquecimiento injusto.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "factura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5562.16,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "489089Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Cambio de director de obra de una vivienda en suelo rústico",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del nuevo director de obra de una vivienda unifamiliar aislada de particulares (licencia 544/2018).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad (una concejala del PP se ausenta por interés personal)",
+      "expediente": "116400R",
+      "lugar": "Polígono 128",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Inicio de obras de una vivienda de Amiced 2014, S.L. en calle Sor Concepción",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Amiced 2014, S.L. a empezar las obras de una vivienda unifamiliar entre medianeras (licencia 281/2020), con 24 meses de plazo.",
+      "entidades": [
+        {
+          "nombre": "Amiced 2014, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482026F",
+      "lugar": "Calle Sor Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para un edificio de 3 viviendas, nave y garajes en Avda. Pablo Picasso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia (proyecto básico) para construir un edificio de 3 viviendas, nave, garaje y trasteros, con fianza de 1.350 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479170P",
+      "lugar": "Avda. Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Inicio de obras de una vivienda entre medianeras (licencia 343/2020)",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a empezar las obras de su vivienda unifamiliar, con fianza de 125 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480072R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Reforma y ampliación de una vivienda en el paraje La Fontanica",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para reformar y ampliar una vivienda existente en suelo rústico.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483073K",
+      "lugar": "Paraje La Fontanica",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Proyecto Denver, S.L. podrá derribar una nave en el polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Proyecto Denver, S.L. licencia para demoler una nave industrial en la Avda. Juan Carlos I (P.I. Las Teresas), con fianzas de 2.163 € (urbanización) y 9.571,50 € (alumbrado y mobiliario urbano).",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484110A",
+      "lugar": "Avda. Juan Carlos I, P.I. Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Inicio de obras de una vivienda entre medianeras (licencia 433/2020)",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de su vivienda unifamiliar, con fianza de 465 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486228R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para una vivienda aislada en el paraje Cerrico de la Fuente",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia (proyecto básico) para una vivienda unifamiliar aislada en suelo rústico; deberá justificar el saneamiento o poner una fosa séptica.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488179C",
+      "lugar": "Paraje Cerrico de la Fuente (polígono 110)",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Derribo de un edificio en esquina en calles Peligros y San Luis",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler un edificio en esquina, con fianzas de 727,35 € y 1.835,70 € y desratización previa.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487994W",
+      "lugar": "Calles Peligros y San Luis",
+      "interes": 1
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Derribo de una construcción diseminada en el paraje Los Pinillos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler una construcción aislada en el paraje Los Pinillos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489682P",
+      "lugar": "Paraje Los Pinillos",
+      "interes": 1
+    },
+    {
+      "ref": "3.11",
+      "titulo": "Derribo parcial de un edificio en Avda. Pablo Picasso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para la demolición parcial de un edificio, con fianzas de 1.577,62 € y 36,83 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490420P",
+      "lugar": "Avda. Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "3.12",
+      "titulo": "Bioconstrucciones Ripoll, S.L. podrá derribar un edificio en calle Trinquete",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Bioconstrucciones Ripoll, S.L. licencia para demoler un edificio en esquina en la calle Trinquete, con fianzas de 877,64 € y 798,48 €.",
+      "entidades": [
+        {
+          "nombre": "Bioconstrucciones Ripoll, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491229N",
+      "lugar": "Calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Compra de un SAI (alimentación ininterrumpida) para el Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Redeles Eléctrica de Levante, S.L. el suministro de un SAI para la Casa Consistorial por 17.182 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17182.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489907C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Compra de cabinas de discos para los servidores municipales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Infomicro Comunicaciones, S.L. el suministro de cabinas de discos (almacenamiento informático) por 17.685,67 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17685.67,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490137D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza de invierno del bar La Familia en calle Salzillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar La Familia (24 m²) del 1 de noviembre de 2020 al 31 de marzo de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491081H",
+      "lugar": "Calle Salzillo",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Terraza de invierno del Mesón de María en calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Mesón de María (30 m²) del 1 de noviembre de 2020 al 31 de marzo de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486665Z",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Terraza de invierno de la Cafetería TJ: solo como en verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la terraza de invierno de 24 m² pedida por la Cafetería TJ en la calle Literato Azorín, pero se autoriza la terraza en invierno en las mismas condiciones que en verano.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "463782R",
+      "lugar": "Calle Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegadas carpas en la calle para la Cafetería TJ por la moratoria de toldos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniegan las carpas en la vía pública para la terraza de la Cafetería TJ, porque el 9 de diciembre se paralizaron las autorizaciones de toldos en terrazas hasta estudiar unos criterios (afean las calles y dificultan el paso, sobre todo en ejes como San Antonio y Cruz de Piedra).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "463782R",
+      "lugar": "Calle Literato Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Venta solidaria de centros navideños en la Plaza Mayor a beneficio de AFAY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Educación de Adultos un puesto en la Plaza Mayor el 16 de diciembre para vender centros navideños a beneficio de AFAY, prestándole una carpa, una mesa y dos sillas.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "AFAY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490501C",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Denegada más señalización en la calle Serratillas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina más señalización contra el aparcamiento indebido y la velocidad en la calle Serratillas: la Policía Local dice que no se superan los 50 km/h y que la señalización es correcta.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "490521E",
+      "lugar": "Calle Serratillas",
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Repintado de la línea amarilla y pasos de peatones en calle El Ángel",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina, se aprueba repintar la línea amarilla continua y los pasos de peatones de la calle El Ángel.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490540F",
+      "lugar": "Calle El Ángel",
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Denegados 60 contenedores de ropa usada y aceite de una empresa privada",
+      "categoria": "medio_ambiente",
+      "resumen": "Se deniega a East-West Productos Textiles, S.L. instalar 30 contenedores de ropa usada y 30 de aceite doméstico en la calle, porque esas recogidas ya están incluidas en el contrato municipal de basuras y no cabe darlas sin concurso.",
+      "entidades": [
+        {
+          "nombre": "East-West Productos Textiles, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "491361X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Escuela Municipal de Vacaciones de Navidad 2020 (6.979 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela de Navidad del 23 de diciembre al 8 de enero para niños de 3 a 12 años cuyos padres trabajen o se formen, con un gasto de 6.979 €. Está subvencionada por la CARM y cofinanciada al 80% por el Fondo Social Europeo.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6979.0,
+      "importes": [
+        {
+          "concepto": "Servicios para la Escuela de Navidad",
+          "eur": 5929.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Limpieza de instalaciones",
+          "eur": 750.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Otros gastos",
+          "eur": 300.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490841Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Frontal oposición a la planta solar El Quijote (160 MWp) en las Estepas de Yecla",
+      "categoria": "medio_ambiente",
+      "resumen": "El Ministerio para la Transición Ecológica consultó sobre la evaluación ambiental de la planta fotovoltaica El Quijote (160 MWp, 305 hectáreas, entre Yecla, Almansa y Bonete). Según los técnicos municipales afecta gravemente a la ZEPA Estepas de Yecla, Tabarrillas, vías pecuarias, árboles singulares y yacimientos. El Ayuntamiento remite los informes y manifiesta su frontal oposición.",
+      "entidades": [
+        {
+          "nombre": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486402J",
+      "lugar": "Estepas de Yecla (ZEPA ES0000196), zona de Tabarrillas",
+      "interes": 3
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Licencia de segregación de una finca de regadío en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a particulares licencia para segregar una parcela de 4.140 m² de una finca de almendros de regadío de unos 8.300 m², sin construcciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477415Q",
+      "lugar": "Polígono 88",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Jubilación anticipada del mecánico municipal",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la jubilación voluntaria anticipada del mecánico municipal desde el 30 de diciembre, tras 16 años de servicio, y se le agradece su trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "491740Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Denegado reconocer como indefinida no fija a una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Aunque la trabajadora cumpliría los requisitos del Estatuto de los Trabajadores, la Ley de Presupuestos de 2018 impide al Ayuntamiento reconocer la condición de indefinido no fijo salvo por sentencia judicial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "491775X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Carrera profesional: subida de grado a unos 120 empleados municipales (78.929 €)",
+      "categoria": "personal",
+      "resumen": "Se resuelve el primer concurso para integrar a funcionarios y laborales fijos en la carrera profesional horizontal: se reconoce un grado personal superior a cerca de 120 empleados, se deniega a otros por no cumplir requisitos y se fijan criterios para los próximos concursos. Gasto de 78.929 € con efectos desde 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 78929.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "140934W, 274539E, 299441Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Corrección: el programa de empleo de espacios naturales contrata peones forestales",
+      "categoria": "personal",
+      "resumen": "Se corrige el acuerdo del 1 de diciembre: el programa de Empleo Público Local «Mejora de espacios públicos de interés ambiental 2020», subvencionado por el SEF y el Fondo Social Europeo, contratará un forestal-capataz y dos peones forestales (no tres peones de obra) durante seis meses.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475850D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Se licita la renovación de saneamiento y agua en calle San Ramón",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre procedimiento abierto simplificado para renovar las redes de saneamiento y agua potable de la calle San Ramón (entre Don Lucio y Numancia), con presupuesto de 34.200 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 34200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491425K",
+      "lugar": "Calle San Ramón (entre c/ Don Lucio y c/ Numancia)",
+      "interes": 2
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Elecnor Seguridad, la mejor oferta para el sistema de videovigilancia ciudadana",
+      "categoria": "contrato",
+      "resumen": "En el contrato de suministro e instalación de un sistema de seguridad ciudadana se excluye a Ares Seguridad, S.L. y Tradesegur, S.A. por no cumplir el pliego (y desvelar su oferta, en el caso de Ares). Elecnor Seguridad, S.L. queda primera (89,22 puntos) y se le pide la documentación y una garantía de 8.819,53 €, lo que indica un precio de unos 176.000 € sin IVA.",
+      "entidades": [
+        {
+          "nombre": "Elecnor Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        },
+        {
+          "nombre": "Ares Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Tradesegur, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475147C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Indemnización a Podium por el cierre COVID del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Por el cierre por el COVID del Centro de Mayores Las Herratillas, se paga a Podium Gestión Integral, S.L. (contrato de dinamización de 39.566,13 €/año) la indemnización justificada de octubre (1.255,29 €) y noviembre (1.255,12 €).",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2510.41,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436934R",
+      "lugar": "Centro de Mayores Las Herratillas",
+      "interes": 2
+    }
+  ]
+}

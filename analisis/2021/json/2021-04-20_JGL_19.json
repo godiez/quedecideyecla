@@ -1,0 +1,1128 @@
+{
+  "doc": "2021-04-20_JGL_19",
+  "organo": "JGL",
+  "sesion": 19,
+  "fecha": "2021-04-20",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno licita los seguros del Ayuntamiento (100.000 € al año) y se opone a la línea eléctrica de la planta solar FV Peñarrubia, porque el Pleno ha suspendido las licencias de plantas solares. Paga 36.752 € en facturas (sobre todo obras de agua de FCC Aqualia), aprueba los criterios de ayudas de clases de apoyo para alumnos de ESO vulnerables y contrata el espectáculo de El Brujo. Se autorizan 19 terrazas de verano, casi todas con superficie ampliada por la COVID, y se deniega una.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 13 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: medidas COVID, encuesta del INE y dos sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa del decreto regional que actualiza las restricciones COVID y de la orden con el nivel de alerta sanitaria de cada municipio, de un escrito del INE sobre la Encuesta de Características Esenciales de la Población y las Viviendas 2021, de una sentencia del Juzgado de lo Social nº 1 de Murcia que desestima la demanda de una trabajadora que pedía ser reconocida como laboral indefinida, y de una sentencia de lo Contencioso que desestima el recurso de Mecod Proyecta, S.L. y otra persona contra una actuación sancionadora de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto Nacional de Estadística",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Juzgado de lo Social nº 1 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Mecod Proyecta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre (desestimado)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: equipamiento del edificio Cazadores y obras de agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: mobiliario de ocio para la planta semisótano del edificio 'Cazadores' y cuatro de FCC Aqualia (bonificaciones a familias numerosas, válvulas en Urbayecla, bombeo de Raspay y renovación de la red de agua en calle Mula).",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36751.88,
+      "importes": [
+        {
+          "concepto": "Equipamiento lúdico de la planta semisótano del edificio 'Cazadores'",
+          "eur": 14757.29,
+          "entidad": "Fama Sofás, S.L.U."
+        },
+        {
+          "concepto": "Bonificaciones a familias numerosas en el agua, 4º trimestre 2020",
+          "eur": 3044.1,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Instalación de válvulas en Urbayecla",
+          "eur": 4630.84,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Renovación del bombeo del servicio de agua de Raspay",
+          "eur": 4790.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Renovación de la red de agua potable en calle Mula",
+          "eur": 9529.25,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495040F, 484332H, 497898A, 497388R, 496292W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Padrones del agua (1er trimestre) y de la basura (2º trimestre de 2021)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se toma razón de la lista cobratoria del agua del 1er trimestre de 2021 (278.403,08 €), con un canon para el Ayuntamiento de 46.384,78 € y 228.277,51 € de canon de saneamiento que se recauda para la Comunidad Autónoma. Se aprueba la lista de la tasa de basura del 2º trimestre (346.796,80 €), que cobra FCC Aqualia, y se anulan recibos de 2020 por 388 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda (concesionaria)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 1T 2021",
+          "eur": 278403.08,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de la concesión a favor del Ayuntamiento",
+          "eur": 46384.78,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 228277.51,
+          "entidad": "CARM"
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basura 2T 2021",
+          "eur": 346796.8,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de 2020 anulados",
+          "eur": 388.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504592Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'Mi vida es un show' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (3.736,80 €) en las dos funciones del 9 y 10 de abril de 2021 y se dan de baja las entradas no vendidas (1.567,20 €), de un cargo total de 5.304 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3736.8,
+      "importes": [
+        {
+          "concepto": "Taquilla 9/4/2021",
+          "eur": 1670.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Taquilla 10/4/2021",
+          "eur": 2066.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja entradas no vendidas (dos funciones)",
+          "eur": 1567.2,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504539Z (dudoso por OCR)",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Modificación del proyecto de una vivienda aislada en paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a unos particulares a modificar el proyecto básico de una vivienda unifamiliar aislada con licencia de 2012 (que ha cambiado varias veces de titular). Para empezar la obra deberán presentar el proyecto de ejecución; si no hay saneamiento, fosa séptica.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497339Z (dudoso por OCR)",
+      "lugar": "Paraje La Decarada (polígono 34)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia a Ortiz Panadero, S.L. para convertir un local en vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para cambiar el uso de un local a vivienda en la plaza de la Concordia, con fianza de 400 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Ortiz Panadero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501834H (dudoso por OCR)",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Sánchez Cano España para reformar naves como almacén de alimentos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Sánchez Cano España, S.L.U. para reformar naves existentes y adecuarlas como almacén de productos alimentarios en el paraje Rabosera.",
+      "entidades": [
+        {
+          "nombre": "Sánchez Cano España, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504543E",
+      "lugar": "Paraje Rabosera (polígono 115, parcela 173)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para vivienda aislada y garaje en zona inundable de El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos particulares licencia para una vivienda unifamiliar aislada con garaje en el paraje El Lentiscar, ligada a una explotación agraria. Al estar en suelo inundable, deberán elevar el garaje, dejar paso al agua y registrar ante la CHS que conocen el riesgo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481914A",
+      "lugar": "Paraje El Lentiscar (polígono 113)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Exclusión de la bolsa de conserjes: no procede, ya se acordó",
+      "categoria": "personal",
+      "resumen": "Se retira el asunto porque la exclusión de una persona de la bolsa de empleo de conserjes-operarios ya se acordó el 2 de marzo de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "504691K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Renuncia de un aspirante a agente de Policía Local en prácticas",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de un aspirante aprobado en la oposición de 9 plazas de agente de Policía Local (OEP 2018), porque ha tomado posesión en otra administración.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "154253Q (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Anticipo de nómina de 3.000 € a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa de Secretaría un anticipo de 3.000 € de su sueldo, que devolverá según el reglamento.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe anticipo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504437H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 28 m² para Nuestro bar en calle Rogelio Azorín Navarro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Nuestro bar' en calle Rogelio Azorín Navarro para la temporada de verano (1 de abril a 31 de octubre de 2021) con 28 m². Supera lo normal (14 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503146P",
+      "lugar": "calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 20 m² para Mesón La Parra en avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Mesón La Parra' en avenida Literato Azorín para la temporada de verano (1 de abril a 31 de octubre de 2021) con 20 m². Supera lo normal (10 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503148R",
+      "lugar": "avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de 140 m² para Churrería La Paloma en avenida de la Libertad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Churrería La Paloma' en avenida de la Libertad para la temporada de verano (1 de abril a 31 de octubre de 2021) con 140 m². Supera lo normal (70 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503693Z",
+      "lugar": "avenida de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de 50 m² para El olivo de Jaén en plaza García Lorca",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'El olivo de Jaén' en plaza García Lorca para la temporada de verano (1 de abril a 31 de octubre de 2021) con 50 m². Supera lo normal (30 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503535E",
+      "lugar": "plaza García Lorca",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de 16 m² para Yecla Kebab en calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Yecla Kebab' en calle Rambla para la temporada de verano (1 de abril a 31 de octubre de 2021) con 16 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503694A",
+      "lugar": "calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Terraza de 120 m² para Cafetería Ideal en avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Ideal' en avenida de la Feria para la temporada de verano (1 de abril a 31 de octubre de 2021) con 120 m². Supera lo normal (60 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503333Z",
+      "lugar": "avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Terraza de 32 m² para Cafetería Bulebar en calle Zaplana",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería Bulebar' en calle Zaplana para la temporada de verano (1 de abril a 31 de octubre de 2021) con 32 m². Supera lo normal (18 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503687Q",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Terraza de 16 m² para Bar Hendrix en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Hendrix' en calle San José para la temporada de verano (1 de abril a 31 de octubre de 2021) con 16 m². Supera lo normal (8 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503183Y",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Terraza de 42 m² para Restaurante San Marco en calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Restaurante San Marco' en calle Trinquete para la temporada de verano (1 de abril a 31 de octubre de 2021) con 42 m². Supera lo normal (21 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503534D",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Denegada terraza sin mesas del bar La Perla de Gonzalo en calle Ercilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega una terraza solo con sillas pegadas a la pared porque, según la Policía Local, molestaría la entrada y salida de vehículos y la normativa COVID no permitía atender en barra.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "503379N",
+      "lugar": "Calle Ercilla",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón del Edificio Bioclimático para la Asociación No hay límite Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos el 22 de abril de 2021 para una ponencia sobre el proyecto Inserta Empleo de la ONCE.",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503868R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Aulas del Edificio Bioclimático para un curso del CIFEA de Jumilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden dos aulas al Centro Integrado de Formación y Experiencias Agrarias de Jumilla para un curso de bienestar animal en el transporte, cinco sábados de mayo y junio.",
+      "entidades": [
+        {
+          "nombre": "CIFEA de Jumilla (CARM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504049T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Grabación en la Casa de Cultura para un documental de Mediaset sobre el robo de 1998",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza excepcionalmente, por tratarse del derecho a la información, a la productora Newcom Productions a grabar el 22 de abril dos entrevistas para un documental de Mediaset España sobre el robo ocurrido en Yecla en 1998.",
+      "entidades": [
+        {
+          "nombre": "Newcom Productions, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "Mediaset España",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "destinatario del documental"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504396A",
+      "lugar": "Casa Municipal de Cultura 'Pablo Corbalán'",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Criterios de las ayudas para clases de apoyo de ESO a menores vulnerables",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban los criterios para dar ayudas municipales con las que menores de ESO en situación de vulnerabilidad social asisten a academias privadas de refuerzo escolar, para prevenir el absentismo y el fracaso escolar. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Centro Municipal de Servicios Sociales",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "gestiona"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504689H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Adhesión al Sistema Integral de Calidad Turística en Destinos (SICTED)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba firmar el protocolo de adhesión al SICTED, un programa de calidad turística, remitido por la Dirección General de Competitividad y Calidad Turística.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Competitividad y Calidad Turística",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500897Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "El Ayuntamiento se opone a la línea eléctrica de 132 kV de la planta solar FV Peñarrubia",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "La Dirección General de Energía pidió informe sobre la línea eléctrica de 132 kV que evacuaría la energía de la planta 'FV Peñarrubia' (49,94 MWp). El Ayuntamiento aprueba los informes técnicos y se opone, porque el Pleno del 5 de abril de 2021 suspendió las licencias para plantas solares y ya se opuso a la planta el 13 de abril.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Energía y Actividad Industrial y Minera (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita el proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "355885K",
+      "lugar": "Peñarrubia",
+      "interes": 3
+    },
+    {
+      "ref": "11",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un particular la condición de residente en zona azul para su vehículo, hasta el 31 de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita tarjeta"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504845Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Contrato temporal de un conserje para la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se contrata de forma interina, desde la bolsa de empleo o el SEF, un conserje-operario para sustituir a otro de baja en la Universidad Popular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505000P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Contrato temporal de un agente de desarrollo local",
+      "categoria": "personal",
+      "resumen": "Se contrata de forma interina, desde la bolsa de empleo o el SEF, un agente de desarrollo local para sustituir a una trabajadora de baja, porque sus funciones estaban desatendidas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504971Z (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Se prorroga el teletrabajo municipal por la COVID hasta el 31 de mayo",
+      "categoria": "personal",
+      "resumen": "Se prorroga un mes más, hasta el 31 de mayo de 2021, los criterios de teletrabajo de los empleados municipales por la pandemia.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494547X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Una técnica de Educación Infantil, indefinida no fija por sentencia",
+      "categoria": "personal",
+      "resumen": "En ejecución de una sentencia del Juzgado de lo Social nº 7 de Murcia, se reconoce a una técnica de Educación Infantil como trabajadora indefinida no fija, con antigüedad desde febrero de 2013.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "350172A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Se licitan los seguros del Ayuntamiento: 100.000 € al año",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto con publicidad en la UE para contratar las pólizas de responsabilidad civil, daños materiales y flota de vehículos. Precio base: 100.000 € al año (exento de IVA), por un año prorrogable cuatro más.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 100000.0,
+      "importes": [
+        {
+          "concepto": "Lote 1: Responsabilidad civil/patrimonial (anual)",
+          "eur": 43000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: Daños materiales (anual)",
+          "eur": 29000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: Flota de vehículos (anual)",
+          "eur": 28000.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 1/21; 498615X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Contrato del espectáculo de El Brujo 'Dos tablas y una pasión'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Gestión y Producción Bakty, S.L. la actuación 'Dos tablas y una pasión', por 9.075 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Gestión y Producción Bakty, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9075.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502680R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Terraza de 36 m² para Pizzería La Mamma en Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Pizzería La Mamma' en Parque de la Constitución para la temporada de verano (1 de abril a 31 de octubre de 2021) con 36 m².",
+      "entidades": [
+        {
+          "nombre": "Bopipo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503323K",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Terraza de 82 m² para Hamburguesería Alexandra en plaza Concejala Mª Carmen Lorente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Hamburguesería Alexandra' en plaza Concejala Mª Carmen Lorente para la temporada de verano (1 de abril a 31 de octubre de 2021) con 82 m². Supera lo normal (45 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504920D",
+      "lugar": "plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Terraza de 90 m² para Café Candilejas en calle Alfarería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Café Candilejas' en calle Alfarería para la temporada de verano (1 de abril a 31 de octubre de 2021) con 90 m². Supera lo normal (45 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503385X",
+      "lugar": "calle Alfarería",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Terraza de 18 m² para Cafetería TJ en avenida Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Cafetería TJ' en avenida Literato Azorín para la temporada de verano (1 de abril a 31 de octubre de 2021) con 18 m². Supera lo normal (9 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504027N",
+      "lugar": "avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Terraza de 26 m² para Tago's Bar en calle Antonio Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Tago's Bar' en calle Antonio Ortega para la temporada de verano (1 de abril a 31 de octubre de 2021) con 26 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471256Y",
+      "lugar": "calle Antonio Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Terraza de 24 m² para Bar Estación en avenida Pablo Picasso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Estación' en avenida Pablo Picasso para la temporada de verano (1 de abril a 31 de octubre de 2021) con 24 m². Supera lo normal (12 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504025K",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Terraza de 48 m² para La Cerámica en plaza Alcalde José Martínez Sánchez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'La Cerámica' en plaza Alcalde José Martínez Sánchez para la temporada de verano (1 de abril a 31 de octubre de 2021) con 48 m². Supera lo normal (24 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504031T",
+      "lugar": "plaza Alcalde José Martínez Sánchez",
+      "interes": 1
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Terraza de 9 m² para RH Café en calle Francisco Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'RH Café' en calle Francisco Azorín para la temporada de verano (1 de abril a 31 de octubre de 2021) con 9 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503325N",
+      "lugar": "calle Francisco Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "12.15",
+      "titulo": "Terraza de 32 m² para Bar Obélix en calle Rogelio Azorín Navarro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar Obélix' en calle Rogelio Azorín Navarro para la temporada de verano (1 de abril a 31 de octubre de 2021) con 32 m². Supera lo normal (16 m²) para compensar la limitación de aforo por la COVID; volverá a su tamaño cuando acaben las restricciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476109N",
+      "lugar": "calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "12.16",
+      "titulo": "Terraza de 27 m² para Bar El Siete en calle Fábricas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de 'Bar El Siete' en calle Fábricas para la temporada de verano (1 de abril a 31 de octubre de 2021) con 27 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477560D",
+      "lugar": "calle Fábricas",
+      "interes": 1
+    },
+    {
+      "ref": "12.17",
+      "titulo": "Mostrador de venta de libros en la Semana del Libro junto a la librería Menudo Cuento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza de forma excepcional un mostrador para vender libros en la calle del Niño Jesús del 19 al 24 de abril de 2021, porque ese año no se celebraba la Feria del Libro municipal.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503637X",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "12.18",
+      "titulo": "Mesa informativa de Vox en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a poner una mesa informativa en la Plaza de España el 8 de mayo de 2021, de 10:00 a 14:00, con medidas sanitarias.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504515Q (dudoso por OCR)",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "12.19",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos para su matrimonio civil el 30 de abril de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501171X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "12.20",
+      "titulo": "Piscina cubierta para entrenamientos con tiempos oficiales del Club Natación Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Natación Yecla a usar la piscina cubierta municipal los sábados por la tarde para entrenamientos con cronometraje oficial de la Federación, el primero el 24 de abril. La cesión gratuita queda condicionada al proceso de reservas de la temporada; si no se aprueba, el club pagará el precio público.",
+      "entidades": [
+        {
+          "nombre": "Club Natación Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "Federación de Natación de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "arbitra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501551Z",
+      "lugar": "Piscina Cubierta Municipal",
+      "interes": 1
+    }
+  ]
+}

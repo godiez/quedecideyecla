@@ -1,0 +1,705 @@
+{
+  "doc": "2024-09-10_JGL_42",
+  "organo": "JGL",
+  "sesion": 42,
+  "fecha": "2024-09-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno adjudica por 114.950 euros la redacción del proyecto para rehabilitar el edificio de 'Cazadores' como centro multifuncional (fondos europeos), un asfaltado de calles por casi 45.000 euros y la seguridad de la Feria de Septiembre. Paga 159.391 euros en facturas, sobre todo el mantenimiento de las instalaciones deportivas. Prepara la Feria: corrida de toros gratuita, atracciones, 47.783 euros de otros gastos y varios eventos deportivos. También convoca 36.000 euros en ayudas a entidades sociales, organiza el salón juvenil 'Yecla Quest' (17.025 euros) y reconoce a dos vecinos parcelas que figuraban a nombre del Ayuntamiento en el monte de los Algezares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 3 y 6 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las tres sesiones anteriores (3 de septiembre y dos del 6 de septiembre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 485.007 € para Servicios Sociales y un reintegro al SEF",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Ministerio amplía hasta el 31 de marzo de 2025 el plazo del proyecto de modernización digital del Ayuntamiento; de que la Comunidad Autónoma concede 485.007 euros para el funcionamiento de los Centros de Servicios Sociales de Atención Primaria, y de que el SEF exige devolver 8.472,17 euros de una subvención de 2022 de 27.045 euros.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Cooperación Autonómica y Local (Ministerio de Política Territorial y Memoria Democrática)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "amplía plazo de subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "exige reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 485007.0,
+      "importes": [
+        {
+          "concepto": "Subvención para gastos de funcionamiento de los Centros de Servicios Sociales de Atención Primaria",
+          "eur": 485007.0,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Reintegro parcial que debe devolver el Ayuntamiento de una subvención de 2022 (exp. 2022-02-71-0023)",
+          "eur": 8472.17,
+          "entidad": "Servicio Regional de Empleo y Formación (SEF)"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947227T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: mantenimiento de instalaciones deportivas y emisión en TeleYecla",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a Vectoris las mensualidades de julio y agosto del mantenimiento, limpieza y atención de las instalaciones deportivas, y a Fibraworld Telecom la emisión de plenos y actos institucionales en TeleYecla y TeleYecla Radio.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Fibraworld Telecom, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 159391.04,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, julio 2024",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, agosto 2024",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Contrato menor: emisión de plenos y actos institucionales y difusión municipal en TeleYecla y TeleYecla Radio",
+          "eur": 8000.0,
+          "entidad": "Fibraworld Telecom, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 897280Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar la fase I de una vivienda aislada en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un vecino a iniciar la primera fase de las obras de una vivienda unifamiliar aislada con garaje, barbacoa y piscina, cuya licencia se concedió en mayo, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696864R",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar obras de cambio de uso de nave agrícola a vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un vecino a iniciar las obras de ampliación y cambio de uso de una nave almacén agrícola a vivienda, con licencia concedida en marzo, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860638F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Rechazado un recurso contra la bolsa de empleo de arquitecto técnico",
+      "categoria": "personal",
+      "resumen": "Se desestima el recurso de una aspirante que pedía no puntuar como mérito el curso de adaptación al Grado en Ingeniería de Edificación. La Junta entiende que las bases permiten valorarlo como titulación distinta a la exigida. La bolsa queda con tres aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "879049C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de sustitución de un auxiliar de biblioteca para Los Huertos",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un auxiliar de biblioteca para el Centro de Lectura 'Los Huertos' hasta que la plaza vacante se cubra de forma definitiva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970597C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Una policía local podrá hacer un curso sobre inspección de accidentes de tráfico",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a hacer un curso semipresencial de la Escuela de Formación de la Administración Pública regional, descontando horas de su crédito.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "969616P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso retribuido por lactancia y vacaciones para una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se concede a una trabajadora social un permiso retribuido en sustitución de la hora de lactancia (18 de septiembre a 21 de octubre) y después sus vacaciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972886F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "La psicóloga de Servicios Sociales irá a una jornada sobre suicidio",
+      "categoria": "personal",
+      "resumen": "Se ordena a la psicóloga del Centro de Servicios Sociales asistir a la IV Jornada de Psicología y Suicidio del Colegio Oficial de Psicología, pagando el Ayuntamiento el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Psicología de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza la jornada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970302R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Corrida de toros gratuita en la Feria de Septiembre por 7.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la Escuela para Toreros de la Región de Murcia la organización de una corrida de toros el 22 de septiembre en la Plaza de Toros, con ganadería Guadalmena y entrada gratuita en todas las localidades. Debe depositar una fianza de 1.000 euros.",
+      "entidades": [
+        {
+          "nombre": "Escuela para Toreros de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "960261X",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Paseo a caballo por las calles de la Peña Amigos del Caballo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña Amigos del Caballo de Yecla un recorrido con caballos por varias calles el 16 de septiembre, con las medidas de la Policía Local y la obligación de recoger los excrementos.",
+      "entidades": [
+        {
+          "nombre": "Asociación Peña Amigos del Caballo de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972746M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Aula de la Naturaleza Coto Salinas para un club de ciclismo femenino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Ciclismo Femenino Base VGT a usar el Aula de la Naturaleza 'Coto Salinas' del 20 al 22 de septiembre para actividades educativas y recreativas ambientales.",
+      "entidades": [
+        {
+          "nombre": "Club de Ciclismo Femenino Base VGT",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita uso de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "974084W",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Dos salas del Edificio Bioclimático para el viceconsulado de Bolivia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede al vicecónsul de Bolivia el uso de dos salas del Edificio Bioclimático el 28 de septiembre para expedir certificados y otros documentos a sus ciudadanos.",
+      "entidades": [
+        {
+          "nombre": "Viceconsulado de Bolivia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita uso de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972850F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Cambio del director de obra del centro enoturístico de la Casa de los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se designa a otro arquitecto técnico municipal como director de ejecución y coordinador de seguridad y salud de las obras del centro enoturístico y mejora energética de la Casa de los Arcos (Plan de Sostenibilidad Turística, fondos Next Generation).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Criterios para ayudas de vivienda a personas muy vulnerables",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban los criterios de unas ayudas municipales extraordinarias para que personas o familias en especial vulnerabilidad accedan o mantengan una vivienda, con acompañamiento socioeducativo. Se dan de oficio, sin convocatoria pública, por su carácter excepcional y confidencial. No se indica importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "974567Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Convocatoria de 36.000 € en ayudas a entidades sociales para 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan subvenciones para asociaciones con proyectos de prevención, promoción e inserción social (línea 1) y de alojamiento temporal para personas vulnerables (línea 2), hasta 36.000 euros. Queda pendiente de que entren en vigor las nuevas bases.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 36000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970829Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Salón juvenil 'Yecla Quest' de cultura alternativa por 17.025 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza del 26 al 29 de septiembre el evento juvenil 'Yecla Quest', con videojuegos, cómic, manga, cosplay, cultura coreana y juegos de rol, con un gasto máximo de 17.025 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17025.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973563X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Campos gratis para el torneo 'Gori' y la presentación de la SD Fútbol Base",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza y apoya a la Sociedad Deportiva Fútbol Base para presentar sus 10 equipos en el campo de La Constitución (13 de septiembre) y celebrar el torneo Ciudad de Yecla 'Gori' en el Polideportivo Juan Palao (14 de septiembre), con uso gratuito de las instalaciones valorado en 360,20 euros.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe uso gratuito de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 360.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "960529T",
+      "lugar": "Campo de La Constitución y Polideportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Dos vecinos recuperan en el Catastro parcelas a nombre del Ayuntamiento en los Algezares",
+      "categoria": "patrimonio",
+      "resumen": "Se corrige un error de un acuerdo de junio y se aprueba pasar en el Catastro a nombre de dos vecinos unas parcelas que figuraban como del Ayuntamiento dentro del monte comunal 'Algezares y Castillarejos', porque acreditan tenerlas inscritas en el Registro de la Propiedad. Los gastos de amojonamiento los pagan ellos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919636Y, 498676F, 586634W, 735838Y",
+      "lugar": "monte Algezares y Castillarejos; paraje Fuente Álamo",
+      "interes": 2
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Plan de seguridad del asfaltado de calles Alfonso X, Hernán Cortés e Infante D. Juan Manuel",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por la empresa adjudicataria de la obra de parcheo y asfaltado de esas calles.",
+      "entidades": [
+        {
+          "nombre": "Involucra, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968092Y",
+      "lugar": "calles Alfonso X El Sabio, Hernán Cortés e Infante D. Juan Manuel",
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Plan de seguridad del parcheo de caminos rurales",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de parcheo de los caminos rurales Umbría del Factor, Depósito, Anchura y Sax, presentado por la adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971138D",
+      "lugar": "caminos Umbría del Factor, Depósito, Anchura y Sax",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Denegado un puesto de frutas y verduras en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a una vecina el único puesto libre (6L, de carnicería) para vender fruta y verdura, porque ya hay dos puestos de ese producto y conviene mantener la variedad del mercado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "823991H",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Permiso para abrir una zanja de riego en el camino CRB-57",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a abrir una zanja en el camino público CRB-57 para una conducción de riego, con fianza de 300 euros para reponer el firme.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971902P",
+      "lugar": "camino público CRB-57",
+      "interes": 1
+    },
+    {
+      "ref": "18.1",
+      "titulo": "Pago de las Escuelas Municipales de Vacaciones",
+      "categoria": "pago_factura",
+      "resumen": "Por urgencia, se aprueba pagar a Epsilon Servicios Educativos una factura del contrato de las Escuelas Municipales de Vacaciones.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14868.48,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931170R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.2",
+      "titulo": "Reducción de jornada de un inspector de obras para cuidar a su hijo",
+      "categoria": "personal",
+      "resumen": "Se concede a un inspector de obras una reducción de jornada no retribuida del 14,16% del 11 al 29 de septiembre para cuidado de hijo menor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975213N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.3",
+      "titulo": "114.950 € por el proyecto para rehabilitar el edificio de 'Cazadores'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica sin publicidad, al ganador del concurso de proyectos y único licitador, la redacción del proyecto, la dirección de obra y la coordinación de seguridad de la rehabilitación del edificio de 'Cazadores' como centro multifuncional de ocio, cultura y promoción económica, con fondos europeos Next Generation (programa PIREP).",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Neten Consultoria, S.L.L.-García Guisado S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 114950.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854499E",
+      "lugar": "edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "18.4",
+      "titulo": "Seguridad privada de la Feria de Septiembre por 9.993 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Selec Global Security el contrato menor de seguridad de la Feria de Septiembre, del 13 al 22 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Selec Global Security, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9993.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "970100M",
+      "lugar": "Recinto ferial",
+      "interes": 2
+    },
+    {
+      "ref": "18.5",
+      "titulo": "Asfaltado del aparcamiento de la Feria del Mueble, Rambla de Algezares y San Vicente",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (45.000 euros) y se adjudica a Alicaser, Obras y Servicios el contrato menor de parcheo y asfaltado de la ampliación del aparcamiento de la Feria del Mueble, la Rambla de Algezares y la calle San Vicente.",
+      "entidades": [
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 44959.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968493E",
+      "lugar": "aparcamiento Feria del Mueble, Rambla de Algezares y calle San Vicente",
+      "interes": 2
+    },
+    {
+      "ref": "18.6",
+      "titulo": "Presupuesto de otros gastos de la Feria de Septiembre: 47.783 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el presupuesto de otros gastos de la Feria de Septiembre 2024 por 47.782,90 euros. El detalle está en el informe de la programadora de Festejos y no figura en el acta.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 47782.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933718F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "18.7",
+      "titulo": "Atracciones y puestos de comida autorizados para la Feria de Septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan 21 atracciones y puestos (churros, coches de choque, hinchables, hamburgueserías, mesón...) para la Feria de Septiembre, la mayoría de feriantes particulares y algunas empresas, condicionados al certificado de montaje.",
+      "entidades": [
+        {
+          "nombre": "V.B. Grupo Atracciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Bañuls Attraction Events",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Atracciones Aladino, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Eventos Gastronómicos y Medievales Mesón Boutique, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938840W",
+      "lugar": "Recinto ferial",
+      "interes": 1
+    },
+    {
+      "ref": "18.8",
+      "titulo": "Proyecto municipal de actividad física y deporte 2024/2025",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el proyecto de deporte municipal de la temporada, con áreas de actividad física y salud, competiciones y eventos, y fomento del asociacionismo. Cada gasto se aprobará aparte.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971959T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.9",
+      "titulo": "Pabellón gratis para el 51º Torneo de Ajedrez de Feria",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza y apoya al Club de Ajedrez Municipal Yeclano para celebrar el 14 de septiembre el 51º Torneo Feria de Yecla en el Pabellón José Ortega Chumilla, con uso gratuito valorado en 455,30 euros.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe uso gratuito de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 455.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968444M",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "18.10",
+      "titulo": "Trail nocturno de Feria del Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya con medios municipales al Club Deportivo Fondistas Yecla para la carrera nocturna no competitiva del 17 de septiembre por los Castillarejos y el Colorao, con salida en el Recinto Ferial.",
+      "entidades": [
+        {
+          "nombre": "Club Deportivo Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959307X",
+      "lugar": "Castillarejos y el Colorao",
+      "interes": 1
+    },
+    {
+      "ref": "18.11",
+      "titulo": "Plaza de Toros cedida a la Peña Taurina para un espectáculo ecuestre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Peña Taurina Yeclana la Plaza de Toros el 21 de septiembre para el espectáculo ecuestre 'La Doma en el Aire', con una empresa colaboradora y aforo de unas 4.500 personas. Debe dejar fianza de 500 euros y obtener la autorización autonómica.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "974263T",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    }
+  ]
+}

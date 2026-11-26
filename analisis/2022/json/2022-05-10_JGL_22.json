@@ -1,0 +1,666 @@
+{
+  "doc": "2022-05-10_JGL_22",
+  "organo": "JGL",
+  "sesion": 22,
+  "fecha": "2022-05-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "Junta de Gobierno centrada en las Fiestas de San Isidro: se contrata el concierto de Nancys Rubias (21.780 euros) y la infraestructura de escenarios y tribunas (53.603 euros), y se autorizan el Mercado de San Isidro, chiringuitos y puestos en la Cabalgata. Se aprueba la oferta de empleo para estabilizar 47 plazas de personal temporal y el padrón de la tasa de vados (457.671 euros al cobro). Se informa de que el TSJ de Murcia ha anulado un artículo de la ordenanza de ruidos y se pagan unos 124.500 euros en facturas (autobús urbano, residuos, limpieza de edificios).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 3 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: horario de cierre en San Isidro, convenio ECAL y sentencia sobre la ordenanza de ruidos",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden regional que amplía el horario de cierre de bares y espectáculos por San Isidro, de la publicación del convenio con la CARM para el intercambio electrónico de datos (ECAL) y de una sentencia del Tribunal Superior de Justicia de Murcia que anula el artículo 43.2 de la ordenanza municipal de ruidos y vibraciones.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza ampliación de horario"
+        },
+        {
+          "nombre": "Consejería de Economía, Hacienda y Administración Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        },
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia (Sala de lo Contencioso-Administrativo)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "623139X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: autobús urbano, residuos, informática, caldera y Correos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el autobús urbano de abril, material informático, la aportación de marzo al Consorcio regional de residuos, una caldera de gas para el Hogar de la Tercera Edad de Herratillas y los envíos de Correos de abril.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Copimur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Calfrica Servicios Sociedad Cooperativa",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A. S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 72031.91,
+      "importes": [
+        {
+          "concepto": "Servicio de autobuses urbanos, abril 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Suministro de material informático C.SU. 1/21",
+          "eur": 6757.86,
+          "entidad": "Copimur, S.L."
+        },
+        {
+          "concepto": "Aportación marzo 2022",
+          "eur": 24967.37,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Instalación de caldera de gas en el Hogar de la Tercera Edad Herratillas (contrato menor)",
+          "eur": 7865.0,
+          "entidad": "Calfrica Servicios Sociedad Cooperativa"
+        },
+        {
+          "concepto": "Envíos de Correos, abril 2022",
+          "eur": 6302.81,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A. S.M.E."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551537Z, 519913C, 584325N, 591797Q, 282726A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la elección de Reinas y Damas de San Isidro: 1.296 euros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo de elección de Reinas y Damas de San Isidro 2022 en el Teatro Concha Segura: de 3.810 euros en entradas se vendieron 1.296 y se dan de baja 2.514 de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1296.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622554J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Padrón 2022 de la tasa de vados y reservas de vía pública: 457.671 euros",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las bajas pedidas por vecinos y el padrón de la tasa de entrada de vehículos (vados) y reservas de vía pública de 2022: 466.397 euros, menos 8.727 de bonificación por domiciliar, total al cobro 457.670,60 euros. Pago voluntario del 13 de mayo al 29 de julio; cargo de domiciliados el 27 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 457670.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506460R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oferta de empleo para estabilizar 47 plazas de personal temporal",
+      "categoria": "personal",
+      "resumen": "Se modifica la oferta extraordinaria de 2020 para adaptarla a la ley de reducción de la temporalidad (Ley 20/2021): una plaza de auxiliar administrativo funcionario y 46 laborales, entre ellas 19 técnicos de educación infantil, 6 conserjes-operarios, 5 limpiadores, 2 trabajadores sociales, 2 agentes de desarrollo local, 2 peones, psicólogo, educador social, logopeda, fisioterapeuta y otras.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496797X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Orden de servicio a dos empleadas de Servicios Sociales para una jornada en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos empleadas del Centro de Servicios Sociales asistir el 16 de mayo en Murcia a una jornada del Plan Regional de Servicios Sociales, con vehículo del centro o pago de los gastos de desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622333C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Seminarios online para la veterinaria municipal (40 euros)",
+      "categoria": "personal",
+      "resumen": "Se ordena a la veterinaria-inspectora de Sanidad asistir a seis seminarios online de la Asociación Española de Veterinarios Municipales; el Ayuntamiento paga la inscripción de 40 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Española de Veterinarios Municipales (AVEM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 40.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "623784R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza de verano del restaurante El olivo de Jaén (30 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del restaurante El olivo de Jaén en la plaza García Lorca del 1 de abril al 31 de octubre de 2022, con 30 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621589T",
+      "lugar": "Plaza García Lorca",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Terraza de verano de la Cafetería Zeta (60 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la Cafetería Zeta en la Placeta Ortega del 1 de abril al 31 de octubre de 2022, con 60 m².",
+      "entidades": [
+        {
+          "nombre": "Z Cafetería, C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "615448P",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Aplazada la petición de un vecino de medidas de tráfico en varias calles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la solicitud de un particular para regular el tráfico en diversas calles de la ciudad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "542988A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Salón de Sesiones para una boda civil el 21 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 1ª planta del Ayuntamiento para su matrimonio civil el 21 de mayo de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "616260R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Salón de Sesiones para una boda civil el 18 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 3ª planta del Ayuntamiento para su matrimonio civil el 18 de junio de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612200D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Sala de informática del Centro de Emprendimiento para un taller de Cáritas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a Cáritas Interparroquial la sala de informática del Centro de Emprendimiento del 16 al 19 de mayo de 2022 para un taller de competencias digitales dirigido a jóvenes en riesgo de exclusión.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Interparroquial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "623810D",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Mercado de San Isidro 2022 en la avenida Pablo Picasso (2.263 euros)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba que la Concejalía de Turismo organice el Mercado de San Isidro los días 13, 14 y 15 de mayo en la avenida de Pablo Picasso, con un presupuesto de 2.263 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2263.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620476Y",
+      "lugar": "Avenida de Pablo Picasso",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Corregidas las ayudas de ocio y formación para jóvenes vulnerables por la COVID",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se corrigen los criterios de las ayudas municipales para actividades formativas y de ocio de jóvenes vulnerables por la pandemia, porque por error solo cubrían el programa 'Educar en la calle' y dejaban fuera otros programas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "605629C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista provisional de admitidos en las escuelas infantiles 2022/23",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la lista provisional de admitidos en las escuelas infantiles municipales (El Parque, Alameda, Campanilla, Pulgarcito y El Perro Loco) para el curso 2022/23; reclamaciones del 16 al 18 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "587670J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Pabellón gratis para el II Open Autonómico de Tenis de Mesa",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba ceder gratis las instalaciones deportivas (pabellón José Ortega Chumilla, 7 y 8 de mayo) al club C.T.M. Altiplano y la Federación regional para el II Open Autonómico de Tenis de Mesa, valorado en 540,08 euros.",
+      "entidades": [
+        {
+          "nombre": "C.T.M. Altiplano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Federación de Tenis de Mesa de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 540.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "602650P",
+      "lugar": "Pabellón Polideportivo Municipal José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "615459E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "615467Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "619797E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Agua potable para las obras de una nave industrial de Mapay CTM en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Mapay CTM, S.L. el suministro de agua potable para construir una nave industrial en el Camino de Sax, con licencia urbanística 385/18.",
+      "entidades": [
+        {
+          "nombre": "Mapay CTM, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622815X",
+      "lugar": "Camino de Sax, paraje Los Baños (polígono 45, parcela 491), suelo no urbanizable",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de la limpieza de edificios municipales de abril: 52.515 euros",
+      "categoria": "pago_factura",
+      "resumen": "Punto urgente: se aprueba pagar la mensualidad de abril de 2022 de la limpieza de inmuebles municipales.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 52514.97,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, abril 2022",
+          "eur": 52514.97,
+          "entidad": "T.S.I. Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Plan de Inclusión 2022: contratación de 16 peones y bolsa de 14 suplentes",
+      "categoria": "personal",
+      "resumen": "Dentro del Plan Especial 2022 de Inclusión y Reinserción Social a través del Empleo (programa de contratación laboral), se contrata a 16 peones propuestos por la comisión de selección y se crea una bolsa de 14 personas para sustituciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617595X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Plan de Inclusión 2022: contratación de 4 peones menores de 30 años",
+      "categoria": "personal",
+      "resumen": "Dentro del mismo plan, programa de jóvenes menores de 30 años, se contrata a 4 peones y se crea una bolsa de 3 suplentes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617598A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Concierto de Nancys Rubias en los Ventorrillos por San Isidro: 21.780 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento negociado sin publicidad, al único licitador y titular en exclusiva de los derechos del grupo, el concierto de Nancys Rubias en la zona de los Ventorrillos dentro de las Fiestas de San Isidro 2022 (18.000 euros más IVA).",
+      "entidades": [
+        {
+          "nombre": "Spanish Bombs, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21780.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "604550D",
+      "lugar": "Zona de los Ventorrillos",
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Infraestructura de las Fiestas de San Isidro: escenarios y tribunas por 53.603 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudican al único licitador, un empresario particular, el lote 1 (producción e infraestructura de conciertos y espectáculos, 40.535 euros) y el lote 4 (tribunas, sillas y su decoración, 13.068 euros) de la infraestructura de San Isidro 2022; los lotes de aseos portátiles y vallado quedan desiertos por falta de ofertas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 53603.0,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de conciertos y espectáculos",
+          "eur": 40535.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Lote 4: tribunas, decoración y sillas",
+          "eur": 13068.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "616908R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Chiringuitos en el recorrido de la Cabalgata de Carrozas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden todas las reservas de vía pública y autorizaciones pedidas para instalar chiringuitos en locales particulares o en la calle en la parte central del recorrido de la Cabalgata; no hace falta sorteo porque caben todas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614952A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Puesto ambulante de frutos secos y juguetes en la Cabalgata",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vendedora un carrito de venta ambulante (frutos secos, algodón, juguetes) el 14 de mayo en la Cabalgata, con una tasa de 6 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 6.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "616726P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Puesto ambulante de algodón y globos en la Cabalgata",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra vendedora un carrito de venta ambulante (algodón, juguetes, frutos secos, globos) el 14 de mayo en la Cabalgata, con una tasa de 6 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 6.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "616715Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Cuatro carritos de venta ambulante en la Cabalgata",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan a un vendedor cuatro carritos de venta ambulante el 14 de mayo en la Cabalgata, con una tasa total de 24 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 24.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622480F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Terraza de Yakka and Grill en la calle Maestro Mora (16 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Yakka Franquicias, S.L. la terraza de su establecimiento Yakka and Grill en la calle del Maestro Mora del 1 de abril al 31 de octubre de 2022, con 16 m².",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621060J",
+      "lugar": "Calle del Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Procesión-ofrenda de San Isidro del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio concertado La Inmaculada una procesión-ofrenda el 13 de mayo de 11:30 a 12:30 por las calles peatonales Hospital y Niño Jesús, con apoyo de una patrulla de Policía Local si es posible.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621630A",
+      "lugar": "Calles Hospital y Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Puesto de la Parroquia San Juan Bautista para recaudar fondos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia San Juan Bautista a poner un puesto en la avenida Pablo Picasso el 14 de mayo de 2022 para recaudar fondos con fines parroquiales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia San Juan Bautista",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "622516F",
+      "lugar": "Avenida de Pablo Picasso",
+      "interes": 1
+    }
+  ]
+}

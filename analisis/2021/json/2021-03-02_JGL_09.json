@@ -1,0 +1,632 @@
+{
+  "doc": "2021-03-02_JGL_09",
+  "organo": "JGL",
+  "sesion": 9,
+  "fecha": "2021-03-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 28,
+  "resumen": "La Junta de Gobierno paga 9.357 euros de intereses por retrasos en el pago de las obras de la Piscina Municipal Cubierta a la empresa que las hizo, y otros 41.529 euros en obras de renovación de redes de agua. Vende por 23.727 euros a su ocupante una parcela con casa-cueva en el Cerro del Castillo. Autoriza a la Peña Taurina una práctica de toreo a puerta cerrada en la Plaza de Toros, varias terrazas de bares y el arranque del programa de deporte escolar con protocolo anti-COVID. Dos agentes de la Policía Local se marchan al Ayuntamiento de Abarán.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 23 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, de 23 de febrero de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499312P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: medidas COVID, una sanción de Protección de Datos y limpieza de imbornales",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos decretos del Presidente de la Comunidad Autónoma y una orden de Salud sobre restricciones y nivel de alerta por COVID-19; de la resolución de la Agencia Española de Protección de Datos en el procedimiento sancionador PS/00340/2020 abierto al Ayuntamiento por la reclamación de un particular (no se indica el resultado); y de un informe del Jefe de Servicios Públicos sobre la limpieza de imbornales.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Presidencia y Consejería de Salud)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta medidas COVID-19"
+        },
+        {
+          "nombre": "Agencia Española de Protección de Datos",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "resuelve procedimiento sancionador contra el Ayuntamiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "499313Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de dos obras de renovación de redes de agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la renovación de la red en la subida al Cerro del Castillo (FCC Aqualia) y la renovación parcial de la red de la calle San Ramón, entre Francisco Castaño e Infanta María Teresa.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad de Explotación de Redes Electrónicas y Servicios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 41529.09,
+      "importes": [
+        {
+          "concepto": "Renovación de red en subida Cerro del Castillo",
+          "eur": 23733.09,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Renovación parcial red de calle San Ramón (entre Francisco Castaño e Infanta M.ª Teresa)",
+          "eur": 17796.0,
+          "entidad": "Sociedad de Explotación de Redes Electrónicas y Servicios, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492123E",
+      "lugar": "Subida al Cerro del Castillo; calle San Ramón",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Contrato del espectáculo teatral 'Greenpiss' de Yllana",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Producciones Yllana, S.L. por 7.260 € (IVA incluido) para representar el espectáculo 'Greenpiss' dentro de la programación cultural.",
+      "entidades": [
+        {
+          "nombre": "Producciones Yllana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493738Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Intereses por pagar tarde las obras de la Piscina Municipal Cubierta",
+      "categoria": "contrato",
+      "resumen": "La UTE que hizo la reforma y ampliación de la Piscina Municipal Cubierta (Fase I) reclamó 13.638,83 € de intereses porque el Ayuntamiento pagó con retraso las certificaciones de obra de 2017-2018; se le da la razón en parte y se le pagan 9.357,37 €.",
+      "entidades": [
+        {
+          "nombre": "UTE Servimar 2008, S.L. - Instalaciones Sánchez Mateos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra intereses de demora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9357.37,
+      "importes": [
+        {
+          "concepto": "Intereses de demora reclamados",
+          "eur": 13638.83,
+          "entidad": "UTE Servimar 2008, S.L. - Instalaciones Sánchez Mateos, S.L."
+        },
+        {
+          "concepto": "Intereses de demora reconocidos y pagados",
+          "eur": 9357.37,
+          "entidad": "UTE Servimar 2008, S.L. - Instalaciones Sánchez Mateos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496946D",
+      "lugar": "Piscina Municipal Cubierta",
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia de cuatro naves de derivados de la madera pasa a una empresa",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia urbanística n.º 319/2020 para construir cuatro naves industriales de almacenamiento y producción de derivados de madera pasa de un particular a Derivados de la Madera de Yecla, S.L.",
+      "entidades": [
+        {
+          "nombre": "Derivados de la Madera de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nueva titular de la licencia"
+        },
+        {
+          "nombre": "Colegio Oficial de Arquitectos de la Región de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "comunica el cambio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477932W",
+      "lugar": "Paraje Las Teresas, polígono 47, parcela 7",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Teletrabajo parcial para una auxiliar del Gabinete de Comunicación",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una trabajadora a teletrabajar martes y jueves por razón de edad, dentro de los criterios de teletrabajo por la COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499421O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Exclusión de un aspirante de la bolsa de empleo de conserjes",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de Conserjes-Operarios de 2010 a un aspirante que rechazó sin justificar un contrato para sustituir una baja en el Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499301Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Exclusión de una aspirante de la bolsa de auxiliares administrativos",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de Auxiliares Administrativos de 2019 a una interina de Recaudación que renunció a su puesto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499307H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Pago por orden judicial de una indemnización por jubilación anticipada",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de un auto del Juzgado de lo Contencioso-Administrativo n.º 5 de Murcia, que extiende a un funcionario jubilado los efectos de una sentencia anterior, se le paga la indemnización por jubilación anticipada del acuerdo de condiciones de trabajo, con intereses: 7.273,85 €.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo n.º 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta el auto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7273.85,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "458158R-484748M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Reducción de jornada a un monitor socorrista",
+      "categoria": "personal",
+      "resumen": "Tras bajar la jornada general municipal a 35,3 horas semanales en 2021, se ajusta la reducción de jornada de un monitor socorrista (16,85 %) para que mantenga su horario y se le reconoce lo trabajado de más en enero y febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498627N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Contrato de la plataforma de recursos humanos de Espúblico",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Espúblico Servicios para la Administración, S.A. por 6.814,76 € (IVA incluido) para usar su plataforma de recursos humanos en 2021-2022.",
+      "entidades": [
+        {
+          "nombre": "Espúblico Servicios para la Administración, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6814.76,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499273K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno de la Cafetería Gaía en calle de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular de la Cafetería Gaía una terraza de 8 m² en la calle de España durante la temporada de invierno (hasta el 31 de marzo de 2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499039K",
+      "lugar": "Calle de España",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno del Balmoral Café en calle Primero de Mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular del Balmoral Café la terraza de invierno (hasta el 31 de marzo de 2021) en las mismas condiciones que la de verano de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499043O",
+      "lugar": "Calle Primero de Mayo",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Traslado de una farola, un árbol y una señal para dar acceso a una cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular, a su costa, a mover dos metros una farola, un árbol y una señal de tráfico en la calle Alameda que le impiden usar la cochera de su vivienda en construcción; debe dejar una fianza de 1.629,24 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1629.24,
+      "importes": [
+        {
+          "concepto": "Fianza para garantizar la reposición de luminaria y árbol",
+          "eur": 1629.24,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498837E",
+      "lugar": "Calle Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Aula del Edificio Bioclimático para grabar entrevistas a mujeres de la comarca",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula del Edificio Bioclimático el 26 de marzo de 2021 a la Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia para grabar entrevistas con mujeres de la comarca.",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalaciones municipales"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499084Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Venta a su ocupante de una parcela con casa-cueva en el Cerro del Castillo",
+      "categoria": "patrimonio",
+      "resumen": "Se segrega del monte comunal Cerro del Castillo la parcela n.º 34 (522,98 m², con una casa-cueva y otras construcciones) y se vende directamente, sin subasta, a la particular que la ocupa y paga canon, por 23.727,60 € (su valor pericial), para regularizar la situación e inscribirla en el Registro de la Propiedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 23727.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "197880J",
+      "lugar": "Cerro del Castillo, parcela n.º 34",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Práctica de toreo a puerta cerrada en la Plaza de Toros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña Taurina Yeclana a usar la Plaza de Toros municipal el 7 de marzo de 2021 para una práctica de toreo a puerta cerrada con tres reses, con fianza de 400 €, seguro, protocolo anti-COVID y retirada de las reses muertas por Cárnicas Cortés Bermúdez, S.L.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalaciones municipales"
+        },
+        {
+          "nombre": "Cárnicas Cortés Bermúdez, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "retira las reses muertas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400.0,
+      "importes": [
+        {
+          "concepto": "Fianza por el uso de la Plaza de Toros",
+          "eur": 400.0,
+          "entidad": "Peña Taurina Yeclana"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498963E",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela de Semana Santa en el colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio en las vacaciones de Semana Santa de 2021 para la 'Escuela de Semana Santa', que organiza una particular (Arcoiris), con medidas anti-COVID y corriendo con los gastos.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalaciones del colegio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499545N",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Permiso para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en una parcela a menos de 1.500 m de las viviendas, solo miércoles y jueves de 11 a 12 h en los periodos marzo-mayo y octubre-diciembre de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499575F",
+      "lugar": "Polígono 45",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Zanja en camino de La Cañadilla para una línea eléctrica de baja tensión",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a abrir una zanja en un camino público del paraje La Cañadilla para meter una canalización de baja tensión, hormigonada y con licencia urbanística previa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498736P",
+      "lugar": "Paraje La Cañadilla, polígono 109",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Zanja en camino público para una tubería de riego de Rústicas Nicosán",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Rústicas Nicosán, S.L. a abrir una zanja en un camino público junto a la parcela 9 del polígono 121 para una tubería de riego.",
+      "entidades": [
+        {
+          "nombre": "Rústicas Nicosán, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499574D",
+      "lugar": "Polígono 121, parcela 9",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Agua potable para una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza, en precario (se puede cortar si falta agua en el casco urbano), el suministro de agua potable a la vivienda de una particular en suelo no urbanizable, a través de una red privada (Red Club de Tenis) y con contador junto a la red principal.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa y marca la conexión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499046W",
+      "lugar": "Suelo no urbanizable, polígono 110",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "No hay puestos libres en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a un particular un puesto en el Mercado de San Cayetano para vender salazones y encurtidos porque no hay ninguno vacante.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "498178P",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Condolencia por el fallecimiento de un empleado municipal",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa sus condolencias a la familia de un empleado municipal fallecido el 10 de febrero de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Condolencia por el fallecimiento de un exconcejal",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa sus condolencias a la familia de un antiguo concejal (1999-2003) fallecido el 22 de febrero de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499743N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.1",
+      "titulo": "Reducción de jornada a una auxiliar administrativa (urgente)",
+      "categoria": "personal",
+      "resumen": "Se ajusta la reducción de jornada de una auxiliar administrativa (11,47 %) a la nueva jornada de 35,3 horas y se le reconoce el posible exceso trabajado en enero y febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499777K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.2",
+      "titulo": "Un agente de la Policía Local se va al Ayuntamiento de Abarán (urgente)",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cese de un agente de la Policía Local de Yecla, que ha obtenido plaza por movilidad en Abarán; se le regularizan las horas en la nómina de marzo y pasa a servicio en otras administraciones.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Abarán",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nombra al agente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499593B",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "18.3",
+      "titulo": "Otro agente de la Policía Local se va al Ayuntamiento de Abarán (urgente)",
+      "categoria": "personal",
+      "resumen": "Igual que el anterior: cese de un segundo agente de la Policía Local que pasa por movilidad al Ayuntamiento de Abarán.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Abarán",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nombra al agente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499596J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "18.4",
+      "titulo": "Terraza de invierno doble del Bar Obélix por la COVID (urgente)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del Bar Obélix una terraza de invierno de 16 m² en la calle Rogelio Azorín Navarro, el doble de lo normal para compensar la reducción de aforo por la COVID-19; volverá a 8 m² cuando acaben las limitaciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499460W",
+      "lugar": "Calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "18.5",
+      "titulo": "Arranca el programa de deporte escolar con protocolo anti-COVID (urgente)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza el inicio del Programa de Animación Deportiva Escolar del Servicio Municipal de Deportes y se aprueba su protocolo y plan de contingencia frente a la COVID-19.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483964Y",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

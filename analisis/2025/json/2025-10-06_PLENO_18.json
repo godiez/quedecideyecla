@@ -1,0 +1,396 @@
+{
+  "doc": "2025-10-06_PLENO_18",
+  "organo": "PLENO",
+  "sesion": 18,
+  "fecha": "2025-10-06",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "El Pleno aprueba la Cuenta General de 2024 y rebaja a la mitad el impuesto de obras a tres empresas por sus naves industriales (Colchones Gomarco, Proyecto Denver y Yeclasa), unos 60.000 euros en total. Firma un convenio con la residencia de las Hermanitas de Ancianos Desamparados (17.000 € al año) y paga subvenciones a AMPY, Fútbol Base y la Federación de Peñas de San Isidro. PP y Vox rechazan la moción de IU-Verdes que pedía condenar el genocidio en Gaza y la del PSOE para subir con el IPC los convenios con asociaciones sociales. Se vuelve a pedir permiso a la Comunidad y al Ministerio para dar ayudas directas a agricultores y ganaderos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de julio y septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones nº 15 (25 de julio), 16 (1 de septiembre) y 17 (29 de septiembre) de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Corrección del convenio con la Fábrica de Moneda y Timbre para la firma electrónica",
+      "categoria": "convenio",
+      "resumen": "Se aprueba una adenda al convenio con la FNMT-Real Casa de la Moneda (certificados y firma electrónica) que solo corrige el número de sellos electrónicos de entidad; el importe no cambia.",
+      "entidades": [
+        {
+          "nombre": "Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "presta el servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1136951Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Convenio con la residencia de ancianos Santa Teresa Jornet: 17.000 € al año",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se firma un convenio para 2025 y 2026 con la Residencia de Ancianos Desamparados Santa Teresa Jornet: 17.000 € al año para mantener el edificio (pago anticipado) y un servicio de gerontogimnasia de unos 6.369 € al año. La residencia dará prioridad a mayores de Yecla en emergencia social propuestos por Servicios Sociales.",
+      "entidades": [
+        {
+          "nombre": "Residencia de los Ancianos Desamparados Santa Teresa Jornet (Hermanitas de los Ancianos Desamparados)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "importes": [
+        {
+          "concepto": "Subvención anual para mantenimiento del edificio (2025; otra igual en 2026)",
+          "eur": 17000.0,
+          "entidad": "Residencia de los Ancianos Desamparados Santa Teresa Jornet"
+        },
+        {
+          "concepto": "Servicio de gerontogimnasia (estimado al año, lo presta el Servicio de Deportes)",
+          "eur": 6369.0,
+          "entidad": "Residencia de los Ancianos Desamparados Santa Teresa Jornet"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085367E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "AMPY justifica la subvención de 2024 y cobra por adelantado la de 2025 (17.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de 17.000 € de 2024 a la Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY) para su Escuela-Taller de Agricultura Ecológica y se le paga por adelantado la de 2025, otros 17.000 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054924Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Fútbol Base de Yecla: justificada la temporada 2024/25 y pago final de 6.000 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el convenio con la Sociedad Deportiva Fútbol Base de Yecla para la temporada 2024/2025 y se le paga la segunda parte de la subvención, 6.000 € (ya había cobrado 18.000 € de anticipo).",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117611N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Federación de Peñas de San Isidro: justificados 32.500 € y pago de 13.000 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "La Federación de Peñas de San Isidro justifica con facturas por 32.584,89 € la subvención de 32.500 € de 2025 y se le paga el segundo plazo, 13.000 €.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1065853C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Proyecto Denver por tres naves en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Proyecto Denver, S.L. una bonificación del 50 % del ICIO por construir tres naves industriales sin uso específico en el polígono Las Teresas; la obra presupuestada asciende a 1.552.351,68 € y la cuota era de 51.227,61 €, por lo que se ahorra unos 25.613,81 €.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": "B73299653",
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25613.81,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la obra (base del ICIO)",
+          "eur": 1552351.68,
+          "entidad": "Proyecto Denver, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 51227.61,
+          "entidad": "Proyecto Denver, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 25613.81,
+          "entidad": "Proyecto Denver, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115799X",
+      "lugar": "Calle Santiago Ramón y Cajal esquina calle Doctor Trueta (P.I. Las Teresas)",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Yeclasa por ampliar su nave de vidrio",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Yeclasa, S.L. una bonificación del 50 % del ICIO por ampliar su nave de procesado de vidrio en la carretera de Valencia; la obra asciende a 216.486 € y la cuota era de 7.144,04 €, por lo que se ahorra 3.572,02 €.",
+      "entidades": [
+        {
+          "nombre": "Yeclasa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3572.02,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la obra (base del ICIO)",
+          "eur": 216486.0,
+          "entidad": "Yeclasa, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 7144.04,
+          "entidad": "Yeclasa, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 3572.02,
+          "entidad": "Yeclasa, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015475H",
+      "lugar": "Carretera de Valencia, km 100",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Colchones Gomarco por ampliar su nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Colchones Gomarco, S.L.U. una bonificación del 50 % del ICIO por la ampliación de su nave industrial en la carretera de Villena (RM-425); la obra asciende a 1.890.000 € y la cuota era de 62.370 €, por lo que se ahorra 31.185 €.",
+      "entidades": [
+        {
+          "nombre": "Colchones Gomarco, S.L.U.",
+          "cif": "B05517511",
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        },
+        {
+          "nombre": "Initeco Proyecto Ingeniería, S.L.",
+          "cif": "B30432058",
+          "tipo": "empresa",
+          "rol": "representante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 31185.0,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la ampliación (base del ICIO)",
+          "eur": 1890000.0,
+          "entidad": "Colchones Gomarco, S.L.U."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 62370.0,
+          "entidad": "Colchones Gomarco, S.L.U."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 31185.0,
+          "entidad": "Colchones Gomarco, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1072662J",
+      "lugar": "Carretera de Villena RM-425, km 6",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Aprobada la Cuenta General de 2024",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la Cuenta General del Ayuntamiento de 2024, que no recibió reclamaciones en información pública, y se envía al Tribunal de Cuentas.",
+      "entidades": [
+        {
+          "nombre": "Tribunal de Cuentas",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe la cuenta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "a favor PP, PSOE y Vox (19); abstención IU-Verdes (2)",
+      "expediente": "1100973E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Rechazada la moción de IU-Verdes para condenar el genocidio de Israel en Gaza",
+      "categoria": "mocion_politica",
+      "resumen": "IU-Verdes pedía condenar el genocidio en Palestina, apoyar el embargo de armas, pedir al Gobierno romper relaciones con Israel y sanciones de la UE, expulsarlo de competiciones deportivas y hacer una campaña de concienciación en Yecla. Debate: IU-Verdes critica que la Alcaldía no hiciera un minuto de silencio y guarda uno en su turno; Vox habla de drama humano pero culpa a Hamás y acusa a la izquierda de hipocresía; el PP dice que la moción es partidista y que deben decidir los tribunales; el PSOE la apoya y dice que pidió un minuto de silencio sin respuesta. La Alcaldesa manda retirar una bandera del público y después desalojar la sala.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "en contra PP y Vox (12); a favor PSOE e IU-Verdes (9)",
+      "expediente": "1152647Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Rechazada la propuesta del PSOE de subir con el IPC los convenios con asociaciones sociales",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE pedía subir cada año como mínimo el IPC los convenios con asociaciones sociales, incluir esa cláusula en los convenios y obligarlas a participar en los Consejos Sectoriales. Debate: el PSOE dice que las asociaciones atienden a más de 5.000 personas y llevan años con los convenios congelados; Vox prefiere actualizarlos según necesidades y reformar la financiación local; el PP rechaza obligar a participar en los consejos y recuerda otras ayudas (cesión de edificios y del Teatro, una escuela de verano de AMPY de más de 15.000 €); IU-Verdes la apoya.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "en contra PP y Vox (12); a favor PSOE e IU-Verdes (9)",
+      "expediente": "1158295T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Se vuelve a pedir permiso para dar ayudas directas a agricultores y ganaderos",
+      "categoria": "otros",
+      "resumen": "Como el Ministerio de Hacienda vio una duplicidad parcial de competencias en la petición de julio, se aprueba una nueva memoria para dar ayudas directas a explotaciones agrícolas y ganaderas de Yecla (maquinaria, piensos, fitosanitarios, fertilizantes, cuotas de autónomos) por la subida de costes, la guerra de Ucrania y la sequía, y se pide de nuevo informe a la Comunidad Autónoma y al Ministerio.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar"
+        },
+        {
+          "nombre": "Ministerio de Hacienda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110731H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Ejecución del presupuesto del 2.º trimestre de 2025: se cumplen los objetivos",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Informe de Intervención a 30 de junio de 2025: el Ayuntamiento cumple la estabilidad presupuestaria y la regla de gasto; la deuda viva es de 10.220.476,53 €, por debajo de los límites legales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10220476.53,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1130814A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Resoluciones de la Alcaldía, entre ellas varios despidos de personal laboral",
+      "categoria": "informacion",
+      "resumen": "Se informa de las resoluciones de la Alcaldía del 5 de agosto al 1 de octubre de 2025 (nº 3369 a 3874), destacando siete relativas al despido de personal laboral (2, 26 y 29 de septiembre).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

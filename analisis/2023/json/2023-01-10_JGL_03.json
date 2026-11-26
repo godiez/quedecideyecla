@@ -1,0 +1,450 @@
+{
+  "doc": "2023-01-10_JGL_03",
+  "organo": "JGL",
+  "sesion": 3,
+  "fecha": "2023-01-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 14,
+  "resumen": "La Junta de Gobierno paga 53.117 euros por la limpieza de edificios municipales y 72.730 euros de la restauración de la Capilla de las Angustias de San Francisco. Apoya el interés público de una nave industrial de Barnizados Arabí en la carretera de Pinoso. Rechaza cambiar el horario de las brigadas, contrata un educador social con fondos europeos, adhiere Yecla a la Film Commission regional y autoriza varias terrazas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 30 de diciembre de 2022 y del 3 y 5 de enero de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de la CARM para empleo, familia y conciliación",
+      "categoria": "informacion",
+      "resumen": "Se informa de tres resoluciones de la Comunidad Autónoma que conceden y pagan subvenciones al Ayuntamiento: Empleo Público Local 2022 (SEF), apoyo a la familia e infancia y Plan Corresponsables (conciliación). No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias, Política Social y Transparencia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "715895Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de la limpieza de edificios municipales de diciembre",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la factura de limpieza de inmuebles municipales de diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 53116.71,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, diciembre 2022",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 7 de la restauración de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 7 de la obra de restauración de la Capilla de las Angustias de la Iglesia de San Francisco, a favor de la UTE contratista.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 72729.71,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del IBI por instalar placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por una instalación fotovoltaica de autoconsumo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716114D",
+      "lugar": "paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Informe favorable al interés público de una nave industrial de Barnizados Arabí en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa favorablemente la declaración de interés público para construir un establecimiento industrial en suelo no urbanizable en la carretera de Pinoso, y se envía a la Consejería de Fomento para que lo autorice. No hubo alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Barnizados Arabí, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otorga la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "648544F",
+      "lugar": "carretera de Pinoso (S.N.U. 4/2022)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza de invierno del Bar Estación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular (particular) una terraza de 8 m² en temporada de invierno (hasta el 31 de marzo de 2023).",
+      "entidades": [
+        {
+          "nombre": "Bar Estación",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "705022Y",
+      "lugar": "Avda. Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Terraza anual del Lío Bar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular (particular) una terraza anual de 27 m² hasta el 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Lío Bar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687316F",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Terraza de invierno de Los Arcos Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular (particular) una terraza de 16 m² en temporada de invierno (hasta el 31 de marzo de 2023).",
+      "entidades": [
+        {
+          "nombre": "Los Arcos Café",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551727N",
+      "lugar": "calle Forte",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Mesas informativas de Vox en la calle",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a poner mesas informativas en la Plaza de España (14 de enero) y en el Parque de la Constitución (25 de enero).",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715262W",
+      "lugar": "Plaza de España; Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "La asociación Kapaces podrá dar talleres en el Museo Arqueológico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Kapaces a impartir talleres de conservación del patrimonio e inclusión social a través del arte y la arqueología en el Museo Cayetano de Mergelina, hasta que se firme un nuevo convenio y como mucho hasta fin de 2023.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715188R",
+      "lugar": "Museo Arqueológico Municipal Cayetano de Mergelina",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "El Ayuntamiento no compra una finca forestal vecina a una parcela municipal",
+      "categoria": "patrimonio",
+      "resumen": "Unos particulares comunican que van a vender una finca colindante con una parcela municipal (derecho de adquisición preferente de la Ley de Montes); el Ayuntamiento dice que no le interesa comprarla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "702989Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Condolencias por el fallecimiento de la directora del IES José Luis Castillo Puche",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa sus condolencias a la comunidad educativa del instituto y a la familia de su directora fallecida.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe condolencias"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715388W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Pago del módulo de artes plásticas de la Universidad Popular",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el contrato menor del módulo docente 'Artes plásticas y oficios artísticos' de la Universidad Popular (octubre-diciembre 2022).",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6428.94,
+      "importes": [
+        {
+          "concepto": "Módulo docente Universidad Popular 'Artes plásticas y oficios artísticos', oct-dic 2022",
+          "eur": 6428.94,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681594J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Contratación temporal de un educador social con fondos europeos",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un educador social a media jornada (21 h/semana) hasta fin de 2023 para un proyecto de acompañamiento a personas con capacidad de obrar limitada y vulnerables, pagado con una subvención de la CARM de fondos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias, Política Social y Transparencia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia el proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637760D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Anticipo de sueldo a un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un subinspector de la Policía Local un anticipo de 4.000 € de su sueldo, que deberá devolver.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716065K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Un informático municipal irá a una reunión regional en Fuente Álamo",
+      "categoria": "personal",
+      "resumen": "Se ordena al analista de sistemas asistir a la I Reunión de Técnicos Informáticos Municipales en Fuente Álamo (12 de enero) y se le pagan los gastos de viaje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716854F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Dos psicólogas de Servicios Sociales irán a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos psicólogas del Centro de Servicios Sociales asistir a una reunión de psicólogos de atención primaria en Murcia (16 de enero), con vehículo del centro o pagándoles el viaje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606079C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Se rechaza cambiar el horario de las brigadas de obras y servicios",
+      "categoria": "personal",
+      "resumen": "Se rechaza la petición de los trabajadores de las brigadas de entrar todo el año a las 7:30 y compensarlo saliendo antes los viernes o alargando la jornada reducida a mayo y septiembre. El calendario de 2023 sigue igual (1.581 horas al año).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "708042R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Terraza anual del Café-Bar los Pirrikis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular (particular) una terraza anual de 16 m² hasta el 31 de octubre de 2023.",
+      "entidades": [
+        {
+          "nombre": "Café-Bar los Pirrikis",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687884W",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "9.8",
+      "titulo": "El Club de Ajedrez usa una sala del Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Ajedrez Municipal Yeclano a usar la sala de reuniones del Centro de Emprendimiento el 14 de enero.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "715653N",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "9.9",
+      "titulo": "Yecla se adhiere a la Film Commission de la Región de Murcia",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con el Instituto de las Industrias Culturales y las Artes (ICA) para que Yecla se una a la Film Commission Regional, que promociona rodajes, y se autoriza a la alcaldesa a firmarlo.",
+      "entidades": [
+        {
+          "nombre": "Instituto de las Industrias Culturales y las Artes de la Región de Murcia (ICA)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "firma el convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "714303M",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

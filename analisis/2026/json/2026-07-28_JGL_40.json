@@ -1,0 +1,1083 @@
+{
+  "doc": "2026-07-28_JGL_40",
+  "organo": "JGL",
+  "sesion": 40,
+  "fecha": "2026-07-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 50,
+  "resumen": "Se contratan los grandes conciertos de la Feria de Septiembre (Omar Montes, D. Valentino, Medina Azahara, Los Rebeldes y Hey Kid) por unos 250.000 euros y se adjudica a Naturgy la luz municipal por 1,15 millones al año. Se pagan facturas por más de 800.000 euros, sobre todo de basura y limpieza a Actúa, a la que además se indemniza con 67.296 euros por seguir prestando el servicio con el contrato caducado. También se contratan 12 técnicos para las escuelas infantiles y se aprueban los recibos del agua y la basura.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 21 de julio de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: la CARM da por justificada la subvención de atención temprana",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Consejería de Política Social aprueba la justificación de la subvención nominativa de 170.879 euros que recibió el Ayuntamiento para los servicios de atención temprana.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 170879.0,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1326100F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de 13 facturas: basura, limpieza, jardines, centro de día, turismo...",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar facturas por 801.424,86 euros. Lo más grande: recogida de basura y limpieza viaria de junio a Actúa (365.314,87 €), tratamiento de residuos al Consorcio regional y ciclosenderos turísticos financiados con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Aventino Proyectos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Silvoturismo Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zero Suite, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Afedeco",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Talleres M. Gallego, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 801424.86,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura de 30/06/2026",
+          "eur": 14602.5,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, mayo 2026",
+          "eur": 82890.55,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Recogida de basura, recogida selectiva y limpieza viaria, junio 2026",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, junio 2026",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Vestuario para la Policía Local",
+          "eur": 11802.34,
+          "entidad": "Satara Seguridad, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, junio 2026",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Obra inmersiva 'Yecla sueños de viaje' en la Iglesia Vieja (Plan de Sostenibilidad Turística, fondos Next Generation), 6º pago",
+          "eur": 36750.12,
+          "entidad": "Aventino Proyectos Integrales, S.L."
+        },
+        {
+          "concepto": "Ciclosenderos para rutas turísticas (Plan de Sostenibilidad Turística, fondos Next Generation)",
+          "eur": 88570.4,
+          "entidad": "Silvoturismo Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil El Parque, junio 2026",
+          "eur": 6191.38,
+          "entidad": "Zero Suite, S.L."
+        },
+        {
+          "concepto": "60% del contrato de 'Verano en Danza 2026'",
+          "eur": 20328.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Actividades de igualdad y mujer 2026",
+          "eur": 10000.0,
+          "entidad": "Afedeco"
+        },
+        {
+          "concepto": "Vehículo crossover para la Policía Local",
+          "eur": 41799.99,
+          "entidad": "Talleres M. Gallego, S.L."
+        },
+        {
+          "concepto": "Escuela de diversidad funcional 'Concilia en Verano 2026'",
+          "eur": 12100.0,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 584325N, 712712D, 777199T, 821207Q, 836272P, 959428P, 982777T, 1178792M, 1283076A, 1203249E, 1216412M, 1283404F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 3 de la restauración del castillo (Hisn Yakka)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la tercera certificación de obra (junio 2026) de la conservación y restauración del castillo 'El Renacer de Yakka', fase 1, financiada con fondos Next Generation, a favor de Ingeniería Ortín.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18520.71,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo de Yecla (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'Las Guerreras K-POP' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la taquilla del tributo del 18 de julio: se vendieron entradas por 4.644 € y se dan de baja las no vendidas (19.716 €).",
+      "entidades": [
+        {
+          "nombre": "Vivaticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4644.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298019E",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo 'Agrabah' (Infinity) en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la taquilla del 17 de julio: 2.928 € vendidos y baja de 9.252 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Vivaticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2928.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298019E",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del espectáculo 'Eclipse: Cabaret de Sombras' (Crearte) en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se liquida la taquilla del 16 de julio: 2.328 € vendidos y baja de 9.852 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Vivaticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2328.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298019E",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Recibos del agua (2º trimestre) y de la basura (3er trimestre) de 2026",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban los padrones que cobra FCC Aqualia: agua 352.987,21 €, canon municipal 32.416,34 €, canon de saneamiento regional 245.283,34 € y tasa de basura 884.011,20 €. Además se anulan recibos de basura de años anteriores por 26.366,40 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recauda"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 884011.2,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 2º trimestre 2026",
+          "eur": 352987.21,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon a favor del Ayuntamiento",
+          "eur": 32416.34,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 245283.34,
+          "entidad": "CARM"
+        },
+        {
+          "concepto": "Tasa de basura 3er trimestre 2026",
+          "eur": 884011.2,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación de recibos de basura 2025-2026",
+          "eur": -26366.4,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324233N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Trabajador/a social interino para el Centro de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un trabajador social interino para sustituir a la titular de baja en el Centro de Desarrollo Infantil y Atención Temprana.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1323473H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Reducción de jornada a una inspectora de obras",
+      "categoria": "personal",
+      "resumen": "Se concede a una empleada una reducción de jornada no retribuida del 35,72% para cuidado de hijo menor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1325123Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Guardias de la Brigada de Obras: sustituto provisional",
+      "categoria": "personal",
+      "resumen": "Se asigna provisionalmente a un mantenedor de la Brigada de Obras el turno de guardia del 10 al 16 de agosto, con su plus de penosidad, por la baja de otro compañero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1322765Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Se extingue la bolsa transitoria de peón-operario y entra en vigor la nueva",
+      "categoria": "personal",
+      "resumen": "Se cierra la bolsa de peón-operario creada en 2025 vía SEF, se mantiene la de 2024 hasta fin de 2027 y entra en vigor la nueva bolsa salida de la oposición de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991734J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Fin de una interinidad de inspectora de obras por llegada de la titular",
+      "categoria": "personal",
+      "resumen": "Termina el 6 de agosto la relación de una funcionaria interina porque al día siguiente toma posesión la funcionaria de carrera que aprobó la oposición.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1323696R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Exclusión de una persona de la bolsa de Técnico de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa a una aspirante que no contestó al llamamiento para el curso 2026/2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1310874J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Exclusión de otra persona de la bolsa de Técnico de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa a una aspirante que renunció por tener ya plaza fija en otro trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1310874J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Servicios técnicos del Teatro Concha Segura y Auditorio, adjudicados a Audiotec",
+      "categoria": "contrato",
+      "resumen": "Se adjudican por dos años los dos lotes (servicios técnicos 56.066,34 €/año y servicios generales 39.152,57 €/año, IVA incluido) del contrato de apoyo a los espectáculos de Cultura.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 190437.82,
+      "importes": [
+        {
+          "concepto": "Lote 1 Servicios Técnicos (anual, IVA incl.)",
+          "eur": 56066.34,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Lote 2 Servicios Generales (anual, IVA incl.)",
+          "eur": 39152.57,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175405H",
+      "lugar": "Teatro Concha Segura y Auditorio Juan Miguel Benedito",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Concierto de Omar Montes en la Feria de Septiembre: 102.850 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata, sin publicidad por tener la exclusiva, el concierto de Omar Montes del 19 de septiembre en el Recinto Ferial con Zamara Music.",
+      "entidades": [
+        {
+          "nombre": "Zamara Music, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 102850.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313885Q",
+      "lugar": "Recinto Ferial",
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Concierto de Medina Azahara en la Feria: 36.300 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata el concierto de Medina Azahara del 11 de septiembre con la productora que tiene la exclusiva.",
+      "entidades": [
+        {
+          "nombre": "MA Producciones Espj",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36300.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1314622P",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Concierto de D. Valentino en la Feria: 65.340 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata el concierto de D. Valentino del 12 de septiembre con la productora que tiene la exclusiva.",
+      "entidades": [
+        {
+          "nombre": "Promociones Musicales Get In, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 65340.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313663H",
+      "lugar": "Recinto Ferial",
+      "interes": 3
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Concierto de Los Rebeldes en la Feria: 22.990 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata el concierto de Los Rebeldes del 13 de septiembre con la productora que tiene la exclusiva.",
+      "entidades": [
+        {
+          "nombre": "La Cartagenera de Espectáculos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22990.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313182P",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Concierto de Hey Kid en la Feria: 22.990 €",
+      "categoria": "contrato",
+      "resumen": "Se contrata el concierto de Hey Kid del 18 de septiembre con la productora que tiene la exclusiva.",
+      "entidades": [
+        {
+          "nombre": "Silbato Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22990.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1314633E",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Obra de accesibilidad en la Escuela Infantil Pulgarcito",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (22.185,60 €) y se adjudica como contrato menor a Maza Construcciones y Contratas por 21.456,60 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21456.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1019455K",
+      "lugar": "Escuela Infantil Pulgarcito",
+      "interes": 2
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Infraestructura de la Feria de Septiembre: se elige a las empresas de los 4 lotes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación y se pide documentación y fianzas a los ganadores: Audiotec (producción y escenarios), Camión Toilet (aseos), Iluminart (alumbrado y electricidad) y Montajes Arco Mediterráneo (carpas). Se adjudica en la sesión del 7 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        },
+        {
+          "nombre": "Camión Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        },
+        {
+          "nombre": "Iluminaciones Ornamentales Iluminart, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1293097T",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Tercera y última prórroga del Delegado de Protección de Datos",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (hasta el 10 de octubre de 2027) el contrato del servicio de Delegado de Protección de Datos con AJ Despacho Consultoría de Empresas.",
+      "entidades": [
+        {
+          "nombre": "AJ Despacho Consultoría de Empresas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324146R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Reclamación de un bar por filtraciones de la obra de la Casa de los Arcos",
+      "categoria": "reclamaciones",
+      "resumen": "Una hostelera reclama 450 € por cerrar un día por filtraciones de agua desde la obra municipal de la Casa de los Arcos. Se abre expediente y se da audiencia a la constructora para que diga si paga o repara.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 450.0,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1209383Z",
+      "lugar": "Casa de los Arcos",
+      "interes": 2
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Reclamación por daños en la fachada de un local por la obra de la calle Hospital",
+      "categoria": "reclamaciones",
+      "resumen": "Un particular reclama por azulejos rotos en la fachada de su local durante la obra de itinerarios peatonales de la calle Hospital. Se abre expediente y audiencia a la constructora.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1115075Q",
+      "lugar": "Calle Hospital",
+      "interes": 1
+    },
+    {
+      "ref": "5.12",
+      "titulo": "Cambio del técnico que recibirá la obra del edificio de Cazadores",
+      "categoria": "contrato",
+      "resumen": "Por la reorganización de los Servicios Técnicos se cambia el arquitecto municipal que representará al Ayuntamiento en la recepción de la rehabilitación del edificio de Cazadores (fondos Next Generation).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "AFEMY: puesto informativo sobre prevención del suicidio en el mercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de familiares y personas con enfermedad mental un puesto en el mercado de la Plaza Mayor el 9 de septiembre, con carpas, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1322575K",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Bases para elegir los puestos ambulantes de la Feria de Septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar los puestos ambulantes de la Feria 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324596R",
+      "lugar": "Recinto Ferial",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Presentación de las equipaciones del Yeclano Deportivo en la Plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el acto del 29 de julio con vino de honor y se aporta colaboración municipal con medios.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1319588M",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Romería y misa de San Isidro: escolta policial y material",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza acompañamiento policial en la romería del 6 de septiembre desde el Teatro Concha Segura a la Ermita de San Isidro y se ceden vallas, sillas y megafonía.",
+      "entidades": [
+        {
+          "nombre": "Federación de Asociaciones de Peñas de las Fiestas de San Isidro Labrador de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1323694P",
+      "lugar": "Paraje y Ermita de San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil (25 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1323733T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Uso del Salón de Plenos para una boda civil (1 de agosto)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324198P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Asociación de Diabéticos: visita al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza 'Coto Salinas' el 4 de octubre para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304167T",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "BNI Cúpula Yecla: sala del Vivero de Empresas para reuniones de networking",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala de reuniones del Vivero de Empresas los miércoles de septiembre de 2026 a enero de 2027.",
+      "entidades": [
+        {
+          "nombre": "BNI Cúpula Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324487Q",
+      "lugar": "Vivero de Empresas, Polígono La Herrada",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Calendario de bajas e inscripciones de las actividades deportivas 2026/2027",
+      "categoria": "organizacion",
+      "resumen": "Las inscripciones siguen activas salvo que se pida la baja (plazo hasta el 7 de septiembre); preinscripción del 9 al 17 de septiembre; las actividades empiezan el 28 de septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1325570W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Protección Civil de Yecla colabora en las fiestas de Montealegre del Castillo",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a la agrupación de voluntarios a colaborar en las fiestas patronales de Montealegre del Castillo los días 12, 14 y 15 de agosto.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1317265K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Indemnización de 67.296,70 € a Actúa por la basura de noviembre de 2024",
+      "categoria": "pago_factura",
+      "resumen": "El contrato de basura y limpieza viaria está caducado desde hace años y Actúa sigue prestando el servicio por orden del Pleno. Se le reconocen 67.296,70 € por los mayores costes de noviembre de 2024 para evitar el 'enriquecimiento injusto' del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67296.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Contratación de 12 técnicos de educación infantil para el curso 2026/2027",
+      "categoria": "personal",
+      "resumen": "Se contratan de la bolsa 12 técnicos a tiempo parcial para las cinco escuelas infantiles municipales (El Parque, Alameda, Campanilla, Pulgarcito y Perro Loco) de septiembre a fin de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1325285Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Luz de los edificios y alumbrado municipal: contrato con Naturgy de 1,15 millones",
+      "categoria": "contrato",
+      "resumen": "A través de la central de compras de la FEMP se adjudica a Gas Natural Comercializadora (Naturgy) el suministro eléctrico del Ayuntamiento durante un año: 950.413,23 € más IVA.",
+      "entidades": [
+        {
+          "nombre": "Gas Natural Comercializadora, S.A. (Naturgy)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1150000.01,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297631Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Fiestas de la Vendimia 2026: autorización a la Ruta del Vino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la fiesta el 5 de septiembre en el Parque de la Constitución y el 6 en la Plaza de España, con venta de alcohol, carpas, luz y contenedores municipales; fianza de 400 € por limpieza.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1324251N",
+      "lugar": "Parque de la Constitución y Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Se pide al SEF subvención para dos agentes de desarrollo local",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba un proyecto de empleabilidad y comercio local de 110.631,99 € y se pide al SEF 66.500 € para pagar a dos técnicos de desarrollo local; el Ayuntamiento pone el resto.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 66500.0,
+      "importes": [
+        {
+          "concepto": "Coste total del proyecto",
+          "eur": 110631.99,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Subvención solicitada al SEF",
+          "eur": 66500.0,
+          "entidad": "SEF"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1325848F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Programa y presupuesto de las Fiestas de San Roque",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las Fiestas de San Roque del 16 de agosto con un presupuesto de 1.562,83 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1562.83,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1312691H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "'Yecla con sentido': feria de promoción del comercio local",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa del 24 de septiembre al 3 de octubre en el Mercado Central, Plaza Mayor y Casa de los Arcos, con presupuesto de 21.700 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 21700.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1326433T",
+      "lugar": "Mercado Central, Plaza Mayor y Casa de los Arcos",
+      "interes": 2
+    }
+  ]
+}

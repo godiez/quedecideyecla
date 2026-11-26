@@ -1,0 +1,947 @@
+{
+  "doc": "2022-09-06_JGL_42",
+  "organo": "JGL",
+  "sesion": 42,
+  "fecha": "2022-09-06",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno paga 458.505 euros en facturas (sobre todo basura y limpieza viaria, deportes, zonas verdes y Verano en Danza) y contrata los conciertos, aseos, seguridad y seguro de la Feria de septiembre. Adjudica por 117.370 euros, con fondos europeos, un estudio de movilidad y zonas de bajas emisiones, y aprueba el Jazz Yecla con 77.476 euros. Firma convenios con Iberdrola y Curenergía para evitar cortes de luz a familias vulnerables, pero rechaza que Iberdrola ponga un punto de recarga en la vía pública.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 3 y 5 de agosto",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: horario de cierre, escuelas infantiles, Los Torrejones y acuífero",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden regional que prorroga el horario de cierre de bares y fiestas en Yecla, de las actuaciones preseleccionadas del programa de escolarización 0-3 años, del visto bueno regional al Plan Director del yacimiento de Los Torrejones, de un aviso de la CHS porque ya se ha gastado más del 80% del agua autorizada del acuífero Cingla-Cuchillo y de una sentencia por conducción bajo los efectos del alcohol.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Dirección General de Centros Educativos e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Juzgado de Primera Instancia e Instrucción nº 1 de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "657559C",
+      "lugar": "Yacimiento de Los Torrejones; acuífero Cingla-Cuchillo",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura, zonas verdes, deportes, autobús y Verano en Danza",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 16 facturas, sobre todo la recogida de basura y limpieza viaria de julio (180.264 €), el mantenimiento de instalaciones deportivas y zonas verdes, el autobús urbano, gasóleo para tres colegios y la producción y decoración de 'Verano en Danza 2022'.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 458505.34,
+      "importes": [
+        {
+          "concepto": "Envíos postales julio 2022",
+          "eur": 6564.71,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E."
+        },
+        {
+          "concepto": "Gasóleo C para el CEIP Méndez Núñez (mayo 2022)",
+          "eur": 7033.5,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Gasóleo C para el CEIP Miguel Ortuño (abril 2022)",
+          "eur": 6943.5,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Gasóleo C para el CEIP Giner de los Ríos (mayo 2022)",
+          "eur": 6408.31,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, julio 2022",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, julio 2022",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Limpieza y conservación de zonas verdes, julio 2022",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Servicio de autobús urbano, julio 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Vestuario para la Policía Local",
+          "eur": 7770.31,
+          "entidad": "Satara Seguridad, S.L."
+        },
+        {
+          "concepto": "Aportación de junio 2022",
+          "eur": 25119.12,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Reparación de la red de riego del césped del Polideportivo Juan Palao Azorín y del campo La Constitución",
+          "eur": 15650.47,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Dos cabinas de almacenamiento NAS de 72 TB",
+          "eur": 9574.61,
+          "entidad": "Tecon Soluciones Informáticas, S.L."
+        },
+        {
+          "concepto": "Producción e infraestructura de 'Verano en Danza 2022'",
+          "eur": 26426.4,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler de mobiliario y decoración de 'Verano en Danza 2022'",
+          "eur": 16577.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Decoración ornamental de 'Verano en Danza 2022'",
+          "eur": 12100.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Servicio técnico de producción de 'Músicas del Aire 2022'",
+          "eur": 7184.98,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "282726A, 485117Z, 495804R, 508989E, 538849C, 551537Z, 573550Y, 584325N, 603230W, 621598F, 630528J, 654918J, 654921N, 656926Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por instalar placas solares de autoconsumo de 6 kW, con una inversión de 6.909 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "649685Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Interés público para una nave taller de reparación de vehículos en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor del interés público de construir una nave taller de reparación de vehículos en el paraje Los Baños (suelo no urbanizable) y se envía a la Consejería de Fomento para que dé la autorización. No hubo alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Automoción Muñoz García, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510609E (S.N.U. 4/2021)",
+      "lugar": "Paraje Los Baños, polígono 45, parcela 47",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de dirección de obra en la licencia 369/20 (vivienda)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de ejecución y coordinador de seguridad y salud en una obra de vivienda particular, a propuesta del Colegio de Aparejadores de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "481914A",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Cambio de dirección de obra en la licencia 55/21 (vivienda)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de ejecución y coordinador de seguridad y salud en una obra de vivienda particular, a propuesta del Colegio de Aparejadores de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "497266Y",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Cambio de dirección de obra en la licencia 60/21 (vivienda)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de ejecución y coordinador de seguridad y salud en una obra de vivienda particular, a propuesta del Colegio de Aparejadores de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "497505E",
+      "lugar": "Paraje Viñales",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de dirección de obra en la licencia 191/21 (vivienda)",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de ejecución y coordinador de seguridad y salud en una obra de vivienda particular, a propuesta del Colegio de Aparejadores de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "505930F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso al jefe de la Policía Local para un curso de Protección Civil",
+      "categoria": "personal",
+      "resumen": "Se autoriza al comisario jefe de la Policía Local a asistir a un curso nacional de protección civil sobre riesgos meteorológicos, inundaciones e incendios forestales en Ávila (19-22 de septiembre), con las condiciones habituales para cursos voluntarios.",
+      "entidades": [
+        {
+          "nombre": "Escuela Nacional de Protección Civil",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "662424J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Grúa municipal para retirar coches, de septiembre a noviembre",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el servicio de grúa para retirar vehículos de la vía pública de septiembre a noviembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658445H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Seguro contra el mal tiempo para la Feria 2022",
+      "categoria": "contrato",
+      "resumen": "Se contrata un seguro por climatología adversa para la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Mapfre España Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7300.13,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "660183X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Concierto Cadena 100 Bombai en la Feria",
+      "categoria": "contrato",
+      "resumen": "Se contrata el concierto 'Cadena 100 Bombai' para la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Radio Popular, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18119.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "662650Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Actuación de Fórmula V en la Feria",
+      "categoria": "contrato",
+      "resumen": "Se contrata la actuación del grupo Fórmula V en la Feria de septiembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Paneles Portadores Publicitarios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16940.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "662796A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Espectáculo 'Tributo Musical de la Granja' en la Feria",
+      "categoria": "contrato",
+      "resumen": "Se contrata el espectáculo infantil 'Tributo Musical de la Granja' para la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Zeus Tomás Producciones Artísticas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "662895N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Compra de una bomba sumergible para aguas residuales",
+      "categoria": "contrato",
+      "resumen": "Se compra por contrato menor una bomba sumergible para aguas residuales.",
+      "entidades": [
+        {
+          "nombre": "Altiplano Comercial del Instalador, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8094.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "663131Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Nuevas atracciones y puestos autorizados para la Feria 2022",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan tres instalaciones más en la Feria (una caseta de juegos de azar, 'Magic Games' y 'Scorpión'), a nombre de particulares, condicionadas al certificado técnico de montaje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637765K",
+      "lugar": "Recinto de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nuevo paso de peatones en calle Pío Baroja esquina Alameda",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina y con informe de la Policía Local, se aprueba pintar un paso de peatones, poner en línea los aparcamientos de un lado y mover los contenedores.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "659354W",
+      "lugar": "Calle Pío Baroja esquina calle Alameda",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para la asociación de Alzheimer (presentación de un libro)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 29 de septiembre para presentar el libro 'La COMED, historia de un sueño', con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "656042W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Teatro Concha Segura gratis para AYAC por el Día Mundial del Cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 2 de febrero de 2023 para un evento solidario del Día Mundial del Cáncer, con rebaja del 100% del precio (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "657125Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos para celebrar un matrimonio civil el 9 de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658287N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para los Mayordomos de la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático para una asamblea extraordinaria de socios el 8 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "662686Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón del Edificio Bioclimático para el club Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático al club para reuniones con sus equipos durante la temporada 2022/2023.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "663378J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Plan de seguridad de la obra de la calle España",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de reurbanización de la calle España (tramo entre Martínez Corbalán y Don Lucio), elaborado por la empresa adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644768M",
+      "lugar": "Calle España, entre calle Martínez Corbalán y calle Don Lucio",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Convenio con Iberdrola para no cortar la luz a familias vulnerables",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con Iberdrola Clientes para coordinarse con Servicios Sociales y evitar cortes de luz o gas a clientes en situación de vulnerabilidad, o restablecerlos enseguida, mientras el Ayuntamiento tramita la ayuda social para pagar la factura. No fija importe.",
+      "entidades": [
+        {
+          "nombre": "Iberdrola Clientes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "630755Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Convenio con Curenergía (bono social) para no cortar la luz a familias vulnerables",
+      "categoria": "convenio",
+      "resumen": "Mismo convenio con Curenergía, la comercializadora de Iberdrola para la tarifa regulada PVPC, necesaria para el bono social: coordinación con Servicios Sociales para evitar cortes de suministro por impago.",
+      "entidades": [
+        {
+          "nombre": "Curenergía Comercializador de Último Recurso, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "630755Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Rechazado un punto de recarga de coches eléctricos de Iberdrola en la vía pública",
+      "categoria": "patrimonio",
+      "resumen": "Se desestima la petición de Iberdrola de ocupar durante diez años dos plazas de aparcamiento públicas para un punto de recarga de coches eléctricos. El informe técnico dice que en Yecla solo hay 91 híbridos y eléctricos (0,43% de los coches) y que ya hay suficientes puntos de recarga.",
+      "entidades": [
+        {
+          "nombre": "Iberdrola Clientes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "593324M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Se pide permiso para poner cámaras de vigilancia en la Casa del Guarda del Arabí",
+      "categoria": "otros",
+      "resumen": "Se solicita a la Delegación del Gobierno autorización para instalar tres cámaras exteriores en la Casa del Guarda del Monte Arabí, donde se ha abierto un punto de información.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "657849E",
+      "lugar": "Monte Arabí, Casa del Guarda",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "No a enviar voluntarios de Protección Civil a las fiestas de Beneixama",
+      "categoria": "organizacion",
+      "resumen": "Se deniega la petición de Beneixama de contar con Protección Civil de Yecla en sus Moros y Cristianos, porque el reglamento no lo permite fuera del municipio, y se pide a la Policía Local que prepare un cambio del reglamento para poder colaborar con otros municipios.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Beneixama",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "659534W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Baja de un puesto del mercadillo de los miércoles (nº 42)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un vendedor deja su puesto del mercadillo semanal; queda vacante y se le devuelve la fianza de 90 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 90.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636012A",
+      "lugar": "Mercadillo de los miércoles, junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Baja de un puesto del mercadillo de los miércoles (nº 28)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un vendedor deja su puesto del mercadillo semanal; se anula el recibo de julio y se le devuelve la fianza de 90 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 90.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640208D",
+      "lugar": "Mercadillo de los miércoles, junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Contrato de un profesor sustituto para la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un profesor a media jornada (17,65 h/semana) para sustituir a una profesora de baja por maternidad, ante la matrícula de 200-250 alumnos infantiles y juveniles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "663739K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Psicólogo para el 'Punto Seguro' contra agresiones en la Feria",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un psicólogo del 10 al 18 de septiembre para atender, junto a la Policía Local, el 'Punto Seguro' de la Feria, un espacio para víctimas de agresiones sexistas, homófobas, acoso o peleas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664487Z",
+      "lugar": "Recinto de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Estudio de movilidad y zonas de bajas emisiones, con fondos europeos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 117.370 € (IVA incluido) la asistencia técnica para planificar actuaciones, redactar proyectos y modelizar el transporte del plan 'Yecla Sostenible 2021-2024', financiado con fondos Next Generation. Queda condicionado a que se formalice el préstamo que paga la parte municipal.",
+      "entidades": [
+        {
+          "nombre": "Pmus & Civil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Plan de Recuperación, Transformación y Resiliencia (Next Generation UE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 117370.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640397Q (C.SE. 12/22 EU)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Comedor de las escuelas infantiles municipales, septiembre-diciembre",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el servicio de comedor de las escuelas infantiles municipales de septiembre a diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "AMG Servicios Integrados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15235.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "655581E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Alquiler de dos tráileres de aseos para la Feria",
+      "categoria": "contrato",
+      "resumen": "Se alquilan dos semirremolques de aseos portátiles para la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Asemóvil La Habana, S.C.V.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16698.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "663683H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Seguridad privada para la Feria 2022",
+      "categoria": "contrato",
+      "resumen": "Se contrata el servicio de seguridad de la Feria de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Selec Global Security, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8559.54,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664133H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Actuación de Rokavieja en la Feria",
+      "categoria": "contrato",
+      "resumen": "Se contrata la actuación de Rokavieja el 14 de septiembre en la Feria.",
+      "entidades": [
+        {
+          "nombre": "Asociación La Roka",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6050.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664577Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Uso del colegio San José de Calasanz para el servicio de acogida matinal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar el colegio de 7:45 a 9:00 durante el curso 2022/2023 para un servicio de acogida matinal que presta una profesional particular con su seguro de responsabilidad civil.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664645T",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Programa del Jazz Yecla 2022: 77.476 € y entradas a 5 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del festival Jazz Yecla (20 a 24 de septiembre) con un presupuesto de 77.476,30 € y un precio único de entrada de 5 € por concierto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 77476.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "664767N",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

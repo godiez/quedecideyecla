@@ -1,0 +1,962 @@
+{
+  "doc": "2021-02-23_JGL_08",
+  "organo": "JGL",
+  "sesion": 8,
+  "fecha": "2021-02-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno saca a licitación la reurbanización de la calle Rambla (170.701 euros) y da licencia a Plenoil para derribar una nave y construir una gasolinera en la Avenida de la Paz. Paga 29.487 euros en seguros a MAPFRE, compra gasóleo para los colegios por 11.610 euros y prorroga los contratos de control de plagas (Lokímica) y de comidas a domicilio. También informa a favor de ampliar una nave industrial en suelo no urbanizable en la carretera de Almansa y autoriza varias quemas agrícolas y contrataciones de personal.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 16 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: esfuerzo fiscal y medidas COVID-19",
+      "categoria": "informacion",
+      "resumen": "Se informa de una resolución estatal sobre los datos de esfuerzo fiscal de 2019, del decreto regional que limita la circulación de personas en varios municipios por la COVID-19 y de la orden que fija el nivel de alerta sanitaria de cada municipio.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Financiación Autonómica y Local",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emite resolución"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "fija nivel de alerta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de las pólizas de seguro del Ayuntamiento a MAPFRE",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a MAPFRE las pólizas de seguro de responsabilidad civil y de daños materiales del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "MAPFRE España Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 29487.0,
+      "importes": [
+        {
+          "concepto": "Póliza de seguro de responsabilidad civil",
+          "eur": 15000.0,
+          "entidad": "MAPFRE España Compañía de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Póliza de seguro de daños materiales",
+          "eur": 14487.0,
+          "entidad": "MAPFRE España Compañía de Seguros y Reaseguros, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491990W, 492003N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Bonificaciones en las escuelas infantiles municipales para dos niños",
+      "categoria": "fiscal",
+      "resumen": "Se conceden a dos niños bonificaciones del 100 % de la cuota de la escuela infantil municipal desde febrero de 2021 (en un caso con horario ampliado de tarde, comedor y merienda).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497373X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Pago de 3.000 € al Yecla Club de Tenis por el Open Nacional 2019",
+      "categoria": "subvencion_concedida",
+      "resumen": "Tras justificar los gastos, se paga al Yecla Club de Tenis la subvención nominativa de 3.000 € para organizar el Open Nacional de Tenis Ciudad de Yecla 2019 (VII Memorial).",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "277760D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para construir una nave agrícola en el paraje Hondo Serrano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para construir una nave agrícola, condicionada a mantener el uso agrícola descrito en el informe de la Dirección General de Política Agraria Común.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476025X",
+      "lugar": "Paraje Hondo Serrano (polígono 50)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para construir una nave agrícola en el paraje Casas de Don Julio",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia, sobre proyecto básico, para una nave agrícola; para empezar la obra deberá presentar el proyecto de ejecución visado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479214A",
+      "lugar": "Paraje Casas de Don Julio (polígono 95)",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en el paraje Las Cabezuelas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos particulares licencia, sobre proyecto básico, para construir una vivienda aislada en el campo, que deberá quedar ligada a la explotación agrícola del expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481778M",
+      "lugar": "Paraje Las Cabezuelas",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Plenoil podrá derribar una nave industrial en la Avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Plenoil, S.L. licencia para demoler una nave industrial en la Avenida de la Paz, 187, con dos fianzas (2.075,32 € por la urbanización y 7.600,07 € por el alumbrado y mobiliario urbano), desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "Plenoil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497929T",
+      "lugar": "Avenida de la Paz, 187",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia a Plenoil para una gasolinera con aparcamiento en la Avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Plenoil, S.L. licencia para construir una unidad de suministro de combustible (gasolinera) con aparcamiento en el mismo solar de la Avenida de la Paz, 187, con fianza de 5.207,17 € y las medidas de protección pedidas por la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Plenoil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493117K",
+      "lugar": "Avenida de la Paz, 187",
+      "interes": 3
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para reformar un local de comercio a oficinas en la calle Colón",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para reformar y ampliar un local, cambiando su uso de comercio a oficinas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493339T",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Interés público para ampliar una nave industrial en la carretera de Almansa",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Sin alegaciones en la información pública, la Junta informa a favor del interés público de la ampliación de una nave industrial en suelo no urbanizable y lo remite a la Consejería de Fomento para que la autorice.",
+      "entidades": [
+        {
+          "nombre": "Simgest Solutions, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "On Identity Rfid, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475307Z",
+      "lugar": "Ctra. de Almansa, km 1,2, paraje La Decarada (polígono 34, parcela 2)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un ordenanza-telefonista para Servicios Sociales y bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata a la persona seleccionada como ordenanza-telefonista del Centro Municipal de Servicios Sociales y se aprueba la bolsa de empleo de esta categoría, vigente al menos hasta finales de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495959H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de un auxiliar de biblioteca para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un auxiliar de biblioteca interino para sustituir a una trabajadora de baja, porque la sustituta anterior renunció.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498496F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contratación de un limpiador para el Colegio Méndez Núñez",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un limpiador interino para sustituir a la limpiadora del Colegio Público Méndez Núñez durante su baja, por la necesidad de limpieza en plena COVID-19.",
+      "entidades": [
+        {
+          "nombre": "Colegio Público Méndez Núñez",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro de destino"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498585E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Exclusión de una aspirante de la bolsa de auxiliares de biblioteca",
+      "categoria": "personal",
+      "resumen": "Se excluye de la bolsa de empleo de auxiliares de biblioteca de 2019 a una aspirante que renunció a un contrato de interinidad para aceptar otro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498485O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Cambio en el tribunal del concurso para el puesto de Jefe de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Como la CARM no puede designar miembros y la Universidad Politécnica de Cartagena solo ofrece uno, los cuatro vocales de la comisión de valoración podrán ser funcionarios de cualquier administración o universidad pública.",
+      "entidades": [
+        {
+          "nombre": "Universidad Politécnica de Cartagena",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "propone vocal"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "no designa vocales"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "257184A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Se licita la reurbanización de la calle Rambla por 170.701 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y el expediente para licitar por procedimiento abierto simplificado la reurbanización de la calle Rambla entre la Avenida Literato Azorín y la Avenida de la Feria, con un presupuesto de 170.701,61 € (IVA incluido), financiada por el Plan de Obras y Servicios 2020/21.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia (Plan de Obras y Servicios)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 170701.61,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497982R",
+      "lugar": "Calle Rambla (entre Av. Literato Azorín y Av. de la Feria)",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Prórroga del contrato de control de plagas, mosquitos y legionela con Lokímica",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (6/5/2021 a 5/5/2022, última prórroga posible) el contrato con Lokímica, S.A. para el control de plagas urbanas, mosquitos y legionela. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Lokímica, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "140136J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Prórroga del servicio de comidas a domicilio para mayores",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año (1/5/2021 a 30/4/2022, última prórroga posible) el contrato de comidas a domicilio para personas mayores o dependientes con Nueva Cocina Mediterránea 2002, S.L. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Nueva Cocina Mediterránea 2002, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "374674P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Indemnización a Podium por el cierre del Centro de Mayores Las Herratillas (enero)",
+      "categoria": "contrato",
+      "resumen": "Por la suspensión del contrato de dinamización del Centro de Mayores Las Herratillas a causa de la COVID-19, se paga a Podium Gestión Integral, S.L. 1.255,29 € por los gastos justificados de enero de 2021.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1255.29,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436944R",
+      "lugar": "Centro de Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Bolardos a la puerta de una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba, con informe favorable de la Policía Local, poner bolardos a ambos lados de la puerta de una vivienda para evitar que los coches aparcados impidan entrar y salir.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497045O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nuevo paso de peatones en las calles Clara Campoamor y Caudete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita un paso de peatones en las calles Clara Campoamor y Caudete, paralelo a la Ronda Norte, para llegar al cruce con semáforo que comunica con los caminos del otro lado.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498257Z",
+      "lugar": "Calles Clara Campoamor y Caudete (Ronda Norte)",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Plan de seguridad y salud de la obra de saneamiento y agua de la calle San Ramón",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por Forum San Patricio, S.A., adjudicataria de la renovación de la red de saneamiento y agua potable de la calle San Ramón (entre Don Lucio y Numancia).",
+      "entidades": [
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491425K",
+      "lugar": "Calle San Ramón (entre calle Don Lucio y calle Numancia)",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Aqualia mejorará el bombeo del depósito de Cuevas de Poniente por 5.515 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia, S.A. y se le ordena ejecutar, dentro del contrato del agua potable, la mejora del bombeo en el depósito de Cuevas de Poniente por 5.515,64 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5515.64,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498432R",
+      "lugar": "Depósito de Cuevas de Poniente",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Cambio de contador y conexión a la red pública de agua de una vivienda en el campo",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a una particular a trasladar el contador de agua de su vivienda en suelo no urbanizable y a pasar de la red privada 'Camino de San Isidro' a la red pública, en precario y con la acometida a su cargo.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "indica la instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498285N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Renovación de las tarjetas de residente de la zona azul 2021-2022",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se renuevan las tarjetas de residente de la zona azul a quienes siguen cumpliendo los requisitos; a quien no recogió la del periodo anterior se le dará previa petición, y se deniega a algunos por tener deudas con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498140M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Adhesión al protocolo con el Instituto de Turismo para impulsar el Camino de la Vera Cruz",
+      "categoria": "convenio",
+      "resumen": "Se aprueba adherirse al protocolo de colaboración con el Instituto de Turismo de la Región de Murcia para impulsar el Camino de la Vera Cruz como recurso turístico. No supone gasto para el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "firma protocolo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498812W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Convenio de prácticas con el Instituto Superior de FP AMUSAL",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con el Instituto Superior de Formación Profesional AMUSAL para que sus alumnos del ciclo superior de Educación Infantil hagan prácticas en las escuelas infantiles municipales.",
+      "entidades": [
+        {
+          "nombre": "Instituto Superior de Formación Profesional AMUSAL",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498269",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Prácticas de una alumna de AMUSAL en la Escuela Infantil El Parque",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a una alumna de AMUSAL a hacer 400 horas de prácticas (marzo a junio) en la Escuela Infantil El Parque.",
+      "entidades": [
+        {
+          "nombre": "Instituto Superior de Formación Profesional AMUSAL",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro de estudios"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498296D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Prácticas de una alumna del IES Hermanos Amorós en la Escuela Infantil El Parque",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a una alumna del IES Hermanos Amorós de Villena a hacer 240 horas de prácticas (marzo a mayo) en la Escuela Infantil El Parque.",
+      "entidades": [
+        {
+          "nombre": "IES Hermanos Amorós (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro de estudios"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498292Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Prácticas de seis alumnos del IES José Luis Castillo Puche en escuelas infantiles",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a seis alumnos del IES José Luis Castillo Puche a hacer 400 horas de prácticas (marzo a junio) en las escuelas infantiles El Parque, Alameda, Campanilla y Perro Loco.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro de estudios"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498284M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Permiso de quema de restos vegetales en el polígono 34",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la Cooperativa La Purísima, en nombre de un agricultor, a quemar restos vegetales en una parcela a menos de 1,5 km del casco urbano, de 12 a 13 h (martes y primer y tercer sábado de cada mes, del 22 de febrero al 27 de mayo), cumpliendo la normativa de incendios y fitosanitaria.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla \"La Purísima\"",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498181T",
+      "lugar": "Polígono 34, parcela 688",
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Permiso de quema de restos vegetales en el polígono 44",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la Cooperativa La Purísima, en nombre de un agricultor, a quemar restos vegetales en una parcela a menos de 1,5 km del casco urbano, de 12 a 13 h (martes y primer y tercer sábado de cada mes, del 22 de febrero al 20 de marzo), cumpliendo la normativa de incendios y fitosanitaria.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla \"La Purísima\"",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498243E",
+      "lugar": "Polígono 44, parcela 116",
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Permiso de quema de restos vegetales en el polígono 34",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la Cooperativa La Purísima, en nombre de un agricultor, a quemar restos vegetales en una parcela a menos de 1,5 km del casco urbano, de 12 a 13 h (miércoles y jueves, del 25 de febrero al 27 de mayo), cumpliendo la normativa de incendios y fitosanitaria.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla \"La Purísima\"",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498519N",
+      "lugar": "Polígono 34, parcela 506",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Espectáculo 'Greenpiss' de Yllana en el Teatro Concha Segura (urgente)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba programar el espectáculo 'Greenpiss' de la compañía Yllana el 6 de marzo de 2021 en el Teatro Concha Segura, con un presupuesto de 7.260 € (IVA incluido) y entrada única a 12 €.",
+      "entidades": [
+        {
+          "nombre": "Yllana",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493636P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Nombramiento de cabos de la Policía Local como funcionarios de carrera (urgente)",
+      "categoria": "personal",
+      "resumen": "Tras superar el curso selectivo de la CARM, se nombran funcionarios de carrera a los aspirantes aprobados en el concurso-oposición por promoción interna para plazas de Cabo (Subinspector) de la Policía Local (oferta de empleo de 2018).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "187022D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Bolsa de empleo de psicólogos: lista provisional de admitidos y tribunal (urgente)",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de admitidos al concurso-oposición para una bolsa de empleo de psicólogo/a, se nombra el tribunal y se fijan la valoración de méritos (23 de abril de 2021) y el examen tipo test (29 de abril, en el Edificio Bioclimático), supeditado a las restricciones COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395127",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Cambio en la reducción de jornada de una trabajadora por cuidado de hijo (urgente)",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar del Negociado de Estadística reducir su reducción de jornada por cuidado de hijo menor de 12 años, que pasa a ser del 30,33 % desde el 1 de marzo de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498634Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Una auxiliar de Intervención pasa en comisión de servicios a la Policía Local (urgente)",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una funcionaria auxiliar de Intervención a ocupar en comisión de servicios, durante un año prorrogable, el puesto vacante de auxiliar administrativo de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497115N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Compra de 18.000 litros de gasóleo de calefacción para los colegios (urgente)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Multigás Enértica, S.L. por 11.610 € (IVA incluido) el contrato menor de suministro de 18.000 litros de gasóleo C para la calefacción de los centros de infantil y primaria.",
+      "entidades": [
+        {
+          "nombre": "Multigás Enértica, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11610.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499074J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.7",
+      "titulo": "El Colegio de Farmacéuticos usará el Salón de Plenos para sus elecciones (urgente)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio Oficial de Farmacéuticos de la Región de Murcia a usar el Salón de Plenos el 9 de marzo, de 7:45 a 22:00 h, para elegir sus órganos de gobierno, con medidas COVID-19.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Farmacéuticos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498774R",
+      "lugar": "Salón de Plenos de la Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Puesto de venta de caracoles en el Mercado de San Cayetano (urgente)",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica provisionalmente a una particular un puesto de venta de caracoles en el Mercado de San Cayetano del 1 de marzo al 31 de agosto de 2021, pagando 6,86 € por metro y mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498458D",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Servicio de comidas a domicilio gratuito para una persona (urgente)",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales, se concede de oficio y sin coste el servicio de comidas a domicilio a una persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499027T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Agua para la obra de reforma de una nave de Grúas Los Raspas (urgente)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a Grúas Los Raspas, S.L. un suministro provisional de agua potable, durante 4 meses y en precario, para la reforma de una nave industrial en la carretera de Villena.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "indica la instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498553K",
+      "lugar": "Ctra. de Villena (suelo urbanizable no programado)",
+      "interes": 1
+    },
+    {
+      "ref": "15.11",
+      "titulo": "Permiso de quema de restos vegetales en el polígono 34 (urgente)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la Cooperativa La Purísima, en nombre de un agricultor, a quemar restos vegetales en una parcela a menos de 1,5 km del casco urbano, de 13 a 14 h, martes y primer y tercer sábado de cada mes del 1 de marzo al 27 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla \"La Purísima\"",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498698M",
+      "lugar": "Polígono 34, parcela 46",
+      "interes": 1
+    },
+    {
+      "ref": "15.12",
+      "titulo": "Permiso de quema de restos vegetales en el polígono 109 (urgente)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la Cooperativa La Purísima, en nombre de un agricultor, a quemar restos vegetales en una parcela cercana al casco urbano, miércoles y jueves del 6 de marzo al 27 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Cooperativa del Vino de Yecla \"La Purísima\"",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "4988697",
+      "lugar": "Polígono 109, parcela 33",
+      "interes": 1
+    },
+    {
+      "ref": "15.13",
+      "titulo": "Autoescuelas Peligro podrá dar prácticas de conducir por el casco urbano (urgente)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Autoescuelas Peligro, S.L. a hacer prácticas del permiso B por las calles abiertas al tráfico del casco urbano.",
+      "entidades": [
+        {
+          "nombre": "Autoescuelas Peligro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493852F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.14",
+      "titulo": "Campeonato regional sub-18 de atletismo con instalaciones gratis (urgente)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano a organizar con la Federación de Atletismo de la Región de Murcia el Campeonato SUB18 regional del 27 de febrero de 2021 y se le ceden gratis las instalaciones deportivas (valoradas en 476,70 €), sin público por la COVID-19.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 476.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495221I",
+      "lugar": "Pista de atletismo del Complejo Juan Pablo Azorín",
+      "interes": 2
+    }
+  ]
+}

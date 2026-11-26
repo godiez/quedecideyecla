@@ -1,0 +1,74 @@
+{
+  "doc": "2026-04-06_PLENO_04",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 7,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria, asunto único. Asisten los 21 concejales.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "enmienda de Vox",
+      "final": false,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 9,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 7
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "la enmienda a la totalidad presentada por el Grupo M. Vox, es rechazada por nueve votos en contra (Grupo M. Popular), nueve abstenciones (Grupo M. Socialista y Grupo M. Izquierda Unida- Verdes), y tres votos a favor (Grupo M. Vox)."
+    },
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 7
+        },
+        "Vox": {
+          "favor": 0,
+          "contra": 3,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "se aprueba por nueve votos a favor (Grupo M. Popular), siete abstenciones (Grupo M. Socialista), y cinco votos en contra (Grupo M. Vox y Grupo M. Izquierda Unida-Verdes)."
+    }
+  ]
+}

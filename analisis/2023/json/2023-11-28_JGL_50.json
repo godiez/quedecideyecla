@@ -1,0 +1,798 @@
+{
+  "doc": "2023-11-28_JGL_50",
+  "organo": "JGL",
+  "sesion": 50,
+  "fecha": "2023-11-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno paga 171.566 euros por expropiar unos terrenos de zona verde y viales en la Avenida de Villena, tras perder un pleito con los propietarios, y 264.317 euros en facturas, sobre todo a Actúa por la basura, la limpieza viaria y los jardines. Reclama al IMAS 8.461 euros que dejó de pagar por el Centro de Día al no firmar una subida que él mismo propuso. Cuatro limpiadoras pasan a ser fijas, se organiza el Mercado de Navidad (4.495 euros) y se autorizan una fiesta de Nochevieja con ruido de hasta 100 decibelios, puestos benéficos y el reparto de pólvora de las Fiestas de la Virgen.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 21 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas regionales de empleo y para el yacimiento de Los Torrejones",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Comunidad Autónoma concede y paga al Ayuntamiento subvenciones del programa Empleo Público Local 2023 (SEF), una subvención directa de la Consejería de Turismo, Cultura, Juventud y Deportes para la Fase I del Plan Director del yacimiento arqueológico de Los Torrejones, y un anticipo para un proyecto formativo de Garantía Juvenil. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "848522D",
+      "lugar": "Yacimiento de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de 264.317 € en facturas: basura, limpieza viaria, jardines, césped y amianto",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de octubre de recogida de basura y limpieza viaria y de mantenimiento de zonas verdes (Actúa), la reparación del césped artificial del campo nº 2 del Juan Palao Azorín, el censo de instalaciones con amianto y la señalización turística en espacios naturales.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Agforest, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 264316.81,
+      "importes": [
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, octubre 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, octubre 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Reparación del césped artificial del campo nº 2 del Complejo Polideportivo Juan Palao Azorín",
+          "eur": 12221.0,
+          "entidad": "Realturf Systems, S.L."
+        },
+        {
+          "concepto": "Asistencia técnica para el censo de instalaciones y emplazamientos con amianto",
+          "eur": 14509.11,
+          "entidad": "Agforest, S.L."
+        },
+        {
+          "concepto": "Señalización turística en espacios naturales de Yecla",
+          "eur": 8696.27,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 538849C, 835174P, 793723T, 693956D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del musical familiar 'Leah': 1.110 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del musical 'Leah' en el Teatro Concha Segura (21/04/2023): se vendieron 1.110 € de 1.614 € puestos a la venta y se dan de baja 504 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1110.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cuatro limpiadoras pasan a ser fijas por la estabilización de empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a las cuatro aspirantes con mayor puntuación en el concurso de estabilización de empleo temporal de cuatro plazas de limpiador/a.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839196A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Bolsa de empleo de periodista: 27 admitidos y examen el 15 de febrero",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales (27 admitidos y 1 excluido por presentar la instancia fuera de plazo), se nombra el tribunal y se fijan la valoración de méritos (8 de febrero de 2024) y el examen tipo test (15 de febrero de 2024).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762659Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Bolsa de auxiliar-inspector de obras: 27 admitidos y examen el 19 de enero",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 27 admitidos a la bolsa subsidiaria de auxiliar-inspector de obras, se nombra el tribunal y se fijan la valoración de méritos (17 de enero de 2024) y el examen (19 de enero de 2024).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832791E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Felicitación a cuatro policías locales por ayudar fuera de servicio en Petrer",
+      "categoria": "personal",
+      "resumen": "Se felicita a cuatro agentes de la Policía Local de Yecla que, fuera de servicio, ayudaron a la Policía Local de Petrer a identificar y detener a los responsables de unos desórdenes públicos el 31 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Petrer",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "848205N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Se prepara una bolsa de empleo de auxiliar inspector de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Se encarga redactar las bases de una bolsa de empleo por concurso-oposición para nombrar interinos de auxiliar inspector de Servicios Técnicos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751792F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Señalización de pasos de peatones: 6.385 € a T.Q. Tecnol",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a T.Q. Tecnol, S.A.U. el contrato menor de suministro de señalización de pasos de peatones por 6.384,92 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "T.Q. Tecnol, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6384.92,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "850461X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de la cafetería Pío XI en la calle Pío Baroja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular una terraza anual de 24 m² para la cafetería 'Pío XI' en la calle Pío Baroja.",
+      "entidades": [
+        {
+          "nombre": "Pío XI",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841846F",
+      "lugar": "calle Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza del Lío Bar en la calle San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular una terraza anual de 27 m² para el 'Lío Bar' en la calle San Francisco.",
+      "entidades": [
+        {
+          "nombre": "Lío Bar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840463K",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Puesto benéfico del Centro de Adultos a favor de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Público de Educación de Adultos (CEA) de Yecla un puesto en el Parque de la Constitución el 20 de diciembre, dentro de su XXXIV Taller de centros navideños, a beneficio de AYAC; se le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos (CEA) de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "846486A",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Puesto benéfico de AYAC en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) un puesto los días 13 y 20 de diciembre para recoger donativos con adornos navideños; se le presta carpa, mesa y sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842804M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Puesto benéfico de AMPY en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para Personas con Discapacidad Intelectual de Yecla (AMPY) un puesto para una campaña benéfica los días 13 y 20 de diciembre, con carpa, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación para Personas con Discapacidad Intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841233E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Puesto informativo de Vox en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a instalar un puesto informativo en el Parque de la Constitución el 29 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "851081H",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "M.T.N., S.L. podrá mover una farola que estorba a sus naves en La Herrada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a M.T.N., S.L. a desplazar 6 metros, a su costa, una farola de la Avenida Juan Carlos I que dificulta el acceso a los muelles de carga de sus naves del polígono La Herrada, con una fianza de 1.826,69 €.",
+      "entidades": [
+        {
+          "nombre": "M.T.N., S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1826.69,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "849595T",
+      "lugar": "Avenida Juan Carlos I, polígono industrial La Herrada",
+      "interes": 2
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Fiesta de Nochevieja en una carpa con ruido de hasta 100 decibelios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el informe municipal de viabilidad para una fiesta de Nochevieja en una carpa en terrenos de la calle del Vino-Avenida de Cartagena, organizada por un particular, desde la 1:00 del 1 de enero. Por estar lejos de zonas residenciales se permite de forma excepcional un ruido de hasta 100 dBA de 1:00 a 7:00, con una fianza de 600 € para limpieza y daños.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842045H",
+      "lugar": "calle del Vino - Avenida de Cartagena",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Escuela de Navidad del AMPA en el colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP San José de Calasanz a usar el colegio del 26 al 29 de diciembre y del 2 al 5 de enero, de 8 a 14 h, para su Escuela de Navidad, haciéndose cargo de limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "848431C",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Reparto de pólvora de las Fiestas de la Virgen en el polideportivo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima Concepción a repartir la pólvora de las Fiestas de la Virgen en el Complejo Polideportivo Juan Palao Azorín los días 4 y 15 de diciembre y 5 de enero, con las condiciones de la Delegación del Gobierno.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833271X",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio para una conferencia de la Escuadra El Castillo III del Bastón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Escuadra El Castillo III del Bastón a usar el Auditorio Municipal 'Juan Miguel Benedito' el 1 de diciembre para una conferencia sobre la Inmaculada Concepción, previo pago del precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Escuadra El Castillo III del Bastón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "849401Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "El Ayuntamiento reclama al IMAS 8.461 € por el Centro de Día",
+      "categoria": "reclamaciones",
+      "resumen": "El IMAS propuso subir un 3,5% lo que paga por las 44 plazas del Centro de Día 'Las Teresas' y el Pleno aprobó la adenda en mayo, pero el IMAS nunca la firmó y ahora propone otra desde diciembre. El Ayuntamiento le reclama 8.461,20 € (o 7.051 € si se firma la nueva adenda) por los ingresos perdidos, alegando que se ha roto la confianza legítima.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclamado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8461.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "655191N",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Mercado de Navidad 2023 en la calle del Niño Jesús: 4.495 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba que la Concejalía de Turismo organice el Mercado de Navidad del 20 al 23 de diciembre en la calle del Niño Jesús, con un presupuesto de 4.495,45 € (IVA incluido), casi todo para la instalación eléctrica.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4495.45,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829245E",
+      "lugar": "calle del Niño Jesús",
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pago de 22.844 € a Eulen por el proyecto Housing First",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar tres facturas (mayo, julio y septiembre de 2023) del proyecto Housing First de vivienda para personas sin hogar.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22844.34,
+      "importes": [
+        {
+          "concepto": "Proyecto Housing First, mayo 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto Housing First, julio 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto Housing First, septiembre 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Contrato de seis meses de un peón para la Brigada de Señalización",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un peón operario a jornada completa durante seis meses por acumulación de tareas en la Brigada de Señalización de la Policía Local, debido a varias bajas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826161X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Sustitución de una técnico de Educación Infantil en la escuela El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnico de Educación Infantil (30 h/semana) para sustituir a la tutora de un aula de 2-3 años de la Escuela Infantil 'El Parque' durante su baja y permisos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "851379X",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Más horas para la educadora social del programa de absentismo escolar",
+      "categoria": "personal",
+      "resumen": "La Consejería de Educación acepta que 14.000 € de la subvención contra el absentismo escolar previstos para ordenador, móvil e internet se destinen a más horas de la educadora social; su contrato se amplía hasta el 19 de enero de 2024.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799238D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "El jefe de Contratación irá a dos cursos sobre contratación pública en Madrid",
+      "categoria": "personal",
+      "resumen": "Se ordena al jefe de la Sección de Urbanismo y Contratación asistir a dos cursos en Madrid (FEMP, 29-30 de noviembre; Patrimonio del Estado e IEF, 11-13 de diciembre) y se le pagan desplazamiento, alojamiento y manutención.",
+      "entidades": [
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Dirección General del Patrimonio del Estado",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "851675H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Mantenimiento de los equipos informáticos Cisco en 2024: 9.559 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Infomicro Comunicaciones, S.L. el contrato menor de mantenimiento del hardware Cisco para 2024 por 9.559 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9559.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845154A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "El Ayuntamiento paga 171.566 € por expropiar terrenos en la Avenida de Villena",
+      "categoria": "patrimonio",
+      "resumen": "Tras un pleito de los propietarios, el Ayuntamiento expropia 1.643 m² (zona verde y viales) junto al antiguo Matadero, en la Avenida de Villena. El Jurado de Expropiación fijó al principio 288.187 €, pero tras el recurso municipal lo dejó en 171.566 €. El Ayuntamiento había valorado el suelo en 2.434 € en 2019 y la sentencia amplió la superficie a expropiar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Jurado Provincial de Expropiación Forzosa (Delegación del Gobierno en Murcia)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "fija justiprecio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 171566.15,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "115009K, 392100J",
+      "lugar": "Avenida de Villena, junto al antiguo Matadero",
+      "interes": 3
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Puesto de turrones y golosinas de Baby Vanessa en la Plaza Mayor el Día de la Subida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a Baby Vanessa, S.L. licencia para un puesto eventual de turrones y golosinas en la Plaza Mayor el 17 de diciembre, con una tasa de 24 €.",
+      "entidades": [
+        {
+          "nombre": "Baby Vanessa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "849138J",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Tres carritos de juguetes, globos y castañas en las Fiestas de la Virgen",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a un vendedor tres licencias de puestos eventuales (dos carritos de juguetes y globos y uno de castañas) del 6 al 10 de diciembre, lejos de los disparos de arcabuz y sin ponerse delante de las procesiones; tasa de 90 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 90.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843345N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Carrera de ciclocross 'CX Race Yecla' en el Cerro de las Trancas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Pafgio Cycling Club la prueba de ciclocross 'CX Race Yecla' (Circuito Regional) el 2 de diciembre en el Complejo Juan Palao Azorín y el Cerro de las Trancas, con colaboración municipal: 419,58 € de gastos y uso gratis de instalaciones valorado en 310 €. Se le advierte de que en el futuro debe respetar los plazos de solicitud.",
+      "entidades": [
+        {
+          "nombre": "Club Deportivo Pafgio Cycling Club",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 729.58,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 419.58,
+          "entidad": "Club Deportivo Pafgio Cycling Club"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 310.0,
+          "entidad": "Club Deportivo Pafgio Cycling Club"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840639E",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín y Cerro de las Trancas",
+      "interes": 1
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Fútbol en la calle del Colegio La Inmaculada en el aparcamiento del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio La Inmaculada una actividad de fútbol en la calle de la Real Federación Española de Fútbol para todo su alumnado de Primaria el 29 de noviembre, en el aparcamiento de la calle del Niño Jesús.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Real Federación Española de Fútbol",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "promueve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "849846R",
+      "lugar": "aparcamiento de la calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Actividades del Día Internacional de las Personas con Discapacidad: 1.403 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban las actividades de Servicios Sociales del 2 de diciembre en el Auditorio y la Plaza Mayor por el Día Internacional de las Personas con Discapacidad, con un gasto de 1.402,70 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1402.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837505C",
+      "lugar": "Auditorio Municipal y Plaza Mayor",
+      "interes": 1
+    }
+  ]
+}

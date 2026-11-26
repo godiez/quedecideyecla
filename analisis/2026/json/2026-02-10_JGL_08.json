@@ -1,0 +1,726 @@
+{
+  "doc": "2026-02-10_JGL_08",
+  "organo": "JGL",
+  "sesion": 8,
+  "fecha": "2026-02-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 38,
+  "resumen": "Se pagan unos 183.000 euros en facturas de enero (deportes, limpieza, autobús urbano). Se da luz verde a la obra del jardín vertical junto al Mercado Central y se decide llevar provisionalmente el ocio juvenil del Sótano de Cazadores a la planta baja del Mercado. El Ayuntamiento patrocina la Vuelta Ciclista a la Región de Murcia con 24.200 euros y se suspende una terraza en calle España por desprendimientos en la cúpula de la Purísima.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior (3 de febrero)",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 3 de febrero de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: deportes, limpieza, autobús urbano y Universidad Popular",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cinco pagos de enero de 2026: mantenimiento de instalaciones deportivas (Vectoris), limpieza de edificios municipales, autobús urbano, profesorado de la Universidad Popular y la cuota anual de la Federación de Municipios.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 183121.72,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, enero 2026",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Actividad docente Universidad Popular, enero 2026",
+          "eur": 6631.07,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, enero 2026 (C.SE. 9/25)",
+          "eur": 62491.71,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Concesión del transporte urbano en autobús, enero 2026",
+          "eur": 29554.7,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Cuota social 2026",
+          "eur": 8748.72,
+          "entidad": "Federación de Municipios de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 628370M, 1132021C, 1174853Q, 1226686F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2-2.4",
+      "titulo": "Rebajas en ICIO e IBI por instalar placas solares en viviendas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la rebaja del 90% del impuesto de obras (ICIO) por placas solares, y a dos particulares la rebaja del 50% del IBI durante varios años (máximo 100 euros al año) por el mismo motivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159762F, 1205337E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para construir un edificio de aparcamiento en calle Corredera",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (proyecto básico) a una comunidad de bienes para un edificio de aparcamiento privado entre medianeras en calle Corredera 3 y calle Forte 4 y 6. Queda anulada una licencia antigua de 2008 para doce viviendas en el mismo solar. Fianza de urbanización de 1.110 euros.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060661Q",
+      "lugar": "calle Corredera 3 y calle Forte 4 y 6",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Legalización de una vivienda en el paraje Gamellejas (suelo rústico)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para legalizar una vivienda unifamiliar aislada ya construida en el paraje Gamellejas; la finca queda como indivisible y debe tener fosa séptica.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1094722Y",
+      "lugar": "paraje Gamellejas",
+      "interes": 2
+    },
+    {
+      "ref": "3.3-3.5",
+      "titulo": "Licencias de obra a particulares: ascensor, demolición y vivienda con piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se conceden tres licencias a particulares: instalar un ascensor en una vivienda, demoler un edificio entre medianeras y construir una vivienda unifamiliar con piscina.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121104P, 1165075K, 1166170F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nombramiento de un auxiliar administrativo interino para Contabilidad",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo a un auxiliar administrativo interino para cubrir una plaza vacante en Gestión Presupuestaria y Contabilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1226881C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Excedencia voluntaria de dos años a un oficial de albañilería",
+      "categoria": "personal",
+      "resumen": "Se concede a un trabajador de la Brigada de Obras una excedencia voluntaria de dos años, sin reserva de puesto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1224495N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Horario 2026 de la brigada de caminos y medio ambiente",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cuadrante de horarios de 2026 de la Brigada de Conservación de Caminos y del mantenedor de Medio Ambiente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1225655Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Curso de formación sobre fondos europeos para personal de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres trabajadoras de la Agencia de Desarrollo Local asistir en Murcia a un curso sobre el cierre de proyectos con fondos europeos de recuperación; el Ayuntamiento paga desplazamiento y dietas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1226898A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Pago a una trabajadora social por sentencia judicial (nivel 24)",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social n.º 3 de Murcia, se reconoce a una trabajadora social el nivel 24 consolidado por haber dirigido los Servicios Sociales y se le abonan 5.443,57 euros más 525,65 euros de intereses.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social n.º 3 de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5969.22,
+      "importes": [
+        {
+          "concepto": "Indemnización por diferencias de nivel 24",
+          "eur": 5443.57,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Intereses legales",
+          "eur": 525.65,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875130J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1-5.2",
+      "titulo": "Contratos menores de técnicos y servicios para el Teatro-Auditorio",
+      "categoria": "contrato",
+      "resumen": "Se adjudican a Audiotec Sonido e Iluminación dos contratos menores para las actividades culturales del Teatro-Auditorio: servicios técnicos (17.424 euros) y servicios generales (17.545 euros), IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34969.0,
+      "importes": [
+        {
+          "concepto": "Servicios técnicos Teatro-Auditorio",
+          "eur": 17424.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Servicios generales Teatro-Auditorio",
+          "eur": 17545.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1211791T, 1211783H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Policía Local acompañará los desfiles de Carnaval de cinco colegios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se acuerda que la Policía Local acompañe los desfiles de Carnaval del 13 de febrero de los CEIP Méndez Núñez, El Alba, Miguel Ortuño Palao, Las Herratillas y La Pedrera.",
+      "entidades": [
+        {
+          "nombre": "CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "CEIP Miguel Ortuño Palao",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "CEIP Las Herratillas",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "CEIP La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219619Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Vía Crucis de la Cofradía de la Agonía y Vera Cruz: se deja para más estudio",
+      "categoria": "via_publica_eventos",
+      "resumen": "La petición de la Cofradía de la Agonía y Vera Cruz para una procesión de Vía Crucis entre la Purísima y San Francisco queda sobre la mesa.",
+      "entidades": [
+        {
+          "nombre": "Cofradía de la Agonía y Vera Cruz",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1226935C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Consum amplía su horario de carga y descarga en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia la reserva de carga y descarga del supermercado Consum (15 metros) al horario continuo de 7 a 17 horas, de lunes a sábado; tasa anual de 106,25 euros.",
+      "entidades": [
+        {
+          "nombre": "Consum S. Coop. V.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 106.25,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1207740R",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del CEIP El Alba para entrenamientos de la Liga Escolar Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar las instalaciones del CEIP El Alba los viernes de febrero a abril para entrenamientos de alumnos de la Liga Escolar Albatros.",
+      "entidades": [
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1227883T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "AMPA del CEIP Giner de los Ríos usará el colegio para su semana cultural",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el colegio del 23 al 26 de marzo (semana cultural) y el 28 de marzo (jornada de convivencia).",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1227358P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Teatro Concha Segura gratis para la Gala por la Diversidad de No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 10 de abril a la asociación No Hay Límite Yecla para su XI Gala por la Diversidad, con rebaja del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1221170W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.4-7.6",
+      "titulo": "Salón de Sesiones del Ayuntamiento para tres bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a tres parejas a usar el Salón de Sesiones de la Casa Consistorial para casarse por lo civil en marzo y abril de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223834W, 1223604A, 1224388P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para el CEIP Miguel Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al CEIP Miguel Ortuño Palao a usar el aula de cocina del antiguo C.P. San José de Calasanz el 25 de febrero para un proyecto escolar de alimentación en inglés.",
+      "entidades": [
+        {
+          "nombre": "CEIP Miguel Ortuño Palao",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1224844Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Luz verde al proyecto del jardín vertical junto al Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y el plan de seguridad de la obra del jardín vertical en el entorno del Mercado Central (contrato de 181.498,79 euros con Acer Proyectos y Obras), ya que el Mercado Central remodelado se recibió el 26 de diciembre de 2025. Las obras pueden empezar tras comprobar el replanteo.",
+      "entidades": [
+        {
+          "nombre": "Acer Proyectos y Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 181498.79,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939349C",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Inscripción de la AMPA del CEIP Alfonso X en el registro de entidades",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe a la AMPA del CEIP Alfonso X 'El Sabio' en el Registro de Entidades de Interés Municipal.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Alfonso X 'El Sabio'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164195N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Ocio juvenil del Sótano de Cazadores se traslada al Mercado Central",
+      "categoria": "patrimonio",
+      "resumen": "Mientras duran las obras del edificio de Cazadores, se considera viable usar de forma provisional la planta baja del Mercado Central (sala polivalente, comedor, bar y aseos) para las actividades de ocio juvenil; antes deberá aprobarse una memoria técnica de la actividad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1226005K",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Oferta de empleo de 5 puestos con subvención del SEF para mejorar espacios públicos",
+      "categoria": "personal",
+      "resumen": "Se pide a la oficina de empleo candidatos para contratar durante cuatro meses a un pintor, dos albañiles y dos peones, en un programa de empleo público local subvencionado por el SEF para mejorar edificios y espacios públicos; se nombra la comisión de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1095713Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Patrocinio municipal de la Vuelta Ciclista a la Región de Murcia 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 24.200 euros (IVA incluido) el patrocinio del Ayuntamiento en la 46ª Vuelta Ciclista a la Región de Murcia 'Costa Cálida', con final de la primera etapa en Yecla el 13 de febrero; único licitador, el club organizador.",
+      "entidades": [
+        {
+          "nombre": "Club Murciano Organizador de Carreras Ciclistas",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24200.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214673X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Renting de un vehículo para la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Andacar 2000 S.A. un contrato menor de 10.500 euros (IVA incluido) para un vehículo en renting para la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Andacar 2000, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1227874F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Reparación de la cabina de un camión municipal",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Automecánica Ruiz S.L. por 6.292 euros (IVA incluido) la reparación de un golpe y el cambio de cabina de un camión Renault municipal.",
+      "entidades": [
+        {
+          "nombre": "Automecánica Ruiz, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6292.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1225778W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Terraza para la cafetería Dune Café Lounge en Camino Real",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular de la cafetería 'Dune Café Lounge' una terraza de 16 m² en calle Camino Real para toda la temporada 2025-2026.",
+      "entidades": [
+        {
+          "nombre": "Dune Café Lounge (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219314R",
+      "lugar": "calle Camino Real",
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Se suspende la terraza del Bar La Bohemia por desprendimientos en la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por la caída a la calle de parte del revestimiento de la cúpula de la Basílica de la Purísima, se suspende la terraza del 'Bar La Bohemia' en calle España mientras duren las medidas de seguridad; se devolverá la tasa proporcional si se solicita.",
+      "entidades": [
+        {
+          "nombre": "Bar La Bohemia (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1181073E",
+      "lugar": "calle España (entorno Basílica de la Purísima)",
+      "interes": 2
+    },
+    {
+      "ref": "10.8-10.9",
+      "titulo": "Dos puestos ambulantes de golosinas y juguetes en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares a vender en carritos juguetes, frutos secos, golosinas y globos del 13 al 15 de febrero por Carnaval, con tasas de 18 y 12 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 30.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1228023N, 1228019H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Apoyo municipal a la etapa de la Vuelta Ciclista con final en Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba la colaboración municipal (Policía, Deportes, medios) en la etapa Cartagena-Yecla de la Vuelta Ciclista del 13 de febrero, con un gasto municipal previsto de 4.930,15 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Murciano Organizador de Carreras Ciclistas",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4930.15,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208107C",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

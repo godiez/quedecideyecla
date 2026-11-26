@@ -1,0 +1,43 @@
+{
+  "doc": "2024-03-21_PLENO_04",
+  "asistentes": {
+    "PP": 8,
+    "PSOE": 7,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Falta una concejala del PP (ausencia justificada); asistentes 20. La sesión tiene un único asunto.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "moción",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 8,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 7,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por once votos a favor (Grupos M. Popular y Vox) y nueve en contra (Grupos M. Socialista e Izquierda Unida-Verdes) aprueba la propuesta de los Grupos Municipales Popular y Vox más arriba transcrita"
+    }
+  ]
+}

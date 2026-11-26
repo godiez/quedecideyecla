@@ -1,0 +1,759 @@
+{
+  "doc": "2022-02-09_JGL_07",
+  "organo": "JGL",
+  "sesion": 7,
+  "fecha": "2022-02-09",
+  "tipo_sesion": "ordinaria",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno adjudica a Mapfre el seguro de responsabilidad civil del Ayuntamiento por 42.488,76 euros al año y abre el concurso para dar una nueva licencia de taxi (la nº 4), porque solo funcionan 6. Concede licencia a Desarrollos Empresariales Illas para una línea de alta tensión de la planta solar Cerrillares I, sube a 125.384 euros la obra del tejado de la Casa de Cultura y paga 173.875 euros en facturas de servicios. También pone dirección única en el camino viejo de la vía, organiza un viaje a Sierra Nevada y licita el bar del Centro de Mayores Las Herratillas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 1 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: órdenes Covid de la CARM y código de conducta en subvenciones",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos órdenes de la Consejería de Salud sobre el nivel de alerta Covid-19 en la Región y sus municipios, y de un escrito de la Dirección General de Regeneración y Modernización Administrativa sobre el código de conducta en subvenciones y ayudas públicas.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Regeneración y Modernización Administrativa (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Centro de Día, deportes, residuos, autobús y Reyes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: el Centro de Día de mayores y el mantenimiento de las instalaciones deportivas de diciembre, el tratamiento de basuras de diciembre, el autobús urbano de enero y el alquiler de carrozas y jaimas para la Cabalgata de Reyes 2022.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio de Gestión de Residuos Sólidos Urbanos",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 173875.0,
+      "importes": [
+        {
+          "concepto": "Servicio de Centro de Día para personas mayores, diciembre 2021",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, diciembre 2021",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos, diciembre 2021",
+          "eur": 27827.01,
+          "entidad": "Consorcio de Gestión de Residuos Sólidos Urbanos"
+        },
+        {
+          "concepto": "Servicio de autobús urbano, enero 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Alquiler de carrozas para la Cabalgata de Reyes 2022",
+          "eur": 17545.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler y montaje de 3 jaimas para Reyes 2022",
+          "eur": 8954.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A, 508989E, 584325N, 551537Z, 576549N, 574184D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Última certificación de la obra del Centro de Protección Animal",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 9 y última de la obra del Centro de Protección Animal (perrera municipal), a favor de la constructora Navecón Contratas.",
+      "entidades": [
+        {
+          "nombre": "Navecón Contratas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4289.04,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490489K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar a construir una vivienda y almacén en Las Moratillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Rural Yecla, S.L. a iniciar las obras de una vivienda unifamiliar aislada con almacén, con licencia concedida en febrero de 2021, tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "Rural Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491550J",
+      "lugar": "paraje Las Moratillas, polígono 104, parcela 25",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar a construir una vivienda con piscina en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a dos vecinos a iniciar las obras de una vivienda unifamiliar aislada con barbacoa y piscina, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "521918M",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Permiso para empezar a construir una vivienda con piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un vecino a iniciar las obras de una vivienda unifamiliar aislada con barbacoa y piscina, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "545785K",
+      "lugar": "paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para la línea de alta tensión de la planta solar Cerrillares I",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Desarrollos Empresariales Illas, S.L. para una línea aérea de alta tensión de 132 kV que evacuará la electricidad de su planta fotovoltaica de 50 MWp Cerrillares I, con las condiciones ambientales, de patrimonio cultural y de energía de la Comunidad Autónoma; plazo de 6 meses para empezar y 24 para terminar.",
+      "entidades": [
+        {
+          "nombre": "Desarrollos Empresariales Illas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506491K",
+      "lugar": "Cerrillares I",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un peón para la brigada de señalización de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se contrata a un peón-operario para la brigada de señalización de la Policía Local, seleccionado a través del SEF, y se crea una lista de espera provisional con el otro candidato que superó la prueba.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "presenta candidatos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578768W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bolsa de empleo de Técnico Superior de Atención Temprana: 37 admitidos",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 37 aspirantes admitidos a la bolsa de empleo temporal de Técnico Superior de Atención Temprana, se nombra el tribunal y se fijan las fechas: méritos el 7 de marzo y examen tipo test el 9 de marzo de 2022 en el Edificio Bioclimático. Una concejala sale de la sala por ser interesada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad (con la ausencia de una concejala por ser interesada)",
+      "expediente": "503409E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Bolsa de Auxiliar-Inspector de Obras: se añade un aspirante olvidado",
+      "categoria": "personal",
+      "resumen": "Se corrige la lista provisional de admitidos a la bolsa de Auxiliar-Inspector de Obras para incluir a un aspirante que había presentado su solicitud en plazo y no figuraba por error.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511236A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Seguro de responsabilidad civil del Ayuntamiento para Mapfre",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Mapfre el seguro de responsabilidad civil municipal (lote 1) por una prima de 42.488,76 euros al año y una rebaja de la franquicia de 100 euros. El lote 2 (seguro de daños) queda desierto porque no se presentó ninguna empresa.",
+      "entidades": [
+        {
+          "nombre": "Mapfre España, Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 42488.76,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543965H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7",
+      "titulo": "Concurso para dar una nueva licencia de taxi (la nº 4)",
+      "categoria": "contrato",
+      "resumen": "Se abre el concurso público para otorgar la licencia de taxi nº 4, vacante desde 2013, para vehículos de hasta 9 plazas. El Ayuntamiento explica que Yecla llegó a tener 10 taxis y ahora solo funcionan 6, pese al crecimiento de la ciudad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497533T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Sentido único en el camino viejo de la vía",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de varios vecinos y con informe favorable de la Policía Local, el camino viejo de la vía (estrecho, elevado y sin protecciones) pasa a tener un único sentido, de subida desde la rotonda de la SEAT en la carretera de Villena hasta la carretera de Pinoso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523187Z",
+      "lugar": "camino viejo de la vía, entre la Ctra. de Villena y la Ctra. de Pinoso",
+      "interes": 2
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Límite de 30 km/h en el Camino Traviesa Vereda",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina, se señaliza con límite de 30 km/h el Camino Traviesa Vereda, entre las carreteras de Fuente Álamo y Montealegre del Castillo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581711H",
+      "lugar": "Camino Traviesa Vereda, entre las carreteras de Fuente Álamo y Montealegre del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Uso del Edificio Bioclimático por el Colectivo Amatista: aplazado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición del Colectivo Amatista para usar salas del Edificio Bioclimático, porque faltan informes.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Amatista",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "583925H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Aulas del Edificio Bioclimático para exámenes de Cambridge",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la academia Kensite School a usar aulas del Edificio Bioclimático para los exámenes de inglés de Cambridge del 18 de junio, 23 y 29 de julio de 2022, cumpliendo el plan Covid del edificio.",
+      "entidades": [
+        {
+          "nombre": "Kensite School, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583501T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Salón del Edificio Bioclimático para una formación de bomberos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Parque de Bomberos de Yecla a usar el salón de actos del Edificio Bioclimático los días 23, 24 y 25 de marzo para una jornada sobre seguridad en emergencias en aerogeneradores.",
+      "entidades": [
+        {
+          "nombre": "Parque de Bomberos de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584903Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Salón de Plenos para una boda civil (26 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos el 26 de febrero de 2022 para su boda civil, con el protocolo Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583676M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Salón de Plenos para una boda civil (9 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos el 9 de abril de 2022 para su boda civil, con el protocolo Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580909T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Salón de Plenos para una boda civil (2 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos el 2 de julio de 2022 para su boda civil, con el protocolo Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582360J",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Viaje juvenil a Sierra Nevada para esquiar (4-6 de marzo)",
+      "categoria": "servicios_actividades",
+      "resumen": "Juventud organiza un viaje de esquí a Sierra Nevada del 4 al 6 de marzo de 2022, con precios de 131 a 220 euros según edad y material, y un gasto máximo de 13.343 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 13343.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581291Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Informe al Ministerio sobre ahorro energético en edificios y alumbrado",
+      "categoria": "informacion",
+      "resumen": "Se envían al Ministerio para la Transición Ecológica los informes de los técnicos municipales sobre las actuaciones de ahorro y eficiencia energética en edificios municipales y en el alumbrado público.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Política Energética y Minas (Ministerio para la Transición Ecológica y el Reto Demográfico)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511836J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Corrección de un error en una licencia de vivienda en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige el polígono (era el 38, no el 34) en la licencia concedida en diciembre de 2021 a un vecino para una vivienda unifamiliar aislada en zona inundable, que exige anotación registral de esa circunstancia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "520946M",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Corrección del mismo error en el permiso de inicio de obras",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige el mismo error de polígono en la autorización para empezar las obras de esa vivienda, tras presentar el certificado registral de zona inundable y el proyecto refundido.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "520946M",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Sustitución de una profesora de baja en la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un profesor para sustituir a una profesora de la Escuela Municipal de Bellas Artes mientras dure su baja, por ser una necesidad urgente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585119Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Sustitución del conserje de baja del Colegio Miguel Ortuño",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo un sustituto para el conserje-operario del Colegio Público Miguel Ortuño mientras dure su baja.",
+      "entidades": [
+        {
+          "nombre": "CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "afectado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585202F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Plaza de Inspector de Policía Local: 3 admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 3 aspirantes a una plaza de Inspector de la Policía Local por promoción interna (oferta de 2020), se nombra el tribunal y los psicólogos asesores, y se fija para el 5 de abril de 2022 la valoración de méritos y las pruebas psicotécnicas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512185T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Se licita el bar cafetería del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación del servicio de bar cafetería del Centro Municipal de Mayores Las Herratillas, con un precio base anual de 31.059,39 euros (IVA incluido) y un gasto autorizado de 22.000 euros para 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 31059.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583035X",
+      "lugar": "Centro Municipal de Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "12.7",
+      "titulo": "La obra del tejado de la Casa de Cultura sube a 125.384 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba modificar el proyecto y el contrato de sustitución parcial de la cubierta de la Casa de Cultura, adjudicado en 2020 por 109.142 euros a Construcciones Enciso y José, que pasa a 125.384,28 euros: un gasto extra de 16.242,28 euros.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16242.28,
+      "importes": [
+        {
+          "concepto": "Precio inicial del contrato (2020)",
+          "eur": 109142.0,
+          "entidad": "Construcciones Enciso y José, S.L."
+        },
+        {
+          "concepto": "Gasto complementario por la modificación",
+          "eur": 16242.28,
+          "entidad": "Construcciones Enciso y José, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R",
+      "lugar": "Casa de Cultura",
+      "interes": 3
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Ayudas a familias vulnerables para necesidades básicas",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas económicas a las familias en situación de vulnerabilidad social que propone Servicios Sociales, para cubrir necesidades básicas. El acta no detalla ni personas ni importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "561055T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Espectáculo 'Unic@s' en el Teatro Concha Segura, entrada a 3 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba programar el espectáculo 'Unic@s' en el Teatro Concha Segura el 16 de febrero de 2022, con un presupuesto de 5.082 euros y entrada única de 3 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5082.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Renovación de la red de agua en la Avenida de la Paz",
+      "categoria": "contrato",
+      "resumen": "Se encarga a FCC Aqualia, concesionaria del agua, la renovación de la red en la Avenida de la Paz, números 62 a 72, por 6.691,63 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6691.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585220F",
+      "lugar": "Avda. de la Paz, 62-72",
+      "interes": 2
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Convenio de prácticas con la Junta de Andalucía (alumnos de Cesur-Sevilla)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con la Consejería de Educación y Deporte de la Junta de Andalucía para que alumnos del centro Cesur-Sevilla hagan prácticas no remuneradas en el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Deporte (Junta de Andalucía)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        },
+        {
+          "nombre": "C.D.P. Cesur-Sevilla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586594P-1",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Prácticas de un alumno en el Servicio de Deportes",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno del ciclo de Acondicionamiento Físico de Cesur-Sevilla a hacer prácticas en el Servicio Municipal de Deportes, con la colaboración de la empresa de socorrismo Podium Gestión Integral.",
+      "entidades": [
+        {
+          "nombre": "C.D.P. Cesur-Sevilla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586594P-2",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Prácticas de socorrismo en la piscina cubierta con el Ayuntamiento de Jumilla",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un acuerdo con el Ayuntamiento de Jumilla para que los alumnos de su curso de socorrismo acuático (financiado por el SEF y el Fondo Social Europeo) hagan 80 horas de prácticas no remuneradas en la piscina cubierta, del 21 de febrero al 9 de marzo de 2022.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Jumilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma acuerdo"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585068W",
+      "lugar": "Piscina Cubierta",
+      "interes": 1
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Partido solidario de madres del Fútbol Base a favor de la AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya el partido entre madres de la Sociedad Deportiva Fútbol Base Yecla, a beneficio de la Asociación de Yecla contra el Cáncer, el 13 de febrero de 2022 en el Campo de La Constitución, con uso gratuito de la instalación (valorado en 390,50 euros), apertura y limpieza.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Asociación de Yecla contra el Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cede instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 390.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574895Q",
+      "lugar": "Campo Municipal de Deportes de La Constitución",
+      "interes": 1
+    }
+  ]
+}

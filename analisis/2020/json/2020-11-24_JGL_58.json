@@ -1,0 +1,798 @@
+{
+  "doc": "2020-11-24_JGL_58",
+  "organo": "JGL",
+  "sesion": 58,
+  "fecha": "2020-11-24",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno multa con 33.077 euros a la constructora del edificio de La Alameda por 253 días de retraso y convoca hasta 135.000 euros en ayudas para clubes deportivos. Paga unos 163.000 euros por las luces LED del alumbrado público y rechaza rebajar el impuesto de obras a un parque solar porque las renovables ya no se consideran uso industrial. También declara de interés público ampliar una fábrica de colchones en suelo rústico, deniega aparcamiento para un punto privado de test COVID y aprueba la campaña navideña de los mercados.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 17 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda de drogodependencias, medidas COVID y una sentencia sobre multas",
+      "categoria": "informacion",
+      "resumen": "Se informa de la modificación de la subvención de la Consejería de Salud para actividades de drogodependencias de 2019; de dos órdenes regionales que prorrogan medidas contra la COVID-19; de una sentencia de un juzgado de Murcia que anula una multa municipal de seguridad ciudadana (art. 36.16) porque el Ayuntamiento no es competente para imponerla; y de un informe técnico sobre el agua que llega a la depuradora (EDAR).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "488569T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de luces LED del alumbrado público y de agua a la SAT Aguas de Pinoso",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a Invemat Levante el suministro e instalación de tecnología LED en el alumbrado público y a la SAT Aguas de Pinoso una factura de 9.696 m³ de agua.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Agraria de Transformación Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 169873.44,
+      "importes": [
+        {
+          "concepto": "Suministro e instalación de tecnología LED en el alumbrado público (C.SU. 11/2020) (importe dudoso por OCR: '163,350')",
+          "eur": 163350.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Factura 26 de 30/09/2020, 9.696,12 m³ de agua",
+          "eur": 6523.44,
+          "entidad": "Sociedad Agraria de Transformación Aguas de Pinoso"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "397126P, 488977K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones: sondeo de agua potable y edificio educativo de La Alameda",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 2 del sondeo para extraer agua potable (54.998,03 €) y las nº 20 (0 €) y 21 (36.061,58 €) del edificio educativo polivalente del barrio de La Alameda.",
+      "entidades": [
+        {
+          "nombre": "Cesyr Estudios y Construcción, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Avance y Desarrollo de Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 91059.61,
+      "importes": [
+        {
+          "concepto": "Certificación nº 2, sondeo para extracción de agua potable",
+          "eur": 54998.03,
+          "entidad": "Cesyr Estudios y Construcción, S.L."
+        },
+        {
+          "concepto": "Certificación nº 20, edificio educativo polivalente La Alameda",
+          "eur": 0.0,
+          "entidad": "Avance y Desarrollo de Obras, S.L."
+        },
+        {
+          "concepto": "Certificación nº 21, edificio educativo polivalente La Alameda",
+          "eur": 36061.58,
+          "entidad": "Avance y Desarrollo de Obras, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380943N, 65557C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'En voz de ellas' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo 'En voz de ellas' (14 de noviembre): cargo de 600 €, 120 € recaudados y baja de las entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Teatro Concha Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488280R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rechazado el recurso de Nuevos Campos Solares: sin rebaja del ICIO para su parque solar",
+      "categoria": "fiscal",
+      "resumen": "Se desestima el recurso de Nuevos Campos Solares contra la denegación de la bonificación del 50% del ICIO para su parque fotovoltaico de 2 MW. La empresa alegaba que antes se había concedido a otro parque igual; el Ayuntamiento cambia de criterio porque la ley regional reformada en 2020 dice que las renovables no son uso industrial sino infraestructura energética.",
+      "entidades": [
+        {
+          "nombre": "Nuevos Campos Solares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        },
+        {
+          "nombre": "Sinltmitsol, S.L. (nombre dudoso por OCR)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "citada como precedente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "394885C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular y de proyecto de una vivienda aislada en Fuente La Negra",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de titular de una licencia de vivienda unifamiliar aislada y se autoriza el proyecto modificado, con la condición de inscribir la unidad de explotación en el Registro de la Propiedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "68134F",
+      "lugar": "paraje Fuente La Negra",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de proyecto de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza la modificación del proyecto de una vivienda unifamiliar entre medianeras ya autorizada en 2019.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "211767X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) para construir una vivienda unifamiliar entre medianeras; fianza de 125 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480072R (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para reformar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para reformar una vivienda unifamiliar entre medianeras; fianza de 400 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481509N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para reformar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para reformar una vivienda unifamiliar entre medianeras; fianza de 220 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482023C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) para construir una vivienda unifamiliar entre medianeras; fianza de 465 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486228R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Interés público para ampliar la fábrica de colchones de Essenzia Dormire",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "A petición de la Comunidad Autónoma, el Ayuntamiento declara de interés público la ampliación de la nave de fabricación de colchones de Essenzia Dormire en suelo no urbanizable y lo remite a la Consejería de Fomento para su autorización.",
+      "entidades": [
+        {
+          "nombre": "Essenzia Dormire, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "240430F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Rechazada una reclamación contra el censo de inspección técnica de edificios",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima la reclamación de una propietaria contra la inclusión de su edificio en el censo de 2020 del informe de evaluación de edificios, porque la escritura no indica cuándo se declaró la obra y el Catastro lo data en 1965.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "467314 (incompleto por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Un edificio sale del censo de inspección técnica de 2020 (pasa a 2033)",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima la reclamación de un propietario: la escritura demuestra que el edificio es más reciente de lo que dice el Catastro, así que sale del censo de edificios que deben pasar el informe de evaluación en 2020 y pasa al censo de 2033. Se avisa al Catastro para que corrija el año.",
+      "entidades": [
+        {
+          "nombre": "Oficina del Catastro",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "corrige datos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "478550D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Un edificio sale del censo de inspección técnica de 2020 (pasa a 2040)",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima la reclamación de un propietario: la escritura demuestra que el edificio es más reciente de lo que dice el Catastro, así que sale del censo de edificios que deben pasar el informe de evaluación en 2020 y pasa al censo de 2040. Se avisa al Catastro para que corrija el año.",
+      "entidades": [
+        {
+          "nombre": "Oficina del Catastro",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "corrige datos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481067Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Un edificio sale del censo de inspección técnica de 2020 (pasa a 2038)",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima la reclamación de un propietario: la escritura demuestra que el edificio es más reciente de lo que dice el Catastro, así que sale del censo de edificios que deben pasar el informe de evaluación en 2020 y pasa al censo de 2038. Se avisa al Catastro para que corrija el año.",
+      "entidades": [
+        {
+          "nombre": "Oficina del Catastro",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "corrige datos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465505K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de profesores de la Escuela Municipal de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se aprueba la bolsa de empleo, por orden de puntuación, para contratar profesores de la Escuela Municipal de Bellas Artes, y se excluye a un aspirante por no presentar la documentación a tiempo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "247229Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación interina de una auxiliar de ayuda a domicilio por jubilación",
+      "categoria": "personal",
+      "resumen": "Por la jubilación de una auxiliar de hogar del Servicio de Ayuda a Domicilio, se contrata a otra persona de la bolsa de empleo para atender a mayores y dependientes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487313Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Agradecimiento al personal de limpieza y conserjería por su trabajo en la pandemia",
+      "categoria": "personal",
+      "resumen": "La Junta agradece y reconoce públicamente el trabajo del personal de limpieza y conserjería de los edificios municipales durante la pandemia de COVID-19.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489050M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Intereses de 617 € a un policía local por una suspensión anulada por el juzgado",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de una sentencia que anuló la suspensión de empleo y sueldo de seis meses a un agente de la Policía Local, se le pagan 617,08 € de intereses sobre los 15.932,32 € de sueldo ya devueltos.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 617.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "257374P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Mantenimiento de los equipos Cisco en 2021: Infomicro Comunicaciones",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Infomicro Comunicaciones el contrato menor de mantenimiento del hardware Cisco del Ayuntamiento para 2021.",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6941.87,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486406P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Denegada reserva de aparcamiento para un punto privado de pruebas COVID",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Clern Internacional reservar 10 metros de calle en Numancia esquina Fábricas para los coches de los clientes de su punto privado de pruebas COVID, por ser una clínica con ánimo de lucro y haber pocos aparcamientos.",
+      "entidades": [
+        {
+          "nombre": "Clern Internacional, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "488738D",
+      "lugar": "calle Numancia esquina calle Fábricas",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Zona de carga y descarga para la residencia de AMPY en la calle Narciso Yepes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una zona de carga y descarga junto a la puerta secundaria de la residencia de la Asociación de Personas con Discapacidad Intelectual (AMPY).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488751X",
+      "lugar": "calle Narciso Yepes",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Petición a la Región para podar y talar olmos en calles y jardines",
+      "categoria": "medio_ambiente",
+      "resumen": "Se pide autorización a la Dirección General de Medio Natural para podar unos 28 olmos y talar 3 en la avenida de la Libertad, carretera de Montealegre, Jardín de Las Pencas, avenida de Córdoba, avenida de la Feria del Mueble y avenida Juan Carlos I.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488793E",
+      "lugar": "avenida de la Libertad y otras calles",
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Mejoras en la plaza de la calle Eugenio Noel: paso de peatones y gatos",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se redondean los cantos de los muretes de la plaza de la calle Eugenio Noel y se crea un paso de peatones con rebaje de acera; se deniegan los reductores de velocidad (solo junto a colegios) y se traslada el gato censado de la colonia de la calle Torrejones, retirando el punto de comida.",
+      "entidades": [
+        {
+          "nombre": "SPANDY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "gestiona colonia felina"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "475044J",
+      "lugar": "calle Eugenio Noel",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Pescados Larrosa debe reponer el falso techo de un puesto del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se requiere a Pescados Larrosa, que ha perdido la titularidad del puesto 10L, que reponga en diez días el falso techo que retiró sin permiso (365,18 €); si no, lo hará el Ayuntamiento a su costa.",
+      "entidades": [
+        {
+          "nombre": "Pescados Larrosa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "debe reparar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 365.18,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "426405E",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Cobro de 681 € a una antigua titular por desalojar su puesto del mercado",
+      "categoria": "patrimonio",
+      "resumen": "Se cobran 681,31 € a la antigua titular del puesto 2C del Mercado de San Cayetano por el desalojo que tuvo que hacer la Brigada de Obras al no retirar ella sus enseres.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 681.31,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489022Y",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "IV campaña navideña de dinamización de los mercados municipales",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la IV campaña 'Dinamización de los Mercados municipales - Navidad 2020' (21 de diciembre a 30 de enero) para fomentar las compras en el Mercado Central y el de San Cayetano y apoyar a la hostelería, con un presupuesto de 4.775 € y plazo para que se apunten los bares y restaurantes del 3 al 12 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4775.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488656P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Exposición de un belén napolitano en la iglesia de San Francisco",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Cultura organiza la exposición de un belén napolitano con aires murcianos de un artesano en la iglesia de San Francisco, del 28 de noviembre al 10 de enero, con un gasto de 8.500 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 8500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488959K",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la obra de saneamiento de la calle San Ramón",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de sustitución de la red de saneamiento de la calle San Ramón (entre Francisco Castaño e Infanta María Teresa).",
+      "entidades": [
+        {
+          "nombre": "Francisco Puche El Jardinero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487872A",
+      "lugar": "calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Royalveg puede abrir una zanja en el camino de Granada para una tubería de riego",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Royalveg a abrir una zanja en el camino de Granada para instalar una tubería de riego, con fianza de 469,80 €.",
+      "entidades": [
+        {
+          "nombre": "Royalveg, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487294V",
+      "lugar": "camino de Granada (polígono 119)",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Agua potable en precario para una vivienda en suelo no urbanizable (Barranco del Polío)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a un particular el suministro de agua potable a su vivienda aislada en suelo no urbanizable, en precario: el Ayuntamiento puede cortarlo si falta agua para el casco urbano.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487458A (dudoso por OCR)",
+      "lugar": "paraje Barranco del Polío",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Teletrabajo parcial para una auxiliar administrativa de Obras y Catastro",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa a teletrabajar tres días a la semana por pertenecer a un grupo vulnerable a la COVID-19. No supone coste.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484144Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Informe favorable para extender a un empleado los efectos de una sentencia",
+      "categoria": "reclamaciones",
+      "resumen": "Se aprueba el informe de Personal que considera viable extender a un empleado los efectos de una sentencia de 2020 del Juzgado de lo Contencioso nº 5 de Murcia, y se envía al juzgado.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "458148R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Seguros municipales: solo Mapfre Vida se presenta; desiertos los de daños, flota y RC",
+      "categoria": "contrato",
+      "resumen": "En el contrato de pólizas de seguros del Ayuntamiento solo hubo una oferta, de Mapfre Vida, para los lotes 4 y 5 (vida y accidentes), a la que se pide la documentación previa a la adjudicación. Quedan desiertos los lotes de responsabilidad civil, daños materiales y flota de vehículos por falta de licitadores.",
+      "entidades": [
+        {
+          "nombre": "Mapfre Vida, Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "306684A (dudoso por OCR)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Material informático para un aula del Centro de Emprendimiento: Seinsol",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Seinsol el contrato menor de suministro de material informático para un aula del Centro de Emprendimiento y Capacitación Tecnológica.",
+      "entidades": [
+        {
+          "nombre": "Seinsol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7284.81,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486193T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Multa de 33.077 € a la constructora del edificio de La Alameda por 253 días de retraso",
+      "categoria": "contrato",
+      "resumen": "Se imponen a Avance y Desarrollo de Obras penalidades de 33.077,22 € por 253 días de retraso (130,74 €/día) en el edificio polivalente del barrio de La Alameda, terminado el 30 de octubre de 2020. Se rechazan sus alegaciones (crisis, subcontratas, COVID) y se descontará de las certificaciones o de la garantía.",
+      "entidades": [
+        {
+          "nombre": "Avance y Desarrollo de Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga penalidad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33077.22,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.O.3/18",
+      "lugar": "barrio de La Alameda",
+      "interes": 3
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Convocatoria de subvenciones de hasta 135.000 € a clubes deportivos (2020)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria urgente de subvenciones a clubes y asociaciones deportivas de 2020, con un máximo de 135.000 €, en cinco líneas: competiciones, escuelas deportivas, liquidez por la COVID, eventos y actividades de promoción. Plazo de 5 días desde su publicación en el BORM.",
+      "entidades": [
+        {
+          "nombre": "clubes y asociaciones deportivas de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pueden recibir subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 135000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489158M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Programa de asesoramiento deportivo adaptado a la COVID",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de asesoramiento de actividad física y deporte del Servicio Municipal de Deportes, elaborado por la empresa que gestiona el socorrismo y las actividades deportivas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488321Z",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

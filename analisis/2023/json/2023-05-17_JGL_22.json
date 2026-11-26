@@ -1,0 +1,1293 @@
+{
+  "doc": "2023-05-17_JGL_22",
+  "organo": "JGL",
+  "sesion": 22,
+  "fecha": "2023-05-17",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno paga casi 750.000 euros en certificaciones de obra y facturas (sobre todo la remodelación del Mercado Central, 372.647 €, y cuatro meses de deportes y socorrismo). Exige a la empresa que redactó el proyecto del Mercado Central que corrija sus errores y se queda con la fianza de la constructora de la calle Numancia por no arreglar defectos. Aprueba un convenio de hasta 7.000 € con el Yecla Club de Tenis para un torneo internacional femenino, pide 150.000 € a la CARM para el césped de un campo de fútbol y convoca diez becas de arqueología.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 466.353 € para Servicios Sociales y permisos de Patrimonio Cultural",
+      "categoria": "informacion",
+      "resumen": "Se informa de la financiación regional del Centro de Servicios Sociales de Atención Primaria (466.353 €), de que Patrimonio Cultural autoriza la mejora de aceras en calles España y Juan Ortuño y la restauración del castillo ('El renacer de Yakka') y pide reparar desperfectos en la Casa Consistorial, del inicio del reintegro de una subvención para señalización turística del casco urbano y de la ampliación de plazo de los programas mixtos de empleo-formación 2022.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        },
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "amplía plazo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 466353.0,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "773610J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, seguro municipal, 8 de marzo y curso de artes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cuatro pagos: limpieza de edificios municipales de abril, el seguro de daños de los bienes municipales, las actividades del Día de la Mujer y el curso de artes plásticas de abril.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Bilbao Compañía Anónima de Seguros y Reaseguros, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "AFEDECO (Asociación de Formación y Desarrollo Comunitario)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 105297.39,
+      "importes": [
+        {
+          "concepto": "Actividades del 8 de marzo, Día Internacional de la Mujer",
+          "eur": 8777.0,
+          "entidad": "AFEDECO (Asociación de Formación y Desarrollo Comunitario)"
+        },
+        {
+          "concepto": "Seguro de daños materiales de bienes muebles e inmuebles municipales",
+          "eur": 36415.64,
+          "entidad": "Bilbao Compañía Anónima de Seguros y Reaseguros, S.A.U."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, abril 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Curso de artes plásticas y oficios artísticos, abril 2023",
+          "eur": 6988.04,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723870A, 639907N, 118095X, 628370M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central, calle San Antonio y calle Cerro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de obra: la nº 6 de la remodelación del Mercado Central, la nº 4 de la reurbanización de la calle San Antonio y la nº 2 de la renovación de pavimento, alcantarillado y agua en la calle Cerro (POS 2022).",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 480683.14,
+      "importes": [
+        {
+          "concepto": "Certificación nº 6, remodelación del Mercado Central",
+          "eur": 372647.5,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 4, reurbanización calle San Antonio (entre San Francisco y Don Lucio)",
+          "eur": 70011.4,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 2, pavimento, alcantarillado y agua en calle Cerro (POS 2022)",
+          "eur": 38024.24,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 654214F, 677313N",
+      "lugar": "Mercado Central; calle San Antonio; calle Cerro",
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Sustitución de una técnica de Educación Infantil de baja (Escuela Pulgarcito)",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un técnico de Educación Infantil, 30 horas semanales, para sustituir una baja médica en la Escuela Infantil Pulgarcito hasta fin de curso como máximo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772217Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Sustitución de una técnica de Educación Infantil de baja (Escuela El Parque)",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un técnico de Educación Infantil, 30 horas semanales, para sustituir una baja médica en la Escuela Infantil El Parque hasta fin de curso como máximo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772222F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Una educadora social pasa a indefinida no fija por sentencia",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social nº 6 de Murcia, se reconoce a una trabajadora la condición de laboral indefinida no fija, como Educadora Social, con antigüedad desde agosto de 2014.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "670314R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "15 alumnos-trabajadores para el programa de atención sociosanitaria a domicilio",
+      "categoria": "personal",
+      "resumen": "Se incorporan 15 alumnos-trabajadores al Programa Mixto de Empleo y Formación 'Yecla Integra' (atención sociosanitaria a personas en el domicilio), subvencionado por el SEF, y se crea una bolsa con el resto de aspirantes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754588P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Vallas para las fiestas de San Isidro: contrato menor de 9.344,83 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Deco-Urba 2007, S.L. el suministro del vallado para San Isidro por 9.344,83 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Deco-Urba 2007, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9344.83,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769298W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se cobra la fianza a la constructora de la calle Numancia por no reparar defectos",
+      "categoria": "contrato",
+      "resumen": "Forum San Patricio, S.A. no arregló en plazo defectos de la reurbanización de la calle Numancia (registros y rejillas sueltos y una acometida dañada que provoca inundaciones en un inmueble). El Ayuntamiento hará las reparaciones (5.758,39 €) con cargo al aval de 16.981 € y devolverá el sobrante.",
+      "entidades": [
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "CaixaBank, S.A. (antes Bankia)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "avalista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16981.0,
+      "importes": [
+        {
+          "concepto": "Aval incautado (garantía definitiva)",
+          "eur": 16981.0,
+          "entidad": "Forum San Patricio, S.A."
+        },
+        {
+          "concepto": "Presupuesto de las reparaciones",
+          "eur": 5758.39,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501912A",
+      "lugar": "calle Numancia, entre calle San José y calle Fábricas",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle San Ramón",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino se habilita una plaza reservada para personas con discapacidad en la calle San Ramón.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696113Z",
+      "lugar": "calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Una plaza para discapacitados junto a una clínica en calle Numancia; se niega la segunda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Clern Internacional, S.L. pidió dos plazas reservadas junto a su clínica: se concede una en calle Numancia esquina Fábricas y se deniega la otra porque la clínica tiene garaje en el edificio.",
+      "entidades": [
+        {
+          "nombre": "Clern Internacional, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "706047X",
+      "lugar": "calle Numancia esquina calle Fábricas",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Plaza de aparcamiento para discapacitados en calle Padre Lasalde, a petición de ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una plaza reservada para personas con discapacidad en calle Padre Lasalde, 14, solicitada por ADFY.",
+      "entidades": [
+        {
+          "nombre": "ADFY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721291T",
+      "lugar": "calle Padre Lasalde",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Denegada a AYAC una plaza para discapacitados: ya hay una a 20 metros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la Asociación de Yecla de Afectados de Cáncer una plaza reservada en calle Arcipreste Esteban Díaz porque ya existe otra a veinte metros.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "721283H",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Denegada a Amites Yecla una plaza para discapacitados en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Amites Yecla ONG una plaza reservada en calle Colón porque ya hay una cerca y por otras razones del informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Amites Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "700815E",
+      "lugar": "calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Mesa informativa del Centro de Educación de Adultos en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Público de Educación de Adultos a poner una mesa informativa sobre matrícula del curso 2023/24 los días 17 y 24 de mayo, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos de Yecla (CEA)",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769522F",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Muestra de gimnasia del Centro de Personas Mayores en el jardín de la Avda. de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Social de Personas Mayores del IMAS a usar el jardín de la Avenida de la Feria el 30 de mayo para su muestra de fin de curso de ejercicio físico, con carpa, mesa y sillas.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741999E",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Un bolardo en la puerta de una vivienda; se niega el del garaje",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba instalar un bolardo ante la puerta de una vivienda para evitar que aparquen coches y se deniega el pedido para la puerta del garaje, según informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "614517X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Denegado un bolardo para proteger la fachada de una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino la instalación de un bolardo en la fachada de su vivienda, según informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "703996Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Noria infantil en las fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un feriante a montar una noria infantil en San Isidro 2023, condicionada a presentar certificado técnico de montaje y seguridad.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749134P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.11",
+      "titulo": "Puesto ambulante de frutos secos y globos en San Isidro (tasa de 6 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vendedor licencia de puesto eventual con un carrito de frutos secos, algodón, globos y baratijas el 19 y 20 de mayo, con tasa de 6 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761168D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.12",
+      "titulo": "Autoescuelas Evolution podrá hacer prácticas de conducir por el casco urbano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de que Autoescuelas Evolution, S.L. hará prácticas del permiso B por las calles abiertas al tráfico.",
+      "entidades": [
+        {
+          "nombre": "Autoescuelas Evolution, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762805C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Uso del Auditorio Juan Miguel Benedito para el concierto de una academia de canto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar el Auditorio Municipal el 17 de junio para el concierto de fin de curso de su academia de canto, pagando 400 € de precio público.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759865T",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Actividad juvenil 'Valorarte' 2023: 3.720 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Valorarte' del Servicio de Juventud para mayo y junio, con un presupuesto de 3.720 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3720.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "773357H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de 2 becas de prácticas de arqueología (hasta 4.800 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan dos becas de prácticas de arqueología para jóvenes titulados de 18 a 35 años en Historia, Arte, Humanidades y similares, por un máximo total de 4.800 €. Solicitudes en 15 días naturales desde el anuncio en el BORM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768388F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Convocatoria de 8 becas de auxiliares de arqueología (900 € cada una)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan ocho becas de auxiliar de arqueología de 900 € cada una (7.200 € en total, en tres mensualidades) para jóvenes titulados o estudiantes universitarios de Historia, Arte y similares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 7200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768385C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Taller de drones para jóvenes en el Edificio Bioclimático (50 € la inscripción)",
+      "categoria": "servicios_actividades",
+      "resumen": "Juventud organiza un taller de 20 horas para pilotar drones legalmente (26 de junio a 26 de julio), para 10 jóvenes de 16 a 35 años. Presupuesto de 1.018 € y precio de inscripción de 50 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1018.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767753Z",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Trabajos en beneficio de la comunidad en Festejos, Agricultura y Escuelas Infantiles",
+      "categoria": "personal",
+      "resumen": "Se autoriza que varias personas condenadas cumplan penas de trabajos en beneficio de la comunidad en los servicios municipales de Festejos, Agricultura y Escuelas Infantiles, a petición de Instituciones Penitenciarias.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Instituciones Penitenciarias",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735119Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pagos urgentes: deportes y socorrismo, autobús urbano y climatizadora del mercado",
+      "categoria": "pago_factura",
+      "resumen": "Por urgencia se pagan cuatro meses (enero-abril) del contrato de actividades deportivas y socorrismo, la subvención del autobús urbano de abril y la sustitución de la climatizadora del Mercado de San Cayetano.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 165564.13,
+      "importes": [
+        {
+          "concepto": "Actividades deportivas y socorrismo, enero 2023",
+          "eur": 21576.64,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, febrero 2023",
+          "eur": 26170.86,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, marzo 2023",
+          "eur": 28261.38,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, abril 2023",
+          "eur": 49856.13,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, abril 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Sustitución de la climatizadora del Mercado de San Cayetano",
+          "eur": 11591.8,
+          "entidad": "Hernández Servicios Climatización, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470771Z, 551537Z, 758424R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Cuatro contratos de limpieza y conserjería para personas en riesgo de exclusión",
+      "categoria": "personal",
+      "resumen": "Dentro del Proyecto de Inserción Socio-Laboral 2023 se pide al SEF contratar a cuatro mujeres (limpiadoras y conserjes) a jornada completa durante cuatro meses.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "gestiona oferta"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750942A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Cambio de formadora del programa de atención sociosanitaria a domicilio",
+      "categoria": "personal",
+      "resumen": "La formadora elegida para el programa mixto 'Yecla Integra' no obtuvo la acreditación docente del SEF, así que se contrata a la otra aspirante (también condicionada a acreditarse) y se pide al SEF una nueva bolsa.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "acredita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754702Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Se exige a la redactora del proyecto del Mercado Central que corrija sus errores",
+      "categoria": "contrato",
+      "resumen": "Durante la obra del Mercado Central (adjudicada en 2.052.717,80 €) se han visto errores y omisiones en el proyecto técnico. Se da 15 días a Ecotecno Consultores Técnicos, S.L.L. para presentar un proyecto corregido; si no lo hace, podrá pagar una indemnización de 8.399,76 € (25% de su contrato) y, si reincide, de 33.599,05 €.",
+      "entidades": [
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8399.76,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486540A, 638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Convenio con el Yecla Club de Tenis para el I Open Internacional de Tenis Femenino",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba un convenio con el Yecla Club de Tenis para organizar el I Open Internacional de Tenis Femenino 'Ciudad de Yecla' (torneo ITF de 25.000 $, del 28 de mayo al 4 de junio) con actividades sobre mujer y deporte, tenis inclusivo y escolares. El Ayuntamiento aporta recursos valorados en 9.000 € y hasta 7.000 € en dinero.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [
+        {
+          "concepto": "Aportación económica municipal máxima",
+          "eur": 7000.0,
+          "entidad": "Yecla Club de Tenis"
+        },
+        {
+          "concepto": "Recursos municipales aportados (estimado)",
+          "eur": 9000.0,
+          "entidad": "Yecla Club de Tenis"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774379C",
+      "lugar": "instalaciones del Yecla Club de Tenis",
+      "interes": 3
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Se pide a la CARM 150.000 € para renovar el césped del campo de fútbol nº 3",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto de renovación del césped y elementos perimetrales del campo de fútbol nº 3 del complejo Juan Palao Azorín (406.025,58 €) y se solicita subvención regional de 150.000 €; el Ayuntamiento pondría 256.025,58 €.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 406025.58,
+      "importes": [
+        {
+          "concepto": "Aportación solicitada a la CARM",
+          "eur": 150000.0,
+          "entidad": "Consejería de Presidencia, Turismo, Cultura, Juventud, Deportes y Portavocía (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal",
+          "eur": 256025.58,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768773Q",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 3
+    },
+    {
+      "ref": "13.7",
+      "titulo": "V Encuentro de Teatro Grecolatino en el Auditorio: 2.819,30 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el V Encuentro de Teatro Grecolatino del 18 de mayo en el Auditorio Juan Miguel Benedito, con un presupuesto de 2.819,30 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2819.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774057E",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Comida a domicilio para un usuario del proyecto Housing First",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede de oficio el servicio de comidas a domicilio a un usuario del proyecto Housing First de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "774818M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Terraza de verano de 12 m² para El Muro Bar en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de El Muro Bar en la calle Colón, con 12 m².",
+      "entidades": [
+        {
+          "nombre": "El Muro Bar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755049E",
+      "lugar": "calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Terraza de verano de 16 m² para Jordan's en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) del establecimiento Jordan's en la calle San José, con 16 m².",
+      "entidades": [
+        {
+          "nombre": "Jordan's",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755049E",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Denegada la ampliación de la terraza de la Cafetería TJ",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega ampliar la terraza de la Cafetería TJ en la Avenida Literato Azorín ocupando la fachada de los edificios vecinos, por informe desfavorable de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Cafetería TJ",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "754763H",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Cuatro carritos de juguetes y globos en la cabalgata de San Isidro (24 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a un vendedor cuatro licencias de puesto eventual para carritos de juguetes y globos en la Cabalgata de Carrozas del 20 de mayo, con tasa de 24 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 24.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761142R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Dos carritos de juguetes y globos en la cabalgata de San Isidro (8 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a un vendedor dos licencias de puesto eventual para carritos de juguetes y globos en la Cabalgata de Carrozas del 20 de mayo, con tasa de 8 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761148A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.14",
+      "titulo": "Un carrito de juguetes y algodón en la cabalgata de San Isidro (4 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vendedor una licencia de puesto eventual para un carrito de juguetes y algodón en la Cabalgata de Carrozas del 20 de mayo, con tasa de 4 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 4.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772710J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.15",
+      "titulo": "Puesto de la Parroquia San Juan Bautista en la Avda. de Cartagena",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia San Juan Bautista a poner un puesto para recaudar fondos parroquiales cerca de la Avenida de Cartagena.",
+      "entidades": [
+        {
+          "nombre": "Parroquia San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771573E",
+      "lugar": "Avenida de Cartagena",
+      "interes": 1
+    },
+    {
+      "ref": "13.16",
+      "titulo": "Carrera solidaria del colegio Las Herratillas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya con medios municipales la carrera solidaria no competitiva del CEIP Las Herratillas del 18 de mayo, con salida y llegada en la calle Alborada, con condiciones de seguridad y seguro.",
+      "entidades": [
+        {
+          "nombre": "CEIP Las Herratillas",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765562F",
+      "lugar": "calle Alborada",
+      "interes": 1
+    },
+    {
+      "ref": "13.17",
+      "titulo": "Grabación de un anuncio de Motor Clásico de Yecla con dron en el Castillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a grabar el 24 de mayo un spot publicitario de Motor Clásico de Yecla en la Plaza Mayor y, con dron, en la explanada del Santuario de la Virgen del Castillo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767948W",
+      "lugar": "Plaza Mayor; explanada del Santuario de la Virgen del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "13.18",
+      "titulo": "Boda civil en el Salón de Sesiones (19 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 19 de mayo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776280R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "13.19",
+      "titulo": "Boda civil en el Salón de Sesiones (2 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 2 de junio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766559Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "13.20",
+      "titulo": "Boda civil en el Salón de Sesiones (3 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 3 de junio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765078J",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "13.21",
+      "titulo": "AFEDECO hará su Escuela de Verano en el colegio El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO a usar el CEIP El Alba del 3 al 31 de julio para su Escuela de Verano 2023, con seguro y asumiendo limpieza y desperfectos.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO (Asociación de Formación y Desarrollo Comunitario)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "770085N",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "13.22",
+      "titulo": "Escuela de verano en el colegio Méndez Núñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Méndez Núñez a usar el colegio del 3 al 31 de julio para una escuela de verano que gestionará la ludoteca 'Siete Sueños'.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Ludoteca Siete Sueños",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776401K",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "13.23",
+      "titulo": "Escuela de verano en el colegio Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el colegio del 3 al 31 de julio para una escuela de verano que gestionará la ludoteca 'Siete Sueños'.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Ludoteca Siete Sueños",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776400J",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "13.24",
+      "titulo": "Escuela de verano en el colegio Alfonso X, a cargo de Épsilon",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Alfonso X a usar el colegio del 1 de julio al 4 de agosto para una escuela de verano que hará Épsilon Servicios Educativos, S.L.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Alfonso X",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763938A",
+      "lugar": "CEIP Alfonso X",
+      "interes": 1
+    },
+    {
+      "ref": "13.25",
+      "titulo": "Servicio de recogida de alumnos en el colegio Méndez Núñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Méndez Núñez a usar el colegio de 12:45 a 13:45 en junio y septiembre para un 'servicio de recogida' que prestará la ludoteca 'Siete Sueños'.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Ludoteca Siete Sueños",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776403N",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "13.26",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769665E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.27",
+      "titulo": "Informes, ruegos y preguntas: no se presentan",
+      "categoria": "organizacion",
+      "resumen": "No hay informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "doc": "2022-01-18_JGL_03",
+  "organo": "JGL",
+  "sesion": 3,
+  "fecha": "2022-01-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno compromete el gasto de 2022 de varios servicios contratados: socorrismo y actividades deportivas (213.327 euros, Podium Gestión Integral), la grúa municipal (29.766 euros) y la coordinación de ayuda a domicilio (18.850 euros). Paga la última certificación de la calle Numancia (44.625 euros) y aprueba los recibos del agua y la basura. Pide al IMAS 7 plazas más de centro de día y 20 de residencia en San Isidro para mayores dependientes, y no pone reparos en la tramitación de las fotovoltaicas Elda y Carlit Solar. También se ofrecen 150 euros a un policía en cumplimiento de una sentencia y se autorizan siete quemas agrícolas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 12 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 27.378 euros para el jardín vertical del edificio Cazadores y ayudas Covid para deportes",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden de alerta sanitaria Covid-19, de una subvención de la Consejería de Fomento de 27.377,63 € para instalar un jardín vertical en el edificio Cazadores y de dos ayudas de la Dirección General de Deportes para mejorar la ventilación y comprar material de prevención Covid en instalaciones deportivas municipales (sin importe indicado).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 27377.63,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "576862Y",
+      "lugar": "edificio Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas de Navidad y de las sillas de la cabalgata de Reyes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el servicio técnico e infraestructuras de actividades de Navidad y el alquiler de sillas para la cabalgata de Reyes 2022.",
+      "entidades": [
+        {
+          "nombre": "Novofest, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 20509.5,
+      "importes": [
+        {
+          "concepto": "Servicio técnico e infraestructuras para actividades de Navidad",
+          "eur": 6655.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alquiler de sillas cabalgata de Reyes Magos 2022",
+          "eur": 13854.5,
+          "entidad": "Novofest, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572273Z, 573652P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Última certificación de la reurbanización de la calle Numancia",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 6 y última de la obra de reurbanización de la calle Numancia entre las calles San José y Fábricas (Plan de Obras y Servicios 2020/21).",
+      "entidades": [
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 44625.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501912A",
+      "lugar": "calle Numancia (entre calle San José y calle Fábricas)",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recibos del agua (4º trimestre 2021) y de la basura (1º trimestre 2022)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se toma razón de la lista cobratoria del agua del 4º trimestre de 2021 (274.186,36 €), con un canon para el Ayuntamiento de 45.138,38 € y 230.963,37 € de canon de saneamiento que Aqualia cobra para la CARM, y se aprueba la lista de la tasa de basuras del 1º trimestre de 2022 (360.235,60 €). Se anulan recibos antiguos de basura por 226 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 634421.96,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 4º trimestre 2021",
+          "eur": 274186.36,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon a favor del Ayuntamiento (incluido en el agua)",
+          "eur": 45138.38,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 230963.37,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basuras 1º trimestre 2022",
+          "eur": 360235.6,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de basura anulados (2019: 182 €; 2021: 44 €)",
+          "eur": 226.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del espectáculo 'Fuego violeta' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (696 €) y la baja de las entradas no vendidas (1.500 €) del espectáculo del 20 de noviembre de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 696.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "562708P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del espectáculo 'El origen del hielo. Tributo a Frozen'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla de los dos pases del 3 de enero de 2022 (1.548 € y 1.668 €) y la baja de las entradas no vendidas (2.376 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3216.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575864M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contrato temporal de un peón para la Brigada de Señalización",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF un peón operario interino para sustituir a otro de baja en la Brigada de Señalización (sus tareas requieren dos personas) y se aprueban las bases de selección y el tribunal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575704P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contrato de una técnico de Educación Infantil para la Escuela 'El Parque'",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa, a tiempo parcial (30 horas), a un técnico de Educación Infantil para sustituir a una tutora de aula de 1-2 años de baja, como máximo hasta final del curso 2021/22.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "576889K",
+      "lugar": "Escuela Infantil 'El Parque'",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Segundo periodo de permiso de paternidad para un técnico informático",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un técnico informático municipal a disfrutar el resto de su permiso de paternidad al 50% de jornada, del 27 de enero al 15 de junio de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575627H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Gasto 2022 del servicio de grúa municipal",
+      "categoria": "contrato",
+      "resumen": "Se compromete el gasto de 2022 del contrato de retirada, traslado y depósito de vehículos y movimiento de elementos de seguridad.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 29766.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412195T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Gasto 2022 de socorrismo, actividades deportivas y tenis en instalaciones municipales",
+      "categoria": "contrato",
+      "resumen": "Se compromete el gasto de diciembre 2021 a junio 2022 de los lotes 1 (socorrismo en piscinas y actividades físico-deportivas dirigidas, 191.938,80 €) y 2 (clases de tenis y deportes de raqueta/pala, 21.388,67 €).",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 213327.47,
+      "importes": [
+        {
+          "concepto": "Lote 1: socorrismo y actividades físico-deportivas (dic 21-jun 22)",
+          "eur": 191938.8,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Lote 2: tenis y deportes de raqueta/pala (dic 21-jun 22)",
+          "eur": 21388.67,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470771Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Gasto 2022 de la coordinación del servicio de ayuda a domicilio",
+      "categoria": "contrato",
+      "resumen": "Se compromete el gasto de 2022 del contrato de coordinación de atenciones circunstanciales del servicio municipal de ayuda a domicilio.",
+      "entidades": [
+        {
+          "nombre": "Asistencia, Formación y Eventos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18850.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505954P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Corrección de la dirección de la terraza del 'Yakka and Grill'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrige la dirección (calle Maestro Mora) de la terraza de invierno de 16 m2 (el doble de lo normal por la Covid-19) del restaurante, de noviembre de 2021 a marzo de 2022.",
+      "entidades": [
+        {
+          "nombre": "Yakka Franquicias, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "561371H",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aplazado: traslado de un panel de dirección en la rotonda de la Ronda Norte",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición de un vecino de trasladar un panel indicativo en una rotonda de la calle Cayetano de Mergelina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "576391T",
+      "lugar": "calle Cayetano de Mergelina (Ronda Norte)",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de actos del Edificio Bioclimático para el Club de Gimnasia Rítmica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del salón de actos el 20 de enero de 2022 para la asamblea general de socios, con medidas Covid-19.",
+      "entidades": [
+        {
+          "nombre": "Club de Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577026A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "La asociación de celíacos deja el despacho del Edificio de Servicios Múltiples",
+      "categoria": "patrimonio",
+      "resumen": "Se acepta la renuncia de la Asociación de Celíacos de Murcia (antes Celiayec), delegación de Yecla, al uso compartido de un despacho en el Edificio de Servicios Múltiples de la calle San José.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Celíacos de Murcia (ACMU), Delegación de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "renuncia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575405Z",
+      "lugar": "Edificio de Servicios Múltiples, calle San José, 8",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Se pide al IMAS más plazas concertadas de residencia y centro de día para mayores",
+      "categoria": "servicios_actividades",
+      "resumen": "Para reducir las listas de espera de dependencia, se pide al Instituto Murciano de Acción Social aumentar las plazas concertadas en Yecla, como mínimo 7 más en el centro de día y 20 más en la residencia 'San Isidro'.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe petición"
+        },
+        {
+          "nombre": "Residencia y Centro de Día 'San Isidro'",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "centro afectado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "573586Y",
+      "lugar": "Residencia San Isidro",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Calendario de las actividades deportivas dirigidas 2021/2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se fijan el 2º ciclo (1 de febrero-13 de abril) y el 3º ciclo (18 de abril-25 de junio de 2022) y los plazos para darse de baja (24 de enero, 1 de abril y 24 de junio).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "541197N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Nada que alegar al nuevo trazado de la línea eléctrica de la fotovoltaica 'FV Peñarrubia'",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El nuevo trazado de la línea de evacuación de la planta solar discurre entero por el término de Jumilla, así que el Ayuntamiento no alega nada, pero reitera su oposición de abril de 2021 al proyecto de la planta.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Energía y Actividad Industrial y Minera (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "355885K",
+      "lugar": "término municipal de Jumilla",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Sin reparos a la respuesta del promotor de las fotovoltaicas 'Elda' y 'Carlit Solar'",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "En la tramitación de las plantas solares Elda (150 MWp) y Carlit Solar (120 MWp) y sus líneas de evacuación entre Yecla, Monóvar, Pinoso, Elda y Petrer, el Ayuntamiento no formula reparos a la respuesta del promotor a sus alegaciones, según los técnicos municipales, y mantiene el resto de su acuerdo de noviembre de 2021.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en Murcia, Área de Industria y Energía",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "550719N",
+      "lugar": "Yecla, Monóvar, Pinoso, Elda y Petrer",
+      "interes": 3
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los lunes y los sábados 1º y 3º de cada mes, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574642P",
+      "lugar": "polígono 44, parcela 13",
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los lunes y los sábados 1º y 3º de cada mes, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575741Q",
+      "lugar": "polígono 34, parcela 228; polígono 113, parcelas 202, 204, 205 y 206",
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los lunes y los sábados 1º y 3º de cada mes, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575962Y",
+      "lugar": "polígono 45, parcelas 146 y 352",
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los lunes y los sábados 1º y 3º de cada mes, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577084F",
+      "lugar": "polígono 44, parcela 21",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los martes y los sábados 1º y 3º de cada mes, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577089N",
+      "lugar": "polígono 109, parcela 33",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Talleres de la asociación 'Kapaces' en el Museo Arqueológico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación a dar talleres de conservación del patrimonio e inclusión social mediante el arte y la arqueología en el Museo 'Cayetano de Mergelina', hasta un nuevo convenio y como máximo hasta fin de 2022, con seguro a su cargo.",
+      "entidades": [
+        {
+          "nombre": "Asociación 'Kapaces'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575664J",
+      "lugar": "Museo Arqueológico Municipal 'Cayetano de Mergelina'",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Zanjas para riego de la Comunidad de Regantes Pozo de Santiago en caminos públicos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza abrir zanjas en el Camino de Los Baños y la Traviesa del Campillo para una red de riego, reponiendo el firme con hormigón, con fianza de 300 € y licencia urbanística previa.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Pozo de Santiago de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "576876R",
+      "lugar": "Camino de Los Baños; Traviesa del Campillo",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede la condición de residente en zona azul a un vecino, válida hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "573629H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Bolsa de Auxiliar-Inspector de Obras: lista provisional de admitidos y fechas del examen",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 18 aspirantes admitidos, se nombra el tribunal y se fija la valoración de méritos el 21 de febrero y el test el 23 de febrero de 2022 en el Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511236A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Calendario laboral 2022 de la Oficina de Turismo",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario laboral de 2022 del personal de la Oficina de Turismo Municipal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577030F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Se ofrecen 150 euros a un policía por denegarle un curso en 2017, como dijo una sentencia",
+      "categoria": "reclamaciones",
+      "resumen": "Una sentencia de 2019 reconoció a un agente el derecho a ser compensado por no dejarle ir a un curso de 4 horas en 2017, sin fijar cantidad. Él pide 300 € sin justificar el perjuicio; el Ayuntamiento le ofrece 150 € y le da 10 días para aceptar o justificar más; si no, puede pedir la ejecución forzosa al juzgado.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dictó sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 150.0,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "130447C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Una agente de turismo irá a FITUR en Madrid",
+      "categoria": "personal",
+      "resumen": "Se ordena a una agente de Desarrollo Local-Turismo asistir a la Feria Internacional del Turismo el 21 de enero de 2022 y se pagan desplazamiento y dietas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578331N",
+      "lugar": "Madrid",
+      "interes": 1
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Prórroga de un año del suministro de uniformes de la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se prorroga hasta el 18 de febrero de 2023 (primera prórroga) el contrato de vestuario de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "573550",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los miércoles y jueves, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578001E",
+      "lugar": "polígono 113, parcela 307",
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Permiso a un particular para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza la quema de restos vegetales en una finca a menos de 1.500 m de las viviendas del casco urbano, solo los miércoles y jueves, una hora al día, de enero a mayo y de octubre a diciembre de 2022, cumpliendo la normativa regional de incendios y fitosanitaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577473X",
+      "lugar": "polígono 34, parcelas 409 y 410",
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "doc": "2025-09-01_PLENO_16",
+  "organo": "PLENO",
+  "sesion": 16,
+  "fecha": "2025-09-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "Primer Pleno tras el verano. Con los votos de PP, PSOE e IU-Verdes (Vox en contra) el Ayuntamiento condena la violencia racista y los discursos de odio tras los sucesos de Torre Pacheco, en una versión de la moción de IU-Verdes rebajada por una enmienda del PP. PP y Vox rechazan la propuesta del PSOE de abrir salas de ensayo municipales para bandas locales. Por unanimidad se dan por justificadas ayudas a la Residencia Santa Teresa Jornet (17.000 €), AFEMY y la Fundación Castillo Puche (a la que se paga el segundo plazo de 9.500 €), se actualiza el plan antifraude para fondos europeos y se renueva cuatro años el encargo a la FNMT para la firma electrónica. Se informa de 12 resoluciones de despido de personal laboral.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta del Pleno n.º 14, de 7 de julio de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "AFEMY justifica la ayuda de 2024 para su centro de día de salud mental",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de 2024 del convenio con la Asociación Salud Mental Altiplano (AFEMY), que incluye la cesión de un local municipal en la calle Amistad para su Centro de Día y actividades con las concejalías de Deportes y Cultura. El acta no indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Asociación Salud Mental Altiplano (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra; usa local municipal cedido"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1048783T",
+      "lugar": "Calle Amistad, 3 (local municipal cedido)",
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "La Residencia Santa Teresa Jornet justifica 17.000 € de ayuda municipal de 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se dan por justificados los gastos de la subvención de 2024 (17.000 €) a la Residencia de los Ancianos Desamparados Santa Teresa Jornet, por la atención integral y vivienda permanente a personas mayores que no pueden seguir en sus casas (convenio 2021-2022 prorrogado a 2023-2024).",
+      "entidades": [
+        {
+          "nombre": "Residencia de los Ancianos Desamparados Santa Teresa Jornet",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1054172D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "FAMDIF podrá pagar personal con la ayuda de 3.000 € para inserción laboral",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se modifica el convenio con FAMDIF-COCEMFE Murcia para el Servicio de Integración Laboral de personas con discapacidad física y orgánica: la aportación municipal de 3.000 € (que no cambia) podrá destinarse también a gastos de personal de los técnicos que vienen a Yecla, además de desplazamientos y material. El convenio incluye la cesión de un local municipal.",
+      "entidades": [
+        {
+          "nombre": "Federación de Asociaciones Murcianas de Personas con Discapacidad Física y Orgánica (FAMDIF-COCEMFE Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043883N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Fundación Castillo Puche: justifica el primer plazo y cobra el segundo (9.500 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el primer plazo de la subvención de 2025 a la Fundación Castillo Puche (justificó 9.519,99 € frente a 9.500 € adelantados) y se le paga el segundo plazo de 9.500 €.",
+      "entidades": [
+        {
+          "nombre": "Fundación Castillo Puche",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9500.0,
+      "importes": [
+        {
+          "concepto": "Primer plazo 2025 (justificado; anticipo ya abonado)",
+          "eur": 9500.0,
+          "entidad": "Fundación Castillo Puche"
+        },
+        {
+          "concepto": "Segundo plazo 2025 (se paga ahora)",
+          "eur": 9500.0,
+          "entidad": "Fundación Castillo Puche"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1070784A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Nuevo plan antifraude del Ayuntamiento para gestionar fondos europeos",
+      "categoria": "normativa",
+      "resumen": "Se aprueba el Plan de Medidas Antifraude actualizado (el anterior era de 2022), exigido para gestionar fondos europeos de recuperación (PRTR): prevención del fraude, la corrupción y los conflictos de interés, con una autoevaluación de riesgos en contratación y subvenciones de 2023 y 2024. Lo ha preparado la Comisión Antifraude municipal y se publicará en el tablón y en la web municipal.",
+      "entidades": [
+        {
+          "nombre": "Agencia de Desarrollo Local (Ayuntamiento de Yecla)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone"
+        },
+        {
+          "nombre": "Comisión Antifraude del Ayuntamiento de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "elabora el plan"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1137696J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "El Pleno condena la violencia racista y los discursos de odio (Vox en contra)",
+      "categoria": "mocion_politica",
+      "resumen": "Moción de IU-Verdes tras los disturbios de Torre Pacheco, aprobada con el texto de una enmienda del PP: el Ayuntamiento condena la violencia racista y la criminalización de la comunidad marroquí y migrante, mantendrá contacto con asociaciones y comunidades migrantes para iniciativas de apoyo (con atención a la infancia víctima de agresiones) y pide al Gobierno de España que, con las plataformas digitales, cierre cuentas que difunden odio. Se caen las campañas antirracistas periódicas y el manifiesto anual del 21 de marzo que proponía IU. Debate muy tenso: IU acusa a Vox de impulsar el racismo; Vox vincula inmigración ilegal y delincuencia y vota en contra de todo; el PP niega que en Yecla haya un problema de odio y critica al Gobierno central; el PSOE apoya ambos textos y recuerda que unos 4.600 vecinos (12,5 %) son inmigrantes de 71 países.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "propone"
+        },
+        {
+          "nombre": "Grupo Municipal Popular",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "enmienda aprobada"
+        },
+        {
+          "nombre": "Gobierno de España",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario de la petición"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "Enmienda del PP: a favor PP, PSOE e IU-Verdes (18); en contra Vox (3). Moción enmendada: a favor PP, PSOE e IU-Verdes (18); en contra Vox (3).",
+      "expediente": "1123846Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "Rechazada la propuesta del PSOE de salas de ensayo municipales para bandas locales",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE pedía habilitar salas de ensayo en locales municipales, incluir bandas locales en San Isidro y la Feria de Septiembre y crear un festival anual de música local con la Escuela de Música. Debate: PSOE e IU dicen que los jóvenes y las bandas están olvidados y que los conciertos 'gratis' de la Feria cuestan 120.000 €; Vox y PP defienden su apoyo a la cultura, que ya hay un día de grupos locales en la Feria, el convenio de más de 236.000 € con Amigos de la Música y 66.000 € reservados en el presupuesto para futuras salas de ensayo.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "propone"
+        },
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (Escuela de Música)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "mencionada en el debate"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "en contra PP y Vox (12); a favor PSOE e IU-Verdes (9)",
+      "expediente": "1140136Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Urgente: encargo de cuatro años a la FNMT para certificados y firma electrónica",
+      "categoria": "convenio",
+      "resumen": "Por urgencia, se aprueba el convenio por el que la Fábrica Nacional de Moneda y Timbre presta al Ayuntamiento servicios de certificación, firma electrónica y validación de certificados durante cuatro años desde el 2 de octubre de 2025 (prorrogable otros cuatro), a cambio de 2.959,66 € al año con IVA. (Este importe se corrigió después en el Pleno de marzo de 2026 a 2.446 € sin IVA.)",
+      "entidades": [
+        {
+          "nombre": "Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2959.66,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (también la urgencia)",
+      "expediente": "1136951Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Informe de morosidad del segundo trimestre de 2025",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se informa de que en el segundo trimestre de 2025 el Ayuntamiento pagó 1.333 facturas a tiempo (4.330.338 €) y 264 fuera de plazo (1.061.037,12 €), con un plazo medio de 24,06 días; al 30 de junio quedaban 374 pendientes (767.618,65 €), 4 de ellas ya fuera de plazo (21.103,39 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Pagado dentro de plazo (1.333 operaciones)",
+          "eur": 4330338.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Pagado fuera de plazo (264 operaciones)",
+          "eur": 1061037.12,
+          "entidad": null
+        },
+        {
+          "concepto": "Pendiente de pago a 30/6/2025 (374 operaciones)",
+          "eur": 767618.65,
+          "entidad": null
+        },
+        {
+          "concepto": "Pendiente ya fuera de plazo (4 operaciones)",
+          "eur": 21103.39,
+          "entidad": null
+        }
+      ],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1130821K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Periodo medio de pago a proveedores: 21,37 días (segundo trimestre 2025)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se informa de que a 30 de junio de 2025 el Ayuntamiento tarda de media 21,37 días en pagar a sus proveedores (dentro del límite legal de 30), con 5.247.750,86 € pagados y 514.922,48 € pendientes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Pagos realizados",
+          "eur": 5247750.86,
+          "entidad": null
+        },
+        {
+          "concepto": "Pagos pendientes",
+          "eur": 514922.48,
+          "entidad": null
+        }
+      ],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1130815C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Resoluciones de Alcaldía, entre ellas 12 despidos de personal laboral",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de las resoluciones de Alcaldía n.º 2946 a 3368 (2 de julio a 5 de agosto de 2025), destacando doce resoluciones de julio (n.º 2970 y 2973 a 2983) sobre despido de personal laboral. El acta no explica los motivos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Ruegos y preguntas: ruego de la alcaldesa para evitar interrupciones",
+      "categoria": "mocion_politica",
+      "resumen": "Los grupos no formulan ruegos ni preguntas. La alcaldesa pide que en las valoraciones finales solo se queden los portavoces, para evitar interrupciones y faltas de respeto como las de otras sesiones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

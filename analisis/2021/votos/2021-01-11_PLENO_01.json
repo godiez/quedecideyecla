@@ -1,0 +1,105 @@
+{
+  "doc": "2021-01-11_PLENO_01",
+  "asistentes": {
+    "PP": 11,
+    "PSOE": 5,
+    "Cs": 1,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria. Se justifican dos ausencias: una del PP y una de Cs (19 presentes). El punto 2 (PSOE) se retira sin votación. En el punto 4 solo se vota dejarlo sobre la mesa (16 a favor PP y PSOE, 3 en contra IU-Verdes y Cs), cuadra con 11+5 y 2+1.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 2,
+      "punto_ref": "3",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, aprueba por unanimidad la proposición del Grupo M. Izquierda Unida-Verdes más arriba transcrita sobre “desdoblamiento de la Ctra. de Villena”."
+    },
+    {
+      "punto_idx": 3,
+      "punto_ref": "4",
+      "que": "dejar sobre la mesa",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 1,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "se somete a votación la propuesta del Grupo M. Popular de que el asunto quede sobre la mesa, resultando aprobada la misma por dieciséis votos a favor (Grupos M. Popular y Socialista), tres votos en contra (Grupos M. Izquierda Unida-Verdes y Ciudadanos)."
+    }
+  ]
+}

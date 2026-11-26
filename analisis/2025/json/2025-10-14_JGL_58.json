@@ -1,0 +1,1042 @@
+{
+  "doc": "2025-10-14_JGL_58",
+  "organo": "JGL",
+  "sesion": 58,
+  "fecha": "2025-10-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 56,
+  "resumen": "La Junta de Gobierno paga 215.596 euros en facturas, la mayoría de la Feria de Septiembre (espectáculos, alumbrado y carpas), el centro de día y el autobús urbano, y fija para el 4 de noviembre la recepción de la remodelación del Mercado Central. Aprueba la programación del Teatro Concha Segura hasta diciembre (26.125 euros) y crea una bolsa de reserva de 66 auxiliares administrativos porque la actual se ha quedado corta. También deniega una concentración por Palestina por no ser competente y coincidir con un acto de Cruz Roja, y rechaza anular impuestos municipales a una persona exonerada de deudas por un juzgado.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda Leader de 10.708 € y la tasa por atestados de tráfico",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden de la CARM que reconoce y propone el pago único de una ayuda Leader de 10.708,50 € para el proyecto 'Edículo e identidad', y de un informe de Gestión Tributaria sobre si sigue aplicándose la tasa municipal por atestados de accidentes de tráfico tras el cambio de la ley estatal del seguro de vehículos (Ley 5/2025).",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Política Agraria Común (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10708.5,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1164358P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Feria de Septiembre, centro de día, autobuses y agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: tres lotes de la infraestructura de la Feria de Septiembre 2025 (espectáculos, alumbrado y carpas), el centro de día para mayores dependientes, el autobús urbano y el agua de septiembre.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 215596.48,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura 25V de 30/09/2025",
+          "eur": 13373.91,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Servicio de Centro de Día para personas mayores dependientes, septiembre 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, septiembre 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Feria de Septiembre 2025, Lote 1: producción e infraestructura de actuaciones, conciertos y espectáculos",
+          "eur": 68365.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Feria de Septiembre 2025, Lote 3: alumbrado del Real de la Feria, alumbrado ornamental y suministro eléctrico a casetas",
+          "eur": 29661.09,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Feria de Septiembre 2025, Lote 4: alquiler e instalación de carpas del Real de la Feria",
+          "eur": 31097.0,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 836272P, 841943Q, 1111199H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Corrección de un error en el padrón del impuesto sobre cotos de caza 2025",
+      "categoria": "fiscal",
+      "resumen": "Se corrige un error material en el padrón 2025 del Impuesto sobre Gastos Suntuarios (aprovechamiento de cotos de caza) aprobado el 23 de septiembre: el total pasa de 3.134,55 € a 3.134,41 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3134.41,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124979X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegado anular el IBI y el impuesto de circulación a una persona exonerada en concurso",
+      "categoria": "fiscal",
+      "resumen": "Una vecina con un auto del Juzgado de lo Mercantil nº 1 de Murcia que le perdona sus deudas (exoneración del pasivo insatisfecho) pide anular sus recibos de IBI y del impuesto de vehículos de 2023-2025 (unos 549 €). Se deniega porque la Ley Concursal excluye de la exoneración las deudas de derecho público municipales.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Mercantil nº 1 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta el auto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 548.75,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1159749N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda unifamiliar aislada con piscina en suelo rústico",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a un particular para construir una vivienda aislada con piscina en un paraje rústico; la licencia agota el aprovechamiento de la finca, que queda indivisible. Plazos: 6 meses para empezar y 24 para acabar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988703Z",
+      "lugar": "paraje Umbría la Pava",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una nave industrial en la avenida Juan Carlos I",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) a Insace, S.L. y Dress 2003, S.L. para construir una nave industrial en suelo urbano industrial (zona Z-5). Deberán presentar el proyecto de ejecución y una fianza de 16.479,75 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Insace, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        },
+        {
+          "nombre": "Dress 2003, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063991Q",
+      "lugar": "Avda. Juan Carlos I, 61 (Suelo Urbano Industrial Z-5)",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para derribar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a un particular para demoler una vivienda entre medianeras en el casco urbano, con fianza de 511,84 € para reponer la urbanización, desratización previa, plan de trabajo por posible amianto y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1100807Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para una nave sin actividad en el polígono Urbayecla II",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) a Euroalba Descanso, S.L.U. para construir una nave sin actividad específica. Fianza de 5.895,93 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Euroalba Descanso, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120903K",
+      "lugar": "calle Músico Azorín Torregrosa, 18-A, P.I. Urbayecla II",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para derribar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a un particular para demoler una vivienda entre medianeras, con fianza de 1.054,61 € para reponer la urbanización, desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1126576P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nueva bolsa de reserva de auxiliares administrativos con 66 aspirantes",
+      "categoria": "personal",
+      "resumen": "La bolsa de auxiliares administrativos (14 personas) se ha quedado corta: solo 5 aceptaron puesto en el último llamamiento. Se crea una bolsa subsidiaria con los 66 aspirantes que aprobaron al menos un ejercicio de la oposición de 10 plazas, ordenados por nota.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164317H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Cambio de horario de un analista programador a petición propia",
+      "categoria": "personal",
+      "resumen": "Se autoriza excepcionalmente a un analista programador municipal a cambiar su horario (lunes más corto, martes a viernes hasta las 15:25), sin cambio de sueldo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164323Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Un agente de la Policía Local pasa a segunda actividad por edad",
+      "categoria": "personal",
+      "resumen": "Se aprueba el pase de un agente que cumple 59 años a segunda actividad, en un puesto de apoyo operativo, manteniendo sus retribuciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1160339H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegado pagar horas de más a una exempleada que se fue antes del verano",
+      "categoria": "personal",
+      "resumen": "Una ordenanza-telefonista que dejó voluntariamente el Ayuntamiento en julio pide cobrar 29 horas acumuladas (los 11 minutos diarios extra que se compensan con jornada reducida en verano). Se desestima: forman parte de la jornada ordinaria pactada y no son horas extraordinarias.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1144103H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Rechazado el recurso del jefe de Servicios Públicos contra la oferta de empleo 2025",
+      "categoria": "reclamaciones",
+      "resumen": "El jefe accidental de Servicios Públicos recurrió la Oferta de Empleo Público 2025 por no incluir la plaza de auxiliar-inspector de Servicios Públicos (pedía que sustituyera a la de arquitecto técnico). Se admite como recurso de reposición pero se desestima: la tasa de reposición limita las plazas, el Ayuntamiento prioriza y esa plaza interina desde 2024 puede ir en la oferta de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1062601K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Fecha de recepción de la remodelación del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Guerola Transer, S.L. ha comunicado el fin de las obras de remodelación del Mercado Central; el acto de recepción se fija para el 4 de noviembre de 2025. Se avisa a la Agencia de Desarrollo Local por estar financiada con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Fecha de recepción de las mejoras peatonales de Arco del Niño e Hijas de la Caridad",
+      "categoria": "contrato",
+      "resumen": "Ibérica de Infraestructuras y Servicios Ambientales, S.L. ha terminado las mejoras peatonales (Plan de Obras y Servicios 2024/25); la recepción se fija para el 4 de noviembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081368A",
+      "lugar": "calle Arco del Niño y calle Hijas de la Caridad",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Curso de inglés C1 de 140 horas por 6.300 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a un particular (nombre tapado en el acta) la impartición de un curso de inglés C1 de 140 horas, a propuesta de la Agencia de Desarrollo Local.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163483Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Equipamiento para un vehículo de la Policía Local por 8.544 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Nauti Car, S.A. el suministro de equipamiento para un vehículo policial.",
+      "entidades": [
+        {
+          "nombre": "Nauti Car, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8544.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1161567N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Se permite mover una farola que impide la entrada a un garaje",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a trasladar a su costa una farola y su arqueta que obstaculizan el acceso a su nuevo garaje, con fianza de 2.093,65 € para garantizar la reposición.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1161175T",
+      "lugar": "calle Sor Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para su boda civil el 7 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158538F",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salas del Edificio Bioclimático para una reunión sobre colonias felinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Soy Su Voz de Yecla una sala del Edificio Bioclimático para una reunión de gestoras de colonias felinas el 18 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación Soy Su Voz de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164064F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para KAPACES",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la asociación KAPACES el aula de cocina del antiguo C.P. San José de Calasanz para un taller de restauración en nueve fechas entre octubre de 2025 y junio de 2026.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la vida independiente de Personas con Diversidad Funcional (KAPACES)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154131K",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aula de cocina para un taller de la asociación de discapacidad intelectual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo C.P. San José de Calasanz a la Asociación de Personas con Discapacidad Intelectual de Yecla para un taller el 28 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159677N",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Aula de cocina para un taller navideño del Centro Social de Mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo C.P. San José de Calasanz al Centro Social de Personas Mayores de Yecla (IMAS) para un taller de cocina navideña los días 10 y 16 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores de Yecla (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157036W",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Salón del Centro de Desarrollo Local para la asamblea de la Federación de Peñas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Federación de Peñas de San Isidro el salón de actos del Centro de Desarrollo Local para su asamblea general del 23 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164322P",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Sala del Centro de Emprendimiento para el Día del Voluntario de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación de Yecla de Afectados de Cáncer (AYAC) la sala de reuniones del Centro de Emprendimiento para su Día del Voluntario el 11 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164336J",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas para libros y material escolar 2025/26: segunda concesión",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas extraordinarias de Servicios Sociales para libros y material escolar a los menores que figuran en el informe del expediente. El acta no da ni la lista ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093097Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Bandera Sendero Azul: se renueva para dos senderos y se pide para el Monte Arabí",
+      "categoria": "servicios_actividades",
+      "resumen": "Se solicita renovar el galardón Bandera Sendero Azul para las Pasarelas del Yecla Valora y Mirador de la Molineta y la Vía Verde del Chicharra (300 €), y se presenta la candidatura del Sendero Monte Arabí (500 €), con el compromiso con la asociación ADEAC.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Educación Ambiental y del Consumidor (ADEAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra la tasa de candidatura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 800.0,
+      "importes": [
+        {
+          "concepto": "Renovación para dos senderos (sin IVA)",
+          "eur": 300.0,
+          "entidad": "Asociación de Educación Ambiental y del Consumidor (ADEAC)"
+        },
+        {
+          "concepto": "Candidatura Sendero Monte Arabí (sin IVA)",
+          "eur": 500.0,
+          "entidad": "Asociación de Educación Ambiental y del Consumidor (ADEAC)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163839T",
+      "lugar": "Monte Arabí, Vía Verde del Chicharra, Mirador de la Molineta",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Programa del I Festival de Cortometrajes 'Yecla en Corto'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del I Festival de Cortometrajes de temática social para jóvenes 'Yecla en Corto', del 23 al 26 de octubre de 2025. No se indica presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113422W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Actividad 'Basuraleza' del AMPA del colegio Miguel Ortuño",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza y se apoya con medios municipales la actividad 'Basuraleza' de recogida de basura y concienciación ambiental para niños y jóvenes, el 18 de octubre.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del C.E.I.P. Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159792Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Plan de seguridad de la obra de recorridos en el Cerro del Castillo",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de acondicionamiento de recorridos en el monte público Cerro del Castillo, presentado por la adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081479E",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Plan de seguridad de la renovación del césped del campo de fútbol nº 3",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de renovación del césped y elementos perimetrales del campo de fútbol nº 3 del Complejo Juan Palao Azorín.",
+      "entidades": [
+        {
+          "nombre": "Obras y Pavimentos Especiales, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145333Q",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Oposición a dos plazas de tractorista: lista provisional y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 12 admitidos y 1 excluido (solicitud fuera de plazo) para dos plazas fijas de tractorista de la Brigada de Obras, se nombra el tribunal y se fija la valoración de méritos el 9 de enero y el examen tipo test el 15 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077952F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Se corrige el pliego del contrato de servidores del centro de datos",
+      "categoria": "contrato",
+      "resumen": "Antes de publicar la licitación de los servidores del centro de datos municipal (C.SU.4/25) se detecta que un criterio de valoración puntuaba la solvencia técnica, lo que no está permitido; se modifica la memoria y el pliego y se publica la licitación corregida.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093145H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Material informático para Servicios Sociales con fondos europeos por 12.784 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Servicios Microinformática, S.A. material informático para los servicios sociales de atención primaria, financiado con fondos NextGeneration EU a través de la Consejería de Política Social.",
+      "entidades": [
+        {
+          "nombre": "Servicios Microinformática, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12784.15,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1118627Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Contrato del monólogo de Comandante Lara en el Teatro Concha Segura por 12.100 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Ninoma Producciones Management, S.L. la actuación de Comandante Lara 'Viaje con nosotros' dentro de la programación del Teatro Concha Segura (26 de octubre).",
+      "entidades": [
+        {
+          "nombre": "Ninoma Producciones Management, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1165948Y",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Comunicación y publicidad del Plan Corresponsables 2025 por 8.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a un adjudicatario cuyo nombre tapa el acta (probablemente un profesional autónomo) la comunicación y publicidad del Plan Corresponsables 2025 de conciliación.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1160475X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Terraza anual de 40 m² para Zeta Cafetería en la Placeta Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Zeta Cafetería' para la temporada anual (1 nov. 2025 - 31 oct. 2026), 40 m², con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular (titular de Zeta Cafetería)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163837Q",
+      "lugar": "Placeta Ortega, 2",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Terraza anual de 24 m² para el bar Pío XI en la calle Pío Baroja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento hostelero 'Pío XI' para la temporada anual, 24 m², y se permite pagar la tasa de forma fraccionada.",
+      "entidades": [
+        {
+          "nombre": "particular (titular del bar Pío XI)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163158Y",
+      "lugar": "calle Pío Baroja, 11",
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Procesión del Rosario de la Aurora de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión del Rosario de la Aurora el 19 de octubre con el recorrido que marque la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "organiza el evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1166051Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Jornadas Abiertas de Cruz Roja en el Auditorio y el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Yecla un acto de reconocimiento al voluntariado en el Auditorio Municipal (17 oct.) y talleres y stands en el Parque de la Constitución (18 oct.), con préstamo de 30 sillas, 5 mesas y 5 carpas y fianza de 400 €. No se le puede ceder equipo de sonido ni punto de luz.",
+      "entidades": [
+        {
+          "nombre": "Asamblea Local de Cruz Roja Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154572Y",
+      "lugar": "Auditorio Municipal y Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "14.10",
+      "titulo": "Fiesta juvenil 'Halloween 2025: Virus' en el Edificio Bioclimático",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar la actividad juvenil de Halloween el 31 de octubre en el Edificio Bioclimático, con un presupuesto de 6.482,81 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6482.81,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1164124P",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "14.11",
+      "titulo": "Autorización y apoyo a la XXXIV Marcha Carche-Arabí",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y se apoya la marcha senderista no competitiva de 45 km del Centro Excursionista de Yecla entre Raspay (Carche) y el Monte Arabí, el 18 de octubre, condicionada a los informes técnicos y a los permisos de la CARM por pasar por espacios protegidos.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza el evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1149960R",
+      "lugar": "Sierra del Carche - Raspay - Monte Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "14.12",
+      "titulo": "Programación del Teatro Concha Segura de octubre a diciembre: 26.125 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban cinco espectáculos para el último trimestre (Comandante Lara, Juan Saurín, Don Juan Tenorio, concierto de Santa Cecilia de la AAMY y Blancanieves) con 26.125 € de cachés. Entradas: de 13 a 18 € el monólogo y 6 € el resto.",
+      "entidades": [
+        {
+          "nombre": "Ninoma Producciones Management, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26125.0,
+      "importes": [
+        {
+          "concepto": "Monólogo 'Comandante Lara - Viaje con nosotros' (26 oct.)",
+          "eur": 12100.0,
+          "entidad": "Ninoma Producciones Management, S.L."
+        },
+        {
+          "concepto": "Concierto de Juan Saurín 'Génxsis 2015-2025' (8 nov.)",
+          "eur": 3025.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Don Juan Tenorio (15 nov.)",
+          "eur": 4500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto extraordinario de Santa Cecilia - AAMY (30 nov.)",
+          "eur": 3000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Blancanieves y el espejo mágico (26 dic.)",
+          "eur": 3500.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "14.13",
+      "titulo": "Nuevo representante municipal en la comisión del convenio con el Catastro",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a la jefa de sección de Gestión Tributaria como representante titular (y a la jefa de Gestión Presupuestaria como suplente) en la comisión de seguimiento del convenio de gestión catastral con la Dirección General del Catastro.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma el convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "261519X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.14",
+      "titulo": "Protección Civil de Yecla colabora en la Media Maratón de Jumilla",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil de Yecla a colaborar en la VII Media Maratón y 10K de Jumilla el 18 de octubre, a petición de ese Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Jumilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157917T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.15",
+      "titulo": "Plan de seguridad de las placas solares de la escuela infantil La Alameda",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la instalación fotovoltaica de autoconsumo en la Escuela de Educación Infantil 'La Alameda'.",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1152046P",
+      "lugar": "Escuela Infantil La Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "14.16",
+      "titulo": "Denegada una concentración por Palestina en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la viabilidad de una concentración por Palestina pedida por un vecino para el 18 de octubre: el Ayuntamiento dice no ser competente (corresponde a la Delegación del Gobierno), coincide en lugar y hora con las jornadas de Cruz Roja y no tiene equipo de sonido para ceder.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1165357C",
+      "lugar": "Parque de la Constitución",
+      "interes": 3
+    },
+    {
+      "ref": "14.17",
+      "titulo": "Se mueven los contenedores junto a la terraza de una hamburguesería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Tras varias peticiones rechazadas desde 2020, se aprueba trasladar los contenedores de basura pegados a la terraza de la hamburguesería Yakk and Grill, por un informe de Sanidad que los considera un foco de insalubridad; la nueva ubicación la fijarán los técnicos.",
+      "entidades": [
+        {
+          "nombre": "particular (titulares de Yakk and Grill)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita el traslado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1159519T",
+      "lugar": "calle Maestro Mora",
+      "interes": 2
+    }
+  ]
+}

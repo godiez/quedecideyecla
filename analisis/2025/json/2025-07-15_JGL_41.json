@@ -1,0 +1,831 @@
+{
+  "doc": "2025-07-15_JGL_41",
+  "organo": "JGL",
+  "sesion": 41,
+  "fecha": "2025-07-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno cita con urgencia a la empresa que limpia los edificios municipales porque no paga a sus trabajadoras. Aprueba contratar los conciertos de La La Love You, Mago de Oz y Depol para la Feria (134.310 euros) y licita una motoniveladora para caminos (165.000 euros) y el alquiler de solares para aparcamiento junto a calle Hospital. También paga 342.000 euros entre facturas y la última certificación de una obra peatonal, da licencias a una ITV y a un edificio industrial en zona inundable, renuncia al contrato de inteligencia turística tras un recurso y aprueba los cursos de la Universidad Popular.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 8 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Iglesia de la Asunción, vados en Historiador Miguel Ortuño y contenedores",
+      "categoria": "informacion",
+      "resumen": "Se informa de la autorización de Patrimonio Cultural (CARM) al proyecto de rehabilitación de la Iglesia de la Asunción como centro de visitantes, de la orden que financia los vados peatonales elevados del cruce Historiador Miguel Ortuño-Antonio Machado (Plan Complementario 5 del POS 2024-2025) y de un informe sobre los contenedores de basura en la calle Hospital reurbanizada.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza proyecto"
+        },
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1118330M",
+      "lugar": "Iglesia de la Asunción; calle Historiador Miguel Ortuño; calle Hospital",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: jardines, agua, Escuela Infantil Campanilla, piscina y vados",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar siete facturas: mantenimiento de jardines, suministro de agua, obras de ampliación de la Escuela Infantil Campanilla, vados peatonales en San Cristóbal-Concepción, reparación de la piscina Los Rosales, cursos de la Universidad Popular y tratamiento de basuras.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Navarro y Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vertiyec-Propol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 155432.19,
+      "importes": [
+        {
+          "concepto": "Suministro de agua (factura SAT25/00009V, junio 2025)",
+          "eur": 12182.94,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos de la Universidad Popular, junio 2025",
+          "eur": 6847.41,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, junio 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mejora de accesibilidad y ampliación de la Escuela Infantil Campanilla (contrato menor)",
+          "eur": 31810.27,
+          "entidad": "Maza Construcciones y Contratas, S.L."
+        },
+        {
+          "concepto": "Vados peatonales a distinto nivel en la intersección de calles San Cristóbal y Concepción",
+          "eur": 14036.0,
+          "entidad": "Construcciones Navarro y Palao, S.L."
+        },
+        {
+          "concepto": "Reparación del pavimento de playas y vasos de compensación de la Piscina Los Rosales",
+          "eur": 14798.3,
+          "entidad": "Vertiyec-Propol, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos: aportación junio 2025",
+          "eur": 8856.56,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 628370M, 777199T, 1019554Y, 1073367N, 1093994M, 1118547N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Última certificación de la obra de mejora peatonal (zona de bajas emisiones)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 8 y última de la obra de mejora de espacios para peatones del programa de zonas de bajas emisiones, financiada con fondos europeos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 186960.22,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para un edificio industrial y terciario en calle Tejeras (zona inundable)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Red Mountain Works, S.L. licencia (con proyecto básico, sin poder empezar aún) para un edificio industrial y terciario. Está en zona inundable: debe inscribirlo en el Registro, presentar declaración de riesgo a la CHS y depositar una fianza de urbanización de 324.700 euros.",
+      "entidades": [
+        {
+          "nombre": "Red Mountain Works, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "786292Y",
+      "lugar": "Calle Tejeras, 44",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una nave de ITV en la Avenida Juan Carlos I",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Itevemur, S.L. licencia (proyecto básico) para construir una nave para estación de inspección técnica de vehículos; deberá trasladar una farola, talar árboles y plantar dos plátanos de sombra, con fianzas de 3.083,70 y 5.189,97 euros.",
+      "entidades": [
+        {
+          "nombre": "Itevemur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1031973X",
+      "lugar": "Avenida Juan Carlos I, 63",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para rehabilitar una vivienda adosada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para rehabilitar una vivienda unifamiliar adosada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035844Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia provisional para una campa de camiones en la carretera de Pinoso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a López Montes Logística, S.L. licencia para nivelar y vallar una parcela como campa de camiones de uso provisional; no puede empezar hasta acreditar los requisitos de uso del suelo, avisar a Carreteras de la CARM y obtener el permiso ambiental. El Ayuntamiento podrá exigir su demolición.",
+      "entidades": [
+        {
+          "nombre": "López Montes Logística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1073826A",
+      "lugar": "Carretera de Pinoso km 3,75, polígono 116, parcelas 58 y 59",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de titular de la licencia de 9 viviendas en calle Cruz de Piedra",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma conocimiento de que la licencia de 2008 para nueve viviendas, trasteros, locales y garajes pasa de Construcciones Zadi y Franbe, S.L. a Habitanova Urbantis, S.L., y se devuelven a la primera fianzas por 1.767,92 euros y se libera su aval.",
+      "entidades": [
+        {
+          "nombre": "Habitanova Urbantis, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nueva titular de licencia"
+        },
+        {
+          "nombre": "Construcciones Zadi y Franbe, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recupera fianzas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1767.92,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093121Z",
+      "lugar": "Calle Cruz de Piedra, 141-143",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Convocatoria de 2 plazas de Analista Programador",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de dos plazas de funcionario de Analista Programador (grupo A2) para el Servicio de Informática.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113863H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato temporal de mantenedor para las escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Al ser declarado en incapacidad permanente el mantenedor titular, se contrata de la bolsa a un mantenedor para las escuelas infantiles hasta el 30 de septiembre de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1112925E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Desistimiento del contrato de la plataforma de inteligencia turística tras un recurso",
+      "categoria": "contrato",
+      "resumen": "Tras estimar el Tribunal Central de Recursos Contractuales el recurso de Techfriendly, S.L. contra los pliegos, el Ayuntamiento desiste del contrato de sistema de inteligencia turística y plataforma CMS (fondos Next Generation EU) que había adjudicado a Telefónica, y le devuelve 6.437,50 euros de garantía. Ya se aprobó un nuevo expediente en junio.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recupera garantía"
+        },
+        {
+          "nombre": "Techfriendly, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        },
+        {
+          "nombre": "Tribunal Administrativo Central de Recursos Contractuales",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "estima recurso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6437.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009930F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licitación de una motoniveladora para arreglar caminos",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado) para comprar una motoniveladora para el servicio municipal de conservación de caminos, por 165.000 euros IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 165000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115954M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Licitación del alquiler de solares para aparcamiento público junto a calle Hospital",
+      "categoria": "contrato",
+      "resumen": "Se licita el alquiler de parcelas (hasta 1.050 m²) para un aparcamiento público rotatorio en la zona centro-este (calles Hospital y España), a 21.346 euros al año; valor estimado 70.565,29 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 70565.29,
+      "importes": [
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 5356.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2026",
+          "eur": 21346.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2027",
+          "eur": 15989.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077803Z",
+      "lugar": "Entorno calle Hospital y calle España",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Reparación de un coche de la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Automoción Muñoz García, S.L. la reparación de un vehículo KIA Stonic de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Automoción Muñoz García, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9811.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117928D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Contrato de los conciertos tributo de la Feria 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Visual Events Comunicación y Producciones, S.A. las actuaciones musicales de tributos de los días 14 y 21 de septiembre en la Feria 2025.",
+      "entidades": [
+        {
+          "nombre": "Visual Events Comunicación y Producciones, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13310.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119420A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Puesto informativo sobre el Alzheimer en el mercado de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos y Familiares de Enfermos de Alzheimer un puesto informativo el 24 de septiembre en el mercado de San Francisco, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1118982R",
+      "lugar": "Mercado de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para una charla de AYAC sobre cáncer de mama",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) a usar el Auditorio Juan Miguel Benedito el 15 de octubre para una charla sobre cáncer de mama, con rebaja del 100% del precio (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1118918D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Aula de la Naturaleza Coto Salinas por los colonos de Sierra Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Colonos Sierra Salinas a usar el Aula de la Naturaleza 'Coto Salinas' del 18 al 20 de julio para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Colonos Sierra Salinas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1095726R",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Sótano del Edificio Cazadores para la escuela de verano de No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación No Hay Límite Yecla a usar el sótano del Edificio Cazadores para su escuela de verano (11 a 35 años) cuatro mañanas de julio.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1107990A",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sótano del Edificio Cazadores para el campamento urbano de AFEDECO",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Formación y Desarrollo Comunitario (AFEDECO) a usar el sótano del Edificio Cazadores para un campamento urbano cuatro mañanas de julio.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Formación y Desarrollo Comunitario en Yecla (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119846R",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Visita guiada al Teatro Concha Segura y a la capilla de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una guía turística oficial a hacer una visita al Teatro Concha Segura y a la Capilla de la Virgen de las Angustias el 22 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117364W",
+      "lugar": "Teatro Concha Segura; Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "I Festival de Cortometrajes de temática social para jóvenes",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar en octubre de 2025 el I Festival de Cortometrajes Yecla de temática social juvenil, con un presupuesto de 22.000 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 22000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113422W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Programa de cursos de la Universidad Popular 2025/2026",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban 50 cursos y talleres de la Universidad Popular (cerámica, bolillos, catas de vino, cocina, pilates, informática...) y sus normas: inscripción del 16 al 22 de septiembre, sorteo si hay más solicitudes que plazas y bonificación del 40% para mayores de 60, jóvenes con carnet, familias numerosas, pensionistas o personas con discapacidad y desempleados.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119357N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Becas de auxiliar de arqueología 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 6 becas de 1.000 euros para trabajar 250 horas como auxiliares de arqueología en julio-septiembre; se deniegan 2 solicitudes por no estar empadronados en Yecla.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1096395X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Renuncia de una auxiliar administrativa interina de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una funcionaria interina, auxiliar administrativa de Cultura y Festejos, desde el 21 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1121248P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Dos trabajadoras sociales fijas y nueva bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Tras el concurso-oposición, se contrata como personal laboral fijo a las dos aspirantes con mejor nota para las plazas de trabajador/a social y se aprueba una bolsa de empleo de 22 personas vigente hasta 2031.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "930221Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Reorganización de trabajadores sociales del Centro de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se extinguen las bolsas antiguas, se cesan dos contratos temporales, se nombra un trabajador social interino para una plaza nueva y se contrata otro para sustituir una baja, para cumplir el personal mínimo exigido por la financiación de Servicios Sociales 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119977Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Contrato de educador/a social tras el fallecimiento de la titular",
+      "categoria": "personal",
+      "resumen": "Al fallecer la educadora social titular, se termina el contrato de su sustituta y se contrata de la bolsa a un educador/a social a jornada completa hasta que la plaza se cubra (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116471E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Auxiliar administrativo interino para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa un auxiliar administrativo interino para Cultura y Festejos por la carga de trabajo de 'Verano en Danza', 'Músicas del Aire' y la Feria 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121132D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Plan de Empleo 2025: cinco peones para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se contrata a cinco peones (3 para Cultura y 2 para Festejos) del Plan de Promoción e Inserción Social a través del Empleo 2025 y se crea una bolsa de reserva de seis personas.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1100449C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Plan de Empleo 2025: dos peones jóvenes para Cultura",
+      "categoria": "personal",
+      "resumen": "Se contrata a dos peones menores de 30 años sin experiencia para Cultura dentro del Plan de Promoción e Inserción Social a través del Empleo 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1100449C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Requerimiento a la empresa de limpieza de edificios por impago a sus trabajadoras",
+      "categoria": "contrato",
+      "resumen": "El Ayuntamiento cita con urgencia a Técnicas y Servicios Integrales de Levante (TSI Levante), que limpia los edificios municipales por 769.431,79 euros al año, porque no responde desde junio, las trabajadoras no cobran ni reciben material y CCOO la ha denunciado ante Inspección de Trabajo; no se descartan sanciones.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista requerida"
+        },
+        {
+          "nombre": "Comisiones Obreras de la Región de Murcia",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "denuncia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120846F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Contratación del concierto de Depol en la Feria 2025",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad (con el representante exclusivo) el concierto de Depol en el Real de la Feria, por 26.620 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 26620.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115754J",
+      "lugar": "Real de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Contratación del concierto de Mago de Oz en la Feria 2025",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad (con el representante exclusivo) el concierto de Mago de Oz en el Real de la Feria, por 35.090 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 35090.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116270A",
+      "lugar": "Real de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Contratación del concierto de La La Love You en la Feria 2025",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad (con el representante exclusivo) el concierto de La La Love You en el Real de la Feria, por 72.600 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 72600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116576A",
+      "lugar": "Real de la Feria",
+      "interes": 3
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Plan Corresponsables en las escuelas infantiles (julio-diciembre)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular (nombre anonimizado) el contrato menor del Plan Corresponsables en las escuelas infantiles municipales de 0-3 años de julio a diciembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12087.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120359E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Aceptación de la subvención regional contra el absentismo escolar 2025-2026",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento acepta participar en la subvención directa de la Consejería de Educación (cofinanciada por el FSE+) para reducir el absentismo escolar e incluir al alumnado vulnerable. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Formación Profesional (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120318Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Condolencia por el fallecimiento de un tallista del mueble",
+      "categoria": "organizacion",
+      "resumen": "Se envía el pésame a la familia de un tallista tradicional del mueble yeclano que donó al Ayuntamiento 17 escudos tallados expuestos en el Salón de Plenos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121370J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.15",
+      "titulo": "Condolencia por el fallecimiento de una educadora social municipal",
+      "categoria": "organizacion",
+      "resumen": "Se envía el pésame a la familia de una educadora social del Centro Municipal de Servicios Sociales fallecida el 21 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121602F",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

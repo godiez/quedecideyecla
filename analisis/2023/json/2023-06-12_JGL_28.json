@@ -1,0 +1,801 @@
+{
+  "doc": "2023-06-12_JGL_28",
+  "organo": "JGL",
+  "sesion": 28,
+  "fecha": "2023-06-12",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 36,
+  "resumen": "La Junta de Gobierno paga 192.487 euros en facturas (instalaciones deportivas, limpieza de edificios, autobús urbano y Fiestas de San Isidro) y adjudica a Cruz Roja la teleasistencia a domicilio por 27.588 euros. Prorroga un año el contrato de socorrismo de Podium y aprueba una bolsa de empleo de técnicos. También autoriza 14 terrazas de verano, varios eventos (carrera solidaria, ajedrez, coches clásicos) y abre las escuelas infantiles en vacaciones con el Plan Corresponsables.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se confirma la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica por unanimidad la urgencia de esta sesión extraordinaria y urgente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: la CHS cambia la referencia del permiso de vertido de la depuradora",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Confederación Hidrográfica del Segura que cambia la referencia administrativa de la autorización de vertido de aguas residuales de la depuradora (EDAR).",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "785948W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, limpieza, autobús urbano y fiestas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban seis pagos por un total de 192.486,65 euros: mantenimiento de las instalaciones deportivas, limpieza de edificios municipales, la subvención mensual del autobús urbano, las Fiestas de San Isidro, el cobro de la tasa de basura y cursos de artes plásticas.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Novofest, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 192486.65,
+      "importes": [
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos, mayo 2023",
+          "eur": 7658.72,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Cobro de recibos de la tasa de recogida de basura, enero 2023",
+          "eur": 13993.38,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lote 4 del contrato de las Fiestas de San Isidro 2023",
+          "eur": 13915.0,
+          "entidad": "Novofest, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, mayo 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, mayo 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, mayo 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M, 762290M, 719779T, 551537Z, 118095X, 509033Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cuentas de taquilla del espectáculo 'Siempre Luis Miguel'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban los ingresos de taquilla (2.142 euros) y se anulan las entradas no vendidas (1.350 euros) del espectáculo del 1 de abril en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2142.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cuentas de taquilla del concierto '10º Aniversario Sintagma Piano Dúo'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban los ingresos de taquilla (1.230 euros) y se anulan las entradas no vendidas (2.262 euros) del concierto del 14 de abril en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1230.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Cuentas de taquilla del musical 'Bambi, príncipe del bosque'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban los ingresos de taquilla (1.110 euros) y se anulan las entradas no vendidas (2.382 euros) del espectáculo del 16 de abril en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1110.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares para autoconsumo en su vivienda. No se indica el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762603X",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rechazado el recurso de un vecino que pedía pagar menos agua por una fuga",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de un particular al que se facturaron 1.784,06 euros por una fuga de agua en su casa: la ordenanza del agua no prevé tarifas reducidas por fugas en la instalación interior, que es responsabilidad del usuario. Se le podrá ofrecer un plan de pagos con FCC Aqualia.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1784.06,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "743388J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nueva bolsa de empleo de Técnicos de Administración General con 8 personas",
+      "categoria": "personal",
+      "resumen": "Se aprueba, con las notas del concurso-oposición, la bolsa de empleo de Técnico de Administración General para nombrar interinos cuando haga falta. Tendrá vigencia hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658496D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Nombramiento de un interino para la jefatura de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se nombra un Técnico de Administración General interino, de la bolsa recién aprobada, para cubrir la jefatura de sección de Gestión Tributaria mientras su titular hace de tesorero accidental. Se justifica por la acumulación de tareas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785989C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Concurso de méritos: se asignan dos puestos de auxiliar administrativo",
+      "categoria": "personal",
+      "resumen": "Se resuelve el concurso de méritos y se adjudican a dos funcionarias los puestos de auxiliar administrativo de la Policía Local y de los Servicios Técnicos Municipales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718883Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Viaje de una trabajadora social a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de una trabajadora social a una reunión de la Dirección General de Servicios Sociales sobre la aplicación informática 'Coffee' y se pagan sus gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784186Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Cruz Roja gestionará la teleasistencia a domicilio por 27.588 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Cruz Roja Española Región de Murcia el servicio de teleasistencia domiciliaria durante dos años por 27.588 euros (IVA incluido). Quedó primera en precio, número de terminales y dispositivos móviles o pulseras GPS.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 27588.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738332M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Prorrogado un año el contrato de socorrismo y actividades deportivas con Podium",
+      "categoria": "contrato",
+      "resumen": "Se prorroga hasta el 15 de junio de 2024 (primera de dos prórrogas posibles) el contrato de socorrismo en las piscinas municipales y actividades físico-deportivas y fisioterapia con Podium Gestión Integral. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE nº 7/20",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Jornada de convivencia de los Mayordomos de la Purísima en el jardín de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima Concepción una jornada de convivencia el 18 de junio (gachasmigas, misa de campaña y actividades infantiles). Se le prestan sillas, carpas, tarima y megafonía y debe dejar una fianza de 600 euros por la limpieza.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "776789Z",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Puesto de AYAC para prevenir el cáncer de piel en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) a poner un puesto informativo el 18 de junio y se le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "779193N",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Puesto de Cruz Roja por el Día del Orgullo LGTBIQ+",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Española a instalar un puesto informativo el 30 de junio, de 19:00 a 22:00, por el Día del Orgullo LGTBIQ+.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784388D",
+      "lugar": "calle San Francisco esquina calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de verano: Milano Pizzería (32 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Yecla 2012, S.L. la terraza \"Milano Pizzería\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 32 m². Ya pagó la tasa de 384 euros.",
+      "entidades": [
+        {
+          "nombre": "Yecla 2012, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso / paga tasa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 384.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768741X",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de verano: Aquarium Café (68 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Aquarium Café\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 68 m². Ya pagó la tasa de 816 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 816.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777301K",
+      "lugar": "Plaza Ocho de Marzo / calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Terraza de verano: Arrocería Brandy (18 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Arrocería Brandy\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 18 m². Ya pagó la tasa de 216 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 216.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765008M",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Terraza de verano: Walker Café-Bar (16 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Walker Café-Bar\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 16 m². Ya pagó la tasa de 192 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 192.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761451X",
+      "lugar": "calle Escuelas Pías",
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Terraza de verano: Cafetería TJ (9 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Cafetería TJ\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 9 m². Ya pagó la tasa de 108 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 108.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777339N",
+      "lugar": "avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Terraza de verano: Bar-Cafetería 9 de julio (25 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Bar-Cafetería 9 de julio\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 25 m². Ya pagó la tasa de 300 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777320M",
+      "lugar": "calle Generación del 27",
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Terraza de verano: bar Barrabás (24 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"bar Barrabás\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 24 m². Ya pagó la tasa de 288 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 288.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "571619Q",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.11",
+      "titulo": "Terraza de verano: cafetería Quimera (60 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"cafetería Quimera\" para la temporada de verano (el acuerdo dice 2022 por error) (1 de abril a 31 de octubre), 60 m². Ya pagó la tasa de 720 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 720.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768736P",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "6.12",
+      "titulo": "Terraza de verano: Kebab Pizzería Sabores (12 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Kebab Pizzería Sabores\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 12 m². Ya pagó la tasa de 144 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 144.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765009N",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.13",
+      "titulo": "Terraza de verano: restaurante Candilejas (45 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"restaurante Candilejas\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 45 m². Ya pagó la tasa de 540 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 540.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754969T",
+      "lugar": "calle Alfarería",
+      "interes": 1
+    },
+    {
+      "ref": "6.14",
+      "titulo": "Terraza de verano: café-bar Depaso (12 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"café-bar Depaso\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 12 m². Ya pagó la tasa de 144 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 144.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "786488W",
+      "lugar": "calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "6.15",
+      "titulo": "Terraza de verano: bar La Bohemia (6 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"bar La Bohemia\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 6 m². Ya pagó la tasa de 72 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 72.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784402Y",
+      "lugar": "plaza de la Purísima",
+      "interes": 1
+    },
+    {
+      "ref": "6.16",
+      "titulo": "Terraza de verano: Picasso Café (28 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza \"Picasso Café\" para la temporada de verano 2023 (1 de abril a 31 de octubre), 28 m². Ya pagó la tasa de 336 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 336.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768738R",
+      "lugar": "avenida de Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.17",
+      "titulo": "Terraza del bar Los Hermanos (8 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del bar Los Hermanos, 8 m². Ya pagó la tasa de 96 euros. El acuerdo dice por error 'temporada anual de 1 de noviembre de 2021 a 31 de octubre de 2022'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 96.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761407K",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Pistas del Polideportivo gratis para una jornada de fútbol inclusivo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba que la Federación de Fútbol de la Región de Murcia usara gratis el Complejo Polideportivo Juan Palao el 21 de abril para una jornada inclusiva de la Liga Súper Fútbol Ocho; el uso se valora en 190 euros. La alcaldesa ya lo había autorizado por decreto.",
+      "entidades": [
+        {
+          "nombre": "Federación de Fútbol de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 190.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729492J",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón del Centro de Desarrollo Local para la asamblea de las Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Federación de Peñas de San Isidro a usar el salón de actos del Centro de Desarrollo Local el 22 de junio para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785891Q",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Sala del Centro de Emprendimiento para la asamblea de la Asociación No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación No Hay Límite a usar la sala de reuniones del Centro de Emprendimiento el 19 de junio para su asamblea de socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785883E",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Auditorio para la gala de los Premios Deportistas del año",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Radiocomunicaciones y Publicidad Yecla, S.L. a usar el Auditorio Juan Miguel Benedito el 30 de junio para entregar los Premios Deportistas del año 2023, pagando el precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Radiocomunicaciones y Publicidad Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso / paga precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785896Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Escuelas infantiles abiertas en vacaciones (Plan Corresponsables): 13.600 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el servicio de conciliación en las escuelas infantiles municipales la última semana de julio, Navidad y Semana Santa, con un presupuesto de 13.600 euros financiado por el Plan Corresponsables de la CARM. Las familias pagarán 5 euros al día.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias, Política Social y Transparencia (CARM) - Plan Corresponsables",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13600.0,
+      "importes": [
+        {
+          "concepto": "Última semana de julio 2023 (5 días)",
+          "eur": 4250.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Navidad 2023-24 (8 días)",
+          "eur": 6750.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Semana Santa 2024 (3 días)",
+          "eur": 2600.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785198D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "VIII Concentración de vehículos clásicos en la ITV",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración de vehículos clásicos de la Asociación Motor Clásico Yecla el 18 de junio en las instalaciones de la ITV Mecod Yecla y se le prestan carpas, sillas y tableros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Motor Clásico Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza / recibe material"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "770926F",
+      "lugar": "ITV Mecod Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Carrera solidaria 'Marta la Princesa Valiente' del 17 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la quinta carrera y marcha solidaria organizada por la asociación Marta 'La Princesa Valiente' y el Club Fondistas Yecla, con salida y llegada en la avenida de la Estación. El Ayuntamiento colabora con 700 euros de gastos y el uso gratuito de instalaciones deportivas valorado en 310 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Marta 'La Princesa Valiente'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza / recibe colaboración"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1010.0,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 700.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 310.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771569Z, 760389X",
+      "lugar": "Avenida de la Estación",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Quinto Torneo de Primavera de Ajedrez en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Ajedrez Municipal Yeclano a celebrar el torneo el 18 de junio en los soportales de los Arcos y el Auditorio, con una colaboración municipal de 150 euros en gastos.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 150.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767475N",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    }
+  ]
+}

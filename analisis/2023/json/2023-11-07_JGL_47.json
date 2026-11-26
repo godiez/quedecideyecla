@@ -1,0 +1,714 @@
+{
+  "doc": "2023-11-07_JGL_47",
+  "organo": "JGL",
+  "sesion": 47,
+  "fecha": "2023-11-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno paga 147.990 euros en facturas: el mantenimiento de las instalaciones deportivas de octubre (Véctoris), la reparación del campo de fútbol nº 2 del polideportivo y la renovación del alcantarillado de la travesía calle Cerro. Da licencia a la Comunidad de Regantes Hoya del Mollidar-El Portichuelo para regar con agua depurada y saca a concurso las jaimas y carrozas de Reyes 2024 (43.802 euros). Convoca 12.000 euros en ayudas para asociaciones de comerciantes, aprueba las campañas de Navidad de los mercados y del comercio, y reparte 9.843 euros en subvenciones de fiestas populares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 31 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de apoyo a la familia y un auto del Tribunal Supremo",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden de la Comunidad Autónoma que concede y paga subvenciones para actuaciones de apoyo a la familia e infancia (sin importe en el acta) y de un auto del Tribunal Supremo que inadmite el recurso de casación de una trabajadora contra una sentencia del TSJ de Murcia (Sala de lo Social).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Tribunal Supremo (Sala de lo Social)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta auto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "839684D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, campo de fútbol y alcantarillado",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento, limpieza y atención de las instalaciones deportivas de octubre, la reparación de la superficie del campo de fútbol nº 2 del polideportivo Juan Palao y la renovación del alcantarillado y agua potable de la travesía calle Cerro.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 147990.44,
+      "importes": [
+        {
+          "concepto": "Reparación de superficie del campo de fútbol nº 2 del Complejo Polideportivo Juan Palao",
+          "eur": 34809.12,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L.U."
+        },
+        {
+          "concepto": "Renovación de alcantarillado y agua potable en travesía calle Cerro",
+          "eur": 37485.8,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L.U."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, octubre 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816423X, 794883E, 509033Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda aislada en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia (proyecto básico) para una vivienda unifamiliar aislada en suelo rústico inundable: antes de empezar debe presentar proyecto de ejecución, declaración ante la CHS de que asume el riesgo y nota registral de zona inundable.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725932P (licencia 35/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una vivienda aislada en el Barranco del Polio",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para una vivienda unifamiliar aislada, condicionada a aportar la escritura registrada de agrupación de fincas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764381Q (licencia 238/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda aislada en El Ardal",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia (proyecto básico) para una vivienda unifamiliar aislada, con fosa séptica impermeable y condiciones sobre vertidos y agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789536D (licencia 402/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para una vivienda aislada con anexo y piscina en Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para una vivienda unifamiliar aislada con anexo y piscina, con condiciones sobre vertidos, aljibes y ahorro de agua.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794619N (licencia 419/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia a los regantes de Hoya del Mollidar-El Portichuelo para regar con agua depurada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la comunidad de regantes para las obras de redotación con agua regenerada de la depuradora (EDAR) de Yecla Fase III, con una fianza de 1.820 € por posibles daños en caminos municipales.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794106A (licencia 437/2023)",
+      "lugar": "parajes Carrascalejo, Los Arenales y La Hoya",
+      "interes": 3
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para reformar el balcón y el salón de una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para modificar el balcón y el salón-comedor de su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826759C (licencia 628/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para reparar un embalse de riego de 26.000 m³ en El Pozuelo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la red de riego del paraje El Pozuelo para reformar y reparar un embalse de 26.000 m³, con una fianza de 1.530 € por posibles daños en caminos.",
+      "entidades": [
+        {
+          "nombre": "Red de riego paraje El Pozuelo, C.B.",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820035N (licencia 657/2023)",
+      "lugar": "paraje El Pozuelo, polígono 9 parcela 153",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición interna a dos plazas de administrativo: admitidos, tribunal y fechas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 3 aspirantes a dos plazas de administrativo por promoción interna (para jefaturas de negociado de Caja, Contabilidad o Gestión Tributaria), se nombra el tribunal y se fija la valoración de méritos y el examen el 11 de enero de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696102J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "El director y el coordinador de Deportes van a una jornada técnica en Lorca",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadores del Servicio Municipal de Deportes asistir con el concejal de Deportes a la Jornada Técnica de Gestión del Deporte en Lorca el 9 de noviembre, pagando el Ayuntamiento viaje y comidas.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Lorca",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841306F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Curso online de la plataforma Smartregión para la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se ordena al personal de la Agencia de Desarrollo Local hacer el curso online sobre la plataforma Smartregión de la Escuela de Formación e Innovación de la Administración regional, entre noviembre y diciembre.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839773C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Prorrogados un año los profesores de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se prorroga del 9 de enero de 2024 al 8 de enero de 2025 (primera prórroga) el contrato de actividad docente de la Universidad Popular: lotes 1 a 4 con Epsilon Servicios Educativos y lote 5 con un particular. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836872Y (C.SE. 9/22)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Sale a concurso la infraestructura de Reyes 2024: jaimas y carrozas (43.802 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado, con tramitación anticipada, para alquilar y montar las jaimas de los Emisarios Reales y Reyes Magos (18.271 €) y alquilar las carrozas de la Cabalgata (25.531 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 43802.0,
+      "importes": [
+        {
+          "concepto": "Lote 1: alquiler, montaje y desmontaje de jaimas",
+          "eur": 18271.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: alquiler de carrozas para la Cabalgata de Reyes 2024",
+          "eur": 25531.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839179C (C.SU. 7/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto de Cruz Roja por el Día contra la Violencia hacia la Mujer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Española un puesto informativo (carpa, mesa y sillas) en la plaza San Cayetano con calle San José el 25 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838606F",
+      "lugar": "plaza San Cayetano con calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Desfile de recogida de los nuevos músicos de la AAMY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música de Yecla el desfile de recogida de los nuevos músicos el 11 de noviembre, en las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838593N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Boda civil en la Casa Consistorial (21 de diciembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719743T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Boda civil en la Casa Consistorial (9 de marzo de 2024)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840139K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón del Edificio Bioclimático para una actividad del CEIP Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio el salón de actos el 5 de diciembre para una actividad con su alumnado.",
+      "entidades": [
+        {
+          "nombre": "CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837909N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para la asamblea del Club Ciclista Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al club el salón de actos el 27 de noviembre para su asamblea anual de socios.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840671Z",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Campaña de Navidad para animar a comprar en los mercados municipales (3.610 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la VII Campaña de Dinamización de los Mercados Municipales (Mercado Central y San Cayetano), del 4 al 30 de diciembre, con sus bases y un presupuesto de 3.610,21 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3610.21,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839801Q",
+      "lugar": "Mercado Central y Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "IX Muestra de Decoración Navideña del Comercio Local (2.200 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso de decoración navideña de comercios, con 2.200 € de presupuesto; inscripción del 27 de noviembre al 15 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839800P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Convocadas ayudas de 12.000 € para asociaciones de comerciantes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria 2023 de subvenciones de fomento del comercio local para asociaciones y federaciones de comerciantes sin ánimo de lucro, hasta 12.000 € para gastos corrientes; 10 días naturales para pedirlas desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839115N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegada la tarjeta de residente de zona azul a una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega porque su domicilio no está dentro de la zona azul.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "839271E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de licencias del antivirus WatchGuard para un año",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las licencias anuales del antivirus WatchGuard EPDR (de 251 a 500 equipos).",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6370.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822881Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Licencia para un altillo en una nave en El Pulpillo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para hacer un forjado de altillo en una nave sin uso específico, debiendo declararlo después al Catastro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694995X (licencia 699/2022)",
+      "lugar": "paraje El Pulpillo",
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Nombrado por sorteo el tribunal de la carrera profesional de los empleados",
+      "categoria": "personal",
+      "resumen": "Al inicio del mandato se sortean los vocales y se nombra el órgano que gestiona la carrera profesional horizontal (subida de grado de los empleados municipales), que actuará en el concurso de 2022 y los siguientes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834594J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Toda la bolsa renuncia: se pide a la CARM un administrativo para Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Como todos los integrantes de la bolsa municipal de administrativos han renunciado al puesto interino de jefe del Negociado de Gestión Tributaria, se pide a la Dirección General de la Función Pública de la Comunidad Autónoma un candidato de su lista de espera.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de la Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834893Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Formación sobre trabajo en red para dos trabajadoras de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social y a una asesora jurídica asistir a una formación dentro del proyecto de acompañamiento a personas vulnerables financiado con fondos europeos NextGenerationEU.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838368A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Puesto informativo sobre el reciclaje de envases con Ecoembes",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba instalar un puesto de concienciación sobre la recogida selectiva de envases en la zona de la calle San Francisco-Parque de la Constitución los días 8, 11 y 15 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Ecoembes",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841728R",
+      "lugar": "calle San Francisco - Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Denegado a Biotremol Coop. un elemento publicitario en la calle Corredera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega ocupar la acera con un elemento publicitario el 27 de diciembre, porque se ha denegado antes a otras empresas para no invadir el espacio de los peatones.",
+      "entidades": [
+        {
+          "nombre": "Biotremol Coop.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "841190W",
+      "lugar": "calle Corredera",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Terraza de invierno del bar El Esquinazo en la avenida de la Libertad (10 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar del 1 de noviembre de 2023 al 31 de marzo de 2024, 10 m².",
+      "entidades": [
+        {
+          "nombre": "Bar El Esquinazo",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838577Q",
+      "lugar": "avenida de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Salón de la Casa Consistorial para presentar un libro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a usar el Salón de Sesiones de la 1ª planta el 10 de noviembre para presentar su libro 'El sueño de un Remo'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841834P",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Subvenciones de fiestas populares 2023: 9.843 € a cuatro beneficiarios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden las ayudas de promoción y difusión de las fiestas populares: Caballeros del Santo Cristo del Sepulcro, Corte de Honor de la Purísima, Amigos de San Antón y un particular.",
+      "entidades": [
+        {
+          "nombre": "Asociación Caballeros del Stmo. Cristo del Sepulcro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Corte de Honor de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación Yeclana de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 9843.41,
+      "importes": [
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2023",
+          "eur": 2800.0,
+          "entidad": "Asociación Caballeros del Stmo. Cristo del Sepulcro"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2023",
+          "eur": 3600.0,
+          "entidad": "Corte de Honor de la Purísima Concepción"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2023",
+          "eur": 1443.41,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2023",
+          "eur": 2000.0,
+          "entidad": "Asociación Yeclana de Amigos de San Antón"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745570P",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

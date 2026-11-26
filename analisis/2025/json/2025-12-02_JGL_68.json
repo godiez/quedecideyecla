@@ -1,0 +1,1282 @@
+{
+  "doc": "2025-12-02_JGL_68",
+  "organo": "JGL",
+  "sesion": 68,
+  "fecha": "2025-12-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 52,
+  "resumen": "La Junta de Gobierno saca a licitación la limpieza de los edificios municipales por 3,4 millones de euros en dos años, adjudica los nuevos servidores informáticos por 154.880 € y aprueba una convocatoria de 190.000 € en ayudas a clubes y deportistas. Paga 310.220 € en facturas (basuras, jardines, socorrismo) y abre expediente de penalización a la empresa de los senderos del Cerro del Castillo por retraso. También da el visto bueno a fiestas de Navidad de hasta 1.500 personas en la Feria del Mueble, autoriza vertidos a Industrias David y prepara las Fiestas de la Virgen y los Reyes.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 25 y 28 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas al ascensor del Auditorio y al castillo, paso de la Virgen y sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de pago de la Consejería de Agua y Agricultura para el elevador del Auditorio Municipal (fondos de Desarrollo Local Participativo), de la ampliación del plazo de la ayuda estatal para el proyecto 'El renacer de Yakka' del castillo, de las medidas de seguridad para el paso de la Virgen del Castillo por las obras de la Iglesia Vieja el 7 de diciembre, y de una sentencia firme sobre responsabilidad patrimonial. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga subvención"
+        },
+        {
+          "nombre": "Secretaría de Estado de Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "amplía plazo de subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1194370Y",
+      "lugar": "Auditorio Municipal; Iglesia Vieja; Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: residuos, jardines, socorrismo, museo del Greco y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar doce facturas: tratamiento de basuras de octubre, grúa municipal, jardines, actividades deportivas y socorrismo, marketing del comercio local, juegos de patrimonio en familia, iluminación del museo 'Réplicas del Greco', actividades del 25N, repintado de pistas en 5 colegios, un vehículo para el Centro de Día Las Teresas y dos suministros para el complejo deportivo Juan Palao con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Onuson Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Marco Topo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Santos y Santos Montajes Eléctricos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "AFEDECO, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Automotor Hnos. Marín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "I2A Proyectos Informáticos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Plena Inclusión Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 310220.15,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, octubre 2025",
+          "eur": 79863.68,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos, octubre 2025",
+          "eur": 6461.4,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, octubre 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, octubre 2025",
+          "eur": 47010.38,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Contrato menor: proyecto de marketing digital 'Yecla es Comercio'",
+          "eur": 7653.25,
+          "entidad": "Onuson Producciones, S.L."
+        },
+        {
+          "concepto": "Contrato menor: 'Descubriendo el Patrimonio de Yecla jugando en familia' (proyecto 'Yecla, accesible para ti')",
+          "eur": 18089.5,
+          "entidad": "Marco Topo, S.L."
+        },
+        {
+          "concepto": "Contrato menor: iluminación del museo 'Réplicas del Greco'",
+          "eur": 19088.38,
+          "entidad": "Santos y Santos Montajes Eléctricos, S.L."
+        },
+        {
+          "concepto": "Contrato menor: actividades del 25N, Día contra la violencia hacia la mujer",
+          "eur": 6836.53,
+          "entidad": "AFEDECO, Asociación de Formación y Desarrollo Comunitario en Yecla"
+        },
+        {
+          "concepto": "Contrato menor: repintado de pistas polideportivas en 5 colegios, porterías y canastas",
+          "eur": 12961.52,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Contrato menor: vehículo para el Centro de Día de Mayores Las Teresas",
+          "eur": 17900.0,
+          "entidad": "Automotor Hnos. Marín, S.L."
+        },
+        {
+          "concepto": "Contrato menor: plataforma de gestión y control de accesos, complejo Juan Palao (CSD, Next Generation EU)",
+          "eur": 18004.8,
+          "entidad": "I2A Proyectos Informáticos, S.A."
+        },
+        {
+          "concepto": "Contrato menor: señalética accesible, complejo Juan Palao (CSD, Next Generation EU)",
+          "eur": 9450.0,
+          "entidad": "Plena Inclusión Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 697847H, 777199T, 941685X, 1054513C, 1111711T, 1126632R, 1164524W, 1166575T, 1172056F, 1183751Z, 1183752A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Primer pago de la mejora del entorno de la Antigua Estación del tren",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la primera certificación de la obra de mejora del entorno urbano de la Antigua Estación (Plan de Obras y Servicios 2024/25).",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 54847.31,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación del tren",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Se reanuda la obra de una vivienda parada desde 2019 en Cañada del Pulpillo",
+      "categoria": "licencia_obra",
+      "resumen": "La licencia de 2006 de una vivienda aislada sigue en vigor porque nunca se declaró caducada. Se anotan los nuevos promotores (la vivienda se vendió a medio construir), constructor y técnicos, y se levanta la paralización de las obras.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "197604A",
+      "lugar": "Paraje Cañada del Pulpillo",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de técnicos en la obra de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se anotan la nueva dirección de obra y de ejecución. Se avisa al promotor de que no puede empezar hasta que se derribe la casa vecina, y que el plazo de seis meses para iniciar contará desde ese derribo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823066Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Se reanuda la obra de una vivienda aislada en el paraje Casa Igarza",
+      "categoria": "licencia_obra",
+      "resumen": "Se anotan los nuevos técnicos y constructor tras la renuncia de los anteriores y se levanta la paralización con efectos del 10 de septiembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022934R",
+      "lugar": "Paraje Casa Igarza",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contrato temporal de un/a limpiador/a para la Casa Consistorial",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una persona de limpieza para cubrir la jubilación de la limpiadora del Ayuntamiento hasta que se cubra la plaza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1190197C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de un/a cuidador/a para el Centro de Protección Animal en vacaciones",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un/a cuidador/a de animales del 10 de diciembre al 11 de enero para cubrir las vacaciones del vigilante del centro de animales y la recogida de perros abandonados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1191513E",
+      "lugar": "Centro de Protección Animal",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Sustitución de una trabajadora social de baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un/a trabajador/a social para sustituir a una trabajadora de baja médica; si no se cubre, el Ayuntamiento podría tener que devolver parte de la subvención regional de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192644A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Prórroga hasta 2026 de una agente de desarrollo local (fondos europeos)",
+      "categoria": "personal",
+      "resumen": "Se prolonga hasta el 31 de diciembre de 2026 el contrato de una agente de desarrollo local que gestiona proyectos de los fondos europeos Next Generation (como capacidades digitales para desempleados).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "709909K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Prórroga hasta 2026 de otra agente de desarrollo local (turismo)",
+      "categoria": "personal",
+      "resumen": "Se prolonga hasta el 31 de diciembre de 2026 el contrato de otra agente de desarrollo local para el Plan de Sostenibilidad Turística 'Yecla ES+' y otros proyectos con fondos europeos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672186R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Nuevas fechas para la educadora social del programa de absentismo escolar",
+      "categoria": "personal",
+      "resumen": "Se cambia el nombramiento interino de un/a educador/a social a media jornada: irá del 15 de diciembre de 2025 al 7 de agosto de 2026. Se imputan 2.339,42 € de gastos generales a la subvención regional.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2339.42,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1180417T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Cambio de becario en el proyecto de inserción de personas con discapacidad intelectual",
+      "categoria": "personal",
+      "resumen": "Un becario renuncia y se concede la beca a un sustituto: cuatro meses de prácticas de conserje-peón, a 9 € al día.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1135384Y",
+      "lugar": "CEIP Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Permiso de lactancia y vacaciones de una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar del Registro permiso de lactancia acumulado (23 de diciembre a 28 de enero) y vacaciones después.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1189005X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Jubilación de un vigilante nocturno tras 34 años",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación de un vigilante nocturno el 25 de enero de 2026 y se le agradecen sus más de 34 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1189013H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "La técnica de Protección Civil irá a unas jornadas en Cehegín",
+      "categoria": "personal",
+      "resumen": "Se ordena a la técnica de Emergencias y Protección Civil asistir a las XIV Jornadas de Protección Civil de la Región (13 de diciembre, Cehegín), pagando el Ayuntamiento el viaje.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193494F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Dos trabajadoras de Juventud irán a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a dos trabajadoras de Juventud asistir a una reunión sobre el Servicio de Apoyo Psicosocial para Jóvenes (15 de diciembre, Murcia).",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192051C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Sale a licitación la limpieza de edificios municipales: 3,4 millones",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por procedimiento abierto (con anuncio europeo) la limpieza interior de edificios municipales durante dos años: 1.146.310,39 € al año con IVA y valor estimado de 3.410.510,25 €. Se comprometen 955.258,65 € en 2026, 1.146.310,39 € en 2027 y 191.051,73 € en 2028.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3410510.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1186575X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licitación de jaimas y carrozas para los Reyes Magos 2026",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar en dos lotes la infraestructura de Reyes: jaimas y decoración morisca en la explanada de San Francisco y el Teatro Concha Segura (20.364,30 €) y carrozas para la Cabalgata (15.730 €). Valor estimado 29.830 € sin IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 36094.3,
+      "importes": [
+        {
+          "concepto": "Lote 1: jaimas y decoración Explanada San Francisco y hall del Teatro Concha Segura",
+          "eur": 20364.3,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: carrozas autónomas para la Cabalgata de Reyes",
+          "eur": 15730.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175192M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Expediente de penalización por retraso en los senderos del Cerro del Castillo",
+      "categoria": "contrato",
+      "resumen": "Las obras de acondicionamiento de recorridos en el Cerro del Castillo (Plan de Sostenibilidad Turística, fondos europeos) no estarán terminadas el 12 de diciembre. Se declara el incumplimiento y se abre expediente de penalidades a la empresa, que tiene diez días para alegar.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081479E",
+      "lugar": "Cerro del Castillo",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Tribunas para las Fiestas de la Virgen 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el alquiler e instalación de tribunas para las Fiestas de la Virgen.",
+      "entidades": [
+        {
+          "nombre": "Cúpula Creativa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10030.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1191976Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Sonido, producción e infraestructura para las Fiestas de la Virgen 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudican los servicios técnicos y de producción de las Fiestas de la Virgen.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10103.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1191862P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para 'La Loka Bar' en calle Pau Casals",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 6 m² de noviembre de 2025 a marzo de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1183744P",
+      "lugar": "Calle Pau Casals",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno para 'The Mood' en Avenida de Córdoba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 24 m² de noviembre de 2025 a marzo de 2026.",
+      "entidades": [
+        {
+          "nombre": "The Mood Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1184908F",
+      "lugar": "Avenida de Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de invierno para 'Carrusel Kinder Bar' en Plaza del Recuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 12 m² de noviembre de 2025 a marzo de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1190671K",
+      "lugar": "Plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de invierno para el bar 'El Esquinazo' en calle Voluntariado Social",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 10 m² de noviembre de 2025 a marzo de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1183745Q",
+      "lugar": "Calle Voluntariado Social",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza anual para 'Horno El Obrador' en calle Pascual Amat",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 12 m² de noviembre de 2025 a octubre de 2026.",
+      "entidades": [
+        {
+          "nombre": "Obrador Artesano Quique, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1184494F",
+      "lugar": "Calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza anual de 55 m² para la cafetería 'Memphis' en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 55 m² de noviembre de 2025 a octubre de 2026.",
+      "entidades": [
+        {
+          "nombre": "Lucas Domene, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192315T",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza anual para 'Cafetería Tragaluz' en calle Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Terraza de 20 m² de noviembre de 2025 a octubre de 2026.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192313Q",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Puesto benéfico del Centro de Educación de Adultos en el mercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto en el Mercado Semanal el 17 de diciembre, con una carpa municipal, para una campaña a favor de AFIYE.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "AFIYE",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192039K",
+      "lugar": "Mercado Semanal",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Procesión del 'Día del Niño Jesús' del colectivo ecuatoriano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión el 27 de diciembre de 2025 con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de Ecuatorianos Residentes en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1187734F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Una empresa cárnica podrá rebajar el bordillo y trasladar un árbol en calle San Ramón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Carnes Selectas del Altiplano a rebajar el bordillo de la acera y quitar un árbol que estorba la entrada de vehículos, plantando un aligustre. Debe dejar fianzas de 141,06 € y 450 €.",
+      "entidades": [
+        {
+          "nombre": "Carnes Selectas del Altiplano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1158850P",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Boda civil en la Casa Consistorial (14 de marzo de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para una boda civil.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193143T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Boda civil en la Casa Consistorial (25 de abril de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para una boda civil.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1189623E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Boda civil en la Casa Consistorial (13 de junio de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones para una boda civil.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169889X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Reparto de pólvora de las Fiestas de la Virgen en el polideportivo Juan Palao",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los Mayordomos de la Purísima a repartir la pólvora en el complejo Juan Palao los días 4 y 19 de diciembre y 2 de enero, sujeto a la autorización de la Delegación del Gobierno.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza consumo de pólvora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179120R",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela Municipal de Navidad 2025 para conciliar",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela de Navidad del 22 de diciembre al 2 de enero, para niños de 3 a 12 años, financiada con la subvención regional del Plan Corresponsables.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Plan Corresponsables)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193950P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide una ayuda de 31.915 € para códigos NaviLens y un mirador turístico digital",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el proyecto 'Yecla Accesible e Inmersiva' (31.914,89 €) para hacer más accesible el turismo con códigos NaviLens y un mirador digital, y se pide la subvención a la Consejería de Turismo. El Ayuntamiento aporta el 6% (1.914,89 €).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 31914.89,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193639H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Se acepta una ayuda regional de 16.470 € para conciliación familiar",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención de la Consejería de Política Social (cofinanciada por el Fondo Social Europeo Plus) y se aprueba el proyecto 'Actividades de Conciliación 2025-2026'.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16470.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1114037Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Se devuelven 782 € de una ayuda contra el absentismo escolar",
+      "categoria": "subvencion_recibida",
+      "resumen": "La Consejería de Educación no admite 782 € de gasto de la subvención de 11.150 € para reducir el absentismo escolar (2023-2024). El Ayuntamiento renuncia a esa parte y la devuelve, aunque gastó más de lo recibido.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Formación Profesional (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama devolución"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 782.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781496M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Campeonatos locales de fútbol sala y tenis 2025/26: 17,50 € de arbitraje",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los campeonatos locales de fútbol sala y tenis y los torneos de verano 2026, y un precio de arbitraje de 17,50 € por partido y equipo, que no cubre el coste (lo asume el Ayuntamiento). Se cita un convenio con la Federación de Fútbol.",
+      "entidades": [
+        {
+          "nombre": "Federación de Fútbol de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181869K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Permiso de vertidos al alcantarillado para Industrias David",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a la fábrica de maquinaria agrícola de Industrias David en el polígono Urbayecla a verter aguas residuales a la red, con límites de contaminantes y un control ambiental antes de cuatro años.",
+      "entidades": [
+        {
+          "nombre": "Industrias David, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1025319E",
+      "lugar": "P.I. Urbayecla",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Reforestación escolar del AMPA del CEIP El Alba en el Cerro del Castillo",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza plantar flora autóctona en el Cerro del Castillo el 18 de febrero de 2026; el Ayuntamiento paga los materiales.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177400D",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Visto bueno a fiestas de Navidad y Nochevieja de hasta 1.500 personas en la Feria del Mueble",
+      "categoria": "via_publica_eventos",
+      "resumen": "Informe favorable a las 'Fiestas de Navidades 2025' (25, 27 y 28 de diciembre, 1 y 6 de enero) en una nave del recinto de la Feria del Mueble, con aforos de 499 a 1.500 personas y hasta 100 dB dentro. Se considera que el ruido exterior cumplirá la ordenanza al no haber viviendas cerca.",
+      "entidades": [
+        {
+          "nombre": "Kampala ESPJ",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1185185Q",
+      "lugar": "Feria del Mueble (Plaza del Industrial del Mueble)",
+      "interes": 2
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Urgente: pago a Aqualia por cobro de la tasa de basura y bonificación a familias numerosas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban dos pagos a FCC Aqualia: el cobro de recibos de la tasa de basura de julio de 2025 y la bonificación a familias numerosas del segundo trimestre.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20320.82,
+      "importes": [
+        {
+          "concepto": "Cobro de recibos de la tasa de recogida de basura emitidos en julio 2025",
+          "eur": 15824.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Bonificación a familias numerosas, segundo trimestre 2025",
+          "eur": 4496.42,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121804M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Urgente: cuatro auxiliares de ayuda a domicilio para Navidad",
+      "categoria": "personal",
+      "resumen": "Se contratan de la bolsa cuatro auxiliares de hogar a tiempo parcial (19 de diciembre a 5 de enero) para cubrir vacaciones del Servicio de Ayuda a Domicilio; si falta gente se usará la bolsa aprobada en marzo de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192805Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Urgente: se exige experiencia a los auxiliares de arqueología del castillo",
+      "categoria": "personal",
+      "resumen": "Se cambian las bases de selección de los seis auxiliares de arqueología del proyecto 'El Renacer de Yakka' (personal enviado por el SEF) para exigir al menos dos meses o 200 horas de experiencia en excavaciones.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1168464R",
+      "lugar": "Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Urgente: se exige a Vectoris la lista de su personal para licitar las instalaciones deportivas",
+      "categoria": "contrato",
+      "resumen": "El contrato de mantenimiento y limpieza de las instalaciones deportivas acaba el 1 de marzo de 2026. Vectoris no ha dado los datos de sus trabajadores, necesarios para la nueva licitación, pese a varios requerimientos, y se le vuelven a exigir formalmente.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista requerida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1194327N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Urgente: Enetic suministrará los nuevos servidores municipales por 154.880 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto el suministro e instalación de servidores para el centro de datos del Ayuntamiento a Enetic Proyectos, que obtuvo 94,4 de 100 puntos.",
+      "entidades": [
+        {
+          "nombre": "Enetic Proyectos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 154880.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093145H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Urgente: se aplaza la recepción de la obra de la calle España",
+      "categoria": "contrato",
+      "resumen": "La recepción de las obras de mejora de itinerarios peatonales en calle España (tramo calle D. Lucio-Placeta Ortega) pasa al 11 de diciembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045370D",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Urgente: rutas ciclistas por espacios protegidos, a examen ambiental de la Comunidad",
+      "categoria": "medio_ambiente",
+      "resumen": "Se envían a la Comunidad Autónoma las memorias de siete rutas ciclistas (seis para acreditación IMBA) del Plan de Sostenibilidad Turística, para que informe porque algunas pasan por el Parque Regional de El Carche, la ZEPA de las Estepas de Yecla y montes públicos. En la 'Senda de la Flor' se arreglará además el camino.",
+      "entidades": [
+        {
+          "nombre": "Silvoturismo Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta memorias"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982777T",
+      "lugar": "Sierra de las Pansas (El Carche); Estepas de Yecla; Cerro de la Flor",
+      "interes": 2
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Urgente: carrito de juguetes y frutos secos en las Fiestas de la Virgen",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vendedor licencia de puesto eventual (5 a 8 y 21 de diciembre) con tasa de 40 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 40.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1191026D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Urgente: tres carritos de juguetes, globos y castañas en las Fiestas de la Virgen",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a un vendedor tres licencias de puesto eventual (6 a 8 y 21 de diciembre) con tasa de 48 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 48.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1191005Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.10",
+      "titulo": "Urgente: convocatoria de 190.000 € en ayudas a clubes y deportistas 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones deportivas de 2025: promoción deportiva de clubes (temporadas 2024/25 y 2025/26), ayudas a deportistas no profesionales con proyección y programa Mujer y Deporte. Plazo de solicitud: 5 días naturales desde su publicación en el BORM.",
+      "entidades": [
+        {
+          "nombre": "asociaciones y clubes deportivos de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pueden recibir subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 190000.0,
+      "importes": [
+        {
+          "concepto": "Colaboración deporte escolar y escuelas deportivas",
+          "eur": 15000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Instituciones sin fines de lucro (clubes)",
+          "eur": 158000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Premios y becas deportivas",
+          "eur": 17000.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167013C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.11",
+      "titulo": "Urgente: 2.000 € a AFEDECO en la convocatoria de asociaciones juveniles",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se concede a AFEDECO la única subvención de la convocatoria de asociacionismo juvenil 2025, que se pagará tras justificar las actividades. No hubo informes, ruegos ni preguntas.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1157198W",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "doc": "2021-12-29_JGL_64",
+  "organo": "JGL",
+  "sesion": 64,
+  "fecha": "2021-12-29",
+  "tipo_sesion": "ordinaria",
+  "paginas": 53,
+  "resumen": "En la última Junta de Gobierno de 2021 se reparten 113.000 euros a 15 clubes deportivos y 15.000 en becas a deportistas, 15.550 a las AMPA y 11.820 a asociaciones de comerciantes, y se dan las ayudas COVID a hostelería y pequeño comercio. Se rechazan cinco facturas de Véctoris (132.664 euros) por seguir con el mantenimiento de las instalaciones deportivas con el contrato vencido: se pagarán, si procede, mediante un expediente de responsabilidad patrimonial. También se pagan 163.258 euros en obras y suministros (Universidad Popular, piscina cubierta, Sala de Lectura La Alameda y placas solares en la Casa del Guarda del Arabí), se aprueban las Fiestas de Reyes 2022 (75.050 euros) y se resuelve la carrera profesional del personal municipal, que supone 51.920 euros más en sueldos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 21 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: alerta COVID, anticipo del SEF y alumbrado de dos colegios",
+      "categoria": "informacion",
+      "resumen": "Se informa del nivel de alerta COVID de la Región; del pago anticipado por el SEF de 2.462,40 € (60% de lo concedido) para un curso de Competencias Digitales Básicas; y de un informe técnico sobre el cambio de alumbrado en los colegios Miguel Ortuño y Giner de los Ríos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2462.4,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "571736D",
+      "lugar": "CEIP Miguel Ortuño; CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de obras y suministros: Universidad Popular, piscina, Sala La Alameda y Monte Arabí",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la impermeabilización del patio de la Universidad Popular, una zona verde en la Piscina Municipal Cubierta, la celosía cerámica de la fachada y el mobiliario de la Sala de Lectura 'La Alameda' y placas solares para la Casa del Guarda del Monte Arabí.",
+      "entidades": [
+        {
+          "nombre": "Intagua Obras Públicas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quality Sport 2014, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Flexbrick, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Primera Energía Renovables, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 163258.48,
+      "importes": [
+        {
+          "concepto": "Impermeabilización del patio de la planta baja de la Universidad Popular",
+          "eur": 37310.59,
+          "entidad": "Intagua Obras Públicas, S.L."
+        },
+        {
+          "concepto": "Habilitación de zona verde en la Piscina Municipal Cubierta",
+          "eur": 41049.25,
+          "entidad": "Quality Sport 2014, S.L."
+        },
+        {
+          "concepto": "Celosía cerámica en la fachada de la Sala de Lectura 'La Alameda'",
+          "eur": 37526.94,
+          "entidad": "Flexbrick, S.L."
+        },
+        {
+          "concepto": "Equipamiento de la Sala de Lectura Infantil 'La Alameda'",
+          "eur": 31119.29,
+          "entidad": "Fama Sofás, S.L.U."
+        },
+        {
+          "concepto": "Paneles fotovoltaicos para la Casa del Guarda del Monte Arabí",
+          "eur": 16252.41,
+          "entidad": "Primera Energía Renovables, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "542072D, 544928W, 550328W, 536563C, 570656D",
+      "lugar": "Universidad Popular; Piscina Municipal Cubierta; Sala de Lectura La Alameda; Casa del Guarda del Monte Arabí",
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "3.500 € al Yecla Club de Tenis por el Open Nacional Ciudad de Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reconoce la subvención nominativa de 3.500 € para el Open Nacional Ciudad de Yecla 'IX Memorial Juan Miguel Benedito Rodríguez', pero el pago queda condicionado a que el club corrija los justificantes defectuosos y complete la documentación antes del 31 de marzo de 2022.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "544929X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Pago de 3.000 € al Centro Tecnológico del Mueble por el Concurso de Diseño",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 3.000 € para la 25ª edición del Concurso Internacional de Diseño Industrial.",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "566258W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Carrera profesional: subida de grado a empleados, incluidos interinos y temporales",
+      "categoria": "personal",
+      "resumen": "Se resuelve la convocatoria extraordinaria del concurso de integración en la carrera profesional horizontal, abierta también a interinos y laborales no fijos tras el cambio aprobado por el Pleno en septiembre. Se reconoce a una lista de empleados uno o más niveles de grado personal con efectos económicos desde enero de 2020, se deniega a otros seis y se aprueba un gasto de 39.402,02 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 39402.02,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538227N, 274539E, 563134F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Carrera profesional: resuelto el concurso anual 2020 de subida de nivel",
+      "categoria": "personal",
+      "resumen": "Se resuelven las convocatorias ordinaria y extraordinaria del concurso anual 2020: varios empleados suben un nivel de grado personal con efectos económicos desde enero de 2021, a otros se les deniega y se aprueba un gasto de 12.517,82 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12517.82,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492371Z, 568408F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Convocado el concurso anual 2021 de carrera profesional",
+      "categoria": "personal",
+      "resumen": "Se convoca el concurso anual 2021 para que funcionarios y laborales, fijos o no, puedan subir un nivel de grado personal; plazo de 20 días y efectos económicos desde enero de 2022 si lo permite el presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572202A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Horas de menos por el cuadrante COVID de 2020 compensadas con cursos (Policía Local)",
+      "categoria": "personal",
+      "resumen": "A una empleada de la Policía Local se le dan por compensadas con cursos de formación las 57 horas que trabajó de menos en 2020 por el cuadrante especial COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "565067O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Otra compensación de horas del cuadrante COVID con cursos (Policía Local)",
+      "categoria": "personal",
+      "resumen": "A un empleado se le dan por compensadas con cursos las 29 horas que trabajó de menos en 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572553N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Ayudas de 2021 a las AMPA de colegios, institutos y escuelas infantiles",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 1.025 € a cada una de las 14 AMPA de colegios e institutos, 150 € a cada una de las 4 de escuelas infantiles y 600 € a la del Centro de Atención Temprana; se deniega la del CP Alfonso X el Sabio por presentarla fuera de plazo. Se dan por justificadas y se pagan.",
+      "entidades": [
+        {
+          "nombre": "AMPA de los colegios e institutos de Yecla (14)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPA de las escuelas infantiles La Alameda, Pulgarcito, El Perro Loco y Campanilla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPA del Centro de Atención Temprana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPA del CP Alfonso X el Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "denegada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15550.0,
+      "importes": [
+        {
+          "concepto": "1.025 € a cada AMPA: San Francisco de Asís, Las Herratillas, Méndez Núñez, La Paz, La Inmaculada, Giner de los Ríos, Miguel Ortuño, La Pedrera, El Alba, San José de Calasanz, CEE Virgen de la Esperanza, IES Castillo Puche, IES Azorín e IES Felipe VI",
+          "eur": 14350.0,
+          "entidad": "AMPA de los colegios e institutos de Yecla (14)"
+        },
+        {
+          "concepto": "150 € a cada AMPA de escuela infantil (4)",
+          "eur": 600.0,
+          "entidad": "AMPA de las escuelas infantiles La Alameda, Pulgarcito, El Perro Loco y Campanilla"
+        },
+        {
+          "concepto": "AMPA del Centro de Atención Temprana",
+          "eur": 600.0,
+          "entidad": "AMPA del Centro de Atención Temprana"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "551982R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Ayudas al comercio local para ASOCOMY y la Asociación de Peluqueras",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 8.000 € a la Asociación de Comerciantes de Yecla y 3.820,56 € a la Asociación de Peluqueras de Yecla para sus programas de fomento del comercio; se pagarán tras justificar.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Peluqueras de Yecla (APY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11820.56,
+      "importes": [
+        {
+          "concepto": "Programa de fomento del comercio local 2021",
+          "eur": 8000.0,
+          "entidad": "Asociación de Comerciantes de Yecla (ASOCOMY)"
+        },
+        {
+          "concepto": "Programa de fomento del comercio local 2021",
+          "eur": 3820.56,
+          "entidad": "Asociación de Peluqueras de Yecla (APY)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "559821E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Alegaciones de Yecla a los nuevos planes hidrológicos y de inundaciones del Segura y del Júcar",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba el informe de la arquitecta municipal y se envía como alegaciones a las confederaciones del Segura y del Júcar sobre las propuestas de plan hidrológico, plan de gestión del riesgo de inundación y su estudio ambiental.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe alegaciones"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Júcar",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe alegaciones"
+        },
+        {
+          "nombre": "Dirección General del Agua (Ministerio para la Transición Ecológica)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "446085N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Rechazadas cinco facturas de Véctoris por el mantenimiento deportivo con el contrato vencido",
+      "categoria": "contrato",
+      "resumen": "Véctoris sigue con el mantenimiento, limpieza y atención de las instalaciones deportivas desde mayo por orden municipal mientras se licita un nuevo contrato. Se suspende el pago y se rechazan sus facturas de junio a octubre (132.664,07 €) y se abre un expediente de responsabilidad patrimonial por enriquecimiento injusto para compensarla, previa valoración técnica.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 132664.07,
+      "importes": [
+        {
+          "concepto": "Coste real del servicio de junio",
+          "eur": 27043.45,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Coste real del servicio de julio",
+          "eur": 22133.08,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Coste real del servicio de agosto",
+          "eur": 21280.55,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Coste real del servicio de septiembre",
+          "eur": 26566.21,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Coste real del servicio de octubre",
+          "eur": 35640.78,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "508989E",
+      "lugar": "Instalaciones deportivas municipales",
+      "interes": 3
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Contratado un capataz forestal para mejorar espacios naturales (plan de empleo)",
+      "categoria": "personal",
+      "resumen": "Se contrata desde el 30 de diciembre a un capataz forestal para el proyecto 'Mejora de espacios públicos de interés ambiental 2021', subvencionado por el SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511907H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Contratados tres peones forestales (plan de empleo)",
+      "categoria": "personal",
+      "resumen": "Se contratan desde el 30 de diciembre tres peones forestales para el mismo proyecto ambiental subvencionado por el SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511907H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Contratado un técnico de museo para la Casa de Cultura (plan de empleo)",
+      "categoria": "personal",
+      "resumen": "Se contrata desde el 30 de diciembre a un técnico de museo para el plan de empleo de la Casa Municipal de Cultura, subvencionado por el SEF, y se aprueba una lista de suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512364R",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Contratado un auxiliar de museo para la Casa de Cultura (plan de empleo)",
+      "categoria": "personal",
+      "resumen": "Se contrata desde el 30 de diciembre a un auxiliar de museo para el mismo plan de empleo y se aprueba la lista de suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512364R",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Contrato de servicios técnicos para el encendido de Navidad 2021",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de servicios generales, técnicos e infraestructura del encendido navideño.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6655.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572273J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Exposición de Playmobil en la Iglesia de San Francisco por Navidad",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de diseño y montaje de una exposición de Playmobil del 21 de diciembre al 15 de enero.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14520.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572583E",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Concierto de Año Nuevo 2022 en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el concierto de Año Nuevo del 2 de enero de 2022 al Festival Internacional Andrés Segovia.",
+      "entidades": [
+        {
+          "nombre": "Festival Internacional Andrés Segovia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572673E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Contratado el musical 'El Origen del Hielo, Tributo a Frozen'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el musical del 3 de enero de 2022 en el Teatro Concha Segura a Espectáculos Lorca Naiboa.",
+      "entidades": [
+        {
+          "nombre": "Espectáculos Lorca Naiboa, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7502.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "573002M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Organización y precio de las entradas del musical tributo a Frozen (6 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar el espectáculo del 3 de enero con un caché de 7.502 € y entrada única de 6 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7502.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.11",
+      "titulo": "Fiestas de Reyes 2022: programa y presupuesto de 75.050 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban el programa y el presupuesto de las Fiestas de Reyes del 4 al 6 de enero (75.050,25 €) y los precios de los paquetes de la Cabalgata (3 € el pequeño y 5 € el grande), que cobrará la programadora de Festejos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 75050.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "570369E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.12",
+      "titulo": "Ayudas COVID a bares, restaurantes, hoteles y agencias de viajes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden las ayudas para paliar los efectos de la pandemia a los negocios de hostelería, ocio nocturno, salones de celebraciones, alojamientos, guías y agencias de viajes de la lista del expediente; el pago depende de acreditar los requisitos. El acta no da importes ni nombres.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "560187N, 569775E, 569970A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.13",
+      "titulo": "Ayudas COVID a las microempresas del comercio minorista",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden las ayudas por la pandemia a los pequeños comercios (hasta 9 trabajadores) de la lista del expediente, una por negocio; el pago depende de acreditar los requisitos. El acta no da importes ni nombres.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "560559E, 572297H, 572347C, 572361X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.14",
+      "titulo": "113.000 € a 15 clubes deportivos y 15.000 € en becas a deportistas",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reparten 113.000 € entre 15 clubes y asociaciones deportivas (las mayores, EF Ciudad de Yecla, Red Deportiva Yecla, S.D. Hispania y Yecla CF) y 15.000 € en 29 becas de 300 a 1.400 € a deportistas no profesionales. Se deniega la solicitud del Yecla Club de Tenis y las de seis deportistas.",
+      "entidades": [
+        {
+          "nombre": "EF Ciudad de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Sociedad Deportiva Hispania",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Yecla CF",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Natación Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Centro Excursionista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Montañero Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Taekwondo Yecla Jin",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "CTM Altiplano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "denegada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 128000.0,
+      "importes": [
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 20650.0,
+          "entidad": "EF Ciudad de Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 13704.0,
+          "entidad": "Red Deportiva Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 13055.0,
+          "entidad": "Sociedad Deportiva Hispania"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 12836.0,
+          "entidad": "Yecla CF"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 7860.0,
+          "entidad": "Asociación Deportiva Albatros Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 7750.0,
+          "entidad": "Agrupación Deportiva de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 7000.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 6950.0,
+          "entidad": "Club Natación Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 6250.0,
+          "entidad": "Club Gimnasia Rítmica Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 6000.0,
+          "entidad": "Centro Excursionista Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 3000.0,
+          "entidad": "Club Montañero Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 2900.0,
+          "entidad": "Club Taekwondo Yecla Jin"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 2710.0,
+          "entidad": "No Hay Límite Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 2110.0,
+          "entidad": "Club Fondistas Yecla"
+        },
+        {
+          "concepto": "Subvención deportiva 2021",
+          "eur": 225.0,
+          "entidad": "CTM Altiplano"
+        },
+        {
+          "concepto": "29 becas a deportistas no profesionales (de 300 a 1.400 €)",
+          "eur": 15000.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "546620W",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

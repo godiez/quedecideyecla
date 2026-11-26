@@ -1,0 +1,393 @@
+{
+  "doc": "2026-09-15_JGL_46",
+  "organo": "JGL",
+  "sesion": 46,
+  "fecha": "2026-09-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 18,
+  "resumen": "La Junta pagó facturas por unos 269.000 euros (basuras, limpieza de edificios, autobús urbano y asfaltado de la Avenida del Vino). Firmó un convenio con el Yecla Club de Tenis para el Open Internacional Femenino, con hasta 15.000 euros de aportación municipal, y pidió a la Comunidad Autónoma 48.916 euros para los equipos de atención a la infancia. También autorizó varios torneos y actividades de la Feria.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de actas anteriores (8 y 11 de septiembre)",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones de 8 y 11 de septiembre de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: la CARM concede subvención de turismo SICTED",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se informa de la orden de la Consejería de Turismo, Cultura y Deportes que concede y paga subvenciones a destinos adheridos al sistema de calidad turística SICTED en 2026 (no se indica importe).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1347611H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: basuras, limpieza, autobús urbano, asfaltado",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba el pago de cinco facturas de servicios y obras municipales, entre ellas el tratamiento de residuos de julio y el reasfaltado de tramos de la Avenida del Vino.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cebreados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 269050.41,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, julio 2026",
+          "eur": 118177.62,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, agosto 2026",
+          "eur": 62491.71,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Concesión del transporte urbano en autobús, agosto 2026",
+          "eur": 29554.7,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Suministro de dispensador de microesfera de vidrio y carro hidráulico (señalización vial)",
+          "eur": 10863.86,
+          "entidad": "Cebreados, S.L."
+        },
+        {
+          "concepto": "Reasfaltado de tramos de la Avda. del Vino e isleta",
+          "eur": 47962.52,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 1132021C, 1174853Q, 1312070W, 1331315Z",
+      "lugar": "Avda. del Vino",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratar un/a limpiador/a de la bolsa para sustituir una baja en el CEIP La Paz",
+      "categoria": "personal",
+      "resumen": "Se contrata a la siguiente persona de la bolsa de empleo de limpieza para cubrir la baja médica de una limpiadora del colegio La Paz.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346724A",
+      "lugar": "CEIP La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Bolsa de empleo transitoria de Abogado/a para Servicios Sociales/OMIC",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF al menos 15 candidatos y se aprueban las bases y el tribunal para crear una bolsa temporal de abogado/a por concurso de méritos, con inicio previsto el 1 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346457E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Renuncia de la jefa interina de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una técnica interina (jefa de Gestión Tributaria) que pasa a funcionaria de carrera en el Ayuntamiento de Alicante; sigue en la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346771Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Denegado espejo de tráfico pedido por una vecina para salir de su cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega instalar un espejo en la vía pública porque la Policía Local considera que hay visibilidad suficiente; podría ponerlo la solicitante a su costa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1334130J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Traslado de un contenedor de basura por un vado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reubica un contenedor de orgánico a petición de una vecina que ha pedido vado; se comunica a la concesionaria de recogida de residuos.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1336281X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Sala del Edificio Bioclimático para la Asociación No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala el 22 de septiembre para un taller de la escuela de padres de la asociación.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346976A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Torneo de ajedrez de la Feria: autorización y pabellón gratis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Ajedrez Municipal Yeclano el LIII Torneo Feria de Yecla (19 de septiembre) con uso gratuito del pabellón valorado en 366,80 euros.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 366.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1327409Z",
+      "lugar": "Pabellón María José Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Torneo de voleibol de la Feria: autorización y uso gratuito de instalación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Red Deportiva Yecla el Torneo de Voleibol (19 de septiembre) con uso gratuito de la Sala Escolar Las Herratillas valorado en 366,80 euros; las 12 Horas de Baloncesto se aplazan a petición del club.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 366.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1308927E",
+      "lugar": "Sala Escolar Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Bases para adjudicar el bar del Mercado Central en «Yecla con Sentido 2026»",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases del contrato menor del servicio de bar en el Mercado Central durante el evento, del 25 de septiembre al 3 de octubre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347734D",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Exposición fotográfica de AYAC en la Calle del Niño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de afectados de cáncer AYAC a usar la Calle del Niño para su exposición «Historias de Vida» del 22 de septiembre al 4 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347327N",
+      "lugar": "Calle del Niño",
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Uso del CEIP Alfonso X los viernes para entrenamientos deportivos escolares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar las instalaciones del colegio los viernes del curso 2026/27 para un equipo femenino y la Liga Escolar Albatros, corriendo con gastos y limpieza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347723N",
+      "lugar": "CEIP Alfonso X",
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Convenio con el Yecla Club de Tenis para el Open Internacional Femenino ITF-W50",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio para organizar el IV Open Internacional de Tenis Femenino (19-27 septiembre): el Ayuntamiento aporta recursos estimados en 18.000 euros y una aportación económica máxima de 15.000 euros.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Tenis",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15000.0,
+      "importes": [
+        {
+          "concepto": "Aportación económica municipal máxima",
+          "eur": 15000.0,
+          "entidad": "Yecla Club de Tenis"
+        },
+        {
+          "concepto": "Aportación de recursos municipales (estimada)",
+          "eur": 18000.0,
+          "entidad": "Yecla Club de Tenis"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208110F",
+      "lugar": "Instalaciones del Yecla Club de Tenis",
+      "interes": 3
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Se piden 48.916 € a la CARM para equipos de atención a la infancia (LOPIVI)",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento manifiesta interés en una subvención de la Consejería de Política Social de 48.916,16 euros para reforzar los equipos de infancia y familia de Servicios Sociales, y 10.000 euros adicionales si sobran fondos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48916.16,
+      "importes": [
+        {
+          "concepto": "Manifestación de interés inicial",
+          "eur": 48916.16,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Interés adicional si hay remanentes",
+          "eur": 10000.0,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346088R",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

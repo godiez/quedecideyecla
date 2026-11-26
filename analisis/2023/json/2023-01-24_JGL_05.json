@@ -1,0 +1,718 @@
+{
+  "doc": "2023-01-24_JGL_05",
+  "organo": "JGL",
+  "sesion": 5,
+  "fecha": "2023-01-24",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno paga 49.115 euros de las dos primeras certificaciones de la remodelación del Mercado Central y aprueba la programación del Teatro Concha Segura de enero a mayo (91.862 euros en cachés) y el II Festival de Música de Cámara Juan Oliver Astorga (33.517 euros). Saca a licitación la reforma del Centro de Estimulación Temprana (73.932 euros) y el Plan de Igualdad (13.310 euros), convoca un concurso de méritos para 12 puestos de auxiliar administrativo y rescinde el contrato de la calefacción de biomasa del albergue del Ramblizo por retraso. También inadmite dos recursos contra las derramas de urbanización del sector Los Rosales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 17 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, del 17 de enero de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: pagos del SEF por cursos de formación para el empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de cinco resoluciones del Servicio Regional de Empleo y Formación (SEF) que liquidan o adelantan el pago de subvenciones al Ayuntamiento para cursos: atención sociosanitaria a personas dependientes, tapizado de mobiliario, formación para desempleados 2021, 'Yecla Potenciajoven 2022' y 'Yecla Integra 2022'. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "720279N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Certificaciones 1 y 2 de la remodelación del Mercado Central",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las dos primeras certificaciones de la obra de remodelación del Mercado Central, a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transfer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 49114.94,
+      "importes": [
+        {
+          "concepto": "Certificación nº 1, remodelación del Mercado Central",
+          "eur": 7324.24,
+          "entidad": "Guerola Transfer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 2, remodelación del Mercado Central",
+          "eur": 41790.7,
+          "entidad": "Guerola Transfer, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "3.2-3.6",
+      "titulo": "Rebaja del IBI por instalar placas solares (cinco solicitudes)",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) a cuatro particulares y una empresa por haber instalado placas solares de autoconsumo con una inversión de más de 6.000 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación (4 solicitudes)"
+        },
+        {
+          "nombre": "M.N.T., S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "720428W, 720501X, 720261N, 720549N, 720091C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir y reagrupar dos fincas en suelo urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos particulares licencia para segregar parte de dos fincas en suelo urbano (zona 2) y reagruparlas en dos parcelas nuevas de 205 y 343 m², ya que las porciones sueltas no cumplirían la parcela y fachada mínimas. En una de ellas hay una construcción fuera de ordenación.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641811E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia de segregación de una finca agrícola en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar tres parcelas de regadío (de unos 11.000-12.000 m² cada una) de una finca de viñedo y frutales de 11 hectáreas en suelo no urbanizable, sin construcciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577616W",
+      "lugar": "Polígono 116 (parcelas 56, 57, 198 y 199)",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia de segregación a Sociedad Agrícola Viñavista",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a Sociedad Agrícola Viñavista licencia para segregar una parcela de 11.422 m² de una finca de regadío de su propiedad en suelo no urbanizable, sin construcciones.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Agrícola Viñavista, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "665645H",
+      "lugar": "Polígono 69, parcela 29",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Más plazo a la Policía Local para disfrutar vacaciones de 2022",
+      "categoria": "personal",
+      "resumen": "Los policías locales podrán disfrutar hasta el 31 de marzo de 2023 las vacaciones y días de asuntos propios de 2022 que no pudieron coger porque los mandos dieron clase a la 44ª promoción de agentes de la Región.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719701K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Concurso de méritos para 12 puestos de auxiliar administrativo",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria del Concurso de Méritos 2023 para que funcionarios y laborales fijos ocupen 12 puestos de auxiliar administrativo (Policía Local, Escuelas Infantiles, Gestión Tributaria, Personal, Deportes, Recaudación, Registro, Cultura y Festejos, Casa de Cultura, Agencia de Desarrollo Local, Universidad Popular y Servicios Técnicos). Se aceptan alegaciones de CC.OO.",
+      "entidades": [
+        {
+          "nombre": "Sección Sindical de Comisiones Obreras",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "presenta alegaciones (estimadas)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718883Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Campaña publicitaria en el programa 'Oro Molío'",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Tabinf Producciones para una campaña publicitaria (Agencia de Desarrollo Local) en el programa de televisión 'Oro Molío'.",
+      "entidades": [
+        {
+          "nombre": "Tabinf Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6050.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718089X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Actividades de igualdad de género en colegios e institutos",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con una profesional particular para actividades de sensibilización y promoción de la igualdad de género en el ámbito educativo (Servicios Sociales).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10258.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "710002P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Actividad de Carnaval 2023 en el Edificio Bioclimático",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad juvenil de Carnaval en el salón de actos del Edificio Bioclimático el 17 de febrero de 2023, de 17:30 a 19:30.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721516F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "II Festival Internacional de Música de Cámara 'Juan Oliver Astorga'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del II Festival Internacional de Música de Cámara de Yecla 'Juan Oliver Astorga', de enero a noviembre de 2023, con un presupuesto de gastos de 33.517 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 33517.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718199Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Programación del Teatro Concha Segura de enero a mayo de 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban 22 actuaciones en el Teatro Concha Segura (teatro, musicales, conciertos, galas benéficas, carnaval y San Isidro), sus cachés (91.862 € en total, el mayor el concierto de Funambulista, 19.360 €) y los precios de las entradas (de 3 a 18 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 91862.0,
+      "importes": [
+        {
+          "concepto": "Entre copas",
+          "eur": 8712.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Villa y Marte",
+          "eur": 11979.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Viaje a Oz",
+          "eur": 6776.0,
+          "entidad": null
+        },
+        {
+          "concepto": "El desmoronamiento de la ternura",
+          "eur": 2722.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto de Funambulista, gira 'Animal'",
+          "eur": 19360.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Bodas de sangre",
+          "eur": 10220.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Adictos",
+          "eur": 8349.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Danza 'Cruz de guía'",
+          "eur": 3025.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Siempre Luis Miguel, tributo",
+          "eur": 3146.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto 10º aniversario Sintagma Piano Dúo",
+          "eur": 1331.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Bambi, príncipe del bosque",
+          "eur": 2722.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Musical Leah",
+          "eur": 8000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "La curva de la felicidad",
+          "eur": 4719.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Pséudolo, Caligae Teatro",
+          "eur": 800.0,
+          "entidad": "Caligae Teatro"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Inadmitido un recurso contra las derramas de urbanización de Los Rosales",
+      "categoria": "reclamaciones",
+      "resumen": "Un propietario recurrió las liquidaciones nº 1, 2 y 3 de la derrama de costes de urbanización del sector SUPR-6 'Los Rosales' alegando nulidad y prescripción. Se inadmite por fuera de plazo: en realidad recurre el acuerdo de la Asamblea de la Junta de Compensación de noviembre de 2021; además el Ayuntamiento explica que la deuda no está prescrita y que el cobro anticipado es posible.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recurrente"
+        },
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "giró las derramas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 'Los Rosales'",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Inadmitido otro recurso contra las derramas de urbanización de Los Rosales",
+      "categoria": "reclamaciones",
+      "resumen": "Recurso idéntico al anterior, de otra propietaria, contra las derramas 1, 2 y 3 del sector SUPR-6 'Los Rosales'. Se inadmite por los mismos motivos (fuera de plazo).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recurrente"
+        },
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "giró las derramas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 'Los Rosales'",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Baja de un puesto del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Un comerciante deja el puesto 11L del Mercado de San Cayetano (tiene ya el 10L) desde el 1 de febrero; se le devuelve la fianza y el puesto queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita la baja"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717718F",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Telefónica abre una zanja en el Camino de Abanilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Telefónica a abrir una zanja en el camino municipal de Abanilla para una canalización de telecomunicaciones, reponiendo después el firme; necesitará además declaración responsable urbanística y fianza.",
+      "entidades": [
+        {
+          "nombre": "Telefónica de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685402Y",
+      "lugar": "Camino de Abanilla (tramo de arquetas 145-146)",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Curso gratis de la Universidad Popular para una persona en riesgo social",
+      "categoria": "fiscal",
+      "resumen": "A propuesta de Servicios Sociales, se bonifica el 100% del precio del curso de 'Manualidades' de la Universidad Popular a una persona de una familia que vive de ayudas sociales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "718072Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Una auxiliar de la ADL hará temporalmente tareas de Tesorería",
+      "categoria": "personal",
+      "resumen": "Por la baja de la auxiliar de Tesorería, una auxiliar de la Agencia de Desarrollo Local que ya trabajó allí asume temporalmente sus tareas urgentes (cierre del ejercicio e ingresos del IAE con la Agencia Regional de Recaudación).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723773Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Contratación de un técnico de apoyo en la Escuela Infantil Pulgarcito",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un técnico de Educación Infantil (17,5 horas semanales) hasta final del curso 2022/23 en la Escuela Infantil Pulgarcito, por una baja y por la llegada de más niños.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723034P",
+      "lugar": "Escuela Infantil Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Licitación de la reforma y ampliación del Centro de Estimulación Temprana",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre procedimiento abierto simplificado para la obra de reforma y ampliación del Centro de Estimulación Temprana, con presupuesto de 73.931,67 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 73931.67,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698794Y (C.O. 11/22)",
+      "lugar": "Centro de Estimulación Temprana",
+      "interes": 3
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Licitación del Plan de Igualdad del Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "Se abre licitación para redactar y poner en marcha el Plan de Igualdad del Ayuntamiento, con precio base de 13.310 € (IVA incluido), repartido entre 2023 (6.644 €) y 2024 (6.666 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 13310.0,
+      "importes": [
+        {
+          "concepto": "Anualidad 2023",
+          "eur": 6644.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 6666.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687219X (C.SE. 17/2022)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Contrato de la obra de teatro 'Entre copas'",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con Tentación, S.A. para representar la obra 'Entre copas' en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Tentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8712.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722422P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Rescindido el contrato de la calefacción de biomasa del albergue del Ramblizo",
+      "categoria": "contrato",
+      "resumen": "Se resuelve el contrato menor (12.383,14 €, adjudicado en febrero de 2022 a un particular) para instalar calefacción con caldera de biomasa en la Casa Albergue del Ramblizo: debía hacerse en un mes y, meses después, solo estaba al 30%. El contratista había renunciado.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista (renuncia)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12383.14,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "579837E",
+      "lugar": "Casa Albergue Municipal, calle Ramblizo",
+      "interes": 2
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Dos becas de prácticas en la Casa de Cultura y el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan dos becas de 2023 para titulados (Historia, Arte, Documentación, Restauración...), una en la Casa Municipal de Cultura y otra en el Museo Arqueológico 'Cayetano de Mergelina', con un máximo de 6.000 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722708M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.9",
+      "titulo": "El Colectivo Siglo de Oro usa el Salón de Plenos para su asamblea",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colectivo Siglo de Oro de Yecla a usar el Salón de Plenos el 27 de enero de 2023 para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Colectivo Siglo de Oro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723314D",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "14.10",
+      "titulo": "Préstamo de 10 sillas a AFEMY para un taller",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se prestan 10 sillas con pala a la asociación AFEMY durante febrero de 2023 para un taller de competencias digitales para el empleo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión de mobiliario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723169C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.11",
+      "titulo": "Convenio de prácticas con el IES Hermanos Amorós de Villena",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio con el IES 'Hermanos Amorós' de Villena para que sus alumnos hagan prácticas en las Escuelas Infantiles Municipales.",
+      "entidades": [
+        {
+          "nombre": "IES Hermanos Amorós (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722981Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.12",
+      "titulo": "Apoyo a la carrera solidaria del CEIP Alfonso X el Sabio",
+      "categoria": "via_publica_eventos",
+      "resumen": "El Ayuntamiento presta material y 50 medallas sobrantes al CEIP Alfonso X el Sabio para una carrera solidaria a beneficio de Cáritas Interparroquial en el patio del colegio el 27 de enero.",
+      "entidades": [
+        {
+          "nombre": "CEIP Alfonso X el Sabio",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe colaboración municipal"
+        },
+        {
+          "nombre": "Cáritas Interparroquial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria de la carrera"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719075Q",
+      "lugar": "CEIP Alfonso X el Sabio",
+      "interes": 1
+    }
+  ]
+}

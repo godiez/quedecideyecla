@@ -1,0 +1,855 @@
+{
+  "doc": "2026-04-21_JGL_20",
+  "organo": "JGL",
+  "sesion": 20,
+  "fecha": "2026-04-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 57,
+  "resumen": "La Junta aprueba 51.715 € para las Fiestas de San Isidro, autoriza la feria y varios apartamentos turísticos en el centro, y deja encaminado el gran contrato de limpieza de edificios municipales a favor de Limcamar. Pide al IMAS cerrar dos semanas el Centro de Día Las Teresas para cambiar el suelo y reclama al Estado más medios por la regularización de inmigrantes. También cambia las reglas de las bolsas de empleo municipales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 14 de abril de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones recibidas: subvenciones de empleo, población y manifestación",
+      "categoria": "informacion",
+      "resumen": "Se informa del calendario laboral 2027, de las propuestas provisionales de subvención regional para Programas Experienciales de empleo (general y Garantía Juvenil), de la cifra de población propuesta por el INE a 1/1/2026 y de una concentración 'No a la Guerra' el 25 de abril.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede"
+        },
+        {
+          "nombre": "Instituto Nacional de Estadística",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Trabajo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1266053H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago del seguro de la flota de vehículos y de una obra de teatro",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan el seguro de los vehículos municipales (21.583,44 €) y la función teatral 'Inmaduros' (11.688,60 €).",
+      "entidades": [
+        {
+          "nombre": "Occident GCO, S.A.U. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33272.04,
+      "importes": [
+        {
+          "concepto": "Seguro de la flota de vehículos municipales jul. 2025-jul. 2026",
+          "eur": 21583.44,
+          "entidad": "Occident GCO, S.A.U. de Seguros y Reaseguros"
+        },
+        {
+          "concepto": "Representación teatral 'Inmaduros' 11/04/26",
+          "eur": 11688.6,
+          "entidad": "Pentación, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498615X, 1255291K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2-3.4",
+      "titulo": "Descuentos en IBI e ICIO por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede a particulares el 50% del IBI (2027-2031, máx. 100 €/año) y el 90% del impuesto de obras (ICIO) por instalar placas solares de autoconsumo en sus viviendas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264173X, 1130634A, 1207908A",
+      "lugar": "Parajes Sierra Salinas y La Pujola (diseminado)",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Recaudación de taquilla de 'Inmaduros'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la obra 'Inmaduros' en el Teatro Concha Segura: 7.203 € recaudados y baja de 2.289 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7203.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Presupuesto de las Fiestas de San Isidro 2026",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba un presupuesto de gastos de 51.715,40 € (IVA incluido) para las fiestas de San Isidro.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 51715.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1257101Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para construir una vivienda junto a la Cañada Real de los Serranos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (proyecto básico) para una vivienda aislada con garaje en suelo rústico; no podrá invadir la vía pecuaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "648559C",
+      "lugar": "Paraje Malacón, polígono 111",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para 7 apartamentos turísticos en calle Niño Jesús",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a la empresa adaptar una estructura existente para un edificio de 7 apartamentos turísticos; queda anulada la antigua licencia de 2007 para viviendas y debe completar la acera (fianzas de 1.110,34 € y 4.400 €).",
+      "entidades": [
+        {
+          "nombre": "Gestión Patrimonial La Libertad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Promociones Anjorain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular de licencia anulada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1049310A",
+      "lugar": "Calle Niño Jesús esquina calle Salsipuedes",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Legalización de la ampliación de una vivienda en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a particulares licencia para legalizar la ampliación de una vivienda unifamiliar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117647N",
+      "lugar": "Paraje Teatina, polígono 76",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para convertir dos viviendas en apartamentos turísticos en calle San José",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza rehabilitar dos viviendas de un edificio para destinarlas a apartamentos y estudios turísticos, que no podrán ser vivienda habitual.",
+      "entidades": [
+        {
+          "nombre": "Dismeca Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1150245N",
+      "lugar": "Calle San José",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para rehabilitar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para rehabilitar su vivienda en el casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167774J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6-4.7",
+      "titulo": "Permiso de inicio de obras de dos viviendas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza empezar las obras de una vivienda aislada en el paraje Quiñones y de una vivienda con local comercial en el casco urbano, ya con licencia previa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192498Y, 1197232Y",
+      "lugar": "Paraje Quiñones, polígono 115; casco urbano",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia para derribar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular demoler una vivienda entre medianeras, con desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1255556D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia de demolición para Banco de Sabadell",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza al banco demoler una vivienda unifamiliar de su propiedad en calle Olivo, en un plazo de 2 meses.",
+      "entidades": [
+        {
+          "nombre": "Banco de Sabadell, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258018Y",
+      "lugar": "Calle Olivo",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nuevas reglas para las bolsas de empleo municipales",
+      "categoria": "personal",
+      "resumen": "Se modifican las bases generales de las oposiciones para regular las bolsas de empleo temporal (orden fijo, llamadas por teléfono, causas de exclusión y renuncias justificadas), pactado con los sindicatos.",
+      "entidades": [
+        {
+          "nombre": "CC.OO.",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "negocia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043613N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nombramiento de un administrativo interino para Tesorería",
+      "categoria": "personal",
+      "resumen": "Se nombra un funcionario interino como Jefe de Negociado de Caja y Bancos, por un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1262442R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Bolsa subsidiaria de administrativos",
+      "categoria": "personal",
+      "resumen": "Se crea una segunda bolsa con 21 aspirantes que aprobaron algún examen de la oposición de administrativo, porque la bolsa actual se ha quedado corta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1267879T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso y ayuda por matrimonio a una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se concede permiso de 15 días y la ayuda por matrimonio de 258,01 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 258.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1257734D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Corrección de un error en la reserva de puesto de una trabajadora",
+      "categoria": "personal",
+      "resumen": "Se corrige una fecha errónea en el acuerdo de reserva de puesto de una técnico de educación infantil con incapacidad absoluta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1251026M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Material para el laboratorio de arqueología del castillo (Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se compran utensilios y materiales para el laboratorio de arqueología del proyecto 'El renacer de Yakka', con fondos europeos, por 16.171,95 €.",
+      "entidades": [
+        {
+          "nombre": "C.T.S. España y Productos y Equipos para la Restauración, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16171.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1254996A",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "7.1-7.2",
+      "titulo": "Terrazas de verano para los bares Crispeta y Los Pirrikis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan terrazas de 12 m² (calle Pau Casals) y 16 m² (calle Trinquete) del 1 de abril al 31 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Bar Crispeta",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Bar Los Pirrikis",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1247303Q, 1254223C",
+      "lugar": "Calles Pau Casals y Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Almuerzo popular en la calle San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un almuerzo vecinal el 3 de mayo con corte de calle y fianza de limpieza de 400 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241277X",
+      "lugar": "Calle San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Musiqueando 2026 en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la actividad de música escolar de once colegios e institutos el 30 de abril, con megafonía municipal.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "I.E.S. Azorín",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1253587T",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Nueva plaza de aparcamiento para discapacitados frente a ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una plaza reservada en calle Valencia frente a la nueva sede de Sepap-ADFY.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1202142R",
+      "lugar": "Calle Valencia",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Denegadas plazas para discapacitados en calle Corredera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechazan dos plazas reservadas en zona azul de la calle Corredera porque ya hay plazas cercanas y no son nominativas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1256896P",
+      "lugar": "Calle Corredera",
+      "interes": 1
+    },
+    {
+      "ref": "7.7-7.9",
+      "titulo": "Puestos solidarios e informativos en el mercado de la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC dos días de venta solidaria de manualidades y al Centro de Educación de Adultos cuatro días para informar de matrículas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Centro Público de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266556F, 1266563Q, 1267593X",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Atracciones y puestos de feria de San Isidro 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a 18 feriantes (particulares) a montar atracciones y puestos (coches de choque, churrería, hinchables...) con certificado técnico previo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240357T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Puesto de venta de caracoles junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se adjudica a una vecina un puesto de 2 m² de mayo a agosto por 80 € en total.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 80.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1253316R",
+      "lugar": "Aledaños del Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para el encuentro de coros del Colegio La Inmaculada",
+      "categoria": "fiscal",
+      "resumen": "Se cede el Auditorio el 22 de abril para el programa 'Cantemus' con reducción del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244151N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2-8.3",
+      "titulo": "Auditorio para una charla y una graduación (pagando)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Auditorio a las AMPAS del Colegio La Inmaculada (charla, 8 de mayo) y del IES José Luis Castillo Puche (graduación, 17 de junio), pagando 120 € cada una.",
+      "entidades": [
+        {
+          "nombre": "AMPA Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "AMPA IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1265843Q, 1266783X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sala del Centro de Emprendimiento para AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala el 9 de mayo para un curso de marcha nórdica.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1267449X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convenio de prácticas con el IES Antonio Navarro Santafé de Villena",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio para que alumnos hagan prácticas no remuneradas en el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. Antonio Navarro Santafé (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1267861T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Nueva adhesión al sistema de calidad turística SICTED",
+      "categoria": "convenio",
+      "resumen": "Yecla renueva su adhesión al programa SICTED de la Secretaría de Estado de Turismo, que ya distingue a 19 empresas locales.",
+      "entidades": [
+        {
+          "nombre": "Secretaría de Estado de Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1265309Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Cierre temporal del Centro de Día Las Teresas por obras en el suelo",
+      "categoria": "otros",
+      "resumen": "Se pide al IMAS cerrar el centro de día de mayores (44 plazas) del 18 al 29 de mayo para cambiar el suelo, que está levantado y provoca riesgo de caídas; se pide mantener la financiación, no cobrar el copago a los usuarios y se declara urgente la contratación de la obra.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza/financia"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta el servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1264621T",
+      "lugar": "Polígono Industrial Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Prácticas de una estudiante de FP en Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se autorizan 200 horas de prácticas no remuneradas de una alumna del IES Antonio Navarro Santafé.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. Antonio Navarro Santafé (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1267894P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Funciones temporales de Jefe de Servicios Públicos",
+      "categoria": "personal",
+      "resumen": "Se encargan temporalmente al ingeniero técnico industrial municipal las funciones de Jefe de Servicios Públicos hasta la jubilación del actual jefe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268300D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Reingreso de un conserje en el CEIP Herratillas",
+      "categoria": "personal",
+      "resumen": "Un trabajador vuelve a su puesto de conserje-operario en el CEIP Herratillas desde el 4 de mayo tras terminar su contrato en la Brigada de Obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268244A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Limpieza de edificios municipales: Limcamar, primera clasificada",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación del gran contrato de limpieza interior de edificios municipales (6 ofertas, 2 excluidas) y se pide a Limcamar la documentación previa a la adjudicación, con garantía de 89.816,93 € (5% del precio de dos años sin IVA, lo que supone unos 1,8 millones).",
+      "entidades": [
+        {
+          "nombre": "Limcamar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        },
+        {
+          "nombre": "Prourvis, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        },
+        {
+          "nombre": "Ilunion Limpieza y Medio Ambiente, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Garantía definitiva exigida (5% del precio de adjudicación por dos años sin IVA)",
+          "eur": 89816.93,
+          "entidad": "Limcamar, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1186575X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Copa Albatros 2026 en el Pabellón José Ortega Chumilla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el evento del 25 de abril y se cede gratis el pabellón, valorado en 386,80 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 386.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1262900D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Pruebas de atletismo en la pista Juan Palao Azorín",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autorizan dos jornadas de atletismo (26 de abril y 2 de mayo), con gastos municipales de 750,20 € y cesión gratuita de la pista valorada en 851 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1601.2,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 750.2,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones",
+          "eur": 851.0,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208940J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "El Ayuntamiento pide recursos al Estado por la regularización de inmigrantes",
+      "categoria": "otros",
+      "resumen": "Ante el aumento de trabajo en Servicios Sociales y Registro por la regularización extraordinaria de extranjeros (RD 316/2026), se pide a la Delegación del Gobierno más medios y se informa a la CARM y a la FEMP.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1269394Y",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

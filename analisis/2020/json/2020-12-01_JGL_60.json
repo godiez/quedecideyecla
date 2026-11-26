@@ -1,0 +1,596 @@
+{
+  "doc": "2020-12-01_JGL_60",
+  "organo": "JGL",
+  "sesion": 60,
+  "fecha": "2020-12-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 21,
+  "resumen": "La Junta de Gobierno adjudica por 109.142 euros el arreglo de parte del tejado de la Casa de Cultura y encarga a Aqualia renovar la red de agua de la calle San Ramón (17.796 euros). Apoya el interés público de ampliar la fábrica de colchones de Gomarco en suelo no urbanizable y rechaza la queja de una ITV por las multas a conductores de otras comunidades durante el cierre por Covid. También reparte 16.725 euros entre las AMPAs y deniega puestos de churros y castañas porque no hay Fiestas de la Virgen.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 24 y 27 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: canon de saneamiento de dos colegios y la normativa del ruido",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos resoluciones de la Entidad de Saneamiento y Depuración (ESAMUR) que modifican el canon de saneamiento de los colegios Miguel Ortuño y El Alba, y de un informe técnico municipal sobre un proyecto estatal de cambio en la evaluación del ruido ambiental.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "resuelve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "490178D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: informática y descuentos de agua a familias numerosas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento de equipos Cisco para 2021, máquinas multifunción del contrato de material informático y la diferencia de facturación del agua por la tarifa de familia numerosa del primer trimestre de 2020.",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Copimur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19956.93,
+      "importes": [
+        {
+          "concepto": "Mantenimiento de hardware Cisco 2021",
+          "eur": 6941.87,
+          "entidad": "Infomicro Comunicaciones, S.L."
+        },
+        {
+          "concepto": "Máquinas multifunción (lote 4, contrato de suministro de material informático C.SU. 3/20)",
+          "eur": 6860.7,
+          "entidad": "Copimur, S.L."
+        },
+        {
+          "concepto": "Diferencia de facturación primer bloque por familia numerosa, 1er trimestre 2020",
+          "eur": 3077.18,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Diferencia de facturación segundo bloque por familia numerosa, 1er trimestre 2020",
+          "eur": 3077.18,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486406P, 412135K, 484331H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Interés público para ampliar la fábrica de colchones de Gomarco en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se aprueban los informes del arquitecto municipal que acreditan que no hay parcelas industriales disponibles y se informa favorablemente el interés público de la ampliación de la nave de Gomarco Descanso para fabricar colchones; se envía a la Consejería de Fomento para que la autorice.",
+      "entidades": [
+        {
+          "nombre": "Gomarco Descanso, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "S.N.U. 3/2017; 314639T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Se disuelve la Junta de Compensación de la Zona 6 del suelo urbano",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se ratifica la disolución de la Junta de Compensación de la Unidad de Actuación de la Zona 6, porque ya terminó la urbanización y el Ayuntamiento la recibió de forma definitiva en junio de 2020.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación de la U.A. Zona 6 del Suelo Urbano",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "se disuelve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "458785C",
+      "lugar": "Unidad de Actuación Zona 6 del suelo urbano",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un capataz forestal y tres peones para mejorar espacios naturales",
+      "categoria": "personal",
+      "resumen": "Se pide al Servicio de Empleo una oferta genérica para contratar seis meses a un forestal-capataz y tres peones en el programa de Empleo Público Local 'Mejora de espacios públicos de interés ambiental de Yecla 2020', subvencionado por el SEF y el Fondo Social Europeo; se nombra la comisión de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475850D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Un agente de la Policía Local pasa a segunda actividad por edad",
+      "categoria": "personal",
+      "resumen": "Se aprueba el pase a segunda actividad de un agente que cumple 59 años; pasa a atención al ciudadano en la Casa Consistorial con las mismas retribuciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479806Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Teletrabajo un día a la semana para un auxiliar de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se autoriza teletrabajo los martes a un auxiliar administrativo por pertenecer a un grupo vulnerable al Covid-19, sin derechos económicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489920W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Teletrabajo un día a la semana para una auxiliar de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se autoriza teletrabajo los jueves a una auxiliar administrativa por conciliación familiar, en el marco del Covid-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489920W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Construcciones Enciso y José arreglará parte del tejado de la Casa de Cultura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto simplificado la obra de sustitución parcial de la cubierta de la Casa de Cultura (C.O. 3/20) a la única empresa licitadora, por 90.200 € más IVA.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 109142.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R",
+      "lugar": "Casa de Cultura",
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Denegado un puesto de chocolate y churros por el Covid",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino un remolque de churros en la calle San Antonio del 6 al 8 de diciembre porque no hay Fiestas de la Virgen y Yecla tiene la mayor incidencia de Covid-19 de la Región.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "489112Y",
+      "lugar": "calle de San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Se reponen los espejos rotos de un cruce del camino de la Boca del Cántaro",
+      "categoria": "via_publica_eventos",
+      "resumen": "A queja de una vecina, y con informe de la Policía Local, se reponen los espejos de visibilidad de un cruce muy transitado en una zona de viviendas en suelo rústico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489411N",
+      "lugar": "camino de la Boca del Cántaro",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Nuevo paso de cebra en la calle Obispo Roque Carpena a petición de IU-Verdes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se atiende la petición del grupo municipal IU-Verdes y se habilita un paso de peatones en la calle Obispo Roque Carpena hacia la plaza García Lorca.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488447P",
+      "lugar": "calle Obispo Roque Carpena",
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de invierno para el 'Restaurante Azorín'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza en la calle Molino de noviembre de 2020 a marzo de 2021, en las mismas condiciones que en verano.",
+      "entidades": [
+        {
+          "nombre": "Restaurante Azorín (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488755C",
+      "lugar": "calle Molino",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Yecla se adhiere al Carné Joven Europeo",
+      "categoria": "convenio",
+      "resumen": "La Concejalía de Juventud se adhiere al programa Carné Joven Europeo; los descuentos se fijarán en cada actividad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489166Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Rechazada la queja de la ITV por las multas a conductores de otras comunidades",
+      "categoria": "reclamaciones",
+      "resumen": "Mecod Proyecta, titular de una estación de ITV, pedía que la Policía Local dejara de multar a personas de otras comunidades que venían a pasar la ITV durante el cierre perimetral por Covid. Se deniega: la Policía considera que esos viajes no están justificados porque tienen estaciones más cercanas, y actúa con instrucciones de su Comisario Jefe.",
+      "entidades": [
+        {
+          "nombre": "Mecod Proyecta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "reclama"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "488473K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Apertura especial del Mercado de San Cayetano el 6 de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de los placeros se autoriza abrir el mercado el festivo 6 de diciembre de 8 a 14 h y se contrata con TSI Levante la apertura, cierre y limpieza.",
+      "entidades": [
+        {
+          "nombre": "TSI Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490122A",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Aqualia renovará la red de agua de la calle San Ramón",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a FCC Aqualia, dentro del contrato del agua, renovar la tubería de la calle San Ramón entre Francisco Castaño e Infanta María Teresa.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17796.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489935Q",
+      "lugar": "calle San Ramón",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Bases de la VI Muestra de decoración navideña del comercio local",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban las bases y convocatoria para animar el comercio en Navidad, con un presupuesto de 1.200 €; inscripción del 2 al 11 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489969N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Ayudas a las AMPAs de colegios, institutos y escuelas infantiles (curso 2019/20)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 1.025 € a cada una de 15 AMPAs de colegios e institutos, 150 € a cada una de 5 de escuelas infantiles y 600 € a la del Centro de Atención Temprana, para gastos de funcionamiento y actividades.",
+      "entidades": [
+        {
+          "nombre": "AMPAs de 15 colegios e institutos de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPAs de 5 escuelas infantiles",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "AMPA del Centro de Atención Temprana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16725.0,
+      "importes": [
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA Colegio San Francisco de Asís"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP Las Herratillas"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP Méndez Núñez"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP La Paz"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA Colegio La Inmaculada"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP Giner de los Ríos"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP Miguel Ortuño"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP La Pedrera"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP Alfonso X el Sabio"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP El Alba"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA CEIP San José de Calasanz"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA Colegio de Educación Especial Virgen de la Esperanza"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA IES José Luis Castillo Puche"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA IES José Martínez Ruiz 'Azorín'"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 1025.0,
+          "entidad": "AMPA IES Felipe VI"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 150.0,
+          "entidad": "AMPA Escuela Infantil El Parque"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 150.0,
+          "entidad": "AMPA Escuela Infantil La Alameda"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 150.0,
+          "entidad": "AMPA Escuela Infantil Pulgarcito"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 150.0,
+          "entidad": "AMPA Escuela Infantil El Perro Loco"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 150.0,
+          "entidad": "AMPA Escuela Infantil Campanilla"
+        },
+        {
+          "concepto": "Subvención funcionamiento curso 2019/2020",
+          "eur": 600.0,
+          "entidad": "AMPA del Centro de Atención Temprana"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481601O",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Auditorio para la asamblea de la Asociación de Hostelería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 2 de diciembre para su asamblea extraordinaria, con aforo máximo de 30 personas y pago del precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Hostelería de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489999E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Terraza de invierno para el 'Café Bar Hadouken'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza en la calle San Antonio de noviembre de 2020 a marzo de 2021, en las mismas condiciones que en verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Hadouken (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488750W",
+      "lugar": "calle de San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Denegada la venta de juguetes y castañas en carritos por el Covid",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino vender juguetes y castañas del 4 al 9 de diciembre porque no hay Fiestas de la Virgen y la incidencia del Covid-19 es la más alta de la Región.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "489705X",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

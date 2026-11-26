@@ -1,0 +1,1140 @@
+{
+  "doc": "2025-09-02_JGL_49",
+  "organo": "JGL",
+  "sesion": 49,
+  "fecha": "2025-09-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 56,
+  "resumen": "La Junta de Gobierno paga 669.951 euros en facturas de julio (sobre todo basura, limpieza y jardines a Actúa) y acepta 485.007 euros de la Comunidad Autónoma para los Servicios Sociales. Prepara la Feria de septiembre: 70 atracciones y puestos, 48.654 euros de otros gastos, actividades de conciliación, un festejo taurino gratuito y un partido UCAM Murcia - Valencia Basket con 9.000 euros municipales. Autoriza a una ITV y a una campa de camiones a empezar obras, deja que el Yeclano B juegue en La Constitución y archiva la compra de parcelas junto a Los Torrejones. Rechaza un semáforo pedido por un AMPA y cortar una calle para el recreo de un colegio.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de seis actas de julio y agosto",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 29 y 31 de julio y del 14, 27, 28 y 29 de agosto de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: horario de cierre en Feria, anticipos del SEF, una sentencia y riego de calles",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden regional que alarga el horario de cierre de locales y fiestas los días 12, 13, 14, 19 y 20 de septiembre; de dos anticipos de subvención del SEF para cursos (habilitación docente en FP e Inglés B2); de una sentencia firme del Juzgado de lo Contencioso nº 7 sobre personal (P.A. 439/2023), y de un informe del jefe de Servicios Públicos sobre la limpieza viaria con agua potable.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza ampliación de horario"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1136742J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza, instalaciones deportivas, jardines, centro de día y autobús",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 13 facturas de julio, sobre todo los grandes contratos de servicios: recogida de basura y limpieza viaria y jardines (Actúa), mantenimiento de instalaciones deportivas (Véctoris), Centro de Día, autobús urbano, escuelas de vacaciones, socorrismo y varios trabajos del Plan de Sostenibilidad Turística.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Spai Innovas Astigitas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Bernini Viajes, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 669950.91,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, julio 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, recogida selectiva y limpieza viaria, julio 2025",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil 'El Parque', junio 2025",
+          "eur": 7059.76,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, julio 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, julio 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Autobuses urbanos, julio 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Escuelas Municipales de Vacaciones 2024/25 y 2025/26",
+          "eur": 17842.18,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, julio 2025",
+          "eur": 16422.73,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Informe diagnóstico de Yecla como destino turístico inteligente (PSTD 'Yecla ES+', Next Generation EU)",
+          "eur": 17833.29,
+          "entidad": "Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M.P. (SEGITTUR)"
+        },
+        {
+          "concepto": "Proyecto de musealización del Centro Enoturístico (PSTD 'Yecla es +', Next Generation EU)",
+          "eur": 7804.5,
+          "entidad": "Rocamora Diseño y Arquitectura, S.L.P."
+        },
+        {
+          "concepto": "Programa SPAI SICAL, 1º y 2º trimestre 2025",
+          "eur": 8433.92,
+          "entidad": "Spai Innovas Astigitas, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables en Escuelas Infantiles Municipales 0-3 años, julio-diciembre 2025",
+          "eur": 6043.95,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alojamiento en Almansa de la Banda Real de los Países Bajos (Verano en Danza 2025)",
+          "eur": 7500.0,
+          "entidad": "Bernini Viajes, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 712712D, 607446A, 777199T, 836272P, 841943Q, 931170R, 941685X, 980839C, 1020920W, 1091562J, 1120359E, 1121881T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones a cero del Mercado Central y de los Baños Árabes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las certificaciones nº 27 y 28 de la remodelación del Mercado Central (Guerola Transer) y la nº 1 de la fase I de los Baños Árabes de Los Torrejones (Galán e Hijos), todas por 0,00 € (sin obra que pagar en el periodo).",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 0.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 1042512J",
+      "lugar": "Mercado Central; yacimiento de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino la bonificación del 50% del IBI por placas solares porque la instalación (4.685,95 €) no llega a la inversión mínima de 6.000 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "807010Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda (2026-2030)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI durante cinco años (2026-2030), con un máximo de 100 € al año, por una instalación fotovoltaica de 10 kW (6.618,20 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1129648F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 50% del IBI por placas solares en otra vivienda (2026-2030)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino, a través de la instaladora Malvarruiz Soluciones Termosolares, S.L., la bonificación del 50% del IBI de 2026 a 2030 (máx. 100 €/año) por una instalación de 5,75 kW (7.347,11 €).",
+      "entidades": [
+        {
+          "nombre": "Malvarruiz Soluciones Termosolares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1111053E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 90% del ICIO por las mismas placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede al mismo vecino la bonificación del 90% del impuesto de obras (ICIO) por la instalación fotovoltaica de autoconsumo.",
+      "entidades": [
+        {
+          "nombre": "Malvarruiz Soluciones Termosolares, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1111053E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Taquilla del espectáculo 'Ballerina' (una academia de baile local): 2.646 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 2.646 € en entradas del espectáculo de una academia de baile local en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (9.762 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "academia de baile (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 2646.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Taquilla del espectáculo 'Luz entre sombras' (Academia de Baile Crearte): 2.778 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 2.778 € en entradas del espectáculo de la Academia de Baile Crearte en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (9.630 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Crearte",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2778.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Taquilla del espectáculo 'Noche en el Museo' (Academia de Baile Lucasport): 4.500 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 4.500 € en entradas del espectáculo de la Academia de Baile Lucasport en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (7.908 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Lucasport",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Taquilla del espectáculo 'Preparados, listos… ya' (Academia de Baile Endanza): 2.736 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 2.736 € en entradas del espectáculo de la Academia de Baile Endanza en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (9.672 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Endanza",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2736.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.11",
+      "titulo": "Taquilla del espectáculo 'Teka' (Academia de Baile Infinity): 2.688 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 2.688 € en entradas del espectáculo de la Academia de Baile Infinity en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (9.720 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Infinity",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2688.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.12",
+      "titulo": "Taquilla del espectáculo 'Re Cap… 10 años' (Academia de Baile Paso a Paso): 2.340 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 2.340 € en entradas del espectáculo de la Academia de Baile Paso a Paso en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (10.068 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Paso a Paso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2340.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.13",
+      "titulo": "Taquilla del espectáculo 'El Legado del tiempo' (Academia de Baile Cris Dance): 9.960 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 9.960 € en entradas del espectáculo de la Academia de Baile Cris Dance en la Plaza de Toros (venta por Instant Ticket) y la baja de las entradas no vendidas (2.448 € de 12.408 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Cris Dance",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9960.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.14",
+      "titulo": "Taquilla del concierto de la Banda Sinfónica AAMY y la Banda Real de Holanda: 5.904 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de 5.904 € en entradas del concierto en la Plaza de Toros (23 de julio) y la baja de las no vendidas (10.640 € de 16.544 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Banda Sinfónica AAMY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        },
+        {
+          "nombre": "Banda Real de los Países Bajos",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5904.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103515K",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.15",
+      "titulo": "Otros gastos de la Feria de Yecla 2025: 48.654 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba un presupuesto de 48.654,10 € IVA incluido para otros gastos de la Feria de septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 48654.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103228M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Una obra de vivienda no puede empezar: renuncia la arquitecta y faltan impuesto y fianza",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de la renuncia de la directora de obra de una vivienda entre medianeras (licencia 590/2023) y se avisa al promotor de que no puede empezar hasta nombrar otra dirección, pagar el ICIO y depositar la fianza; si empieza, se abrirá expediente de infracción.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "823066Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar una vivienda aislada con garaje y piscina en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de obras de una vivienda unifamiliar aislada con garaje y piscina (licencia 819/2024) conforme al proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1019069Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Itevemur puede empezar a construir una nave para una ITV en la Avenida Juan Carlos I",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de una nave industrial para centro de inspección técnica de vehículos (licencia 840/2024), previa presentación de fianzas.",
+      "entidades": [
+        {
+          "nombre": "Itevemur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1031973X",
+      "lugar": "Avenida Juan Carlos I, 63",
+      "interes": 3
+    },
+    {
+      "ref": "4.4",
+      "titulo": "López Montes Logística puede preparar una campa provisional de camiones en la carretera de Pinoso",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza el inicio de obras de movimiento de tierras y vallado para un uso provisional de campa de camiones (licencia 204/2025); debe inscribir el carácter provisional en el Registro y depositar 2.635,52 € para garantizar que el terreno vuelva a su estado.",
+      "entidades": [
+        {
+          "nombre": "López Montes Logística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2635.52,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1073826A",
+      "lugar": "Carretera de Pinoso, km 3,75 (polígono 116, parcelas 58 y 59)",
+      "interes": 3
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Segregación de una finca agrícola en el paraje Quiñones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una vecina licencia para segregar 23.885 m² de una finca de regadío y secano en suelo no urbanizable; ambas partes cumplen la unidad mínima de cultivo. Deben dar de alta en Catastro una construcción de 36 m² y una piscina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043271N",
+      "lugar": "paraje Quiñones",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Segregación de una finca agrícola en el paraje Barranco Búho",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una vecina, a través de Neten Consultoría, S.L.L., licencia para segregar una parcela de olivar de regadío de 13.082 m² de una finca de 39.356 m² en suelo no urbanizable.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa a la solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1094183Z",
+      "lugar": "paraje Barranco Búho",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "El jefe de Contratación irá a un curso del INAP en Almería",
+      "categoria": "personal",
+      "resumen": "Se ordena al TAG jefe de Contratación y Patrimonio asistir a un curso sobre la Plataforma de Contratación del Sector Público (9, 10, 16 y 17 de octubre) y se pagan desplazamiento, alojamiento y dietas.",
+      "entidades": [
+        {
+          "nombre": "Instituto Nacional de Administración Pública (INAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953670R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Equipos de accesibilidad auditiva para turismo ('Yecla, accesible para ti')",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Confederación Impulsa Igualdad España, por 12.615,39 € IVA incluido, el suministro de mejoras de accesibilidad auditiva en turismo, financiado por la Consejería de Turismo.",
+      "entidades": [
+        {
+          "nombre": "Confederación Impulsa Igualdad España",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Dirección General de Competitividad y Calidad Turísticas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12615.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1129045T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Festejo taurino gratuito de la Escuela Taurina de Murcia en la Feria (13 de septiembre)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a la Escuela Taurina de Murcia 'El Toreo', por 5.000 € IVA incluido, un festejo con alumnos de la escuela y reses de Alvalle, con entrada gratuita y fianza de 1.000 €.",
+      "entidades": [
+        {
+          "nombre": "Escuela Taurina de Murcia 'El Toreo' (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110080D",
+      "lugar": "Plaza de Toros de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Autorizadas 70 atracciones y puestos de la Feria de Yecla 2025",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan 70 atracciones, casetas de tiro, tómbolas, puestos de comida y venta para la Feria, condicionadas al certificado de montaje visado. La mayoría son de feriantes particulares; entre las empresas figuran Almazán Events, Atracciones Ros y Tortosa, V.B. Grupo Atracciones y Bañuls Attraction Events.",
+      "entidades": [
+        {
+          "nombre": "Almazán Events, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Atracciones Ros y Tortosa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "V.B. Grupo Atracciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Bañuls Attraction Events",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103976A",
+      "lugar": "Recinto de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle Rogelio Azorín Navarro",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una plaza reservada en la confluencia de las calles Rogelio Azorín Navarro y Molino.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116843X",
+      "lugar": "Calle Rogelio Azorín Navarro con calle Molino",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Denegado un semáforo en el cruce de Játiva y Primero de Mayo pedido por el AMPA del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza el semáforo pedido por el AMPA por seguridad de los alumnos: la Policía Local dice que el cruce se acaba de reordenar, se quitó un paso de peatones y se llevará a los peatones al paso elevado de la puerta del instituto con una barandilla.",
+      "entidades": [
+        {
+          "nombre": "AMPA del IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1136790A",
+      "lugar": "Cruce de calle Játiva y calle Primero de Mayo",
+      "interes": 2
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Décimas Gachasmigas Populares en calle San José y Pascual Amat (26 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima el almuerzo popular para 3.000-4.000 personas, con fianza de 600 €, límite de 85 dB y consumo de alcohol en la calle como evento especial.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051626R",
+      "lugar": "Calles San José y Pascual Amat (Plaza de San Cayetano - calle Miguel Golf)",
+      "interes": 2
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegado cortar la calle Hijas de la Caridad para el recreo del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza que el colegio use la calle como patio de 1º de ESO porque hay viviendas con acceso, mucho tráfico y unas vallas provisionales no garantizan la seguridad de los alumnos.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1126677E",
+      "lugar": "Calle Hijas de la Caridad (de calle Juan Ortuño a calle Colón)",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Boda civil en la Casa Consistorial (15 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1137936R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para una charla de AYAC sobre salud masculina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 12 de noviembre con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120569X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Festival Nacional de Folclore 'Ciudad de Yecla' 2025: 12.804 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el programa y un presupuesto de 12.804,40 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12804.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1129757H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Actividades para niños en la Feria para conciliar (Plan Corresponsables): 11.185 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban actividades del 12 al 21 de septiembre para menores de 3 a 16 años, prioritariamente de familias monoparentales, víctimas de violencia de género, con discapacidad o en riesgo de exclusión, con un gasto de 11.184,80 € (subvención regional del Plan Corresponsables).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11184.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1140660A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Torneo de Petanca 'Ciudad de Yecla' (6 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Petanca Yecla el torneo en las pistas junto al Pabellón José Ortega Chumilla y terrenos del Edificio Bioclimático, con colaboración municipal en medios humanos y materiales.",
+      "entidades": [
+        {
+          "nombre": "Club Petanca Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1139839K",
+      "lugar": "Pistas de petanca junto al Pabellón José Ortega Chumilla y Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Presentación de la temporada de la A.D. Albatros con pabellón gratis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la presentación de los equipos y un partido amistoso el 6 de septiembre en el Pabellón José Ortega Chumilla, con uso gratuito valorado en 135,70 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 135.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121275C",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Archivado el expediente para comprar parcelas junto a Los Torrejones",
+      "categoria": "patrimonio",
+      "resumen": "Se declara caducado y se archiva el expediente por el que dos propietarias ofrecían vender por 121.707,13 € cuatro parcelas anexas al yacimiento de Los Torrejones: el Ayuntamiento las valoró a 1,98 €/m² y ellas no respondieron en tres meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "805155X",
+      "lugar": "Parcelas anexas al yacimiento arqueológico de Los Torrejones",
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Dos cursos para nuevos arcabuceros de las Fiestas de la Virgen",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de la Asociación de Mayordomos de la Purísima se aprueban dos ediciones del curso obligatorio de uso de armas de avancarga (27 de septiembre y 11 de octubre) en la Jefatura de la Policía Local, impartido por un comisario de la Policía Local en servicios especiales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide el curso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1137132A",
+      "lugar": "Jefatura de la Policía Local",
+      "interes": 2
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Yecla acepta 485.007 € de la CARM para los Servicios Sociales de 2025",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención nominativa de la Consejería de Política Social para mantener el Centro de Servicios Sociales de Atención Primaria y el Ayuntamiento se compromete a aportar el 25% (161.669 €), además de mantener 18 puestos mínimos de estructura; al menos 16.277,16 € irán a ayudas para necesidades básicas de familias.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 485007.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022437C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Contrato de un limpiador/a para cubrir una baja en el CEIP La Paz",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un limpiador/a para sustituir a la limpiadora del colegio mientras esté de baja.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1135801C",
+      "lugar": "CEIP La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Nombramiento interino de un educador/a social para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa a un educador/a social interino para sustituir a una trabajadora de baja por accidente laboral, cuyo puesto es obligatorio mantener por estar subvencionado por la CARM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1139435Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "'Batalla de Promesas' de jóvenes músicos en la Feria: 5.500 €",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Juventud organiza el 17 de septiembre un concurso de jóvenes talentos musicales con un presupuesto de 5.500 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1140610F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Salas del Edificio Bioclimático para el 'Campamento Digital' de la Fundación Cibervoluntarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de salas del 3 al 6 de septiembre para un campamento digital para niños y jóvenes de 9 a 17 años.",
+      "entidades": [
+        {
+          "nombre": "Fundación Cibervoluntarios",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1142173C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Fiestas de la Vendimia 2025 en el Parque de la Constitución y la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla la fiesta del 6 y 7 de septiembre con venta de bebidas alcohólicas como evento especial; el Ayuntamiento cede carpas, electricidad y contenedores. Fianza de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1132918Y",
+      "lugar": "Parque de la Constitución; Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "15.7",
+      "titulo": "El Yeclano B jugará en el campo de La Constitución tras subir a Tercera RFEF",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la presentación de los equipos del Yeclano Deportivo el 3 de septiembre y, de forma excepcional, que el filial juegue sus partidos de septiembre en el césped de La Constitución en las mismas condiciones que el primer equipo, porque el convenio de 2024 quedó desfasado con el ascenso. Se avisa al club de que debe pedir los usos con antelación.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121253X",
+      "lugar": "Campo Municipal de Deportes La Constitución",
+      "interes": 3
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Calendario de bajas e inscripciones de las actividades deportivas 2025/26",
+      "categoria": "servicios_actividades",
+      "resumen": "Las inscripciones del curso pasado se renuevan solas salvo baja (plazo hasta el 8 de septiembre); preinscripción del 10 al 18 de septiembre y comienzo de las actividades el 29 de septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1141278J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Uso provisional de las instalaciones deportivas por clubes y colegios hasta la convocatoria",
+      "categoria": "servicios_actividades",
+      "resumen": "Como aún no se ha convocado el reparto de horarios de las instalaciones deportivas de la temporada 2025/26, se autoriza provisionalmente a escuelas deportivas, clubes y centros docentes a empezar a usarlas; si luego no se aprueba la colaboración, pagarán el precio público.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1127682A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Partido de pretemporada UCAM Murcia - Valencia Basket en Yecla: 9.000 €",
+      "categoria": "servicios_actividades",
+      "resumen": "El Ayuntamiento organiza con la Red Deportiva Yecla, el UCAM Murcia y la Dirección General de Deportes el Torneo Costa Cálida - Memorial Francisco Peidró, partido amistoso de la Liga ACB el 7 de septiembre en el Pabellón José Ortega Chumilla, con una aportación municipal de 9.000 €.",
+      "entidades": [
+        {
+          "nombre": "UCAM Murcia",
+          "cif": null,
+          "tipo": "club",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Valencia Basket",
+          "cif": null,
+          "tipo": "club",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1124142J",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 3
+    }
+  ]
+}

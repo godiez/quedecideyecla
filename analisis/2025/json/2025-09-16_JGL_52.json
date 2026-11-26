@@ -1,0 +1,610 @@
+{
+  "doc": "2025-09-16_JGL_52",
+  "organo": "JGL",
+  "sesion": 52,
+  "fecha": "2025-09-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno compra una motoniveladora para arreglar caminos rurales por 114.950 euros y paga 107.854 euros a las empresas que gestionan las instalaciones deportivas y las jornadas de conciliación de julio. Aprueba el festival Jazz Yecla 2025 (62.826 euros), acepta una ayuda regional de 55.838 euros para reforzar los equipos de atención a la infancia y concede ayudas para libros escolares. También encarga el estudio de tráfico del nuevo Plan General (18.090 euros), asfalta dos calles (25.289 euros) y da licencia a Yeclasa para ampliar su nave de vidrio.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 9 y 12 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Pago de facturas: instalaciones deportivas y multideporte de conciliación",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento, limpieza y atención de las instalaciones deportivas municipales de agosto y las jornadas de multideporte de conciliación de julio (Plan Corresponsables).",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 107854.0,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas municipales, agosto 2025",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        },
+        {
+          "concepto": "Multideporte jornadas de conciliación, julio 2025 (Plan Corresponsables)",
+          "eur": 32158.48,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 941685X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia para rehabilitar y cambiar el uso de una vivienda en la calle San Pedro",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para el cambio de uso y la rehabilitación de una vivienda unifamiliar entre medianeras, con 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1040852D",
+      "lugar": "calle San Pedro",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para una nave industrial sin uso concreto en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia con proyecto básico para una nave industrial sin uso específico; para empezar debe presentar el proyecto de ejecución, el punto de enganche eléctrico y la comunicación a la Dirección General de Carreteras.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865646M",
+      "lugar": "Ctra. de Villena (RM-425), km 62,6",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para rehabilitar una vivienda en la calle España (con permiso de Patrimonio)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para rehabilitar una vivienda entre medianeras, cumpliendo las condiciones de la autorización de la Dirección General de Patrimonio Cultural de julio de 2025.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "985628D",
+      "lugar": "calle España",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Yeclasa podrá ampliar su nave de procesado de vidrio en la carretera de Valencia",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Yeclasa, S.L. para ampliar su nave industrial de procesado de vidrio. Mientras no se autorice el cambio de uso del agua (ahora agrícola), deberá abastecerse del depósito previsto en el proyecto, salvo para riego.",
+      "entidades": [
+        {
+          "nombre": "Yeclasa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015475H",
+      "lugar": "Ctra. de Valencia, km 100",
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Licencia para una vivienda aislada con aparcamiento en el paraje Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una vivienda unifamiliar aislada con fosa séptica impermeable y cumpliendo las normas de vertidos de los planes hidrológicos del Segura y del Júcar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1050107H",
+      "lugar": "paraje Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Promociones Inmobiliarias DDA,24 podrá derribar un edificio en la calle San José",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de derribo de un edificio entre medianeras con fianzas de 430,54 € (urbanización), 434,80 € (alumbrado y arbolado) y 387,69 € (mover un parquímetro), desratización previa, vallado del solar y plan de trabajo por posible amianto; 3 meses para terminar.",
+      "entidades": [
+        {
+          "nombre": "Promociones Inmobiliarias DDA,24, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1253.03,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de la urbanización",
+          "eur": 430.54,
+          "entidad": "Promociones Inmobiliarias DDA,24, S.L."
+        },
+        {
+          "concepto": "Fianza por cables de alumbrado público y plantación de árboles",
+          "eur": 434.8,
+          "entidad": "Promociones Inmobiliarias DDA,24, S.L."
+        },
+        {
+          "concepto": "Fianza por reubicación de parquímetro",
+          "eur": 387.69,
+          "entidad": "Promociones Inmobiliarias DDA,24, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110141N",
+      "lugar": "calle San José, 47",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de horario de una auxiliar administrativa para conciliar",
+      "categoria": "personal",
+      "resumen": "Se autoriza un horario adaptado a una auxiliar administrativa de Secretaría con una hija menor de 12 años, hasta mayo de 2029.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145836P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Reconocimiento de antigüedad a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se le reconoce 1 año y 9 días trabajados en el Ayuntamiento de Molina de Segura a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145839T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Un mantenedor de la Brigada de Obras se va al Ayuntamiento de Caudete",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia, desde el 21 de septiembre, de un mantenedor temporal que será funcionario en Caudete.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1146370F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Jubilación de una limpiadora municipal tras 34 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de su jubilación el 24 de septiembre y se le agradecen más de 34 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1147495T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Un policía local hará un curso sobre investigación de atropellos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente a asistir al curso de 30 horas de la Escuela de Formación de la Administración Pública regional (EFIAP) en Murcia, con hasta 40 € al año de gastos pagados.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1128290W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Otro policía local hará el mismo curso sobre atropellos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a otro agente a asistir al mismo curso de la EFIAP en las mismas condiciones.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1146325T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Desierto el concurso para comprar una furgoneta para la Brigada de Obras",
+      "categoria": "contrato",
+      "resumen": "Se declara desierta la compra de una furgoneta mixta de 5 plazas para la Brigada Municipal de Obras porque no se presentó ninguna empresa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1001051Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Asfaltado de las calles Doctor Antonio Ortega y Pío Baroja: 25.289 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor de obras a Alicaser, Obras y Servicios, S.L. para parchear y asfaltar tramos de estas dos calles.",
+      "entidades": [
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25289.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1144022W",
+      "lugar": "calles Doctor Antonio Ortega y Pío Baroja",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Estudio de tráfico y movilidad para la revisión del Plan General: 18.090 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Tema Ingeniería, S.L. un contrato menor de asistencia técnica para redactar el estudio de tráfico y movilidad ligado a la revisión del Plan General de Ordenación Urbana.",
+      "entidades": [
+        {
+          "nombre": "Tema Ingeniería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18089.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145911T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Salas del Edificio Bioclimático para las reuniones de la A.D. Albatros toda la temporada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros a usar el salón de actos y salas para reuniones con sus equipos durante la temporada 2025/26.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1146655C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Salón del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del salón de actos el 27 de septiembre para actividades de un club de lectura (lo pide una particular).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1147678Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Aula de la Naturaleza 'Coto Salinas' para el Club de Ciclismo Femenino Base VGT",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza del 19 al 21 de septiembre para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Club de Ciclismo Femenino Base VGT",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145533T",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Festival Jazz Yecla 2025: 62.826 euros y precios de las entradas",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el programa del Jazz Yecla (30 de septiembre a 4 de octubre), un presupuesto de 62.825,95 € y los precios: abono de 5 conciertos a 45 € (butacas y plateas) o 35 € (palcos, anfiteatro y general); entrada suelta a 10 € u 8 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 62825.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1141159T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Compra de una motoniveladora para arreglar caminos rurales: 114.950 euros",
+      "categoria": "contrato",
+      "resumen": "Asunto urgente: se adjudica a Emsa Maquinaria y Proyectos, S.L., única empresa presentada (60,83 de 100 puntos), el suministro de una motoniveladora para el servicio de conservación de caminos; la empresa se llevará la máquina vieja.",
+      "entidades": [
+        {
+          "nombre": "Emsa Maquinaria y Proyectos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 114950.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115954M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.2",
+      "titulo": "III Torneo de Baloncesto 3x3 de la Feria de Septiembre",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Deportes organiza el torneo el 20 de septiembre en el Pabellón José Ortega Chumilla, con un gasto municipal de 320 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 320.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1148236Y",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Simultánea de ajedrez de Feria y charla del Club de Ajedrez Municipal Yeclano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya la I Simultánea de Ajedrez en el paseo de la Avenida Pablo Picasso y una charla sobre los beneficios del ajedrez en el Edificio Bioclimático el 20 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1138230A",
+      "lugar": "Avenida Pablo Picasso; Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Torneo de voleibol y 12 Horas de Baloncesto de Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan el torneo de voleibol (20 de septiembre, sala escolar Las Herratillas) y las 12 Horas de Baloncesto (27 de septiembre, Pabellón José Ortega Chumilla), con uso gratuito de instalaciones valorado en 752,30 €.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 752.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1148258D",
+      "lugar": "Sala escolar Las Herratillas; Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Tirada de caza benéfica para AYAC en el campo de tiro de Los Castillarejos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Sociedad de Cazadores San Huberto una tirada de recorridos de caza en homenaje a un cazador local, a beneficio de la Asociación de Afectados de Cáncer, los días 20 y 21 de septiembre. La sociedad usa el campo de tiro municipal 'en precario': el convenio acabó en 2024 y la concesión de 1970 por 50 años ya venció; se prepara un nuevo convenio.",
+      "entidades": [
+        {
+          "nombre": "Sociedad de Cazadores San Huberto de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Federación de Caza de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1147790D",
+      "lugar": "Campo de Tiro de Los Castillarejos",
+      "interes": 2
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Ayudas para libros y material escolar del curso 2025/26",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas extraordinarias para libros y material escolar a los menores que figuran en el informe de Servicios Sociales. El acta no indica cuántos ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093097Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Ayuda regional de 55.838 euros para reforzar la atención a la infancia y la familia",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención nominativa de la Consejería de Política Social para implantar o reforzar los equipos de Atención a la Infancia y la Familia de los Servicios Sociales (ley de protección a la infancia LOPIVI) en 2025.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 55837.69,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1066549T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8.8",
+      "titulo": "El Grupo Folclórico Arabí podrá acceder a la Iglesia Vieja y a una capilla de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza su acceso a la Iglesia de la Asunción (Iglesia Vieja) el 20 de septiembre y a la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco en fecha a concretar.",
+      "entidades": [
+        {
+          "nombre": "Grupo Folclórico Arabí Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1149643C",
+      "lugar": "Iglesia de la Asunción (Iglesia Vieja); Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Plan de seguridad de la obra de la Iglesia Vieja como centro de visitantes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa adjudicataria de la rehabilitación de la Iglesia de la Asunción como centro de visitantes y mejora de la accesibilidad de su entorno (Plan de Sostenibilidad Turística 'Yecla ES+', fondos europeos vía ITREM).",
+      "entidades": [
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093901H",
+      "lugar": "Iglesia de la Asunción (Iglesia Vieja)",
+      "interes": 2
+    }
+  ]
+}

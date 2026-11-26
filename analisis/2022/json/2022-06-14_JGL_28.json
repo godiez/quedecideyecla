@@ -1,0 +1,953 @@
+{
+  "doc": "2022-06-14_JGL_28",
+  "organo": "JGL",
+  "sesion": 28,
+  "fecha": "2022-06-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 43,
+  "resumen": "La Junta de Gobierno paga 427.000 euros en facturas de los grandes servicios (basura, limpieza, autobús, polideportivos, jardines y Centro de Día) y acepta cuatro ayudas regionales con fondos europeos que suman 403.853 euros para proyectos sociales, entre ellos un piloto de 'housing first'. Aprueba el 'Verano en Danza 2022' (Taburete, Miguel Ríos, Mayumana) por casi 200.000 euros y vuelve a exigir a la CARM que arregle el drenaje de la carretera de Villena que inunda naves. También remite a la Junta de Compensación de Los Rosales los recursos de varios propietarios y concede salas, terrazas y permisos para eventos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 7 y 8 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: curso del SEF, granjas porcinas en Las Ramblas y una sentencia urbanística",
+      "categoria": "informacion",
+      "resumen": "Se informa de: el anticipo del Servicio Regional de Empleo y Formación para el curso 'Reparación de móviles'; la respuesta del Ayuntamiento de Montealegre del Castillo a la petición de Yecla de reunirse por las licencias de granjas porcinas en la finca 'Las Ramblas'; y una sentencia del Juzgado Contencioso nº 6 de Murcia que da parte de razón a tres vecinos contra una sanción urbanística municipal de 2021.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica acuerdo"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "637135K",
+      "lugar": "Finca Las Ramblas (Montealegre del Castillo)",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobús urbano y cobro de la tasa de basura",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban cuatro pagos: limpieza de edificios municipales de mayo, servicio de autobús urbano de mayo y dos pagos a Aqualia por cobrar los recibos de la tasa de basura de enero y abril.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 104959.97,
+      "importes": [
+        {
+          "concepto": "Cobro recibos tasa de basura (enero 2022)",
+          "eur": 13145.88,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Cobro recibos tasa de basura (abril 2022)",
+          "eur": 13160.25,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, mayo 2022",
+          "eur": 52514.97,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Autobuses urbanos, mayo 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577729C, 615610P, 118095X, 551537Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación de taquilla del musical 'Pinocho' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación del espectáculo del 4 de junio: 2.262 euros vendidos en taquilla y baja de 1.548 euros en entradas no vendidas (cargo inicial 3.810 euros).",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2262.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636645E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir una finca rústica de 14 hectáreas en Arabí y Casas del Olivar",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a tres particulares licencia para segregar una parcela de 99.580 m² de una finca agrupada de unos 140.000 m² en suelo no urbanizable (viña, almendros, pastos); las construcciones existentes quedan en la finca resto de 40.415 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "563078D",
+      "lugar": "Parajes Arabí y Casas del Olivar, polígono 10",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Los Rosales: el Ayuntamiento no es competente para un recurso contra el plan de pagos",
+      "categoria": "reclamaciones",
+      "resumen": "Una propietaria recurre en revisión el acuerdo de la Junta de Compensación del SUPR-6 'Los Rosales' que aprobó el presupuesto 2022 (2,6 millones) y las derramas para urbanizar. El Ayuntamiento se declara incompetente y envía el recurso a la Asamblea General de la Junta.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "recibe el recurso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Los Rosales: segundo recurso de revisión remitido a la Junta de Compensación",
+      "categoria": "reclamaciones",
+      "resumen": "Mismo caso que el anterior, por otra propietaria: el Ayuntamiento se declara incompetente y remite el recurso a la Asamblea General de la Junta de Compensación.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "recibe el recurso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Los Rosales: tercer recurso de revisión remitido a la Junta de Compensación",
+      "categoria": "reclamaciones",
+      "resumen": "Mismo caso, presentado por un propietario: el Ayuntamiento se declara incompetente y lo remite a la Asamblea General de la Junta de Compensación.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "recibe el recurso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se pierde una plaza de administrativo de la oferta de empleo de 2017",
+      "categoria": "personal",
+      "resumen": "Se declara no ejecutada la convocatoria por promoción interna de una plaza de Administrativo (C1) de la Oferta de Empleo Público de 2017, porque pasó el plazo legal de tres años sin convocarla.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637771T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nombramiento de un inspector de Policía Local en prácticas",
+      "categoria": "personal",
+      "resumen": "Se nombra funcionario en prácticas, Inspector de Policía Local, al único aspirante aprobado (32,08 puntos) en la promoción interna de la oferta de 2020; deberá superar el curso selectivo regional. Se aprueba también una lista de reserva con otro aspirante.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad Ciudadana y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "notificada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512185T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Jubilación anticipada de un policía local",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada de un policía local el 30 de junio, por el régimen especial de policías locales, y se le agradecen más de 36 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "555125H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Excedencia de una auxiliar administrativa que se va al Ayuntamiento de Elda",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria, desde el 1 de julio, a una auxiliar administrativa municipal que toma posesión de una plaza en el Ayuntamiento de Elda.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Elda",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nuevo destino"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "618447E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Una técnica de Turismo imparte el curso 'La Ruta del Vino' de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a la Agente de Desarrollo Local-Turismo para dar el curso 'La Ruta del Vino: el camino para conocer Yecla', con una indemnización de 577,60 euros más 181,36 de Seguridad Social.",
+      "entidades": [
+        {
+          "nombre": "Universidad Popular de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 758.96,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "611369Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Teatro de la AMPA del CEIP San José de Calasanz en el anfiteatro de la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la obra de teatro del 20 de junio con condiciones de seguridad (aforo de 500, ambulancia, vigilancia) y fianza de limpieza de 400 euros.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635810W",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Salón de Sesiones para la asamblea de la Comunidad de Regantes del Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Sesiones de la Casa Consistorial para la asamblea extraordinaria de socios del 17 de junio.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes del Lentiscar",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637040D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la 1ª planta el 5 de agosto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636815Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Auditorio para la graduación de 4º de ESO del IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a la AMPA del IES Felipe VI para la graduación del 27 de junio, previo pago del precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "AMPA del IES Felipe VI",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "635798D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Auditorio para los Premios Deportistas del año de una emisora local",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a Radiocomunicaciones y Publicidad Yecla, S.L. para la entrega de los Premios Deportistas 2022 el 22 de julio, previo pago de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Radiocomunicaciones y Publicidad Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636823C",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Escuela de verano de AFEDECO en el CEIP El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO a usar el colegio El Alba en julio para una escuela de verano, con seguro y plan COVID, corriendo con los gastos.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO (Asociación para la Formación y el Desarrollo Comunitario)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637180Y",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Sala del Centro de Emprendimiento para un curso de la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala 1 del Centro de Emprendimiento para una actividad formativa el 20 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636465E",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Terraza de verano del 'El Muro Bar' en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del bar una terraza de 12 m² en calle Colón del 1 de abril al 31 de octubre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626148A",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Denegado un puesto de caracoles en el Mercado Central por tener deudas",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a una vecina un puesto de venta de caracoles de junio a agosto porque debe dinero al Ayuntamiento y el reglamento de mercados lo impide.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "632615H",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Pago de facturas: basura y limpieza viaria, polideportivos, Centro de Día y zonas verdes",
+      "categoria": "pago_factura",
+      "resumen": "Por urgencia se aprueban los pagos de mayo de los grandes servicios: recogida de basura y limpieza viaria, mantenimiento de instalaciones deportivas, Centro de Día de Mayores y jardines.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 322300.55,
+      "importes": [
+        {
+          "concepto": "Recogida de residuos, selectiva y limpieza viaria, mayo 2022",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento y limpieza de instalaciones deportivas, mayo 2022",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Centro de Día de Personas Mayores, mayo 2022",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Zonas verdes, mayo 2022",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 508989E, 457254A, 538849C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Los Rosales: se pide a la Junta de Compensación el expediente de un recurso de alzada",
+      "categoria": "reclamaciones",
+      "resumen": "Una propietaria recurre en alzada la derrama nº 3 de costes de urbanización de Los Rosales; el Ayuntamiento traslada el recurso y pide a la Junta de Compensación el expediente y su informe en diez días.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "requerida"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Los Rosales: segundo recurso de alzada contra la derrama nº 3",
+      "categoria": "reclamaciones",
+      "resumen": "Igual que el anterior, para el recurso de un propietario: se pide a la Junta de Compensación el expediente y su informe.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "requerida"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "554552M",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Auxiliar administrativo interino para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se nombra interino, de la bolsa de auxiliares de 2019, a quien corresponda para cubrir la plaza de Cultura y Festejos que queda libre el 30 de junio, hasta un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "618744R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Dos trabajadoras de Servicios Sociales a una jornada sobre trastorno mental grave",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social y a una educadora social asistir a una jornada regional en Murcia el 16 de junio, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637836J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Dos trabajadoras de Servicios Sociales a un curso sobre protección de la infancia",
+      "categoria": "personal",
+      "resumen": "Se ordena a una psicóloga y a una educadora social hacer un curso en Murcia los días 20 a 22 de junio sobre la ley de protección de la infancia frente a la violencia, con gastos de viaje pagados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637987T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Mesa de una iglesia evangélica en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Iglesia Evangélica Buenas Noticias de Almansa a poner una mesa informativa los sábados de julio, septiembre y octubre por la tarde.",
+      "entidades": [
+        {
+          "nombre": "Iglesia Evangélica Buenas Noticias de Almansa",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636852R",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "9.8",
+      "titulo": "Procesión del Corpus Christi de la Parroquia de La Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión del 19 de junio (Juan Ortuño, Pintor Aguirre, Niño Jesús, Hospital, Placeta Ortega, España) con corte de tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de La Purísima",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637818J",
+      "lugar": "Calles Juan Ortuño, Pintor Aguirre, Niño Jesús, Hospital, Placeta Ortega y España",
+      "interes": 1
+    },
+    {
+      "ref": "9.9",
+      "titulo": "Sala de informática para un taller de empleo juvenil de Cáritas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de informática del Centro de Emprendimiento del 20 al 23 de junio para un taller de competencias digitales para jóvenes en riesgo de exclusión.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Interparroquial de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638097X",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "9.10",
+      "titulo": "Ayuda regional de 131.658 € para inserción laboral de personas con discapacidad intelectual",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención directa de la Comunidad Autónoma de 131.658,00 euros para el proyecto de inserción sociolaboral de personas con discapacidad intelectual leve o moderada y trastornos del desarrollo, dentro de los proyectos innovadores para población vulnerable (Decreto 67/2022) financiados con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondos Next Generation UE",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 131658.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637468Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.11",
+      "titulo": "Ayuda regional de 35.522 € para un proyecto de educación desescolarizada",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención directa de la Comunidad Autónoma de 35.522,00 euros para el proyecto de educación desescolarizada, dentro de los proyectos innovadores para población vulnerable (Decreto 67/2022) financiados con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondos Next Generation UE",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 35522.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637856M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.12",
+      "titulo": "Ayuda regional de 127.155 € para acompañar a personas con capacidad de obrar limitada",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención directa de la Comunidad Autónoma de 127.155,00 euros para el proyecto de acompañamiento social a personas con capacidad de obrar limitada en situación vulnerable, dentro de los proyectos innovadores para población vulnerable (Decreto 67/2022) financiados con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondos Next Generation UE",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 127155.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637760D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.13",
+      "titulo": "Ayuda regional de 109.518 € para un piloto de 'housing first' y alojamiento transitorio",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención directa de la Comunidad Autónoma de 109.518,00 euros para el proyecto piloto de 'housing first' (vivienda primero) y alojamiento transitorio para personas sin hogar, dentro de los proyectos innovadores para población vulnerable (Decreto 67/2022) financiados con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondos Next Generation UE",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 109518.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637889H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.14",
+      "titulo": "Se vuelve a exigir a la CARM que arregle el drenaje de la carretera de Villena",
+      "categoria": "otros",
+      "resumen": "Como la Dirección General de Carreteras no ha respondido en casi un año, se le reitera que estudie y ejecute un nuevo drenaje en la RM-425 (km 1,35), donde las naves industriales sufren inundaciones repetidas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requerida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490870P",
+      "lugar": "Carretera Yecla-Villena RM-425, p.k. 1,35",
+      "interes": 3
+    },
+    {
+      "ref": "9.15",
+      "titulo": "Adhesión al convenio de intercambio de datos fiscales con Hacienda (AEAT-FEMP)",
+      "categoria": "convenio",
+      "resumen": "Yecla se adhiere por cuatro años al convenio de 2021 entre la Agencia Tributaria y la FEMP para recibir información tributaria y colaborar en la recaudación, necesario para emitir el padrón del IAE de 2022.",
+      "entidades": [
+        {
+          "nombre": "Agencia Estatal de Administración Tributaria (AEAT)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "parte del convenio"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "parte del convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637463Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.16",
+      "titulo": "Bases para elegir las atracciones y casetas de la Feria de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y bases para seleccionar los aparatos, atracciones y puestos de la Feria de Atracciones de septiembre de 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637765K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.17",
+      "titulo": "'Verano en Danza 2022': Taburete, Miguel Ríos y Mayumana en la Plaza de Toros, por 199.879 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de verano en el Teatro Concha Segura y la Plaza de Toros (academias de baile a 5 euros; conciertos de Taburete y Miguel Ríos, Mayumana, una noche chirigotera y 'Dos tontos y yo' a 15-20 euros) con un presupuesto de 199.879,90 euros IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 199879.9,
+      "importes": [
+        {
+          "concepto": "Concierto Taburete (sin IVA)",
+          "eur": 40000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Mayumana (sin IVA)",
+          "eur": 17500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto Miguel Ríos (sin IVA)",
+          "eur": 40000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "El sentido del humor: Dos tontos y yo (sin IVA)",
+          "eur": 40000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Noche chirigotera (sin IVA)",
+          "eur": 5600.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Difusión, cartelería, catering, generadores, SGAE y varios (sin IVA)",
+          "eur": 22090.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA 21%",
+          "eur": 34689.9,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "604505Q",
+      "lugar": "Teatro Concha Segura y Plaza de Toros",
+      "interes": 3
+    },
+    {
+      "ref": "9.18",
+      "titulo": "Carrera solidaria 'Marta la Princesa Valiente' con apoyo municipal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la cuarta carrera y marcha solidaria del 18 de junio con salida y llegada en la Avenida de la Estación; el Ayuntamiento colabora con medios (614,68 euros de gasto) y cesión gratuita de instalaciones deportivas (valorada en 310 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación Marta 'La Princesa Valiente'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 924.68,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 614.68,
+          "entidad": null
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 310.0,
+          "entidad": "Asociación Marta 'La Princesa Valiente'"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608106R",
+      "lugar": "Avenida de la Estación (recorrido urbano)",
+      "interes": 1
+    },
+    {
+      "ref": "9.19",
+      "titulo": "Torneo de Primavera de Ajedrez en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el torneo del 19 de junio bajo los soportales de los Arcos, con 130 euros de gasto municipal; se advierte al club de que en el futuro pida permiso con más antelación.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 130.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637784M",
+      "lugar": "Plaza Mayor (soportales de los Arcos)",
+      "interes": 1
+    }
+  ]
+}

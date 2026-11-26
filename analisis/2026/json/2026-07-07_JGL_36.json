@@ -1,0 +1,906 @@
+{
+  "doc": "2026-07-07_JGL_36",
+  "organo": "JGL",
+  "sesion": 36,
+  "fecha": "2026-07-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 55,
+  "resumen": "La Junta abrió expediente de penalidades (1.458 € al día) por el retraso de las obras del castillo, exigió a Acer el mantenimiento del jardín vertical del Mercado Central e indemnizó a Actúa con 88.174 € por la basura de septiembre de 2024. Aprobó gastar 102.850 € en el concierto de Omar Montes para la Feria, pagó unos 540.000 € en facturas y certificaciones de obra y dio licencia provisional a un gimnasio Synergym en suelo industrial de la carretera de Villena.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones 34 y 35 del 30 de junio de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: acotado de caza, artes escénicas y reintegro de ayuda COVID",
+      "categoria": "informacion",
+      "resumen": "Se informa de tres resoluciones regionales: anulación del acotado municipal MU-12074CP, denegación de un espectáculo del Circuito Profesional de Artes Escénicas para el segundo semestre y un procedimiento de reintegro de una subvención del IMAS por gastos COVID de 2021.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto de las Industrias Culturales y las Artes Escénicas de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1315496D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, limpieza, autobús urbano y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban pagos por 276.517 €, sobre todo a Vectoris (dos meses de mantenimiento de instalaciones deportivas), la limpieza de edificios municipales y el autobús urbano.",
+      "entidades": [
+        {
+          "nombre": "Vectoris S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quirón Prevención, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diesis Formación S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 276517.06,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, abril 2026",
+          "eur": 75695.52,
+          "entidad": "Vectoris S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, mayo 2026",
+          "eur": 75695.52,
+          "entidad": "Vectoris S.L."
+        },
+        {
+          "concepto": "Servicio de prevención de riesgos laborales del personal municipal",
+          "eur": 6085.65,
+          "entidad": "Quirón Prevención, S.L.U."
+        },
+        {
+          "concepto": "Honorarios técnicos (cert. 9, mayo 2026) proyecto y dirección de obra de la Iglesia de la Asunción como centro de visitantes",
+          "eur": 6799.46,
+          "entidad": "Rocamora Diseño y Arquitectura S.L.P."
+        },
+        {
+          "concepto": "Actuaciones educativas para alumnado, profesorado y familias",
+          "eur": 10514.5,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Conciertos del V Festival de Música de Cámara FIM Yecla (27 y 28 de mayo)",
+          "eur": 9680.0,
+          "entidad": "Diesis Formación S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, junio 2026",
+          "eur": 62491.71,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Concesión del autobús urbano, junio 2026",
+          "eur": 29554.7,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 784028D, 1005240R, 1206666A, 1292856J, 1132021C, 1174853Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: edificio de Cazadores y entorno de la antigua estación",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban certificaciones por 265.393 €: la n.º 11 de la rehabilitación del edificio de Cazadores y las n.º 6 a 9 (última) de la mejora del entorno de la antigua estación de tren.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 265393.04,
+      "importes": [
+        {
+          "concepto": "Certificación 11 rehabilitación del edificio de Cazadores (fondos Next Generation EU)",
+          "eur": 122847.69,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        },
+        {
+          "concepto": "Certificaciones 6 y 7 entorno de la antigua estación de tren (0 €)",
+          "eur": 0.0,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Certificación 8 entorno de la antigua estación de tren",
+          "eur": 122659.21,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Certificación 9 y última entorno de la antigua estación de tren",
+          "eur": 19886.14,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C, 1081372F",
+      "lugar": "Edificio de Cazadores; antigua estación de tren",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cuota 2026 al Consorcio de las Vías Verdes para la Vía Verde del Chicharra",
+      "categoria": "subvencion_concedida",
+      "resumen": "El Ayuntamiento aporta 8.235 € al Consorcio de las Vías Verdes de la Región de Murcia (4.000 € de cuota y 4.235 € para el alquiler de terrenos de ADIF) para integrar la Vía Verde del Chicharra en la red regional.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de las Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "ADIF",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "arrendador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8235.0,
+      "importes": [
+        {
+          "concepto": "Cuota anual 2026",
+          "eur": 4000.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        },
+        {
+          "concepto": "Arrendamiento de terrenos de ADIF",
+          "eur": 4235.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1312402F",
+      "lugar": "Vía Verde del Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia provisional para un gimnasio Synergym en suelo industrial de la Ctra. de Villena",
+      "categoria": "licencia_actividad",
+      "resumen": "Se concede a Synergym Holding licencia de obras, cambio de uso provisional y actividad para un gimnasio de 1.237,86 m² en suelo urbanizable industrial no programado. Es en precario: deberá cerrar y desmontar sin indemnización si el Ayuntamiento lo pide.",
+      "entidades": [
+        {
+          "nombre": "Synergym Holding S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1230137Z",
+      "lugar": "Ctra. de Villena, km 1 (suelo urbanizable no programado industrial)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Desestimado el recurso de una aspirante en la oposición de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se rechaza el recurso de alzada de una aspirante que pedía subir la nota de cuatro preguntas del segundo ejercicio para la plaza de Técnico Superior del Centro de Desarrollo Infantil y Atención Temprana.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1037112J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Bases de una bolsa de empleo de abogado para Servicios Sociales y OMIC",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de una bolsa de empleo de Abogado (Asesor Jurídico de Servicios Sociales/OMIC). Plazo de 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292501Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Interino para jefe de negociado de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra un administrativo interino de la bolsa para el puesto de Jefe de Negociado de Recaudación, que quedará libre porque su ocupante se va a otra administración.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313570D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Arquitecto interino para Disciplina Urbanística y Actividades",
+      "categoria": "personal",
+      "resumen": "Se nombra un arquitecto superior interino de la bolsa para cubrir una de las dos plazas de arquitecto del servicio de Disciplina Urbanística y Actividades, vacante y con muchos expedientes acumulados.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313023T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Auxiliar administrativo interino para la oficina de Obras y Catastro",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar interino para sustituir a una trabajadora de baja en la oficina de Obras y Catastro, tras la renuncia de quien la sustituía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1311027X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Reducción de jornada a una auxiliar de hogar para cuidar a un menor enfermo",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar de hogar una reducción de jornada del 99% desde el 14 de julio para cuidado de un menor con enfermedad grave.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1312729K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Ampliación a jornada completa de una auxiliar de hogar temporal",
+      "categoria": "personal",
+      "resumen": "Una auxiliar de hogar con contrato a media jornada pasa a jornada completa para cubrir en parte la reducción anterior; el resto del Servicio de Ayuda a Domicilio se prevé cubrir con una empresa externa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1312239E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Formación de una trabajadora social en un grupo regional de salud mental",
+      "categoria": "personal",
+      "resumen": "Se aprueba que una trabajadora social participe en seis sesiones (septiembre a diciembre) del grupo de trabajo regional sobre el protocolo sociosanitario de trastorno mental grave, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1315222Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Asistencia de un agente de desarrollo local a una jornada en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena la asistencia de un agente de desarrollo local a una jornada del programa Fomento Territorial del Empleo el 8 de julio en Murcia, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1315310W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Concierto de Omar Montes en la Feria de Septiembre: 102.850 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y un gasto de 102.850 € para contratar el concierto de Omar Montes en el Real de la Feria 2026, por procedimiento negociado sin publicidad con quien tiene la exclusiva del artista.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 102850.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313885Q",
+      "lugar": "Real de la Feria",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Tributo KPop en la Plaza de Toros adjudicado a Teatropia XXI",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 20.570 € (IVA incluido) a Teatropia XXI Teatro Musical, S.L., único licitador, el espectáculo 'Tributo Las Guerreras KPop' del 18 de julio dentro de Verano en Danza 2026.",
+      "entidades": [
+        {
+          "nombre": "Teatropia XXI Teatro Musical, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20570.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304216M",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Seguro de la flota de vehículos municipales con Occident",
+      "categoria": "contrato",
+      "resumen": "A través de la central de compras de la FEMP se adjudica a Occident GCO el seguro de los vehículos municipales desde el 1 de agosto de 2026, con una prima anual de 32.996 € (valor estimado con prórroga 72.591,20 €).",
+      "entidades": [
+        {
+          "nombre": "Occident GCO, S.A. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "central de contratación"
+        },
+        {
+          "nombre": "AON Iberia Correduría de Seguros y Reaseguros, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "mediadora"
+        },
+        {
+          "nombre": "Zurich Insurance PLC, Sucursal en España",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora"
+        },
+        {
+          "nombre": "FIATC Mutua de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32996.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1269224M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Fecha para recibir las obras de la Iglesia de la Asunción como centro de visitantes",
+      "categoria": "contrato",
+      "resumen": "La empresa Zima Desarrollos Integrales comunica el fin de las obras de rehabilitación de la Iglesia de la Asunción (fondos europeos del Plan de Sostenibilidad Turística) y se fija la recepción para el 14 de julio.",
+      "entidades": [
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093901H",
+      "lugar": "Iglesia de la Asunción",
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Audiotec, propuesta para los servicios técnicos del Teatro Concha Segura y el Auditorio",
+      "categoria": "contrato",
+      "resumen": "Audiotec Sonido e Iluminación queda primera en los dos lotes del contrato de servicios técnicos de cultura (teatro, auditorio y otros espacios) y se le pide la documentación y las garantías (4.635,40 € y 3.235,75 €) antes de adjudicar.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175405H",
+      "lugar": "Teatro Concha Segura; Auditorio Juan Miguel Benedito",
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Se adelanta al 13 de julio la recepción de las obras de la Casa de los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se adelanta la recepción de las obras del Centro Enoturístico de la Casa de los Arcos (fondos europeos) para trasladar allí Turismo en julio y liberar espacio para Cultura y Festejos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122691T",
+      "lugar": "Casa de los Arcos",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Compra de un dispensador y un carro hidráulico para la Policía Local",
+      "categoria": "contrato",
+      "resumen": "Contrato menor adjudicado a Cebreados S.L. por 10.863,86 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Cebreados S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10863.86,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1312070W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano para el Café Bar Hendrix en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del Café Bar Hendrix una terraza de 8 m² para la temporada de verano (1 de abril a 31 de octubre de 2026).",
+      "entidades": [
+        {
+          "nombre": "Café Bar Hendrix",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292229N",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Denegado iluminar edificios municipales de azul y verde para FUNDALUCE",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la petición de la Fundación Lucha Contra la Ceguera de iluminar edificios el 27 de septiembre porque el Ayuntamiento no tiene medios propios, saldría caro y la entidad no está inscrita en el registro municipal ni es de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Fundación Lucha Contra la Ceguera (FUNDALUCE)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1313093Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1-8.6",
+      "titulo": "Uso de salones de la Casa Consistorial para seis bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a seis parejas el uso del Salón de Plenos o del Salón de Sesiones para celebrar su matrimonio civil entre julio y octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297962A, 1311253K, 1313864M, 1313913E, 1313031E, 1312667Z",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Salas del Edificio Bioclimático para la asamblea del Club Fondistas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Fondistas de Yecla a usar dos salas del Edificio Bioclimático el 8 de julio para su asamblea.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313656Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa 'Músicas del Aire 2026': presupuesto y precios de entradas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba la programación de nueve noches de conciertos y cine de verano (15 a 25 de julio), con un presupuesto de 10.890 € y entradas de 3 y 5 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10890.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1315323N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se piden 10.000 € a la CARM para calidad turística (SICTED)",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento solicita a la Consejería de Turismo, Cultura, Juventud y Deportes una subvención de 10.000 € para el Sistema Integral de Calidad Turística en Destinos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1314734W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Interés en recibir 66.127 € de la CARM para apoyo a familias e infancia",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento manifiesta su interés en una subvención regional de 66.126,98 € para actuaciones de apoyo a la familia e infancia en 2026, y 10.000 € más si sobran fondos.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 66126.98,
+      "importes": [
+        {
+          "concepto": "Subproyecto A1",
+          "eur": 50849.8,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Subproyecto A2",
+          "eur": 15277.18,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        },
+        {
+          "concepto": "Interés adicional subprograma A1 (si hay remanentes)",
+          "eur": 10000.0,
+          "entidad": "Consejería de Política Social, Familias e Igualdad (CARM)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313683K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Apoyo a la Medalla de Oro de Fuente Álamo para una persona",
+      "categoria": "organizacion",
+      "resumen": "La Junta se adhiere a la propuesta del Ayuntamiento de Fuente Álamo de Murcia de conceder su Medalla de Oro a una persona.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Fuente Álamo de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313763X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Tarjeta de residente de zona azul: una concedida y otra denegada",
+      "categoria": "otros",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul para un vehículo hasta el 31 de diciembre de 2026 y se le deniega para otro por no ser su titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1308478F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Condolencias por el fallecimiento de un inspector de la Policía Nacional",
+      "categoria": "otros",
+      "resumen": "La Junta expresa sus condolencias a la familia y a la Comisaría de Yecla por la muerte del inspector que fue jefe del Grupo Operativo Local durante más de 20 años.",
+      "entidades": [
+        {
+          "nombre": "Comisaría de Policía Nacional de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "destinataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1315252P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Actúa cobra 88.174 € extra por la basura y limpieza viaria de septiembre de 2024",
+      "categoria": "reclamaciones",
+      "resumen": "Se reconoce a Actúa Servicios y Medio Ambiente una indemnización de 88.173,53 € por los costes de seguir prestando la recogida de basura y limpieza viaria con el contrato ya vencido (septiembre de 2024), para evitar el enriquecimiento injusto del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 88173.53,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Se transfieren a la Junta de Compensación de Los Rosales las cuotas cobradas por apremio",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se autoriza transferir a la Junta de Compensación del sector S.U.P.R. 6 'Los Rosales' las cuotas de urbanización cobradas por vía de apremio (vía Agencia Tributaria Regional) a propietarios morosos, sin los recargos de apremio.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector S.U.P.R. 6 'Los Rosales'",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Agencia Tributaria de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1095715C",
+      "lugar": "Sector S.U.P.R. 6 'Los Rosales'",
+      "interes": 2
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Se exige a Acer un plan de mantenimiento del jardín vertical del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "La empresa daba por cumplido el mantenimiento del jardín vertical; el Ayuntamiento le recuerda que ofertó cuatro años más de mantenimiento y garantía y le exige en 10 días un plan detallado (visitas mensuales, riego, podas, formación), avisando de posibles medidas.",
+      "entidades": [
+        {
+          "nombre": "Acer Proyectos y Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939349C",
+      "lugar": "Entorno del Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Penalidades por retraso en las obras del castillo (Hisn Yakka): 1.458 € al día",
+      "categoria": "contrato",
+      "resumen": "Se abre expediente de penalidades por demora a las empresas de los lotes 2 y 3 de la restauración del castillo 'El Renacer de Yakka' (contratos de 393.770 € y 637.109 €), con 1.458 € diarios desde el 27 de marzo de 2026; el retraso puede hacer perder la subvención europea.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "UTE Zima Desarrollos Integrales, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "dirección facultativa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Lote 2 plataforma, caminales y señalética (precio de adjudicación)",
+          "eur": 393770.32,
+          "entidad": "Ingeniería Ortín, S.L."
+        },
+        {
+          "concepto": "Lote 3 conservación y restauración arqueológica (precio de adjudicación)",
+          "eur": 637109.23,
+          "entidad": "UTE Zima Desarrollos Integrales, S.L. - Pegiro, S.L."
+        },
+        {
+          "concepto": "Penalidad diaria por demora",
+          "eur": 1458.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo de Yecla (Hisn Yakka)",
+      "interes": 3
+    }
+  ]
+}

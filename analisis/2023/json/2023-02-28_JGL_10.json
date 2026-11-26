@@ -1,0 +1,791 @@
+{
+  "doc": "2023-02-28_JGL_10",
+  "organo": "JGL",
+  "sesion": 10,
+  "fecha": "2023-02-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 29,
+  "resumen": "La Junta de Gobierno paga 318.096 euros en facturas (sobre todo basura, limpieza, zonas verdes e instalaciones deportivas) y 146.013 euros de la obra del Mercado Central. Exime a la sociedad de cazadores San Huberto de pagar dos temporadas del coto del Serral porque no hubo batidas, aprueba un programa para las colonias de gatos y pide permiso para capturar muflones en el Arabí. Además contrata un concierto de Funambulista y publicidad en dos medios locales, y autoriza procesiones, actos del 8 de marzo, un circo y el uso de teatro y auditorio por asociaciones y colegios.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior (el acta dice por error 21 de diciembre de 2023).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: subvenciones de empleo del SEF, zonas de bajas emisiones y manifestaciones del 8M",
+      "categoria": "informacion",
+      "resumen": "Se informa de resoluciones del Servicio Regional de Empleo y Formación sobre liquidación y justificación de subvenciones al Ayuntamiento (curso de atención sociosanitaria, Empleo Público Local, docencia de FP para el empleo con obligación de reintegro, y ampliación del plazo de los Programas Mixtos de Empleo-Formación 2022), de un escrito del Ministerio de Transportes sobre ayudas para zonas de bajas emisiones y de los informes de la Policía Local sobre las manifestaciones del 8 de marzo convocadas por el Colectivo Amatista y CC.OO. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida y justifica subvenciones; pide un reintegro"
+        },
+        {
+          "nombre": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "programa de ayudas a zonas de bajas emisiones"
+        },
+        {
+          "nombre": "Colectivo Amatista",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "convoca manifestación 8M"
+        },
+        {
+          "nombre": "CC.OO.",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "convoca manifestación 8M"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "736654F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura, zonas verdes, instalaciones deportivas y otros (318.096 €)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban seis facturas: recogida de basura y limpieza viaria de enero (180.264 €) y zonas verdes (48.626 €) a Actúa, mantenimiento de instalaciones deportivas a Véctoris (56.123 €), recebo de corcho en un campo de césped del polideportivo, licencia de Citrix y una obra de teatro.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Inforges It Services, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 318096.17,
+      "importes": [
+        {
+          "concepto": "Renovación de licencia de Citrix 2023 (contrato menor)",
+          "eur": 6359.76,
+          "entidad": "Inforges It Services, S.L."
+        },
+        {
+          "concepto": "Recebo con corcho del campo nº 2 del Polideportivo Juan Palao Azorín (contrato menor)",
+          "eur": 18010.85,
+          "entidad": "Realturf Systems, S.L."
+        },
+        {
+          "concepto": "Obra de teatro 'Entre Copas'",
+          "eur": 8712.0,
+          "entidad": "Pentación, S.A."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, enero 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de zonas verdes, enero 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, enero 2023",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 538849C, 124671N, 741006J, 722422P, 715451H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 3 de la remodelación del Mercado Central (146.013 €)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la tercera certificación de obra de la remodelación del Mercado Central a favor de la contratista Guerola Transer.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 146013.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Curso gratis de corte y confección para una persona en situación vulnerable",
+      "categoria": "fiscal",
+      "resumen": "Bonificación del 100 % del precio del curso de la Universidad Popular a una persona de una familia que vive de ayudas sociales, a propuesta de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719067E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir una finca de viñedo en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a varios copropietarios particulares segregar una parcela de 34.622 m² de una finca de viñedo de regadío sin construcciones, en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697879C",
+      "lugar": "Polígono 116, parcela 215",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir otra finca de viñedo en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a los mismos copropietarios particulares segregar una parcela de 8.670 m² de otra finca de viñedo de regadío sin construcciones, en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697891T",
+      "lugar": "Polígono 116, parcela 12",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Mecod Proyecta divide una finca en la Avenida de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia de parcelación para separar una parcela de 1.722 m² con fachada a la calle Tejeras de una finca urbana de 7.349 m² con una nave de 1.020 m².",
+      "entidades": [
+        {
+          "nombre": "Mecod Proyecta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia de parcelación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "711483X",
+      "lugar": "Avenida de la Paz con calle Tejeras (suelo urbano zona 5)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Sustitución de una técnica de la Escuela Infantil El Perro Loco",
+      "categoria": "personal",
+      "resumen": "Se contrata temporalmente de la bolsa de empleo a una técnica de educación infantil (30 h/semana) para sustituir una baja, como máximo hasta fin del curso 2022/23.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736967Q",
+      "lugar": "Escuela Infantil El Perro Loco",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "La directora de Servicios Sociales va a una reunión técnica en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a una reunión sobre proyectos para población vulnerable (fondos del Plan de Recuperación) y subvenciones de servicios sociales, pagando el Ayuntamiento desplazamiento y dietas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738557Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Publicidad digital en 'El periódico de Yecla' (8.400 €)",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de publicidad digital institucional adjudicado al editor (persona física) de 'El periódico de Yecla'.",
+      "entidades": [
+        {
+          "nombre": "particular (editor de 'El periódico de Yecla')",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736175Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Concierto de Funambulista en el Teatro Concha Segura (19.360 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento negociado sin publicidad, a la única empresa que se presentó, el concierto del grupo Funambulista dentro de la programación de enero a mayo.",
+      "entidades": [
+        {
+          "nombre": "Señorita Rock n´Roll, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria; cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19360.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732191H",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Mesa informativa de Vox en el Parque de la Constitución y la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a poner una mesa informativa los días 15, 25 y 29 de marzo, de 10 a 13 h.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicita mesa informativa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735671Q",
+      "lugar": "Parque de la Constitución y Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Se rechaza poner un semáforo en el cruce de Juan Pablo II con calle Perales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una vecina pidió un semáforo tras sufrir un accidente; la Policía Local informa que el accidente fue por no respetar el stop, que la visibilidad es suficiente y que el sol deslumbraría el propio semáforo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "736567K",
+      "lugar": "Cruce de la avenida Juan Pablo II con calle Perales",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja particular a celebrar su matrimonio civil en la Casa Consistorial el 1 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735109K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "La peña Destripaterrones usa el Auditorio para un espectáculo cómico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Auditorio Juan Miguel Benedito el 21 de abril para 'Destripa la noche… o no', pagando 400 € de precio público por equipo de sonido y luces.",
+      "entidades": [
+        {
+          "nombre": "Peña Sociocultural Destripaterrones",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio; paga 400 €"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726910Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio gratis para el teatro de la Agrupación Musical La Oración del Huerto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el auditorio los días 11 y 12 de marzo con reducción del 100 % del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Agrupación Musical La Oración del Huerto de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717677Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Auditorio gratis para el grupo de teatro del IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el auditorio los días 24, 25 y 29 de abril al grupo 'Luces y sombras', con reducción del 100 % del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "IES Felipe VI",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677633H",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Red Deportiva Yecla usa el Edificio Bioclimático para una reunión de padres",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 19 de abril.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa el salón de actos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738042J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "El AMPA del IES Felipe VI usa el Edificio Bioclimático para una asamblea",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 9 de marzo para una asamblea extraordinaria de familias.",
+      "entidades": [
+        {
+          "nombre": "AMPA del IES Felipe VI",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el salón de actos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738398D",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Jornada cultural 'Expresarte' de una alumna del IES Azorín en el Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a una alumna de Bachillerato de Artes el Edificio Bioclimático el 10 y 11 de marzo, con sonido, proyectores y caballetes municipales; no se le puede ceder el escenario por estar ocupado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735249E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja particular a celebrar su matrimonio civil en la Casa Consistorial el 29 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738389Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "La Peña Taurina Yeclana usa la Plaza de Toros para una práctica a puerta cerrada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el 5 de marzo una práctica con dos becerros (solo capote y muleta, sin picar ni matar) y un almuerzo, con fianza de 400 € y seguro de responsabilidad civil.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la Plaza de Toros"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "737894D",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Visita gratis del CEIP San José de Calasanz al Teatro Concha Segura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Visita educativa el 16 de marzo con niños de 3 a 5 años, con reducción del 100 % del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa el teatro gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736784M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Los cazadores de San Huberto no pagarán dos temporadas del coto del Serral",
+      "categoria": "patrimonio",
+      "resumen": "Se exime a la Sociedad de Cazadores San Huberto del canon anual (1.100 €/año) de la concesión de caza mayor del monte comunal 'Serral, Corrales y Castellar' en las temporadas 2021-22 y 2022-23, porque el Ayuntamiento no consideró necesaria ninguna batida de jabalí o zorro al no haber sobrepoblación.",
+      "entidades": [
+        {
+          "nombre": "Sociedad de Cazadores San Huberto de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "queda exenta del pago"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495261N",
+      "lugar": "Monte comunal Serral, Corrales y Castellar",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Puesto de venta de caracoles en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica provisionalmente a una vendedora particular el puesto de caracoles de años anteriores, de marzo a agosto de 2023, a 6,86 €/metro/mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738170M",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Auxiliar administrativo interino para el Registro municipal",
+      "categoria": "personal",
+      "resumen": "Urgente: se nombra un auxiliar de la bolsa de empleo para cubrir la plaza vacante del Registro de Documentos por fallecimiento, ante el aumento de documentos por los procesos selectivos; máximo tres años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738575Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Un agente de la Policía Local hace un curso online de documentos de texto",
+      "categoria": "personal",
+      "resumen": "Se autoriza el curso de la Escuela de Formación de la Administración Regional; el día que coincide con su turno lo hace en dependencias policiales y se le descuenta una hora del crédito de formación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738926M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Publicidad institucional en el semanario Siete Días (9.500 €)",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para difundir servicios y actividades municipales en 2023.",
+      "entidades": [
+        {
+          "nombre": "Prensa y publicaciones de Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria; cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9500.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736198Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Programa municipal de colonias de gatos (método CER)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba el programa para controlar las colonias felinas capturando, esterilizando y devolviendo a los gatos, conforme a la ley regional de animales y a las ayudas estatales para este fin.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "737485K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Vía Crucis de la Cofradía del Cristo de la Buena Muerte",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión del 3 de marzo, con apoyo de la Policía Local y prohibición de aparcar ante la Ermita de San Nicolás.",
+      "entidades": [
+        {
+          "nombre": "Cofradía de Nazarenos del Santísimo Cristo de la Buena Muerte y María Santísima de la Estrella",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "organiza procesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738114J",
+      "lugar": "Ermita de San Nicolás",
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Pasacalles de la Real Hermandad de la Santa Faz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el pasacalles del 4 de marzo por el nombramiento de Hermano Cofrade Honorario.",
+      "entidades": [
+        {
+          "nombre": "Real Hermandad de la Santa Faz y Cofradía de la Verónica",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "organiza pasacalles"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738321X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Procesión del Cristo de Medinaceli de la Parroquia de San José Artesano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión del 5 de marzo con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San José Artesano",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "organiza procesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738108A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Carpa de Cruz Roja por el Día de la Mujer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una carpa el 8 de marzo en la calle San Francisco esquina San José, con una mesa y seis sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "instala carpa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723971Q",
+      "lugar": "Calle San Francisco esquina calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Concentración de CC.OO. por el 8 de marzo en la Plaza 8 de Marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración y se le presta la megafonía municipal.",
+      "entidades": [
+        {
+          "nombre": "CC.OO. Delegación Comarcal del Altiplano",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "organiza concentración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738100P",
+      "lugar": "Plaza 8 de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Prácticas de alumnos del IES Castillo Puche en el Servicio de Deportes",
+      "categoria": "servicios_actividades",
+      "resumen": "Cuatro alumnos del ciclo de Animación Sociodeportiva harán 400 horas de prácticas no remuneradas (6 de marzo a 24 de mayo); se pide colaboración a la empresa de socorrismo y actividades de las piscinas.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos en prácticas"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora en el seguimiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735535C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Captura de muflones en el Monte Arabí por daños a la agricultura",
+      "categoria": "medio_ambiente",
+      "resumen": "Se pide permiso a la Comunidad Autónoma para capturar muflones vivos con jaulas trampa y se empieza a contratar un Plan de Ordenación Cinegética antes del 23 de junio de 2023.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería, Pesca, Medio Ambiente y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar la captura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673554R",
+      "lugar": "Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Circo Encantado junto a la antigua estación de tren",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se informa a Arte y Circo que, por su aforo de 150 personas, la declaración responsable va a la Comunidad Autónoma; se aprueba el informe municipal de viabilidad y se exige una fianza de 900 € para instalarse del 6 al 19 de marzo en terrenos privados.",
+      "entidades": [
+        {
+          "nombre": "Arte y Circo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "instala circo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735550Y",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 1
+    }
+  ]
+}

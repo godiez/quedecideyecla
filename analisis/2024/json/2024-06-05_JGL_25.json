@@ -1,0 +1,845 @@
+{
+  "doc": "2024-06-05_JGL_25",
+  "organo": "JGL",
+  "sesion": 25,
+  "fecha": "2024-06-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 71,
+  "resumen": "La Junta de Gobierno adjudica dos obras turísticas con fondos europeos: el centro enoturístico de la Casa de los Arcos (622.279 euros, Urgacén Viena 25) y el acondicionamiento del yacimiento de Yakka (186.207 euros, Galán e Hijos), y contrata el seguro municipal de responsabilidad civil con Zurich (61.146 euros al año). Da a Eulen 10 días para justificar el proyecto Housing First, porque el Ayuntamiento podría perder 109.518 euros de subvención. También rechaza 14 recursos y contrata a cuatro técnicos fijos de escuela infantil, paga unos 129.000 euros en facturas y autoriza terrazas, eventos deportivos y una capea por el ascenso del Yeclano.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 28 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, de 28 de mayo de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: residuos, agua en calle del Niño, maquinaria y fiestas de San Isidro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 113.343,74 € en cuatro facturas: la gestión de residuos de abril al Consorcio regional (75.696,59 €), la renovación de la red de agua potable de la calle del Niño a FCC Aqualia (9.026,19 €), la reparación de una máquina mixta JCB de la Brigada de Obras a Geancar Maquinaria (17.700,71 €) y los aseos portátiles de las Fiestas de San Isidro a Camión Toilet (10.920,25 €).",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Geancar Maquinaria, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Camión Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 113343.74,
+      "importes": [
+        {
+          "concepto": "Gestión de residuos sólidos, abril 2024",
+          "eur": 75696.59,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Obras de renovación de red de agua potable en calle del Niño",
+          "eur": 9026.19,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Reparación de maquinaria JCB mixta de la Brigada de Obras 2024",
+          "eur": 17700.71,
+          "entidad": "Geancar Maquinaria, S.A."
+        },
+        {
+          "concepto": "Infraestructura Fiestas de San Isidro 2024 (C.SE. 1/24), lote 2",
+          "eur": 10920.25,
+          "entidad": "Camión Toilet, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 897363N, 900843X, 895653N",
+      "lugar": "Calle del Niño (red de agua)",
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Premios del concurso de carrozas de las Fiestas de San Isidro 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba pagar los premios y accésits del concurso de carrozas de la Cabalgata de San Isidro: 16.000 € en total, de los que 4.700 € los pone el Ayuntamiento (premios de Alcaldía, Agricultura, Turismo, Festejos y 13 accésits) y 11.300 € proceden de patrocinadores. El acta no nombra a las carrozas o peñas premiadas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4700.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "909519X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Renuncia de la aspirante aprobada a una plaza de auxiliar administrativo",
+      "categoria": "personal",
+      "resumen": "La única aspirante que superó la oposición de estabilización para una plaza de auxiliar administrativo renuncia antes de ser nombrada; se acepta la renuncia y se pide al tribunal la lista de aspirantes siguientes para cubrir la plaza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840431Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Lista provisional de admitidos para una plaza de auxiliar de hogar",
+      "categoria": "personal",
+      "resumen": "Se admiten provisionalmente 28 aspirantes al concurso-oposición para una plaza fija de auxiliar de hogar a media jornada (oferta de empleo de 2018), se nombra el tribunal y se fija el examen tipo test para el 18 de octubre de 2024 en el Espacio Joven (Edificio Bioclimático).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "756620M",
+      "lugar": "Edificio Bioclimático (Espacio Joven)",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cuatro plazas fijas de técnico de escuela infantil: se rechazan 14 recursos",
+      "categoria": "personal",
+      "resumen": "En la estabilización de cuatro plazas de técnico de educación infantil (30 horas), se desestiman los recursos de alzada de 14 aspirantes (16 escritos) contra la nota del examen práctico, se contrata como personal fijo a las cuatro con mayor puntuación (de 76 a 80,55 puntos) y se crea una bolsa de empleo con otras 45 aspirantes aprobadas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "855377Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Admitidos y excluidos para dos plazas fijas de limpiador/a",
+      "categoria": "personal",
+      "resumen": "Se admiten provisionalmente 88 aspirantes y se excluyen 5 (dos por tener ya plaza fija de limpiadora en el Ayuntamiento y tres por presentar la instancia fuera de plazo) al concurso-oposición de dos plazas fijas de limpiador/a (oferta de 2019); se nombra el tribunal y el examen será el 30 de octubre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "757168Y",
+      "lugar": "Edificio Bioclimático (Espacio Joven)",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Renuncia de una auxiliar administrativo interina de Estadística",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de una funcionaria interina, auxiliar administrativo del Negociado de Estadística, con efectos del 29 de mayo de 2024; queda excluida de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "911047T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Jubilación de un oficial pintor municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada y voluntaria de un oficial pintor el 9 de septiembre de 2024 y se le agradecen más de 32 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "937394M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Cambio de puesto en el programa de inserción sociolaboral",
+      "categoria": "personal",
+      "resumen": "Se modifica la oferta al SEF del programa de inserción sociolaboral de personas en riesgo de exclusión 2024: una de las personas se contratará como conserje (30 horas) en el Edificio Bioclimático en lugar de peón.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe la oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919650R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Ultimátum a Eulen por no justificar el proyecto Housing First",
+      "categoria": "contrato",
+      "resumen": "Eulen Servicios Sociosanitarios, adjudicataria del proyecto piloto Housing First (viviendas para personas sin hogar, financiado con fondos europeos Next Generation), no ha presentado ni justificado las facturas de noviembre y diciembre de 2023 y enero de 2024 pese a reiterados avisos. Se le dan 10 días para entregarlas con su documentación (alquileres, seguros, sueldos...), porque si el Ayuntamiento no justifica antes del 30 de junio los 109.518 € de la subvención regional podría tener que devolverlos; se avisa de posibles penalidades y de la ejecución de la garantía.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria requerida"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 109518.0,
+      "importes": [
+        {
+          "concepto": "Subvención regional del proyecto Housing First pendiente de justificar",
+          "eur": 109518.0,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Terraza de verano del Restaurante Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Restaurante Azorín en la calle Poeta Miguel Ortega, 42 m² del 1 de abril al 31 de octubre de 2024, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Restaurante Azorín",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "titular de la terraza (particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934352M",
+      "lugar": "Calle Poeta Miguel Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Terraza de verano del Bar El Esquinazo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Bar El Esquinazo en la calle del Voluntariado Social, 24 m² del 1 de abril al 31 de octubre de 2024.",
+      "entidades": [
+        {
+          "nombre": "Bar El Esquinazo",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "titular de la terraza (particular)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "936536W",
+      "lugar": "Calle del Voluntariado Social",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Denegada la terraza del Bar Tino por no tener licencia de actividad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la terraza de verano del Bar Tino en la calle Cruz de Piedra, pedida por un particular y por Arrocería Yecla, S.L., porque según la Policía Local ninguno tiene título habilitante para la actividad del bar.",
+      "entidades": [
+        {
+          "nombre": "Arrocería Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante denegada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "922523H",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Fiesta de fin de curso de la AMPA de la Escuela Infantil La Campanilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la fiesta de fin de curso el 5 de julio en la placeta Pintor Juan Ortuño, sin instalaciones y con limpieza a cargo de los organizadores; se ceden 4 mesas, 40 sillas y vallas.",
+      "entidades": [
+        {
+          "nombre": "AMPA de la E.I. La Campanilla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "935387Z",
+      "lugar": "Placeta Pintor Juan Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Puesto informativo de la Asociación de Afectados de Cáncer en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC a poner un puesto informativo en el mercado ambulante de la calle San Francisco-Parque de la Constitución el 12 de junio, con una carpa, una mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "937190D",
+      "lugar": "Calle San Francisco - Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Escuela de verano en el CEIP Miguel Ortuño",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la AMPA del CEIP Miguel Ortuño a usar el colegio del 1 al 31 de julio (8:45 a 13:45) para la Escuela de verano 2024, que imparte una particular; la AMPA corre con limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el colegio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "936507E",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Iglesia de San Francisco iluminada de verde por el Día de la ELA",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación ELA Región de Murcia, la fachada de la Iglesia de San Francisco se iluminará de verde el 21 de junio, Día Mundial de la ELA.",
+      "entidades": [
+        {
+          "nombre": "Asociación ELA Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938747Q",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "III Festival Internacional de Música de Cámara Juan Oliver Astorga",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban el programa del III Festival Internacional de Música de Cámara de Yecla 'Juan Oliver Astorga', del 4 al 8 de junio de 2024, y su presupuesto de 21.538 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 21538.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927992D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "IX Concentración de vehículos clásicos en la ITV",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la IX Concentración de vehículos clásicos de la Asociación Motor Clásico Yecla en la ITV Mecod Yecla el 16 de junio (9 a 14 h) y se le ceden carpas, 50 sillas, 5 tableros con banquillos, escenario y megafonía.",
+      "entidades": [
+        {
+          "nombre": "Asociación Motor Clásico Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza; recibe material municipal"
+        },
+        {
+          "nombre": "ITV Mecod Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "lugar del evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "923902Y",
+      "lugar": "Instalaciones de la ITV Mecod Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Escenario y sillas para las orlas del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede al IES José Luis Castillo Puche un escenario y sillas para sus actos de entrega de orlas del 25 y 26 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe material municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "899091N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pago de tribunas, decoración y sillas de las Fiestas de San Isidro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 15.730 € a Montajes Arco Mediterráneo, S.L. por el lote 4 (tribunas, decoración y sillas) de la infraestructura de las Fiestas de San Isidro 2024.",
+      "entidades": [
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15730.0,
+      "importes": [
+        {
+          "concepto": "Infraestructura Fiestas de San Isidro 2024 (C.SE. 1/24), lote 4: tribunas, decoración y sillas",
+          "eur": 15730.0,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "895653N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Sustituta en la Escuela Infantil Pulgarcito (1)",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una técnico de educación infantil (30 horas) para sustituir a una trabajadora de baja en la E.I. Pulgarcito, encargada de la apertura y tutora de un aula de 1-2 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938339Z",
+      "lugar": "E.I. Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Sustituta en la Escuela Infantil Pulgarcito (2)",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a otra técnico de educación infantil (27,5 horas) para sustituir a una tutora de baja de un aula de 1-2 años en la E.I. Pulgarcito.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939085K",
+      "lugar": "E.I. Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Educador social para el programa contra el absentismo escolar",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un educador social (18 horas semanales, del 10 de junio al 31 de agosto) para ejecutar la subvención de la Consejería de Educación contra el absentismo y abandono escolar 2024.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia el programa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "908118A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Viaje del director de Deportes para la subvención del césped del campo nº 3",
+      "categoria": "personal",
+      "resumen": "Se ordena al director del Servicio de Deportes ir el 7 de junio a la Dirección General de Deportes para tratar la subvención de la renovación del césped y elementos perimetrales del campo de fútbol nº 3 del Polideportivo Juan Palao, con gastos de viaje a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939677H",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Seguro de responsabilidad civil municipal para Zurich: 61.146 € al año",
+      "categoria": "contrato",
+      "resumen": "A través de la central de contratación de la FEMP se adjudica a Zurich Insurance PLC, Sucursal en España, el seguro de responsabilidad civil patrimonial del Ayuntamiento por una prima de 61.145,89 € al año (exenta de IVA), un año prorrogable a otro (valor estimado 122.291,78 €). Actúa como corredora Willis Iberia.",
+      "entidades": [
+        {
+          "nombre": "Zurich Insurance PLC, Sucursal en España",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Willis Iberia Correduría de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "corredora del Ayuntamiento"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 61145.89,
+      "importes": [
+        {
+          "concepto": "Prima anual",
+          "eur": 61145.89,
+          "entidad": "Zurich Insurance PLC, Sucursal en España"
+        },
+        {
+          "concepto": "Valor estimado con prórroga",
+          "eur": 122291.78,
+          "entidad": "Zurich Insurance PLC, Sucursal en España"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "908685N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Obras del yacimiento Yakka para Galán e Hijos por 186.207 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Rehabilitaciones y Construcciones Galán e Hijos, S.L. por 186.206,90 € (IVA incluido) el acondicionamiento y puesta en valor del yacimiento arqueológico de Yakka, dentro del Plan de Sostenibilidad Turística 'Yecla es +' con fondos europeos Next Generation a través del ITREM; fue la mejor oferta en todos los criterios.",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 186206.9,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867240A",
+      "lugar": "Yacimiento de Yakka",
+      "interes": 3
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Centro enoturístico en la Casa de los Arcos para Urgacén Viena 25 por 622.279 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Urgacén Viena 25, S.L., única licitadora, por 622.278,80 € (IVA incluido) la creación de un centro enoturístico y mejoras de eficiencia energética en la Casa de los Arcos, dentro del Plan de Sostenibilidad Turística 'Yecla es +' financiado con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Urgacén Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 622278.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Cuarta y última prórroga del contrato de electricidad con Gas Natural",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año más, del 6 de agosto de 2024 al 5 de agosto de 2025 (última prórroga posible), el suministro eléctrico de edificios municipales y alumbrado público con Gas Natural Comercializadora, S.A., contratado en 2020 por el acuerdo marco de la FEMP. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Gas Natural Comercializadora, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "suministradora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "937123K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Corrección del pliego de la barandilla de la avenida de la Cruz Roja",
+      "categoria": "contrato",
+      "resumen": "Se corrige un error en el código CPV del pliego del suministro e instalación de barandilla metálica en dos tramos de la avenida de la Cruz Roja (licitación de 28.314 €), que impedía publicarla, y se ordena publicar el anuncio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 28314.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890781X",
+      "lugar": "Avenida de la Cruz Roja",
+      "interes": 1
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Capea en la Plaza de Toros por el ascenso del Yeclano Deportivo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Peña Taurina Yeclana a usar la Plaza de Toros el 8 de junio (17 a 20:30 h) para una capea a puerta cerrada con 80 personas del Yeclano Deportivo y la peña, para celebrar el ascenso a Primera RFEF; deberá tener seguro, depositar 500 € de fianza y pagar todos los gastos.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "celebra el ascenso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939972R",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Pabellón María José Martínez para el IES Martínez Ruiz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES José Martínez Ruiz a usar gratis el Pabellón María José Martínez y tres carpas el 7 de junio para actividades deportivas (uso valorado en 20,45 €).",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20.45,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938486D",
+      "lugar": "Pabellón Deportivo María José Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "10.13",
+      "titulo": "Prácticas de un alumno del CEA en el Servicio de Información",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un alumno del Centro de Educación de Adultos de Yecla a hacer 126 horas de prácticas no remuneradas de Informática en el Servicio de Información de la Casa Consistorial, del 6 de junio al 1 de julio.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos (CEA) de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro del alumno"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939271T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.14",
+      "titulo": "Prácticas de un alumno del CEA en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a otro alumno del Centro de Educación de Adultos a hacer 126 horas de prácticas no remuneradas de Informática en el Centro Municipal de Servicios Sociales, del 6 de junio al 1 de julio.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos (CEA) de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "centro del alumno"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939271T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.15",
+      "titulo": "Final Four de la Copa Federación de Fútbol Sala en el Pabellón Ortega Chumilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la A.D. Albatros Yecla a organizar con la Federación de Fútbol de la Región de Murcia la Final Four de la Copa Federación de Fútbol Sala, el 8 y 9 de junio, con uso gratuito del Pabellón José Ortega Chumilla (valorado en 250,10 €) y apoyo municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza; uso gratuito de instalación"
+        },
+        {
+          "nombre": "Federación de Fútbol de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 250.1,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "936578D",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "10.16",
+      "titulo": "Jornada deportiva escolar del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la Jornada Deportiva Escolar del Colegio concertado La Inmaculada el 8 de junio en el Pabellón José Ortega Chumilla y pistas exteriores, con uso gratuito (valorado en 241,15 €), apertura, limpieza y megafonía a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "organiza; uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 241.15,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919768F",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    }
+  ]
+}

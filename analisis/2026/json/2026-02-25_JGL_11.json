@@ -1,0 +1,102 @@
+{
+  "doc": "2026-02-25_JGL_11",
+  "organo": "JGL",
+  "sesion": 11,
+  "fecha": "2026-02-25",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 4,
+  "resumen": "Se aprueban los padrones del agua (4º trimestre de 2025, 331.919 €) y de la basura (1er trimestre de 2026, 905.646 €) que cobra FCC Aqualia, y se anulan recibos de basura de 2025 por 18.198 €. Además, mientras duran las obras del edificio de Cazadores, el espacio de ocio juvenil 'El Sótano' se traslada de forma provisional al Mercado Central.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se ratifica la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba por unanimidad celebrar la sesión con carácter urgente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Recibos del agua (4º trim. 2025) y de la basura (1er trim. 2026)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas de cobro preparadas por FCC Aqualia: agua 331.919,28 €, canon municipal 14.807,17 €, canon de saneamiento regional 243.555,57 € y tasa de basura 905.645,80 €. Se anulan recibos de basura de 2025 por 18.198 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 905645.8,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 4T 2025",
+          "eur": 331919.28,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon a favor del Ayuntamiento 4T 2025",
+          "eur": 14807.17,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Canon de saneamiento por cuenta de la CARM",
+          "eur": 243555.57,
+          "entidad": "Comunidad Autónoma de la Región de Murcia (CARM)"
+        },
+        {
+          "concepto": "Tasa recogida de residuos 1T 2026",
+          "eur": 905645.8,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación de recibos de basura 2025",
+          "eur": -18198.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1235775E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Uso provisional del Mercado Central para el ocio juvenil mientras se reforma Cazadores",
+      "categoria": "patrimonio",
+      "resumen": "Se considera viable usar de forma provisional espacios del Mercado Central (sala polivalente, bar-comedor y aseos) para las actividades de ocio juvenil de la Concejalía de Juventud, hasta que terminen las obras del Edificio de Cazadores.",
+      "entidades": [
+        {
+          "nombre": "Servicio Municipal de Juventud",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1226005K",
+      "lugar": "Mercado Central",
+      "interes": 2
+    }
+  ]
+}

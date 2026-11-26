@@ -1,0 +1,670 @@
+{
+  "doc": "2021-03-16_JGL_12",
+  "organo": "JGL",
+  "sesion": 12,
+  "fecha": "2021-03-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 38,
+  "resumen": "La Junta de Gobierno paga 39.182 euros de la obra de las cubiertas de la Capilla de la Virgen de las Angustias en San Francisco y 7.260 euros por una obra de teatro. Da licencia a Dwinma Tapizados para ampliar su nave en Las Teresas y a varios vecinos para viviendas y una nave agrícola, y autoriza a Interfibra a poner una torre de telecomunicaciones más alta junto a la futura autovía A-33. Contrata seis limpiadores de refuerzo COVID para los colegios, deja volver al público a los partidos de tres clubes y deniega a unos vecinos cambiar el trazado de un camino público.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: COVID, ciberseguridad, reintegro del SEF y sentencia a Clece",
+      "categoria": "informacion",
+      "resumen": "Se informa de nuevas restricciones COVID (también para San José y Semana Santa), del convenio de ciberseguridad con la CARM, de que el SEF obliga a devolver parte de una subvención de formación (AC-2017-212) y de que el TSJ de Murcia desestima la apelación de Clece, S.A. sobre la continuidad del contrato de limpieza de edificios municipales.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convenio"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        },
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Clece, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pierde recurso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "500772R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de la obra 'Greenpiss' de Yllana y del gasóleo de calefacción",
+      "categoria": "pago_factura",
+      "resumen": "Se paga a Producciones Yllana, S.L. la función 'Greenpiss' del 6 de marzo en el Teatro Concha Segura y a Multigás Enérgica, S.L. una factura de gasóleo de calefacción (importe ilegible).",
+      "entidades": [
+        {
+          "nombre": "Producciones Yllana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Multigás Enérgica, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7260.0,
+      "importes": [
+        {
+          "concepto": "Representación de 'Greenpiss' en el Teatro Concha Segura (6/3/2021)",
+          "eur": 7260.0,
+          "entidad": "Producciones Yllana, S.L."
+        },
+        {
+          "concepto": "Gasóleo de calefacción (importe ilegible en el acta)",
+          "eur": null,
+          "entidad": "Multigás Enérgica, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493738Y, 499074?",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación de la obra de las cubiertas de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 3, de 39.182,64 €, de la obra de cambio de cubiertas de la Capilla de la Virgen de las Angustias en la Iglesia de San Francisco, a favor de Construcciones Enciso y José, S.L.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39182.64,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473702W",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de un edificio de 6 viviendas en la calle Alcalde Juan Spuche",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular a empezar las obras del edificio de 6 viviendas, locales y aparcamiento ya licenciado en enero, con una fianza de 760 € para reponer la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476526R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia a Dwinma Tapizados para ampliar su nave en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Dwinma Tapizados, S.L. licencia (sobre proyecto básico) para ampliar su nave industrial en el polígono Las Teresas, avenida Juan Carlos I, con una fianza de 9.952,76 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Dwinma Tapizados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496479E",
+      "lugar": "Polígono industrial Las Teresas, avenida Juan Carlos I, parcela 61A",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda unifamiliar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (proyecto básico) para construir una vivienda unifamiliar, con una fianza de 4.712,73 € por la urbanización pendiente del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496644?",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para una nave agrícola en el paraje Casa Carrasco",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para una nave agrícola, que solo podrá usarse para el fin agrícola informado por la Dirección General de Política Agraria Común.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498295C",
+      "lugar": "Paraje Casa Carrasco",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de titular de una licencia de vivienda en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que, tras una compraventa, la licencia de 2011 para una vivienda unifamiliar en el paraje La Decarada cambia de titular (particulares).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "497339?",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un limpiador interino para el colegio Miguel Ortuño",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un limpiador interino para el CEIP Miguel Ortuño, tras el traslado de la limpiadora a la Casa Consistorial y la baja voluntaria de otra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500773T",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se alarga el contrato de un técnico de Educación Infantil interino",
+      "categoria": "personal",
+      "resumen": "El técnico interino que sustituye a una compañera de baja seguirá hasta su vuelta y como máximo hasta el final del curso 2020/2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497020F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Un policía local se marcha al Ayuntamiento de Fortuna",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cese de un agente de la Policía Local que ha obtenido plaza por movilidad en Fortuna, se regularizan sus horas y queda en situación de servicio en otras administraciones.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Fortuna",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destino"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500891H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso de lactancia acumulado para una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil el permiso de lactancia acumulado en jornadas completas del 22 de marzo al 3 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501049C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de verano para una cafetería de la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 20 m² de abril a octubre para la 'Cafetería Jordan's', ampliada de forma excepcional por la COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499861C",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de verano para un kebab de la calle Peligros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 12 m² de abril a octubre para el 'Kebab Estambul'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500297H",
+      "lugar": "Calle Peligros",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de verano para 'El Paseíto' en la calle del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular una terraza de 17 m² de abril a octubre para el establecimiento 'El Paseíto'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500770P",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Mercadona cambia el horario de su zona de carga y descarga",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se modifica el horario de la reserva de carga y descarga frente al Mercadona de la avenida Literato Azorín: de lunes a sábado de 6:30 a 8:00 y de 10:00 a 11:30.",
+      "entidades": [
+        {
+          "nombre": "Mercadona, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498452W",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Se cambian de sitio unos bolardos a petición de una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se recolocan unos bolardos porque los coches aparcados molestaban a una vecina y podían impedir el paso de vehículos de emergencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499905N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Dos nuevas plazas de aparcamiento para personas con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Discapacitados Físicos de Yecla se crean dos plazas reservadas: calle Lorca esquina Rogelio Azorín y calle San Ramón junto a la Comisaría.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500299K",
+      "lugar": "Calle Lorca esquina Rogelio Azorín; calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Alegaciones a los planes de gestión forestal de los montes públicos municipales",
+      "categoria": "medio_ambiente",
+      "resumen": "Se envían como alegaciones a la Dirección General del Medio Natural los informes municipales sobre los Planes Técnicos de Gestión Forestal Sostenible de los montes de utilidad pública del municipio.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "475871H",
+      "lugar": "Montes de utilidad pública municipales",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Denegado cambiar el trazado de un camino vecinal en el polígono 9",
+      "categoria": "patrimonio",
+      "resumen": "Unos vecinos pedían desviar un camino vecinal que pasa frente a sus parcelas. Se deniega porque el camino es público y solo podría hacerse con un expediente de desafectación aprobado por el Pleno por mayoría absoluta, tras inventariarlo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "494526R",
+      "lugar": "Polígono 9",
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Prácticas de un alumno de Instalaciones Eléctricas del IES Castillo Puche",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno de Instalaciones Eléctricas y Automáticas a hacer prácticas no remuneradas en el Ayuntamiento del 23 de marzo al 11 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500513H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Prácticas de alumnos de Animación Sociodeportiva en Deportes",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a varios alumnos del ciclo de Enseñanza y Animación Sociodeportiva del IES Castillo Puche a hacer prácticas no remuneradas del 22 de marzo al 8 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501055K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Acuerdo con un instituto de Cazorla para prácticas de gestión forestal",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el acuerdo con el IES Castillo de la Yedra de Cazorla (Jaén) para que un alumno de Gestión Forestal y del Medio Natural haga 350 horas de prácticas no remuneradas en Medio Ambiente.",
+      "entidades": [
+        {
+          "nombre": "IES Castillo de la Yedra (Cazorla)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma acuerdo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501081X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Tarjeta de residente en zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una vecina la condición de residente en zona azul para su vehículo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500757X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul para su vehículo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500768M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "El Mercado Central abrirá el Jueves Santo",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de varios puesteros, el Mercado Central abrirá el 1 de abril (Jueves Santo) de 8:00 a 13:30.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500814?",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "La Asociación Kapaces usará el aula de cocina del antiguo colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Kapaces el aula de cocina del antiguo C.P. San José de Calasanz tres sábados (27 de marzo, 24 de abril y junio) para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500604J",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Cambio de vendedor en un puesto del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a 40 Grados Lencería, S.L., titular del puesto 27-Z del mercado ambulante de los miércoles junto al Mercado de San Cayetano, a cambiar la persona que vende.",
+      "entidades": [
+        {
+          "nombre": "40 Grados Lencería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501253K",
+      "lugar": "Mercado ambulante junto al Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Licencia para una vivienda aislada con piscina en el paraje La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Urgente: se concede a una particular licencia (proyecto básico) para una vivienda unifamiliar aislada con piscina en el paraje La Pujola; deberá acreditar la inscripción de la parcela en el Registro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494862J",
+      "lugar": "Paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Nombramiento de un auxiliar administrativo interino para Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Urgente: se nombra un auxiliar administrativo interino para la Sección de Gestión Tributaria, de la que dependen la mayoría de los ingresos municipales, para evitar retrasos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501254M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Seis limpiadores de refuerzo COVID para los colegios públicos",
+      "categoria": "personal",
+      "resumen": "Urgente: se contratan seis limpiadores temporales para desinfectar aseos y zonas comunes en horario lectivo en los colegios San José de Calasanz, Alfonso X El Sabio, La Pedrera, Miguel Ortuño, El Alba y Giner de los Ríos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501075N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Interfibra podrá poner una torre de telecomunicaciones más alta junto a un camino público",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Urgente: se autoriza en precario a Interfibra Telecomunicaciones, S.L. a instalar una torre de internet y telefonía en un ensanche del camino público CRA-47, que sustituye a la de 2013 porque las obras de la autovía A-33 obligan a una más alta. Deberá presentar declaración responsable y seguro.",
+      "entidades": [
+        {
+          "nombre": "Interfibra Telecomunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "492825?",
+      "lugar": "Camino público CRA-47 (polígono 51)",
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Vuelve el público a los partidos del Fútbol Base Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza público en los partidos de la Sociedad Deportiva Fútbol Base Yecla en el campo 2 del Complejo Juan Palao Azorín, con los aforos y protocolos COVID validados por la Dirección General de Deportes.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481314R",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Público en los partidos de la Red Deportiva Yecla en el pabellón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza público en los partidos de la Red Deportiva Yecla en el Pabellón José Ortega Chumilla (solo en los del equipo sénior, según la Dirección General de Deportes).",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484309C",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Público en los partidos de la Sociedad Deportiva Hispania",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza público en los partidos de la Sociedad Deportiva Hispania (fútbol sala, entre ellos Segunda División Femenina) en el Pabellón José Ortega Chumilla.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Hispania",
+          "cif": null,
+          "tipo": "club",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481073H",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    }
+  ]
+}

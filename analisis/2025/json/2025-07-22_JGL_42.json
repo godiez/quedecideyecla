@@ -1,0 +1,874 @@
+{
+  "doc": "2025-07-22_JGL_42",
+  "organo": "JGL",
+  "sesion": 42,
+  "fecha": "2025-07-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "La Junta de Gobierno adjudica a Endesa la luz de todos los edificios y alumbrado municipales durante un año por 1,05 millones de euros con IVA y compra un coche para la Policía Local (37.500 €). Paga 484.652 euros en facturas, sobre todo la recogida de basura y limpieza viaria de junio. Adjudica varios contratos menores de cultura y turismo (festival de cortos, vídeo turístico, actividades de patrimonio), aprueba un paso de peatones elevado en la Ronda Norte y une a Yecla a dos redes de ciudades (CIDEU y Ciudades que Caminan).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 15 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Informe sobre el Mercado Central por la obra del Edificio Cazadores",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de un informe del ingeniero técnico industrial municipal sobre cómo afecta al Mercado Central la obra del Edificio Cazadores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1123917X",
+      "lugar": "Mercado Central",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza viaria, residuos, grúa, red de agua e igualdad",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: el servicio de recogida de basura y limpieza viaria de junio (365.314,87 €), el tratamiento de residuos en el Consorcio regional, la grúa municipal, la renovación de la red de agua de la calle Pablo Casals y las actividades de igualdad y mujer de 2025.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 484652.36,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos urbanos, junio 2025",
+          "eur": 81272.21,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos (grúa), junio 2025",
+          "eur": 6897.0,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, recogida selectiva y limpieza viaria, junio 2025 (C.SE. 2/23)",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Renovación de la red de agua potable en calle Pablo Casals",
+          "eur": 19168.28,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Actividades de los días de igualdad y mujer 2025 (contrato menor)",
+          "eur": 12000.0,
+          "entidad": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 697847H, 712712D, 905999H, 1022663Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recibos del agua y canon de saneamiento (2º trimestre) y tasa de basura (3er trimestre)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban los padrones de cobro que gestiona FCC Aqualia: agua potable del 2º trimestre de 2025 (338.804,89 €), canon municipal (15.156,05 €), canon de saneamiento autonómico (242.771,66 €) y tasa de basura del 3er trimestre (377.762,00 €); se anulan recibos de basura por 104,90 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua y recaudadora de la tasa de basura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 377762.0,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 2º trimestre 2025",
+          "eur": 338804.89,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon municipal 2º trimestre 2025 (ingreso del Ayuntamiento)",
+          "eur": 15156.05,
+          "entidad": null
+        },
+        {
+          "concepto": "Canon de saneamiento de la Comunidad Autónoma, 2º trimestre 2025",
+          "eur": 242771.66,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Tasa de recogida de basura 3er trimestre 2025",
+          "eur": 377762.0,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121804M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Más horas para dos trabajadoras del proyecto de acompañamiento a mayores",
+      "categoria": "personal",
+      "resumen": "Se amplía desde el 1 de agosto la jornada de una trabajadora social (al 100 %) y de una auxiliar administrativa (al 63,68 %) del proyecto de acompañamiento intensivo a personas mayores vulnerables (fondos europeos PRTR), porque el proyecto empezó un mes tarde y hay que hacer lo mismo en menos tiempo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1097313X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Excedencia de una auxiliar administrativa para cuidar a su hijo",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa excedencia voluntaria para cuidado de hijo menor de tres años del 4 al 31 de agosto de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123242J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Permiso por matrimonio a una profesora de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se concede a una profesora de la Escuela de Bellas Artes 15 días de permiso por matrimonio (del 20 de octubre al 3 de noviembre de 2025).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123824R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contrato para ensobrar y enviar los recibos del IBI 2025",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Envíos Melgarejo, S.L. por 6.366,08 € el ensobrado y envío del padrón del IBI urbano y de bienes de características especiales (BICE) de 2025.",
+      "entidades": [
+        {
+          "nombre": "Envíos Melgarejo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6366.08,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121546D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato para un vídeo turístico de Yecla (fondos europeos)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular por 11.495 € la creación de un vídeo turístico de Yecla, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' financiado con fondos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 11495.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115548Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contrato para organizar el I Festival de Cortometrajes 'Yecla en Corto'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Boria Producciones, S.L.U. por 18.143,95 € la organización y producción del primer festival de cortometrajes 'Yecla en Corto 2025'.",
+      "entidades": [
+        {
+          "nombre": "Boria Producciones, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18143.95,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113428D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Contrato de actividades para descubrir el patrimonio en familia",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Marco Topo, S.L. por 18.089,50 € la actividad 'Descubriendo el Patrimonio de Yecla jugando en familia', del proyecto 'Yecla, accesible para ti'.",
+      "entidades": [
+        {
+          "nombre": "Marco Topo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18089.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1111711T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Alojamiento y comidas de los grupos del Festival de Folclore",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Pico Hermanos, S.L. por 6.381,60 € el alojamiento y las dietas de los grupos folclóricos del Festival de Folclore Ciudad de Yecla (6 y 7 de septiembre de 2025).",
+      "entidades": [
+        {
+          "nombre": "Pico Hermanos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6381.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123907H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Alojamiento en Almansa de una banda de Países Bajos para 'Verano en Danza'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Bernini Viajes, S.L. por 7.500 € el alojamiento en Almansa de la Banda Real de los Países Bajos que actúa en 'Verano en Danza 2025'.",
+      "entidades": [
+        {
+          "nombre": "Bernini Viajes, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121881T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Compra de piezas metálicas para hitos identificativos de Yecla",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Mecanoacid, S.L. por 12.441,89 € el suministro de elementos metálicos para hitos (señales o monolitos) identificativos de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Mecanoacid, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12441.89,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123398A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Fecha de recepción de las obras de peatonalización de la calle Perales",
+      "categoria": "contrato",
+      "resumen": "Se fija el 31 de julio de 2025 para recibir las obras de peatonalización de la calle Perales, junto a la iglesia de San Francisco y San Roque, hechas por Mediterráneo de Obras y Asfaltos, S.A. con fondos europeos a través del Instituto de Turismo regional (ITREM).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996177E",
+      "lugar": "Calle Perales (junto a la iglesia de San Francisco)",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Puesto benéfico de la Parroquia de San Juan Bautista en el mercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia de San Juan Bautista a poner un puesto benéfico para recaudar fondos en el mercado de San Francisco el 23 de julio, con una carpa, dos mesas y dos sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123095E",
+      "lugar": "Mercado de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aparcamientos en cordón frente a la carga y descarga del Consum de calle Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "A propuesta de la Policía Local se cambian los aparcamientos de batería a cordón frente a la zona de carga y descarga del supermercado Consum y se renueva la señalización, por problemas de circulación.",
+      "entidades": [
+        {
+          "nombre": "Consum",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "zona de carga y descarga afectada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123206J",
+      "lugar": "Calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Nuevo paso de peatones elevado en Ronda Norte con calle Clara Campoamor",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe favorable de la Policía Local (los coches van demasiado rápido), se aprueba poner un paso de peatones sobreelevado con señal luminosa en ese cruce de la Ronda Norte.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123485X",
+      "lugar": "Ronda Norte, cruce con calle Clara Campoamor",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Una empresa del polígono Las Teresas podrá mover una farola y quitar un árbol",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Reyes Ordóñez Design, S.L. a desplazar 3 metros una farola y retirar un árbol frente a su nave porque dificultan la entrada de camiones; todo a su cargo y con una fianza de 2.093,65 €.",
+      "entidades": [
+        {
+          "nombre": "Reyes Ordóñez Design, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123061H",
+      "lugar": "Calle Dr. Pedro Pons, Polígono Industrial Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para su boda civil el 25 de julio de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122000J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 3ª planta de la Casa Consistorial para su boda civil el 3 de octubre de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121233T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Uso del Auditorio Juan Miguel Benedito para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Auditorio Municipal para su boda civil el 22 de noviembre de 2025, previo pago del precio público de 120 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120573C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Programa y presupuesto de las Fiestas de San Roque",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de las Fiestas de San Roque del 16 de agosto, con un presupuesto de 1.742,40 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1742.4,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122425Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Normas de acceso al proyecto de acompañamiento a mayores vulnerables",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los criterios de admisión, derivación y funcionamiento del proyecto de acompañamiento intensivo a personas mayores en situación de vulnerabilidad social, de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122840A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Yecla se une a la red iberoamericana de ciudades CIDEU",
+      "categoria": "organizacion",
+      "resumen": "Yecla se adhiere a la Red de Ciudades del Centro Iberoamericano de Desarrollo Estratégico Urbano (CIDEU), para formación y cooperación en planificación urbana; la cuota anual es de 3.500 dólares (unos 3.000 €), a incluir en el presupuesto de 2026.",
+      "entidades": [
+        {
+          "nombre": "Centro Iberoamericano de Desarrollo Estratégico Urbano (CIDEU)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "red a la que se adhiere; cobra cuota"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117258Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Yecla se une a la Red de Ciudades que Caminan",
+      "categoria": "organizacion",
+      "resumen": "Yecla se adhiere a la Red de Ciudades que Caminan, que promueve ir a pie por la ciudad, y paga la cuota anual de 750 €; se firmarán la Carta Internacional del Caminar y los principios de la red.",
+      "entidades": [
+        {
+          "nombre": "Red de Ciudades que Caminan",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "red a la que se adhiere; cobra cuota"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 750.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113920M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Visitas guiadas por Yecla de septiembre a diciembre",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas organizado con el Instituto de Turismo regional y la Red de Oficinas de Turismo para septiembre-diciembre de 2025, con un gasto de 4.898,08 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4898.08,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122143H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Se piden 10.000 € a la Comunidad Autónoma para calidad turística (SICTED)",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento solicita a la Consejería de Turismo, Cultura, Juventud y Deportes una subvención de 10.000 € para el Sistema Integral de Calidad Turística en Destinos (SICTED).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concedería la subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1124016J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "El Yeclano Deportivo usará el campo de La Constitución en la temporada 2025/26",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y cede al Yeclano Deportivo el Campo Municipal de La Constitución para entrenamientos, partidos oficiales de la temporada 2025/26 (primer equipo en 2ª RFEF y segundo en 3ª RFEF), un partido de Copa Federación en agosto y la presentación de equipos el 28 de agosto. Se advierte de que el convenio de 2024 habría perdido vigencia por el ascenso del segundo equipo y de que en el futuro deberá pedir los usos en plazo.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa el campo municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121253X",
+      "lugar": "Campo Municipal de Deportes de La Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Plan de seguridad de la obra de los Baños Árabes de Los Torrejones",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la primera fase de las obras del Plan Director del yacimiento de Los Torrejones (Baños Árabes), de la empresa Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Denegada tarjeta de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la tarjeta de residente de zona azul porque no es la titular del vehículo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1116840R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Concedida tarjeta de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la tarjeta de residente de zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122038M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "La luz del Ayuntamiento, para Endesa: 1,05 millones al año",
+      "categoria": "contrato",
+      "resumen": "Por urgencia, se adjudica a Endesa Energía, S.A. el suministro de electricidad en alta y baja tensión de todo el Ayuntamiento durante un año a precio fijo, a través de la central de compras de la FEMP, por ser la oferta más ventajosa frente a Iberdrola Clientes y Gas Natural Comercializadora. Importe anual: 867.768,60 € más IVA (1.050.000,01 € con IVA).",
+      "entidades": [
+        {
+          "nombre": "Endesa Energía, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Iberdrola Clientes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora no adjudicataria"
+        },
+        {
+          "nombre": "Gas Natural Comercializadora, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora no adjudicataria"
+        },
+        {
+          "nombre": "Central de Contratación de la FEMP",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "central de compras"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1050000.01,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1086436P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Nuevo coche crossover para la Policía Local por 37.500 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Talleres M. Gallego, S.L. por 37.499,99 € (IVA incluido) el suministro de un vehículo tipo crossover para la Policía Local; obtuvo 91,27 de 100 puntos.",
+      "entidades": [
+        {
+          "nombre": "Talleres M. Gallego, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37499.99,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1100196A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Desierto el contrato del bar del Centro de Mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se declara desierto el contrato del bar-cafetería del Centro Municipal de Personas Mayores Las Herratillas porque nadie se presentó.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1064963Q",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Bolsa de empleo y contrato de un cuidador para el centro de animales",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases para crear una bolsa de empleo de cuidador de animales (oferta al SEF) y la contratación temporal de uno a 30 horas semanales para cubrir las vacaciones del trabajador del centro de protección animal (coste unos 1.921 € al mes).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123110A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Alegación a los nuevos estatutos del Consorcio de Bomberos",
+      "categoria": "organizacion",
+      "resumen": "Yecla presenta una alegación a la modificación de los estatutos del Consorcio de Extinción de Incendios y Salvamento de la Región de Murcia pidiendo que su Junta de Gobierno pueda reunirse por videoconferencia.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de Extinción de Incendios y Salvamento de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "modifica estatutos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110401Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Pruebas de la nueva pista de vóley playa de Los Rosales",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza poner en marcha en fase de pruebas, antes de abrirla al público, la pista de vóley playa del Centro de Ocio Los Rosales (obra de 18.767,10 €), con la colaboración de la Red Deportiva Yecla.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora en la fase de pruebas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1121253X",
+      "lugar": "Centro de Ocio Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Cambio de coche de la licencia de taxi nº 8",
+      "categoria": "licencia_actividad",
+      "resumen": "Se autoriza al titular de la licencia de taxi nº 8 a sustituir su vehículo por otro nuevo, pagando la tasa correspondiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122901K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Alquiler de un local para guardar enseres del Mercado Central",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica a un particular por 10.800 € (IVA incluido) el alquiler de un local para almacenar los enseres del Mercado Central.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "arrendador; cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1125197Z",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

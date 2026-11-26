@@ -1,0 +1,1111 @@
+{
+  "doc": "2024-11-26_JGL_60",
+  "organo": "JGL",
+  "sesion": 60,
+  "fecha": "2024-11-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 46,
+  "resumen": "La Junta de Gobierno acepta casi 3 millones de euros del Ministerio para restaurar el castillo (Hisn Yakka) y adjudica por 245.000 euros a Aventino la obra inmersiva 'Yecla sueños de viaje' de la Iglesia Vieja. Rechaza una planta solar y dos naves de colchones en suelo no urbanizable, dos de ellas dentro del yacimiento protegido de Los Torrejones. Además paga 428.427 euros en facturas, contrata personal para reducir la lista de espera de Atención Temprana, pide fondos para proyectos con mayores y autoriza 12 terrazas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 20 y 22 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: empleo público, parque solar 'Yecla Solar' y ayudas al patrimonio turístico",
+      "categoria": "informacion",
+      "resumen": "Se informa de la concesión de subvenciones del programa de Empleo Público Local 2024 del SEF, de la autorización de construcción a Audax Solar SPV VI, S.L. del parque fotovoltaico 'Yecla Solar' de 29,4 MW, y de la resolución del Ministerio de Industria y Turismo sobre ayudas para dinamizar el patrimonio histórico con uso turístico. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Industria, Energía y Minas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Audax Solar SPV VI, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe autorización"
+        },
+        {
+          "nombre": "Secretaría de Estado de Turismo (Ministerio de Industria y Turismo)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "4E18ATE25790",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, jardines, Centro de Día, alcantarillado y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 9 facturas por 428.427,34 €: recogida de basuras y jardines (Actúa), Centro de Día de mayores, alcantarillado de la calle San Antonio, juegos infantiles en la Plaza 8 de Marzo y el Cerro del Castillo, césped del Juan Palao, socorrismo del Plan Corresponsables, una actuación de la Feria y la obra 'Fuenteovejuna'.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Neopark CLM 2011, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación Cultural Tablas Teatro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 428427.34,
+      "importes": [
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, octubre 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, octubre 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, octubre 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Corcho de relleno y mantenimiento del césped artificial del campo nº 2 del Complejo Juan Palao Azorín",
+          "eur": 16940.0,
+          "entidad": "Realturf Systems, S.L."
+        },
+        {
+          "concepto": "Juegos infantiles en la Plaza 8 de Marzo y junto al Paso de la Bandera del Cerro del Castillo, Lote 2",
+          "eur": 26257.0,
+          "entidad": "Neopark CLM 2011, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, julio 2024 (Plan Corresponsables)",
+          "eur": 34082.2,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actuación 'Conexión Remember', Feria de Septiembre 2024",
+          "eur": 6050.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Renovación del alcantarillado de la calle San Antonio hacia calle Iberia",
+          "eur": 47559.09,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L."
+        },
+        {
+          "concepto": "Obra 'Fuenteovejuna' en el Teatro Concha Segura",
+          "eur": 6200.0,
+          "entidad": "Asociación Cultural Tablas Teatro"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 777199T, 836272P, 875087Z, 909253C, 941685X, 964215N, 975385C, 1001966W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones: derribos en calle Carmen y San Roque y Casa de los Arcos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 6 y última de la demolición de varios inmuebles en calle Carmen y calle San Roque (23.111,81 €) y la nº 4 del Centro Enoturístico de la Casa de los Arcos (Plan de Sostenibilidad Turística, fondos europeos), para la que el acta da dos importes distintos (17.485,40 € y 8.838,84 €).",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 40597.21,
+      "importes": [
+        {
+          "concepto": "Certificación nº 6 y última, demolición de inmuebles en calle Carmen y calle San Roque",
+          "eur": 23111.81,
+          "entidad": "Servicios Profesionales Murcianos, S.L."
+        },
+        {
+          "concepto": "Certificación nº 4, Centro Enoturístico Casa de los Arcos (PST 'Yecla ES +'); el acta también cita 8.838,84 €",
+          "eur": 17485.4,
+          "entidad": "Urgacen Viena 25, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M, 900819N",
+      "lugar": "calle Carmen y calle San Roque; Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Exención del IBI rústico 2023 por la sequía a una agricultora",
+      "categoria": "fiscal",
+      "resumen": "Se exime del IBI rústico de 2023 a una agricultora por la reducción de rendimiento por la sequía (RDL 4/2023) y se le devuelven 1.139,33 € ya pagados, pendiente de que el Estado compense al Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Financiación Autonómica y Local",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "compensa la exención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1139.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797883X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda aislada en suelo rústico (agua por cisterna)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para una vivienda unifamiliar aislada; como no tiene red de agua potable, para la primera ocupación deberá acreditar suministro por cisterna autorizado, informe sanitario y permiso de vertido de la Confederación (fosa séptica). Plazos: 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933826F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Legalización de un aparcamiento entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para legalizar un aparcamiento ya existente entre medianeras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "936949T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Priminvertia Yecla para ampliar la nave de la ITV",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para ampliar la nave de la estación de inspección técnica de vehículos (ITV) en la Avenida Adolfo Suárez esquina Travesía Tejeras; sin fianza al ser obra interior de parcela privada.",
+      "entidades": [
+        {
+          "nombre": "Priminvertia Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "965858W",
+      "lugar": "Avenida Adolfo Suárez, 78 (antigua Avenida de la Paz, 214), esquina Travesía Tejeras",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia (proyecto básico) para una vivienda unifamiliar en esquina",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico para una vivienda unifamiliar en esquina; para empezar las obras deberá presentar el proyecto de ejecución. Fianza de urbanización de 1.700 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1700.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "967581N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para derribar un edificio medianero",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para demoler un edificio medianero, con fianzas de 905,58 € (urbanización) y 441 € (alumbrado y mobiliario), desratización previa, vallado del solar y 3 meses para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1346.58,
+      "importes": [
+        {
+          "concepto": "Fianza por reposición de la urbanización",
+          "eur": 905.58,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Fianza por cables de alumbrado y mobiliario urbano",
+          "eur": 441.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988409Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Denegada planta fotovoltaica de Atalaya FV en el yacimiento de Los Torrejones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega la licencia de una planta fotovoltaica (El Lidonero Solar, 0,5 MW) en el paraje Lidonero porque está en suelo no urbanizable de protección arqueológica dentro del entorno del BIC de Los Torrejones y falta la autorización de Patrimonio Cultural de la CARM (solo tiene permiso de supervisión arqueológica).",
+      "entidades": [
+        {
+          "nombre": "Atalaya FV, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "928256W",
+      "lugar": "Paraje Lidonero, polígono 46, parcela 155 (entorno BIC Los Torrejones)",
+      "interes": 3
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Denegada nave de fábrica de colchones en suelo no urbanizable (Ctra. de Villena)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega la licencia de una nave de 4.447 m² para fabricar colchones en la carretera RM-425 de Villena: se apoyaba en una autorización autonómica de 1997 (a Yupi Muebles) basada en un artículo anulado por el Constitucional, ocupa un 63% más de lo autorizado y hay 17 solares libres en polígonos industriales.",
+      "entidades": [
+        {
+          "nombre": "Yupi Muebles, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "antiguo titular de la autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "865646M",
+      "lugar": "Ctra. RM-425 Villena-Yecla, km 62,6",
+      "interes": 3
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Rechazada la nave de colchones de Diseño Rodrima dentro del BIC de Los Torrejones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza iniciar la autorización por interés público de una nave para fabricar y almacenar colchones porque la parcela está dentro del BIC de Los Torrejones (suelo protegido), a menos de 200 m de dos cauces y de un embalse, en zona agrícola alejada de áreas industriales y sin justificar el interés público.",
+      "entidades": [
+        {
+          "nombre": "Diseño Rodrima, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "789964Y",
+      "lugar": "polígono 45, parcela 586 (BIC Los Torrejones)",
+      "interes": 3
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Segregación de una finca agrícola en suelo no urbanizable",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza dividir una finca de regadío de 43.998 m² en dos parcelas (18.377 m² y 21.325 m²), por encima de la unidad mínima de cultivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "990489E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Tres interinos para reducir la lista de espera de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se aprueba un programa temporal de tres años (nov. 2024-nov. 2027), financiado por el IMAS mediante adenda al convenio, para reducir la lista de espera del Centro de Desarrollo Infantil y Atención Temprana, y se nombran de las bolsas un técnico de atención temprana y dos logopedas (32,5 h/semana).",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1003889Q",
+      "lugar": "CDIAT",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Excedencia de un agente de la Policía Local que se va a Mula",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria a un agente de la Policía Local que pasa a ser funcionario del Ayuntamiento de Mula.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010570W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Un auxiliar-delineante asume las funciones del delineante jubilado",
+      "categoria": "personal",
+      "resumen": "Por la jubilación del delineante-administrativo de los Servicios Técnicos y no haber bolsa, se atribuyen temporalmente sus funciones al auxiliar-delineante, pagándole la diferencia de complementos, y se incluirá la plaza en la próxima oferta de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1007940R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Dos trabajadoras de Servicios Sociales a una jornada en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena la asistencia de una trabajadora social y una educadora social a una jornada sobre trastorno límite de la personalidad el 28 de noviembre y se pagan desplazamiento y manutención.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1011567E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "245.000 € a Aventino por la obra inmersiva 'Yecla sueños de viaje' en la Iglesia Vieja",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento negociado sin publicidad, a la única empresa que tiene la exclusiva del artista, la obra inmersiva que convertirá la Iglesia Vieja en centro de visitantes (actuación 11 del Plan de Sostenibilidad Turística, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Aventino Proyectos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 245000.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959428P",
+      "lugar": "Iglesia Vieja",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Climatización de la Escuela de Música",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto simplificado la instalación de unidades climatizadoras en la Escuela de Música a DPV Instalación y Mantenimiento (mejor precio, 88,70 puntos).",
+      "entidades": [
+        {
+          "nombre": "DPV Instalación y Mantenimiento, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47084.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983068Y",
+      "lugar": "Escuela de Música",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "150 libros de fotos históricas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Yeclagrafic el suministro de 150 ejemplares de un libro de fotografías históricas para la Casa Municipal de Cultura.",
+      "entidades": [
+        {
+          "nombre": "Yeclagrafic, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6131.77,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009531C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Licencias WiFi Meraki para el Ayuntamiento (fondos europeos)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro de licencias para los puntos de acceso WiFi (Meraki), dentro de la modernización digital financiada con fondos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18131.22,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "995945H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Coordinación de atenciones puntuales del Servicio de Ayuda a Domicilio",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para coordinar las atenciones circunstanciales del Servicio de Ayuda a Domicilio 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Asistencia Formación y Eventos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15589.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1011714J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto benéfico de AYAC en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer un puesto los días 11 y 18 de diciembre para recoger donativos con adornos navideños, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1003554A",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto benéfico de AYAC en el Mercado de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC otro puesto los días 11 y 18 de diciembre en el Mercado de San Cayetano para la misma campaña.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010357Z",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de invierno para 'Terrae' (16 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m² de noviembre de 2024 a marzo de 2025 en calle Arcipreste Esteban Díaz, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Terrae (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1002509Z",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza anual para 'Lío Bar' (27 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 27 m² todo el año (noviembre 2024-octubre 2025) en calle San Francisco, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Lío Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996157C",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de invierno para 'Cafetería TJ' (9 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 9 m² de noviembre de 2024 a marzo de 2025 en Avda. Literato Azorín, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Cafetería TJ (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009161N",
+      "lugar": "Avda. Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza anual para 'Keyko' (18 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 18 m² todo el año (noviembre 2024-octubre 2025) en calle San Antonio, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Keyko (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009159K",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza anual para 'Chicago' (18 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 18 m² todo el año (noviembre 2024-octubre 2025) en calle San José, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Chicago (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010617K",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Terraza anual para 'Firenze' (12 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 12 m² todo el año (noviembre 2024-octubre 2025) en calle San José, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Firenze (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010618M",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Terraza anual para 'Memphis' (55 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 55 m² todo el año (noviembre 2024-octubre 2025) en calle San José, 8, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Lucas Domene, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009158J",
+      "lugar": "calle San José, 8",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Terraza anual para 'La Tapeoteca' (54 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 54 m² todo el año (noviembre 2024-octubre 2025) en Plaza María Carmen Lorente, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1011805K",
+      "lugar": "Plaza María Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Terraza anual para 'Bar Peña Taurina' (50 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 50 m² todo el año (noviembre 2024-octubre 2025) en calle Tejeras, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Bar Peña Taurina (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996813N",
+      "lugar": "calle Tejeras",
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Terraza de invierno para 'La Parada' (10 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 10 m² de noviembre de 2024 a marzo de 2025 en calle San José, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "La Parada (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1008528J",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.13",
+      "titulo": "Terraza anual para 'Aquarium Café' (68 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 68 m² todo el año (noviembre 2024-octubre 2025) en Plaza Ocho de Marzo / calle San José, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Aquarium Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1011904Y",
+      "lugar": "Plaza Ocho de Marzo / calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.14",
+      "titulo": "Terraza anual para 'Mesón La Parra' (16 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 16 m² todo el año (noviembre 2024-octubre 2025) en Avda. Literato Azorín, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Mesón La Parra (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "886743N",
+      "lugar": "Avda. Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.15",
+      "titulo": "Puesto de Cruz Roja por el Día contra la Violencia hacia la Mujer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja un puesto informativo en la calle San Francisco el 29 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1008560D",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.16",
+      "titulo": "Desayuno saludable de los Centros de Salud en el Jardín de la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los Centros de Salud de Yecla un desayuno saludable el 3 de diciembre y se les presta una carpa, sin reserva del jardín.",
+      "entidades": [
+        {
+          "nombre": "Centros de Salud de Yecla (Servicio Murciano de Salud)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010330M",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.17",
+      "titulo": "Permiso para trasladar un árbol que coincide con la entrada de un garaje",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un vecino a quitar un árbol y su alcorque frente a su inmueble, hacer un alcorque nuevo y plantar un árbol semejante, con fianza de 250 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009792P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.18",
+      "titulo": "Cambio de contenedores en calle San Pascual: se deja sobre la mesa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aplaza para estudiarlo con más detalle.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "965165H",
+      "lugar": "calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Cambio de fecha del Auditorio para presentar un libro de fotos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se traslada al 12 de diciembre la presentación de un libro de fotografías en el Auditorio Juan Miguel Benedito, previo pago del precio público de 120 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993218W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Tarjeta de residente en zona azul: se deja sobre la mesa",
+      "categoria": "fiscal",
+      "resumen": "Se aplaza una solicitud de condición de residente en zona azul.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1003880D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Tarjeta de residente en zona azul a una vecina",
+      "categoria": "fiscal",
+      "resumen": "Se reconoce la condición de residente en zona azul a una vecina hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1010106A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Furgoneta de segunda mano para la Brigada de Obras",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la compra de una furgoneta mixta de 5 plazas de segunda mano para la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "Automotor Hnos. Marín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13999.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1012503E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Se aceptan 3 millones del Ministerio para restaurar el castillo (Hisn Yakka)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta la subvención definitiva de 2.999.957 € del Ministerio de Industria y Turismo para el proyecto 'El renacer de Yakka', de conservación y restauración del castillo, con fondos europeos del Plan de Recuperación.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Industria y Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2999957.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772571Q",
+      "lugar": "Cerro del Castillo (Hisn Yakka)",
+      "interes": 3
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Se piden 157.175 € a la CARM para dos proyectos piloto de atención a mayores",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento se apunta a la financiación del IMAS para proyectos piloto de innovación con mayores y aprueba dos: acompañamiento intensivo a mayores vulnerables (85.175,17 €) y un estudio de viviendas colaborativas tipo 'cohousing senior' (72.000 €).",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 157175.17,
+      "importes": [
+        {
+          "concepto": "Acompañamiento intensivo a personas mayores vulnerables",
+          "eur": 85175.17,
+          "entidad": "Instituto Murciano de Acción Social (IMAS)"
+        },
+        {
+          "concepto": "Diagnóstico e impulso de viviendas colaborativas tipo Cohousing Senior",
+          "eur": 72000.0,
+          "entidad": "Instituto Murciano de Acción Social (IMAS)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993730F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Bonos de compra 'Yeclanea 2024': lista de comercios beneficiarios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la lista de comercios minoristas (autónomos y pequeñas empresas) que serán beneficiarios de los bonos de descuento de la campaña 'Yeclanea 2024', financiada por la CARM, y se deniega a otros; el acta no publica la lista ni los importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Impulso al Comercio, Consejería de Economía, Hacienda y Empresa (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931952D, 1005761Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Actividades del Día Internacional de las Personas con Discapacidad",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban actividades el 30 de noviembre en el Auditorio y la Plaza Mayor con un gasto de 1.676,19 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1676.19,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1005313T",
+      "lugar": "Auditorio Municipal; Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Prácticas de una estudiante de Psicología en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autorizan 225 horas de prácticas curriculares no remuneradas de una estudiante de la UNED en el Centro Municipal de Servicios Sociales.",
+      "entidades": [
+        {
+          "nombre": "Universidad Nacional de Educación a Distancia (UNED)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1011917Q",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

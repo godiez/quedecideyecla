@@ -1,0 +1,686 @@
+{
+  "doc": "2022-03-08_JGL_11",
+  "organo": "JGL",
+  "sesion": 11,
+  "fecha": "2022-03-08",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno adjudica cinco contratos menores (prevención de riesgos laborales a Umivale por 12.000 euros, una furgoneta Ford Transit para Agricultura por 14.000 euros, publicidad digital, plataforma de recursos humanos y gestión de la factura eléctrica) y encarga a FCC Aqualia renovar la red de agua de la calle Santa Bárbara por 25.238 euros. Se convocan las plazas del programa de empleo y formación 'Yecla Impulsa Joven 2021', subvencionado con 153.360 euros por el SEF. También se rechazan peticiones de trabajadores (guardias y calendario de las brigadas), se inadmite la nulidad de una multa de seguridad ciudadana y se autorizan procesiones de Vía Crucis y la marcha BTT Komokabras.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 1 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: protocolo deportivo, Plan Reactiva y tres reintegros de subvenciones",
+      "categoria": "informacion",
+      "resumen": "Se informa del nuevo protocolo regional para la actividad deportiva, de un anticipo del SEF para el Plan Reactiva y del inicio de tres procedimientos para que el Ayuntamiento devuelva parte de subvenciones ya cobradas (un curso de tapizado de 2018, orientación laboral para jóvenes de 2020 y ayudas a familias vulnerables de 2016). No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta protocolo"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención / pide reintegro"
+        },
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        },
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias y Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "594713Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Recaudación de taquilla de las cuatro galas de Carnaval",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de las entradas vendidas en la gala de coronación de la Reina del Carnaval (Teatro Concha Segura) y en las tres galas de Carnaval de la Feria del Mueble, y se dan de baja las entradas no vendidas. Se recaudan 11.420 euros en total.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11420.0,
+      "importes": [
+        {
+          "concepto": "Gala de coronación de la Reina de Carnaval (Teatro Concha Segura), taquilla",
+          "eur": 2205.0,
+          "entidad": null
+        },
+        {
+          "concepto": "I Gala de Carnaval (Feria del Mueble), taquilla",
+          "eur": 2785.0,
+          "entidad": null
+        },
+        {
+          "concepto": "II Gala de Carnaval 2022 (Feria del Mueble), taquilla",
+          "eur": 3495.0,
+          "entidad": null
+        },
+        {
+          "concepto": "III Gala de Carnaval 2022 (Feria del Mueble), taquilla",
+          "eur": 2935.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593008Y",
+      "lugar": "Teatro Concha Segura; Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contrato de sustitución de una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnica de Educación Infantil a tiempo parcial (25 horas) para sustituir a una tutora de aula de la Escuela Infantil Campanilla de baja, como máximo hasta fin de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595217Q",
+      "lugar": "Escuela Infantil Campanilla",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contrato temporal de un mecánico para el parque móvil municipal",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un mecánico, como máximo tres años hasta que la plaza vacante se cubra por oposición, porque con un solo trabajador no se puede mantener el parque móvil ni reabrir el Parque de Educación Vial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493000Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Denegada a un fontanero municipal la baja en las guardias semanales",
+      "categoria": "personal",
+      "resumen": "Se deniega a un oficial fontanero que deje de hacer las guardias semanales de ocho horas para cuidar de su madre, porque solo tres puestos de fontanería las cubren y así figura en la relación de puestos de trabajo; se le recuerda que puede pedir medidas de conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "577832W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Rechazado el calendario laboral 2022 propuesto por los trabajadores de las brigadas",
+      "categoria": "personal",
+      "resumen": "Se rechaza por segunda vez la propuesta de calendario-jornada laboral de 2022 que presentaron los delegados de personal de las Brigadas de Obras y de Servicios Públicos, y se les pide otra con los mismos criterios que la de 2021.",
+      "entidades": [
+        {
+          "nombre": "Comité de Personal Laboral del Ayuntamiento de Yecla",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "565236A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Desestimado recurso de un aspirante a la bolsa de auxiliar-inspector de obras",
+      "categoria": "reclamaciones",
+      "resumen": "Revisado su examen tipo test, el aspirante obtuvo 4,66 puntos (14 aciertos), por debajo del 5 exigido, así que se desestima su recurso y queda eliminado del proceso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "511236A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Permiso a la técnica de Juventud para una jornada en Molina de Segura",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la técnica de Juventud a asistir el 17 de marzo a la jornada 'Diálogos sobre Juventud' del Ayuntamiento de Molina de Segura, con el vehículo del servicio o pagándole el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Molina de Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596393Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Prevención de riesgos laborales y vigilancia de la salud 2022: Umivale, 12.000 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor del servicio de prevención de riesgos laborales y vigilancia de la salud de la plantilla municipal para 2022.",
+      "entidades": [
+        {
+          "nombre": "Sociedad de Prevención de Umivale, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595563X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Publicidad digital municipal en El Periódico de Yecla 2022: 8.400 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de publicidad institucional digital en El Periódico de Yecla durante 2022. El acta anonimiza al adjudicatario, que sería un particular.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594181C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Plataforma de recursos humanos 2022: Espúblico, 7.424 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de la plataforma informática de gestión de recursos humanos para 2022.",
+      "entidades": [
+        {
+          "nombre": "Espúblico Servicios para la Administración, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7424.49,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595454W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Compra de una furgoneta Ford Transit para Agricultura: 14.000 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de suministro de un vehículo Ford Transit para el Servicio de Agricultura.",
+      "entidades": [
+        {
+          "nombre": "Luis Forte e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593046A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Gestión y control de la factura de luz y gas municipal: 6.679 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para gestionar los consumos y tarifas de los suministros eléctricos y de gas del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Maso Eficiencia y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6679.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593267H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe favorable de la Policía Local, se habilita una plaza reservada para personas con discapacidad en la calle Cruz de Piedra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588948J",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle Historiador Miguel Ortuño",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe favorable de la Policía Local, se habilita una plaza reservada para personas con discapacidad en la calle Historiador Miguel Ortuño.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588998D",
+      "lugar": "calle Historiador Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Señal de prohibido jugar al fútbol en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina y con informe de la Policía Local, que ve peligroso el juego de pelota en zonas peatonales, se instala una señal de prohibido jugar al fútbol en la Plaza de España.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "592128A",
+      "lugar": "Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Vía Crucis de la Cofradía del Cristo de la Buena Muerte el 11 de marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión de Vía Crucis desde las 21:30 del 11 de marzo, con medidas Covid, asistencia de la Policía Local y prohibición de aparcar ante la Ermita de San Nicolás.",
+      "entidades": [
+        {
+          "nombre": "Cofradía de Nazarenos del Santísimo Cristo de la Buena Muerte y María Santísima de la Estrella",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594545H",
+      "lugar": "Ermita de San Nicolás",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Vía Crucis de la Parroquia del Niño Jesús en marzo y abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan procesiones de Vía Crucis el 18 de marzo (tarde) y el 1 de abril (mañana) y los viernes de cuaresma a las 6:30, con medidas Covid y asistencia de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595430M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Auditorio Juan Miguel Benedito para la asamblea de la Junta de Compensación Los Rosales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal para la asamblea general de la Junta de Compensación del sector SUPR 6 'Los Rosales' el 24 de marzo, previo pago de 120 euros de precio público.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación SUPR 6 \"Los Rosales\"",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594659Q",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Teatro Concha Segura gratis para la muestra de talleres del Centro de Mayores del IMAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 7 de junio para la muestra de fin de curso de los talleres artísticos del Centro Social de Personas Mayores, con reducción del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596652J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos de la Casa Consistorial para un matrimonio civil el 11 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593619X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Licencia de segregación de una parcela rústica en el paraje Fuente La Negra",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar una parcela de 8.880 m² de una finca de unas 40 hectáreas en suelo no urbanizable; las construcciones existentes quedan en la finca resto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "562171T",
+      "lugar": "Paraje Fuente La Negra, polígono 128, parcela 8 (suelo no urbanizable)",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Yecla se ofrece como sede de las Jornadas de Patrimonio Cultural de la Región",
+      "categoria": "servicios_actividades",
+      "resumen": "El Ayuntamiento pide ser sede de las XXVIII Jornadas de Patrimonio Cultural de la Región de Murcia, por las actuaciones en el Monte Arabí, los Torrejones, el castillo (Hisn Yakka) y el proyecto 'Yecla es más'; aporta el salón de actos de la Casa de Cultura y paga la manutención de los ponentes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588182W",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Técnicos municipales en la comisión del convenio de seguridad vial en travesías",
+      "categoria": "organizacion",
+      "resumen": "Se nombran dos técnicos municipales (el arquitecto jefe de los Servicios Técnicos y el ingeniero de caminos) como vocales de la comisión de seguimiento del convenio con la Consejería de Fomento que subvenciona obras de seguridad vial en las travesías.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "553367Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "FCC Aqualia renovará la red de agua de la calle Santa Bárbara: 25.238 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se encarga a la concesionaria del agua renovar la tubería de la calle Santa Bárbara entre las calles Jumilla y San Bartolomé, dentro del contrato del servicio de agua potable.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25238.57,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591218M",
+      "lugar": "calle Santa Bárbara, entre calles Jumilla y San Bartolomé",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Inadmitida la petición de anular una multa de seguridad ciudadana de 2018",
+      "categoria": "reclamaciones",
+      "resumen": "Un particular pedía anular una sanción de 2018 por infracción de la Ley de Seguridad Ciudadana alegando que el Ayuntamiento no era competente, como dijo un juzgado en 2020. Se inadmite porque esa falta de competencia no es 'manifiesta' y otros seis juzgados han rechazado peticiones iguales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "568285K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Convocatoria del programa de empleo y formación 'Yecla Impulsa Joven 2021'",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases para seleccionar coordinador, formadores y 15 alumnos-trabajadores jóvenes de Garantía Juvenil del programa de atención sociosanitaria a personas dependientes (6 meses, 75% del salario mínimo), subvencionado por el SEF con 153.360 euros.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 153360.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "520295H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Oferta de empleo de un pintor para el programa +Empleo de mejora de edificios",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF tres candidatos para contratar un pintor durante 9 meses en el proyecto 'Mejora de edificios y espacios públicos en el entorno urbano 2021', subvencionado por el SEF y el Fondo Social Europeo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "547631Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Curso del INAP sobre fondos europeos para la directora de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora de la Agencia de Desarrollo Local asistir a un curso online del INAP sobre la ejecución del Plan de Recuperación, Transformación y Resiliencia.",
+      "entidades": [
+        {
+          "nombre": "Instituto Nacional de Administración Pública (INAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597256Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Cambio de horario a un trabajador social hasta fin de curso",
+      "categoria": "personal",
+      "resumen": "A petición propia, se autoriza a un trabajador social un horario distinto hasta fin del curso escolar, sin cambio de sueldo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597091T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Terraza del bar Los Hermanos en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza anual de 8 m² para el bar 'Los Hermanos', previo pago de la tasa de ocupación de vía pública.",
+      "entidades": [
+        {
+          "nombre": "particular (bar Los Hermanos)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593614P",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Sala de Psicomotricidad del Centro de Atención Temprana para un taller del AMPA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la Sala de Psicomotricidad del Centro de Desarrollo Infantil y Atención Temprana los martes de marzo, abril y el primero de mayo para el taller 'Experiencia a través de los sentidos'.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del Centro de Desarrollo Infantil y Atención Temprana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596952A",
+      "lugar": "Centro de Desarrollo Infantil y Atención Temprana",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Colaboración municipal con la marcha BTT Komokabras del Club Ciclista Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con la prueba oficial de bicicleta de montaña del 13 de marzo, con salida y llegada en la calle Salzillo, poniendo medios municipales y con condiciones de seguridad, limpieza, medio ambiente y Covid; los gastos se aprobarán aparte.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "563157N",
+      "lugar": "calle Salzillo (CEIP Miguel Ortuño)",
+      "interes": 2
+    }
+  ]
+}

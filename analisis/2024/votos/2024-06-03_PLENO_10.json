@@ -1,0 +1,43 @@
+{
+  "doc": "2024-06-03_PLENO_10",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria del 20 de junio de 2024 (el nombre del fichero dice 06-03). Falta un concejal del PSOE (ausencia justificada): 20 asistentes.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 6,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por doce votos a favor (Grupos M. Popular y Vox) y ocho en contra (Grupos M. Socialista e Izquierda Unida-Verdes), adopta los siguientes acuerdos"
+    }
+  ]
+}

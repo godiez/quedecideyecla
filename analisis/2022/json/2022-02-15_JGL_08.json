@@ -1,0 +1,631 @@
+{
+  "doc": "2022-02-15_JGL_08",
+  "organo": "JGL",
+  "sesion": 8,
+  "fecha": "2022-02-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno paga 133.433 euros en facturas (sobre todo el mantenimiento de las instalaciones deportivas y la limpieza de edificios municipales) y aprueba las Fiestas de Carnaval 2022 con un presupuesto de 41.660 euros. Delimita el casco antiguo como zona de rehabilitación para pedir ayudas europeas de vivienda, responde a Hidráulica San Pascual que el Ayuntamiento apoya a los regantes ante el cierre de pozos del acuífero Sierra del Cuchillo-Cingla, y convoca dos becas de 5.400 euros en el Museo Arqueológico y la Casa de Cultura. También corrige un error en el concurso del bar del centro de mayores Las Herratillas, contrata personal de sustitución y autoriza terrazas, bodas civiles y el uso gratuito del Teatro y el Auditorio a asociaciones.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, limpieza de edificios, grúa y gasóleo",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: el servicio de grúa de diciembre, el mantenimiento y limpieza de las instalaciones deportivas, la limpieza de edificios municipales de enero, gasóleo de calefacción y los cursos de artes plásticas de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 133433.22,
+      "importes": [
+        {
+          "concepto": "Servicio de grúa, diciembre de 2021",
+          "eur": 8736.2,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas",
+          "eur": 56123.13,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, enero de 2022",
+          "eur": 51358.87,
+          "entidad": "T.S.I. Levante"
+        },
+        {
+          "concepto": "Gasóleo C",
+          "eur": 10441.96,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Lote 1 cursos de la Universidad Popular: artes plásticas y oficios artísticos",
+          "eur": 6773.06,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412195T, 508989E, 118095X, 485117Z, 572131C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Taquilla del espectáculo 'Blablacoche' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla del espectáculo 'Blablacoche' (5 de febrero): 3.822,20 € vendidos de 8.691 € en entradas emitidas; se dan de baja 4.858,80 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3822.2,
+      "importes": [
+        {
+          "concepto": "Ingresos por taquilla",
+          "eur": 3822.2,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 4858.8,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585253C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Lista de bares, hoteles y alojamientos que reciben la ayuda covid",
+      "categoria": "subvencion_concedida",
+      "resumen": "La Junta queda enterada del informe de la Agencia de Desarrollo Local con los beneficiarios de la ayuda municipal a hostelería, hoteles y alojamientos turísticos por los efectos de la pandemia. El acta no incluye la lista ni importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "560187N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Lista de pequeños comercios que reciben la ayuda covid",
+      "categoria": "subvencion_concedida",
+      "resumen": "La Junta queda enterada del informe de la Agencia de Desarrollo Local con los beneficiarios de la ayuda a microempresas del comercio minorista por la larga duración de la pandemia. El acta no incluye la lista ni importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "560559E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Contrato de una técnico de Educación Infantil para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a una técnico de Educación Infantil a tiempo parcial (25 horas) para sustituir una baja en la Escuela Infantil 'El Parque', como máximo hasta final de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "587593C",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Contrato de un auxiliar para el Centro de Lectura 'La Alameda'",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un auxiliar de biblioteca a media jornada para que abra el Centro de Lectura 'La Alameda', mientras se cubre la plaza vacante de forma definitiva (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582298Y",
+      "lugar": "Centro de Lectura La Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "La directora de Servicios Sociales irá a una reunión regional",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora del Centro Municipal de Servicios Sociales asistir a una reunión de la Dirección General de Servicios Sociales el 16 de febrero, con los gastos de viaje a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca la reunión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "587346J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Terraza de verano de 24 m² para la cafetería 'Glamour'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza de la cafetería 'Glamour' en la calle Antonio Machado, de abril a octubre de 2022, con 24 m².",
+      "entidades": [
+        {
+          "nombre": "particular (cafetería Glamour)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585977H",
+      "lugar": "Calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Terraza anual de 57 m² para el café bar 'Juzgado' por el covid",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular la terraza anual del café bar 'Juzgado' en el Parque de la Constitución con 57 m², el doble de lo normal (28,5 m²), para compensar la limitación de aforo por la pandemia.",
+      "entidades": [
+        {
+          "nombre": "particular (café bar Juzgado)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578695T",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una nueva plaza de aparcamiento reservada a personas con discapacidad cerca del nº 92 de la calle San Pascual.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581713K",
+      "lugar": "Calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Aulas del Edificio Bioclimático para cursos de poda y fitosanitarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a COAG-Iniciativa Rural Murcia el uso de dos aulas del Edificio Bioclimático para cursos de poda del almendro y del olivar y el carné de fitosanitarios (febrero y marzo).",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos – Iniciativa Rural Murcia (COAG)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585586P",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Boda civil en el Salón de Sesiones el 1 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "587131Z",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Boda civil en el Salón de Sesiones el 18 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "529845X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Boda civil en el Salón de Plenos el 25 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "569726M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Boda civil en el Salón de Plenos el 9 de julio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la Casa Consistorial para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585408R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Auditorio gratis para ADFY: clausura de la campaña de centralización escolar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a ADFY el Auditorio Municipal 'Juan Miguel Benedito' el 8 de abril y se le perdona el 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586598W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Teatro Concha Segura gratis para la VII Gala por la diversidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la asociación 'No hay límite Yecla' el Teatro Concha Segura el 20 de mayo para una gala benéfica y se le perdona el 100% del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586064D",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Beca de 5.400 € para prácticas en el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convoca una beca de hasta 5.400 € para que un joven titulado (18 a 35 años, Historia, Arte, Humanidades, etc.) haga prácticas de arqueología en el Museo 'Cayetano de Mergelina' en 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 5400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578229X",
+      "lugar": "Museo Arqueológico Municipal Cayetano de Mergelina",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Beca de 5.400 € para prácticas en la Casa Municipal de Cultura",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convoca una beca de hasta 5.400 € para que un joven titulado haga prácticas en la Casa Municipal de Cultura en 2022, con los mismos requisitos y baremo que la del museo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 5400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578214A",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Fiestas de Carnaval 2022: programa, reina y presupuesto de 41.660 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las Fiestas de Carnaval (18 a 27 de febrero): coronación en el Teatro, tres galas en el recinto de la Feria del Mueble con entrada a 5 € y desfiles adulto e infantil por el centro, con un presupuesto de 41.660,30 €. Se nombra reina a la única candidata presentada.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cede el recinto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 41660.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "552560W",
+      "lugar": "Teatro Concha Segura y recinto de la Feria del Mueble",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Prácticas de una estudiante de Psicología en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una estudiante de Psicología a hacer 180 horas de prácticas no remuneradas en el Centro Municipal de Servicios Sociales, de febrero a julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586932J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Trabajos en beneficio de la comunidad en servicios municipales",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de Instituciones Penitenciarias, se acepta que varias personas cumplan penas de trabajos en beneficio de la comunidad en los servicios de Festejos, Agricultura y Escuelas Infantiles.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Instituciones Penitenciarias",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583735T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Permiso a una agricultora para quemar restos vegetales con horario limitado",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a una particular a quemar restos vegetales en dos parcelas del polígono 45, a menos de 1.500 m del casco urbano, solo lunes y algunos sábados de 12 a 13 h hasta el 30 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586784D",
+      "lugar": "Polígono 45",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Plan de seguridad de la obra de alcantarillado en calle Santa Bárbara",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa que sustituye la red de saneamiento de la calle Santa Bárbara, entre San Bartolomé y Jumilla.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581733N",
+      "lugar": "Calle Santa Bárbara",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Contrato de un conserje para la Universidad Popular por una baja",
+      "categoria": "personal",
+      "resumen": "Asunto urgente: se contrata de la bolsa de empleo a un conserje-operario para sustituir una baja en la Universidad Popular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588445K",
+      "lugar": "Universidad Popular",
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Se corrige un error en el concurso del bar del centro de mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Antes de publicar la licitación del bar-cafetería del Centro de Mayores 'Las Herratillas' (precio anual de 31.059 €, valor estimado 84.707 €), se corrige el pliego para exigir solvencia económica y técnica, porque la ley solo permite eximirla en contratos de menos de 60.000 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 84707.43,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583035X",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "El casco antiguo, zona de rehabilitación para pedir ayudas europeas de vivienda",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se delimita como Entorno Residencial de Rehabilitación Programada (ERRP) el casco histórico (trama urbana de los siglos XIII al XVIII), donde viven las familias con menos renta y las viviendas están más deterioradas, para optar a las ayudas de rehabilitación de barrios del Plan de Recuperación (fondos europeos). Se envía a la Dirección General de Vivienda.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Vivienda (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita las ayudas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531662W",
+      "lugar": "Casco antiguo",
+      "interes": 3
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Plan de seguridad de la obra de dos puntos de recarga de coches eléctricos",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa que instala dos puntos de recarga para vehículos eléctricos.",
+      "entidades": [
+        {
+          "nombre": "Maso Eficiencia y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "559425E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Apoyo a Hidráulica San Pascual ante el cierre de pozos del acuífero Cuchillo-Cingla",
+      "categoria": "medio_ambiente",
+      "resumen": "Hidráulica San Pascual pidió ayuda porque el acuífero Sierra del Cuchillo-Cingla fue declarado sobreexplotado y el nuevo plan de cuenca recorta hasta un 80% el agua de riego desde 2027. El Ayuntamiento le confirma su apoyo, recuerda sus alegaciones y mociones a favor de trasvases y del agua para la comarca, pero le indica que debe dirigirse al Ministerio y a las Confederaciones del Segura y del Júcar, que son las competentes.",
+      "entidades": [
+        {
+          "nombre": "Hidráulica San Pascual, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "competente"
+        },
+        {
+          "nombre": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "competente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581638F",
+      "lugar": "Acuífero Sierra del Cuchillo-Cingla",
+      "interes": 3
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Colaboración municipal con la carrera de montaña UTY Trail Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con personal y medios en la 12ª UTY Trail Yecla del Club Fondistas Yecla y la Federación de Atletismo (19 de febrero, por Sierra Salinas, el Carche y las Pansas), con condiciones de seguridad, medio ambiente y covid; los gastos municipales se aprobarán aparte.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "576688F",
+      "lugar": "Sierra Salinas, El Carche y Las Pansas; Aula de la Naturaleza Coto Salinas",
+      "interes": 2
+    }
+  ]
+}

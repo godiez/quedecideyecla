@@ -1,0 +1,775 @@
+{
+  "doc": "2026-09-22_JGL_47",
+  "organo": "JGL",
+  "sesion": 47,
+  "fecha": "2026-09-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno paga 124.630 euros por los conciertos de la Feria 2026 (D. Valentino, Medina Azahara y Rebeldes) y 83.411 euros de obra en el castillo (Renacer de Yakka). Informa en contra de un área de servicio con gasolinera, restaurante y hotel en suelo no urbanizable que promueve T.M. Leader Contract, y reconoce 46.296 euros a Actúa por seguir recogiendo la basura sin contrato en vigor. También aprueba el Jazz Yecla 2026 (56.212 euros), licencias para naves industriales y viviendas, y ayudas para libros escolares.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 15 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior (nº 46).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Patrimonio Cultural autoriza la restauración del castillo (Hisn Yakka)",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Dirección General de Patrimonio Cultural autoriza, desde el punto de vista arqueológico, el proyecto de consolidación y restauración del Hisn Yakka, 'El Renacer de Yakka'.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1352420M",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de los conciertos de la Feria, el centro de día y el cobro de la basura",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan los conciertos de D. Valentino, Medina Azahara y Rebeldes en el recinto ferial Los Ventorillos (Feria 2026), el Centro de Día de mayores de agosto y el premio de cobranza de la tasa de basura de julio.",
+      "entidades": [
+        {
+          "nombre": "Promociones Music. Get In, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ma Producciones Espj.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "La Cartagenera de Espectáculos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 187016.53,
+      "importes": [
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, agosto 2026",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Concierto de Rebeldes, 13/09/2026, Feria 2026",
+          "eur": 22990.0,
+          "entidad": "La Cartagenera de Espectáculos, S.L."
+        },
+        {
+          "concepto": "Concierto de D. Valentino, 12/09/2026, Feria 2026",
+          "eur": 65340.0,
+          "entidad": "Promociones Music. Get In, S.L."
+        },
+        {
+          "concepto": "Concierto de Medina Azahara, 11/09/2026, Feria 2026",
+          "eur": 36300.0,
+          "entidad": "Ma Producciones Espj."
+        },
+        {
+          "concepto": "Premio de cobranza de la tasa de basura, julio 2026",
+          "eur": 18212.53,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1313663H",
+      "lugar": "Recinto ferial Los Ventorillos",
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 4 de la restauración del castillo (Renacer de Yakka)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación de julio de la fase 1 de conservación y restauración del Hisn Yakka, financiada con fondos europeos Next Generation a través de la Secretaría de Estado de Turismo.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Secretaría de Estado de Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 83411.31,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1169300D",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para rehabilitar un edificio de dos viviendas en calle Cerro",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a una particular para rehabilitar un edificio entre medianeras con dos viviendas, con fianzas de 259,56 y 228,19 euros y remate de teja curva obligatorio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1040797C",
+      "lugar": "Calle Cerro",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Promociones Yeclamar legaliza y amplía una vivienda con piscina en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a una promotora para legalizar una vivienda unifamiliar, piscina, aparcamiento y pérgola, y ampliar la vivienda con barbacoa, en suelo rústico.",
+      "entidades": [
+        {
+          "nombre": "Promociones Yeclamar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1146182W",
+      "lugar": "Paraje La Decarada, polígono 33",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Emper Cartonajes: licencia con proyecto modificado para su nave en Marrañaos",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza la modificación del proyecto y se concede licencia definitiva para construir una nave industrial en suelo no urbanizable, sujeta a la autorización excepcional regional y, en su caso, autorización ambiental.",
+      "entidades": [
+        {
+          "nombre": "Emper Cartonajes, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autorización excepcional"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1176734D",
+      "lugar": "Paraje Marrañaos, polígono 47",
+      "interes": 3
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para construir una vivienda en avenida de Murcia",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a un particular para construir una vivienda unifamiliar entre medianeras, con fianza de 475,86 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1188143Z",
+      "lugar": "Avenida de Murcia",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Inurban construirá una nave en el polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico a Inurban para una nave sin actividad concreta en la calle Doctor Trueta, con fianzas de 22.351 y 7.798,44 euros; no habilita la actividad.",
+      "entidades": [
+        {
+          "nombre": "Inurban, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266825E",
+      "lugar": "Polígono industrial Las Teresas, calle Doctor Trueta",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para convertir una nave agrícola en vivienda con piscina en Hoya Carrasca",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a un particular para cambiar el uso de una nave agrícola a vivienda y ampliarla con aparcamiento, trastero y piscina en suelo rústico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1308018R",
+      "lugar": "Paraje Hoya Carrasca, polígono 48",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para un bloque de 3 viviendas en calle San Cristóbal",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico a una particular para construir un bloque entre medianeras con tres viviendas (en el solar cuya demolición se autorizó en enero), con fianzas de 324,25 y 611,74 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1311521H",
+      "lugar": "Calle San Cristóbal",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "No municipal a un área de servicio con gasolinera y hotel en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "T.M. Leader Contract pide a la CARM autorización excepcional por interés público para gasolinera-electrolinera, bar-restaurante, hotel de carretera y aparcamientos. Los técnicos municipales informan en contra: no se justifica la necesidad del sitio, que no haya suelo apto, el interés público ni el agua, saneamiento e inundabilidad. Se remite a la Consejería con informe negativo.",
+      "entidades": [
+        {
+          "nombre": "T.M. Leader Contract, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1014404W",
+      "lugar": "Polígono 47, parcelas 102, 104 y 105",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contrato temporal de un/a programador/a de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un/a programador/a para la nueva plaza de Jefe de Negociado de Festejos creada en el presupuesto 2026, hasta que se cubra por oposición (máximo 3 años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1346517N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Auxiliar inspector de obras interino por excedencia",
+      "categoria": "personal",
+      "resumen": "Se nombra un/a auxiliar inspector de obras interino para sustituir a una de las dos inspectoras de disciplina urbanística, en excedencia por cuidado de hijo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1348873K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Sustitución de una técnica en la Escuela Infantil Alameda",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un/a técnico de Educación Infantil a 30 horas para cubrir una baja médica, como máximo hasta fin del curso 2026/27.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1350090A",
+      "lugar": "Escuela Infantil Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "5.4-5.5",
+      "titulo": "Reducciones de jornada por cuidado de hijos",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar administrativa y a una monitora socorrista reducir su jornada (14,28% y 13,02%) y cambiar horario por cuidado de hijos menores de doce años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1056710D, 1341835K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Jubilación de una ordenanza-telefonista de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación el 21 de noviembre de 2026 de una empleada con más de 25 años de servicio y se le agradece su trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1349582W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7-5.8",
+      "titulo": "Órdenes de servicio a personal de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Personal de Servicios Sociales acompañará a mayores en visitas a la Base Aérea de Alcantarilla (Día de las Personas Mayores) y asistirá a una reunión del IMAS sobre la Ley de Dependencia, con gastos pagados.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1329059Q, 1348823Q",
+      "lugar": "Alcantarilla",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Bar del evento 'Yecla con Sentido 2026'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el bar del evento; pagará 211 euros al Ayuntamiento y deja 100 euros de garantía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 211.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347734D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Compra de señales de tráfico a Señalizaciones Sonibru",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 17.248,40 euros para material de señalización de vías públicas que pidió la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Señalizaciones Sonibru, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17248.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1343730R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1-7.2",
+      "titulo": "Auditorio gratis para Amites y ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a la Asociación Amites (conferencia) y a ADFY (concierto benéfico), con exención total del precio público de 120 euros cada una.",
+      "entidades": [
+        {
+          "nombre": "Asociación Amites Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "importes": [
+        {
+          "concepto": "Exención precio Auditorio",
+          "eur": 120.0,
+          "entidad": "Asociación Amites Yecla"
+        },
+        {
+          "concepto": "Exención precio Auditorio",
+          "eur": 120.0,
+          "entidad": "ADFY"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1349231H, 1350640P",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.3-7.6",
+      "titulo": "Salones de la Casa Consistorial para cuatro bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a cuatro parejas el uso de los salones de la 1ª y 3ª planta para casarse en octubre y noviembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1350845Z, 1327746R, 1351108P, 1351149X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Festival Jazz Yecla 2026: programa y presupuesto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el Jazz Yecla del 29 de septiembre al 3 de octubre en el Teatro Concha Segura con 56.211,65 euros; abono de 5 conciertos a 45 o 35 euros y entradas de 10 u 8 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 56211.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347640Y",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Día Mundial del Turismo: puertas abiertas y cata de vinos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Jornada de puertas abiertas en el Centro Enoturístico Casa de los Arcos y degustación de vinos en la Plaza Mayor el 27 de septiembre, con la Ruta del Vino y la D.O. Yecla.",
+      "entidades": [
+        {
+          "nombre": "Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Consejo Regulador Denominación de Origen Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1349738M",
+      "lugar": "Casa de los Arcos y Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Certamen Nacional de Pintura al Aire Libre 2026",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el certamen del 3 de octubre con sus bases, un presupuesto de 1.600 euros y el jurado, presidido por el concejal de Cultura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1323476M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Convenio con la Universidad de Murcia para cursos de extensión universitaria",
+      "categoria": "subvencion_concedida",
+      "resumen": "Convenio de un año con la Universidad de Murcia; el Ayuntamiento aporta 7.000 euros para el seminario internacional 'Explotación y economía en los campos de Hispania' en la sede de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe aportación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328122P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Partidas simultáneas de ajedrez en la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya con medios municipales la Simultánea de Ajedrez del 27 de septiembre en el paseo de la Avenida Pablo Picasso.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1347171X",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Carrera solidaria del Colegio La Inmaculada a beneficio de AFACMUR",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se cede gratis la pista de atletismo del complejo Juan Palao Azorín el 25 de septiembre para una carrera benéfica a favor de familias de niños con cáncer; uso valorado en 583,55 euros.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe ayuda en especie"
+        },
+        {
+          "nombre": "AFACMUR (Asociación de familiares de niños con Cáncer de la Región de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 583.55,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1300895Z",
+      "lugar": "Complejo deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Actúa cobra 46.296 euros extra por la basura de enero 2025 sin contrato vigente",
+      "categoria": "reclamaciones",
+      "resumen": "El contrato de basura y limpieza viaria terminó y el Pleno obligó en 2023 a Actúa a seguir prestándolo hasta licitar uno nuevo. Para evitar el enriquecimiento injusto se le indemniza por la diferencia entre el coste real de enero de 2025 y lo facturado, excluyendo beneficio, gastos financieros, amortizaciones e IVA.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 46295.87,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Conserje sustituto para el CEIP Miguel Ortuño",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un conserje-operario mientras dura la ausencia del titular del colegio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1353059Z",
+      "lugar": "CEIP Miguel Ortuño",
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Formación sobre duelo para técnicas de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Una trabajadora social y una educadora social asistirán a una jornada formativa de la Consejería de Política Social, con gastos pagados.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1352095K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "El jefe de Servicios Públicos irá a la feria del autobús de Madrid",
+      "categoria": "personal",
+      "resumen": "Se le ordena asistir a la Feria Internacional del Autobús en IFEMA el 24 de septiembre para estudiar vehículos ante posibles nuevas líneas de autobús urbano; también acude la concesionaria.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1352742J",
+      "lugar": "IFEMA Madrid",
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Contratación de los conciertos del Jazz Yecla 2026 sin publicidad",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y un gasto de 45.362,90 euros por procedimiento negociado sin publicidad, invitando solo a la empresa que tiene la exclusiva de los grupos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 45362.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1349618W",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Iluminación del centro de visitantes de la Iglesia Vieja",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 17.998,75 euros a Play Generation para instalar iluminación en el centro de visitantes y dinamización turística de la Iglesia Vieja.",
+      "entidades": [
+        {
+          "nombre": "Play Generation, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17998.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1351402Y",
+      "lugar": "Iglesia Vieja",
+      "interes": 2
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Auditorio gratis para el día del patrón de la Policía Nacional",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio el 2 de octubre a la Policía Nacional con exención del precio de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Policía Nacional (Comisaría de Yecla)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1351886W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Ayudas extraordinarias para libros y material escolar 2026/27",
+      "categoria": "subvencion_concedida",
+      "resumen": "Servicios Sociales concede ayudas para libros y material escolar a los menores de la lista del expediente; el acta no indica cuántos ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306462F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Ludoteca y cuidados de tarde y fines de semana (Plan Corresponsables)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba de octubre a diciembre un servicio de ludoteca y cuidados para chicos de 11 a 16 años (288 + 88 horas), con 11.444,24 euros de la subvención regional del Plan Corresponsables y prioridad por renta.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11444.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1327700D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.10",
+      "titulo": "Programación de la Escuela Municipal de Bellas Artes 2026/27",
+      "categoria": "otros",
+      "resumen": "Se aprueba la programación anual del curso de la Escuela de Bellas Artes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1352499X",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

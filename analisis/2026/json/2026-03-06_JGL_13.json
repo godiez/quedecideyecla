@@ -1,0 +1,110 @@
+{
+  "doc": "2026-03-06_JGL_13",
+  "organo": "JGL",
+  "sesion": 13,
+  "fecha": "2026-03-06",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 8,
+  "resumen": "Sesión urgente con tres asuntos. El Ayuntamiento separa qué obras de emergencia en la cúpula de la Basílica de la Purísima puede hacer ya el Obispado y cuáles necesitan licencia y permiso de Patrimonio. Rechaza pagar los sueldos que la antigua empresa de limpieza de edificios municipales dejó a deber a sus trabajadoras. Presta megafonía a CCOO para el acto del 8 de marzo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma que la convocatoria urgente estaba justificada.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1242270A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Obras de emergencia en la cúpula de la Basílica de la Purísima",
+      "categoria": "licencia_obra",
+      "resumen": "Tras caerse piezas de la cúpula, el Obispado presenta una memoria de emergencia. Puede retirar y asegurar tejas y poner una protección provisional al amparo de la orden de ejecución, pero para reponer tejas y cubiertas debe pedir licencia urbanística. Se pide autorización previa a Patrimonio Cultural de la CARM porque es Bien de Interés Cultural.",
+      "entidades": [
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "institucion_religiosa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1226748R",
+      "lugar": "Basílica Arciprestal de la Purísima Concepción",
+      "interes": 3
+    },
+    {
+      "ref": "3",
+      "titulo": "No al pago municipal de sueldos impagados de la antigua empresa de limpieza",
+      "categoria": "reclamaciones",
+      "resumen": "CCOO Hábitat pidió que el Ayuntamiento pagara los salarios que la anterior adjudicataria de la limpieza de edificios municipales (en concurso de acreedores, contrato resuelto en 2025) debe a las trabajadoras. Se desestima: según el Ayuntamiento la responsable es la empresa saliente y, en su caso, el FOGASA, no el Ayuntamiento ni la nueva adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "CCOO Hábitat Murcia",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "reclama"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L. (TSI Levante)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista anterior"
+        },
+        {
+          "nombre": "Prourvis, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista actual"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1230788D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Megafonía para la concentración de CCOO por el 8 de marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración del Día de la Mujer Trabajadora en la Plaza 8 de Marzo y se presta el equipo de megafonía municipal a CCOO del Altiplano.",
+      "entidades": [
+        {
+          "nombre": "Comisiones Obreras Delegación Comarcal del Altiplano",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241044Y",
+      "lugar": "Plaza 8 de Marzo",
+      "interes": 1
+    }
+  ]
+}

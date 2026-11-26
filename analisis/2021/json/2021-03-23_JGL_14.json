@@ -1,0 +1,908 @@
+{
+  "doc": "2021-03-23_JGL_14",
+  "organo": "JGL",
+  "sesion": 14,
+  "fecha": "2021-03-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 94,
+  "resumen": "La Junta de Gobierno saca a licitación la reurbanización de las calles Numancia (257.000 €) y Rambla (170.700 €), encarga a FCC Aqualia renovar la red de agua de la subida al Castillo (17.677 €) y aprueba el ciclo 'Música en la Cuaresma' (17.822 €) en lugar de las procesiones suspendidas por el COVID. Apoya el interés público de la ampliación de Yeclasa en suelo no urbanizable, rebaja a la mitad el ICIO de unas naves de madera en Las Tejeras, niega agua potable a la constructora de la autovía A-33 para una planta de hormigón y pide a la CHS explicaciones sobre una granja porcina de Cefu en Montealegre. También rechaza once recursos contra la oposición de director de la Escuela de Bellas Artes y aprueba la política de seguridad informática.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 18 y 23 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones anteriores (18 y 23 de marzo de 2021).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501489N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: medidas COVID de la Región y aguas que llegan a la depuradora",
+      "categoria": "informacion",
+      "resumen": "Se informa de un decreto y dos órdenes regionales que actualizan las restricciones por COVID-19 (transporte de personas y nivel de alerta sanitaria), de una comunicación de la Dirección General de Administración Local sobre una lista de espera para puestos de habilitación nacional interinos, y de un informe municipal sobre las características del agua residual que llega a la depuradora (EDAR).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta medidas COVID"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "501491Q, 5017790 (OCR)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Correos y concierto 'Shuarma canta a Bowie'",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la facturación de febrero de Correos y la actuación 'Shuarma canta a Bowie' en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Moon Scene, A.I.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12770.38,
+      "importes": [
+        {
+          "concepto": "Facturación de febrero de 2021",
+          "eur": 6115.38,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E."
+        },
+        {
+          "concepto": "Actuación 'Shuarma canta a Bowie'",
+          "eur": 6655.0,
+          "entidad": "Moon Scene, A.I.E."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "282726A, 499549T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Greenpiss' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (1.708 €) y la baja de las entradas no vendidas (943 €) del espectáculo 'Greenpiss' del 6 de marzo, sobre un cargo de 2.652 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1708.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501306J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto 'Shuarma canta a Bowie' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla y la baja de las entradas no vendidas del concierto del 13 de marzo. Las cifras salen mal leídas por el OCR (cargo 3.315 €, taquilla 906 € y baja 2.349 €, que no cuadran).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 906.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "5012997 (OCR, dudoso)",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del ICIO para cuatro naves de derivados de la madera en Las Tejeras",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Derivados de la Madera de Yecla, S.L. una bonificación del 50% del impuesto de obras (ICIO) por construir cuatro naves industriales de almacenamiento y producción, por fomento de la actividad industrial. Se devuelven 37.081 € de los 74.163,16 € pagados al anterior titular de la licencia, un particular.",
+      "entidades": [
+        {
+          "nombre": "Derivados de la Madera de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 37081.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477932W",
+      "lugar": "Paraje Las Tejeras, polígono 47, parcela 7",
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Informe favorable al interés público de la ampliación de nave de Yeclasa en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Sin alegaciones en información pública, la Junta informa favorablemente el interés público del cambio de uso del suelo y la ampliación de una nave industrial de Yeclasa en la carretera de Valencia y lo remite a la Consejería de Fomento e Infraestructuras para que dé la autorización.",
+      "entidades": [
+        {
+          "nombre": "Yeclasa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otorga autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "488316R (S.N.U. 7/2020)",
+      "lugar": "Ctra. de Valencia km 100, paraje Arboreda, polígono 39, parcelas 1 y 15",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Inicio de obras de 4 viviendas, 2 oficinas y garajes en calle San Antonio",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Artytra, S.L.U. a empezar las obras de cuatro viviendas, dos oficinas y garajes con licencia de agosto de 2020, con fianza de 870 € por posibles daños en la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Artytra, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 870.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "472993K (licencia 218/2020)",
+      "lugar": "C/ San Antonio, 39-41",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para ampliar la nave industrial de Navarro Rubio Sillería",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Navarro Rubio Sillería, S.L. para ampliar su nave industrial con obras de urbanización anexas, con una fianza de 5.162,55 € para garantizar la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Navarro Rubio Sillería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5162.55,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "494152Y (licencia 517/2020)",
+      "lugar": "Ctra. de Jumilla p.k. 1,6 (Travesía Tejeras)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia de demolición parcial de un edificio en calle Castillo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para derribar parcialmente una edificación, con fianzas de 236,49 € (urbanización) y 480,20 € (alumbrado y mobiliario urbano), desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 716.69,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498919T (licencia 83/2021)",
+      "lugar": "Calle Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Auxiliar administrativo interino para Presupuestos y Contabilidad",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino de la bolsa de empleo para sustituir a la titular, que pasa en comisión de servicios a la Policía Local, porque la sección quedaba con un solo auxiliar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501844F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de un psicólogo para el Programa de Familia",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un psicólogo a tiempo parcial (22 h semanales) del 5 de abril al 31 de diciembre de 2021 para el Programa de Familia, financiado con subvención de la Consejería de Familia e Igualdad de Oportunidades.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Familia e Igualdad de Oportunidades (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501447E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Rechazado recurso de un exfuncionario sobre intereses de su indemnización por jubilación",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de un funcionario jubilado que pedía más intereses sobre la indemnización por jubilación anticipada (7.273,85 €) reconocida por orden judicial; el Ayuntamiento mantiene la fecha de cálculo que fija el propio auto.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta auto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7273.85,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "458158R, 484748M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Cumplimiento de sentencia: antigüedad y atrasos a una trabajadora",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social nº 5 de Murcia, se reconoce a una trabajadora antigüedad desde abril de 2013, se le devuelven 380,33 € descontados de su nómina más intereses y se le pagan 960,52 € de atrasos por trienios.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1340.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476524P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Denegado reconocer como indefinida no fija a una psicóloga de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se deniega a una psicóloga del Centro Municipal de Servicios Sociales la condición de trabajadora indefinida no fija: aunque cumpliría los requisitos, la Ley de Presupuestos de 2018 lo prohíbe salvo por sentencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "500703X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Bolsa de empleo de director de la Escuela de Bellas Artes: rechazados 11 recursos",
+      "categoria": "personal",
+      "resumen": "Se desestiman los once recursos de alzada de aspirantes contra la oposición de director de la Escuela Municipal de Bellas Artes (sobre todo por la nota del ejercicio práctico y por la obra de un aspirante que rompió el soporte y usó la pared y material traído de casa), se excluye a un aspirante por no presentar originales y se aprueba la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "247713X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 22 m² para el bar El Muro en calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del bar El Muro una terraza de 22 m² del 1 de abril al 31 de octubre de 2021, mayor de lo habitual por la limitación de aforo del COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501102A",
+      "lugar": "Calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 40 m² para La Ibense IV en la plaza de La Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 40 m² (el doble que en 2019, por el COVID-19) del 1 de abril al 31 de octubre de 2021 para el establecimiento La Ibense IV.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501145K",
+      "lugar": "Plaza de La Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Plenos para la asamblea de la S.A.T. Pozo Pajonares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos el 7 de abril a la S.A.T. Pozo Pajonares para su asamblea general de socios, en lugar del Auditorio, con medidas COVID.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Pozo Pajonares",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501186R",
+      "lugar": "Salón de Plenos, Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Plenos para una conferencia de Amites Yecla ONG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos el 24 de marzo a la Asociación Amites Yecla ONG para la conferencia 'Vivir en un tiempo difícil'.",
+      "entidades": [
+        {
+          "nombre": "Asociación Amites Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501474R",
+      "lugar": "Salón de Plenos, Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de actos del Edificio Bioclimático para la S.D. Hispania Bodegas La Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la S.D. Hispania Bodegas La Purísima a usar el Salón de Actos del Edificio Bioclimático el 24 de marzo para su asamblea.",
+      "entidades": [
+        {
+          "nombre": "S.D. Hispania Bodegas La Purísima",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501545Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Los comercios no abrirán el 8 de diciembre (Purísima): se cambia por el 6 de junio",
+      "categoria": "otros",
+      "resumen": "Se cambia el festivo de apertura comercial del 8 de diciembre, día de la Patrona, por el domingo 6 de junio de 2021, y se comunica a la Dirección General de Comercio.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Comercio e Innovación Empresarial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501313T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Concurso del nuevo logotipo del Espacio Joven, aplazado",
+      "categoria": "servicios_actividades",
+      "resumen": "El asunto se deja sobre la mesa para estudiarlo mejor.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "501640Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayuda a domicilio gratuita concedida de oficio",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede de oficio y gratis el servicio de ayuda a domicilio a una persona, según el informe de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501679C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Tarjeta de residente en zona azul concedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul para su vehículo, con informe favorable de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500761C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Tarjeta de residente en zona azul denegada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la tarjeta de residente en zona azul porque ya la tiene otra persona empadronada en el mismo domicilio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "500767K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Horario especial del Mercado de San Cayetano en Semana Santa",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de los puestos, el mercado abrirá el miércoles 31 de marzo mañana y tarde, el jueves 1 de abril solo por la mañana y cerrará el Viernes Santo; se contratarán apertura, cierre y limpieza.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501634P",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "FCC Aqualia renovará la red de agua en la subida al Cerro del Castillo",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de 17.677,47 € de FCC Aqualia, S.A. y se le ordena renovar el tramo 3 de la red de agua potable en la subida al Cerro del Castillo, dentro del contrato del servicio de agua.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17677.47,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501646F",
+      "lugar": "Subida del Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Denegada agua potable para una planta de hormigón de la autovía A-33",
+      "categoria": "medio_ambiente",
+      "resumen": "Se deniega a FCC Construcción, S.A., constructora de la autovía A-33, un punto de agua potable en el polígono La Herrada para una planta de hormigón: no hay red a menos de 50 m, habría que tender más de 2 km de tubería en suelo no urbanizable (prohibido desde 2002) y el proyecto no la prevé.",
+      "entidades": [
+        {
+          "nombre": "FCC Construcción, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita suministro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "499272J",
+      "lugar": "Polígono Industrial La Herrada",
+      "interes": 3
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Licitación de la reurbanización de calle Numancia (257.000 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre el procedimiento abierto simplificado para reurbanizar la calle Numancia entre San José y Fábricas, con un presupuesto de 257.000,01 €, financiado por el Plan de Obras y Servicios 2020/21.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia (POS 2020/21)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 257000.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501912A (C.O. 4/21)",
+      "lugar": "Calle Numancia (tramo calle San José - calle Fábricas)",
+      "interes": 3
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Licitación de la reurbanización de calle Rambla (170.701 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre el procedimiento abierto simplificado para reurbanizar la calle Rambla entre la Avenida Literato Azorín y la Avenida de la Feria, con un presupuesto de 170.701,61 €, financiado por el Plan de Obras y Servicios 2020/21.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia (POS 2020/21)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 170701.61,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501950D (C.O. 5/21)",
+      "lugar": "Calle Rambla (tramo Av. Literato Azorín - Av. de la Feria)",
+      "interes": 3
+    },
+    {
+      "ref": "16.3",
+      "titulo": "La banda de Amigos de la Música cambia procesiones por conciertos",
+      "categoria": "convenio",
+      "resumen": "Como se suspenden las procesiones de Semana Santa y el Corpus por el COVID-19, las actuaciones de la banda previstas en el convenio de la Escuela de Música se cambian por cinco conciertos del ciclo 'Música en la Cuaresma'.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502137N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Programa 'Música en la Cuaresma 2021' (17.822 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de seis conciertos de Cuaresma y Semana Santa (Atrio y Basílica de La Purísima, Plaza Mayor y San Francisco) con un gasto de 17.822 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17822.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501975N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.5",
+      "titulo": "Se anula la composición anterior del Comité de Seguridad de la Información",
+      "categoria": "organizacion",
+      "resumen": "Se revoca el acuerdo de marzo de 2020 que fijaba el Comité de Seguridad de la Información, para rehacerlo conforme al Esquema Nacional de Seguridad dentro de un proyecto con la CARM y el Centro Criptológico Nacional.",
+      "entidades": [
+        {
+          "nombre": "Centro Criptológico Nacional (CCN)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dirige proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398806Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Nuevo Comité de Seguridad de la Información y sus responsables",
+      "categoria": "organizacion",
+      "resumen": "Se crea el Comité de Seguridad de la Información (lo preside la concejala de Nuevas Tecnologías), se fijan sus funciones y se nombran los responsables de información, seguridad y sistemas; la empresa Symlogic, S.L. actúa como delegada de protección de datos.",
+      "entidades": [
+        {
+          "nombre": "Symlogic, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "delegado de protección de datos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501544P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Aprobada la política de seguridad informática del Ayuntamiento",
+      "categoria": "normativa",
+      "resumen": "Se aprueba la Política de Seguridad de los Sistemas de Información conforme al Esquema Nacional de Seguridad: análisis de riesgos anual, formación del personal, gestión de incidentes, copias de seguridad y exigencias a proveedores.",
+      "entidades": [
+        {
+          "nombre": "Symlogic, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "delegado de protección de datos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501544P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.8",
+      "titulo": "El Ayuntamiento pide a la CHS datos sobre una granja porcina de Cefu en Montealegre",
+      "categoria": "medio_ambiente",
+      "resumen": "Se pide a la Confederación Hidrográfica del Segura que aclare si Cefu, S.A. ha resuelto el origen legal del agua y las demás deficiencias que en 2016 motivaron un informe desfavorable a su explotación porcina de selección genética en Montealegre del Castillo (Albacete), y que remita los títulos e informes.",
+      "entidades": [
+        {
+          "nombre": "Cefu, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502100M",
+      "lugar": "Montealegre del Castillo (Albacete)",
+      "interes": 3
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos el 27 de marzo para la boda civil de una pareja, con medidas COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502030P",
+      "lugar": "Salón de Plenos, Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "16.10",
+      "titulo": "Prácticas de una alumna de Educación Infantil en la Escuela Infantil Pulgarcito",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a una alumna del ciclo superior de Educación Infantil del IES José Luis Castillo Puche a hacer 400 horas de prácticas en la Escuela Infantil Pulgarcito (17 de marzo a 15 de junio).",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498284M",
+      "lugar": "Escuela Infantil Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "16.11",
+      "titulo": "Permiso para quemar restos vegetales (polígono 44, parcela 90)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 44, parcela 90 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501465E",
+      "lugar": "Polígono 44, parcela 90",
+      "interes": 1
+    },
+    {
+      "ref": "16.12",
+      "titulo": "Permiso para quemar restos vegetales (polígono 113, parcela 176)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 113, parcela 176 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501467? (OCR ilegible)",
+      "lugar": "Polígono 113, parcela 176",
+      "interes": 1
+    },
+    {
+      "ref": "16.13",
+      "titulo": "Permiso para quemar restos vegetales (polígono 113, parcela 199)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 113, parcela 199 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501681E",
+      "lugar": "Polígono 113, parcela 199",
+      "interes": 1
+    },
+    {
+      "ref": "16.14",
+      "titulo": "Permiso para quemar restos vegetales (polígono 44, parcela 246)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 44, parcela 246 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501992M",
+      "lugar": "Polígono 44, parcela 246",
+      "interes": 1
+    },
+    {
+      "ref": "16.15",
+      "titulo": "Permiso para quemar restos vegetales (polígono 44, parcelas 232 y 315)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 44, parcelas 232 y 315 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501742P",
+      "lugar": "Polígono 44, parcelas 232 y 315",
+      "interes": 1
+    },
+    {
+      "ref": "16.16",
+      "titulo": "Permiso para quemar restos vegetales (polígono 210, parcela 113)",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un particular a quemar restos vegetales en polígono 210, parcela 113 con horario y días limitados (primavera y otoño de 2021), porque la parcela está a menos de 1.500 m del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501880F",
+      "lugar": "Polígono 210, parcela 113",
+      "interes": 1
+    },
+    {
+      "ref": "16.17",
+      "titulo": "Piscina cubierta para un control de tiempos del Club Natación Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la piscina cubierta municipal el sábado 27 de marzo al Club Natación Yecla para un entrenamiento con toma de tiempos oficial por árbitros de la Federación, con protocolos COVID y la piscina cerrada al público.",
+      "entidades": [
+        {
+          "nombre": "Club Natación Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501551Z",
+      "lugar": "Piscina Cubierta Municipal",
+      "interes": 1
+    },
+    {
+      "ref": "16.18",
+      "titulo": "Condolencia por el fallecimiento de un exconcejal (1979-1983)",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa a la familia su pésame por el fallecimiento de un exconcejal (1979-1983).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502076D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.19",
+      "titulo": "Condolencia por el fallecimiento de un exconcejal (1979-1983)",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa a la familia su pésame por el fallecimiento de un exconcejal (1979-1983).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502078F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.20",
+      "titulo": "Condolencia por el fallecimiento de una exconcejala (1983-1987)",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa a la familia su pésame por el fallecimiento de una exconcejala (1983-1987).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "5020794 (OCR, dudoso)",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

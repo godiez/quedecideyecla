@@ -1,0 +1,998 @@
+{
+  "doc": "2023-11-21_JGL_49",
+  "organo": "JGL",
+  "sesion": 49,
+  "fecha": "2023-11-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 44,
+  "resumen": "La reforma del Mercado Central se encarece un 14,87% y el contrato con Guerola Transer sube a 2,38 millones de euros. Se licita el nuevo Centro de Día para mayores (550.298 euros al año) y, como los contratos se han licitado tarde, se obliga a Alma Ata Salud (Centro de Día) y a Actúa (jardines) a seguir hasta que haya empresa nueva. Invemat Levante, única oferta, pone las luces de Fiestas y Navidad por 89.732 euros, y se licita el derribo de varios edificios en las calles Carmen y San Roque (115.987 euros).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 14 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas del SEF y final regional de atletismo benjamín en Yecla",
+      "categoria": "informacion",
+      "resumen": "Se informa de resoluciones del SEF que conceden y pagan dos subvenciones del programa de Agentes de Empleo y Desarrollo Local y un anticipo para un curso de inglés B2, y de que la Dirección General de Deportes elige Yecla como sede de la Final Regional de Jugando al Atletismo Benjamín (22 de mayo de 2024). No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "designa sede"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "846635H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de 37.287 € a Alma Ata Salud por el Centro de Día de octubre",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la factura de octubre de 2023 de las plazas para personas mayores dependientes del Centro de Día.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37286.99,
+      "importes": [
+        {
+          "concepto": "Centro de Día, plazas de dependientes, octubre 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la prueba selectiva del Festival del Cante de las Minas: 390 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de la prueba selectiva del LXII Festival Cante de las Minas en el Teatro Concha Segura (22/07/2023): de 1.698 € en entradas puestas a la venta solo se vendieron 390 €; se dan de baja 1.308 € en entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 390.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797935T",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Premios del Concurso de Carrozas de San Isidro 2023: 16.700 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se pagan los premios y accésits de las carrozas de las Fiestas de San Isidro 2023 a los responsables de las peñas adultas e infantiles: 4.850 € a cargo del Ayuntamiento y sus concejalías y 11.850 € a cargo de patrocinadores.",
+      "entidades": [
+        {
+          "nombre": "particular (responsables de peñas)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 16700.0,
+      "importes": [
+        {
+          "concepto": "Premios y accésits a cargo del Ayuntamiento (Alcaldía, concejalías de Agricultura, Festejos y Turismo)",
+          "eur": 4850.0,
+          "entidad": "peñas (responsables particulares)"
+        },
+        {
+          "concepto": "Premios categoría adulta a cargo de patrocinadores",
+          "eur": 5500.0,
+          "entidad": "peñas (responsables particulares)"
+        },
+        {
+          "concepto": "Premios categoría infantil a cargo de patrocinadores",
+          "eur": 6350.0,
+          "entidad": "peñas (responsables particulares)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823645C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular de una licencia para derribar una casa en la calle San José",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que la licencia urbanística 112/2022 para demoler una vivienda entre medianeras en la calle San José pasa de Jumapa 2000, S.L. a Promociones Inmobiliarias DDA 24, S.L., nueva promotora.",
+      "entidades": [
+        {
+          "nombre": "Jumapa 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "transmite licencia"
+        },
+        {
+          "nombre": "Promociones Inmobiliarias DDA 24, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nueva titular"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599474D",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Ogaden, S.L. segrega una parcela de 225 m² en el Plan Parcial La Alameda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Ogaden, S.L. licencia para segregar una parcela de 225 m² de un solar urbano sin edificar de unos 900 m² que da a la calle Médico Miguel Rodríguez, en el ámbito del Plan Parcial Residencial 'La Alameda'.",
+      "entidades": [
+        {
+          "nombre": "Ogaden, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822709C",
+      "lugar": "calle Médico Miguel Rodríguez (Plan Parcial La Alameda)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso por lactancia acumulada y vacaciones de una auxiliar-inspectora de obras",
+      "categoria": "personal",
+      "resumen": "Se concede a una empleada permiso retribuido que sustituye la hora de lactancia (16 nov-22 dic 2023), sus vacaciones (23 dic-26 ene) y tres días de asuntos propios. Una concejala sale de la sesión por parentesco con la interesada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845621Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reconocimiento de antigüedad a un oficial de albañilería",
+      "categoria": "personal",
+      "resumen": "Se reconocen a un oficial de albañilería fijo tres meses y cuatro días trabajados en el Ayuntamiento de Crevillente (1991-1992) a efectos de antigüedad.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Crevillente",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "certifica servicios"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845108M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Una educadora social va a una jornada sobre absentismo escolar en Alguazas",
+      "categoria": "personal",
+      "resumen": "Se ordena a una educadora social asistir a la I Jornada sobre prevención del absentismo escolar (Alguazas, 23 de noviembre) y se le pagan los gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Alguazas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "846900A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Jubilación de una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación voluntaria de una limpiadora municipal el 31 de diciembre de 2023 y se le agradecen más de 10 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845107K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación de 4 fotocopiadoras multifunción y su mantenimiento (49.167 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar por 4 años, en cuatro lotes, el mantenimiento de las fotocopiadoras municipales (Toshiba, Kyocera y Ricoh) y la compra de 4 máquinas nuevas (18.876 €). Valor estimado 49.167,49 €; se comprometen 10.154,26 € al año de 2024 a 2027.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 49167.49,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820678F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licitación del derribo de varios edificios en las calles Carmen y San Roque (115.987 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre procedimiento abierto simplificado para demoler varios inmuebles en las calles Carmen y San Roque, con un presupuesto de 115.986,90 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 115986.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.O. 1/23",
+      "lugar": "calle Carmen y calle San Roque",
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Invemat Levante, única oferta, se lleva las luces de Fiestas y Navidad por 89.732 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Invemat Levante, S.L., único licitador, el suministro e instalación del alumbrado ornamental de las Fiestas de la Virgen 2023 y de Navidad y Reyes de Yecla y Raspay por 89.732,39 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 89732.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832168P",
+      "lugar": "Yecla y Raspay",
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza del establecimiento Bar Peña Taurina en la calle Tejeras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular la terraza del establecimiento 'Bar Peña Taurina' en la calle Tejeras: 50 m², temporada anual, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Bar Peña Taurina",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840466P",
+      "lugar": "calle Tejeras",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza del establecimiento Jordan's en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular la terraza del establecimiento 'Jordan's' en la calle San José: 16 m², temporada anual, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Jordan's",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841144F",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza del establecimiento Keyko en la calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular la terraza del establecimiento 'Keyko' en la calle San Antonio: 18 m², temporada anual, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Keyko",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841200J",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza del establecimiento El Muro Bar en la calle Colón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular la terraza del establecimiento 'El Muro Bar' en la calle Colón: 12 m², temporada anual, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "El Muro Bar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841146J",
+      "lugar": "calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza del establecimiento La Parada en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular la terraza del establecimiento 'La Parada' en la calle San José: 10 m², temporada de invierno (hasta marzo de 2024), con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "La Parada",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840550F",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil el 15 de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para casarse.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845595N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones para una boda civil el 20 de enero de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la Casa Consistorial para casarse.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847610M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salas del Edificio Bioclimático para una charla sobre discapacidad y triatlón",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club C.T. Arabí Yecla a usar salas del Edificio Bioclimático el 30 de noviembre para una charla sobre 'Personas con discapacidad y triatlón'.",
+      "entidades": [
+        {
+          "nombre": "Club C.T. Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845358J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "El AMPA del colegio San José de Calasanz usa el centro por el Día del Maestro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP San José de Calasanz a usar el colegio el 27 de noviembre para una mañana de actividades del Día del Maestro, haciéndose cargo de limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847572J",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayuda a domicilio concedida de oficio a un vecino",
+      "categoria": "servicios_actividades",
+      "resumen": "Se concede el servicio de ayuda a domicilio a una persona, a propuesta de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847699K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Normas de la nueva ludoteca gratuita de la Piscina Cubierta",
+      "categoria": "normativa",
+      "resumen": "Se añade a la normativa de instalaciones deportivas un capítulo para la nueva ludoteca de la Piscina Cubierta: gratis, para niños de 3 a 12 años, 1 hora al día, de 16 a 20 h, aforo de 15 niños por hora y sin reserva previa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843713Z",
+      "lugar": "Piscina Cubierta Municipal",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Cambios en las normas del Campeonato Local de Fútbol Sala 2023/24",
+      "categoria": "servicios_actividades",
+      "resumen": "Se modifica la normativa del Campeonato Local de Fútbol Sala, incluido en el Proyecto Municipal de Actividad Física y Deporte.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814936F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Cross 'Fiestas de la Virgen' 2023 con hasta 6.200 € municipales",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba organizar con la Escuadra de Arcabuceros Virgen del Castillo el Cross 'Fiestas de la Virgen' del 26 de noviembre en el Complejo Polideportivo Juan Palao Azorín, con una aportación municipal máxima de 6.200 €. Colaboran la Federación de Atletismo de la Región de Murcia y tres clubes locales.",
+      "entidades": [
+        {
+          "nombre": "Escuadra de Arcabuceros Virgen del Castillo",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "coorganiza"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847258Y",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Agua potable para la obra de la nave de Ecus Sleep en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Ecus Sleep, S.L. el suministro de agua potable para las obras de su nave industrial en suelo no urbanizable (licencia 372/23), con las condiciones de Servicios Públicos.",
+      "entidades": [
+        {
+          "nombre": "Ecus Sleep, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842035T",
+      "lugar": "polígono 34, parcela 711 (suelo no urbanizable)",
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Denegada el agua potable a una vivienda en el campo por no haber red",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a una vecina el suministro de agua potable para una vivienda en suelo no urbanizable porque en la zona no hay ninguna red, ni municipal ni privada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "845801Z",
+      "lugar": "suelo no urbanizable",
+      "interes": 2
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Anulada la plaza fija de un peón-operario que no pudo acreditar su aptitud",
+      "categoria": "personal",
+      "resumen": "Un aspirante que ganó una de las dos plazas fijas de peón-operario de la estabilización no presentó la acreditación de capacidad por tener reconocida una incapacidad permanente para esa profesión. Se anulan sus actuaciones, no se le contrata y se deniegan sus peticiones de adaptación del puesto, cambio de puesto o reserva de plaza, porque no llegó a existir relación laboral.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "791107K, 818106J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Auxiliar administrativo interino para la Oficina de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar interino de la bolsa de empleo para sustituir a una empleada de baja en Recaudación, donde solo están cubiertos dos de los cuatro puestos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "848684D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Se prepara una bolsa de empleo de jardineros",
+      "categoria": "personal",
+      "resumen": "Se encarga redactar las bases de una bolsa de empleo de jardineros por concurso-oposición para contrataciones laborales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847664M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Pintura de señales en las calles: 14.078 € a Cebreados",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Cebreados, S.L. el contrato menor de suministro de señalización horizontal de las vías públicas por 14.078,35 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Cebreados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14078.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "846658P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Nuevo alcantarillado en la calle San Vicente por 47.500 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (48.000 €) y se adjudica a Construcciones J.J. Gómez Yecla, S.L. el contrato menor de obras de renovación del alcantarillado de la calle San Vicente por 47.500 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840185Z",
+      "lugar": "calle San Vicente",
+      "interes": 2
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Plan de seguridad y salud de la obra de la calle San Vicente",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por Construcciones J.J. Gómez Yecla, S.L. para la obra de alcantarillado.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840185Z",
+      "lugar": "calle San Vicente",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Servicios técnicos y de producción de las Fiestas de la Virgen: 8.567 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional el contrato menor de servicios técnicos, producción e infraestructura de las Fiestas de la Virgen 2023 por 8.566,80 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8566.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847944A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Alma Ata Salud gana su recurso y seguirá con el Centro de Día hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "La empresa recurrió la segunda prórroga del Centro de Día para mayores dependientes porque no se le avisó con dos meses. Se le da la razón y se anula la prórroga, pero se le obliga a seguir prestando el servicio tras el 30 de noviembre hasta que empiece el nuevo contrato, compensándole los gastos que no deba soportar. El Ayuntamiento reconoce que no cumple literalmente la ley, por no haber licitado a tiempo.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Licitación del nuevo Centro de Día para mayores: 550.298 € al año",
+      "categoria": "contrato",
+      "resumen": "Se aprueba licitar el servicio de Centro de Día para personas mayores dependientes, con un precio base de 550.298,36 € al año (IVA incluido), un año inicial y valor estimado de 2.116.532,16 € con prórrogas; procedimiento abierto con publicidad europea.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2116532.16,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.10",
+      "titulo": "Corregido el pliego de jardines tras un recurso de un colegio profesional",
+      "categoria": "contrato",
+      "resumen": "El Colegio Oficial de Licenciados y Graduados en Ciencias Ambientales de Andalucía recurrió el pliego del contrato de mantenimiento de jardines porque solo admitía ingenieros agrónomos o técnicos agrícolas como responsable técnico. Se rectifica para admitir también ingenieros de montes, forestales, ambientólogos y titulaciones afines.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Licenciados y Graduados en Ciencias Ambientales de Andalucía",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recurre"
+        },
+        {
+          "nombre": "Tribunal Administrativo Central de Recursos Contractuales",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe traslado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.11",
+      "titulo": "Actúa seguirá con los jardines tras acabar su contrato el 19 de diciembre",
+      "categoria": "contrato",
+      "resumen": "Como el nuevo contrato de jardines aún está en licitación, se obliga a Actúa Servicios y Medio Ambiente, S.L. a seguir con el mantenimiento de jardines y zonas verdes después del 19 de diciembre de 2023, en las mismas condiciones, hasta que empiece el nuevo.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "847802D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.12",
+      "titulo": "La reforma del Mercado Central sube un 14,87%, hasta 2,38 millones",
+      "categoria": "contrato",
+      "resumen": "Tras detectar errores, se vuelve a aprobar técnicamente el proyecto modificado de la remodelación del Mercado Central: el contrato con Guerola Transer, S.L.U. pasa de 2.052.717,80 € a 2.379.352,91 € (IVA incluido), 305.284 € más. Se da nueva audiencia de tres días a la constructora y a la redactora del proyecto, Ecotecno.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactora del proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2379352.91,
+      "importes": [
+        {
+          "concepto": "Contrato adjudicado inicial (IVA incluido)",
+          "eur": 2052717.8,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Parte modificada con baja (IVA incluido)",
+          "eur": 305284.36,
+          "entidad": "Guerola Transer, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "14.13",
+      "titulo": "Terraza de la cafetería Memphis en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Lucas Domene, S.L. una terraza anual de 55 m² para la cafetería 'Memphis' en la calle San José; ya ha pagado la tasa de 935 €.",
+      "entidades": [
+        {
+          "nombre": "Lucas Domene, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 935.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838578R",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "14.14",
+      "titulo": "Terraza del bar Taguara en la plaza de la Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a su titular una terraza anual de 20 m² para el bar 'Taguara' en la plaza de la Concordia; ya ha pagado la tasa de 140 €.",
+      "entidades": [
+        {
+          "nombre": "Taguara",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 140.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840851Z",
+      "lugar": "plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "14.15",
+      "titulo": "Procesiones de La Milagrosa del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio La Inmaculada dos procesiones de 'La Milagrosa' (24 y 26 de noviembre) por las calles del entorno del colegio y de la iglesia del Niño Jesús, con asistencia de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843126J",
+      "lugar": "calles Colón, Juan Ortuño y entorno",
+      "interes": 1
+    },
+    {
+      "ref": "14.16",
+      "titulo": "Ocho carpas para el mercadillo solidario navideño del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden al Colegio La Inmaculada ocho carpas municipales para su Mercadillo Navideño solidario del 16 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843126J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.17",
+      "titulo": "Puesto de AYAC sobre salud masculina en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) un puesto informativo sobre salud masculina el 29 de noviembre y se le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843597N",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "14.18",
+      "titulo": "Salón de Sesiones para un programa de radio de las Fiestas de la Virgen",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Onuson Producciones, S.L.U. a usar el Salón de Sesiones el 22 de noviembre para emitir un programa especial de radio sobre las Fiestas de la Virgen.",
+      "entidades": [
+        {
+          "nombre": "Onuson Producciones, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "848934A",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "14.19",
+      "titulo": "Horarios especiales del Mercado de San Cayetano en Fiestas y Navidad",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban horarios especiales del Mercado de San Cayetano (5, 6, 23 y 30 de diciembre y 5 de enero), se permite el mercadillo de los miércoles el festivo 6 de diciembre y se pide a T.S.I. Levante, S.L. limpieza extra (42 h 45 min) en los mercados.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843817T",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    }
+  ]
+}

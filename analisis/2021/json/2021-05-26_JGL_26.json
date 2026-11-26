@@ -1,0 +1,590 @@
+{
+  "doc": "2021-05-26_JGL_26",
+  "organo": "JGL",
+  "sesion": 26,
+  "fecha": "2021-05-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 29,
+  "resumen": "La Junta de Gobierno apoya el interés público de una planta de Reciclajes Altiplano para tratar escombros de obra, con vertedero de inertes en suelo no urbanizable, y nombra al nuevo jefe de los Servicios Técnicos Municipales. Saca a concurso la Escuela Municipal de Vacaciones 2021-2023 (84.696 euros de valor estimado) y la coordinación de la ayuda a domicilio, y obliga a Vectoris a seguir con el mantenimiento de las instalaciones deportivas hasta que haya nuevo contrato. Paga 18.108 euros de la obra de la Capilla de las Angustias, cede la Plaza de Toros a la parroquia del Niño Jesús para el Corpus y deja volver al público a los pabellones de la Red Deportiva Yecla.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 18 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Policías Locales, COVID, carteles del Arabí y Capilla de las Angustias",
+      "categoria": "informacion",
+      "resumen": "Se informa del decreto-ley regional que modifica la ley de Policías Locales, de órdenes COVID, de la petición de proponer los festivos locales de 2022, de un informe sobre cambiar los carteles de seis charcas del Monte Arabí, de la autorización de Patrimonio Cultural para restaurar la Capilla de la Virgen de las Angustias de San Francisco y de un informe del INFO que confirma que no hay duplicidad para dar ayudas municipales a autónomos y pequeñas empresas afectados por la COVID.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General del Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Subdirección General de Patrimonio Natural y Cambio Climático (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto de Fomento de la Región de Murcia (INFO)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "508276P",
+      "lugar": "Monte Arabí; Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago a Aqualia por cobrar los recibos de basura de abril",
+      "categoria": "pago_factura",
+      "resumen": "Se paga a FCC Aqualia, S.A. por el cobro de los recibos de la tasa de recogida de basuras emitidos en abril.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13087.52,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "504592Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación de la obra de las cubiertas de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 6 del cambio de cubiertas de la Capilla de la Virgen de las Angustias en la Iglesia de San Francisco.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18108.17,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473702W",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Luz verde para empezar una vivienda en zona inundable en El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Unos particulares presentan el certificado del Registro que anota que su futura vivienda aislada está en zona inundable, y se les autoriza a empezar las obras.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "481914A",
+      "lugar": "Paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Interés público para la planta de escombros de Reciclajes Altiplano",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se informa a favor de declarar de interés público la planta de tratamiento de residuos de construcción y demolición con vertedero de inertes que Reciclajes Altiplano, S.L. quiere construir en suelo no urbanizable, y se envía a la Consejería de Fomento para que la autorice.",
+      "entidades": [
+        {
+          "nombre": "Reciclajes Altiplano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "64367Z (S.N.U. 4/2018)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nuevo jefe de los Servicios Técnicos Municipales",
+      "categoria": "personal",
+      "resumen": "Por concurso de méritos, se adjudica a un arquitecto superior (funcionario) el puesto de jefe de los Servicios Técnicos Municipales (nivel 28).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "257184A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "La Policía Local tendrá hasta el 15 de julio para las vacaciones de 2020",
+      "categoria": "personal",
+      "resumen": "Por la carga de trabajo de la pandemia, se amplía otra vez, hasta el 15 de julio de 2021, el plazo para que la Policía Local disfrute las vacaciones y días de asuntos propios de 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493349H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Funciones de la Oficina de Agricultura tras llegar el nuevo jefe técnico",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento del informe del ingeniero de caminos que hace de apoyo a la Oficina de Agricultura y se le comunica que, cuando tome posesión el nuevo jefe técnico y entre en vigor el presupuesto de 2021, se reorganizarán esas funciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "482282M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Licitación de la coordinación del Servicio de Ayuda a Domicilio",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado para contratar la coordinación de atenciones puntuales del Servicio de Ayuda a Domicilio, con 19.292 euros anuales de base (IVA incluido) y un gasto este año de 16.350 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19292.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505954P (C.SE. 3/2021)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Desfile de recogida de nuevos músicos de la Banda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos de la Música el acto de recogida de nuevos músicos de la Banda de Música el 30 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508151O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Mesa informativa de Vox en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a poner una mesa informativa en la Plaza de España el 5 de junio por la mañana.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508296R",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza del Pub Zona: aplazada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la solicitud de terraza del Pub Zona en la calle San José.",
+      "entidades": [
+        {
+          "nombre": "particular (Pub Zona)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "507637C",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Denegado el Auditorio para la fiesta de fin de curso del CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la AMPA del CEIP San José de Calasanz usar el Auditorio los días 23 y 24 de junio para actos de fin de curso, porque las normas COVID piden hacerlos al aire libre y prohíben fiestas escolares con más gente de la habitual.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "507172F",
+      "lugar": "Auditorio Municipal",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Más documentación a Salud para renovar el pozo de agua 'La Fuente'",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba y envía a la Dirección General de Salud Pública la documentación adicional que pidió para dar la autorización sanitaria al nuevo sondeo de agua 'La Fuente'.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Salud Pública y Adicciones (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503253N",
+      "lugar": "Sondeo La Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de seguridad de la obra de la calle Numancia",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de Forum San Patricio, S.A. para la reurbanización de la calle Numancia, entre San José y Fábricas.",
+      "entidades": [
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501912A",
+      "lugar": "Calle Numancia",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Baja de una vendedora del puesto 58 del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja a una particular en el puesto nº 58 del mercado ambulante junto al Mercado Central, que queda vacante; no se le devuelve la fianza por tener recibos pendientes.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505628M",
+      "lugar": "Mercado ambulante junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Contratación de un conserje-operario del Plan de Inclusión por el Empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata a un joven menor de 30 años como conserje-operario dentro del Plan Especial 2021 de Inclusión y Reinserción Social a través del Empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507691C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Vectoris seguirá con el mantenimiento de las instalaciones deportivas",
+      "categoria": "contrato",
+      "resumen": "Vectoris, S.L. no quiere prorrogar el contrato de mantenimiento, limpieza y atención de las instalaciones deportivas (termina el 31 de mayo) porque dice que le cuesta mucho más de lo que cobra. El Ayuntamiento acuerda que siga prestándolo, en las mismas condiciones, hasta que entre en vigor el nuevo contrato que está preparando.",
+      "entidades": [
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 4/2017",
+      "lugar": "Instalaciones deportivas municipales",
+      "interes": 3
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Licitación de la Escuela Municipal de Vacaciones 2021-2023",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado para la Escuela Municipal de Vacaciones (verano, Navidad y Semana Santa) en dos lotes: actividad (29.700 euros/año) y limpieza (4.095 euros/año). Valor estimado total: 84.695,79 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 84695.79,
+      "importes": [
+        {
+          "concepto": "Lote 1: Escuela de Vacaciones de verano, Navidad y Semana Santa (anual)",
+          "eur": 29700.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: Limpieza de instalaciones (anual)",
+          "eur": 4095.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 4/21",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos para su boda civil el 4 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505559O",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Salón de Plenos para otra boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a usar el Salón de Plenos para su boda civil el 4 de junio, a la misma hora que la anterior según el acta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505199O",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Escuela de verano en el CEIP Giner de los Ríos",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el colegio en julio para una escuela de verano organizada por una particular (Arcoiris), que pagará los gastos.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "particular (Arcoiris)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508740J",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Escuela de verano en el CEIP La Paz",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la AMPA del CEIP La Paz a usar el colegio en julio para una escuela de verano de la Ludoteca Neverland (Psico-educa Yecla C.B.).",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP La Paz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Psico-educa Yecla C.B. (Ludoteca Neverland)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508742M",
+      "lugar": "CEIP La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Teatro Concha Segura gratis para el Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 4 de junio al Centro Excursionista de Yecla para proyectar 'Urko escalando el presente', con rebaja del 100 % del precio (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507855E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "La Plaza de Toros, para la misa del Corpus de la parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la Plaza de Toros a la Parroquia del Niño Jesús del 4 al 6 de junio para una misa del Corpus Christi, con seguro, fianza de 500 euros y medidas COVID; también se le prestan sillas y vallas.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508575E",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Plan de seguridad de la obra de la calle Rambla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de Mediterráneo de Obras y Asfaltos, S.A. para la reurbanización de la calle Rambla (POS 2020).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501950D",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Vuelve el público a los partidos de la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la presencia de público en el Pabellón María José Martínez y la Sala Escolar Las Herratillas para los partidos de la Red Deportiva Yecla, con los aforos y protocolos COVID validados por la Dirección General de Deportes.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484309C",
+      "lugar": "Pabellón María José Martínez; Sala Escolar Las Herratillas",
+      "interes": 2
+    }
+  ]
+}

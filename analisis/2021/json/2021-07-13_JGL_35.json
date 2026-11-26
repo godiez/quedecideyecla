@@ -1,0 +1,597 @@
+{
+  "doc": "2021-07-13_JGL_35",
+  "organo": "JGL",
+  "sesion": 35,
+  "fecha": "2021-07-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 26,
+  "resumen": "La Junta de Gobierno paga 64.372 euros del montaje del Foro Creacción 2021 y una exposición del Día del Medio Ambiente, y aprueba los padrones del agua y de la basura (unos 642.000 euros). Encarga el Plan de Sostenibilidad Turística (12.100 euros), la asesoría para cambiar el Plan General y permitir actividades de muy alta ocupación en suelo no urbanizable (16.940 euros) y la difusión municipal en Teleyecla (16.000 euros). Informa a favor del interés público de un campo de airsoft en el campo, crea la bolsa de empleo de psicólogos, niega a un policía jubilado el premio por jubilación y aprueba Músicas del Aire, un encuentro de recreadores del Siglo de Oro y una ludoteca de verano.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 6 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: temporalidad en el empleo público, Covid, Capilla de las Angustias y vados",
+      "categoria": "informacion",
+      "resumen": "Se informa del Real Decreto-ley 14/2021 para reducir la temporalidad en el empleo público, de dos órdenes regionales sobre el nivel de alerta Covid, de que el Ministerio pide al Ayuntamiento reservar 381.643,50 euros como aportación municipal a la restauración de la Capilla de las Angustias de la iglesia de San Francisco (1,5% cultural), con plazo ampliado al 31 de agosto, y de que la CARM financia con el POS 2020-2021 los vados peatonales de las calles Maestro Mora y Rambla.",
+      "entidades": [
+        {
+          "nombre": "Subdirección General de Arquitectura y Edificación (Ministerio de Transportes, Movilidad y Agenda Urbana)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia (1,5% cultural)"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 381643.5,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "516837E",
+      "lugar": "Iglesia de San Francisco; calles Maestro Mora y Rambla",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Foro Creacción 2021 y exposición del Día del Medio Ambiente",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el montaje, la iluminación y el sonido del Foro Creacción 2021 y una exposición de sensibilización por el Día Mundial del Medio Ambiente.",
+      "entidades": [
+        {
+          "nombre": "Órdago Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grupo Empresarial Marevents, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64372.05,
+      "importes": [
+        {
+          "concepto": "Campaña de sensibilización: exposición Día Mundial del Medio Ambiente",
+          "eur": 7139.0,
+          "entidad": "Grupo Empresarial Marevents, S.L.U."
+        },
+        {
+          "concepto": "Lote 1: suministro y colocación del Foro Creacción 2021",
+          "eur": 43620.55,
+          "entidad": "Órdago Producciones, S.L."
+        },
+        {
+          "concepto": "Lote 2: iluminación y sonido del Foro Creacción 2021",
+          "eur": 13612.5,
+          "entidad": "Órdago Producciones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505656A, 484444P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Padrones del agua (2º trimestre) y de la basura (3er trimestre) de 2021",
+      "categoria": "fiscal",
+      "resumen": "Se toma razón del padrón del agua del 2º trimestre (294.440,49 euros), se liquida el canon municipal (48.763,34 euros), se indica el canon de saneamiento regional a cobrar (235.255,48 euros), se aprueba el padrón de la basura del 3er trimestre (347.589,80 euros) que cobra FCC Aqualia y se anula un recibo de 59,40 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 642030.29,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria del agua potable, 2º trimestre 2021",
+          "eur": 294440.49,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon municipal (ingreso del Ayuntamiento)",
+          "eur": 48763.34,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 235255.48,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria de la tasa de basura, 3er trimestre 2021",
+          "eur": 347589.8,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de basura anulados",
+          "eur": 59.4,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517196D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del ICIO por ampliar una nave industrial en La Arboleda",
+      "categoria": "fiscal",
+      "resumen": "Se concede una bonificación del 50% del impuesto de obras (ICIO) a una comunidad de bienes por la ampliación de una nave industrial (licencia 134/21), por tratarse de un uso industrial. No consta el importe.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502709H",
+      "lugar": "La Arboleda (Ctra. de Caudete, km 100,2)",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Bono de piscina gratis para jóvenes vulnerables: se aplaza",
+      "categoria": "fiscal",
+      "resumen": "Se deja sobre la mesa la bonificación del 100% del bono de piscina a jóvenes en situación de vulnerabilidad social hasta que informe el Servicio Municipal de Deportes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "517336Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de arquitecto director de obra de una vivienda en La Hormiga",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de la renuncia de la arquitecta directora de obra y del nombramiento de un nuevo director en la licencia 88/2016 (demolición y construcción de una vivienda unifamiliar aislada).",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "116699H",
+      "lugar": "Paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Interés público de un campo de airsoft en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "A petición de la Comunidad Autónoma, se informa favorablemente el interés público y la compatibilidad urbanística de un campo de airsoft (actividad recreativa) que promueven particulares en suelo no urbanizable, y se remite a la Consejería de Fomento para que lo autorice.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "109322M (S.N.U. 9/2018)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Segregación de 17.076 m² de una finca rústica en Don Blas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede licencia para segregar una parcela de 17.076 m² de una finca de viñedo de regadío de 45.230 m² en suelo no urbanizable, sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497935C",
+      "lugar": "Paraje Don Blas (polígono 78)",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Segregación de 20.651 m² de una finca rústica en el Ardal",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede licencia para segregar una parcela de 20.651 m² de una finca rústica de 112.860 m² (reducida en parte por la expropiación de la autovía A-33) en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497932Y",
+      "lugar": "Paraje Ardal (polígono 79)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de psicólogos y rechazo de dos recursos de aspirantes",
+      "categoria": "personal",
+      "resumen": "Se desestiman los recursos de alzada de dos aspirantes que suspendieron el ejercicio práctico (la nota se puso en secreto por papeleta) y se aprueba la bolsa de empleo de psicólogos/as para contratos temporales, vigente hasta el 31 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395127N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Petición de un empleado de cambio de puesto: se aplaza",
+      "categoria": "personal",
+      "resumen": "Se deja sobre la mesa la petición de un auxiliar inspector de servicios públicos de ocupar provisionalmente la jefatura de la Oficina de Agricultura o pasar en comisión de servicios a auxiliar inspector de obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "510603X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Redacción del Plan de Sostenibilidad Turística en Destinos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a MTA Connect Asociación por 12.100 euros, IVA incluido, la redacción del Plan de Sostenibilidad Turística en Destinos (base para pedir fondos europeos de turismo).",
+      "entidades": [
+        {
+          "nombre": "MTA Connect Asociación",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "515553X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Asesoría para cambiar el Plan General: actividades de muy alta ocupación en el campo",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se adjudica a Ezquiaga Arquitectura Sociedad y Territorio, S.L. por 16.940 euros, IVA incluido, la asesoría técnica para preparar y tramitar una modificación puntual del Plan General que permita actividades de muy alta ocupación en suelo no urbanizable.",
+      "entidades": [
+        {
+          "nombre": "Ezquiaga Arquitectura Sociedad y Territorio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16940.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513608W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7",
+      "titulo": "Músicas del Aire 2021: programa, presupuesto y entradas a 2 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el ciclo Músicas del Aire 2021 (9 noches entre el 9 de julio y el 6 de agosto), con un presupuesto de 8.542,60 euros y entradas a 2 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8542.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Horario de verano y Navidad del CAVI",
+      "categoria": "servicios_actividades",
+      "resumen": "El Centro de Atención a Víctimas de Violencia de Género (CAVI) abrirá de 8:00 a 14:15 en verano (hasta el final de la Feria) y en Navidad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "515406R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de subvenciones de medio ambiente urbano 2021",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan ayudas de hasta 4.000 euros en total para asociaciones sin ánimo de lucro de Yecla con proyectos de medio ambiente urbano (ahorro de agua y energía, ruido, reciclaje, sensibilización, plantaciones...). Plazo de dos meses desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513493K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Beca de formación en el Gabinete de Comunicación municipal",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convoca una beca de formación de 10 meses (1.200 horas) y hasta 6.000 euros para un titulado en Periodismo, Comunicación o Protocolo en el Gabinete Municipal de Comunicación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512310R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Petición para incluir el sendero Raspay-Las Pansas en El Carche",
+      "categoria": "medio_ambiente",
+      "resumen": "Se pide a la Dirección General de Medio Natural de la CARM que estudie incluir el sendero de Raspay al vértice geodésico de Las Pansas en la red de senderos del Parque Regional de El Carche, dentro de una guía de rutas turísticas financiada con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516660J",
+      "lugar": "Raspay; Sierra de las Pansas (Parque Regional de El Carche)",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Baja de un puesto del Mercado Central por jubilación",
+      "categoria": "patrimonio",
+      "resumen": "Se da de baja a una comunidad de bienes en el puesto 15L del Mercado Central desde el 1 de julio de 2021 por jubilación de un socio, y el puesto queda vacante.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516687X",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Cambio de titular de un puesto del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza que el puesto 7L del Mercado de San Cayetano pase de la misma comunidad de bienes disuelta a uno de sus socios, desde el 1 de julio de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516553K",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Se niega la tarjeta de residente de zona azul por deudas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la tarjeta de residente en zona azul por no estar al corriente de pago con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "510713Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Se niega la tarjeta de residente de zona azul por no ser titular del coche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino la tarjeta de residente en zona azul porque el vehículo no está a su nombre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "510712Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Pista de atletismo gratis para el segundo día del Campeonato Regional sub16 y sub18",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba ceder gratis la pista de atletismo del Complejo Juan Palao Azorín al Club de Atletismo Yeclano el 11 de julio (ampliación por exceso de inscritos), valorado en 255,30 euros, que se suman a los 527,70 euros ya concedidos para el día 10.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 255.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505974R",
+      "lugar": "Complejo deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Certificación nº 3 de la obra del Centro de Protección Animal",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la tercera certificación de la obra del Centro de Protección Animal, por 26.597,25 euros, a favor de Navecón y Contratas, S.L.U.",
+      "entidades": [
+        {
+          "nombre": "Navecón y Contratas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26597.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490489K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Se niega el premio por jubilación a un policía local",
+      "categoria": "personal",
+      "resumen": "Se deniega a un agente jubilado de la Policía Local la indemnización por jubilación del acuerdo de condiciones de trabajo, porque el Tribunal Supremo, el Tribunal de Cuentas y dos autos recientes del Juzgado nº 5 de Murcia la consideran ilegal (cambio de criterio respecto a una sentencia de 2020 que sí la reconoció a otra agente).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "509932P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Difusión de actividades municipales en Teleyecla",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Interfibra Telecomunicaciones, S.L. por 16.000 euros, IVA incluido, la difusión de actividades y servicios municipales en Teleyecla Radio y Teleyecla.",
+      "entidades": [
+        {
+          "nombre": "Interfibra Telecomunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517994M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Uso del Auditorio Juan Miguel Benedito para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una boda civil en el Auditorio Municipal el 17 de julio de 2021, con medidas Covid y previo pago del precio público de 120 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508144F",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "I Encuentro de Recreadores del Siglo de Oro",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el I Encuentro de Recreadores del Siglo de Oro Yecla 2021, los días 17 y 18 de julio, con un presupuesto de 5.505,50 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5505.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517781Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Ludoteca de verano en el colegio Méndez Núñez con la asociación del Nordeste",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza con la Asociación para el Desarrollo Comarcal del Nordeste una ludoteca de verano del 19 de julio al 6 de agosto para hasta 30 escolares (con prioridad a los propuestos por Servicios Sociales); el Ayuntamiento pone el local, materiales, seguro e inscripciones, con 2.000 euros de gasto.",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516686W",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    }
+  ]
+}

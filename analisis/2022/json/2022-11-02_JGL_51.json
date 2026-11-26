@@ -1,0 +1,812 @@
+{
+  "doc": "2022-11-02_JGL_51",
+  "organo": "JGL",
+  "sesion": 51,
+  "fecha": "2022-11-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno paga 28.858 € a Invemat Levante por las infraestructuras de la Feria de Septiembre y adjudica dos contratos menores: dos calderas para el Ayuntamiento (12.300 €) y suelo para la galería de tiro de la Policía Local (10.043 €). Da 3.000 € al Centro Tecnológico del Mueble para su concurso de diseño, cede gratis el Teatro Concha Segura para una campaña de donación de sangre y autoriza ocho terrazas de bares. También fija horarios especiales de los mercados en el puente de diciembre y adelanta el mercado ambulante al día 6.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior (el acta dice, por error, 26 de diciembre de 2022; debe ser 26 de octubre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: ayudas del Estado para rehabilitar edificios públicos",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución provisional (25-10-2022) de la Dirección General de Agenda Urbana y Arquitectura en la convocatoria de ayudas para rehabilitar edificios de titularidad pública, con fondos del Plan de Recuperación (Next Generation). El acta no dice qué edificio ni qué importe.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Agenda Urbana y Arquitectura (Ministerio de Transportes, Movilidad y Agenda Urbana)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve provisionalmente ayudas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "688296R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de 28.858,50 € a Invemat Levante por la Feria de Septiembre",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a Invemat Levante, S.L. 28.858,50 € del contrato de infraestructuras para la Feria de Septiembre de 2022 (C.SE. 15/22).",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28858.5,
+      "importes": [
+        {
+          "concepto": "Infraestructuras para la Feria de Septiembre 2022 (C.SE. 15/22)",
+          "eur": 28858.5,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647793N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegada exención del impuesto de obras por asfaltar un camino en La Decarada",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un particular la exención del ICIO por asfaltar 340 m de camino en el paraje La Decarada: el asfaltado de caminos no está entre las obras exentas y, según el ingeniero municipal, ese tramo no forma parte de la red de caminos municipales. Ya había pagado 278,56 € de impuesto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 278.56,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "657164D",
+      "lugar": "Paraje La Decarada (camino)",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del IBI por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un particular la bonificación del 50 % del IBI por placas solares de autoconsumo en su vivienda porque la instalación costó 5.593 €, por debajo de la inversión mínima de 6.000 € que exige la ordenanza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "687532F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50 % del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a dos particulares la bonificación del 50 % del IBI de 2023 a 2027 (máximo 100 € al año) por una instalación solar de autoconsumo de 6 kW en la cubierta de su vivienda, con un presupuesto de 9.125,70 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687493C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Obras de la licencia 111/1988 paradas por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el director de ejecución de las obras de la licencia urbanística n.º 111/1988 ha renunciado; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "686182F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Obras de la licencia 186/1997 paradas por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el director de ejecución de las obras de la licencia urbanística n.º 186/1997 ha renunciado; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "685753K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Obras de la licencia 23/2005 paradas por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el director de ejecución de las obras de la licencia urbanística n.º 23/2005 ha renunciado; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "686730R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Obras de la licencia 9/2006 paradas por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el director de ejecución de las obras de la licencia urbanística n.º 9/2006 ha renunciado; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "686698Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Obras de la licencia 134/2007 paradas por renuncia del director de ejecución",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que el director de ejecución de las obras de la licencia urbanística n.º 134/2007 ha renunciado; las obras quedan paralizadas hasta que se nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "686427X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso sin sueldo de un peón: punto sin acuerdo",
+      "categoria": "personal",
+      "resumen": "El punto se incluyó por error: el permiso por asuntos propios sin retribución de un peón-operario ya se aprobó el 26 de octubre. No se adopta acuerdo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "retirado",
+      "votacion": null,
+      "expediente": "686564M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Una auxiliar de Agricultura pasa a apoyar a la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se atribuye temporalmente a una auxiliar administrativa de la Oficina de Agricultura y Medio Ambiente tareas de los Servicios Técnicos para atender la Brigada de Obras, por exceso de trabajo (766 expedientes en Servicios Técnicos frente a 164 en Agricultura y Medio Ambiente en 2022), hasta que se modifique la relación de puestos de trabajo (RPT).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683434P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Sigue un año más el contrato de un agente de empleo, pagado por el SEF",
+      "categoria": "personal",
+      "resumen": "Se prorroga hasta el 19-11-2023 el contrato temporal (desde 2013) de un agente de empleo y desarrollo local, financiado con una nueva subvención del SEF (expediente 2022-02-71-0024). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención para el salario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "650043N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Sigue un año más el contrato de una agente de empleo, pagado por el SEF",
+      "categoria": "personal",
+      "resumen": "Se prorroga hasta el 20-11-2023 el contrato temporal (desde 2008) de una agente de empleo y desarrollo local, financiado con una nueva subvención del SEF (expediente 2022-02-71-0023). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención para el salario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "650030W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contratación de una auxiliar administrativa para la Policía Local",
+      "categoria": "personal",
+      "resumen": "Tras la selección hecha con candidatos enviados por el SEF, se contrata a una auxiliar administrativa para la Policía Local y se crea una lista de espera con otros tres aspirantes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679670M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Dos calderas de gas para la climatización del Ayuntamiento: 12.300 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor adjudicado a Calfrica Servicios, S. Coop. para suministrar dos calderas de gas de 50 kW de exterior como apoyo a la climatización de la Casa Consistorial, por 12.300 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Calfrica Servicios, S. Coop.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12300.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679664D",
+      "lugar": "Casa Consistorial",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Suelo nuevo para la galería de tiro de la Policía Local: 10.043 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor adjudicado a Revestimientos Todoplas, S.L. para colocar 200 m² de pavimento en la galería de tiro de la Policía Local, por 10.043 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Revestimientos Todoplas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10043.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684066R",
+      "lugar": "Galería de tiro de la Policía Local",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Contrato de animación del Centro de Mayores Herratillas: punto sin acuerdo",
+      "categoria": "contrato",
+      "resumen": "El punto se incluyó por error: la continuación del contrato de animación y dinamización social del Centro Municipal de Personas Mayores 'Herratillas' (C.SE. 8/21) ya se acordó el 26 de octubre. No se adopta acuerdo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "retirado",
+      "votacion": null,
+      "expediente": "525175K",
+      "lugar": "Centro Municipal de Personas Mayores Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Bolardos en la calle San Luis para evitar coches en la acera",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina, se aprueba poner bolardos frente a las puertas de viviendas de un tramo de la calle San Luis (junto a una farmacia y un supermercado) donde los coches aparcan en la acera, pero no frente a las cocheras, que ya tienen vado; se pide a la Policía Local vigilar la zona.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa y vigilará la zona"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684972A",
+      "lugar": "Calle San Luis (números impares, junto a una farmacia)",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza anual para la Cafetería Siglo XXI (18 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza de la 'Cafetería Siglo XXI' en la calle Arcipreste Esteban Díaz, de 18 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 306 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 306.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687295C",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza anual para el bar La Prensa (24 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del bar 'La Prensa' en las calles Cruz de Piedra y San Fernando, de 24 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 612 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 612.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686069Z",
+      "lugar": "Calles Cruz de Piedra y San Fernando",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza anual para el Búho Bar (54 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del 'Búho Bar' en la calle Esteban Díaz, de 54 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 918 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 918.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686705H",
+      "lugar": "Calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza anual para la cafetería El Paseo (50 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular la terraza de la cafetería 'El Paseo' en la avenida Pablo Picasso, de 50 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 850 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 850.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686710P",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza anual para la cafetería Memphis (60 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Lucas Domene, S.L. la terraza de la cafetería 'Memphis' en la calle San José, de 60 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 1.054 €. (El texto del acuerdo copia por error el de la cafetería El Paseo.)",
+      "entidades": [
+        {
+          "nombre": "Lucas Domene, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene autorización de terraza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1054.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687236W",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza anual para la Cafetería Zeta (60 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Z Cafetería C.B. la terraza de la 'Cafetería Zeta' en la Placeta Ortega, de 60 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 1.020 €.",
+      "entidades": [
+        {
+          "nombre": "Z Cafetería C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene autorización de terraza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1020.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679866J",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Terraza anual para el Café-Bar Tragaluz (20 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular la terraza del 'Café-Bar Tragaluz' en la calle Arcipreste Esteban Díaz, de 20 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 510 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 510.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "684987X",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Los comerciantes (ASOCOMY) usarán el Edificio Bioclimático para cursos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Comerciantes de Yecla (ASOCOMY) a usar el salón de actos del Edificio Bioclimático los días 7 y 14 de noviembre para cursos de formación.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa una sala municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686651H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Teatro Concha Segura gratis para una campaña de donación de sangre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 24 de noviembre al Centro Regional de Hemodonación para una campaña de donación de sangre y médula, con una rebaja del 100 % del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Regional de Hemodonación",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa el teatro gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683996W",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio gratis para la asamblea de la Asociación de Hostelería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal 'Juan Miguel Benedito' el 8 de noviembre a la Asociación de Hostelería de Yecla para su junta general de socios, con una rebaja del 100 % del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Hostelería de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686202J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Horarios especiales de los mercados en diciembre y en Reyes",
+      "categoria": "servicios_actividades",
+      "resumen": "Por los festivos de diciembre: el Mercado de San Cayetano abrirá el 5 de diciembre por la tarde (17:15-21:30) y el 6 por la mañana, y cerrará la tarde del 5 de enero por la Cabalgata de Reyes; el Mercado Central abrirá la mañana del 6 de diciembre. Se autorizan horas extra y contratación externa de servicios (sin importe).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685704R",
+      "lugar": "Mercado de San Cayetano y Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Dos menores cumplirán trabajos en beneficio de la comunidad en el Espacio Joven",
+      "categoria": "servicios_actividades",
+      "resumen": "A petición de la Asociación CEFIS, se autoriza que dos menores cumplan en el Espacio Joven medidas judiciales de prestación en beneficio de la comunidad (85 y 50 horas), supervisadas por la técnica de Juventud.",
+      "entidades": [
+        {
+          "nombre": "Asociación Colectivo de Estudios, Formación e Intervención Social (CEFIS)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita la colaboración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685900P",
+      "lugar": "Espacio Joven",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Cambio de titular de un puesto de panadería en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza el traspaso del puesto 10L del Mercado de San Cayetano entre dos particulares para venta de panadería y pastelería; el nuevo titular paga 2.200,80 € de adjudicación y 389,76 € de fianza, y debe dejar el puesto 11L. Se devuelve la fianza a la titular anterior.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2200.8,
+      "importes": [
+        {
+          "concepto": "Precio de adjudicación del puesto 10L",
+          "eur": 2200.8,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Fianza",
+          "eur": 389.76,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686419K",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Un comerciante deja tres puestos del Mercado Central",
+      "categoria": "patrimonio",
+      "resumen": "Se da de baja a un particular en los puestos 9L, 10L y 11L del Mercado Central (ubicado provisionalmente en la calle San Francisco) desde el 1-11-2022 y se le devuelven las fianzas; pierde la preferencia para un puesto tras la remodelación del mercado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686999Q",
+      "lugar": "Mercado Central (provisional en calle San Francisco)",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Traspaso de un puesto del mercado ambulante a Comerval Coop. V.",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza, con efectos de 1-6-2022 y por 12 años, el traspaso del puesto n.º 51 del mercado ambulante de los miércoles (Jardín de la Constitución) de un particular a Comerval Coop. V. para 'otras mercancías'; se anulan los recibos de junio a septiembre al antiguo titular y se giran a la cooperativa.",
+      "entidades": [
+        {
+          "nombre": "Comerval Coop. V.",
+          "cif": null,
+          "tipo": "cooperativa",
+          "rol": "nuevo titular del puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636029Z",
+      "lugar": "Mercado ambulante de los miércoles (Jardín de la Constitución)",
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Traspaso de un puesto de textil del mercado ambulante entre particulares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza, con efectos de 1-6-2022 y por 12 años, el traspaso entre dos particulares de un puesto de textil y confección del mercado ambulante de los miércoles (el acta lo numera como 62 y como 83); se anulan los recibos de junio a septiembre al antiguo titular y se le devuelve la fianza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628855K",
+      "lugar": "Mercado ambulante de los miércoles (Parque de la Constitución)",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una particular la condición de residente en zona azul hasta el 31-12-2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687322P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una particular la condición de residente en zona azul hasta el 31-12-2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "685273T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Dos trabajadoras sociales irán a una reunión regional",
+      "categoria": "personal",
+      "resumen": "(Urgente) Se ordena a dos trabajadoras sociales asistir el 4 de noviembre a una reunión de la Dirección General de Servicios Sociales y Relaciones con el Tercer Sector sobre proyectos para población vulnerable y subvenciones del Plan Concertado; se pagarán sus gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza la reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689325X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Terraza anual para el establecimiento Firenze (12 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "(Urgente) Se autoriza a una particular la terraza del establecimiento hostelero 'Firenze' en la calle San José, de 12 m², del 1-11-2022 al 31-10-2023; ha pagado una tasa de 204 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 204.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687290W",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "3.000 € al Centro Tecnológico del Mueble para el concurso de diseño",
+      "categoria": "subvencion_concedida",
+      "resumen": "(Urgente) Se concede al Centro Tecnológico del Mueble y la Madera de la Región de Murcia una subvención de 3.000 € para la 26.ª edición del Concurso Internacional de Diseño Industrial del Mueble; se pagará cuando justifique los gastos.",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia (CETEM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "688590A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "El mercado ambulante del 7 de diciembre se adelanta al día 6",
+      "categoria": "via_publica_eventos",
+      "resumen": "(Urgente) Como el miércoles 7 de diciembre es fiesta local (Día de la Bajada), el mercado ambulante se celebrará el martes 6 de diciembre, festivo nacional pero de libre apertura comercial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690143H",
+      "lugar": "Mercados ambulantes junto al Mercado de San Cayetano y al Mercado Central",
+      "interes": 1
+    }
+  ]
+}

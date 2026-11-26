@@ -1,0 +1,793 @@
+{
+  "doc": "2023-12-19_JGL_53",
+  "organo": "JGL",
+  "sesion": 53,
+  "fecha": "2023-12-19",
+  "tipo_sesion": "ordinaria",
+  "paginas": 34,
+  "resumen": "El Ayuntamiento no tiene liquidez para pagar antes de fin de año 187.738 euros al Consorcio de Bomberos y pide pagarlos en tres plazos. Se multa a Eulen con 2.364 euros (y se le descuentan otros 1.848) por retrasos en las viviendas del proyecto Housing First, y se pide un arquitecto técnico interino porque hay más de 400 expedientes de urbanismo pendientes. También se aprueba el censo municipal de amianto con su calendario de retirada, se pagan 235.190 euros a Actúa por basura, limpieza y jardines, y se autorizan terrazas, actos navideños y una estación meteorológica en el Castillo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 12 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Un juzgado da la razón a Smartscapes Studio contra el Ayuntamiento",
+      "categoria": "reclamaciones",
+      "resumen": "Se informa de la sentencia 139/23 del Juzgado de lo Contencioso-Administrativo nº 5 de Murcia, que estima el recurso de Smartscapes Studio contra el acuerdo de 2021 que le denegó la garantía definitiva del contrato de redacción de proyectos del Plan Yecla Valora (Centro Polivalente y ladera sur del Cerro del Castillo).",
+      "entidades": [
+        {
+          "nombre": "Smartscapes Studio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre y gana"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "857635K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: césped de una pista polideportiva y mantenimiento de Oracle",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la instalación y reposición de césped artificial en la pista polideportiva nº 1 junto al Pabellón José Ortega Chumilla y la renovación del mantenimiento de software Oracle de 2023.",
+      "entidades": [
+        {
+          "nombre": "Grasservice Sport 2022, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26699.49,
+      "importes": [
+        {
+          "concepto": "Césped artificial pista polideportiva nº 1, Pabellón José Ortega Chumilla",
+          "eur": 18096.28,
+          "entidad": "Grasservice Sport 2022, S.L."
+        },
+        {
+          "concepto": "Renovación mantenimiento Oracle 2023",
+          "eur": 8603.21,
+          "entidad": "Oracle Ibérica, S.R.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816570A, 787635N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del Concierto de Santa Cecilia: 2.334 euros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del concierto de Santa Cecilia (26/11/2023): de 3.492 € en entradas puestas a la venta, se ingresaron 2.334 € y se dan de baja 1.158 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2334.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de titular de una licencia de obras de vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del cambio de titular de la licencia 414/2018 para construir una vivienda unifamiliar, que pasa de unos particulares a otro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "81881Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "La licencia de una nave para caballos en Moratillas pasa a Mariano Farrugia, S.L.",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de que la licencia 47/2021 para construir una nave de explotación equina en el paraje Moratillas pasa de un particular a la empresa Mariano Farrugia, S.L., nueva titular catastral de la finca.",
+      "entidades": [
+        {
+          "nombre": "Mariano Farrugia, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nuevo titular de la licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "497902F",
+      "lugar": "paraje Moratillas (polígono 104)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Excluidas dos aspirantes de las oposiciones de técnico de educación infantil",
+      "categoria": "personal",
+      "resumen": "En el proceso de estabilización de 4 plazas fijas de técnico de educación infantil se excluye a dos aspirantes admitidas por error, porque al revisar méritos se vio que no cumplían los requisitos al acabar el plazo de solicitudes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "855377Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Excedencia voluntaria a un trabajador social",
+      "categoria": "personal",
+      "resumen": "Se concede excedencia voluntaria (entre 4 meses y 5 años) a un trabajador social con contrato de sustitución, con derecho preferente a volver solo si la plaza sigue libre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "852385T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Nombrada una auxiliar administrativa interina para la Casa de Cultura",
+      "categoria": "personal",
+      "resumen": "Como no hubo candidatos en la bolsa municipal, la Comunidad Autónoma designó de sus listas a una persona que se nombra funcionaria interina auxiliar administrativa de la Casa de Cultura, como máximo tres años.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "designa candidata"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821810D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Reconocidos casi 8 años de servicios previos a un analista programador",
+      "categoria": "personal",
+      "resumen": "Se reconocen a un funcionario interino analista programador 7 años, 10 meses y 27 días trabajados antes en la Administración (grupo C1), a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "858367C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Reconocidos casi 4 años de servicios previos a una auxiliar de biblioteca",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una trabajadora temporal auxiliar de biblioteca 3 años, 11 meses y 19 días de servicios previos (grupo C2), a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "858317H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Una agente de Policía Local asiste a jornadas sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una agente de la Policía Local a asistir a las VIII Jornadas de formación sobre violencia de género organizadas por el Ayuntamiento el 15 de diciembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "856482J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza anual de 14 m² para el bar Gaggia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar Gaggia en la calle Arcipreste Esteban Díaz, de noviembre de 2023 a octubre de 2024, con 14 m².",
+      "entidades": [
+        {
+          "nombre": "Bar Gaggia",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840467Q",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza anual de 24 m² para el bar La Prensa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del bar La Prensa en las calles Cruz de Piedra y San Fernando, de noviembre de 2023 a octubre de 2024, con 24 m².",
+      "entidades": [
+        {
+          "nombre": "Bar La Prensa",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837876R",
+      "lugar": "calles Cruz de Piedra y San Fernando",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza anual de 6 m² para el Bar La Bohemia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Bar La Bohemia en la calle España, de noviembre de 2023 a octubre de 2024, con 6 m².",
+      "entidades": [
+        {
+          "nombre": "Bar La Bohemia",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837612A",
+      "lugar": "calle España",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza anual de 40 m² para la Cafetería Los Billares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la Cafetería Los Billares en las calles Arcipreste Esteban Díaz y Paco Corbalán, de noviembre de 2023 a octubre de 2024, con 40 m².",
+      "entidades": [
+        {
+          "nombre": "Cafetería Los Billares",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857149K",
+      "lugar": "calles Arcipreste Esteban Díaz y Paco Corbalán",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza anual de 20 m² para el Café-Bar Tragaluz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Café-Bar Tragaluz en la calle Arcipreste Esteban Díaz, de noviembre de 2023 a octubre de 2024, con 20 m².",
+      "entidades": [
+        {
+          "nombre": "Café-Bar Tragaluz",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857810D",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Denegado mover unos contenedores de reciclaje de la calle San Valentín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una comunidad de propietarios pide quitar de su fachada los contenedores de reciclaje por molestias y suciedad. Se deniega: ya se recolocaron en 2022 a petición de González Máquinas Recreativas y de Azar, S.L., se limpian como los demás y no hay motivos nuevos.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (Avda. de Córdoba)",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "pide cambio"
+        },
+        {
+          "nombre": "González Máquinas Recreativas y de Azar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pidió antes el cambio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "853468Y",
+      "lugar": "calle San Valentín",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "El C.T. Arabí Yecla usará el salón del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al club de triatlón a usar el salón de actos del Edificio Bioclimático el 21 de diciembre para una jornada de promoción del triatlón femenino.",
+      "entidades": [
+        {
+          "nombre": "Club C.T. Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857464Y",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Aprobado el censo de edificios e instalaciones con amianto y el calendario para retirarlo",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba el censo de instalaciones y emplazamientos con amianto del término municipal, con un calendario para su retirada, elaborado por Agforest, S.L.; se publicará un visor en la web municipal y se enviará a la Dirección General de Medio Natural de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Agforest, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "elabora el censo"
+        },
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe el censo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "677208R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Subvención de 2.000 euros a la asociación juvenil AFEDECO",
+      "categoria": "subvencion_concedida",
+      "resumen": "En la convocatoria 2023 de ayudas a asociaciones juveniles se concede 2.000 € a AFEDECO para sus proyectos de actividades; se pagará cuando las justifique.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "827672W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "San Silvestre Green Christmas del Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la X San Silvestre Green Christmas del 31 de diciembre (carrera solidaria no competitiva de 2,5 km por el casco urbano, con salida y llegada en el Parque de la Constitución) y la colaboración municipal, con un gasto de 314,60 €.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 314.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845596P, 859043Q",
+      "lugar": "Parque de la Constitución y casco urbano",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Torneo de Navidad de la A.D. Albatros en el Pabellón José Ortega Chumilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el Torneo Navidad Escuela Albatros del 23 de diciembre y se cede gratis el pabellón, uso valorado en 184,60 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 184.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845721N",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de facturas: basura, limpieza viaria, zonas verdes y gasóleo",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueba pagar la recogida de basura, limpieza viaria y recogida selectiva de noviembre, la limpieza y mantenimiento de zonas verdes de noviembre y suministro de combustible.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 235190.43,
+      "importes": [
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, noviembre 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Recogida de RSU, limpieza viaria y recogida selectiva, noviembre 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Suministro de combustibles y gasóleo C (C.SU.2/23)",
+          "eur": 6300.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538849C, 495804R, 750072R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.2",
+      "titulo": "El Ayuntamiento pide aplazar en tres plazos 187.738 euros al Consorcio de Bomberos",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "El Consorcio de Extinción de Incendios de la Región reclama una aportación extraordinaria de 187.738,12 € antes del 30 de diciembre. La Tesorería dice que no hay liquidez para pagarla a tiempo y se pide un plan de pagos en tres plazos (enero, febrero y marzo).",
+      "entidades": [
+        {
+          "nombre": "Consorcio de Extinción de Incendios y Salvamento de la Región de Murcia",
+          "cif": null,
+          "tipo": "consorcio_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 187738.12,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785132M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Nuevo cuadrante de turnos para la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se aprueba el nuevo cuadrante de turnos de los agentes de la escala básica de la Policía Local, negociado en la Mesa General de Negociación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "858883T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Se pide un arquitecto técnico interino: hay más de 400 expedientes de urbanismo atascados",
+      "categoria": "personal",
+      "resumen": "Los Servicios Técnicos acumulan más de 400 expedientes urbanísticos sin informar. Como no hay bolsa propia, se pide a la Comunidad Autónoma un candidato de sus listas para nombrar un arquitecto técnico interino durante 9 meses.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "designa candidato"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "848489H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Se alarga hasta el 15 de enero el contrato del proyecto Housing First",
+      "categoria": "contrato",
+      "resumen": "Se amplía hasta el 15 de enero de 2024 el contrato del proyecto piloto Housing First y alojamiento transitorio para personas vulnerables (fondos europeos Next Generation), para completar los 14 meses previstos, tras autorizarlo la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Dirección General de Servicios Sociales, Tercer Sector y Gestión de la Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia y autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F (C.SE. 12/22 EU)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Multa a Eulen por retrasos en las viviendas del proyecto Housing First",
+      "categoria": "reclamaciones",
+      "resumen": "Se sanciona a Eulen con 2.364,10 € por cuatro incumplimientos (dos leves y dos graves) en los plazos de entrega de las cuatro viviendas del proyecto Housing First, y se le descuentan 1.848,23 € por servicios no prestados. Se rechazan sus alegaciones (escasez de pisos de alquiler, averías, reticencias de propietarios).",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "sancionada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4212.33,
+      "importes": [
+        {
+          "concepto": "Penalidades por 4 incumplimientos",
+          "eur": 2364.1,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Descuento por servicios no prestados",
+          "eur": 1848.23,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825414J (C.SE. 13/22 EU)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Batucada solidaria de Cruz Roja para recoger alimentos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja una batucada solidaria de recogida de alimentos en el Parque de la Constitución el 21 de diciembre por la tarde.",
+      "entidades": [
+        {
+          "nombre": "Asamblea Local de Cruz Roja Española",
+          "cif": null,
+          "tipo": "ong",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "858851Z",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Carpas y mesas para la Parroquia de San Juan Bautista en el Mercado de Navidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden a la parroquia dos carpas, dos mesas y cuatro sillas para el Mercado de Navidad (20-23 de diciembre), organizado por Mercados Arlekín, S.L.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "pide material"
+        },
+        {
+          "nombre": "Mercados Arlekín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el Mercado de Navidad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854892A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Carpas y mesas para la Parroquia del Niño Jesús en el Mercado de Navidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden a la parroquia tres carpas, mesas y sillas para el Mercado de Navidad (20-23 de diciembre).",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "pide material"
+        },
+        {
+          "nombre": "Mercados Arlekín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el Mercado de Navidad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829245E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Batalla de gallos en el Sótano de Cazadores",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Juventud organiza una batalla de gallos (rap improvisado) el 23 de diciembre, con 170 € de gasto y una entrada de 3 € por participante.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 170.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859863E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Procesión del Divino Niño del colectivo ecuatoriano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colectivo de ecuatorianos residentes en Yecla la procesión de El Divino Niño el 23 de diciembre y se le prestan 150 sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de ecuatorianos residentes en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "727423K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Permiso para una estación meteorológica en el Cerro del Castillo",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza en precario a un particular, sin ánimo de lucro, a instalar una pequeña estación meteorológica en el Cerro del Castillo, junto a la caseta de radiofrecuencia cerca del yacimiento de Yakka; formará parte de una red comarcal con datos públicos en internet.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833605K",
+      "lugar": "Cerro del Castillo, junto al yacimiento Yakka",
+      "interes": 2
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Agua potable para una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza el suministro de agua potable municipal a una vivienda unifamiliar en suelo no urbanizable, con las condiciones del informe de Servicios Públicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "856807K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Se pagan 3.000 euros al CETEM por el concurso internacional de diseño del mueble",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 3.000 € al Centro Tecnológico del Mueble y la Madera para la 27ª edición del Concurso Internacional de Diseño Industrial del Mueble.",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia (CETEM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853589Q",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

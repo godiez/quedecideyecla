@@ -1,0 +1,1000 @@
+{
+  "doc": "2024-10-01_JGL_47",
+  "organo": "JGL",
+  "sesion": 47,
+  "fecha": "2024-10-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno paga 609.714 euros en facturas (basuras, limpieza, jardines, autobús y la Feria de Septiembre), 343.000 euros en certificaciones del Mercado Central y de calles peatonales, y 64.508 euros extra a Actúa por seguir con la basura sin contrato. Aprueba las Ofertas de Empleo Público de 2023 y 2024 (29 plazas, 7 de Policía Local) y la versión definitiva de la UA-11 de la Avenida de la Libertad. También contrata actuaciones del Festival de Jazz, farolas solares en Las Pozas y la reparación de las naves del trigo, y pone reductores de velocidad frente al cementerio.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 24 y 27 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de tres sesiones anteriores (24 de septiembre y dos del 27 de septiembre).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: obras de la Comisaría de Policía Nacional y aguas residuales",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Secretaría de Estado de Seguridad sobre el estado de las obras de la nueva Comisaría Local de la Policía Nacional en Yecla, y de dos informes técnicos municipales: las características de las aguas que llegan a las depuradoras (EDAR) de Yecla y Raspay y las peticiones de agua para obras.",
+      "entidades": [
+        {
+          "nombre": "Secretaría de Estado de Seguridad (Ministerio del Interior)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "982539N, 982825K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, limpieza, jardines, autobuses y Feria de Septiembre",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 13 facturas por 609.714,40 €: recogida y tratamiento de basuras, limpieza de edificios, jardines, autobús urbano, comedor de la escuela infantil El Parque y gastos de la Feria de Septiembre (concierto de León Benavente, festejo taurino, seguridad, infraestructura, musical infantil y festival de folclore).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación Escuela para Toreros Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ser Brigada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "La Cartagenera de Espectáculos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Selec Global Security, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Picó Hermanos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 609714.4,
+      "importes": [
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, agosto 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, julio 2024",
+          "eur": 84266.27,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, agosto 2024",
+          "eur": 76498.34,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil 'El Parque', julio 2024",
+          "eur": 6857.94,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, agosto 2024",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, agosto 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Autobuses urbanos, agosto 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Infraestructura para la Feria de Septiembre 2024, Lote 3",
+          "eur": 29282.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Festejo taurino en la Plaza de Toros, Feria de Septiembre (22/9/2024)",
+          "eur": 7000.0,
+          "entidad": "Asociación Escuela para Toreros Región de Murcia"
+        },
+        {
+          "concepto": "Concierto de León Benavente en el Recinto Ferial, Feria 2024",
+          "eur": 39930.0,
+          "entidad": "Ser Brigada, S.L."
+        },
+        {
+          "concepto": "Musical tributo a Bluey 'Una aventura azul'",
+          "eur": 7260.0,
+          "entidad": "La Cartagenera de Espectáculos, S.L."
+        },
+        {
+          "concepto": "Seguridad en la Feria de Septiembre (13-22/9/2024)",
+          "eur": 9993.39,
+          "entidad": "Selec Global Security, S.A."
+        },
+        {
+          "concepto": "Alojamiento y dietas del Festival de Folclore, septiembre 2024",
+          "eur": 8224.7,
+          "entidad": "Picó Hermanos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 584325N, 607446A, 777197Q, 777199T, 841943Q, 954992D, 960261X, 964463H, 964753K, 970100M, 973958W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central e itinerarios peatonales",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 2 de la mejora de itinerarios peatonales en calle del Niño, Pintor Aguirre y Carlos III (130.885,84 €, Mediterráneo de Obras y Asfaltos) y las certificaciones nº 15 (212.499,06 €) y nº 16 (0 €) de la remodelación del Mercado Central (Guerola Transer).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 343384.9,
+      "importes": [
+        {
+          "concepto": "Certificación nº 2, mejora de itinerarios peatonales en calle del Niño, Pintor Aguirre y Carlos III",
+          "eur": 130885.84,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 15, remodelación del Mercado Central",
+          "eur": 212499.06,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 16, remodelación del Mercado Central",
+          "eur": 0.0,
+          "entidad": "Guerola Transer, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867238Y, 638478A",
+      "lugar": "Mercado Central; calles del Niño, Pintor Aguirre y Carlos III",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Actúa cobra 64.508 € extra por seguir con la basura sin contrato (mayo 2023)",
+      "categoria": "pago_factura",
+      "resumen": "Como el contrato de recogida de basuras y limpieza viaria terminó y el Pleno obligó a Actúa a seguir prestando el servicio hasta licitar uno nuevo, se le indemniza por la diferencia entre lo que le costó el servicio en mayo de 2023 y lo que se le pagó (enriquecimiento injusto). Se excluyen gastos financieros, amortizaciones, parte del leasing, IVA y beneficio.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64508.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Padrón 2024 de concesiones en terrenos municipales (12.710 €)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2024 de aprovechamientos de bienes de dominio público por concesión administrativa, por 12.710,53 €. Pago voluntario del 17 de octubre al 19 de diciembre; domiciliados el 28 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12710.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976973H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Padrón 2024 por ocupar terrenos del Cerro del Castillo y otros (3.184 €)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2024 del precio público por ocupación de terrenos de uso público del Cerro del Castillo y otros, por 3.184 €, con los mismos plazos de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3184.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977009H",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Padrón 2024 de la tasa de quioscos y cajeros automáticos (5.425 €)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2024 de la tasa por ocupar la vía pública con quioscos y cajeros automáticos, por 5.425,50 €, con los mismos plazos de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5425.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976813K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Padrón 2024 del impuesto sobre cotos de caza privados (3.224 €)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2024 del impuesto municipal sobre gastos suntuarios (cotos privados de caza), por 3.224,90 €, con los mismos plazos de pago.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3224.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978622Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Aprobación definitiva de cambios en la UA-11 de la Avenida de la Libertad",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba definitivamente la modificación del Programa de Actuación de la Unidad de Actuación 11 (Avenida de la Libertad) presentada por Aliseda y Canrufo, propietarias únicas: nuevo documento que declara innecesaria la reparcelación, corrigiendo un error en la huella edificable (máximo 10.826,52 m² de techo). No hubo alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Aliseda, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        },
+        {
+          "nombre": "Canrufo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499446A",
+      "lugar": "Avenida de la Libertad (UA-11)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oferta de Empleo Público 2023: 15 plazas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la Oferta de Empleo Público de 2023: 2 técnicos de gestión (promoción interna), 2 analistas programadores, 1 director/a de escuelas infantiles, 1 administrativo, 4 agentes de Policía Local, 1 auxiliar administrativo, 2 técnicos de educación infantil y 1 conductor-operario.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "860165Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Oferta de Empleo Público 2024: 14 plazas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la Oferta de Empleo Público de 2024: 1 técnico de administración general, 1 técnico de gestión y promoción de actividades, 1 técnico de mantenimiento (promoción interna), 3 agentes de Policía Local, 3 auxiliares administrativos, 1 inspector de obras, 1 periodista, 1 auxiliar de biblioteca a media jornada y 2 auxiliares de hogar.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "934721Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Sustituto para la plaza de ordenanza-telefonista que se jubila",
+      "categoria": "personal",
+      "resumen": "Por la jubilación de una ordenanza-telefonista de la Casa Consistorial el 2 de octubre, se contrata a otra persona de la bolsa de empleo hasta que la plaza se cubra en propiedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981793C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Excedencia de una profesora de Bellas Artes que se va a un instituto",
+      "categoria": "personal",
+      "resumen": "Se declara en excedencia voluntaria por incompatibilidad a una profesora de la Escuela Municipal de Bellas Artes que pasa a dar clase en el IES José Martínez Ruiz.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984340P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Reconocimiento de antigüedad a una técnica de educación infantil",
+      "categoria": "personal",
+      "resumen": "Se reconocen 10 meses y 5 días de servicios previos en los ayuntamientos de Alpera e Higueruela a efectos de antigüedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978757K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Cuatro trabajadoras de Servicios Sociales a una formación en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena la asistencia de dos psicólogas y dos educadoras sociales a una jornada sobre violencia sexual contra la infancia (16 de octubre) y se pagan los desplazamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "874717K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Conexión de la climatización del Museo del Greco",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para conectar la maquinaria de climatización del Museo del Greco (Casa Municipal de Cultura).",
+      "entidades": [
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10017.59,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981980M",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Informe diagnóstico de destino turístico inteligente (fondos europeos)",
+      "categoria": "contrato",
+      "resumen": "Se encarga a la empresa pública SEGITTUR el informe diagnóstico de Yecla dentro del Plan de Sostenibilidad Turística 'Yecla ES+' (actuación 20, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Sociedad Mercantil Estatal para la Gestión de la Innovación y las Tecnologías Turísticas, S.A.M. (SEGITTUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17833.29,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "980839C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "12 farolas solares para el aparcamiento del polideportivo Las Pozas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el suministro de 12 luminarias solares para el acceso y aparcamiento del recinto polideportivo Las Pozas.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11557.92,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981450A",
+      "lugar": "Polideportivo Las Pozas",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Actuación para el Festival de Jazz 2024 (artista no indicado)",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Cast Artists Producciones una actuación para el Festival de Jazz de Yecla 2024; el acta tapa el nombre del artista.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7018.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983067X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Actuación de Slide en el Festival de Jazz 2024",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Cast Artists Producciones la actuación de Slide en el Festival de Jazz de Yecla 2024.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9075.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983056F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Otra actuación para el Festival de Jazz 2024 (artista no indicado)",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Cast Artists Producciones otra actuación del Festival de Jazz; el título tapa el artista y el acuerdo repite por error 'Slide'.",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9075.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983061N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Actuación de Josh Hoyer & Soul Colossal en el Festival de Jazz 2024",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Cast Artists Producciones la actuación de Josh Hoyer & Soul Colossal en el Festival de Jazz de Yecla 2024 (el acuerdo repite por error 'Slide').",
+      "entidades": [
+        {
+          "nombre": "Cast Artists Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13310.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983071C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Reductores de velocidad frente al cementerio",
+      "categoria": "via_publica_eventos",
+      "resumen": "A propuesta de la Policía Local se instalan reductores de velocidad en el Paseo del Yeclano Ausente, a la altura de la puerta del cementerio, por la velocidad excesiva de los coches.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983075H",
+      "lugar": "Paseo del Yeclano Ausente (cementerio)",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Denegado quitar el aparcamiento semestral en calle Concepción",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la petición de la titular del bar 'El Ventorrillo' de fijar el aparcamiento en un lado de la calle para no molestar a su terraza; la Policía Local defiende la rotación semestral y el interés general.",
+      "entidades": [
+        {
+          "nombre": "El Ventorrillo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "981762J",
+      "lugar": "calle Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Denegada plaza para discapacitados en calle Escuelas Pías",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza la plaza pedida por ADFY para una persona en silla de ruedas porque hay tres plazas reservadas a menos de 100 metros, la vivienda tiene garaje y estas plazas no son nominativas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "981526F",
+      "lugar": "calle Escuelas Pías",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Nueva plaza para discapacitados en la plaza del Recuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una plaza de aparcamiento reservada a personas con discapacidad en la plaza del Recuerdo, donde no había ninguna.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981526F",
+      "lugar": "plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegados bolardos en la puerta de una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza poner dos bolardos ante una vivienda porque la calle mide 5 metros y serían un obstáculo en su parte más estrecha.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "959671C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Denegado mover un contenedor junto a la terraza del 'Yakk and Grill'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se rechaza por segunda vez trasladar un contenedor de la calle Maestro Mora: ya se movió en 2020 a petición del mismo negocio y la nueva ubicación dejaría un tramo de calle sin servicio.",
+      "entidades": [
+        {
+          "nombre": "Balbau Yecla, E.S.P.J.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "983821T",
+      "lugar": "calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón del Edificio Bioclimático para una charla sobre duelo perinatal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Duelo Perinatal el salón de actos el 18 de octubre para una conferencia.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Duelo Perinatal de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961157Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Aula del Edificio Bioclimático para el curso de fitosanitarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG un aula del 21 al 25 de octubre para el curso básico del carnet de fitosanitarios.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982970M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón del Edificio Bioclimático para jornadas de entrenadores de fútbol",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la S.D. Fútbol Base de Yecla el salón de actos el 29 de octubre para unas jornadas de reciclaje de entrenadores de la RFEF y la FFRM.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva de Fútbol Base de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984247K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aula del Edificio Bioclimático para un curso digital agrario de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG un aula los días 13 y 14 de noviembre para un curso de aplicaciones digitales para relacionarse con la administración agraria.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982968J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Boda civil en la Casa Consistorial (30 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973165T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Aula de cocina para un taller de restauración de KAPACES",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación KAPACES el aula de cocina del antiguo colegio San José de Calasanz en ocho fechas entre octubre y junio para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Vida Independiente de Personas con Diversidad Funcional (KAPACES)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977183Z",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Auditorio gratis para el Día del Patrón de la Policía Nacional",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Comisaría Local de Policía Nacional el Auditorio Juan Miguel Benedito el 2 de octubre, con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Comisaría Local de Policía Nacional de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981206M",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas extraordinarias para libros y material escolar 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas para libros y material escolar a los menores incluidos en el informe de Servicios Sociales; el acta no da la lista ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957045E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Autorización y apoyo municipal a la Carrera y Marcha solidaria de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la carrera y marcha solidaria contra el cáncer del 6 de octubre con salida y llegada en el Parque de la Constitución; el Ayuntamiento aporta personal y material y asume 350,90 € de gastos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados por el Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 350.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "883549C, 984123N",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Permiso a Navarro Guillén Econatura para abrir una zanja en el Camino de Sax",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza abrir una zanja en el camino público CRA-2 'Camino de Sax' (p.k. 2,85) para una conducción de riego, con fianza de 300 € para reponer el firme.",
+      "entidades": [
+        {
+          "nombre": "Navarro Guillén Econatura, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982859H",
+      "lugar": "Camino de Sax (CRA-2), p.k. 2,85",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Oposición de 10 auxiliares administrativos: se admite a un aspirante más",
+      "categoria": "personal",
+      "resumen": "Se admite a un aspirante que había presentado bien la documentación y se elevan a definitivas las listas de admitidos del concurso-oposición de 10 plazas de auxiliar administrativo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695609Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Sustituto para la profesora de Bellas Artes en excedencia",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un profesor de la Escuela Municipal de Bellas Artes a media jornada para cubrir la plaza de la profesora en excedencia (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984189E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Auxiliar administrativo interino para la Policía Local (9 meses)",
+      "categoria": "personal",
+      "resumen": "Por la próxima jubilación de una auxiliar y la acumulación de expedientes sin resolver, se nombra un auxiliar administrativo interino para la Policía Local durante nueve meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "980794P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Auxiliar interino para el Registro de Documentos",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar interino para sustituir a una auxiliar del Registro de Secretaría de baja y que después disfrutará de permisos por maternidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984806M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Cambio de horario de un técnico municipal para cuidado de hijo",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un técnico municipal a trabajar de 8:45 a 16:00 sin cambio de sueldo, como máximo hasta que su hijo menor cumpla 12 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984759X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Reducción de jornada de un inspector de obras para cuidado de hijo",
+      "categoria": "personal",
+      "resumen": "Se concede una reducción de jornada no retribuida del 14,16% (horario de 8:45 a 15:00) hasta que su hijo cumpla 12 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "984813X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Reparación de cubiertas y carpintería de las antiguas naves del trigo",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (46.000 €) y se adjudica el contrato menor de obras para reparar las cubiertas y cambiar la carpintería exterior de los almacenes municipales de las antiguas naves del trigo.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 45780.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977728F",
+      "lugar": "Almacenes municipales (antiguas naves del trigo)",
+      "interes": 2
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Programación de la Escuela Municipal de Bellas Artes 2024/25",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del curso 2024/25 de la Escuela Municipal de Bellas Artes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978996R",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

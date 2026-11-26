@@ -1,0 +1,893 @@
+{
+  "doc": "2024-12-26_JGL_65",
+  "organo": "JGL",
+  "sesion": 65,
+  "fecha": "2024-12-26",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 37,
+  "resumen": "En la última sesión del año, la Junta de Gobierno adjudica varios contratos del Plan de Sostenibilidad Turística 'Yecla ES+' pagados con fondos europeos: la peatonalización de la calle Perales (199.746 €), una plataforma de inteligencia turística de Telefónica (155.788 €), ciclosenderos (88.570 €), el proyecto de rehabilitación de la Iglesia de la Asunción como centro de visitantes (76.000 €) y un vehículo eléctrico turístico (45.489 €). Paga 152.931 euros en facturas, aprueba el programa de Reyes 2025 (63.646 €) y adjudica sus jaimas y carrozas, concede 283 ayudas de 100 euros para libros escolares y reparte unos 20.000 euros en subvenciones a asociaciones culturales y festeras. También se informa de que las Fiestas de la Purísima han sido declaradas de Interés Turístico Internacional.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se ratifica la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma por unanimidad la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1013620F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aprobación del acta de la sesión del 17 de diciembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3",
+      "titulo": "Comunicaciones: Fiestas de la Purísima, de Interés Turístico Internacional",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Ministerio de Industria y Turismo ha concedido el título de Fiesta de Interés Turístico Internacional a las Fiestas patronales en honor a la Purísima Concepción de Yecla (BOE de 5 de diciembre de 2024), y de una resolución del Servicio de Empleo y Formación (SEF) que liquida la subvención del curso 'Yecla Integra 2022' y obliga a reintegrar parte (no se indica el importe).",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Industria y Turismo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "concede el título"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención y pide reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1013625N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Pago de facturas: centro de día, obra inmersiva de la Iglesia Vieja, turismo y megafonía",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar once facturas, entre ellas el Centro de Día de mayores dependientes de noviembre, la obra inmersiva 'Yecla sueños de viaje' de la Iglesia Vieja, varios servicios del Plan de Sostenibilidad Turística (formación, accesibilidad y marketing), gasóleo de la Piscina Cubierta, el comedor de la Escuela Infantil El Parque y un nuevo sistema de conferencias y megafonía para el Salón de Plenos.",
+      "entidades": [
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Inteligencia Turística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Puntodis Accesible Solutions In Sign-Writing, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación de Formación y Desarrollo Comunitario en Yecla (Afedeco)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grupo Empresarial Inmark, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Aventino Proyectos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ozona Consulting, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 152931.44,
+      "importes": [
+        {
+          "concepto": "Comedor de la Escuela Infantil 'El Parque', noviembre 2024",
+          "eur": 6191.38,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Gasóleo C para la Piscina Cubierta",
+          "eur": 6239.99,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, noviembre 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Formación en inteligencia turística a gestores y empresarios (PSTD 'Yecla ES+', actuación 13)",
+          "eur": 13310.0,
+          "entidad": "Inteligencia Turística, S.L."
+        },
+        {
+          "concepto": "Plan de accesibilidad turística, formación y sensibilización (PSTD, actuación 19)",
+          "eur": 12098.79,
+          "entidad": "Puntodis Accesible Solutions In Sign-Writing, S.L."
+        },
+        {
+          "concepto": "Acciones formativas para profesionales del Centro de Día 'Las Teresas'",
+          "eur": 6776.0,
+          "entidad": "Asociación de Formación y Desarrollo Comunitario en Yecla (Afedeco)"
+        },
+        {
+          "concepto": "Plan Estratégico de Marketing Turístico (PSTD, actuación 22)",
+          "eur": 10285.0,
+          "entidad": "Grupo Empresarial Inmark, S.A."
+        },
+        {
+          "concepto": "Obra inmersiva 'Yecla sueños de viaje' en la Iglesia Vieja (PSTD, actuación 11)",
+          "eur": 24500.08,
+          "entidad": "Aventino Proyectos Integrales, S.L."
+        },
+        {
+          "concepto": "Vallado ornamental y decoración de tribuna, Fiestas de la Virgen 2024",
+          "eur": 6691.3,
+          "entidad": "Decourba 2007, S.L.U."
+        },
+        {
+          "concepto": "Renovación de licencias de Citrix",
+          "eur": 7674.9,
+          "entidad": "Ozona Consulting, S.L."
+        },
+        {
+          "concepto": "Sistema de conferencias y megafonía para el Salón de Plenos",
+          "eur": 14990.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "607446A, 750072R, 836272P, 931106D, 933510R, 944309Q, 946647N, 959428P, 994502D, 1004860P, 1007034J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Taquilla de 'Fuenteovejuna' en el Teatro Concha Segura: 1.908 € recaudados",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas de la obra 'Fuenteovejuna' (9 de noviembre de 2024): de 3.492 euros puestos a la venta se recaudaron 1.908 euros y se dan de baja 1.584 euros de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1908.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Corregido el número de la licencia de reforma de fachada de Suministros Lomar",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige un error en el número de expediente (578/2024 y no 587/2024) de la licencia concedida el 10 de diciembre a Suministros Lomar, S.L. para reformar la fachada y urbanizar el interior de un inmueble existente; plazo de 6 meses para empezar y 24 para terminar.",
+      "entidades": [
+        {
+          "nombre": "Suministros Lomar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "966186A",
+      "lugar": "Diseminado 9",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Una psicóloga de Servicios Sociales acompañará a un menor a la Fiscalía",
+      "categoria": "personal",
+      "resumen": "Se ordena a una psicóloga del Centro Municipal de Servicios Sociales acompañar a un menor a un acto de conciliación en la Sección de Menores de la Fiscalía de Murcia el 13 de enero de 2025, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022840M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Pago de 400 € en cursos de formación al ingeniero técnico industrial municipal",
+      "categoria": "personal",
+      "resumen": "Se abonan al ingeniero técnico industrial municipal 400 euros por dos cursos en línea del COGITI sobre seguridad contra incendios e instalaciones eléctricas de baja tensión.",
+      "entidades": [
+        {
+          "nombre": "Consejo General de Colegios Oficiales de Graduados e Ingenieros Técnicos Industriales de España (COGITI)",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "organiza los cursos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022167C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Jaimas y carrozas de la Cabalgata de Reyes 2025 para Montajes Arco Mediterráneo",
+      "categoria": "contrato",
+      "resumen": "Se adjudican a Montajes Arco Mediterráneo, S.L., único licitador, los dos lotes de la infraestructura de Reyes 2025: alquiler y montaje de jaimas para los Reyes y sus emisarios (19.958,95 €) y alquiler de carrozas para la Cabalgata (27.097,95 €), IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47056.9,
+      "importes": [
+        {
+          "concepto": "Lote 1: alquiler, montaje y desmontaje de jaimas para Emisarios Reales y Reyes Magos",
+          "eur": 19958.95,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Lote 2: alquiler de carrozas para la Cabalgata de Reyes 2025",
+          "eur": 27097.95,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1008663X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Vehículo eléctrico de 45.489 € para unir el casco antiguo con las rutas turísticas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Stellantis & You España, S.A. por 45.489,47 euros IVA incluido el suministro de un vehículo eléctrico para conectar el casco antiguo con los itinerarios turísticos (Plan de Sostenibilidad Turística 'Yecla ES+', actuación 9, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Stellantis & You España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 45489.47,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996178F",
+      "lugar": "casco antiguo",
+      "interes": 2
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Proyecto de rehabilitación de la Iglesia de la Asunción como centro de visitantes",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Rocamora Diseño y Arquitectura, S.L.P. por 76.000 euros IVA incluido la redacción del proyecto, dirección de obra y coordinación de seguridad para rehabilitar la Iglesia de la Asunción (Iglesia Vieja) como centro de visitantes y mejorar la accesibilidad de su entorno (PSTD 'Yecla ES+', actuaciones 17 y 23, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 76000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1005240R",
+      "lugar": "Iglesia de la Asunción",
+      "interes": 3
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Adjudicada por 199.746 € la peatonalización de la calle Perales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Mediterráneo de Obras y Asfaltos, S.A. por 199.745,59 euros IVA incluido la peatonalización de la calle Perales junto al complejo de la Iglesia de San Francisco y San Roque (PSTD 'Yecla ES+', actuación 6, financiada por el ITREM con fondos Next Generation EU). Se rechazó la oferta de Obras y Servicios Obrasmur por desvelar datos de su oferta económica en la memoria técnica.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Obras y Servicios Obrasmur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "oferta rechazada"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 199745.59,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996177E",
+      "lugar": "calle Perales, junto a la Iglesia de San Francisco y San Roque",
+      "interes": 3
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Ciclosenderos turísticos con puntos de descanso por 88.570 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Silvoturismo Mediterráneo, S.L., único licitador, por 88.570,40 euros IVA incluido el acondicionamiento de ciclosenderos para rutas turísticas con puntos de descanso (PSTD 'Yecla ES+', actuación 8, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Silvoturismo Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 88570.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982777T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Telefónica creará un sistema de inteligencia turística por 155.788 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U. por 155.787,50 euros IVA incluido la creación de un sistema de inteligencia y sostenibilidad turística y una plataforma web (CMS) de oferta turística (PSTD 'Yecla ES+', medidas 10 y 12, fondos Next Generation EU). Se rechazó a Península Corporate Innovation, S.L. por no alcanzar la puntuación técnica mínima.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Península Corporate Innovation, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "oferta rechazada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 155787.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009930F",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Corregida la fecha de inicio de la climatización de la Escuela de Música",
+      "categoria": "contrato",
+      "resumen": "Se corrige el acuerdo de adjudicación a DPV Instalación y Mantenimiento, S.L.U. (47.084,73 €) de la instalación de climatizadoras en la Escuela de Música: las obras empezarán el 15 de enero de 2025 y no el 15 de noviembre de 2024 como figuraba por error.",
+      "entidades": [
+        {
+          "nombre": "DPV Instalación y Mantenimiento, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983068Y",
+      "lugar": "Escuela de Música",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Contrato menor de material informático por 14.900 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Acelera Informática y Tecnología, S.L. por 14.899,60 euros IVA incluido un contrato menor de suministro de material informático.",
+      "entidades": [
+        {
+          "nombre": "Acelera Informática y Tecnología, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14899.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1017379C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Proyecto de musealización del Centro Enoturístico por 15.609 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Rocamora Diseño y Arquitectura, S.L.P. por 15.609 euros IVA incluido un contrato menor para redactar el proyecto de contenidos y musealización del Centro Enoturístico (PSTD 'Yecla ES+', actuación 18 bis, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15609.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1020920W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Terraza anual de 40 m² para el Tapeo Urban en la plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Tapeo Urban' en la plaza de San Cayetano (40 m², temporada anual hasta el 31 de octubre de 2025).",
+      "entidades": [
+        {
+          "nombre": "Tapeo Urban (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1018205Z",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Terraza anual de 20 m² para el Café-Bar Tragaluz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del 'Café-Bar Tragaluz' en la calle Arcipreste Esteban Díaz (20 m², temporada anual hasta el 31 de octubre de 2025).",
+      "entidades": [
+        {
+          "nombre": "Café-Bar Tragaluz (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015496M",
+      "lugar": "calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Terraza anual de 16 m² para la Cafetería Bulebar en la calle Zaplana",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la 'Cafetería Bulebar' en la calle Zaplana (16 m², temporada anual hasta el 31 de octubre de 2025).",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulebar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992953C",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "JYSK podrá exponer muebles ante su tienda: el espacio no es municipal",
+      "categoria": "via_publica_eventos",
+      "resumen": "JYSK DBL Iberia, S.L. pidió ocupar 31,5 m² de la zona de aparcamiento ante su tienda de muebles para exponer productos; el Ayuntamiento le responde que no hay inconveniente porque ese espacio es de uso privado y no de dominio público.",
+      "entidades": [
+        {
+          "nombre": "JYSK DBL Iberia, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1019721E",
+      "lugar": "Paraje Las Artesillas, polígono 43, parcela 186 (Ctra. de Villena)",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "283 ayudas de 100 € para libros escolares; 109 solicitudes denegadas",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 283 ayudas de 100 euros (28.300 euros en total) para libros y material escolar del curso 2023/2024 a familias vulnerables y se deniegan 109: 77 por tener ya la ayuda de libros gratuitos de la CARM, 18 por tener otras becas, 12 por superar el límite de renta y 2 duplicadas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 28300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "953561Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Programa de Reyes 2025: presupuesto de 63.646 € y paquetes a 5 y 8 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de las Fiestas de Reyes 2025 (4, 5 y 6 de enero) con un presupuesto de 63.646 euros, un baile de Reyes para mayores el 6 de enero en el Pabellón María José Martínez y los precios de los paquetes que reparten los Reyes en la Cabalgata: 5 euros el pequeño y 8 euros el grande.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 63646.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022037X",
+      "lugar": "Pabellón Municipal María José Martínez (calle Perales)",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Aprobado el proyecto del Trail Running Center de Yecla",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el proyecto de implantación del Trail Running Center de Yecla (red de rutas permanentes de carrera por montaña acreditadas por la RFEA), sus planos y recorridos, y se pide a la Comunidad Autónoma permiso para señalizar los itinerarios, requisito para optar a fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Red Estatal Instalaciones Permanentes Trail Running, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactó el proyecto"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar la señalización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1024341X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "La CHS autoriza un nuevo pozo municipal de 307 metros que sustituye al de La Fuente",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aceptan las condiciones de la Confederación Hidrográfica del Segura, que autoriza al Ayuntamiento a abrir un nuevo sondeo de agua de 307 metros de profundidad en sustitución del sondeo La Fuente (137 metros), sin cambiar el resto de la concesión.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura (Comisaría de Aguas)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1021499Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Subvenciones de 10.000 € para promocionar las fiestas populares",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden subvenciones de 2024 para difundir las fiestas populares a cuatro asociaciones y a un particular, por un total de 9.999,90 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Caballeros del Santísimo Sepulcro",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Corte de Honor de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación Yeclana de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación Cultural de Bicicletas Clásicas 'Las Galgas de Yecla'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 9999.9,
+      "importes": [
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2024",
+          "eur": 2276.4,
+          "entidad": "Asociación Caballeros del Santísimo Sepulcro"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2024",
+          "eur": 2926.8,
+          "entidad": "Corte de Honor de la Purísima Concepción"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2024",
+          "eur": 1300.8,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2024",
+          "eur": 1626.0,
+          "entidad": "Asociación Yeclana de Amigos de San Antón"
+        },
+        {
+          "concepto": "Promoción y difusión de fiestas populares 2024",
+          "eur": 1869.9,
+          "entidad": "Asociación Cultural de Bicicletas Clásicas 'Las Galgas de Yecla'"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "884453H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Subvenciones de 10.000 € a ocho asociaciones culturales",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden las subvenciones de cultura de 2024 a ocho asociaciones, por un total de 10.000 euros; la mayor, 4.500 euros, para el Cine Club Odeón.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Cultura Popular y Promoción de Adultos San Nicolás",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Peña Flamenca de Yecla",
+          "cif": null,
+          "tipo": "peña",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación de Amigos del Museo Arqueológico de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación de Belenistas de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación de Cultura Popular y Promoción de Adultos La Purísima",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Cine Club Odeón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación de Teatro 'Tras el telón'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        },
+        {
+          "nombre": "Asociación Yecla Siglo de Oro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "importes": [
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 500.0,
+          "entidad": "Asociación de Cultura Popular y Promoción de Adultos San Nicolás"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 1900.0,
+          "entidad": "Peña Flamenca de Yecla"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 600.0,
+          "entidad": "Asociación de Amigos del Museo Arqueológico de Yecla"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 1000.0,
+          "entidad": "Asociación de Belenistas de Yecla"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 500.0,
+          "entidad": "Asociación de Cultura Popular y Promoción de Adultos La Purísima"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 4500.0,
+          "entidad": "Cine Club Odeón"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 500.0,
+          "entidad": "Asociación de Teatro 'Tras el telón'"
+        },
+        {
+          "concepto": "Promoción y difusión de la cultura 2024",
+          "eur": 500.0,
+          "entidad": "Asociación Yecla Siglo de Oro"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1003933C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Pabellón gratis para el Torneo de Navidad de la Escuela Albatros",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros Yecla el 'Torneo Navidad Escuela Albatros 2024' el 28 de diciembre en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 409,50 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 409.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1020334F",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Pabellón gratis para la presentación de equipos de la Red Deportiva Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza a la Red Deportiva Yecla la presentación de sus equipos de la temporada 2024/2025 el 4 de enero de 2025 en el Pabellón José Ortega Chumilla, con uso gratuito valorado en 99,63 euros.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 99.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989627H",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "XI San Silvestre Green Christmas el 29 de diciembre desde la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Fondistas Yecla la XI San Silvestre Green Christmas, carrera y marcha solidaria no competitiva de 2,5 km por el casco urbano con salida y llegada en la Plaza Mayor el 29 de diciembre, con un gasto municipal de 556,60 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 556.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009084F, 1010438M",
+      "lugar": "Plaza Mayor y casco urbano",
+      "interes": 1
+    }
+  ]
+}

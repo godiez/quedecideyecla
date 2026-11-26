@@ -1,0 +1,922 @@
+{
+  "doc": "2023-10-24_JGL_45",
+  "organo": "JGL",
+  "sesion": 45,
+  "fecha": "2023-10-24",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno saca a licitación los dos grandes contratos de limpieza de edificios municipales (804.389 euros al año) y de mantenimiento de jardines (817.103 euros al año), y también las luces de las Fiestas de la Virgen y de Navidad (89.734 euros). Paga 238.062 euros en facturas, sobre todo de basura y limpieza viaria a Actúa, y adjudica bacheo de caminos rurales, la reparación de un campo de césped artificial, los fuegos artificiales y un circo en el teatro. Deniega badenes en la avenida de Cartagena y una plaza de aparcamiento para abogados de guardia.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 17 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: basura, limpieza viaria, jardines y agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres pagos por un total de 238.061,79 euros: la recogida de basura y limpieza de calles y el mantenimiento de zonas verdes de septiembre (Actúa) y una factura de suministro de agua (S.A.T. Aguas de Pinoso).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 238061.79,
+      "importes": [
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, septiembre 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, septiembre 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Suministro de agua (factura 33 de 17/10/23)",
+          "eur": 9171.36,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "538849C, 495804R, 497255H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Recibos del agua (3er trimestre) y de la basura (4º trimestre) de 2023",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas de cobro que gestiona FCC Aqualia: agua del 3er trimestre por 316.986,78 euros (con un canon para el Ayuntamiento de 28.045,93 euros y 241.979,44 euros de canon de saneamiento para la CARM) y basura del 4º trimestre por 364.178 euros. Se anulan recibos antiguos por 2 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua / recauda"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe canon de saneamiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 681164.78,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 3er trimestre 2023",
+          "eur": 316986.78,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de la concesión a favor del Ayuntamiento",
+          "eur": 28045.93,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar para la CARM",
+          "eur": 241979.44,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basura 4º trimestre 2023",
+          "eur": 364178.0,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835520W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una particular la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares de autoconsumo en su vivienda. No se indica el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788158P",
+      "lugar": "paraje Hoya del Pozo (Campo Abajo)",
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "La parroquia de la Purísima no paga el impuesto de obras de los aseos del cementerio",
+      "categoria": "fiscal",
+      "resumen": "Se reconoce a la Parroquia de la Purísima Concepción la exención del ICIO por la zanja para la nueva red de saneamiento de los aseos del cementerio eclesiástico, en aplicación de los acuerdos entre el Estado y la Santa Sede. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima Concepción de Yecla",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "exenta de impuesto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833826R",
+      "lugar": "Cementerio eclesiástico, Paseo Barco de Ávila",
+      "interes": 2
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una particular la bonificación del 50% del IBI de 2024 a 2028, con un máximo de 100 euros al año, por tener placas solares en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831636A",
+      "lugar": "paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "2.6",
+      "titulo": "Rechazado el cobro de facturas de un procurador de 2012 a 2015 por prescritas",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima la reclamación de un procurador de los tribunales que pedía cobrar siete facturas de 2012 a 2015 (2.903,38 euros en total): no consta que se presentaran en el registro y el derecho a cobrarlas ha prescrito a los cuatro años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2903.38,
+      "importes": [
+        {
+          "concepto": "Factura 2012/3060",
+          "eur": 514.14,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2013/445",
+          "eur": 450.5,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2013/619",
+          "eur": 95.25,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2013/3476",
+          "eur": 304.42,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2014/2675",
+          "eur": 304.42,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2015/2043",
+          "eur": 911.96,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Factura 2015/2284",
+          "eur": 322.69,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "796241Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Bases de una bolsa de empleo de auxiliar-inspector de obras",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de una bolsa de empleo subsidiaria de auxiliar-inspector de obras (grupo C2) para nombrar interinos. Las solicitudes se pueden presentar hasta el 10 de noviembre de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832791E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Nueva contratación de un profesor de la Escuela de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se extingue el contrato de una profesora interina de la Escuela Municipal de Bellas Artes porque la plaza se cubre con personal fijo, pero como el nuevo titular sigue de director, se contrata de la bolsa a un profesor sustituto a media jornada, con un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830104Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Viaje de la directora de Servicios Sociales a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora del Centro Municipal de Servicios Sociales asistir a la reunión de responsables de servicios sociales convocada por la Consejería de Política Social el 27 de octubre y se pagan sus gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835083N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Permiso a una técnica de escuelas infantiles para un curso online",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una técnica de Educación Infantil a hacer fuera de su jornada un curso online sobre el juego como recurso didáctico, organizado por Ofinet, S.L.; el Ayuntamiento paga hasta 40 euros al año por empleado en estos cursos.",
+      "entidades": [
+        {
+          "nombre": "Ofinet, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833835E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Contratado un oficial fontanero del Plan de Inserción Social por el Empleo",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial de 2ª fontanero dentro de la 2ª fase del Plan de Promoción e Inserción Social a través del Empleo 2023, a propuesta de la comisión de selección.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826703Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Jubilación del fontanero municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación voluntaria del fontanero municipal el 22 de diciembre de 2023 y se le agradecen sus servicios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "833773T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Jubilación de un jardinero municipal tras más de 35 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación voluntaria de un jardinero municipal el 9 de diciembre de 2023 y se le agradecen más de 35 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "833694J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Kubica parcheará caminos rurales (Pujola, San Isidro y Chicharra) por 9.700 euros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (10.146 euros) y se adjudica a Kubica Obras y Asfaltos, S.L. el contrato menor de bacheo de caminos rurales en Pujola, San Isidro y el acceso lateral de la Chicharra por 9.699,84 euros.",
+      "entidades": [
+        {
+          "nombre": "Kubica Obras y Asfaltos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9699.84,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833560Y",
+      "lugar": "caminos rurales de Pujola, San Isidro y Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Reparación del césped artificial del campo nº 2 del Polideportivo por 12.221 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Realturf Systems, S.L. el contrato menor para reparar el césped artificial del campo nº 2 del Complejo Polideportivo Juan Palao Azorín por 12.221 euros.",
+      "entidades": [
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12221.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835174P",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Fuegos artificiales de las Fiestas de la Virgen 2023 por 7.300 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Coeters Dragon, S.L. el contrato menor del servicio pirotécnico de las Fiestas de la Virgen 2023 por 7.300 euros.",
+      "entidades": [
+        {
+          "nombre": "Coeters Dragon, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834503H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licitación de las luces de las Fiestas de la Virgen y de Navidad por 89.734 euros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre el procedimiento abierto simplificado para el suministro e instalación del alumbrado ornamental de las Fiestas de la Virgen 2023 y de Navidad y Reyes en Yecla y Raspay, con un precio de licitación de 89.733,60 euros (mitad en 2023 y mitad en 2024).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 89733.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832168P",
+      "lugar": "Yecla y Raspay",
+      "interes": 3
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licitación de la limpieza de edificios municipales: 804.389 euros al año",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto sujeto a regulación armonizada, publicado también en el Diario Oficial de la UE) del servicio de limpieza de edificios municipales por dos años, con 804.389,40 euros al año y un valor estimado de 2.925.052,37 euros. Se comprometen 670.324,50 euros en 2024, 804.389,40 en 2025 y 134.064,90 en 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1608778.8,
+      "importes": [
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 670324.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 804389.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2026",
+          "eur": 134064.9,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licitación del mantenimiento de jardines y zonas verdes: 817.103 euros al año",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto sujeto a regulación armonizada, publicado también en el Diario Oficial de la UE) del mantenimiento de jardines y zonas verdes de Yecla por dos años, con 817.102,64 euros al año y un valor estimado de 2.701.165,76 euros. Se comprometen 680.918,90 euros en 2024, 817.102,64 en 2025 y 136.183,74 en 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1634205.28,
+      "importes": [
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 680918.9,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 817102.64,
+          "entidad": null
+        },
+        {
+          "concepto": "Anualidad 2026",
+          "eur": 136183.74,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Corte de la calle San José por la jornada comercial de Halloween",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba cerrar al tráfico la calle San José, entre la calle Rambla y la calle San Francisco, el 31 de octubre de 20:00 a 24:00 para una jornada comercial de Halloween junto al Mercado de San Cayetano.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832823Z",
+      "lugar": "calle San José (de calle Rambla a calle San Francisco)",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Puesto informativo de Vox en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Vox Yecla a poner una carpa y una mesa informativas en el Parque de la Constitución el 25 de octubre, de 9:00 a 13:00.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833122P",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Puesto de ARY por el 'Día sin alcohol'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para la Rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas (ARY) a poner un puesto informativo el 15 de noviembre y se le presta una carpa, una mesa y cinco sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752812Y",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Procesión del Divino Niño del colectivo ecuatoriano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colectivo de ecuatorianos residentes en Yecla la procesión de 'El Divino Niño' el 16 de diciembre a partir de las 9:30, con asistencia de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de ecuatorianos residentes en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831169C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Denegada una plaza de aparcamiento reservada para abogados de guardia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega al Colegio de la Abogacía de Murcia una plaza reservada cerca del cuartel de la Guardia Civil, la comisaría y los Juzgados para los letrados de guardia: la Policía Local entiende que no hay problemas de aparcamiento y que es una actividad privada.",
+      "entidades": [
+        {
+          "nombre": "Ilustre Colegio de la Abogacía de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "832493Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Denegados los badenes reductores de velocidad en la avenida de Cartagena",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un grupo de vecinos la instalación de bandas reductoras de velocidad en la avenida de Cartagena: la Policía Local considera que ya hay pasos de peatones e isleta que obligan a frenar y que las bandas causan ruido a las viviendas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "828020D",
+      "lugar": "avenida de Cartagena",
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Denegado reponer un bolardo en la entrada de una cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular volver a colocar un bolardo en la entrada de su cochera, porque solo se ponen en garajes de 20 o más plazas; se le sugiere ampliar el vado un metro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "834512W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares a usar el Salón de Plenos de la Casa Consistorial para celebrar su matrimonio civil el 25 de noviembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833245K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "La AMPA del CEIP El Alba usará el colegio para una jornada de convivencia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP El Alba a usar las instalaciones exteriores del colegio el 12 de noviembre para una jornada de convivencia, haciéndose cargo de limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834534A",
+      "lugar": "CEIP El Alba",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "XVIII Concurso literario 'Nuestra Constitución' para alumnos de ESO: 600 euros en premios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria del concurso literario para alumnado de ESO sobre la Constitución, con 600 euros en premios. Los trabajos se presentan del 25 de octubre al 24 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832410A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "XI Concurso de dibujo 'Nuestra Constitución' para 5º y 6º de Primaria: 225 euros en premios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria del concurso de dibujo sobre la Constitución para alumnos de 5º y 6º de Primaria, con 225 euros en premios. Plazo del 25 de octubre al 24 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 225.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832402P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Consulta pública para un reglamento de actividades e instalaciones juveniles",
+      "categoria": "normativa",
+      "resumen": "Se abre una consulta pública de quince días en la web municipal para que vecinos y entidades hagan propuestas sobre un futuro reglamento que regule el uso de los espacios e instalaciones juveniles municipales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829006Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Semana de los Derechos de la Infancia 2023: 8.535 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Día Internacional de los Derechos de la Infancia 2023' de la Concejalía de Juventud, del 13 al 19 de noviembre, con un presupuesto de 8.534,85 euros, y las bases del 'Fotomaratón de los Derechos' y de un concurso de diseño de chapas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8534.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824068P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Adjudicado el puesto 9L del Mercado de San Cayetano para frutos secos y especias",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica a un particular el puesto 9L del Mercado de San Cayetano para vender frutos secos, legumbres y especias. Ha pagado 471,60 euros de adjudicación y 83,40 de fianza, y pagará 27,84 euros al mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 471.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823985Z",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "El Ayuntamiento acepta la sugerencia del Defensor del Pueblo sobre una multa de tráfico",
+      "categoria": "reclamaciones",
+      "resumen": "Se acepta la sugerencia del Defensor del Pueblo de comunicar a Tráfico que no procedía quitar puntos del carné a un vecino multado, porque no conducía un vehículo a motor. La Policía Local ya lo ha comunicado a la Jefatura Provincial de Tráfico.",
+      "entidades": [
+        {
+          "nombre": "Defensor del Pueblo",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "formula sugerencia"
+        },
+        {
+          "nombre": "Jefatura Provincial de Tráfico",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733921K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Tarjeta de residente en zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una particular la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831219X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Certificación final de la restauración de la capilla de la Virgen de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación final de la obra de restauración de la capilla de la Virgen de las Angustias de la iglesia de San Francisco, por 2.648,24 euros, a favor de la UTE Zima-Pegiro.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2648.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Nombramiento de un interino para la jefatura del Negociado de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se nombra un administrativo interino, de la bolsa de 2019, para el puesto de jefe del Negociado de Gestión Tributaria, vacante por renuncia de la interina anterior, para atender al público y tramitar los padrones de impuestos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834893Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "El Gran Circo Acrobático de China actuará en el Teatro Concha Segura por 12.705 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Fama y Medio, A.I.E. el contrato menor de la actuación del Gran Circo Acrobático de China en el Teatro Concha Segura el 5 de noviembre, por 12.705 euros.",
+      "entidades": [
+        {
+          "nombre": "Fama y Medio, A.I.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12705.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835022D",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Terraza anual de la Cafetería Zeta en la Placeta Ortega (60 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Z Cafetería C.B. la terraza anual de la Cafetería Zeta en la Placeta Ortega, de 60 m². Ya pagó la tasa de 1.020 euros.",
+      "entidades": [
+        {
+          "nombre": "Z Cafetería C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso / paga tasa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1020.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831875H",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Auditorio gratis para una tertulia de Coros y Danzas Francisco Salzillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Coros y Danzas Francisco Salzillo a usar el Auditorio Juan Miguel Benedito el 28 de octubre para la tertulia 'Fandango, la historia de coros y danzas' y se le perdona el 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Coros y Danzas de Yecla Francisco Salzillo",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe uso gratuito"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835150F",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Halloween 2023 para jóvenes: 'Películas de terror' por 2.325 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad de Halloween de la Concejalía de Juventud para jóvenes nacidos desde 2011, el 28 de octubre, con un presupuesto de 2.325 euros (sin máquinas de humo).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2325.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825524M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Vallas prestadas a la AMPA del CEIP Méndez Núñez para Halloween",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden a la AMPA del CEIP Méndez Núñez 15 vallas del Servicio Municipal de Deportes para su actividad de Halloween del 27 de octubre.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe material"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835566J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Certain y varios vecinos podrán llevar el agua potable a sus parcelas de La Lomica",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Certain, S.L. y a varios particulares a instalar una red de agua potable en la calle La Lomica para sus parcelas de suelo urbano, aprovechando las obras de un supermercado en la finca de al lado. La red se cederá al Ayuntamiento; para tener suministro las parcelas necesitarán construcciones con licencia.",
+      "entidades": [
+        {
+          "nombre": "Certain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829681K",
+      "lugar": "calle La Lomica",
+      "interes": 2
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Plan de seguridad de la obra de pintura vial de las rondas del casco urbano",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de Señalizaciones Sonibru, S.L., adjudicataria de la obra de señalización horizontal de las vías perimetrales del casco urbano.",
+      "entidades": [
+        {
+          "nombre": "Señalizaciones Sonibru, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825524M",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,874 @@
+{
+  "doc": "2026-06-16_JGL_32",
+  "organo": "JGL",
+  "sesion": 32,
+  "fecha": "2026-06-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La obra del centro enoturístico de la Casa de los Arcos (fondos europeos) sube un 11,47% y pasa a costar 624.413,88 euros, 61.848,67 euros más. Se aprueban 'Verano en Danza 2026' en la Plaza de Toros (35.937 euros de presupuesto y un contrato de 33.880 euros con Audiotec) y las fiestas de Raspay (19.732,68 euros). También se pagan unos 62.800 euros en facturas, se autorizan nueve terrazas de bar y se abren las bases para los feriantes de la Feria de Septiembre.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de actas anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 10 y 11 de junio de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Dos sentencias judiciales: responsabilidad patrimonial y despido",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos sentencias: una de un juzgado de lo contencioso sobre la responsabilidad patrimonial del Ayuntamiento y otra del Tribunal Superior de Justicia de Murcia sobre un despido. El acta no dice qué resolvieron.",
+      "entidades": [
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1303001Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Universidad Popular, generador del pozo, comedor infantil y vídeo turístico",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan las clases de la Universidad Popular (mayo), un grupo electrógeno para el bombeo del pozo 'La Fuente', el comedor de la Escuela Infantil 'El Parque' (abril) y un vídeo promocional sobre la empanada de Yecla, pagado con fondos europeos.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zero Suite, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Taller de Técnicas Creativas, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 62819.19,
+      "importes": [
+        {
+          "concepto": "Actividad docente Universidad Popular, mayo 2026",
+          "eur": 6728.42,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Grupo electrógeno para la estación de bombeo del pozo La Fuente",
+          "eur": 33880.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil El Parque, abril 2026",
+          "eur": 7993.27,
+          "entidad": "Zero Suite, S.L."
+        },
+        {
+          "concepto": "Producción audiovisual 'empanada de Yecla' (Plan de Sostenibilidad Turística, Next Generation EU)",
+          "eur": 14217.5,
+          "entidad": "Taller de Técnicas Creativas, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M, 1171269N, 1178792M, 1254502P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 95% en la tasa de basura a un pensionista",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un pensionista la bonificación del 95% en la tasa de basura de 2026 después de que reclamara porque no lo habían incluido en la lista aprobada en marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1236502P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Se corrige un error en la división de la Finca El Pulpillo",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se corrigen las superficies de la licencia de segregación que se dio en marzo a la SAT Finca El Pulpillo. La parcela que se separa mide 98.451,95 m² (no 97.007) y la finca que queda, 1.111.577,99 m² según el Registro.",
+      "entidades": [
+        {
+          "nombre": "SAT n.º 5080 Finca El Pulpillo",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1092984J",
+      "lugar": "Finca El Pulpillo, polígono 9",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para legalizar y ampliar una vivienda con piscina en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se da licencia a un particular para legalizar y ampliar una vivienda unifamiliar aislada con piscina en el polígono 112. Tiene 6 meses para empezar la obra y 24 para terminarla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1189922W",
+      "lugar": "Polígono 112",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso y ayuda por matrimonio a una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Se dan a una trabajadora social interina 15 días de permiso por matrimonio y la ayuda por boda que fija el acuerdo de condiciones de trabajo, de 258,01 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 258.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1301045H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se reconoce la antigüedad al jefe de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se reconocen al jefe interino de Recaudación 3 años, 1 mes y 25 días trabajados en otras administraciones. Eso le da derecho a cobrar un trienio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1301076A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3-5.4",
+      "titulo": "Jubilación de dos trabajadores municipales",
+      "categoria": "personal",
+      "resumen": "Se toma nota de dos jubilaciones de personal municipal: una el 31 de agosto, tras más de 46 años de servicio, y otra el 13 de octubre, tras más de 33 años. Se les agradecen sus servicios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1298424R, 1301039Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5-5.7",
+      "titulo": "Cuatro personas salen de bolsas de empleo municipales por renunciar",
+      "categoria": "personal",
+      "resumen": "Se excluye a cuatro personas que renunciaron a un nombramiento o contrato. Una sale de la bolsa de reserva de Técnico de Administración General, dos de la de Administrativos y una de la de Auxiliar de Biblioteca.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "859825C, 1267117K, 1287032W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Una auxiliar administrativa interina deja el puesto para ser administrativa",
+      "categoria": "personal",
+      "resumen": "Se toma nota de que una auxiliar administrativa interina deja su puesto para pasar a ser administrativa interina en el mismo Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1302766Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Personal de Escuelas Infantiles en una jornada educativa en Albacete",
+      "categoria": "personal",
+      "resumen": "Se aprueba, después de celebrarse, que seis educadoras de las escuelas infantiles Campanilla y Perro Loco fueran a una jornada en Albacete el 25 de abril. El Ayuntamiento paga hasta 40 euros por persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266349T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Viaje de estudios a Pontevedra del jefe de Urbanismo",
+      "categoria": "personal",
+      "resumen": "Se autoriza al arquitecto jefe de Planificación y Desarrollo Urbano a ir a Pontevedra del 14 al 16 de junio, a un viaje de estudios de la Red de Ciudades que Caminan. El Ayuntamiento paga los gastos.",
+      "entidades": [
+        {
+          "nombre": "Red de Ciudades que Caminan",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1303019Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "La obra de la Casa de los Arcos sube 61.848 € (+11,47%)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba cambiar el proyecto de las obras del centro enoturístico de la Casa de los Arcos (Plan de Sostenibilidad Turística, fondos Next Generation) para corregir errores y omisiones. El precio pasa de 539.055 a 624.413,88 euros con IVA, un 11,47% más, con un gasto extra de 61.848,67 euros. La empresa está de acuerdo y debe aumentar su fianza hasta 24.830,70 euros.",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 61848.67,
+      "importes": [
+        {
+          "concepto": "Precio original del contrato (IVA incluido)",
+          "eur": 539055.0,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Nuevo precio tras la modificación (IVA incluido)",
+          "eur": 624413.88,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        },
+        {
+          "concepto": "Gasto complementario aprobado",
+          "eur": 61848.67,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122691T",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Bar de 'Verano en Danza 2026' adjudicado a una particular",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor el bar de 'Verano en Danza 2026' a una particular. Ella paga al Ayuntamiento 1.553,11 euros y deja una fianza de 500 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1553.11,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292346A",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "15 farolas solares para la calle Tallista Pedro Ortega",
+      "categoria": "contrato",
+      "resumen": "Se compran por contrato menor 15 farolas solares para la calle Tallista Pedro Ortega, por 14.501,85 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Crealux Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14501.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297793Q",
+      "lugar": "Calle Tallista Pedro Ortega",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Fecha para recibir las obras del entorno de la Antigua Estación",
+      "categoria": "contrato",
+      "resumen": "Se fija el 8 de julio de 2026 para recibir oficialmente las obras de mejora del entorno de la Antigua Estación del tren (Plan de Obras y Servicios 2024/25).",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Entorno de la Antigua Estación del tren",
+      "interes": 2
+    },
+    {
+      "ref": "7.1-7.9",
+      "titulo": "Nueve terrazas de verano autorizadas a bares y locales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan nueve terrazas de verano (del 1 de abril al 31 de octubre de 2026): bar Gran Zona (12 m²), bar El Siete (17 m²), Carrusel Kinder Bar (16 m²), Cafetería Pastelería Paulas Pastry (36 m²), un kebab de la calle Rambla (14 m²), Sala Balmoral (75 m²), bar La Paloma (53 m²), Café Bar de Paso (12 m²) y The Mood (24 m²). Los titulares son particulares.",
+      "entidades": [
+        {
+          "nombre": "Bar Gran Zona",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Bar El Siete",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Carrusel Kinder Bar",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Cafetería Pastelería Paulas Pastry",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "particular (kebab en calle Rambla)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Sala Balmoral",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Bar La Paloma",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Café Bar de Paso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "The Mood",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1273941N, 1289669H, 1290829T, 1291132P, 1292912M, 1294690F, 1295353C, 1296219E, 1298985X",
+      "lugar": "C/ San Cristóbal, C/ Fábricas, Plaza del Recuerdo, Plaza Concejala María del Carmen Lorente, C/ Rambla, C/ Primero de Mayo, Avda. La Libertad, C/ Pascual Amat, Avda. Córdoba",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Puesto en el mercado para recaudar fondos para la cúpula de la Basílica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Basílica de la Purísima a poner un puesto en el mercado de la Plaza Mayor los días 17 y 24 de junio para recaudar dinero para reparar su cúpula. El Ayuntamiento presta dos carpas, dos mesas y dos sillas.",
+      "entidades": [
+        {
+          "nombre": "Basílica de la Purísima de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302064Y",
+      "lugar": "Mercado de la Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Fiestas de San Juan: hoguera y procesión",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia de San Juan Bautista a hacer la hoguera de San Juan en la calle Pío Baroja (23 de junio) y la procesión del 24 de junio. El Ayuntamiento presta carpas, mesas, sillas y una plancha para proteger el suelo.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297555K",
+      "lugar": "Calle Pío Baroja y recorrido de la procesión",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio para la asamblea de la Junta de Compensación del sector SUPR-6",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal a la Junta de Compensación del sector SUPR-6 del Plan General el 16 de julio para su asamblea. Paga el precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1301605K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "COAG-IR da un curso de trámites digitales para agricultores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático a la organización agraria COAG-IR los días 22 y 23 de julio para un curso gratuito sobre aplicaciones digitales para hacer trámites con la Administración.",
+      "entidades": [
+        {
+          "nombre": "COAG-IR (Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1299326W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "AFEDECO hace un taller de cocina en el antiguo colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo C.P. San José de Calasanz a la asociación AFEDECO el 19 de junio para un taller de cocina del Proyecto Crece.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Formación y Desarrollo Comunitario en Yecla (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297101E",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Visita de la AMPA del CEIP San José de Calasanz al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar el Aula de la Naturaleza 'Coto Salinas' el 20 de junio para actividades de educación ambiental.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292228M",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Fin de curso de la Escuela Municipal de Bellas Artes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el acto de fin de curso y la entrega de diplomas de los talleres infantil y juvenil de la Escuela de Bellas Artes, el 17 de junio en la explanada de la Iglesia de San Francisco.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1295293T",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "La Iglesia de San Francisco se ilumina de verde por el Día Mundial de la ELA",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación ELA Región de Murcia, la fachada de la Iglesia de San Francisco se iluminará de verde el 21 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación ELA Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302918J",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "'Verano en Danza 2026' en la Plaza de Toros: programa, entradas y presupuesto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban ocho espectáculos de academias de baile locales, el concierto del 50 aniversario de la Banda Sinfónica y un musical K-POP, del 26 de junio al 18 de julio en la Plaza de Toros. Las entradas cuestan de 6 a 12 euros. El presupuesto es de 35.937 euros con IVA, y casi la mitad es para el musical K-POP (17.000 euros sin IVA).",
+      "entidades": [
+        {
+          "nombre": "Asociación Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Cruz Roja",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 35937.0,
+      "importes": [
+        {
+          "concepto": "Actuación musical K-POP (sin IVA)",
+          "eur": 17000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto 50 aniversario Banda Sinfónica (sin IVA)",
+          "eur": 2000.0,
+          "entidad": "Asociación Amigos de la Música de Yecla (AAMY)"
+        },
+        {
+          "concepto": "Servicio preventivo sanitario (sin IVA)",
+          "eur": 3200.0,
+          "entidad": "Cruz Roja"
+        },
+        {
+          "concepto": "Difusión, cartelería, alojamiento, materiales, SGAE y otros (sin IVA)",
+          "eur": 7500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA",
+          "eur": 6237.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298019E",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Fiestas patronales de Raspay 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban el programa de las fiestas de la pedanía de Raspay (26 al 28 de junio) y su presupuesto de 19.732,68 euros con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19732.68,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294017X",
+      "lugar": "Raspay (pedanía)",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Bases para las atracciones y casetas de la Feria de Septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para elegir las atracciones, puestos y casetas de la Feria de Septiembre de 2026, que se publicarán en el tablón de edictos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302049C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Taller de drones para jóvenes",
+      "categoria": "otros",
+      "resumen": "La Concejalía de Juventud organiza un taller de drones de 10 horas los días 13 y 16 de julio en el Edificio Bioclimático. Es para un máximo de 10 jóvenes de 16 a 35 años y cuesta 1.210 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1210.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302729X",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Plan de seguridad de las obras de la Ermita de San Roque",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud que ha presentado la empresa que repara los cerramientos y la sacristía de la Ermita de San Roque.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Reformas Epicuro 2021, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172913X",
+      "lugar": "Ermita de San Roque",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Renuncia la jefa jurídica de Urbanismo",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se toma nota de que la técnica interina que dirigía el Departamento Jurídico-Administrativo de Urbanismo se va a otro ayuntamiento como funcionaria de carrera. Seguirá en la bolsa de empleo de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Caudete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1304462D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Audiotec montará 'Verano en Danza 2026' por 33.880 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Audiotec el contrato de infraestructura, producción y organización de 'Verano en Danza 2026' por 33.880 euros con IVA. Fue la mejor oferta en el procedimiento abierto simplificado.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33880.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283076A",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "La AMPA del CEIP San José de Calasanz usa el colegio para la fiesta de fin de curso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar el colegio el 19 de junio para la fiesta de fin de curso.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304199N",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "El Yecla C.F. celebra su asamblea en el Salón de Plenos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Yecla Club de Fútbol a usar el Salón de Plenos el 17 de junio por la noche para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Yecla Club de Fútbol",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304297Z",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Exposición de fotos de la AYAC sobre el cáncer en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de afectados de Cáncer a exponer en la Plaza de España, del 18 de junio al 2 de julio, fotografías sobre el proceso oncológico.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261793Q",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Carrera solidaria 'Marta la Princesa Valiente': ayuda municipal de 3.125 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza la VIII Carrera y Marcha solidaria 'Marta la Princesa Valiente' del 20 de junio, con salida y llegada en la Avda. Pablo Picasso, junto al Club Fondistas Yecla. El Ayuntamiento colabora con gastos de 2.815,46 euros y con instalaciones gratuitas valoradas en 310 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Marta 'La Princesa Valiente'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3125.46,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 2815.46,
+          "entidad": "Asociación Marta 'La Princesa Valiente'"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 310.0,
+          "entidad": "Asociación Marta 'La Princesa Valiente'"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241856A",
+      "lugar": "Avda. Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Vallas para la fiesta de fin de curso del CEIP Méndez Núñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se prestan a la AMPA del CEIP Méndez Núñez las vallas disponibles para su fiesta de fin de curso del 19 de junio.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304540M",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

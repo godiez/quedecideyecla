@@ -1,0 +1,900 @@
+{
+  "doc": "2023-11-14_JGL_48",
+  "organo": "JGL",
+  "sesion": 48,
+  "fecha": "2023-11-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno paga 230.465,73 euros en facturas (basura, autobús urbano, limpieza y deportes) y aprueba la convocatoria de 117.000 euros en ayudas a clubes y deportistas. Tras fracasar la captura en vivo, pide permiso para controlar los muflones del Monte Arabí mediante caza, a cargo de la Sociedad de Cazadores San Huberto. Además compra un videomarcador y césped artificial para el Pabellón Ortega Chumilla, encarga a Aqualia la red de la calle San Vicente y pide a la CHS que limpie ramblas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda contra adicciones, empleo juvenil y vertidos de la EDAR Raspay",
+      "categoria": "informacion",
+      "resumen": "Se informa de la adhesión al programa 'Corresponsales juveniles' 2023-24, del plan de aprovechamientos de montes públicos 2023, de una subvención directa de la Consejería de Salud para prevención de adicciones en 2023, de la liquidación y pérdida parcial del derecho al cobro de una subvención del SEF para un programa mixto de empleo-formación de Garantía Juvenil (convocatoria 2021) y de la nueva referencia de la autorización de vertido de la depuradora de Raspay. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resolución"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resolución"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención y declara pérdida de derecho al cobro"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "843073K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura, autobús urbano, limpieza de edificios y deportes",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 230.465,73 € en ocho facturas: recogida y tratamiento de basura, la subvención mensual del autobús urbano, la limpieza de edificios municipales y las actividades deportivas, socorrismo y Plan Corresponsables de Podium.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 230465.73,
+      "importes": [
+        {
+          "concepto": "Cobro de la tasa de recogida de basura, octubre 2023",
+          "eur": 14084.46,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, octubre 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos urbanos, septiembre 2023",
+          "eur": 75898.51,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, octubre 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, agosto 2023",
+          "eur": 11937.96,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, septiembre 2023",
+          "eur": 10575.81,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, octubre 2023",
+          "eur": 28336.72,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables, octubre 2023",
+          "eur": 8408.24,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798447E, 551537Z, 584325N, 118095X, 470771Z, 785944P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Swing Machine Orchestra'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Swing Machine Orchestra' (5/10/2023): se recaudaron 2.850,00 € de 3.618,00 € en entradas puestas a la venta y se dan de baja 768,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2850.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 3618.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 2850.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 768.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814681C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Viktorija Pilatovic'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Viktorija Pilatovic' (6/10/2023): se recaudaron 2.262,00 € de 3.618,00 € en entradas puestas a la venta y se dan de baja 1.356,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2262.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 3618.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 2262.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 1356.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814681C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Eme Eme Project'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Eme Eme Project' (7/10/2023): se recaudaron 2.130,00 € de 3.618,00 € en entradas puestas a la venta y se dan de baja 1.488,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2130.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 3618.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 2130.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 1488.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814681C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Don Juan Tenorio, un clásico en clave de humor'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Don Juan Tenorio, un clásico en clave de humor' (28/10/2023): se recaudaron 1.302,00 € de 3.492,00 € en entradas puestas a la venta y se dan de baja 2.190,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1302.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 3492.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 1302.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 2190.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Gran Circo Acrobático de China'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Gran Circo Acrobático de China' (5/11/2023): se recaudaron 5.818,40 € de 6.270,00 € en entradas puestas a la venta y se dan de baja 451,60 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5818.4,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 6270.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 5818.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 451.6,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Pregón de las Fiestas de San Isidro 2023'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Pregón de las Fiestas de San Isidro 2023' (6/05/2023): se recaudaron 1.218,00 € de 3.492,00 € en entradas puestas a la venta y se dan de baja 2.274,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1218.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 3492.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 1218.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 2274.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Taquilla del Teatro Concha Segura: 'Leah (musical familiar)'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla de 'Leah (musical familiar)' (21/04/2023): se recaudaron 969,00 € de 1.614,00 € en entradas puestas a la venta y se dan de baja 645,00 € de entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 969.0,
+      "importes": [
+        {
+          "concepto": "Entradas a la venta (cargo)",
+          "eur": 1614.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Recaudado en taquilla",
+          "eur": 969.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 645.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Aportación de 8.235 € al Consorcio de las Vías Verdes para la Vía Verde del Chicharra",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la aportación municipal de 2023 al Consorcio de las Vías Verdes de la Región de Murcia, al que Yecla se unió para acondicionar la Vía Verde del Chicharra: 4.000 € de cuota anual y 4.235 € para el alquiler de terrenos a ADIF.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de las Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "ADIF",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "arrendador de los terrenos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8235.0,
+      "importes": [
+        {
+          "concepto": "Cuota anual 2023",
+          "eur": 4000.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        },
+        {
+          "concepto": "Arrendamiento de terrenos de ADIF",
+          "eur": 4235.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "746851T",
+      "lugar": "Vía Verde del Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir un solar en el Plan Parcial Los Rosales",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para segregar una parcela de 605,12 m² de una finca sin construir de unos 1.210 m² en la unidad de actuación del Plan Parcial Los Rosales (suelo urbano). La solicitud no la firman todos los titulares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815091X",
+      "lugar": "Plan Parcial Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca en cinco parcelas en Los Rosales",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para segregar cuatro parcelas (500,55, 500,55, 373,10 y 444,48 m²) de una finca de unos 3.202 m² en el Plan Parcial Los Rosales; la edificación existente, incompatible con el planeamiento, queda en la finca resto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814363K",
+      "lugar": "Plan Parcial Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Césped artificial nuevo para la pista polideportiva junto al Pabellón José Ortega Chumilla",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Grasservice Sport 2022, S.L. la instalación y reposición del césped artificial de la pista polideportiva nº 1 anexa al pabellón por 18.096,28 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Grasservice Sport 2022, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18096.28,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816570A",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Publicidad del Plan Corresponsables 2023-24 por 10.000 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a una particular (autónoma) el servicio de publicidad y propaganda del Plan Corresponsables 2023-24 por 10.000 € con IVA.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 10000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834397K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Videomarcador para el Pabellón José Ortega Chumilla por 18.101 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Cuma Sistemas Electrónicos, S.L. el suministro de un videomarcador para el pabellón por 18.101,60 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Cuma Sistemas Electrónicos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18101.6,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "805130M",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Se corrigen errores en el concurso de limpieza de edificios y se amplía el plazo",
+      "categoria": "contrato",
+      "resumen": "Tras preguntas de los licitadores, se corrigen los pliegos del contrato de limpieza de edificios municipales (C.SE.10/23): tabla de personal actualizada de la empresa actual, 904 horas mensuales y no 905, tope de 100 horas en el criterio de personal, clasificación Grupo U, Subgrupo 1, Categoría 4 y otros costes indirectos de 32.703,63 € (no 32.208,22). El plazo de ofertas se amplía dos semanas, hasta el 11 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Plaza de aparcamiento para discapacitados cerca de la calle Concejal Sebastián Pérez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una plaza reservada a personas con discapacidad cerca de la calle Concejal Sebastián Pérez, porque las obras de remodelación del Mercado Central han dejado la zona sin ninguna.",
+      "entidades": [
+        {
+          "nombre": "Policía Local de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone y ejecuta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843017H",
+      "lugar": "Calle Concejal Sebastián Pérez (junto al Mercado Central)",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Boda civil en el Ayuntamiento el 16 de marzo de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja de particulares a usar el Salón de Sesiones de la 1ª planta de la Casa Consistorial para su matrimonio civil el 16 de marzo de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830532R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Boda civil en el Ayuntamiento el 13 de abril de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja de particulares a usar el Salón de Sesiones de la 1ª planta de la Casa Consistorial para su matrimonio civil el 13 de abril de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836281C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Boda civil en el Ayuntamiento el 28 de septiembre de 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja de particulares a usar el Salón de Sesiones de la 1ª planta de la Casa Consistorial para su matrimonio civil el 28 de septiembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841948Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Boda civil en el Ayuntamiento el 1 de diciembre de 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja de particulares a usar el Salón de Sesiones de la 3ª planta de la Casa Consistorial para su matrimonio civil; el título dice 13 de abril de 2024 pero el acuerdo autoriza el 1 de diciembre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842500P",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "El AMPA del colegio Alfonso X El Sabio usará el Auditorio para entregar orlas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP Alfonso X El Sabio a usar el Auditorio Municipal Juan Miguel Benedito el 14 de junio de 2024 para la entrega de orlas, previo pago del precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del C.E.I.P. Alfonso X El Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio y paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837527H",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Taller de dulces navideños del Centro de Mayores en el antiguo colegio Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Personas Mayores del IMAS a usar el aula de cocina del antiguo colegio San José de Calasanz los días 18 y 19 de diciembre de 2023 para un taller de dulces navideños.",
+      "entidades": [
+        {
+          "nombre": "Centro de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "usa las instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840617Z",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocatoria de 117.000 € en ayudas a clubes y deportistas de 2023",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones deportivas de 2023 para clubes y asociaciones (competiciones, escuelas deportivas, proyecto 2023/24, eventos y actividades de promoción) y para deportistas no profesionales empadronados con proyección. Hay 117.000 € como máximo y 10 días naturales para pedirlas desde su publicación en el BORM.",
+      "entidades": [
+        {
+          "nombre": "Servicio Municipal de Deportes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "gestiona la convocatoria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 117000.0,
+      "importes": [
+        {
+          "concepto": "Deporte escolar y escuelas deportivas",
+          "eur": 15000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Instituciones sin fines de lucro (clubes y asociaciones)",
+          "eur": 90000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Premios y becas deportivas",
+          "eur": 12000.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836707T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Los muflones del Monte Arabí se controlarán con caza tras fracasar la captura en vivo",
+      "categoria": "medio_ambiente",
+      "resumen": "Como los muflones siguen dañando cultivos y la captura en vivo con jaulas (abril-junio de 2023, empresa Capturcaza) no dio resultado, se pide a la Consejería de Medio Ambiente autorización para controlarlos mediante aguardos con armas de fuego, cetrería o arco, y se encarga a la Sociedad de Cazadores San Huberto de Yecla. Hubo escritos de vecinos pidiendo que no se cazaran.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Medio Ambiente, Universidades, Investigación y Mar Menor (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar"
+        },
+        {
+          "nombre": "Sociedad de Cazadores San Huberto de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "realizará el control"
+        },
+        {
+          "nombre": "Capturcaza",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "hizo la captura en vivo (antecedente)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673554R",
+      "lugar": "Monte Arabí",
+      "interes": 3
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Contrato temporal de una técnica de Educación Infantil para la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo, a media jornada (20 horas semanales), a un técnico de Educación Infantil para sustituir a una trabajadora de baja en la Escuela Infantil El Parque.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845207Z",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Se corrige un error en el concurso de mantenimiento de jardines",
+      "categoria": "contrato",
+      "resumen": "En el pliego del contrato de mantenimiento de jardines y zonas verdes (C.SE.11/23) la clasificación exigida pasa de 'Categoría C' a 'Categoría 4' (Grupo O, Subgrupo 6); no se amplía el plazo porque la clasificación no es obligatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "La Federación de Peñas de San Isidro usará el salón del Centro de Desarrollo Local",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Federación de Peñas de San Isidro a usar el salón de actos del Centro de Desarrollo Local los días 16 y 23 de noviembre de 2023 para su asamblea general extraordinaria.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el salón"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845171Z",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Yecla se adhiere al protocolo con la CHS para limpiar cauces en zona urbana",
+      "categoria": "convenio",
+      "resumen": "El Ayuntamiento se adhiere al protocolo entre la Confederación Hidrográfica del Segura y la Federación de Municipios de la Región de Murcia para limpiar cauces en zonas urbanas, que corresponde a los ayuntamientos.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firmante del protocolo"
+        },
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firmante del protocolo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479962P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Se pide a la CHS que limpie con urgencia ramblas y cauces fuera del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Ante posibles lluvias intensas en otoño e invierno, se pide a la Confederación Hidrográfica del Segura que limpie urgentemente las ramblas y cauces de su titularidad en el término (cañas, lodos, vegetación) y el Ayuntamiento se ofrece a colaborar.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide la limpieza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845443C",
+      "lugar": "Ramblas y cauces del término municipal",
+      "interes": 2
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Aqualia renovará la red de agua de la calle San Vicente por 22.282 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia, S.A. para renovar la red de agua en la calle San Vicente por 22.282,08 € y se le ordena hacer la obra, incluida en el contrato del servicio de agua potable.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22282.08,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "845585Z",
+      "lugar": "Calle San Vicente",
+      "interes": 2
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Se pide al Ministerio mejor firme en los caminos paralelos a la autovía A-33",
+      "categoria": "otros",
+      "resumen": "A petición de 27 vecinos, se pide al Ministerio de Fomento que cambie el acabado de zahorra previsto para los caminos de servicio paralelos a la A-33 por un pavimento más duradero, porque la zona sufre arrastres de agua y da servicio a caseríos, granjas, casas rurales y bodegas.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Fomento",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide modificar el proyecto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "842878P",
+      "lugar": "Vías de servicio de la autovía A-33",
+      "interes": 2
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Denegado el agua potable a una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a una particular el suministro de agua potable para una vivienda en suelo no urbanizable: en la parcela no consta ninguna vivienda, la red está a más de 300 metros y se han denegado casos similares en la zona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "842034R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Compromisos para que la Comunidad Autónoma repare la calzada en la Boca del Cántaro",
+      "categoria": "otros",
+      "resumen": "Para que la Consejería de Agua, Agricultura, Ganadería y Pesca ejecute la reparación de dos tramos de calzada en el paraje municipal de la Boca del Cántaro, el Ayuntamiento la autoriza, declara la obra coherente con sus planes y se compromete a recibirla y conservarla al menos 5 años.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "ejecuta la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839555Z",
+      "lugar": "Paraje de la Boca del Cántaro",
+      "interes": 2
+    }
+  ]
+}

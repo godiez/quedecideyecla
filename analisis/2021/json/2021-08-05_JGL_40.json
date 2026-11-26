@@ -1,0 +1,1057 @@
+{
+  "doc": "2021-08-05_JGL_40",
+  "organo": "JGL",
+  "sesion": 40,
+  "fecha": "2021-08-05",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 58,
+  "resumen": "La Junta de Gobierno adjudica el asfaltado de cuatro calles (47.963 €) y vados peatonales accesibles en el Barrio del Sol y en Maestro Mora y Rambla (73.676 €), contrata el concierto de Edurne (26.620 €) y licita la docencia de la Universidad Popular (130.009 €), cuya programación de unos 60 cursos aprueba. Rebaja el 50% del impuesto de obras a Morales Puche por tres edificios comerciales en Las Teresas (unos 37.745 €), da licencias a Proyecto Denver para tres naves y convoca 53.250 € en ayudas sociales. Pide a la CARM arreglar el drenaje de la carretera de Villena por las inundaciones de naves e inadmite la petición de anular cuatro multas por drogas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 27 y 29 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: alerta COVID, anticipo de una subvención del SEF y liquidación de tributos del Estado",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden regional con el nivel de alerta COVID, de la resolución del SEF que anticipa la subvención de un curso de competencias clave (lengua y matemáticas), de una autorización de compra de munición para el curso de agentes de Policía Local, de la liquidación definitiva de 2019 de la participación de Yecla en los tributos del Estado y de un informe municipal sobre las aguas residuales que llegan a las depuradoras de Yecla y Raspay.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Intervención de Armas y Explosivos de Murcia (Guardia Civil)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Secretaría General de Financiación Autonómica y Local (Ministerio de Hacienda)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida tributos del Estado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "522012R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Taquilla del concierto del Dúo Dinámico en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla en el concierto del 24 de julio de 2021 (6.045 €) y se dan de baja las entradas no vendidas (6.399 €), de un cargo total de 12.444 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6045.0,
+      "importes": [
+        {
+          "concepto": "Taquilla 24/7/2021",
+          "eur": 6045.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja entradas no vendidas",
+          "eur": 6399.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512423Z",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 50% del ICIO a Morales Puche por tres edificios comerciales en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Morales Puche, S.L. una bonificación del 50% del impuesto de construcciones por levantar tres edificios de uso comercial en el paraje Las Teresas, junto a la carretera. El presupuesto de la obra es de 2.287.604,22 € y el impuesto sería de 75.490,94 €, así que se ahorra unos 37.745 €.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37745.47,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material (base imponible)",
+          "eur": 2287604.22,
+          "entidad": "Morales Puche, S.L."
+        },
+        {
+          "concepto": "Cuota del ICIO sin bonificar",
+          "eur": 75490.94,
+          "entidad": "Morales Puche, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50% (calculada)",
+          "eur": 37745.47,
+          "entidad": "Morales Puche, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505742W",
+      "lugar": "Paraje Las Teresas (polígono 46, parcela 292)",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del IBI a Electricidad Soriano por placas solares en su nave",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Electricidad Soriano, S.L. una bonificación del 50% del IBI por una instalación solar de autoconsumo de 8 kW (8.170,32 €) en la cubierta de su nave industrial, de 2022 a 2026, con un máximo de 100 € al año.",
+      "entidades": [
+        {
+          "nombre": "Electricidad Soriano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Carretera de Villena, km 1",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Aportación de 8.235 € al Consorcio de las Vías Verdes para la Vía Verde del Chicharra",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba pagar al Consorcio de las Vías Verdes de la Región de Murcia la cuota de 2021 (4.000 €) y el alquiler de los terrenos de ADIF (4.235 €), dentro del proyecto para acondicionar la Vía Verde del Chicharra y unir la Región con la Comunidad Valenciana.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de las Vías Verdes de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "ADIF",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "arrienda terrenos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8235.0,
+      "importes": [
+        {
+          "concepto": "Cuota anual 2021",
+          "eur": 4000.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        },
+        {
+          "concepto": "Arrendamiento de terrenos de ADIF",
+          "eur": 4235.0,
+          "entidad": "Consorcio de las Vías Verdes de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503892A",
+      "lugar": "Vía Verde del Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para vivienda aislada y piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia (con proyecto básico) para una vivienda unifamiliar aislada con piscina en el paraje Los Quiñones, ligada a una explotación agrícola.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499748W",
+      "lugar": "Paraje Los Quiñones (polígono 114)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para reconstruir una nave de cabezales de riego en La Rabosera",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para reconstruir una nave de cabezales de riego vinculada a un embalse en el paraje La Rabosera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502271Z",
+      "lugar": "Paraje La Rabosera (polígono 116)",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a Hidráulica San Pascual para una instalación fotovoltaica en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Hidráulica San Pascual, S.A. licencia para una instalación fotovoltaica en el paraje La Pujola. No se indica la potencia.",
+      "entidades": [
+        {
+          "nombre": "Hidráulica San Pascual, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503765Z",
+      "lugar": "Paraje La Pujola (polígono 112, parcela 402)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Morales Puche puede empezar dos de sus tres edificios comerciales en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio parcial de las obras (edificios 2 y 3) de la licencia concedida el 21 de julio de 2021 a Morales Puche, S.L. para tres edificios comerciales en el paraje Las Teresas.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505742W",
+      "lugar": "Paraje Las Teresas (polígono 46, parcela 292)",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Inicio de obras de una vivienda aislada en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de una vivienda aislada con garaje y piscina en el paraje La Decarada, con licencia de junio de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507267N",
+      "lugar": "Paraje La Decarada (polígono 34)",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Legalización y terminación de una vivienda con piscina en Fuente La Negra",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos particulares licencia para legalizar una vivienda aislada con piscina y terminarla, en el paraje Fuente La Negra.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508379H",
+      "lugar": "Paraje Fuente La Negra (polígono 128)",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Inicio de obras de reforma de una vivienda en Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar la reforma y ampliación de una vivienda aislada en el paraje Artesillas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508819T",
+      "lugar": "Paraje Artesillas (polígono 43)",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Denegada la legalización de un pasillo en una vivienda del casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un particular la legalización de un pasillo en su vivienda porque supera el fondo máximo edificable de la zona (17 m), una deficiencia que el plan general considera insubsanable.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "509730D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia a Inmoverca para ampliar una nave en la antigua carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Inmoverca, S.L.U. licencia para ampliar una nave industrial de almacenamiento, con fianza de 12.617,50 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Inmoverca, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513336R (dudoso por OCR)",
+      "lugar": "Antigua carretera RM-425 Yecla-Villena, km 1",
+      "interes": 2
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia a Rural Yecla para reconstruir una nave de riego en Moratillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Rural Yecla, S.L. licencia para reconstruir una nave de cabezales de riego en el paraje Moratillas, junto a la carretera RM-A18 y la Cañada Real de los Serranos, con las condiciones de Carreteras y Medio Natural.",
+      "entidades": [
+        {
+          "nombre": "Rural Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513330J (dudoso por OCR)",
+      "lugar": "Paraje Moratillas (polígono 104, parcela 25)",
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Licencia para vivienda aislada y barbacoa en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a unos particulares licencia (con proyecto básico) para una vivienda unifamiliar aislada con barbacoa en el paraje Los Quiñones, ligada a una explotación agrícola.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516390J (dudoso por OCR)",
+      "lugar": "Paraje Los Quiñones (polígono 123)",
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Licencia a Proyecto Denver para una nave industrial en Las Teresas (parcela A1S(17)-A1S(18))",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Proyecto Denver. S,L, licencia (con proyecto básico) para construir una nave industrial en la calle Miguel Servet del polígono industrial Las Teresas. parcela A1S(17)-A1S(18). con fianza de 5.521,42 € para reponer la urbanización,",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516868Y",
+      "lugar": "P.I. Las Teresas, calle Miguel Servet (parcela A1S(17)-A1S(18))",
+      "interes": 2
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Licencia a Proyecto Denver para una nave industrial en Las Teresas (parcela G-89)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Proyecto Denver. S,L, licencia (con proyecto básico) para construir una nave industrial en la calle Miguel Servet del polígono industrial Las Teresas. parcela G-89. con fianza de 20.115,90 € para reponer la urbanización,",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516874K",
+      "lugar": "P.I. Las Teresas, calle Miguel Servet (parcela G-89)",
+      "interes": 2
+    },
+    {
+      "ref": "4.14",
+      "titulo": "Licencia a Proyecto Denver para una nave industrial en Las Teresas (parcela B-26-11L)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Proyecto Denver. S,L, licencia (con proyecto básico) para construir una nave industrial en la calle Miguel Servet del polígono industrial Las Teresas. parcela B-26-11L. con fianza de 2.710,24 € para reponer la urbanización,",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516877K",
+      "lugar": "P.I. Las Teresas, calle Miguel Servet (parcela B-26-11L)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se prorroga un año la comisión de servicios de la directora de Servicios Sociales en Molina de Segura",
+      "categoria": "personal",
+      "resumen": "A petición del Ayuntamiento de Molina de Segura, se prorroga hasta el 5 de noviembre de 2022 la comisión de servicios de la directora de Servicios Sociales de Yecla para trabajar allí como trabajadora social.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Molina de Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523312Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se prorroga la trabajadora social que dirige Servicios Sociales en funciones",
+      "categoria": "personal",
+      "resumen": "En consecuencia, se prorroga hasta el 5 de noviembre de 2022 la comisión de servicios de la trabajadora social que ocupa el puesto de directora de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523325Q (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contrato temporal de un mantenedor para las escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se contrata de forma interina, desde la bolsa de empleo, a un mantenedor para las Escuelas Infantiles Municipales para sustituir a otro de baja al empezar el curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "522598F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Cambio de la reducción de jornada de una monitora-socorrista",
+      "categoria": "personal",
+      "resumen": "Se amplía ligeramente la jornada de una monitora-socorrista con reducción por cuidado de hijo (de 25 a 25,26 horas semanales) y se fija su nuevo horario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523815X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Se reclaman 1.125 € de un anticipo de nómina a un exagente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se requiere a un exagente de la Policía Local, que dejó el Ayuntamiento en marzo de 2021, que devuelva los 1.125 € que le quedaban por reintegrar de un anticipo de 3.000 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "debe devolver"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1125.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461297Q (dudoso por OCR)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Horario del director de la Escuela Municipal de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se aprueba el horario del director de la Escuela de Bellas Artes: cuatro mañanas de 11:00 a 13:35 y tardes de lunes a viernes de 17:00 a 22:00.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524711Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Asfaltado de las calles Cánovas del Castillo, Pablo Casals, Colón y Cruz de Piedra",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Alicaser, Obras y Servicios, S.L. el parcheo y asfaltado de tramos de cuatro calles por 47.962,73 € con IVA (presupuesto 48.362,73 €).",
+      "entidades": [
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47962.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "522520Y",
+      "lugar": "Calles Cánovas del Castillo, Pablo Casals, Colón y Cruz de Piedra",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Vados peatonales accesibles en la calle Mariano Yago (Barrio del Sol)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Mediterráneo de Obras y Asfaltos, S.A. la construcción de vados peatonales en cruces de la calle Mariano Yago por 39.675,96 € con IVA (presupuesto 45.000 €).",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39675.96,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524753Z (dudoso por OCR)",
+      "lugar": "Calle Mariano Yago (Barrio del Sol)",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Vados peatonales accesibles en las calles Maestro Mora y Rambla (POS 2020/21)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor a Construcciones Navarro y Palao, S.L. la construcción de vados peatonales en las calles Maestro Mora y Rambla, dentro del Plan de Obras y Servicios 2020/21, por 33.999,79 € con IVA (presupuesto 40.000 €).",
+      "entidades": [
+        {
+          "nombre": "Construcciones Navarro y Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33999.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524754A",
+      "lugar": "Calles Maestro Mora y Rambla",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Se licitan los profesores de la Universidad Popular para el curso 2021-22",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto para contratar la docencia de los cursos de la Universidad Popular, en cinco lotes. Se autoriza un gasto de 41.073,50 € con cargo a 2021; la suma de los lotes es de 130.009,28 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 130009.28,
+      "importes": [
+        {
+          "concepto": "Lote 1: Artes plásticas y oficios artísticos",
+          "eur": 56779.23,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: Patronaje y moda",
+          "eur": 19789.11,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: Artes aplicadas y oficios artesanales",
+          "eur": 26204.95,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: Acondicionamiento físico",
+          "eur": 13213.42,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: Restauración de bienes muebles y culturales",
+          "eur": 14022.57,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto autorizado con cargo al presupuesto 2021",
+          "eur": 41073.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.SE. 7/21; 521199N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Contrato del concierto de Edurne en la Plaza de Toros (Verano en Danza 2021)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento negociado sin publicidad, al único licitador (una persona física), el concierto de Edurne en la Plaza de Toros por 26.620 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 26620.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.PR. 2/21; 519867N",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de 20 m² para el Bar de Tapas Anita en calle San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del 'Bar de Tapas Anita' en calle San Isidro para la temporada de verano de 2021 con 20 m², el doble de lo normal (10 m²) por la limitación de aforo de la COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523880M",
+      "lugar": "Calle San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de 32 m² para la Cafetería Atrio en calle España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la 'Cafetería Atrio' en calle España para la temporada de verano de 2021 con 32 m², el doble de lo normal (16 m²) por la limitación de aforo de la COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523177K",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones (3ª planta) para una boda civil el 11 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para su matrimonio civil el 11 de septiembre (12:00) de 2021, cumpliendo el protocolo COVID de ceremonias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "515276M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones (3ª planta) para una boda civil el 11 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para su matrimonio civil el 11 de septiembre (18:00) de 2021, cumpliendo el protocolo COVID de ceremonias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "523460D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Plenos para una boda civil el 24 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para su matrimonio civil el 24 de septiembre de 2021, cumpliendo el protocolo COVID de ceremonias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506644Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Plenos para una boda civil el 25 de septiembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para su matrimonio civil el 25 de septiembre de 2021, cumpliendo el protocolo COVID de ceremonias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506643D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de Plenos para una boda civil el 9 de octubre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para su matrimonio civil el 9 de octubre de 2021, cumpliendo el protocolo COVID de ceremonias.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "521013E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de subvenciones de promoción e inserción social 2021: 53.250 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de ayudas para asociaciones e instituciones con proyectos de promoción e inserción social en 2021, hasta 53.250 €. Por la COVID, se admite hasta un 5% para equipos de protección y se puede valorar el alquiler de locales aunque la actividad se parara.",
+      "entidades": [
+        {
+          "nombre": "Asociaciones e instituciones sociales",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pueden solicitar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 53250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "521628J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Programación de la Universidad Popular 2021-22: unos 60 cursos y talleres",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación inicial de la Universidad Popular (cerámica, bordado, restauración, pilates, informática, cocina, micología, aves, catas de vino...), con preinscripción del 14 al 20 de septiembre, sorteo si hay más solicitudes que plazas, descuento del 40% para mayores de 65, jóvenes, familias numerosas, pensionistas, discapacidad y personas en paro, y las normas de inscripción y medidas COVID. Los cursos especiales cuestan 21,70 € de matrícula y 14,45 € al mes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519223A",
+      "lugar": "Universidad Popular (calle San Antonio)",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Se pide a la CARM arreglar el drenaje de la carretera de Villena por las inundaciones de naves",
+      "categoria": "medio_ambiente",
+      "resumen": "Por las denuncias de propietarios de naves que se inundan a menudo junto al km 1,35 de la carretera RM-425 (Yecla-Villena), se pide a la Dirección General de Carreteras que estudie y ejecute otro sistema de drenaje, porque el tubo actual no basta para el agua de una cuenca de unas 100 hectáreas.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe actuar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "490870P",
+      "lugar": "Carretera RM-425 Yecla-Villena, p.k. 1,35",
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Dos becas de formación en la Casa Municipal de Cultura",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden dos becas de formación-colaboración en la Casa de Cultura (5 meses, 550 horas) a los dos aspirantes con más puntos, por 3.000 € (el acta no aclara si es por beca o en total), y se crea una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510647H",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Dos becas de formación en el Museo Arqueológico Cayetano de Mergelina",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden dos becas de formación-colaboración en el Museo Arqueológico Municipal (5 meses, 550 horas) por 3.000 € (el acta no aclara si es por beca o en total), y se crea una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510648J",
+      "lugar": "Museo Arqueológico Municipal 'Cayetano de Mergelina'",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Dos becas de prácticas de arqueología",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden dos becas de prácticas de arqueología (hasta 4 meses, 440 horas) por 2.400 € pagaderos en 4 mensualidades (el acta no aclara si es por beca o en total), y se crea una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 2400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510649K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Siete becas de auxiliares de arqueología (850 € cada una)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 7 becas de auxiliar de arqueología de 850 € cada una para agosto y septiembre (250 horas). Las otras 3 de las 10 convocadas quedan desiertas por falta de aspirantes válidos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5950.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510650M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Atracciones, puestos y casetas autorizados para la Feria de Yecla 2021",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la instalación de unas 70 atracciones, puestos de comida, casetas de tiro, tómbolas y jugueterías en la Feria de 2021 (coches de choque, barco pirata, camas elásticas, churrerías, hamburgueserías...). Antes de funcionar, cada atracción debe presentar un certificado de montaje visado.",
+      "entidades": [
+        {
+          "nombre": "V.B. Grupo Atracciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "Internacional Amusement",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519917H",
+      "lugar": "Recinto ferial",
+      "interes": 2
+    },
+    {
+      "ref": "17",
+      "titulo": "Inadmitida la petición de anular cuatro multas por drogas en la vía pública",
+      "categoria": "reclamaciones",
+      "resumen": "Un particular pidió anular cuatro sanciones firmes por consumo o tenencia de drogas en la vía pública (art. 36.16 de la Ley de Seguridad Ciudadana), alegando que varias sentencias dicen que el Ayuntamiento no es competente para multar por esto y que los cacheos y un registro de reincidentes vulneran su intimidad. Se inadmite: el Ayuntamiento sostiene que su incompetencia no es 'manifiesta' (las sentencias no le condenaron en costas por haber dudas) y que no existe tal registro.",
+      "entidades": [
+        {
+          "nombre": "Juzgados de lo Contencioso-Administrativo nº 1, 4, 5 y 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "sentencias citadas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "501231E",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

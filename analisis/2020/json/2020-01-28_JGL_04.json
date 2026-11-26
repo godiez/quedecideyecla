@@ -1,0 +1,658 @@
+{
+  "doc": "2020-01-28_JGL_04",
+  "organo": "JGL",
+  "sesion": 4,
+  "fecha": "2020-01-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno informa a favor del interés público de dos naves de muebles en suelo no urbanizable (Hekora Tapizados y El Tricampet) y da licencia al Obispado de Cartagena para segregar una finca rústica. Licita por 40.000 euros el Plan Director del yacimiento romano de Los Torrejones, adjudica el wifi gratuito Wifi4EU y aprueba las Fiestas de Carnaval 2020 con un presupuesto de casi 49.000 euros. También aprueba las listas de cobro del agua y la basura, una beca de comunicación de 6.000 euros y la cesión de despachos deportivos a tres clubes.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 21 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: el SEF inicia el reintegro parcial de una subvención",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Regional de Empleo y Formación ha iniciado el reintegro parcial de la subvención concedida para el programa de Agentes de Empleo y Desarrollo Local (expediente 2017-02-71-0041). No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro de subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "378613C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: musical en el Teatro, alcantarillado y gasóleo",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres pagos por 39.922,67 euros: el musical 'Los Futbolísimos' en el Teatro Concha Segura, obras de alcantarillado en las calles Cruz de Piedra y Avenida de Córdoba, y gasóleo B. Una concejala sale de la sesión durante el pago a la constructora por tener relación con la empresa.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Multigás Enertica, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39922.67,
+      "importes": [
+        {
+          "concepto": "Representación de 'Los Futbolísimos. El Musical' en el Teatro Concha Segura (22/12/2019)",
+          "eur": 13915.0,
+          "entidad": "Pentación, S.A."
+        },
+        {
+          "concepto": "Trabajos de alcantarillado en calles Cruz de Piedra y Avenida de Córdoba",
+          "eur": 12723.67,
+          "entidad": "Maza Construcciones y Contratas, S.L."
+        },
+        {
+          "concepto": "Gasóleo B",
+          "eur": 13284.0,
+          "entidad": "Multigás Enertica, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (una concejala se ausenta en el pago a Maza Construcciones por tener relación con la empresa)",
+      "expediente": "343063C, 333487C, 356839K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de dirección de obra de una vivienda aislada con licencia de 2007",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la renuncia del arquitecto que dirigía las obras de una vivienda unifamiliar aislada de un particular (licencia 61/2007) y del nombramiento de dos nuevas directoras de obra, comunicado por el Colegio de Arquitectos.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "titular de la licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "369115K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Interés público de una nave de tapizados en suelo no urbanizable (Hekora Tapizados)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "A petición de la Dirección General de Territorio y Arquitectura, el Ayuntamiento se pronuncia a favor del interés público de la nave industrial para comercializar y distribuir muebles tapizados que quiere construir Hekora Tapizados en suelo no urbanizable, y envía el informe del arquitecto municipal sobre el incumplimiento de parámetros del plan en aprobación inicial. La autorización final la da la Consejería de Fomento.",
+      "entidades": [
+        {
+          "nombre": "Hekora Tapizados, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "149507Z (S.N.U. 1/2019)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Interés público de la ampliación de una nave de muebles en suelo no urbanizable (El Tricampet)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El Ayuntamiento informa a favor del interés público de la ampliación de la nave para fabricar y vender muebles de El Tricampet en suelo no urbanizable y remite a la Comunidad Autónoma el informe municipal que justifica que no hay parcelas industriales disponibles ni expediente de infracción urbanística.",
+      "entidades": [
+        {
+          "nombre": "El Tricampet, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "121197E (S.N.U. 2/2019)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia al Obispado de Cartagena para segregar una finca rústica de regadío",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede al Obispado de Cartagena licencia para segregar dos parcelas (de unos 36.000 y 35.700 m²) de una finca de regadío de más de 17 hectáreas en suelo no urbanizable, cuyo dominio directo figura a nombre de una antigua capellanía. Las construcciones existentes quedan en la finca resto.",
+      "entidades": [
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "310996P",
+      "lugar": "Suelo no urbanizable general, polígonos catastrales 50 y 51 (regadío)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Orden de servicio: talleres en Murcia para la orientadora de Garantía Juvenil",
+      "categoria": "personal",
+      "resumen": "Se ordena a la orientadora laboral de Garantía Juvenil asistir a talleres de orientación en la oficina SABER del SEF en Murcia (11 y 12 de febrero), pagando el Ayuntamiento desplazamiento y manutención.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "376557X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Orden de servicio: talleres en Murcia para la orientadora del programa de jóvenes",
+      "categoria": "personal",
+      "resumen": "Se ordena a la orientadora laboral del Programa Operativo de orientación a jóvenes asistir a los mismos talleres del SEF en Murcia (4 y 5 de febrero), con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "376655H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Pago de atrasos a una agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se abonan a una agente de la Policía Local los sueldos de diez días de octubre de 2018 que no se le pagaron por error tras reconocérsele una reducción de jornada, y se regulariza su cotización a la Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "74415E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Reconocimiento de antigüedad y grado a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se reconocen a un agente de la Policía Local casi 15 años de servicios previos en otras administraciones (antigüedad desde febrero de 2005) y un grado personal consolidado de nivel 18.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "374536P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación del Plan Director del yacimiento romano de Los Torrejones (40.000 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto simplificado para contratar la redacción del Plan Director del yacimiento romano de Los Torrejones, con un precio base de 40.000 euros IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 40000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "315903E (C.SE. 9/2019)",
+      "lugar": "Yacimiento romano de Los Torrejones",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato menor del wifi público gratuito 'Wifi4EU' a Infomicro Comunicaciones",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Infomicro Comunicaciones el suministro de la iniciativa europea Wifi4EU (puntos de wifi público gratuito) por 14.999,99 euros IVA incluido, justo por debajo del límite de 15.000 euros del contrato menor.",
+      "entidades": [
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14999.99,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "339928Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Contrato menor: proyecto técnico del sistema de seguridad ciudadana (videovigilancia)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Materiales de Telecomunicación la redacción del proyecto técnico para contratar el suministro e integración de un sistema de seguridad ciudadana, por 8.349 euros IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Materiales de Telecomunicación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8349.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "328885K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Beca de formación en el Gabinete de Comunicación para 2020 (6.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria de una beca de 10 meses y 1.200 horas, de hasta 6.000 euros, para que un titulado en Periodismo o Protocolo se forme en el Gabinete Municipal de Comunicación. Plazo de solicitud: 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "375459X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Convenio con la Consejería de Salud sobre seguridad alimentaria y zoonosis",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio de colaboración de cuatro años con la Comunidad Autónoma para coordinar actuaciones de seguridad alimentaria y de enfermedades de animales transmisibles a las personas, y se autoriza al alcalde a firmarlo.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "365960D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Nuevo director provisional de la obra del edificio educativo de La Alameda",
+      "categoria": "personal",
+      "resumen": "Por la ausencia del arquitecto municipal que dirigía las obras del Edificio Educativo Polivalente del Barrio de La Alameda, se designa provisionalmente a otro arquitecto municipal como director facultativo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "65557C",
+      "lugar": "Barrio de La Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Ampliación urgente de la ayuda a domicilio a un vecino",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se amplía de oficio y con urgencia el Servicio de Ayuda a Domicilio (también fines de semana y festivos) a una persona, hasta 10 horas semanales, mientras dure su necesidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "377157E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para celebrar su matrimonio civil el 25 de julio de 2020.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita uso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "369135N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegado a un funcionario que se borre su nombre de las actas publicadas en la web",
+      "categoria": "reclamaciones",
+      "resumen": "Un funcionario municipal pidió que su nombre no aparezca en las actas de la Junta de Gobierno publicadas en la web ni en las pasadas. Se deniega: la publicación de los acuerdos es una obligación de la Ley de Transparencia, no se publica el DNI y el solicitante no alegó ninguna situación particular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "336766F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Puesto informativo de AYAC en la Plaza Mayor por el Día Mundial del Cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a instalar un puesto informativo en la Plaza Mayor el 5 de febrero, con una carpa, una mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "368846M",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Material municipal para la carrera solidaria del Día de la Paz del CEIP Alfonso X",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede material municipal al CEIP Alfonso X el Sabio para una carrera solidaria en su patio el 30 de enero, a beneficio de asociaciones locales.",
+      "entidades": [
+        {
+          "nombre": "CEIP Alfonso X el Sabio",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "368142J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Material municipal para la carrera solidaria del Día de la Paz del CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede material municipal al CEIP San José de Calasanz para una carrera solidaria en su patio el 30 de enero.",
+      "entidades": [
+        {
+          "nombre": "CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "362759H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Colaboración con el Club Ciclista Yecla en la prueba 'Ciudad de Yecla'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba colaborar con el Club Ciclista Yecla en la prueba ciclista 'Ciudad de Yecla' del Torneo Interclubes Vinalopó del 1 de febrero, con uso gratuito de instalaciones deportivas (valorado en 310 euros) y medios humanos y materiales municipales.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 310.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "275360W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Listas de cobro del agua (4º trimestre 2019) y de la basura (1er trimestre 2020)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la lista cobratoria del agua del 4º trimestre de 2019 (271.890,54 euros), con un canon para el Ayuntamiento de 44.972,57 euros y 226.598,69 euros de canon de saneamiento para la Comunidad Autónoma, y la de la tasa de basura del 1er trimestre de 2020 (356.473,70 euros), que recauda FCC Aqualia. Se anulan 44 euros de recibos antiguos.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 628364.24,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 4º trimestre 2019",
+          "eur": 271890.54,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de recogida de basura 1er trimestre 2020",
+          "eur": 356473.7,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "379450P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Anticipo de sueldo de 1.000 € a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa un anticipo de 1.000 euros de su sueldo, a devolver en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "379361Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Visita técnica a fabricantes de contenedores en Madrid para el nuevo contrato de basura",
+      "categoria": "personal",
+      "resumen": "Para preparar los pliegos del próximo contrato de recogida de basuras, se ordena al ingeniero técnico de Servicios Públicos visitar fabricantes de contenedores en Madrid el 5 de febrero, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380664A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Fiestas de Carnaval 2020: programa, presupuesto de 48.962 € y entradas a 5 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las Fiestas de Carnaval del 14 al 23 de febrero (coronación de la Reina en el Teatro Concha Segura, galas y baile en el recinto de la Feria del Mueble y desfiles adulto e infantil), con un presupuesto de 48.962,65 euros y entradas a 5 euros para galas y baile.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cede recinto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 48962.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "294878D",
+      "lugar": "Teatro Concha Segura, recinto de la Feria del Mueble y calles del centro",
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "La Asociación Kapaces usará el aula de cocina del antiguo colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Kapaces a usar el aula de cocina del antiguo Colegio San José de Calasanz cinco sábados entre febrero y julio para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "374660M",
+      "lugar": "Antiguo Colegio San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Cesión de un despacho en la Casa del Deporte I a la A.D. Albatros Yecla",
+      "categoria": "patrimonio",
+      "resumen": "Se cede en precario y de forma compartida el despacho nº 2 de la Casa del Deporte I (junto al pabellón José Ortega Chumilla) a la Asociación Deportiva Albatros Yecla, con una fianza de 100 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "269981Z",
+      "lugar": "Casa del Deporte I, junto al pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Cesión de un despacho en la Casa del Deporte II al Club Fondistas Yecla",
+      "categoria": "patrimonio",
+      "resumen": "Se cede en precario y de forma compartida el despacho nº 5 de la Casa del Deporte II (complejo Juan Palao) a la Asociación Club Fondistas Yecla, con una fianza de 100 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "71928A",
+      "lugar": "Casa del Deporte II, complejo polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Cesión de un despacho en la Casa del Deporte II al Club Triatlón Arabí Yecla",
+      "categoria": "patrimonio",
+      "resumen": "Se cede en precario y de forma compartida el despacho nº 4 de la Casa del Deporte II (complejo Juan Palao) a la Asociación Club Triatlón Arabí Yecla, con una fianza de 100 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "380747Q",
+      "lugar": "Casa del Deporte II, complejo polideportivo Juan Palao",
+      "interes": 1
+    }
+  ]
+}

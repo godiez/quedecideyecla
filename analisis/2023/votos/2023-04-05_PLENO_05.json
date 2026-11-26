@@ -1,0 +1,43 @@
+{
+  "doc": "2023-04-05_PLENO_05",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria con asunto único (presupuesto 2023). Asisten los 21 concejales.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 5,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno, por doce votos a favor (Grupo M. Popular), siete en contra (Grupos M. Socialista e Izquierda Unida-Verdes) y dos abstenciones (Grupo M. Ciudadanos), adopta los siguientes acuerdos"
+    }
+  ]
+}

@@ -1,0 +1,804 @@
+{
+  "doc": "2025-05-13_JGL_28",
+  "organo": "JGL",
+  "sesion": 28,
+  "fecha": "2025-05-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 41,
+  "resumen": "La Junta de Gobierno paga 237.000 euros en facturas de servicios (deportes, limpieza, autobús, basura) y 176.206 euros de una obra de mejora peatonal con fondos europeos. Aprueba el estudio ambiental para sacar más agua del acuífero para el abastecimiento de Yecla y autoriza a Inurbán a empezar 17 apartamentos turísticos en calle San Antonio. Además convoca plazas fijas (museo, limpieza, peones), aprueba la lista provisional de escuelas infantiles, el Encuentro Siglo de Oro y varias terrazas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 6 y 7 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: la CARM deniega ampliar plazo del muro vegetal del edificio Cazadores",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de la Dirección General de Ordenación del Territorio y Arquitectura que deniega ampliar el plazo de ejecución del muro vegetal en la esquina noreste del edificio municipal 'Cazadores', junto al Parque de la Constitución.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "deniega ampliación de plazo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1089224M",
+      "lugar": "Edificio Cazadores, Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: deportes, limpieza, autobuses, basura y otros servicios",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar nueve facturas de servicios municipales: mantenimiento de instalaciones deportivas, limpieza de edificios, autobús urbano, comedor de escuela infantil, cobranza de la basura, Semana Santa, reparación eléctrica en el Real de la Feria, publicidad y la plataforma electrónica de la Diputación de Albacete.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 236955.55,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, abril 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Comedor de la Escuela Infantil El Parque, marzo 2025",
+          "eur": 6696.02,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, abril 2025",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Autobuses urbanos, abril 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Publicidad digital El Periódico de Yecla 2025 (contrato menor)",
+          "eur": 8399.99,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Producción e infraestructuras para actos y procesiones de Semana Santa 2025",
+          "eur": 7068.82,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Premio de cobranza de la tasa de basura, abril 2025",
+          "eur": 15807.75,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Reparación y reconstrucción de línea eléctrica de baja tensión en el Real de la Feria",
+          "eur": 11899.73,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Uso de la plataforma de administración electrónica Sedipualba 2025",
+          "eur": 18342.92,
+          "entidad": "Diputación Provincial de Albacete"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 607446A, 777197Q, 841943Q, 1043890Y, 1074837E, 1076332F, 1082989C, 1086992M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación de obra: mejora de espacios peatonales (zona de bajas emisiones)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 5 de la obra de mejora de espacios para peatones, del programa de zonas de bajas emisiones y transporte urbano sostenible financiado con fondos europeos Next Generation EU.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 176206.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Autorizado el inicio de obras de 17 apartamentos turísticos en calle San Antonio",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Inurbán, S.A.U. a empezar las obras de su licencia (modificación de proyecto de tres viviendas, locales y sótano para diecisiete apartamentos turísticos, local y sótano), tras presentar el proyecto de ejecución visado.",
+      "entidades": [
+        {
+          "nombre": "Inurbán, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780111N",
+      "lugar": "Calle San Antonio",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Denegada una segregación de finca en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a una particular la segregación de una finca de secano en suelo no urbanizable porque las parcelas resultantes no alcanzarían la unidad mínima de cultivo (2,5 hectáreas en secano).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1067174M",
+      "lugar": "Polígono 42 (suelo no urbanizable general)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición de 2 plazas de Técnico de Gestión: admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 5 aspirantes admitidos a las dos plazas de Técnico de Gestión por promoción interna (destinos: Contratación y Patrimonio, y Personal), se nombra el tribunal y se fijan las fechas: méritos el 10 de junio y examen tipo test el 17 de junio de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991510Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Convocatoria de una plaza fija de Técnico Ayudante de Museos",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de una plaza laboral fija de Técnico Ayudante de Museos (grupo A2) para el Museo Arqueológico Municipal 'Cayetano de Mergelina'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085440F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Convocatoria de 3 plazas fijas de Limpiador/a",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de tres plazas laborales fijas de limpiador/a (Oferta de Empleo Público 2021).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1082971C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Convocatoria de 2 plazas fijas de Peón-Operario para la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de dos plazas laborales fijas de peón-operario destinadas al servicio de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084964W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contratación de 10 alumnos trabajadores del programa de atención sociosanitaria",
+      "categoria": "personal",
+      "resumen": "Se contrata a diez alumnos trabajadores (y se aprueba una lista de reserva de nueve) para el Programa Experiencial 'Atención sociosanitaria a personas en el domicilio (Yecla Incorpora 2024)', subvencionado por el SEF y el Fondo Social Europeo, que empieza el 15 de mayo de 2025.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1079627H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Contratación de la coordinadora del programa experiencial sociosanitario",
+      "categoria": "personal",
+      "resumen": "Se contrata a una particular como coordinadora del Programa Experiencial 'Atención sociosanitaria a personas en el domicilio (Yecla Incorpora 2024)' y se crea una bolsa de empleo con la única aspirante que superó la selección.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078946M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Contratación de la formadora del programa experiencial sociosanitario",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia de la candidata propuesta, se contrata a otra aspirante como formadora del Programa Experiencial 'Atención sociosanitaria a personas en el domicilio (Yecla Incorpora 2024)' y se forma la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078949Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Conserje-Operario para el CEIP Las Herratillas",
+      "categoria": "personal",
+      "resumen": "Al cesar definitivamente el conserje titular, se extingue el contrato de su sustituto y se contrata a un nuevo conserje-operario de la bolsa de empleo para el colegio Las Herratillas hasta que se cubra la plaza (máximo 3 años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1087151H",
+      "lugar": "CEIP Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Renuncia de una funcionaria interina de Auxiliar Inspectora de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia voluntaria de una funcionaria interina, Auxiliar Inspectora de Servicios Técnicos, con efectos del 11 de mayo, y se la excluye de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1088029C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Jubilación anticipada de un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada de un agente de la Policía Local el 31 de julio de 2025 y se le agradecen sus más de 36 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1036955Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.11",
+      "titulo": "Orden de servicio: técnica de Turismo a una reunión de la Film Office en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la Agente de Desarrollo Local-Turismo asistir a la reunión 'Film Comission Office' del Instituto de Industrias Culturales y las Artes (20 de mayo) y se pagan sus gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1087823Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Contrato menor del espectáculo 'El Gran Show' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la Asociación Ambfi. Teatre la actuación 'El Gran Show' en el Teatro Concha Segura el 24 de mayo de 2025.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ambfi. Teatre",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10350.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084903K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano para la cafetería 'Quimera'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 60 m² para la cafetería 'Quimera' del 1 de abril al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Quimera",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080976F",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de verano para 'Borneo Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 12 m² para 'Borneo Café' del 1 de abril al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Borneo Café",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084593E",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de verano para 'Café Central Park'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 42 m² para 'Café Central Park' del 1 de abril al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Café Central Park",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084589Z",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano para 'Café-Bar Terrae'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 16 m² para 'Café-Bar Terrae' del 1 de abril al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Café-Bar Terrae",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084588Y",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Puesto de la Parroquia San Juan Bautista para recaudar fondos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia San Juan Bautista a poner un puesto el 17 de mayo cerca de la Avenida de Cartagena para recaudar fondos parroquiales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia San Juan Bautista",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085325X",
+      "lugar": "Avenida de Cartagena",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Festival escolar 'Musiqueando 2025' en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a once colegios de Yecla (a petición del CEIP La Paz) a celebrar 'Musiqueando 2025' el 29 de mayo en el Parque de la Constitución, con hasta 80 dB, y se les presta electricidad, megafonía y micrófonos.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1058077C",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Lista provisional de admitidos en las escuelas infantiles 2025/2026",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la lista provisional de admitidos en las escuelas infantiles municipales (El Parque, Alameda, Campanilla, Pulgarcito y El Perro Loco) para el curso 2025/2026; se puede reclamar del 15 al 19 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063718M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Estudio ambiental para ampliar la extracción de agua para abastecer Yecla",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba el documento ambiental para la evaluación de impacto ambiental simplificada de la ampliación del volumen de agua subterránea captada (acuífero Cingla-Cuchillo) para el abastecimiento urbano, y se envía a la Confederación Hidrográfica del Segura, que lo exigió porque el aumento supera el 1% del recurso disponible (85.500 m³/año).",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "requiere evaluación ambiental"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030406W",
+      "lugar": "Acuífero Cingla-Cuchillo",
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Prácticas de alumnos del IES José Luis Castillo Puche en Deportes",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a cuatro alumnos del ciclo de Técnico Superior en Enseñanza y Animación Sociodeportiva del IES José Luis Castillo Puche a hacer 120 horas de prácticas no remuneradas en el Servicio Municipal de Deportes (12-30 de mayo); se pide colaboración a Podium Gestión Integral, S.L.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita prácticas"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1086190Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la obra de la Casa del Guarda del Monte Arabí",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por Ingeniería Ortín, S.L. para la rehabilitación de la Casa del Guarda como centro de interpretación del Monte Arabí (Plan de Sostenibilidad Turística, fondos Next Generation EU).",
+      "entidades": [
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867239Z",
+      "lugar": "Monte Arabí (Casa del Guarda)",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a un particular la condición de residente en zona azul, con vigencia hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084722J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Conserje extra para ampliar el horario de estudio del Edificio Bioclimático",
+      "categoria": "personal",
+      "resumen": "Para ampliar el horario de las salas de estudio del Edificio Bioclimático en época de exámenes, se cambia durante dos meses el horario del conserje actual y se contrata a otro conserje a tiempo parcial (hasta medianoche de martes a viernes y domingos).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1089560D",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Nombramiento interino de un Auxiliar-Inspector de Obras",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia del anterior, se nombra de la bolsa de empleo un Auxiliar-Inspector de Obras interino (máximo tres años) para no paralizar la inspección urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1089168J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Nombramiento interino de un Auxiliar-Inspector de Servicios Técnicos",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia de la anterior, se nombra de la bolsa de empleo un Auxiliar-Inspector de Servicios Técnicos interino (máximo tres años) para la inspección urbanística y ambiental de actividades.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1089084R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Oferta al SEF para un arquitecto técnico de la Oficina de Rehabilitación Energética",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF candidatos para nombrar un arquitecto técnico interino a tiempo parcial (hasta el 31 de julio de 2026) para la Oficina de Rehabilitación del entorno 'Yecla Centro. Fase I', que gestiona ayudas europeas para rehabilitar viviendas (inversión total 725.023,88 €; 59.900 € para este puesto, financiados por la CARM).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 59900.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078963K",
+      "lugar": "Yecla Centro (ERRP Fase I)",
+      "interes": 2
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Orden de servicio: personal de Servicios Sociales a unas jornadas en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a seis profesionales del Centro Municipal de Servicios Sociales asistir a una jornada de la Consejería de Política Social sobre coordinación sociosanitaria (14 y 15 de mayo) y se pagan sus gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1086838Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Corrección de un error en el pliego de mejoras peatonales de Arco del Niño",
+      "categoria": "contrato",
+      "resumen": "Se corrige un error de suma (los criterios automáticos sumaban 105 puntos y no 100) en la memoria y el pliego del contrato de mejoras peatonales en calle Arco del Niño y calle Hijas de la Caridad (P.O.S. 2024/25) y se publica la licitación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Calle Arco del Niño y calle Hijas de la Caridad",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Bases para adjudicar el bar del III Encuentro Siglo de Oro",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar el contrato menor del servicio de bar durante el III Encuentro de Recreación Histórica Yecla Siglo de Oro 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1089475K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Uso de la sala del Vivero de Empresas para BNI Cúpula Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a BNI Cúpula Yecla a usar los miércoles (14 de mayo a 30 de julio) la sala de reuniones del Vivero de Empresas del Polígono La Herrada para actividades de networking y formación.",
+      "entidades": [
+        {
+          "nombre": "BNI Cúpula Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1088259X",
+      "lugar": "Vivero de Empresas, Polígono Industrial La Herrada",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Chiringuitos en la Cabalgata de Carrozas de San Isidro 2025",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan todos los chiringuitos solicitados para la Cabalgata de Carrozas de San Isidro 2025, tanto en locales particulares como en la vía pública, sin necesidad de sorteo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1059950D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Nueva fecha del I Foro Juvenil 'Construye tu futuro'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se toma conocimiento de que el I Foro Juvenil 'Construye tu futuro', suspendido por alerta amarilla meteorológica, pasa al 22 y 23 de mayo de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1052871X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "III Encuentro de Recreación Histórica Siglo de Oro: programa y presupuesto",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el III Encuentro de Recreación Histórica Siglo de Oro Ciudad de Yecla 2025 en el Parque de la Constitución, con un presupuesto de 16.613,30 euros; la Asociación Yecla Siglo de Oro debe depositar 500 € de fianza para la limpieza y pedir permiso para armas de avancarga y pólvora.",
+      "entidades": [
+        {
+          "nombre": "Asociación Yecla Siglo de Oro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16613.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077140D",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    }
+  ]
+}

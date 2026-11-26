@@ -1,0 +1,855 @@
+{
+  "doc": "2024-01-16_JGL_03",
+  "organo": "JGL",
+  "sesion": 3,
+  "fecha": "2024-01-16",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno da el primer paso para adjudicar los dos grandes contratos de limpieza de edificios municipales (Técnicas y Servicios Integrales de Levante) y de mantenimiento de jardines (Actúa Servicios y Medio Ambiente), de más de un millón de euros cada uno en dos años. Aprueba las Fiestas de San Antón (5.505 €), paga 22.296 € en facturas, contrata una obra de teatro y la web de turismo, y cede gratis el teatro y el auditorio a asociaciones. También resuelve terrazas, tarjetas de zona azul, puestos del mercadillo y licencias de obra.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 9 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda de la CARM para rehabilitar barrios y nota sobre fondos europeos",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de la Consejería de Fomento que concede directamente al Ayuntamiento una ayuda para rehabilitación residencial a nivel de barrio (fondos europeos NextGenerationEU), y de una nota sobre el informe semestral de las subvenciones de transformación digital. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Cooperación Autonómica y Local",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "866957H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Taquilla del espectáculo 'Super Mario. El Gran Tributo'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo en el Teatro Concha Segura (29/12/2023): 2.994 € recaudados y baja de 498 € por entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2994.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de 'Aidalai. Tributo a Mecano' (dos sesiones)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de las dos sesiones del 16/12/2023 en el Teatro Concha Segura: 11.460 € recaudados y baja de 1.080 € por entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11460.0,
+      "importes": [
+        {
+          "concepto": "1ª sesión",
+          "eur": 5830.4,
+          "entidad": null
+        },
+        {
+          "concepto": "2ª sesión",
+          "eur": 5629.6,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de 'Viento del este. Tributo a Mary Poppins'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación del espectáculo del 3/1/2024 en el Teatro Concha Segura: 2.868 € recaudados y baja de 624 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2868.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del Concierto Extraordinario de Fin de Año y Año Nuevo",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación del concierto del 30/12/2023 en el Teatro Concha Segura: 3.358,80 € recaudados y baja de 2.911,20 € por entradas no vendidas (casi la mitad del aforo).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3358.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla de la Fiesta de Año Nuevo en la Feria del Mueble",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la Fiesta de Año Nuevo (1/1/2024) en la Feria del Mueble: 6.000 € recaudados, se vendieron todas las entradas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "853398A",
+      "lugar": "Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para construir una vivienda aislada en el paraje Pinillos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para construir una vivienda unifamiliar aislada en suelo rústico, con condiciones sobre vertidos, aljibes y ahorro de agua; 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801200D (492/2023)",
+      "lugar": "paraje Pinillos",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para reformar cubierta y ventanas de una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para cambiar la cubierta, reformar y sustituir ventanas de una vivienda entre medianeras, con retranqueo de la terraza y carpintería de colores oscuros; fianza de 375 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861031C (808/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para dividir una finca rústica en el paraje Moratillas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a una vecina a dividir una finca de unos 37.000 m² en suelo no urbanizable en dos parcelas: una de 21.006 m² con la vivienda, piscina y otras construcciones (que queda indivisible) y otra de 16.024 m² sin edificar. Un concejal se ausenta por amistad con la interesada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831645N",
+      "lugar": "paraje Moratillas",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se extingue la antigua bolsa de empleo de auxiliares de hogar",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de auxiliares de hogar de 2018, ya que el 9 de enero se aprobó una nueva.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "473859N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se extingue la antigua bolsa de empleo de logopedas",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de logopedas de 2017, sustituida por la nueva aprobada el 9 de enero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868362J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Permiso de lactancia acumulado para un agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local el permiso retribuido del 15 de enero al 1 de febrero en lugar de la reducción diaria por lactancia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868205Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Limpieza de edificios municipales: Técnicas y Servicios Integrales de Levante, primera clasificada",
+      "categoria": "contrato",
+      "resumen": "La mesa de contratación sitúa primera a Técnicas y Servicios Integrales de Levante, S.L. (92,96 puntos) entre cinco ofertas (una excluida) y se le pide la documentación previa a la adjudicación y una garantía de 63.589,40 € (5% del precio de dos años sin IVA, lo que supone un contrato de unos 1,27 millones € en dos años).",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        },
+        {
+          "nombre": "Limpiezas Encarnación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q (C.SE.10/23)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Mantenimiento de jardines: Actúa Servicios y Medio Ambiente, primera clasificada",
+      "categoria": "contrato",
+      "resumen": "La mesa de contratación sitúa primera a Actúa Servicios y Medio Ambiente, S.L. (89,35 puntos) de cinco ofertas para el mantenimiento de jardines y zonas verdes, y se le pide la documentación y una garantía de 66.347,81 € (5% del precio de dos años sin IVA, unos 1,33 millones €).",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T (C.SE.11/23)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza anual del Café-Bar los Pirrikis en calle Trinquete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Café-Bar los Pirrikis, 16 m² todo el año (noviembre 2023 a octubre 2024).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "840464M",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno del Bar Estación en avenida Pablo Picasso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Bar Estación, 10 m² en temporada de invierno.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865760W",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de invierno de la cafetería Quimera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la cafetería Quimera, 40 m² en temporada de invierno.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "856552F",
+      "lugar": "plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Denegado un espejo de tráfico en calles Lepanto y Argentina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un vecino un espejo en el cruce porque, según la Policía Local, hay señal de ceda el paso, chaflán y buena visibilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "865719N",
+      "lugar": "calles Lepanto y Argentina",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegado un espejo para la salida de un garaje en avenida de la Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a varios vecinos un espejo para salir de su garaje: la calle es ancha, hay buena visibilidad y no se ponen espejos públicos para fines particulares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "865719N",
+      "lugar": "avenida de la Paz",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Repintar la prohibición de aparcar en calle Algeciras",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino, se repintará la señal en el suelo de prohibido aparcar, que estaba borrada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "850306F",
+      "lugar": "calle Algeciras",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado mover un contenedor en calle Santiago Ramón y Cajal",
+      "categoria": "medio_ambiente",
+      "resumen": "Se deniega cambiar de sitio un contenedor de basura, pero se pide a la Policía Local que vigile y denuncie el depósito de residuos industriales, que es habitual en ese contenedor.",
+      "entidades": [
+        {
+          "nombre": "Bañón Azorín",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "empresa afectada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "866355X",
+      "lugar": "calle Santiago Ramón y Cajal",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del salón de sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el salón de sesiones de la Casa Consistorial el 8 de junio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841986A",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para ADFY (campaña escolar)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se cede a ADFY el Auditorio Municipal el 4 de abril de 2024 para clausurar su campaña de mentalización escolar, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "uso gratuito"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841246Y",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Teatro Concha Segura gratis para AYAC (concierto góspel benéfico)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se cede a la Asociación de Yecla de Afectados de Cáncer el Teatro Concha Segura el 25 de mayo de 2024 para un coro góspel a su beneficio, con rebaja del 100% del precio (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "uso gratuito"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "863608F",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aula del Edificio Bioclimático para CEFIS (medidas judiciales con menores)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación CEFIS a usar un aula del Edificio Bioclimático los jueves para atender a menores con medidas judiciales.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de Estudio y Formación e Intervención Social (CEFIS)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869403E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para Kapaces",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación Kapaces a usar el aula de cocina cuatro días (diciembre a marzo) para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867995Z",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Aula de cocina para el Centro de Personas Mayores del IMAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Personas Mayores del IMAS a usar el aula de cocina el 1 de febrero para un taller.",
+      "entidades": [
+        {
+          "nombre": "Centro de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867995Z",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa y presupuesto de las Fiestas de San Antón 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de San Antón (14 a 21 de enero) con un gasto de 5.505,50 €: hoguera el 19 junto a la antigua estación, vueltas y bendición de animales el 20 y pasacalles el 21. La Asociación de Amigos de San Antón limpiará los excrementos de los caballos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5505.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865941X",
+      "lugar": "Iglesia de los Dolores (Hospitalico)",
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Denegada tarjeta de residente de zona azul por deudas",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a una vecina la tarjeta de residente de zona azul por no estar al corriente de pago con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "865709Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Denegada tarjeta de residente de zona azul (no es titular del coche)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino la tarjeta porque no es el titular del vehículo. Una concejala se ausenta por parentesco con el interesado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "865729C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Tarjeta de residente de zona azul concedida",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865722R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Tarjeta de residente de zona azul concedida",
+      "categoria": "fiscal",
+      "resumen": "Se concede a otra vecina la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865726Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Baja de un puesto del mercadillo de los miércoles y anulación de recibos desde 2020",
+      "categoria": "fiscal",
+      "resumen": "Se da de baja a una vendedora del puesto 23, que no lo montaba desde 2020, y se anulan los recibos de la tasa desde julio de 2020, porque la norma del mercadillo podía hacer pensar que la baja era automática.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740037E",
+      "lugar": "mercadillo de los miércoles junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Traspaso de un puesto del mercadillo entre esposos y anulación de recibos",
+      "categoria": "fiscal",
+      "resumen": "Se autoriza con efecto desde junio de 2020 el traspaso del puesto 65 (textil) de un vendedor a su esposa, que lo venía montando; ella deja el puesto 45 y se le anulan sus recibos desde esa fecha. La solicitud de 2020 no se tramitó por error durante la pandemia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "415152A",
+      "lugar": "mercadillo de los miércoles junto al Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de facturas: agua no potable, curso de artes plásticas y comedor de la escuela infantil",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueban tres facturas por un total de 22.295,91 €.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE El Parque Zero Suite-AMG",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22295.91,
+      "importes": [
+        {
+          "concepto": "Consumo de agua no potable (fra. 42, 29/12/2023)",
+          "eur": 9883.17,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Curso de artes plásticas y oficios artísticos, diciembre 2023",
+          "eur": 6295.73,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Cocina y comedor de la Escuela Infantil El Parque",
+          "eur": 6117.01,
+          "entidad": "UTE El Parque Zero Suite-AMG"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 607446A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Licencia para construir una vivienda y garaje en calle San Antonio",
+      "categoria": "licencia_obra",
+      "resumen": "Asunto urgente: se concede a un vecino licencia (con proyecto básico) para una vivienda unifamiliar con garaje entre medianeras; necesitará autorización de inicio con el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829653X (290/2023)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Contratación temporal de una técnica de educación infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de educación infantil a tiempo parcial (30 h/semana) para sustituir a una trabajadora de baja en el aula de bebés de la Escuela Infantil El Parque.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869623K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Anticipo de nómina de 3.000 € a un agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local un anticipo de 3.000 € de su sueldo, que devolverá según el reglamento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870511T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Calendario laboral 2024 de las brigadas de obras y servicios",
+      "categoria": "personal",
+      "resumen": "Se aprueba el calendario y jornada de 2024 del personal de la Brigada de Obras y Parque Móvil y de la Brigada de Servicios Públicos, propuesto por el comité de personal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "866392Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Contrato menor con Pentación para la obra 'La ilusión conyugal'",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Pentación, S.A. por 9.196 € (IVA incluido) para representar la obra teatral 'La ilusión conyugal' el 27 de enero en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9196.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868536A",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Contrato menor con Yeclaweb para la web y redes sociales de Turismo",
+      "categoria": "contrato",
+      "resumen": "Se contrata a Yeclaweb, S.L. por 6.214,56 € (IVA incluido) el mantenimiento de la web y las redes sociales de Turismo Yecla.",
+      "entidades": [
+        {
+          "nombre": "Yeclaweb, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6214.56,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868952D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Uso del CEIP Alfonso X para entrenamientos de liga escolar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a usar las instalaciones del colegio Alfonso X los sábados del curso 2023/24 para entrenamientos de la liga escolar Albatros, haciéndose cargo de limpieza y gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "870489N",
+      "lugar": "CEIP Alfonso X",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Triangular Nacional de Fútbol Sala solidario de la A.D. Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la A.D. Albatros Yecla a organizar el 24 de enero un triangular benéfico con Jimbee Cartagena y Alzira F.S. en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación (valorado en 160 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza; uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 160.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869565E",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Sin alegaciones a la ocupación de la vía pecuaria Cordel de la Flor por I-DE (Iberdrola)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El Ayuntamiento no se opone a que la CARM renueve a I-DE Redes Eléctricas Inteligentes la ocupación temporal de la vía pecuaria Cordel de la Flor, pero envía un informe de la arquitecta municipal para tenerlo en cuenta en el deslinde de la vía.",
+      "entidades": [
+        {
+          "nombre": "I-DE Redes Eléctricas Inteligentes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide autorización"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867525X",
+      "lugar": "vía pecuaria Cordel de la Flor",
+      "interes": 2
+    }
+  ]
+}

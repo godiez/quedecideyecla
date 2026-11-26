@@ -1,0 +1,836 @@
+{
+  "doc": "2023-10-17_JGL_44",
+  "organo": "JGL",
+  "sesion": 44,
+  "fecha": "2023-10-17",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La obra del Mercado Central se encarece 295.606 euros (pasa de 2,05 a 2,37 millones) por errores del proyecto, y se paga casi 100.000 euros por el estudio de carriles bici. Se aprueban el presupuesto de las Fiestas de la Virgen (48.672 €), la programación del Teatro Concha Segura, la lista de comercios con bonos Yeclanea y nuevos precios de teleasistencia, gratis para mayores de 80 años. Siete trabajadores temporales pasan a fijos por el proceso de estabilización y se conceden cinco licencias de vivienda y obras.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 10 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: justificación de ayudas de empleo, pago del POS y control ambiental",
+      "categoria": "informacion",
+      "resumen": "Se informa de la resolución del SEF que da por justificada la subvención de Agentes de Empleo y Desarrollo Local, de la orden regional de pago del Plan de Obras y Servicios 2022-2023 y de un informe técnico municipal sobre control e inspección ambiental de actividades en el término municipal.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Consejería de Presidencia, Portavocía y Acción Exterior (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "832200J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: carriles bici, residuos, limpieza, zonas verdes y Centro de Día",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban siete pagos: el estudio de carriles bici y zonas de acceso restringido (fase II), el tratamiento de basura de agosto, la limpieza de edificios y de zonas verdes, las plazas del Centro de Día, el autobús urbano de septiembre y el proyecto y dirección de obra del yacimiento Yakka.",
+      "entidades": [
+        {
+          "nombre": "Pmus & Civil, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 352399.42,
+      "importes": [
+        {
+          "concepto": "Centro de Día, plazas de dependientes, septiembre 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Subvención del servicio de autobuses urbanos, septiembre 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, septiembre 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, agosto 2023",
+          "eur": 74579.81,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Redacción de proyecto y dirección de obra: acondicionamiento y puesta en valor del yacimiento Yakka",
+          "eur": 10918.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, agosto 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Asistencia técnica fase II: proyectos de carriles bici y APR",
+          "eur": 99764.5,
+          "entidad": "Pmus & Civil, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A, 551537Z, 118095X, 584325N, 732139K, 538849C, 640397Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda de La Cañadilla",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 90% del impuesto de obras de una instalación fotovoltaica de autoconsumo en una vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794357Z",
+      "lugar": "paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Aplazada la rebaja del IBI por placas solares de la misma vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se deja sobre la mesa, para mejor estudio, la bonificación del IBI por la misma instalación solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "831636A",
+      "lugar": "paraje La Cañadilla",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 90% del impuesto de obras de una instalación fotovoltaica de autoconsumo en una vivienda del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "803609Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegada rebaja del IBI por placas solares: inversión menor de 6.000 €",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación del 50% del IBI pedida (a través de una comercializadora eléctrica) para una vivienda en el paraje La Decarada, porque la instalación declarada (4.620,51 € de ejecución material) no llega a la inversión mínima de 6.000 €.",
+      "entidades": [
+        {
+          "nombre": "Lidera Comercializadora Enerva, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "787532W",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Nuevos precios de la teleasistencia a domicilio; gratis para mayores de 80",
+      "categoria": "fiscal",
+      "resumen": "Se actualizan los precios públicos de la teleasistencia por el nuevo contrato y la ley regional de servicios sociales: gratis con renta por debajo del IPREM y para mayores de 80 años; entre 3,54 y 8,86 € al mes con renta de una a dos veces el IPREM y entre 4,83 y 12,10 € por encima.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799332J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en el paraje Las Cabezuelas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una vivienda aislada con fosa séptica estanca; si vierte al terreno necesitará permiso de la Confederación Hidrográfica. Plazos: 6 meses para empezar y 24 para terminar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620926Y",
+      "lugar": "paraje Las Cabezuelas",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una marquesina junto a una nave en el paraje Casa del Cura",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una marquesina adosada a una nave existente, con 6 meses para empezar y 12 para terminar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628139Q",
+      "lugar": "paraje Casa del Cura",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Modificación de licencia: edificio de dos viviendas, local y garajes en calle Trinquete",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza modificar el proyecto básico de un edificio de dos viviendas, trasteros y garajes, que ahora incluye local comercial y entresuelo. Fianza de urbanización de 1.250 €; hará falta proyecto de ejecución para empezar las obras.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "646189K",
+      "lugar": "calle Trinquete",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para cambio de uso y ampliación de una vivienda en el paraje La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia, sobre proyecto básico, para cambiar de uso y ampliar una vivienda unifamiliar aislada, con fosa séptica y permiso de vertido para la primera ocupación.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "807056M",
+      "lugar": "paraje La Pujola",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Plazas fijas de Agente de Empleo y Desarrollo Local por estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a las dos personas con mayor puntuación en el concurso de méritos para 2 plazas de Agente de Empleo y Desarrollo Local, dentro del proceso extraordinario para reducir la temporalidad (Ley 20/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788137K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Plaza fija de Ordenanza-Telefonista por estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a la persona con mayor puntuación en el concurso de méritos para 1 plaza de Ordenanza-Telefonista, dentro del proceso extraordinario para reducir la temporalidad (Ley 20/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789468J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Plaza fija de Auxiliar de Biblioteca por estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a la persona con mayor puntuación en el concurso de méritos para 1 plaza de Auxiliar de Biblioteca, dentro del proceso extraordinario para reducir la temporalidad (Ley 20/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789869Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Plaza fija de Conductor-Operario por estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a la persona con mayor puntuación en el concurso de méritos para 1 plaza de Conductor-Operario, dentro del proceso extraordinario para reducir la temporalidad (Ley 20/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "790623N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Plazas fijas de Peón-Operario por estabilización de empleo temporal",
+      "categoria": "personal",
+      "resumen": "Se contrata como personal laboral fijo a las dos personas con mayor puntuación en el concurso de méritos para 2 plazas de Peón-Operario, dentro del proceso extraordinario para reducir la temporalidad (Ley 20/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "791107K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Renuncia a una beca del Museo Arqueológico; pasa al siguiente de la lista",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de un becario a su beca de formación en el Museo Arqueológico Municipal y se concede al siguiente de la lista de espera, hasta el 31 de diciembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832165K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Un informático municipal irá a una jornada de ciberseguridad en Alicante",
+      "categoria": "personal",
+      "resumen": "Se ordena a un analista programador municipal asistir el 24 de octubre en Alicante a una jornada sobre acceso seguro a la red y Esquema Nacional de Seguridad, pagando el Ayuntamiento el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830902F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Dos trabajadoras de Servicios Sociales irán a una convención sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Se autoriza a dos empleadas de Servicios Sociales (del CAVI y de inserción laboral) a asistir en Murcia a la convención 'Mujer, Discapacidad y Violencia de Género' los días 30 y 31 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829221X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Programa de nóminas: contrato menor de 8.071,83 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Soluciones Avanzadas en Informática Aplicada, S.L. el servicio de la aplicación de nóminas 'Gimpix Cloud Savia' por 8.071,83 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Soluciones Avanzadas en Informática Aplicada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8071.83,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830018D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Licencias antivirus Watchguard EDR/XDR: contrato menor de 6.370,65 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Tecon Soluciones Informáticas, S.L. el suministro de licencias de seguridad informática Watchguard EDR/XDR por 6.370,65 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6370.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822881Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto de AFEMY en el Parque de la Constitución por el Día de la Salud Mental",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEMY a poner un puesto el 18 de octubre en el Parque de la Constitución para una campaña benéfica con adornos navideños, con carpa, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "827990M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Jornada de detección precoz de la diabetes en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Diabéticos del Altiplano a poner un puesto el 22 de noviembre en el Parque de la Constitución para detectar diabetes, con carpa, mesas, sillas y papeleras municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "825746W",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Presupuesto de las Fiestas de la Virgen 2023: 48.672,25 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el presupuesto de gastos de las Fiestas Patronales de la Virgen de 2023, de 48.672,25 €, IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 48672.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "828453E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista de comercios beneficiarios de los bonos 'Yeclanea 2023'",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la relación de comercios minoristas (autónomos, micro y pequeñas empresas) que recibirán subvención en forma de bonos de descuento para sus productos, dentro del programa Yeclanea 2023 financiado por la Consejería de Empresa; se deniega a otros solicitantes. El acta no detalla nombres ni importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Economía Social y Autónomos (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad; se ausenta un concejal por interés personal",
+      "expediente": "748069K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "VII Encuentro Coral 'Ciudad de Yecla' en la iglesia de San Francisco: 2.867,70 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el VII Encuentro Coral del 21 de octubre en la iglesia de San Francisco, con un presupuesto de 2.867,70 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2867.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "830811E",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Marcha senderista Carche-Arabí del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya la 32ª Marcha Carche-Arabí del 21 de octubre (45 km, de la plaza de Raspay al Monte Arabí), condicionada al permiso de Medio Natural de la CARM por pasar por espacios protegidos, avisar a SEPRONA y cotos de caza y no dejar residuos.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "828283T",
+      "lugar": "Sierra del Carche - Raspay - Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Licencia para vivienda con garaje y piscina en zona inundable del paraje La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia, sobre proyecto básico, para una vivienda aislada con garaje y piscina en suelo inundable: el garaje irá al menos 80 cm sobre el terreno, se dejará paso al agua bajo las edificaciones y el promotor declarará ante la CHS que asume el riesgo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761029K",
+      "lugar": "paraje La Pujola",
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Una ordenanza del Ayuntamiento cubrirá temporalmente Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Por la baja de la ordenanza-telefonista del Centro de Servicios Sociales, una de las tres de la Casa Consistorial irá allí hasta el 31 de octubre, mientras termina la selección de un sustituto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832777K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Sustitución de una técnica de Educación Infantil de baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de Educación Infantil a tiempo parcial (22,5 horas semanales) para cubrir una baja en las escuelas infantiles El Perro Loco y El Parque.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "832443X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Reparación de cubiertas y ventanas de almacenes municipales: 47.774,93 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria valorada (48.000 €) y se adjudica por contrato menor a Construcciones y Promociones Molina Yago 2000, S.L. la reparación de cubiertas y cambio de carpintería exterior de los almacenes municipales por 47.774,93 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47774.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794947T",
+      "lugar": "almacenes municipales",
+      "interes": 3
+    },
+    {
+      "ref": "12.5",
+      "titulo": "AFEDECO organizará los actos del 25N por 6.997,55 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a AFEDECO las actividades del 25 de noviembre, Día Internacional contra la violencia hacia la mujer, por 6.997,55 €, IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO (Asociación de Formación y Desarrollo Comunitario)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6997.55,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788791T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.6",
+      "titulo": "La obra del Mercado Central sube casi 300.000 € por errores del proyecto",
+      "categoria": "contrato",
+      "resumen": "Se aprueba técnicamente el proyecto modificado de la remodelación del Mercado Central para corregir errores y omisiones del proyecto original. El contrato con Guerola Transer pasa de 2.052.717,80 € a 2.369.674,30 € (295.606,46 € más, IVA incluido). Se da 3 días a la constructora y a la redactora del proyecto para alegar.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Ecotecno Consultores Técnicos, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redactora del proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 295606.46,
+      "importes": [
+        {
+          "concepto": "Precio de adjudicación inicial",
+          "eur": 2052717.8,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Nuevo precio con el modificado y excesos",
+          "eur": 2369674.3,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Aumento",
+          "eur": 295606.46,
+          "entidad": "Guerola Transer, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Mercadillo solidario de AFEDECO en la plaza 8 de Marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEDECO un mercadillo solidario los días 18 y 20 de octubre en la plaza 8 de Marzo a beneficio de un proyecto para niños en exclusión social.",
+      "entidades": [
+        {
+          "nombre": "AFEDECO (Asociación de Formación y Desarrollo Comunitario)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831196P",
+      "lugar": "plaza 8 de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Puesto de AYAC por el Día del Cáncer de Mama",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto el 18 de octubre en el Parque de la Constitución, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829147T",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Ayudas extraordinarias para libros y material escolar 2023",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas de Servicios Sociales para libros y material escolar a los menores que figuran en el informe; el acta no detalla beneficiarios ni importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801756A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Programación del Teatro Concha Segura de octubre a diciembre: 36.603 € en cachés",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban ocho espectáculos (Don Juan Tenorio, Gran Circo Acrobático de China, concierto de Santa Cecilia de la AAMY, tributos a Mecano y Mary Poppins, burbujas, musical de Super Mario y concierto de Fin de Año), sus cachés y entradas de 6 a 12 €. El concierto de Fin de Año no lleva caché en el acta.",
+      "entidades": [
+        {
+          "nombre": "Asociación Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36603.0,
+      "importes": [
+        {
+          "concepto": "Don Juan Tenorio",
+          "eur": 2000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Gran Circo Acrobático de China",
+          "eur": 12705.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto de Santa Cecilia",
+          "eur": 3000.0,
+          "entidad": "Asociación Amigos de la Música de Yecla (AAMY)"
+        },
+        {
+          "concepto": "Aidalai, tributo a Mecano",
+          "eur": 6655.0,
+          "entidad": null
+        },
+        {
+          "concepto": "White Dreams, espectáculo de burbujas",
+          "eur": 2178.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Musical Super Mario Bros",
+          "eur": 7865.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Viento de este, tributo a Mary Poppins",
+          "eur": 2200.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Informes, ruegos y preguntas: no se presentan",
+      "categoria": "organizacion",
+      "resumen": "No hay informes, ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

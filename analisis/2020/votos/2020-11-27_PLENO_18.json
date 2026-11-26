@@ -1,0 +1,74 @@
+{
+  "doc": "2020-11-27_PLENO_18",
+  "asistentes": {
+    "PP": 11,
+    "PSOE": 4,
+    "Cs": 1,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria y urgente. Se justifican tres ausencias: una del PP, una del PSOE y una de Cs (18 presentes). En el punto 2 (cambio del festivo local del 9 al 14 de diciembre) el acta da 14 a favor (PP, IU-Verdes y Cs) y 4 en contra (PSOE): cuadra con 11+2+1 y 4.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 4,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno acuerda por unanimidad ratificar la urgencia de la convocatoria."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 4,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por catorce votos a favor (Grupos M. Popular, Izquierda Unida-Verdes y Ciudadanos) y cuatro en contra (Grupo M. Socialista), adopta los siguientes acuerdos: 1. Proponer como festivo local de la ciudad de Yecla en el año 2020 el día 14 de diciembre"
+    }
+  ]
+}

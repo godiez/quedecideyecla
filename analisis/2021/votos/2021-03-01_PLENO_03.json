@@ -1,0 +1,539 @@
+{
+  "doc": "2021-03-01_PLENO_03",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 5,
+    "Cs": 2,
+    "IU-Verdes": 2
+  },
+  "notas": "Asisten los 21 concejales (las votaciones divididas suman 21). En el punto 13 se aprueba la enmienda alternativa total del PP y, según el art. 10.6 del ROM, no se votan la propuesta de Cs ni la enmienda de adición del PSOE: esa enmienda es la votación que decide el punto (final: true). Punto 14 (cuestiones urgentes): no se presentan.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "acta de la sesión correspondiente al día 1 de febrero de 2021, es aprobada por unanimidad."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 2,
+      "punto_ref": "3",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 3,
+      "punto_ref": "4",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad el siguiente acuerdo"
+    },
+    {
+      "punto_idx": 4,
+      "punto_ref": "5",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad el siguiente acuerdo"
+    },
+    {
+      "punto_idx": 5,
+      "punto_ref": "6",
+      "que": "enmienda de PSOE",
+      "final": false,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 12,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "la enmienda del Grupo M. Socialista, resultando rechazada la misma por catorce votos en contra (Grupos M. Popular y Ciudadanos) y siete votos a favor (Grupos M. Socialista e Izquierda Unida-Verdes)."
+    },
+    {
+      "punto_idx": 5,
+      "punto_ref": "6",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "resultando aprobada por dieciséis votos a favor (Grupos M. Popular, Izquierda Unida-Verdes y Ciudadanos) y cinco abstenciones (Grupo M. Socialista)."
+    },
+    {
+      "punto_idx": 6,
+      "punto_ref": "7",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento adopta por unanimidad (lo que supone el voto favorable de la mayoría absoluta del número legal de miembros de la Corporación), el siguiente acuerdo"
+    },
+    {
+      "punto_idx": 7,
+      "punto_ref": "8",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 8,
+      "punto_ref": "9",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento acuerda por unanimidad conceder [...] el título honorífico de Cronista Oficial de la Ciudad de Yecla."
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "enmienda de PSOE (sustitución)",
+      "final": false,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 12,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "Enmienda de sustitución del Grupo M. Socialista: Se rechaza por doce votos en contra (Grupo M. Popular) y nueve a favor (Grupos M. Socialista, Izquierda Unida-Verdes y Ciudadanos)."
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "enmienda de PSOE (adición)",
+      "final": false,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 12,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "Enmienda de adición del Grupo M. Socialista: Se rechaza por doce votos en contra (Grupo M. Popular) y nueve a favor (Grupos M. Socialista, Izquierda Unida-Verdes y Ciudadanos)."
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "enmienda de Cs (adición y sustitución)",
+      "final": false,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 12,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "Enmienda de adición y sustitución del Grupo M. Ciudadanos: Se rechaza por doce votos en contra (Grupo M. Popular) y nueve a favor (Grupos M. Socialista, Izquierda Unida-Verdes y Ciudadanos)."
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "moción",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 5,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "resultando aprobada por doce votos a favor (Grupo M. Popular) y nueve en contra (Grupos M. Socialista, Izquierda Unida-Verdes y Ciudadanos)."
+    },
+    {
+      "punto_idx": 10,
+      "punto_ref": "11",
+      "que": "moción",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 12,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "El Pleno del Ayuntamiento por doce votos en contra (Grupo M. Popular) y nueve a favor (Grupos M. Socialista, Izquierda Unida-Verdes y Ciudadanos) rechaza la propuesta del Grupo M. Socialista"
+    },
+    {
+      "punto_idx": 11,
+      "punto_ref": "12",
+      "que": "moción",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento aprueba por unanimidad la propuesta del Grupo M. Izquierda Unida-Verdes más arriba transcrita, “en defensa de la Atención Temprana”."
+    },
+    {
+      "punto_idx": 12,
+      "punto_ref": "13",
+      "que": "enmienda de PP (alternativa total)",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 5
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Enmienda Alternativa total presentada por el Grupo M. Popular, resultando aprobada por doce votos a favor (Grupo M. Popular), cuatro votos en contra (Grupos M. Izquierda Unida-Verdes y Ciudadanos) y cinco abstenciones (Grupo M. Socialista)."
+    }
+  ]
+}

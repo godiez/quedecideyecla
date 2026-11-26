@@ -1,0 +1,74 @@
+{
+  "doc": "2022-11-11_PLENO_16",
+  "asistentes": {
+    "PP": 11,
+    "PSOE": 5,
+    "Cs": 1,
+    "IU-Verdes": 2
+  },
+  "notas": "Ausencias justificadas de 1 concejal del PP y 1 concejala de Cs. 19 presentes.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Se ratifica por unanimidad."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 11,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 5,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 1
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por dieciséis votos a favor (Grupos M. Popular y Socialista) y tres abstenciones (Grupos M. Izquierda Unida-Verdes y Ciudadanos) adopta los siguientes acuerdos"
+    }
+  ]
+}

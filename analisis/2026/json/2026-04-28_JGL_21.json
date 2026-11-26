@@ -1,0 +1,812 @@
+{
+  "doc": "2026-04-28_JGL_21",
+  "organo": "JGL",
+  "sesion": 21,
+  "fecha": "2026-04-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta pagó facturas por unos 278.000 € (centro de día, actividades deportivas, implantación informática) y certificaciones de obra de los Baños Árabes de Los Torrejones y de la Iglesia de la Asunción (unos 184.000 €). Autorizó el inicio de obras de un edificio de 36 viviendas, adjudicó el parcheo de caminos rurales y el festejo taurino de San Isidro, y aprobó criterios para ampliar vados. También aprobó la lista provisional de admitidos en las escuelas infantiles.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 21 de abril de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones recibidas: horario de locales, subvenciones de empleo y vertido de la EDAR",
+      "categoria": "informacion",
+      "resumen": "Se informa de la prórroga del horario de cierre de locales y fiestas, liquidaciones y reintegros de subvenciones del SEF (cursos de tapizado e inteligencia artificial, programa de fomento del empleo) y de la renovación de la autorización de vertido de la depuradora.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emisor"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emisor"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emisor"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1274765H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: centro de día, deportes, informática y otras",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba el pago de 9 facturas: centro de día de mayores, actividades deportivas y socorrismo (3 meses), primera fase de un proyecto informático, obras de accesibilidad, materiales, un espectáculo teatral y la plataforma de administración electrónica.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Enetic Proyectos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Navarro y Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Arenas del Valle, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Azul Producciones Escénicas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 278016.29,
+      "importes": [
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, marzo 2026",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, diciembre 2025",
+          "eur": 23916.44,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, enero 2026",
+          "eur": 28833.22,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, febrero 2026",
+          "eur": 30996.32,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Fase 1 (60%) suministro hardware y software del proyecto",
+          "eur": 92928.0,
+          "entidad": "Enetic Proyectos, S.L."
+        },
+        {
+          "concepto": "Mejoras de accesibilidad y vados peatonales C/ Historiador Miguel Ortuño - C/ Antonio Machado",
+          "eur": 21638.43,
+          "entidad": "Construcciones Navarro y Palao, S.L."
+        },
+        {
+          "concepto": "Materiales de construcción aparcamiento C/ España, enero-febrero 2026",
+          "eur": 7969.79,
+          "entidad": "Arenas del Valle, S.L."
+        },
+        {
+          "concepto": "Caché espectáculo 'Los Lunes al Sol', Teatro Concha Segura",
+          "eur": 8349.0,
+          "entidad": "Azul Producciones Escénicas, S.L."
+        },
+        {
+          "concepto": "Uso plataforma Sedipualba 2026",
+          "eur": 19211.09,
+          "entidad": "Diputación Provincial de Albacete"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P, 941685X, 1093145H, 1146205C, 1248777N, 1263460F, 1272105N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2.1",
+      "titulo": "Certificación nº 5 de obra de los Baños Árabes de Los Torrejones",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 5 de las obras del Plan Director del yacimiento de Los Torrejones (Fase I, Baños Árabes).",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 93878.16,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "3.2.2",
+      "titulo": "Certificación nº 7 de la rehabilitación de la Iglesia de la Asunción",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 7 de la rehabilitación de la Iglesia de la Asunción como centro de visitantes, obra del Plan de Sostenibilidad Turística financiado por el ITREM y fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 90181.25,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1093901H",
+      "lugar": "Iglesia de la Asunción",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Liquidación de taquilla de la obra 'Los Lunes al Sol'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de ingresos de taquilla (1.439 € vendidos de 9.492 € puestos a la venta) y la baja de las entradas no vendidas del Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1439.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Autorización de inicio de obras de un edificio de 36 viviendas con garaje",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de un edificio de 36 viviendas y sótanos de garaje, con una fianza de 66.393,63 € para garantizar la urbanización y 24 meses de plazo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 66393.63,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119134D",
+      "lugar": "Calles Generación del 98, Clara Campoamor y de nueva apertura",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Inicio de obras de un edificio de aparcamiento en calle Corredera",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una comunidad de bienes el inicio de obras de un edificio de aparcamiento entre medianeras, con fianza de urbanización de 1.110 €.",
+      "entidades": [
+        {
+          "nombre": "MOD, C.B.",
+          "cif": null,
+          "tipo": "comunidad_bienes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1110.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060661Q",
+      "lugar": "Calle Corredera y calle Forte",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Rectificación de licencia de segregación de finca rústica en Paraje Lentiscar",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rectifica la licencia de segregación de una finca de suelo no urbanizable en 6 parcelas y un camino privado, por un ajuste con un camino público; se advierte que la finca es inundable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1013512F",
+      "lugar": "Paraje Lentiscar (polígonos 111 y 113)",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Se deniega aceptar la afección registral como garantía en el sector SUPR-6 Los Rosales",
+      "categoria": "reclamaciones",
+      "resumen": "Se rechaza que dos propietarios usen la afección registral de sus fincas como garantía para suspender el cobro forzoso de cuotas de urbanización de Los Rosales; deberán aportar depósito, aval o fianza (uno ya depositó 23.670,38 €).",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 Los Rosales",
+          "cif": null,
+          "tipo": "entidad_urbanistica",
+          "rol": "interesada"
+        },
+        {
+          "nombre": "Agencia Tributaria de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recauda"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1238402D",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación temporal de una técnica de educación infantil",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un/a técnico/a de educación infantil para cubrir dos semanas de permiso por nacimiento en la Escuela Infantil El Parque.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1262501Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nombramiento interino de un auxiliar administrativo en Secretaría",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un/a auxiliar administrativo interino/a para la plaza vacante de Secretaría, hasta un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268070J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Excedencia por cuidado de hijo al mecánico municipal",
+      "categoria": "personal",
+      "resumen": "Se concede al mecánico municipal excedencia voluntaria por cuidado de hijo menor de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1272710D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Orden de servicio a una psicóloga de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se ordena la asistencia de la psicóloga de Servicios Sociales a una reunión de coordinación en Santomera, pagando el desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268712A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Parcheo de caminos rurales adjudicado a Mediterráneo de Obras y Asfaltos",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para reparar baches en los caminos de las Artesillas, Sax, los Quiñones, los Cerrillares y el Madroño.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34848.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1269364F",
+      "lugar": "Caminos rurales del término municipal",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Festejo taurino de San Isidro 2026 adjudicado a Explotaciones Deyfu",
+      "categoria": "contrato",
+      "resumen": "Contrato menor para el festejo taurino en la Plaza de Toros con motivo de las fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Explotaciones Deyfu, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14990.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1271392Y",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Compra de maquinaria agrícola a Talleres Garcerán Chirlaque",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de suministro de maquinaria agrícola para la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "Talleres Garcerán Chirlaque, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6776.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266677Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de la cafetería Arena Club",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 60 m² para la cafetería 'Arena Club' en temporada de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Arena Club",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1248335Z",
+      "lugar": "Plaza Concejala María del Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto informativo de la Asociación de Fibromialgia en el mercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto en el mercado de la Plaza Mayor el 6 de mayo por el Día de la Fibromialgia, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1273744P",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Criterios para ampliar vados y contravados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban criterios objetivos de la Policía Local para conceder ampliaciones de vados (puertas estrechas, garajes de más de 20 plazas, carga y descarga de comercios, etc.).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1236755Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del colegio Alfonso X El Sabio para escuela de verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar el colegio en julio para una escuela de verano organizada por una empresa educativa.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del C.E.I.P. Alfonso X El Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1271293K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a particulares el uso del Salón de Sesiones del Ayuntamiento para un matrimonio civil en abril de 2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268074P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Sala del Edificio Bioclimático para taller del Círculo Fotográfico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de salas para un taller de fotografía de fauna el 9 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación Círculo Fotográfico de Yecla (CLYC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1270752J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sala del Edificio Bioclimático para curso de fitosanitarios de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de una sala para un curso básico de carnet de fitosanitarios en junio.",
+      "entidades": [
+        {
+          "nombre": "COAG-Iniciativa Rural de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1272928F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de actos del Centro de Desarrollo Local para la Federación de Peñas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos para la asamblea general de la Federación de Peñas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1270887X",
+      "lugar": "Centro de Desarrollo Local, Pol. Ind. Urbayecla II",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Aula de la Naturaleza Coto Salinas para el Círculo Fotográfico Clic-Clac",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza los días 27 y 28 de junio para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Asociación Círculo Fotográfico Clic-Clac Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223659C",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Cambio de fecha de visita de ARY al Aula de la Naturaleza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se traslada al 24 de mayo la visita de la asociación ARY al Coto Salinas por previsión de lluvia.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de problemas con el Alcohol, las Drogas y otras Conductas Adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1230386W",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista provisional de admitidos en las escuelas infantiles 2026/2027",
+      "categoria": "otros",
+      "resumen": "Se aprueba la lista provisional de admitidos en las 5 escuelas infantiles municipales; reclamaciones del 30 de abril al 6 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1221125H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Baja de un puesto del Mercado Central",
+      "categoria": "patrimonio",
+      "resumen": "Se da de baja a un vendedor en su puesto del Mercado Central (provisionalmente en el mercadillo) y se le devuelve la fianza; pierde la preferencia tras la remodelación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 49.76,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1270751H",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Curso de documentoscopia para un agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente a asistir a un curso de la EFIAP sobre falsedad documental.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública (EFIAP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1272056W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Curso de documentoscopia para otro agente de Policía Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a otro agente a asistir al mismo curso de la EFIAP.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275179H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Se deniega el curso a un tercer agente",
+      "categoria": "personal",
+      "resumen": "Se deniega la asistencia al curso a un agente por no haber cambiado turnos y afectar a los servicios mínimos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1274949N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Colaboración con la 3ª Jornada Sub14 de atletismo",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la Federación regional la jornada del 3 de mayo, con gastos municipales de 375,10 € y uso gratuito de la pista valorado en 425,50 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 800.6,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 375.1,
+          "entidad": "Club de Atletismo Yeclano"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones",
+          "eur": 425.5,
+          "entidad": "Club de Atletismo Yeclano"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208940J",
+      "lugar": "Pista de Atletismo del Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Misión popular de la Parroquia de la Purísima en Plaza España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la parroquia a celebrar una misión popular en la Plaza España los días 3 y 17 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima Concepción de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275210A",
+      "lugar": "Plaza España",
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "organizacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

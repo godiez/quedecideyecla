@@ -1,0 +1,1107 @@
+{
+  "doc": "2024-10-15_JGL_50",
+  "organo": "JGL",
+  "sesion": 50,
+  "fecha": "2024-10-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno advierte a la constructora de la Casa de los Arcos (Urgacén Viena 25, S.L.) de que impondrá penalizaciones: tras dos meses de obra solo lleva el 5% y peligran los fondos europeos. Aprueba los recibos del agua (358.767 euros) y de la basura (374.353 euros) del trimestre, paga 88.262 euros en facturas y aprueba 53.373 euros para las Fiestas de la Virgen. Convoca ayudas para AMPAS (17.000 euros) y asociaciones juveniles (4.000 euros), contrata el programa de nóminas por 63.223 euros y cambia la apertura comercial del 8 de diciembre al 24 de noviembre. También aprueba la Marcha Carche-Arabí, las Gachasmigas populares y numerosas cesiones de salas y nombramientos de personal.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 8 y 10 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 43.000 € de la CARM para el comercio y nuevo secretario accidental",
+      "categoria": "informacion",
+      "resumen": "Se informa de la respuesta de Protección Civil a la petición del Pleno de ayudas al sector agrario; de una auditoría regional de accesibilidad en las oficinas de registro; de una subvención directa de 43.000 euros de la Comunidad Autónoma para promoción del comercio, mercados y zonas comerciales del casco histórico; y del nombramiento de un funcionario municipal como secretario accidental desde el 1 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Protección Civil y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "responde a acuerdo plenario"
+        },
+        {
+          "nombre": "Consejería de Economía, Hacienda, Fondos Europeos y Transformación Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "realiza auditoría"
+        },
+        {
+          "nombre": "Dirección General de Impulso al Comercio, Innovación Empresarial e Industrias y Oficios Artesanales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "nombra secretario accidental"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 43000.0,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "982541Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: agua de Pinoso e instalaciones deportivas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el suministro de agua de septiembre a la S.A.T. Aguas de Pinoso y la mensualidad de septiembre del mantenimiento, limpieza y atención de las instalaciones deportivas a Véctoris.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vectoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 88261.59,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura de 30/09/2024",
+          "eur": 12566.07,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, septiembre 2024",
+          "eur": 75695.52,
+          "entidad": "Vectoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 509033Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recibos del agua (3er trimestre) y de la basura (4º trimestre)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas de cobro que gestiona FCC Aqualia: agua potable del tercer trimestre por 358.767,09 euros, canon de saneamiento para la Comunidad Autónoma de 243.013,55 euros y tasa de basura del cuarto trimestre por 374.353,40 euros. Se anulan recibos antiguos de basura por 45,50 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria que recauda"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 733120.49,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable, 3er trimestre 2024",
+          "eur": 358767.09,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar por cuenta de la CARM (no suma al total)",
+          "eur": 243013.55,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de recogida de basura, 4º trimestre 2024",
+          "eur": 374353.4,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Recibos de basura de 2024 anulados",
+          "eur": 45.5,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "990722D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto de Jazz Yecla del 1 de octubre: 1.752 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de un concierto del festival Jazz Yecla 2024 en el Teatro Concha Segura: 1.752 euros vendidos y 1.866 euros en entradas sin vender que se dan de baja.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1752.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla del concierto 'Slide' de Jazz Yecla: 2.880 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas del concierto 'Slide' (2 de octubre): 2.880 euros vendidos y 738 euros sin vender.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2880.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del concierto de Jazz Yecla del 3 de octubre: 2.052 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de otro concierto del festival: 2.052 euros vendidos y 1.566 euros sin vender.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2052.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Taquilla del concierto de Jazz Yecla del 4 de octubre: 2.202 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de otro concierto del festival: 2.202 euros vendidos y 1.416 euros sin vender.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2202.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Taquilla del concierto de Jazz Yecla del 5 de octubre: 3.216 €",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas del último concierto del festival: 3.216 euros vendidos y 402 euros sin vender.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3216.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia para rehabilitar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para rehabilitar una vivienda unifamiliar, con fianza de 450 euros y plazos de 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "956636M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nuevo jefe del Servicio de Régimen Interior por jubilación del anterior",
+      "categoria": "personal",
+      "resumen": "Por la jubilación del jefe de Régimen Interior el 31 de octubre, se adjudica el puesto al único técnico interesado (hasta ahora jefe de Recursos Humanos) y queda vacante la jefatura de Recursos Humanos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "985238M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Nombramiento interino de un ingeniero técnico industrial",
+      "categoria": "personal",
+      "resumen": "Por exceso de trabajo en Servicios Técnicos, se nombra interino en la plaza vacante de ingeniero técnico industrial, hasta tres años, a quien corresponda de una bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988923E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Nombramiento interino de un inspector de obras auxiliar",
+      "categoria": "personal",
+      "resumen": "Se nombra interino a un inspector de obras auxiliar de la bolsa de empleo, hasta que la plaza se cubra en propiedad (máximo tres años), por la carga de trabajo del servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988989X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Sustitución del conserje del colegio Méndez Núñez",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un conserje-operario para sustituir al titular del CEIP Méndez Núñez mientras está de baja.",
+      "entidades": [
+        {
+          "nombre": "CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita el puesto"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989799X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Contrato de sustitución de un mantenedor de la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un mantenedor para la plaza vacante de la Brigada de Obras, para atender colegios y edificios municipales, hasta un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "990996J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Contrato de sustitución de un oficial pintor de la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa aprobada el 8 de octubre a un oficial de artes y oficios-pintor para la plaza vacante de la Brigada de Obras, hasta un máximo de tres años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "990996J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Permiso por matrimonio para un ordenanza-telefonista",
+      "categoria": "personal",
+      "resumen": "Se concede a un ordenanza-telefonista el permiso de quince días por matrimonio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988738Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Permiso de lactancia acumulado y vacaciones para un oficial de albañilería",
+      "categoria": "personal",
+      "resumen": "Se concede a un oficial de albañilería la acumulación del permiso de lactancia en jornadas completas (24 de octubre a 27 de noviembre) y después sus vacaciones pendientes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989738M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Ayuda por hijo con discapacidad para un conserje municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a un conserje-operario la ayuda del convenio colectivo por hijo con discapacidad: 76,60 euros al mes (la diferencia con la prestación pública que ya cobra) hasta julio de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989955N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.10",
+      "titulo": "La directora de Servicios Sociales fue a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de la directora del Centro de Servicios Sociales a una reunión regional sobre el nuevo Servicio de Acompañamiento Social Intensivo (SAI), celebrada el 7 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales, Tercer Sector y Gestión de la Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza la reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987199K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato del programa de nóminas Savia: 63.223 € hasta 2026",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad, con la única empresa propietaria del programa (GINPIX), el servicio en la nube y mantenimiento de la aplicación de nóminas y la actualización del módulo de la Relación de Puestos de Trabajo: 2.382,20 euros en 2024, 34.636,40 en 2025 y 26.204,20 en 2026.",
+      "entidades": [
+        {
+          "nombre": "Soluciones Avanzadas en Informática Aplicada, S.L. (Savia)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "invitada a licitar (exclusiva)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 63222.8,
+      "importes": [
+        {
+          "concepto": "Anualidad 2024",
+          "eur": 2382.2,
+          "entidad": "Soluciones Avanzadas en Informática Aplicada, S.L. (Savia)"
+        },
+        {
+          "concepto": "Anualidad 2025",
+          "eur": 34636.4,
+          "entidad": "Soluciones Avanzadas en Informática Aplicada, S.L. (Savia)"
+        },
+        {
+          "concepto": "Anualidad 2026",
+          "eur": 26204.2,
+          "entidad": "Soluciones Avanzadas en Informática Aplicada, S.L. (Savia)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927692M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Compra de un tapiz de competición de gimnasia rítmica por 8.361 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Pavimentos y Tapices Técnicos el suministro de un tapiz de competición para gimnasia rítmica.",
+      "entidades": [
+        {
+          "nombre": "Pavimentos y Tapices Técnicos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8361.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983893T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para el Bar Estación",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de invierno (10 m², de noviembre a marzo) del Bar Estación en la avenida Pablo Picasso.",
+      "entidades": [
+        {
+          "nombre": "particular (Bar Estación)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988779E",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno para el Café Glamour",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de invierno (6 m², de noviembre a marzo) del Café Glamour en la calle San Ramón.",
+      "entidades": [
+        {
+          "nombre": "particular (Café Glamour)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988780F",
+      "lugar": "calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Mesa informativa de AFEMY sobre salud mental en calle San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AFEMY a poner un puesto informativo sobre salud mental el 30 de octubre junto al Parque de la Constitución, prestándole dos carpas, dos mesas y diez sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988712M",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Mesa informativa de AYAC sobre cáncer de mama (23 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto informativo sobre cáncer de mama el 23 de octubre, con una carpa, una mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "986973X",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Mesa informativa de AYAC sobre salud masculina (13 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AYAC un puesto informativo sobre salud masculina el 13 de noviembre, con una carpa, una mesa y cuatro sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988087T",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Gachasmigas populares de los Mayordomos de la Purísima en calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima Concepción el 9º almuerzo popular de gachasmigas el 27 de octubre en las calles San José y Pascual Amat, para 3.000-4.000 personas, con fianza de 600 euros, límite de 85 dB y consideración de evento especial para el consumo de alcohol en la calle.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "871121Q",
+      "lugar": "calles San José y Pascual Amat (entre plaza de San Cayetano y calle Miguel Golf)",
+      "interes": 2
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado mover los contenedores de basura de la calle San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una comunidad de propietarios y otros vecinos cambiar de sitio los contenedores de basura de la calle San Pascual, porque están junto a un solar sin viviendas, no molestan el paso y ya se denegó antes.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de propietarios (calle San Pascual)",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "966165H",
+      "lugar": "calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Nueva plaza de aparcamiento para discapacitados en calle Infante Don Juan Manuel",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una nueva plaza de estacionamiento reservada a personas con discapacidad en la calle Infante Don Juan Manuel.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989491T",
+      "lugar": "calle Infante Don Juan Manuel",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para una charla de AYAC sobre cáncer de mama",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Municipal a AYAC el 23 de octubre con reducción del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987017H",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para presentar la revista de los Mayordomos y 'Yeclano Ausente'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a la Asociación de Mayordomos de la Purísima los días 10 y 17 de noviembre para presentar sus revistas, con reducción del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988388M",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio gratis para una charla de AYAC sobre salud masculina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a AYAC el 13 de noviembre con reducción del 100% del precio público (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988163Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Auditorio para una conferencia de la Escuadra El Castillo (pagando 120 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a la Escuadra El Castillo, III del Bastón, el 1 de diciembre para una conferencia sobre la Inmaculada, previo pago del precio público de 120 euros.",
+      "entidades": [
+        {
+          "nombre": "Escuadra El Castillo, III del Bastón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Teatro Concha Segura gratis para la gala benéfica de ARY, con cambio de fecha",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia del 30 al 16 de noviembre la gala benéfica de ARY en el Teatro Concha Segura, para dejar libre el día del Pregón de Fiestas, y se le exime del 100% del precio público (1.800 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de Problemas con el Alcohol, las Drogas y otras Conductas Adictivas de Yecla (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe uso gratuito de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881560P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Teatro Concha Segura para el Pregón de las Fiestas de la Virgen (1.800 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura a la Asociación de Mayordomos de la Purísima el 30 de noviembre para el Pregón de las Fiestas de la Virgen 2024, previo pago del precio público de 1.800 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991178M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Salón de Plenos para una boda civil (23 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su matrimonio civil en el Salón de Plenos del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988762F",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Salón de Sesiones para una boda civil (29 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a otra pareja a celebrar su matrimonio civil en el Salón de Sesiones de la tercera planta del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989278Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de 17.000 € en ayudas para las AMPAS y la FAMPA",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan las subvenciones de 2024 para las asociaciones de madres y padres de colegios, institutos, escuelas infantiles y Centro de Atención Temprana, y para su federación local, hasta 17.000 euros en total (máximo 1.025 euros por AMPA de colegio o instituto).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989653T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Convocatoria de 4.000 € en ayudas para asociaciones juveniles",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan las subvenciones de 2024 de asociacionismo y participación para asociaciones y entidades juveniles sin ánimo de lucro de Yecla, hasta 4.000 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987617Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Presupuesto de las Fiestas de la Virgen 2024: 53.373 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el presupuesto de gastos de las Fiestas de la Virgen de 2024 por 53.373,10 euros, IVA incluido. El acta no da el detalle.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 53373.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989370A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Los comercios abrirán el domingo 24 de noviembre en lugar del 8 de diciembre",
+      "categoria": "otros",
+      "resumen": "Como el 8 de diciembre es la fiesta de la Inmaculada, patrona de Yecla, se cambia ese festivo de apertura comercial por el domingo 24 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Impulso al Comercio, Innovación Empresarial e Industrias y Oficios Artesanales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991005X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Se pide a Carreteras el visto bueno para mejorar el camino de La Capellanía",
+      "categoria": "otros",
+      "resumen": "Para la obra de acondicionamiento del camino de La Capellanía CRA-5 (proyecto de 658.165,74 euros aprobado en julio), que conecta con la carretera RM-404, se solicita informe de viabilidad a la Dirección General de Carreteras.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe informar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 658165.74,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942478Y",
+      "lugar": "camino de La Capellanía CRA-5 (RM-404)",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Bandera Sendero Azul: renovación para las Pasarelas y candidatura de la Vía Verde",
+      "categoria": "medio_ambiente",
+      "resumen": "Se pide renovar el galardón Bandera Sendero Azul para las Pasarelas del Yecla Valora y el Mirador de la Molineta (300 euros) y se presenta la candidatura de la Vía Verde del Chicharra (500 euros), con compromiso con ADEAC.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Educación Ambiental y del Consumidor (ADEAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "concede el galardón"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991018P",
+      "lugar": "Pasarelas del Yecla Valora, Mirador de la Molineta y Vía Verde del Chicharra",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Sala Herratillas gratis para el torneo de minibasket de la Red Deportiva Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza y apoya a la Red Deportiva Yecla para un torneo de minibasket el 19 de octubre en la Sala Escolar Herratillas, con uso gratuito valorado en 157,20 euros.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe uso gratuito de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 157.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988009K",
+      "lugar": "Sala Escolar Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "XXXIII Marcha Carche-Arabí del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya al Centro Excursionista de Yecla para la marcha senderista no competitiva de 45 km entre el Carche y el Arabí el 19 de octubre, con salida en Raspay, condicionada a la autorización ambiental de la Comunidad Autónoma por pasar por espacios protegidos.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "980405Z",
+      "lugar": "Raspay - Sierra del Carche - Monte Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "La licencia de una nave en la carretera de Villena pasa a Colchones Gomarco",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que la licencia de 2007 para dos naves de fabricación de muebles tapizados en la carretera de Villena pasa de Inversiones Dadica Friends a Colchones Gomarco.",
+      "entidades": [
+        {
+          "nombre": "Colchones Gomarco, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "nuevo titular de licencia"
+        },
+        {
+          "nombre": "Inversiones Dadica Friends, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "anterior titular"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978926W",
+      "lugar": "Carretera de Villena C-3314, P.K. 57,4",
+      "interes": 2
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Licencia para dividir una finca de regadío en La Decarada",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una vecina licencia para segregar unos 5.000 m² de una finca de regadío de 2,5 hectáreas en suelo no urbanizable; la construcción existente queda en el resto de la finca.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "923232R",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "El ingeniero de caminos municipal irá a una feria de construcción en Torre Pacheco",
+      "categoria": "personal",
+      "resumen": "Se autoriza al ingeniero de caminos municipal a asistir el 17 de octubre a la Feria de la Construcción, Sostenibilidad y Rehabilitación de Torre Pacheco.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992267Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Compra de 49,8 toneladas de asfalto en frío para bachear caminos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Levantina de Mezclas Bituminosas el suministro de asfalto en frío y emulsión para el parcheo de caminos.",
+      "entidades": [
+        {
+          "nombre": "Levantina de Mezclas Bituminosas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6994.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992513Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Licencias de antivirus Watchguard para los ordenadores municipales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Tecon Soluciones Informáticas el suministro de licencias de software antimalware EDR/XDR Watchguard.",
+      "entidades": [
+        {
+          "nombre": "Tecon Soluciones Informáticas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6334.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982542R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Aviso de penalizaciones a la constructora de la Casa de los Arcos por retraso",
+      "categoria": "contrato",
+      "resumen": "La dirección de obra informa de que, pasados más de dos meses (un tercio del plazo), solo se ha ejecutado el 5% del centro enoturístico de la Casa de los Arcos por falta de personal y maquinaria. Se advierte a la empresa de que se le impondrán penalidades si no acaba antes del 22 de enero de 2025 y de que pagará los daños si se pierden los fondos europeos, y se le exige un nuevo calendario de obra.",
+      "entidades": [
+        {
+          "nombre": "Urgacén Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista advertida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Corte de la calle San José el 31 de octubre por una jornada comercial de Halloween",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cierra al tráfico la calle San José, entre Rambla y San Francisco, de 20 a 24 horas del 31 de octubre para una jornada comercial especial de Todos los Santos y Halloween.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989785C",
+      "lugar": "calle San José (de calle Rambla a calle San Francisco)",
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Segundo reparto de ayudas para libros y material escolar",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas extraordinarias para libros y material escolar a los menores que figuran en el informe de Servicios Sociales. El acta no da la lista ni los importes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "957045E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Campaña de reforestación 2024 con ANIDA en los Medianiles de los Pajonares",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la campaña municipal de reforestación con flora autóctona en el paraje Medianiles de los Pajonares durante octubre, junto con la asociación naturalista ANIDA, aportando el Ayuntamiento el lugar y los materiales.",
+      "entidades": [
+        {
+          "nombre": "Asociación Naturalista para la Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992522D",
+      "lugar": "paraje Medianiles de los Pajonares",
+      "interes": 1
+    },
+    {
+      "ref": "17.10",
+      "titulo": "XII Concurso de Dibujo 'Nuestra Constitución' (225 € en premios)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria del concurso de dibujo para alumnos de 5º y 6º de Primaria sobre la Constitución, con 225 euros en premios. Plazo del 16 de octubre al 22 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 225.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987955K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.11",
+      "titulo": "XIX Concurso Literario 'Nuestra Constitución' (600 € en premios)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueban las bases y la convocatoria del concurso literario para alumnos de ESO sobre la Constitución, con 600 euros en premios. Plazo del 16 de octubre al 22 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987956M",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

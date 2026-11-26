@@ -1,0 +1,646 @@
+{
+  "doc": "2024-09-17_JGL_43",
+  "organo": "JGL",
+  "sesion": 43,
+  "fecha": "2024-09-17",
+  "tipo_sesion": "ordinaria",
+  "paginas": 25,
+  "resumen": "La Junta de Gobierno adjudica los uniformes de la Policía Local a Satara Seguridad, S.L. (19.905 € al año durante cuatro años) y licita una furgoneta de 23.000 € para la Brigada de Obras. Confirma ante la Comunidad Autónoma que en Yecla no hay suelo industrial disponible para las dos naves que Emper Cartonajes quiere hacer en suelo no urbanizable, y aprueba el plan de fibra óptica de Digi. También simplifica los impresos de obras, convoca una bolsa de Técnico Ayudante de Museos y crea un paso de peatones en la calle Lepanto.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 10 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: turismo pide justificar ayudas antiguas y ayuda para prevenir adicciones",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito del Instituto de Turismo de la Región de Murcia que vuelve a pedir datos de subvenciones pendientes de justificar, y de la orden de la Consejería de Salud que concede al Ayuntamiento una subvención directa para programas de prevención de adicciones en 2024 (sin importe).",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide justificar subvenciones"
+        },
+        {
+          "nombre": "Dirección General de Salud Pública y Adicciones (Consejería de Salud, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947231Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Denegado perdonar el impuesto de un coche a una vecina en concurso de acreedores",
+      "categoria": "fiscal",
+      "resumen": "Una vecina con exoneración judicial de deudas (segunda oportunidad) pedía no pagar el impuesto de circulación de 2024 (110,72 €, ya abonado). Se deniega porque la Ley Concursal no extiende el perdón a las deudas con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 110.72,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "959793X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegado perdonar IBI y circulación a un vecino en concurso de acreedores",
+      "categoria": "fiscal",
+      "resumen": "Un vecino con exoneración judicial de deudas pedía no pagar el IBI de 2022 a 2024 de un inmueble y el impuesto de circulación de 2024 (1.084,29 € en total). Se deniega por el mismo motivo: la deuda pública municipal no entra en la exoneración.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1084.29,
+      "importes": [
+        {
+          "concepto": "IBI 2022",
+          "eur": 345.05,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "IBI 2023",
+          "eur": 345.05,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "IBI 2024",
+          "eur": 328.62,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "IVTM 2024",
+          "eur": 65.57,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "970666Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de Músicas del Aire 2024: 2.660 € recaudados",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban los ingresos de taquilla de los ocho espectáculos de Músicas del Aire 2024 en la explanada de San Francisco (cine de verano y conciertos) y la baja de las entradas no vendidas: 2.660 € recaudados de 6.400 € emitidos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2660.0,
+      "importes": [
+        {
+          "concepto": "Cine 'Barbie' (4/7)",
+          "eur": 180.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Cine 'A todo tren 2' (11/7)",
+          "eur": 156.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto 'Yecla y sus voces' (17/7)",
+          "eur": 714.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Cine 'Flamenco, flamenco' (18/7)",
+          "eur": 114.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto 'Soto Goes Jazz' (19/7)",
+          "eur": 348.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Actuación 'Los amigos del Chete' (24/7)",
+          "eur": 452.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Actuación 'Los ruiseñores' (25/7)",
+          "eur": 394.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Actuación 'Aire fresco' (26/7)",
+          "eur": 302.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929936D",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nuevos modelos más sencillos de declaración responsable y comunicación previa de obras",
+      "categoria": "normativa",
+      "resumen": "Se aprueban nuevos impresos de declaración responsable, comunicación previa y certificado técnico para obras, adaptados a la ley regional del suelo, que piden solo la documentación imprescindible para agilizar los trámites.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976532W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Aplazados los criterios municipales para obras de interés público en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deja sobre la mesa la propuesta del arquitecto jefe sobre los criterios que aplicará el Ayuntamiento al informar las autorizaciones autonómicas de usos excepcionales por interés público en suelo no urbanizable y urbanizable sin sectorizar.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "976747T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de Técnico Ayudante de Museos",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria, por concurso-oposición, de una bolsa de empleo para contratos temporales de Técnico Ayudante de Museos (grupo A2). Plazo de 20 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890074P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Ofertas de Empleo Público 2021 y 2022: no se trata (ya resuelto)",
+      "categoria": "personal",
+      "resumen": "No se adopta acuerdo porque ya se aprobó en la sesión del 3 de septiembre; se incluyó por error.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "953677C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Permiso por lactancia acumulada de una técnica de escuela infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil permiso retribuido del 1 al 11 de noviembre de 2024 en lugar de la hora de lactancia, y vacaciones del 10 al 20 de enero de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973216P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Reducción de jornada de una auxiliar de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa una reducción de jornada no retribuida del 36,23 % para cuidar a su hijo, como máximo hasta octubre de 2028.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975009E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Compra de una furgoneta para la Brigada de Obras por hasta 23.000 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se licita la compra de una furgoneta mixta de 5 plazas para la Brigada Municipal de Obras, con un precio máximo de 23.000 € IVA incluido (C.SU.5/24).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 23000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972314M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Uniformes de la Policía Local para Satara Seguridad: 19.905 € al año durante 4 años",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Satara Seguridad, S.L., única empresa que se presentó, el suministro de vestuario de la Policía Local por 19.905,71 € anuales con IVA durante cuatro años (unos 79.623 € en total).",
+      "entidades": [
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria, cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19905.71,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821207Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Larrycari amplía el horario de carga y descarga de su supermercado",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se amplía la reserva de carga y descarga (12 m) del supermercado de Larrycari Yecla, S.L. en la calle Rogelio Azorín Navarro: de lunes a sábado de 7 a 10 y de 15 a 17 h. Paga 21,25 € por 2024 y 42,50 € al año.",
+      "entidades": [
+        {
+          "nombre": "Larrycari Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita y paga tasa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21.25,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959409N",
+      "lugar": "Calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita una plaza de aparcamiento reservada a personas con discapacidad en la calle Pintor Fernando Carpena.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "965579H",
+      "lugar": "Calle Pintor Fernando Carpena",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Ampliación del vado de un comercio en la calle San Cristóbal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se amplía un metro el vado de un comercio de un particular (liquidación de 18 €) y se traslada el aparcamiento de motos de la zona a un hueco entre vados.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 18.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973926A",
+      "lugar": "Calle San Cristóbal",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón del Centro de Desarrollo Local para una asamblea de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la organización agraria COAG-IR a usar el salón de actos del Centro de Desarrollo Local para una asamblea informativa el 24 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos – Iniciativa Rural de Murcia (COAG-IR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977222D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Uso del Salón de Sesiones por particulares: no se trata (ya resuelto)",
+      "categoria": "via_publica_eventos",
+      "resumen": "No se adopta acuerdo porque ya se resolvió el 30 de abril de 2024; se incluyó por error.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "916450Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Uso del Salón de Sesiones por un particular: no se trata (ya resuelto)",
+      "categoria": "via_publica_eventos",
+      "resumen": "No se adopta acuerdo porque ya se resolvió el 23 de julio de 2024; se incluyó por error.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "958928W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aplazado el uso del Auditorio por la Asociación de Amigos de San Lázaro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición de la Asociación de Amigos de San Lázaro para usar el Auditorio Municipal 'Juan Miguel Benedito'.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Lázaro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "923692F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Fecha de recepción de las obras de aceras en calles del Niño, Pintor Aguirre y Carlos III",
+      "categoria": "contrato",
+      "resumen": "Se fija el 27 de septiembre de 2024 para recibir las obras de mejora de itinerarios peatonales (zonas de bajas emisiones, fondos Next Generation EU) ejecutadas por Mediterráneo de Obras y Asfaltos, S.A.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867238Y",
+      "lugar": "Calles del Niño, Pintor Aguirre y Carlos III",
+      "interes": 2
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Fecha de recepción de la demolición de inmuebles en calles Carmen y San Roque",
+      "categoria": "contrato",
+      "resumen": "Se fija el 25 de septiembre de 2024 para recibir las obras de demolición de varios inmuebles en las calles Carmen y San Roque, realizadas por Servicios Profesionales Murcianos, S.L.; no se pudo hacer antes por las vacaciones.",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M",
+      "lugar": "Calles Carmen y San Roque",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de seguridad del asfaltado de varias calles (Alicaser)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de Alicaser Obras y Servicios, S.L. para la obra de parcheo y asfaltado de la ampliación del aparcamiento de la Feria del Mueble, la rambla de Algezares y la calle San Vicente.",
+      "entidades": [
+        {
+          "nombre": "Alicaser Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968493E",
+      "lugar": "Aparcamiento Feria del Mueble, rambla de Algezares y calle San Vicente",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Baja de una vendedora en el mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se da de baja a una titular del puesto nº 41 del mercadillo de los miércoles desde el 1 de septiembre y el puesto queda vacante.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959115E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Traspaso de un puesto del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el cambio de titular del puesto nº 7-Z (textil) entre dos particulares, válido hasta 2034, y se devolverá la fianza a la anterior titular si no tiene deudas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959115E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Digi podrá desplegar fibra óptica usando la red de Telefónica",
+      "categoria": "licencia_obra",
+      "resumen": "Se aprueba el plan de despliegue de fibra óptica de Digi Spain Telecom, S.L., que usará la red existente de Telefónica sin obra civil nueva; cada actuación se tramitará por declaración responsable y, si ocupa vía pública, con autorización previa.",
+      "entidades": [
+        {
+          "nombre": "Digi Spain Telecom, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Telefónica",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propietaria de la red usada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815268R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Cetem, inscrito como entidad de interés municipal",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe a la Asociación Empresarial de Investigación Centro Tecnológico del Mueble y la Madera de la Región de Murcia en el Registro de Entidades Declaradas de Interés Municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación Empresarial de Investigación Centro Tecnológico del Mueble y la Madera de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "se inscribe en el registro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "968169E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Emper Cartonajes: el Ayuntamiento confirma que no hay suelo industrial para sus dos naves",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Ante los reparos de la Comunidad Autónoma, se ratifica el informe favorable a que Emper Cartonajes, S.L.U. construya dos naves de envases de cartón en suelo no urbanizable (paraje Marrañaos) y se informa de que hay 'absoluta carencia' de suelo industrial urbano en Yecla y de que la empresa acondicionará el camino municipal de acceso.",
+      "entidades": [
+        {
+          "nombre": "Emper Cartonajes, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización en suelo no urbanizable"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Urbanismo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita y pide documentación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744851Q",
+      "lugar": "Paraje Marrañaos, polígono 47, parcela 137",
+      "interes": 3
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Nuevo paso de peatones tras el túnel de la calle Lepanto",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se habilita un paso de peatones con señal luminosa tras el túnel de la calle Lepanto para frenar a los coches; si no funciona, se estudiará uno elevado.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976664E",
+      "lugar": "Calle Lepanto",
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Nuevas zonas de carga y descarga junto al Mercado Central",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por las obras de remodelación del Mercado Central se crean zonas de carga y descarga en la calle Mercado y en la calle Concejal Sebastián Pérez (7-13 y 15-21 h).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962837Z",
+      "lugar": "Calles Mercado y Concejal Sebastián Pérez",
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Salón del Edificio Bioclimático para la asamblea del Club Fondistas Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Fondistas Yecla a usar el salón de actos del Edificio Bioclimático para su asamblea general el 26 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978652P",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

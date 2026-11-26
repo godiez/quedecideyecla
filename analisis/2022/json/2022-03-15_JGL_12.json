@@ -1,0 +1,978 @@
+{
+  "doc": "2022-03-15_JGL_12",
+  "organo": "JGL",
+  "sesion": 12,
+  "fecha": "2022-03-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "La Junta de Gobierno paga 171.501 euros en facturas (limpieza de edificios, Centro de Día, autobús urbano, residuos y Carnaval) y rebaja un 70 % el impuesto de obras a Proyecto Denver por una nave logística que creará 8 empleos. Se licita la gestión del espacio de ocio juvenil del edificio Cazadores (82.474 euros al año), se contrata una corrida de toros con Morante de la Puebla por 7.000 euros y se abre una convocatoria de 12.000 euros para fiestas populares. También se aprueba el convenio de vigilancia de incendios forestales con la Comunidad Autónoma y se deniega un estand de radio en la calle por el aniversario de una ferretería.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta del 8 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 8 de marzo de 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de empleo juvenil y de turismo de la Comunidad Autónoma",
+      "categoria": "informacion",
+      "resumen": "Se informa de dos decretos de la CARM que regulan subvenciones directas a los ayuntamientos para orientar y acompañar a jóvenes sin empleo ni estudios (Garantía Juvenil, Fondo Social Europeo) y de dos escritos de la Dirección General de Competitividad y Calidad Turísticas que piden documentación de las ayudas para modernizar oficinas de turismo, poner puntos interactivos 24 horas y mejorar recursos turísticos. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "regula subvenciones de empleo juvenil"
+        },
+        {
+          "nombre": "Dirección General de Competitividad y Calidad Turísticas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención de turismo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "598097Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, Centro de Día, autobús urbano, residuos y Carnaval",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar siete facturas: limpieza de edificios municipales de febrero, Centro de Día de mayores de enero, autobús urbano de febrero, aportación de enero al Consorcio de Residuos, producción técnica del Carnaval 2022, Correos y cursos de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 171501.07,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, febrero 2022",
+          "eur": 51358.87,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de Centro de Día para personas mayores, enero 2022",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, febrero 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Aportación de enero 2022",
+          "eur": 24982.95,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Servicios de producción y técnicos del Carnaval 2022",
+          "eur": 18029.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Servicios postales",
+          "eur": 7473.98,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E."
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos de la Universidad Popular",
+          "eur": 6230.41,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "589145H, 584325N, 551537Z, 118095X, 282726A, 521199N, 457254A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 70 % del impuesto de obras a Proyecto Denver por una nave en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Proyecto Denver, S.L. una bonificación del 50 % del ICIO por uso industrial y otra del 20 % por crear 8 empleos indefinidos (siete mozos de almacén y un oficial) durante al menos 4 años, para construir naves de almacenamiento de calzado y logística. La obra tiene una base imponible de 1.361.543,04 € y la cuota del impuesto era de 44.930,92 €; si incumple el empleo, devolverá lo bonificado.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 31451.64,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516868Y",
+      "lugar": "Calle Miguel Servet, P.I. Las Teresas, parcelas A15(17)-A15(18)",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recaudación de la obra 'Tartufo' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas de 'Tartufo' (5 de marzo de 2022): se recaudaron 3.166,80 € en taquilla y se dan de baja 5.524,20 € de entradas no vendidas, de un cargo de 8.691,80 €.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta de entradas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3166.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596672M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratación de un fontanero y bolsa de empleo de fontaneros",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial fontanero seleccionado a través del SEF y se crea una bolsa de empleo con él como único aspirante aprobado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595360P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Bolsa de empleo de auxiliar-inspector de obras",
+      "categoria": "personal",
+      "resumen": "Se aprueba la bolsa de empleo (dos aspirantes) para interinidades o contratos temporales de auxiliar-inspector de obras, vigente hasta el 31 de diciembre de 2025. Una concejala se ausentó por parentesco con un interesado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (se ausenta una concejala por parentesco con un interesado)",
+      "expediente": "511236A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Excedencia por cuidado de hijo de una técnica de educación infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de educación infantil excedencia voluntaria para cuidar a un hijo menor de tres años desde el 27 de marzo hasta el final del curso 2021/22.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595456Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Una sentencia hace indefinida no fija a una técnica de educación infantil",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social nº 5 de Murcia, se reconoce a una técnica de educación infantil como trabajadora indefinida no fija, con antigüedad desde mayo de 2016, hasta que la plaza se cubra o se amortice.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496586D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Un policía local hará un curso sobre atención a víctimas de violencia de género",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de la Policía Local a asistir a un curso online de sensibilización en igualdad para atender a víctimas de violencia de género, organizado por la escuela de formación de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "595673Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "El director de Comunicación municipal dará un curso de protocolo en la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa al director del Gabinete de Comunicación para impartir el curso 'Protocolo y organización de eventos' de la Universidad Popular, con una indemnización de 284 € más 76,80 € de Seguridad Social.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 360.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598653N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Publicidad municipal en el periódico Siete Días durante 2022",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 9.500,07 € (IVA incluido) a Prensa y Publicaciones de Yecla, S.L. para difundir servicios y actividades municipales en el periódico Siete Días en 2022.",
+      "entidades": [
+        {
+          "nombre": "Prensa y Publicaciones de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9500.07,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "573056M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Alquiler de un almacén para la Brigada de Obras",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 16.178,95 € (IVA incluido) con Ramón Puche, S.L. para alquilar durante 5 meses una finca urbana como almacén de la Brigada de Obras municipal.",
+      "entidades": [
+        {
+          "nombre": "Ramón Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "arrendador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16178.95,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593543Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Obra de teatro 'El aguafiestas' en la programación municipal",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 12.100 € (IVA incluido) a Nearco Producciones, S.L. por la obra de teatro 'El aguafiestas'.",
+      "entidades": [
+        {
+          "nombre": "Nearco Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12100.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597751K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Obra de teatro 'Señora de rojo sobre fondo gris'",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 10.648 € (IVA incluido) a Tentación, S.A. por la obra 'Señora de rojo sobre fondo gris'.",
+      "entidades": [
+        {
+          "nombre": "Tentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10648.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597753N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Sala del Edificio Bioclimático para ensayos de Primera Fila Teatro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala 9 del sótano del Edificio Bioclimático para ensayos de teatro del grupo Primera Fila Teatro de marzo a junio de 2022.",
+      "entidades": [
+        {
+          "nombre": "Primera Fila Teatro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596682A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aula del Edificio Bioclimático para un taller del CERMI para mujeres con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula del Edificio Bioclimático el 22 de marzo para el taller 'Únicas', dirigido a mujeres con discapacidad, de la Comisión de Mujeres e Igualdad del CERMI Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "CERMI Región de Murcia (Comisión de Mujeres e Igualdad)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el aula"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599615Z",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Salón de Plenos para la reunión de afectados por las cuotas de la CAM-Sabadell",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos el 24 de marzo para una reunión informativa entre asesores y afectados por las cuotas participativas y deuda de la CAM-Sabadell sobre el proceso judicial.",
+      "entidades": [
+        {
+          "nombre": "Plataforma de afectados por los productos de cuotas participativas y de valores de deuda CAM-Sabadell",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el salón"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598070D",
+      "lugar": "Casa Consistorial",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos para un matrimonio civil el 23 de abril de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "598112M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Teatro Concha Segura gratis para una gala benéfica de la Asociación ALAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura el 9 de abril para una gala benéfica de humor y monólogos de la Asociación ALAS, con rebaja del 100 % del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación ALAS",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el teatro con exención del precio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596746P",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Escuela de Semana Santa en el CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio en las vacaciones de Semana Santa para la 'Escuela de Semana Santa 2022', que imparte una profesional (Arcoiris); deberán cubrir limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita el uso"
+        },
+        {
+          "nombre": "CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "instalaciones cedidas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599294D",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "La fachada del Ayuntamiento se iluminará de azul por el Día del Autismo",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de personas con trastorno del espectro autista de Yecla, la fachada de la Casa Consistorial se iluminará de azul el 2 de abril, Día Mundial del Autismo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de personas trastorno de espectro autista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596727N",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Convocatoria de ayudas de 12.000 € para fiestas populares 2022",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se abre la convocatoria 2022 de subvenciones para promocionar y difundir las fiestas populares, con un máximo de 12.000 €, para asociaciones con domicilio en Yecla y otras personas o entidades; plazo de 30 días naturales desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585633E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Convenio con la CARM para la vigilancia de incendios forestales (Plan INFOMUR)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el convenio con la Consejería de Transparencia, Seguridad y Emergencias por el que el Ayuntamiento recibe una subvención nominativa para prevenir y apagar incendios forestales con voluntarios (Plan INFOMUR) del 1 de abril de 2022 al 31 de marzo de 2023. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Transparencia, Seguridad y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593678D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Convenio con la Universidad de Murcia para la Universidad Internacional del Mar",
+      "categoria": "convenio",
+      "resumen": "Se deja sobre la mesa, para estudiarlo mejor, el convenio de 2022 con la Universidad de Murcia para las actividades de la Universidad Internacional del Mar en Yecla.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "parte del convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "595741T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pista de atletismo gratis para el Campeonato regional Sub-16 de invierno",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la colaboración con la Agrupación Deportiva de Atletismo Yeclano y la Federación de Atletismo de la Región de Murcia: uso gratuito de la pista del Complejo Juan Palao Azorín, valorado en 583,55 €, para el campeonato del 5 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Agrupación Deportiva de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organizador"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 583.55,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "589630F",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Pista de atletismo gratis para la Carrera Solidaria del Colegio La Inmaculada",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la colaboración con el Colegio de La Inmaculada: uso gratuito de la pista de atletismo, valorado en 583,55 €, para su Carrera Solidaria del 25 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Colegio de La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "organizador"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 583.55,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586069X",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Comida a domicilio gratuita para una vecina",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se concede de oficio el servicio de comidas a domicilio, sin coste, a una vecina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597532F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Comida a domicilio gratuita para otra vecina",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se concede de oficio el servicio de comidas a domicilio, sin coste, a otra vecina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597570J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Ayuda de 116 € para actividades de ocio de un menor en desventaja social",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se paga la inscripción (116 €) de un menor en situación de desventaja social en una actividad de ocio y tiempo libre de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 116.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "331237C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Ayuda de 276 € para actividades de ocio de un menor en desventaja social",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se paga la inscripción (276 €) de otro menor en situación de desventaja social en una actividad de ocio y tiempo libre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 276.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597544Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Denegado un estand de radio en la calle Colón por el aniversario de una ferretería",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Onusón Producciones, S.L.U. instalar en la calle Colón un estand para emitir 'La Jungla Radio Yecla' el 2 de abril por el 25 aniversario de la Ferretería Colón: la Policía Local solo apoya estos usos de la calle si los piden entidades sociales o sin ánimo de lucro.",
+      "entidades": [
+        {
+          "nombre": "Onusón Producciones, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Ferretería Colón",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "comercio que celebra el aniversario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "595376M",
+      "lugar": "Calle Colón",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Un vecino ofrece vender al Ayuntamiento una parcela de zona verde en Las Pozas",
+      "categoria": "patrimonio",
+      "resumen": "Un particular ofrece vender una parcela de 3.639 m² en el paraje Las Pozas, en la ladera del Monte del Castillo, calificada como parque urbano. Antes de seguir, el Ayuntamiento pide a la Dirección General de Medio Natural que deslinde las vías pecuarias Cordel de la Flor y Cañada Real de los Serranos, que pueden invadir parte de la finca, y al vecino un plano técnico.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe deslindar las vías pecuarias"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "572667X",
+      "lugar": "Paraje Las Pozas (Monte del Castillo)",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Alumnos del IES Castillo Puche harán prácticas en el Servicio de Deportes",
+      "categoria": "servicios_actividades",
+      "resumen": "Seis alumnos del ciclo de Técnico Superior en Enseñanza y Animación Sociodeportiva del IES José Luis Castillo Puche harán sus prácticas (260 o 400 horas, sin sueldo) en el Ayuntamiento del 17 de marzo al 8 de junio; se pide colaboración a Podium Gestión Integral, S.L., empresa del socorrismo y actividades de las piscinas.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos en prácticas"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora en las prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "596491K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "otros",
+      "resumen": "Se reconoce a un vecino la condición de residente en zona azul para su vehículo hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "597427K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Rebaja en el recibo del agua para familias numerosas",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la tarifa reducida del agua para las familias numerosas que lo pidieron (según una relación anexa), mientras dure su título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500720W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Rebaja del agua a dos familias numerosas, a falta de renovar el título",
+      "categoria": "fiscal",
+      "resumen": "Se concede la tarifa reducida del agua de 2022 a dos familias numerosas con el título en renovación, condicionada a que presenten el título vigente a 1 de enero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500720W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Denegada la rebaja del agua a dos familias numerosas por no ser su vivienda habitual",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la tarifa reducida del agua a dos solicitantes porque la vivienda no es su residencia habitual.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "500720W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Denegada la rebaja del agua a tres familias sin título de familia numerosa en vigor",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la tarifa reducida del agua a tres solicitantes por no tener el título de familia numerosa en vigor a 1 de enero de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "500720W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Contrato temporal de un técnico de Atención Temprana",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un técnico de Atención Temprana para cubrir una vacante hasta que se ocupe de forma definitiva (máximo tres años), por ser una necesidad urgente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599647T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Cambio de puesto de la conserje del Mercado Central por las obras",
+      "categoria": "personal",
+      "resumen": "Por el cierre del Mercado Central para su remodelación, su conserje pasa temporalmente al Mercado de San Cayetano y al mercadillo de los miércoles junto al Parque de la Constitución, con otro horario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599695K, 559208D",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Una trabajadora social irá a Murcia a preparar el Plan Regional de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social asistir el 18 de marzo a una reunión de consulta de la Dirección General de Servicios Sociales para el futuro Plan Regional de Servicios Sociales.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca la reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "600275Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Se licita la gestión del espacio de ocio juvenil del edificio Cazadores: 82.474 € al año",
+      "categoria": "contrato",
+      "resumen": "Se aprueba sacar a concurso abierto (también publicado en el Diario Oficial de la UE) la gestión y dinamización del espacio de ocio del semisótano del edificio de Cazadores, por dos años prorrogables otros dos y 82.474,23 € al año IVA incluido (68.160,52 € sin IVA).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 82474.23,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575299C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Corrida de toros del 10 de abril con Morante de la Puebla: 7.000 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de 7.000 € (IVA incluido) a Taurina Mantero, S.L.U. para organizar una corrida de toros el 10 de abril de 2022 en la Plaza de Toros de Yecla con Morante de la Puebla, Paco Ureña y Joaquín Galdós; las entradas cuestan entre 15 € y 80 €.",
+      "entidades": [
+        {
+          "nombre": "Taurina Mantero, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586235Q",
+      "lugar": "Plaza de Toros de Yecla",
+      "interes": 3
+    },
+    {
+      "ref": "17.10",
+      "titulo": "Campeonatos locales de fútbol sala, futbito juvenil y tenis y sus precios",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los campeonatos locales 2021/2022 de fútbol sala, futbito juvenil y tenis y sus cuotas (por ejemplo, 6,30 € de alta por jugador y 64,38 € de depósito en fútbol sala; 15 € de inscripción en tenis), descontando lo pagado por la temporada 2019/2020 que no se jugó.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599608P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.11",
+      "titulo": "Permiso para quemar restos vegetales cerca del casco urbano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se autoriza a un vecino a quemar restos vegetales en una parcela a menos de 1.500 m de las viviendas, solo martes y primer y tercer sábado de cada mes, de 13 a 14 h, entre marzo y mayo y entre octubre y diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "594003E",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,982 @@
+{
+  "doc": "2022-12-09_JGL_56",
+  "organo": "JGL",
+  "sesion": 56,
+  "fecha": "2022-12-09",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno paga 102.690 euros en facturas (sobre todo luces de Navidad de Invemat Levante y una tubería de FCC Aqualia) y adjudica los talleres de la Universidad Popular, casi todos a Épsilon Servicios Educativos, por unos 130.000 euros. Convoca oposiciones para 10 auxiliares administrativos y 2 conserjes, sube de grado a 34 empleados y deniega un premio de jubilación. Aprueba el Mercado de Navidad, los conciertos de diciembre, un video mapping y servicios de conciliación en vacaciones, acepta 5.000 euros de la CARM para refugiados de Ucrania y abre una consulta sobre los puntos de recarga de coches eléctricos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se confirma la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica por unanimidad la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: subvención de empleo del SEF y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de la propuesta provisional del SEF de conceder subvenciones del programa 'Empleo Público Local' 2022 y de una sentencia firme del Juzgado de lo Contencioso-Administrativo nº 4 de Murcia que da la razón a un particular contra una resolución municipal de 2019.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recurre"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "703073Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: luces de Navidad, red de agua, Universidad Popular y alcoholímetro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: el alumbrado de fiestas y Navidad, la renovación de la tubería de la calle Santa Bárbara, dos módulos de la Universidad Popular, un alcoholímetro para la Policía Local y el equipamiento de un aula de tapicería.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Teditronic, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 102689.72,
+      "importes": [
+        {
+          "concepto": "Módulo docente Universidad Popular 'Oficios artesanales. Patronaje y moda' (oct-dic 2022)",
+          "eur": 6040.83,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Módulo docente Universidad Popular 'Artes plásticas y oficios artísticos' (oct-dic 2022)",
+          "eur": 6535.03,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Obras de renovación de red en calle Santa Bárbara (entre calles Jumilla y San Bartolomé)",
+          "eur": 25238.57,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Alcoholímetro evidencial Dräger 9510 con impresora (Policía Local)",
+          "eur": 7852.22,
+          "entidad": "Teditronic, S.L."
+        },
+        {
+          "concepto": "Equipamiento del aula de tapicería",
+          "eur": 14524.84,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Alumbrado ornamental Fiestas de la Virgen y Navidad-Reyes (dic 2022-ene 2023)",
+          "eur": 42498.23,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "681601T, 681594J, 591218M, 603705E, 691315K, 678650W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación del Concierto de Santa Cecilia",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del Concierto de Santa Cecilia: 2.238 € recaudados y 1.320 € de entradas no vendidas que se dan de baja (de 3.558 € emitidos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2238.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del IBI por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por una instalación fotovoltaica de autoconsumo de 7,2 kW.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "683026Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del IBI por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por una instalación fotovoltaica de autoconsumo de 6,3 kW.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640142M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del IBI por placas solares a Sociedad Agrícola Viñavista",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la empresa la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por una instalación fotovoltaica de autoconsumo de 20 kW en el paraje El Mollidar.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Agrícola Viñavista, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704153Q",
+      "lugar": "Paraje El Mollidar",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 50% del IBI por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 50% del IBI durante 2023-2027 (máximo 100 € al año) por una instalación fotovoltaica de autoconsumo de 8 kW.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703995X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Los Rosales: visto bueno a los centros de transformación y orden de actualizar la urbanización",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "El Ayuntamiento acepta dónde irán los centros de transformación eléctrica del sector SUPR-6 Los Rosales (los terrenos seguirán siendo municipales y se cederá su uso a la distribuidora) y pide a la Junta de Compensación modificar el proyecto de urbanización de 2012 (instalación eléctrica, alumbrado LED y otros ajustes). La garantía será el 10% del coste del proyecto modificado (antes se fijó en 202.263,56 €).",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 Los Rosales",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "promueve"
+        },
+        {
+          "nombre": "i-De Redes Eléctricas Inteligentes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "distribuidora eléctrica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610804P",
+      "lugar": "Sector SUPR-6 Los Rosales",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Jubilación de una conserje-limpiadora y denegado el premio de jubilación",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación voluntaria de una conserje-limpiadora municipal el 29-12-2022 y se le deniega la indemnización por jubilación del convenio, porque el Tribunal Supremo y los juzgados consideran ilegales estos premios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "702889K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reducción de jornada a un monitor-socorrista",
+      "categoria": "personal",
+      "resumen": "Se concede a un monitor-socorrista una reducción de jornada del 6,85% para cuidar de un hijo menor de doce años, hasta julio de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "498627N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Vacaciones, lactancia y ayuda por nacimiento a una profesora de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se conceden a una profesora de la Escuela de Bellas Artes sus vacaciones y el permiso de lactancia acumulado, y una ayuda por natalidad de 81,21 €; se le deniega el permiso por asuntos particulares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 81.21,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703288P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Carrera profesional 2021: 34 empleados suben de grado",
+      "categoria": "personal",
+      "resumen": "Se resuelve el concurso anual 2021 de carrera profesional horizontal: 34 empleados municipales suben un nivel de grado personal (con efectos desde el 1-1-2022) y a 7 se les deniega. Se aprueba un gasto de 13.939,24 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 13939.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572202A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Convocatoria del concurso de carrera profesional 2022",
+      "categoria": "personal",
+      "resumen": "Se convoca el concurso anual 2022 para que los empleados municipales suban un nivel de grado personal, con efectos económicos desde el 1-1-2023 si lo permite el presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704685E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "CC.OO. acumula sus horas sindicales",
+      "categoria": "personal",
+      "resumen": "Se toma nota de que los representantes de CC.OO. acumulan sus horas sindicales: 30 horas al mes en la Junta de Personal y 300 horas al mes en el Comité de Empresa.",
+      "entidades": [
+        {
+          "nombre": "Comisiones Obreras (CC.OO.)",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "703480F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Cómo se aplican los cambios de guardia en la Policía Local",
+      "categoria": "personal",
+      "resumen": "A petición del sindicato SPPLB y tras la Comisión Paritaria, se aclara que los agentes no podrán cambiarse una guardia si la diferencia de guardias entre ellos es de 3 o más; la Jefatura solo podrá denegar el cambio por ese motivo.",
+      "entidades": [
+        {
+          "nombre": "SPPLB (sindicato de Policía Local)",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696186A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Oposición para 10 plazas de auxiliar administrativo",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y bases del concurso-oposición para cubrir como funcionarios 10 plazas de auxiliar administrativo (ofertas de empleo de 2018, 2019 y 2022), para Policía Local, Escuelas Infantiles, Tributos, Personal, Deportes, Recaudación, Secretaría, Festejos, Casa de Cultura y Agencia de Desarrollo Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695609Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Oposición para 2 plazas fijas de conserje-operario",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y bases del concurso-oposición para 2 plazas laborales fijas de conserje-operario (Universidad Popular y CEIP Alfonso X El Sabio).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695941K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Espectáculo infantil 'Las aventuras de Billie Green' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Fools Entertainment por 6.655 € (contrato menor) la actuación de Boing Planet en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Fools Entertainment, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6655.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689886A",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Producción e infraestructura de las Fiestas de la Virgen 2022",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular (autónomo) por 6.630,80 € el contrato menor de infraestructura técnica y producción de las Fiestas de la Virgen.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6630.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703652W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Video mapping de Navidad por 17.908 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Experiencias Señoriales por 17.908 € (contrato menor) un espectáculo de video mapping para Navidad.",
+      "entidades": [
+        {
+          "nombre": "Experiencias Señoriales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17908.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703334D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Proyecto 'Marca de la Ciudad de Yecla'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular (autónomo) por 6.360 € el contrato menor para crear la marca de ciudad de Yecla.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6360.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700984P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Épsilon gestionará los talleres de la Universidad Popular 2022/23",
+      "categoria": "contrato",
+      "resumen": "Tras un procedimiento abierto, se adjudican a Épsilon Servicios Educativos los lotes 1 a 4 de los talleres de la Universidad Popular (artes plásticas, patronaje, oficios artesanales y disciplinas físicas) y a un particular el lote 5 (restauración de muebles), por unos 130.333 € en total.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 130332.73,
+      "importes": [
+        {
+          "concepto": "Lote 1, Artes Plásticas y Oficios Artísticos",
+          "eur": 57959.0,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Lote 2, Patronaje y Confección",
+          "eur": 20691.0,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Lote 3, Artes Aplicadas y Oficios Artesanales",
+          "eur": 27467.0,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Lote 4, Disciplinas y técnicas físicas (cifra del acta; base + IVA darían 14.641 €)",
+          "eur": 11510.73,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Lote 5, Restauración de Muebles y Artes Decorativas",
+          "eur": 12705.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto informativo de la Asociación de Fibromialgia en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación a poner un puesto informativo el 14 de diciembre en el Parque de la Constitución, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698432W",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto benéfico de AYAC con adornos navideños",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto benéfico de adornos navideños el 14 de diciembre en el Parque de la Constitución.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695834M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Puesto benéfico de AFEMY con adornos navideños",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Familiares y Personas con Enfermedad Mental de Yecla a poner un puesto benéfico los días 14 y 21 de diciembre en el Parque de la Constitución.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698732M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Recogida solidaria de alimentos en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza de forma excepcional a Arabí TV, La Jungla Radio Yecla y Cruz Roja a recoger alimentos y emitir un programa solidario en la Plaza Mayor el 23 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "Arabí TV",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "La Jungla Radio Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Cruz Roja Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703595Q",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Aplazada la petición de una escuela infantil privada para un puesto benéfico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la solicitud del Centro de Educación Infantil Británico Bubbles para un puesto benéfico de adornos navideños.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación Infantil Británico Bubbles",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "704252D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza de la Cafetería Tago's en la calle Antonio Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza anual de 14 m² de la Cafetería Tago's en la calle Antonio Ortega (el acta indica la temporada 2021-2022).",
+      "entidades": [
+        {
+          "nombre": "particular (Cafetería Tago's)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "700239E",
+      "lugar": "Calle Antonio Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado un semáforo de peatones en la avenida Juan Carlos I",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la petición de un vecino de poner un semáforo para cruzar la avenida Juan Carlos I hacia comercios e instalaciones deportivas: la Policía Local dice que empeoraría el tráfico de una vía de seis carriles, que ya hay dos pasos de peatones y que no constan accidentes.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "703881N",
+      "lugar": "Avenida Juan Carlos I",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio para la asamblea de la Junta de Compensación de Los Rosales",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Junta de Compensación del sector SUPR-6 Los Rosales a usar el Auditorio Juan Miguel Benedito el 15 de diciembre para su asamblea, pagando 120 €.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del Sector SUPR-6 Los Rosales",
+          "cif": null,
+          "tipo": "otros",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "696815Z",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio para una boda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares a usar el Auditorio Juan Miguel Benedito para su boda el 21 de enero de 2023, pagando 120 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "674052J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Sala del Centro de Emprendimiento para un torneo infantil de ajedrez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Ajedrez Municipal Yeclano a usar la sala de reuniones del Centro de Emprendimiento el 17 de diciembre para un torneo infantil.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703991Q",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sala del Centro de Emprendimiento para una reunión de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a usar la sala de reuniones del Centro de Emprendimiento el 12 de diciembre para reunirse con asociaciones sociosanitarias.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "703867P",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares a usar el Salón de Sesiones de la 3ª planta del Ayuntamiento para su boda civil el 22 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "704877X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Servicio de conciliación de las escuelas infantiles en Navidad y Semana Santa",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el servicio para niños de 0 a 3 años en vacaciones de Navidad (27-12 a 5-1) y Semana Santa (3 a 5 de abril), con un gasto de 9.000 € financiado por el Plan Corresponsables y precios de 35 € y 15 €; tienen prioridad familias vulnerables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "702983Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Escuela Municipal de Navidad 2022 para niños de 3 a 12 años",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela de Navidad del 27 de diciembre al 5 de enero, con un gasto de 5.388,85 € (servicio y limpieza) dentro del Plan Corresponsables; prioridad para familias vulnerables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5388.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "702763K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Cómo se admite a los niños en el Plan Corresponsables 2022",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el procedimiento de admisión de menores en los servicios de conciliación en periodos no lectivos del Plan Corresponsables Yecla 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "706267C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Consulta pública para una ordenanza de los puntos de recarga de coches eléctricos",
+      "categoria": "normativa",
+      "resumen": "Se abre una consulta pública de 15 días en la web municipal para que vecinos y entidades opinen sobre la futura ordenanza que regulará el uso y el precio de los puntos municipales de recarga de vehículos eléctricos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "682884A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Tercera tanda de ayudas para luz, gas, agua y electrodomésticos",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas a personas y familias para pagar suministros básicos (luz, gas, agua) y comprar electrodomésticos eficientes, según el informe de Servicios Sociales. El acta no indica cuántas ni el importe.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe ayuda"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621084R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "La CARM da 5.000 € para atender a refugiados de Ucrania",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención de 5.000 € de la Comunidad Autónoma para cubrir necesidades básicas de personas desplazadas por la guerra de Ucrania sin recursos suficientes.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694244D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Programación del Teatro Concha Segura en diciembre",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban dos conciertos (Voces de Hécula y Los Ruiseñores, 800 €; Concierto de Fin de Año de la Orquesta Diesis, 10.285 €), con un presupuesto de 11.085 € y entradas de 6 a 12 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11085.0,
+      "importes": [
+        {
+          "concepto": "Concierto 'Juntos por Navidad', Voces de Hécula y Los Ruiseñores (27/12/2022)",
+          "eur": 800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Concierto Fin de Año, Orquesta Diesis (30/12/2022)",
+          "eur": 10285.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "16",
+      "titulo": "Mercado de Navidad 2022 en la Plaza Mayor y calles cercanas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el Mercado de Navidad del 19 al 24 de diciembre en la Plaza Mayor y las calles Martínez Corbalán, Niño Jesús y Hospital, con un presupuesto de 2.958,45 € según el acuerdo (la tabla del acta suma 3.061,30 € con IVA).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2958.45,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "688508M",
+      "lugar": "Plaza Mayor, calles Martínez Corbalán, Niño Jesús y Hospital",
+      "interes": 2
+    },
+    {
+      "ref": "17",
+      "titulo": "No a enviar Protección Civil a la carrera popular de Lorquí",
+      "categoria": "organizacion",
+      "resumen": "Se deniega al Ayuntamiento de Lorquí la ayuda de voluntarios de Protección Civil de Yecla para su carrera popular porque el reglamento no lo permite fuera del municipio, y se pide a la Policía Local que proponga cambiar el reglamento para poder colaborar con otros municipios.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Lorquí",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "704316R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18",
+      "titulo": "Agua potable para la obra de una vivienda en suelo rústico en Los Baños",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a un particular el suministro de agua potable para las obras de una vivienda unifamiliar en suelo no urbanizable en el paraje Los Baños, con licencia de 2021.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "702682Y",
+      "lugar": "Paraje Los Baños",
+      "interes": 1
+    }
+  ]
+}

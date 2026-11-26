@@ -1,0 +1,813 @@
+{
+  "doc": "2023-06-07_JGL_27",
+  "organo": "JGL",
+  "sesion": 27,
+  "fecha": "2023-06-07",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 34,
+  "resumen": "La Junta de Gobierno pide al Consorcio de Bomberos pagar en cuatro plazos los 888.808 euros de la aportación de 2023 por falta de liquidez, y adjudica por 181.851 euros (dos años) los servicios técnicos y generales del Teatro Concha Segura y el Auditorio. Saca a concurso el servicio de prevención de riesgos laborales (126.189 euros, cuatro años), deniega seis licencias de segregación y parcelación, entre ellas una de Proyecto Denver en Las Teresas, y autoriza a Telefónica a abrir zanjas en unos 180 km de caminos públicos. También aprueba la Escuela de Verano (18.032 euros), el Verano Deportivo, las bases de la Feria de Septiembre y los locales para la campaña de las elecciones generales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 30 y 31 de mayo y del 2 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las tres sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ciberataque a Aqualia y más plazo para proyectos de digitalización",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de FCC Aqualia (empresa del agua) avisando de un acceso no autorizado a sus sistemas informáticos, y de la ampliación del plazo para ejecutar los proyectos de modernización y digitalización de la administración local subvencionados por el Estado.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "comunica incidente"
+        },
+        {
+          "nombre": "Ministerio de Hacienda y Función Pública (convocatoria Orden TER/836/2022)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "783497Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: señalética turística y luces de las Fiestas de San Isidro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la señalización turística del casco urbano y la iluminación de las Fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Nemain Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 40793.94,
+      "importes": [
+        {
+          "concepto": "Infraestructura Fiestas de San Isidro, Lote 1 (iluminación)",
+          "eur": 13205.94,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Suministro e instalación de señalética turística en el casco urbano (C.SU. 1/22)",
+          "eur": 27588.0,
+          "entidad": "Nemain Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719779T, 633349C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Se pide pagar en cuatro plazos los 888.808 € del Consorcio de Bomberos",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Como la Tesorería no tiene liquidez para pagar en dos plazos la aportación anual de 888.807,93 euros al Consorcio de Extinción de Incendios y Salvamento, se le pide pagarla en cuatro plazos de unos 177.762 euros (julio, septiembre, octubre y noviembre), sin intereses.",
+      "entidades": [
+        {
+          "nombre": "Consorcio de Extinción de Incendios y Salvamento de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 888807.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785132M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Denegada a Proyecto Denver la división de su parcela industrial en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a Proyecto Denver, S.L. la licencia para dividir una finca industrial en el Plan Parcial Las Teresas: no se pueden usar los retranqueos como aparcamiento por la normativa contra incendios, los cubiertos pegados a los linderos deben eliminarse y falta suelo para las 10 plazas de aparcamiento exigidas.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        },
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "592130D",
+      "lugar": "Plan Parcial Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Denegada una segregación de finca con vivienda en suelo no urbanizable (posible fraude de ley)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a una vecina segregar una finca con vivienda en suelo no urbanizable agrupándola con otra finca en zona ZEPA (protección de aves): la finca es indivisible y no llega a los 20.000 m² exigidos; el informe advierte que podría buscarse un fraude de ley.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "626707C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Denegada una segregación por no aportar la documentación requerida",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un vecino la licencia de segregación de una finca porque no corrigió las deficiencias: no contempló una construcción en ruinas existente ni acreditó su demolición.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "644399Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Denegada una segregación junto a la Cañada Real de los Serranos",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un vecino la licencia de segregación por documentación incompleta: no acreditó el deslinde con la vía pecuaria Cañada Real de los Serranos ni que los inmuebles cumplen el plan general.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "598819T",
+      "lugar": "Cañada Real de los Serranos",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Denegada una segregación de finca con nave y vivienda junto a la RM-A18",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a una vecina dividir una finca de unos 18.800 m² en suelo no urbanizable con nave, vivienda y piscina (de esta última no consta licencia), dejando las construcciones en una parcela de 5.108 m² agrupada con otra finca lejana: la finca es indivisible y no alcanza la superficie mínima; el informe apunta a un posible fraude de ley.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "679971E",
+      "lugar": "Junto a la carretera RM-A18",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Denegada la parcelación de un local en propiedad horizontal",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega una licencia para dividir un local y unir una parte al local de al lado, porque al estar en régimen de propiedad horizontal queda fuera del control urbanístico municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "629464F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "No se anula una licencia de segregación pese a la oposición de una copropietaria",
+      "categoria": "licencia_obra",
+      "resumen": "Se rechaza dejar sin efecto una licencia de segregación concedida en enero de 2023, pedida por una copropietaria por haber un pleito sobre los terrenos: la licencia se dio salvo el derecho de propiedad y solo cambiaría con una sentencia firme.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "625197E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Corregida la segregación de una parcela de las Obras Misionales Pontificias",
+      "categoria": "licencia_obra",
+      "resumen": "Se modifica la licencia de 2020 para segregar una parcela de 1.576 m² (1.011 m² industriales y 565 m² de viales) de una finca de las Obras Misionales Pontificias; el resto (10.559 m²) queda en suelo urbanizable no programado.",
+      "entidades": [
+        {
+          "nombre": "Obras Misionales Pontificias",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470151N, 748968J, 749770Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Reducción de jornada a una agente de Empleo y Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se concede a una agente de Empleo y Desarrollo Local una reducción de jornada sin sueldo del 43,44% para cuidar de un hijo menor de 12 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782959T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Permiso por matrimonio a una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil un permiso de 15 días por matrimonio, del 12 al 26 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Denegadas vacaciones fuera de agosto a una limpiadora de colegio",
+      "categoria": "personal",
+      "resumen": "Se deniega a una limpiadora del CEIP Miguel Ortuño tomar vacaciones del 17 de julio al 14 de agosto, porque el personal de los colegios debe tomarlas en agosto, cuando el centro cierra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "782710Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Contratación de un limpiador para la Casa Consistorial en verano",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un limpiador para la Casa Consistorial del 26 de junio al 24 de septiembre por acumulación de tareas en verano.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783796F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Sustituta para una técnica de Educación Infantil de permiso",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de Educación Infantil (27,5 horas semanales) para sustituir a una tutora de la Escuela Infantil 'El Parque' durante su permiso por matrimonio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782269K",
+      "lugar": "Escuela Infantil 'El Parque'",
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Sustituta para una técnica de Educación Infantil de baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de Educación Infantil (30 horas semanales) para sustituir a la tutora de un aula de 2-3 años de la Escuela Infantil 'El Parque' durante su baja, como máximo hasta final de curso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784239X",
+      "lugar": "Escuela Infantil 'El Parque'",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Fecha de recepción de la obra de la calle San Antonio",
+      "categoria": "contrato",
+      "resumen": "Se fija el 12 de junio para recibir las obras de reurbanización de la calle San Antonio, entre San Francisco y Don Lucio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "654214F (C.O. 7/22)",
+      "lugar": "Calle San Antonio, entre calle San Francisco y calle Don Lucio",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Se retrasa al 3 de julio la recepción de la Capilla de las Angustias",
+      "categoria": "contrato",
+      "resumen": "Se aplaza del 2 de junio al 3 de julio el acto de recepción de las obras de restauración de la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C (C.O. 1/22)",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Servicios técnicos del Teatro Concha Segura y el Auditorio: 181.851 € en dos años",
+      "categoria": "contrato",
+      "resumen": "Se adjudican a un particular los dos lotes del contrato de servicios técnicos (53.996,25 €/año) y generales (36.929,20 €/año) para los espectáculos de Cultura en el Teatro Concha Segura, el Auditorio y otros lugares, por dos años prorrogables.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 181850.9,
+      "importes": [
+        {
+          "concepto": "Lote 1: servicios técnicos (2 años)",
+          "eur": 107992.5,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Lote 2: servicios generales (2 años)",
+          "eur": 73858.4,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "739284J (C.SE. 7/23)",
+      "lugar": "Teatro Concha Segura y Auditorio Juan Miguel Benedito",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Licitación del servicio de prevención de riesgos laborales: 126.189 € en 4 años",
+      "categoria": "contrato",
+      "resumen": "Se saca a concurso por 126.189,28 euros (cuatro años) el servicio de prevención ajeno para la plantilla municipal: higiene industrial, seguridad en el trabajo, ergonomía, psicología y vigilancia de la salud.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 126189.28,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784028D (C.SE. 13/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano de 'La Ibense IV' en la Plaza de la Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (40 m², hasta el 31 de octubre) del establecimiento 'La Ibense IV'.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777336J",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de verano de 'Shop, Pan & Café' en la Placeta de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Shop, Pan & Café, S.L. una terraza de verano de 44 m² hasta el 31 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Shop, Pan & Café, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782266F",
+      "lugar": "Placeta de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de verano del 'Restaurante Estirpe' en la Plaza de la Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (30 m², hasta el 31 de octubre) del 'Restaurante Estirpe'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777311Z",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano de 'El Ventorrillo' en las calles Concepción y Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (24 m², hasta el 31 de octubre) del establecimiento 'El Ventorrillo'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754995E",
+      "lugar": "Calles Concepción y Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de verano del Café-Bar 'Medieval' en la calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (16 m², hasta el 31 de octubre) del Café-Bar 'Medieval'.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755001N",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza del salón de juegos 'El Trébol' en la calle San Valentín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a González Máquinas Recreativas y de Azar, S.L. una terraza de verano de 14 m² para el salón de juegos 'El Trébol'.",
+      "entidades": [
+        {
+          "nombre": "González Máquinas Recreativas y de Azar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768739T",
+      "lugar": "Calle San Valentín",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Procesión de la Octava del Corpus de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión de la Octava del Corpus el 17 de junio por el barrio del Niño Jesús; la parroquia debe retirar y limpiar las alfombras de sal y papelitos.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "775696F",
+      "lugar": "Iglesia del Niño Jesús y calles Juan Ortuño, Pizarro, Niño Jesús y Murillo",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Procesión del Corpus Christi del Cabildo de Cofradías el 11 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Cabildo Superior de Cofradías Pasionarias la procesión del Corpus Christi desde la Basílica de la Purísima, con corte de tráfico y retirada de vehículos.",
+      "entidades": [
+        {
+          "nombre": "Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784383X",
+      "lugar": "Basílica de la Purísima y calles del centro",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil (24 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "781765K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Sesiones para una boda civil (1 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764842F",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón de Sesiones para una boda civil (13 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a celebrar su boda civil en el Salón de Sesiones de la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769503E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Aula del Edificio Bioclimático para cursos de ASOCOMY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de comerciantes ASOCOMY a usar un aula del Edificio Bioclimático cuatro días entre junio y noviembre para cursos de la Cámara de Comercio de Murcia.",
+      "entidades": [
+        {
+          "nombre": "ASOCOMY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalaciones"
+        },
+        {
+          "nombre": "Cámara de Comercio de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "imparte cursos"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "782777Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de actos del Edificio Bioclimático para la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Red Deportiva Yecla a usar el salón de actos el 14 de junio para una reunión de padres de la sección de baloncesto.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita uso de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785367N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Salón de Plenos para la asamblea de la Asociación Ruta del Vino de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla a celebrar su asamblea ordinaria en el Salón de Plenos el 8 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784101E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Patio del colegio Giner de los Ríos para ensayos de fin de curso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el patio del colegio por las tardes durante junio para ensayar la fiesta de fin de curso.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784205Z",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Escuela Municipal de Verano 2023 para conciliar: 18.032 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la Escuela Municipal de Verano del 26 de junio al 30 de julio, con un gasto de 18.031,61 euros financiado por el Plan Corresponsables, para niños de 3 a 12 años con prioridad para familias monoparentales, víctimas de violencia de género, mujeres desempleadas y familias de rentas bajas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 18031.61,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780806D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Locales, farolas y paneles para la campaña de las elecciones generales del 23-J",
+      "categoria": "organizacion",
+      "resumen": "Se ponen a disposición de la Junta Electoral de Zona locales municipales (Auditorio, Casa de Cultura, Centro de Desarrollo Local, Edificio Bioclimático, institutos y colegios) y espacios en la calle San Francisco-Parque de la Constitución para los mítines del 7 al 21 de julio, y se contratará un autobús para que los vecinos de Raspay vayan a votar.",
+      "entidades": [
+        {
+          "nombre": "Junta Electoral de Zona",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "destinataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784011E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Programa Verano Deportivo 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa municipal de actividades deportivas de verano, pagado con el presupuesto ordinario de Deportes (personal, instalaciones y contratos ya previstos).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783433C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Bases para elegir las atracciones y casetas de la Feria de Septiembre 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar las atracciones, puestos y casetas de la Feria de Septiembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783997K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Permiso al ITREM para la vía verde del Chicharra entre Yecla y Cieza",
+      "categoria": "convenio",
+      "resumen": "Se autoriza al Instituto de Turismo de la Región de Murcia a actuar en terrenos municipales para acondicionar el itinerario que conecta las vías verdes del Chicharra entre Yecla y Cieza, respetando distancias a los caminos y con licencia urbanística previa.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promotor"
+        },
+        {
+          "nombre": "Neten Consultoría, S.L.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "dirección facultativa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697547Q",
+      "lugar": "Vía Verde del Chicharra",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Telefónica podrá abrir zanjas en unos 180 km de caminos públicos para fibra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Elecnor, en nombre de Telefónica, a ampliar la red de telecomunicaciones por caminos públicos del término (unos 180 km en 18 meses), con zanjas protegidas con hormigón y una fianza de 21.446,53 euros para reponer el firme.",
+      "entidades": [
+        {
+          "nombre": "Telefónica España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Elecnor Servicios y Proyectos, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 21446.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772931Q",
+      "lugar": "Caminos públicos del término municipal",
+      "interes": 3
+    },
+    {
+      "ref": "15",
+      "titulo": "Cambio de vehículo de la licencia de taxi nº 3",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular de la licencia de taxi número 3 a sustituir su vehículo por un Ford Tourneo Connect.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783115K",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

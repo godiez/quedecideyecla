@@ -1,0 +1,916 @@
+{
+  "doc": "2024-10-22_JGL_51",
+  "organo": "JGL",
+  "sesion": 51,
+  "fecha": "2024-10-22",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta de Gobierno paga 355.382 euros en facturas, sobre todo a Actúa (basura, limpieza viaria y jardines) y Alma Ata Salud (centro de día de mayores). Corrige el precio de la obra de mejora de aceras y espacios peatonales adjudicada a Mediterráneo de Obras y Asfaltos: son 1,23 millones y no 1,15 como se escribió por error. Licita la restauración paisajística del paraje Las Celadillas (185.094 euros, fondos europeos) y la climatización de la Escuela de Música (59.500 euros), adjudica la renovación del alcantarillado de la calle San Antonio (47.559 euros) y pide 280.705 euros al SEF para un programa de empleo y formación. Rechaza ceder al CETEM un solar municipal para ampliar su sede porque el planeamiento no lo permite.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 15 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: daños por las inundaciones de junio, cambio climático en el Plan General y mejoras de jardines",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de la Delegación del Gobierno que pide un informe de daños por las inundaciones del 10 al 13 de junio de 2024, del informe de la CARM sobre los efectos en el cambio climático del nuevo Plan General Municipal de Ordenación, y de un informe técnico sobre cómo se están ejecutando las mejoras ofrecidas en el nuevo contrato de mantenimiento de zonas verdes.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide informe de daños"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Natural y Acción Climática (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa sobre el Plan General"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "982612P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: basura, jardines, centro de día, socorrismo, grúa y teatro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar nueve facturas: recogida de basura y limpieza viaria y mantenimiento de jardines de septiembre (Actúa), centro de día de mayores dependientes (Alma Ata Salud), actividades deportivas y socorrismo de junio a septiembre (Podium), grúa municipal (Grúas Los Raspas) y la obra de teatro 'Poncia' (Pentación).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Pentación, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 355381.55,
+      "importes": [
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva, septiembre 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos, septiembre 2024",
+          "eur": 7514.1,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, septiembre 2024",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, septiembre 2024",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, junio 2024",
+          "eur": 12943.94,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, julio 2024",
+          "eur": 15965.01,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, agosto 2024",
+          "eur": 12107.48,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, septiembre 2024",
+          "eur": 9050.57,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actuación 'Poncia' en el Teatro Concha Segura (contrato menor)",
+          "eur": 6461.4,
+          "entidad": "Pentación, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 697847H, 777199T, 836272P, 941685X, 986309Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso sin sueldo de dos semanas a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa del Negociado de Personal licencia por asuntos propios sin retribución del 4 al 17 de noviembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993970P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Renuncia de un mantenedor municipal contratado como sustituto",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia, desde el 21 de octubre de 2024, de un trabajador contratado como mantenedor para sustituir a otro de baja.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994393C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Cinco trabajadoras de Atención Temprana van a un congreso en Lorca",
+      "categoria": "personal",
+      "resumen": "Se ordena a cinco trabajadoras del Centro de Desarrollo Infantil y Atención Temprana asistir al XIV Congreso Nacional de Atención Temprana en Lorca (7 a 9 de noviembre), con desplazamiento, estancia y manutención a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Federación Española de Asociaciones de Profesionales de Atención Temprana (GAT)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el congreso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994252F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nuevo contrato de correduría de seguros del Ayuntamiento (Willis, Marsh y AON)",
+      "categoria": "contrato",
+      "resumen": "A través de la central de contratación de la FEMP, se adjudica por un máximo de 3 años la mediación de los seguros municipales: lotes 1 y 2 (responsabilidad civil y daños) a Willis Iberia, lote 3 (accidentes y vida) a la UTE Marsh-Desaterra y lote 4 (flota de vehículos) a AON Iberia. Valor estimado 32.715,08 €, que pagan las aseguradoras en comisiones, sin coste para el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Willis Iberia Correduría de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria lotes 1 y 2"
+        },
+        {
+          "nombre": "UTE Marsh, S.A. Mediadores de Seguros y Desaterra Partners, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria lote 3"
+        },
+        {
+          "nombre": "AON Iberia Correduría de Seguros y Reaseguros, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria lote 4"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32715.08,
+      "importes": [
+        {
+          "concepto": "Lote 1: Responsabilidad civil (valor estimado)",
+          "eur": 18657.55,
+          "entidad": "Willis Iberia Correduría de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Lote 2: Daños materiales (valor estimado)",
+          "eur": 7100.87,
+          "entidad": "Willis Iberia Correduría de Seguros y Reaseguros, S.A."
+        },
+        {
+          "concepto": "Lote 3: Accidente y vida (valor estimado)",
+          "eur": 2805.0,
+          "entidad": "UTE Marsh, S.A. Mediadores de Seguros y Desaterra Partners, S.L."
+        },
+        {
+          "concepto": "Lote 4: Flota (valor estimado)",
+          "eur": 4151.66,
+          "entidad": "AON Iberia Correduría de Seguros y Reaseguros, S.A.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987949C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se licita la climatización de la Escuela de Música (59.500 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueban la memoria técnica y el expediente para contratar, por procedimiento abierto simplificado abreviado, la instalación de unidades climatizadoras en la Escuela de Música, con un presupuesto de 59.500 € con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 59500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "983068Y",
+      "lugar": "Escuela de Música",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Renovación del alcantarillado de la calle San Antonio (47.559 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Construcciones J.J. Gómez Yecla, como contrato menor, la renovación de la red de alcantarillado de la calle San Antonio que vierte a la calle Iberia (margen oeste), por 47.559,09 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47559.09,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975385C",
+      "lugar": "Calle San Antonio (tramo que vierte a calle Iberia)",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Técnicos y producción para las Fiestas de la Virgen 2024 (10.103 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional autónomo, como contrato menor, el servicio de técnicos, producción e infraestructura de las Fiestas de la Virgen 2024 por 10.103,50 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10103.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994281X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Proyectores LED para la Basílica de la Purísima (7.719 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Grupo Electro Stocks, como contrato menor, el suministro de proyectores LED para iluminar la Basílica de la Purísima Concepción, por 7.719,48 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Grupo Electro Stocks, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7719.48,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "990618J",
+      "lugar": "Basílica de la Purísima Concepción",
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Relleno de corcho del césped artificial del campo 2 del Juan Palao Azorín (16.940 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Realturf Systems, como contrato menor, el suministro de corcho para el relleno del césped artificial del campo nº 2 del complejo deportivo Juan Palao Azorín y su mantenimiento especial, por 16.940 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Realturf Systems, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16940.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875087Z",
+      "lugar": "Complejo Deportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 6 m² para el Bar La Bohemia en la calle España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del Bar La Bohemia una terraza anual de 6 m² en la calle España, del 1 de noviembre de 2024 al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Bar La Bohemia",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "obtiene terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "995401C",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 40 m² para la Cafetería Zeta en la Placeta Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Z Cafetería C.B. una terraza anual de 40 m² para la Cafetería Zeta en la Placeta Ortega, del 1 de noviembre de 2024 al 31 de octubre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Z Cafetería C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene terraza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989600W",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Fiesta de Holywins de la Parroquia del Niño Jesús en la calle",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia del Niño Jesús a usar la calle del Niño y la zona de aparcamiento el 31 de octubre por la tarde para la fiesta infantil de Holywins (juegos, tómbola, disfraces, música e hinchable).",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "organiza la fiesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988896R",
+      "lugar": "Calle del Niño Jesús y zona de aparcamiento",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Sala del Edificio Bioclimático para la asamblea de Costsune Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Cultural Costsune Yecla a usar una sala del Edificio Bioclimático el 26 de octubre para su reunión general de socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Costsune Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994549T",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Sala del Edificio Bioclimático para una reunión de Halloween de Costsune Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Cultural Costsune Yecla a usar una sala del Edificio Bioclimático el 2 de noviembre para una reunión con temática de Halloween.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Costsune Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994694W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Sala del Centro de Emprendimiento para AMAS (sanidad del Altiplano)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para la Mejora de la Sanidad del Altiplano (AMAS) a usar la sala de reuniones del Centro de Emprendimiento el 28 de octubre para una reunión informativa.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Mejora de la Sanidad del Altiplano (AMAS)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994170R",
+      "lugar": "Centro de Emprendimiento (calle Arcipreste Esteban Díaz, 44)",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Teatro Concha Segura gratis para la gala benéfica de AFAY (alzhéimer)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cambia al 30 de octubre la fecha de uso del Teatro Concha Segura por la Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla para su certamen benéfico anual, con reducción del 100% del precio público (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla (AFAY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el teatro gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922243T",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Auditorio para la presentación de un libro de fotografías",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a usar el Auditorio Municipal Juan Miguel Benedito el 14 de noviembre para presentar un libro de fotografías, previo pago del precio público de 120 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993218W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Misa de Pajes de los Mayordomos de la Purísima en San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima Concepción a celebrar la Misa de Pajes en la Iglesia de San Francisco el 6 de diciembre; los gastos de sonido, luz, accesos y SGAE corren a cargo de la organización.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el acto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988079H",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Se piden 280.705 € al SEF para el programa de empleo 'Yecla Incorpora 2024'",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el programa de empleo y formación 'Yecla Incorpora 2024' en atención sociosanitaria a personas en el domicilio (12 meses, hasta 10 alumnos desempleados) y se solicita al Servicio Regional de Empleo y Formación una subvención de 280.705,30 € para hacerlo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "da subvención (solicitada)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 280705.3,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992913X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Consulta pública para crear el reglamento del canal de denuncias",
+      "categoria": "normativa",
+      "resumen": "Se abre una consulta pública de 15 días para que vecinos y asociaciones opinen antes de redactar el Reglamento del Canal de Denuncias del Ayuntamiento, obligatorio por la ley de protección de quienes informan sobre infracciones y corrupción (Ley 2/2023).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "994338A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de seguridad de la obra del alcantarillado de la calle San Antonio",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por Construcciones J.J. Gómez Yecla para la renovación del alcantarillado de la calle San Antonio.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975385C",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Cambio de puesto en el Mercado de San Cayetano (de carnicería a frutos secos)",
+      "categoria": "patrimonio",
+      "resumen": "El puesto 6L del Mercado de San Cayetano, vacante, pasa de carnicería a venta de frutos secos, legumbres y especias y se adjudica al titular del puesto 9L, que lo deja y recupera su fianza de 83,40 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993328Y",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "No se cede al CETEM un solar municipal en la calle Perales para ampliar su sede",
+      "categoria": "patrimonio",
+      "resumen": "El Centro Tecnológico del Mueble y la Madera (CETEM) pidió en 2022 un solar municipal de 227 m², junto a su sede, para construir un edificio de ampliación. La Junta decide no tramitar la cesión porque el Plan General califica ese suelo como Sistema General de Formación Profesional y el uso pedido sería contrario al planeamiento.",
+      "entidades": [
+        {
+          "nombre": "Centro Tecnológico del Mueble y la Madera de la Región de Murcia (CETEM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita cesión del solar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "693871K",
+      "lugar": "Esquina de calle Perales y Travesía de calle Perales",
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Préstamo de 20 vallas al AMPA del CEIP Méndez Núñez para Halloween",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden al AMPA del CEIP Méndez Núñez las 20 vallas municipales disponibles para su fiesta de Halloween del 25 de octubre.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe material prestado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991171C",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Protección Civil acompañará las rutas de senderismo de los mayores del IMAS",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil a acompañar las 15 rutas de senderismo del Centro Social de Personas Mayores del IMAS de noviembre de 2024 a mayo de 2025.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS en Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza las rutas"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "acompaña las rutas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992548P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Cinco tarjetas de residente de zona azul",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a cinco vecinos la condición de residente en zona azul para sus vehículos, válida hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988539X, 988962J, 988954Y, 988958D, 984659H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Permiso para abrir una zanja de riego en el camino Quitapellejos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino a abrir una zanja en el camino público Quitapellejos para instalar una conducción de riego, con fianza de 300 € para reponer el firme y previa obtención del título urbanístico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "993894J",
+      "lugar": "Camino público Quitapellejos (polígono 66)",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Contrato de una técnica de educación infantil para la E.I. Alameda",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se contrata de la bolsa de empleo a una técnica de educación infantil a media jornada para sustituir a una trabajadora de baja en la Escuela Infantil Alameda, como máximo hasta el final del curso 2024/25.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "995740Y",
+      "lugar": "Escuela Infantil Alameda",
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Tres policías locales a unas jornadas sobre violencia contra la mujer",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se ordena a tres agentes de la Policía Local asistir en Murcia, el 25 de octubre, a unas jornadas sobre violencia sobre la mujer organizadas por la Delegación del Gobierno.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza las jornadas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996179H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Ratificada la asistencia de la directora de la ADL a una reunión en Jumilla",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se ratifica la orden de servicio a la directora de la Agencia de Desarrollo Local para asistir el 15 de octubre a una reunión de la Escuela de Formación e Innovación de la Administración Pública en Jumilla, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "995096D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Ratificada la asistencia de personal de la ADL a un encuentro sobre fondos europeos",
+      "categoria": "personal",
+      "resumen": "Por urgencia, se ratifica la orden de servicio a tres trabajadoras de la Agencia de Desarrollo Local para asistir en Murcia, el 22 de octubre, a un encuentro técnico sobre fondos europeos Next Generation, con gastos de desplazamiento a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "995370J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Se licita la restauración paisajística del paraje Las Celadillas (185.094 €)",
+      "categoria": "contrato",
+      "resumen": "Por urgencia, se aprueban el proyecto y el expediente para licitar, por procedimiento abierto simplificado, la restauración paisajística y recuperación de zonas húmedas y hábitats de flora y fauna en el paraje Las Celadillas, junto a la balsa de la depuradora (EDAR). Presupuesto de 185.093,92 € con IVA, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' financiado por el ITREM con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia (fondos Next Generation EU)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 185093.92,
+      "importes": [
+        {
+          "concepto": "Partida 2024-432-62724",
+          "eur": 152970.18,
+          "entidad": null
+        },
+        {
+          "concepto": "Partida 2024-241-62718",
+          "eur": 32123.74,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987951E",
+      "lugar": "Paraje Las Celadillas, junto a la balsa reguladora de la EDAR",
+      "interes": 3
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Corregido el precio de la obra de espacios peatonales: 1,23 millones y no 1,15",
+      "categoria": "contrato",
+      "resumen": "Por urgencia, se corrige un error en la adjudicación del 24 de septiembre de la obra de mejora de los espacios peatonales (zonas de bajas emisiones, fondos Next Generation): el precio correcto es el ofertado por la adjudicataria, Mediterráneo de Obras y Asfaltos, 1.226.441,65 € con IVA, y no 1.145.389,85 €, que era la oferta de otra licitadora (Guerola Áridos y Hormigones) que no ganó.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Guerola Áridos y Hormigones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora no adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1226441.65,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Cabinas de baños portátiles para instalaciones deportivas (6.520 €)",
+      "categoria": "contrato",
+      "resumen": "Por urgencia, se adjudica a Edeko Equipamiento, como contrato menor, el suministro de cabinas portátiles de sanitarios para instalaciones deportivas por 6.520 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Edeko Equipamiento, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6520.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "986759Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Trabajos en beneficio de la comunidad en el Servicio de Juventud",
+      "categoria": "otros",
+      "resumen": "Por urgencia, se autoriza que una persona cumpla en el Servicio de Juventud (Edificio Bioclimático y Sótano de Cazadores) una pena de 18 jornadas de trabajo en beneficio de la comunidad, supervisada por una técnica de juventud.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996515Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Visita de la Ruta del Vino al Teatro Concha Segura y la Capilla de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Por urgencia, se autoriza a la Asociación Ruta del Vino de Yecla a visitar el Teatro Concha Segura y la Capilla de la Virgen de las Angustias de San Francisco el 24 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza la visita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "996501E",
+      "lugar": "Teatro Concha Segura e Iglesia de San Francisco",
+      "interes": 1
+    }
+  ]
+}

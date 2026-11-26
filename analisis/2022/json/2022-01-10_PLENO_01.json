@@ -1,0 +1,210 @@
+{
+  "doc": "2022-01-10_PLENO_01",
+  "organo": "PLENO",
+  "sesion": 1,
+  "fecha": "2022-01-10",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 27,
+  "resumen": "Primer Pleno de 2022, corto y sin votaciones divididas: todo se aprueba por unanimidad. Se pasan 6.500 € a reformar el Centro de Mayores Herratillas (caldera) quitándolos de los puntos de recarga de coches eléctricos. Se aprueba definitivamente la expropiación de un terreno particular en la Avenida de la Feria para urbanizar esa zona. A propuesta del PSOE se pide a la Comunidad Autónoma que el canon por construir en suelo no urbanizable lo cobren los ayuntamientos, y a propuesta de IU-Verdes se encarga una nueva ordenanza de bienestar animal con una mesa de trabajo municipal.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de los Plenos del 1 y 13 de diciembre de 2021",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones plenarias del 1 y del 13 de diciembre de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "6.500 € para la caldera del Centro de Mayores Herratillas",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Modificación de créditos 1-P/2022 (suplemento de crédito): se dotan 6.500 € para comprar e instalar una caldera en el Centro Municipal de Personas Mayores Herratillas, quitándolos de la partida de instalación de puntos de recarga de vehículos eléctricos. Queda en información pública 15 días.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 6500.0,
+      "importes": [
+        {
+          "concepto": "Suplemento: reforma Centro Municipal de Personas Mayores Herratillas (231-61133)",
+          "eur": 6500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja: instalación de puntos eléctricos de recarga de vehículos (1721-62301)",
+          "eur": -6500.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "563795Z",
+      "lugar": "Centro de Mayores Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Permiso a un trabajador municipal para dar clase también en la Universidad de Murcia",
+      "categoria": "personal",
+      "resumen": "Se autoriza la compatibilidad al director de la Escuela Municipal de Dibujo para trabajar una mañana a la semana como profesor asociado en la Universidad de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "segundo puesto de trabajo del empleado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "565335N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "ADFY justifica la ayuda de 5.000 € de 2021 para pagar su local social",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención municipal de 5.000 € de 2021 a la Asociación de Discapacitados Físicos de Yecla (ADFY) para amortizar el préstamo con el que compró su local social en la calle Ercilla (convenio de 2007, prorrogado hasta 2022).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (A.D.F.Y.)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495138R",
+      "lugar": "Calle Ercilla (local social de ADFY)",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Expropiación definitiva de un terreno para urbanizar la zona 6 de la Avenida de la Feria",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se aprueba definitivamente la expropiación de una finca de 178 m² (valorada en 9.670,23 €) de un propietario que no se unió a la Junta de Compensación de la Unidad de Actuación Zona 6 de la Avenida de la Feria, para poder seguir urbanizando. La otra finca que estaba incluida sale del expediente porque sus dueños, que habían alegado contra el justiprecio, se adhirieron a la Junta.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación de la Unidad de Actuación Zona 6 del Suelo Urbano Avenida de la Feria",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "beneficiaria de la expropiación; desarrolla la urbanización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 9670.23,
+      "importes": [
+        {
+          "concepto": "Valoración de la finca expropiada (178 m², tasación de la Junta)",
+          "eur": 9670.23,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "215892A",
+      "lugar": "Avenida de la Feria (junto a la carretera de Caudete), Unidad de Actuación Zona 6",
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Propuesta del PSOE: que el canon por construir en suelo rústico lo cobren los ayuntamientos",
+      "categoria": "mocion_politica",
+      "resumen": "Se pide a la Comunidad Autónoma que cambie el artículo 104 de la Ley regional del Suelo para que el canon del 1 % que pagan quienes obtienen autorización excepcional para construir en suelo no urbanizable (naves, plantas solares, viviendas...) lo recauden los ayuntamientos, como en otras comunidades. Debate: el PSOE cifra la recaudación regional en 357.092 € hasta noviembre de 2021; el PP había presentado (y retirado) una enmienda sobre financiación autonómica, sospecha que se busca subir el canon y recuerda que en Yecla son 8-9 expedientes al año, pero vota a favor; Cs e IU-Verdes critican la infrafinanciación de los municipios por la Comunidad.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinataria de la petición"
+        },
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (PP, PSOE, Cs e IU-Verdes)",
+      "expediente": "574081K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Propuesta de IU-Verdes: nueva ordenanza de bienestar animal y mesa de trabajo",
+      "categoria": "mocion_politica",
+      "resumen": "Se encarga a los técnicos redactar una nueva ordenanza de bienestar animal (la de tenencia de animales es de 1998 y está desfasada respecto a la ley regional de 2017), con participación de las asociaciones protectoras y veterinarios, y se crea una Mesa de Trabajo Municipal de Bienestar Animal. Debate: el PP reconoce que la ordenanza está obsoleta y apoya; Cs y PSOE reclaman más dinero para la protectora SPANDY (convenio de 22.000 €, ampliado en 15.000 € en el presupuesto 2022) y ponen de ejemplo a Jumilla.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "propone"
+        },
+        {
+          "nombre": "Sociedad Protectora de Animales de Yecla \"Spandy\"",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "mencionada en el debate (convenio municipal)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (PP, PSOE, Cs e IU-Verdes)",
+      "expediente": "574404J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Resoluciones de la Alcaldía",
+      "categoria": "informacion",
+      "resumen": "El Pleno queda informado de las resoluciones de Alcaldía números 5002 a 5472 dictadas desde la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ruegos y preguntas",
+      "categoria": "mocion_politica",
+      "resumen": "No se formulan ruegos ni preguntas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

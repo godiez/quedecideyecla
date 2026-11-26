@@ -1,0 +1,407 @@
+{
+  "doc": "2020-04-21_JGL_16",
+  "organo": "JGL",
+  "sesion": 16,
+  "fecha": "2020-04-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 16,
+  "resumen": "Junta celebrada por videoconferencia durante el estado de alarma. Se informa a favor del interés público de un supermercado en suelo no urbanizable (paraje Las Artesillas) y se deniega a Energías Renovables de la Región de Murcia desviar un camino público para una planta solar de 50 MW. Se aprueban los padrones del agua y de la basura, con el compromiso de devolver la tasa de basura del segundo trimestre a los comercios cerrados por el COVID-19, y se adjudican contratos menores de ascensores y de rutas por el entorno natural.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 15 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas por el COVID-19 y ayudas de empleo juvenil de la CARM",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de normas publicadas: ampliación de plazos de impuestos, convenio tipo contra la economía irregular, excepción de tiempos de conducción en transporte, Plan de Inspección Deportiva 2020, medidas de formación para el empleo del SEPE y dos decretos de la CARM de subvenciones directas a ayuntamientos para orientación de jóvenes y Garantía Juvenil.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "regula subvenciones"
+        },
+        {
+          "nombre": "Servicio Público de Empleo Estatal (SEPE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "442638A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago del agua comprada a la A.A.T. Aguas de Pinoso",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 7.850 m3 de agua suministrada por la A.A.T. Aguas de Pinoso.",
+      "entidades": [
+        {
+          "nombre": "A.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6044.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "444471X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 15 del edificio educativo polivalente de La Alameda",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 15 de la obra del edificio educativo polivalente en el barrio de La Alameda, a favor de la contratista.",
+      "entidades": [
+        {
+          "nombre": "Avance y Desarrollo de Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19235.71,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "65557C",
+      "lugar": "Barrio de La Alameda",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Padrones del agua y la basura; se devolverá la basura a comercios cerrados por el COVID",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban la lista cobratoria del agua del 1er trimestre de 2020 (294.347,03 €; canon municipal 49.490,90 € y canon de saneamiento autonómico 243.666,09 €) y la de basura del 2º trimestre (356.826 €), se anulan recibos por 44 €, y se acuerda tramitar la devolución de la tasa de basura del 2º trimestre a los establecimientos cerrados por el estado de alarma, aplazando su cobro hasta que puedan reabrir.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 651173.03,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 1er trimestre 2020",
+          "eur": 294347.03,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon municipal (liquidación a favor del Ayuntamiento)",
+          "eur": 49490.9,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon de saneamiento a recaudar por cuenta de la CARM",
+          "eur": 243666.09,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Lista cobratoria tasa de basura 2º trimestre 2020",
+          "eur": 356826.0,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación de recibos de basura 2019",
+          "eur": 44.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "443764P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para construir una vivienda unifamiliar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir una vivienda unifamiliar entre medianeras, con fianza de 120 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "338836F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "A favor del interés público de un supermercado en suelo no urbanizable (Las Artesillas)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Sin alegaciones en la información pública, se informa favorablemente la declaración de interés público para que CERTAIN, S.L. construya un supermercado en suelo no urbanizable, y se remite a la Consejería de Fomento para que lo autorice.",
+      "entidades": [
+        {
+          "nombre": "CERTAIN, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "332713C (S.N.U. 3/2020)",
+      "lugar": "Paraje Las Artesillas, polígono 44, parcela 300",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Denegada asistencia jurídica a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se deniega pagar abogado a un agente que debe comparecer en un juicio como testigo o para ratificar una denuncia, porque el criterio municipal es no cubrir esos casos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "348547T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Vacaciones de 22 días seguidos para un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se permite a un agente disfrutar 22 días seguidos de vacaciones en 2020, compensando con dos días más de servicio en el resto del año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "307453T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Rechazado recurso de un agente al que se negó ir a un congreso",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de un agente de la Policía Local contra la negativa a autorizarle asistir al 17º Congreso sobre la violencia contra la mujer; el agente alegaba enemistad de un mando, que lo niega. También se le deniegan un informe de Secretaría y la eliminación de un archivo del expediente (se tiene por no presentado).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "291572A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Reincorporación en teletrabajo de una arquitecta municipal",
+      "categoria": "personal",
+      "resumen": "Una arquitecta municipal vuelve a su puesto tras un permiso sin sueldo, en teletrabajo y con horario adaptado por conciliación, sin cobrar el complemento de jornada partida.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "429493T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato menor de mantenimiento de ascensores municipales 2020-2021",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Zardoya Otis el mantenimiento reglamentario anual de los ascensores de todos los edificios municipales.",
+      "entidades": [
+        {
+          "nombre": "Zardoya Otis, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6238.52,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "441471E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato menor para rutas por el entorno natural de Yecla (Leader)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular (autónomo) el suministro para poner en marcha rutas para descubrir el entorno natural de Yecla, dentro del programa Leader.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 17908.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "442333C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Convenio con la Universidad de Murcia para la Universidad del Mar en Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio de un año con la Universidad de Murcia para la sede de Yecla de la Universidad Internacional del Mar, con una aportación municipal de 7.000 € para el seminario 'La Cristianización de las Villas Romanas de Hispania'.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "recibe aportación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "425822W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Aqualia renovará la red de agua en calle Pablo Casals",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia y se le ordena renovar la red de agua en calle Pablo Casals, entre calle Játiva y calle Lorca, dentro del contrato del servicio de agua.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6028.68,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "441520Y",
+      "lugar": "Calle Pablo Casals (entre calle Játiva y calle Lorca)",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Denegado desviar un camino público para una planta solar de 50 MW (Peñarrubia)",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a Energías Renovables de la Región de Murcia desviar un camino vecinal público para optimizar la planta fotovoltaica 'FV Peñarrubia 50 MW': haría falta un expediente de desafectación y afectación aprobado por el Pleno con mayoría absoluta, y antes inventariar el camino.",
+      "entidades": [
+        {
+          "nombre": "Energías Renovables de la Región de Murcia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "432384J",
+      "lugar": "Camino vecinal, polígono 86, parcela 9007 (Peñarrubia)",
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Se traslada una papelera pero no un árbol ante una futura cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un particular que va a construir una vivienda, se autoriza mover una papelera de la acera para facilitar el acceso a la cochera, pero se deniega mover el árbol porque no estorba. Un concejal se ausenta por vecindad con la interesada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad (un concejal ausente por vecindad)",
+      "expediente": "442303K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Una arquitecta municipal seguirá los planes hidrológicos del Segura y el Júcar",
+      "categoria": "personal",
+      "resumen": "Urgente: se designa a una arquitecta municipal para el seguimiento de los Planes Hidrológicos de las cuencas del Segura y del Júcar en lo que afecta a Yecla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "448367H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Anticipo de sueldo a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Urgente: se concede a un agente de la Policía Local un anticipo de 4.570 € de su nómina, a devolver en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4570.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "444846R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Permiso retribuido al final del embarazo para una empleada",
+      "categoria": "personal",
+      "resumen": "Urgente: se concede a una agente de Desarrollo Local-Turismo el permiso retribuido de final de gestación hasta el parto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "444844P",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

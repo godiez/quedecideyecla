@@ -1,0 +1,757 @@
+{
+  "doc": "2024-03-05_JGL_10",
+  "organo": "JGL",
+  "sesion": 10,
+  "fecha": "2024-03-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 30,
+  "resumen": "La Junta de Gobierno paga casi 197.000 euros en facturas (aportación anual al Consorcio de Residuos, limpieza de edificios, deportes y el proyecto Housing First para personas sin hogar) y adjudica por 38.720 euros la renovación de 55 metros de alcantarillado en la calle Alférez Maestre. Concede siete licencias de obra, entre ellas placas solares para una comunidad de regantes y obras urgentes en el alero de la Basílica de la Purísima. También autoriza la clausura de la Ruta del Vino y la Tapa, la Marcha BTT Komokabras y crea la comisión para llevar el museo de Semana Santa a la Iglesia de San Francisco.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 27 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: análisis de agua, depuradora, sanidad vegetal, turismo y POS",
+      "categoria": "informacion",
+      "resumen": "Se informa de escritos de la Confederación Hidrográfica del Segura (análisis del agua para consumo 2022-2023), de la Entidad de Saneamiento y Depuración (características del agua que entra en la depuradora, 2º semestre 2023), de una resolución de medidas fitosanitarias en una parcela, del Instituto de Turismo pidiendo información sobre subvenciones pendientes de justificar y de la Dirección General de Administración Local sobre el Plan de Obras y Servicios (POS) 2024-2025.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide información"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "894948J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: residuos, Housing First, deportes y limpieza de edificios",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la aportación de 2024 al Consorcio de Residuos, cuatro meses de 2023 del proyecto piloto Housing First (alojamiento para personas sin hogar), las actividades deportivas, socorrismo y Plan Corresponsable de enero y la limpieza de edificios municipales de febrero.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 196865.05,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos: aportación 2024",
+          "eur": 73473.0,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Proyecto piloto Housing First y alojamiento transitorio, marzo 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto piloto Housing First y alojamiento transitorio, abril 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto piloto Housing First y alojamiento transitorio, junio 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Proyecto piloto Housing First y alojamiento transitorio, agosto 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, enero 2024",
+          "eur": 25534.07,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsable, enero 2024",
+          "eur": 14282.15,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, febrero 2024",
+          "eur": 53116.71,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 647410F, 785944P, 777197Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del concierto 'Siempre Ríos' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (4.053,80 € vendidos) y la baja de las entradas no vendidas (3.962,20 €) del espectáculo del 17 de febrero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4053.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de la obra 'Entrevista con mi hija Mari' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla (2.743,40 € vendidos) y la baja de las entradas no vendidas (6.748,60 €) de la función del 24 de febrero.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2743.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "El Ayuntamiento paga el entierro de una vecina sin recursos",
+      "categoria": "pago_factura",
+      "resumen": "A propuesta de Servicios Sociales, el Ayuntamiento asume los gastos de sepelio de una ciudadana sin recursos económicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1400.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "889096F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia modificada para vivienda con piscina en Cañada del Pulpillo",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza modificar el proyecto de una vivienda unifamiliar aislada concedida en 2015 (ahora con garaje, trastero, piscina y anexos) y se concede la licencia a los nuevos promotores.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872607E",
+      "lugar": "Paraje Cañada del Pulpillo-Casa Palao",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Corrección de un apellido en una licencia de vivienda de diciembre",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige un error material en el apellido de uno de los promotores de una licencia de vivienda aislada con barbacoa y piscina concedida el 5 de diciembre de 2023 (zona inundable).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672223T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para vivienda con garaje y piscina en Umbría Peñas Blancas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a una vecina para construir una vivienda unifamiliar con garaje y piscina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788250R",
+      "lugar": "Paraje Umbría Peñas Blancas",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para placas solares de bombeo de riego de una comunidad de regantes",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la Comunidad de Regantes Hoya del Mollidar-El Portichuelo para una instalación fotovoltaica aislada que bombea agua subterránea para riego.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801/2023, 857571X",
+      "lugar": "Paraje Portichuelo (polígono 57)",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para obras urgentes en el alero de la Basílica de la Purísima",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a la Parroquia de la Purísima Concepción para actuaciones urgentes en el alero de la Basílica.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima Concepción",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854836Y",
+      "lugar": "Calle España, 3",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para ascensor en dos edificios de la calle Miguel Golf",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a las comunidades de propietarios de Miguel Golf 6 y 8 para instalar un ascensor y suprimir barreras arquitectónicas.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios Miguel Golf 6",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Comunidad de Propietarios Miguel Golf 8",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865444F",
+      "lugar": "Calle Miguel Golf, 6 y 8",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para una nave agrícola de 100 m²",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a un vecino para construir una nave agrícola de 100 m² en suelo rústico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868773E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia para reformar y ampliar una vivienda con piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a una vecina para reformar y ampliar una vivienda unifamiliar aislada con piscina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876928F",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia para una vivienda entre medianeras en el casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a una vecina para construir una vivienda unifamiliar entre medianeras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882041H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se prepara una bolsa de empleo de técnicos de museos",
+      "categoria": "personal",
+      "resumen": "Como hay una plaza vacante de técnico de museos que no pudo entrar en la oferta de empleo, se encarga redactar las bases de una bolsa de empleo por concurso-oposición.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890074P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de un fontanero y bolsa de sustituciones",
+      "categoria": "personal",
+      "resumen": "Se contrata a un fontanero oficial de 1ª por acumulación de tareas y se crea una bolsa de sustitución con cuatro aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "873737Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Viaje a Madrid para recoger el galardón Senderos Azules",
+      "categoria": "personal",
+      "resumen": "Se ordena a una técnica de Turismo asistir en Madrid el 13 de marzo a la entrega de banderas de Senderos Azules 2024, galardón para las pasarelas Yecla Valora y el Mirador de la Molineta; el Ayuntamiento paga desplazamiento y dietas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Educación Ambiental y del Consumidor (ADEAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "894625K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Permiso para la clausura de la Ruta del Vino y la Tapa en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla la clausura de la 11ª Ruta del Vino y la Tapa el 10 de marzo, con venta de alcohol y permiso para superar el límite de ruido; el Ayuntamiento presta carpas, tableros, bancos, vallas, contenedores y un generador. Fianza de 400 € por la limpieza.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890980Y",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Aplazado un puesto de patatas fritas y pizzas en Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa la petición de un vecino para instalar un puesto-remolque de comida del 26 de marzo al 1 de abril, a la espera de un informe sobre si el lugar es adecuado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "889112D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Tamborada y procesión del Colegio de La Inmaculada en Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio de La Inmaculada a celebrar una tamborada y una procesión los días 20 y 22 de marzo según el informe de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio de La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891679T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Bolardos junto al paso de peatones de la calle Padre Lasalde",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se instalan bolardos y un limitador de vado junto al paso de peatones de la calle Padre Lasalde para evitar aparcamientos indebidos que causan atascos en horas punta.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "888855X",
+      "lugar": "Calle Padre Lasalde",
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Plaza de aparcamiento reservada para la ambulancia del 061",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reserva una plaza de aparcamiento para ambulancia junto a la sede del 061 Yecla (UME-6), en una calle perpendicular a la avenida Literato Azorín.",
+      "entidades": [
+        {
+          "nombre": "061 Yecla (UME-6)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890914F",
+      "lugar": "Junto a la avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Auditorio gratis para la coral del Centro de Personas Mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Centro Social de Personas Mayores (IMAS) el 13 de junio para la coral y muestra de fin de curso, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "891330J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones de la Casa Consistorial para un matrimonio civil el 15 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "892369C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Bases para elegir las atracciones y puestos de las Fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar las atracciones, puestos, paradas y casetas que se instalarán en las Fiestas de San Isidro 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "889694M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Colaboración municipal con la XVI Marcha BTT Komokabras",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se apoya la marcha de bicicleta de montaña del Club Ciclista Yecla del 10 de marzo, con salida en la calle Salzillo: gastos municipales de 350,09 € y uso gratuito de instalaciones deportivas valorado en 1.147 €.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe ayuda en especie"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1497.09,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 350.09,
+          "entidad": "Club Ciclista Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 1147.0,
+          "entidad": "Club Ciclista Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877366P, 873340Y",
+      "lugar": "Calle Salzillo (CEIP Miguel Ortuño)",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Agua potable para una nave de Estructuras LYM en la carretera de Villena",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Estructuras LYM, S.A.U. el suministro de agua potable para su nave industrial en suelo urbanizable no programado de la carretera de Villena, km 1, con las condiciones del informe técnico.",
+      "entidades": [
+        {
+          "nombre": "Estructuras LYM, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890010A",
+      "lugar": "Ctra. de Villena, km 1",
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Pago de envíos postales de febrero a Correos",
+      "categoria": "pago_factura",
+      "resumen": "Urgente: se aprueba pagar a Correos los envíos postales de febrero de 2024.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A. S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6845.81,
+      "importes": [
+        {
+          "concepto": "Envíos postales febrero 2024",
+          "eur": 6845.81,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A. S.M.E."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "282726A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Permiso de lactancia, vacaciones y excedencia de una técnica de escuela infantil",
+      "categoria": "personal",
+      "resumen": "Se conceden a una técnica de Educación Infantil la acumulación del permiso de lactancia, sus vacaciones de 2023 y una excedencia para cuidado de hijo hasta el 4 de agosto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "893970A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Obra de 38.720 € para cambiar 55 metros de alcantarillado en la calle Alférez Maestre",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (41.112,02 €) y se adjudica por contrato menor a Construcciones Martínez Sánchez e Hijo, S.L. la sustitución de 55 metros de colector junto a la curva del Pellero y el callejón Hijas de la Caridad.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 38720.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "893682A",
+      "lugar": "Calle Alférez Maestre (curva del Pellero)",
+      "interes": 3
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Sala del Centro de Emprendimiento para reuniones de BNI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la organización empresarial Business Network International (BNI) a usar la sala de reuniones del Centro de Emprendimiento los miércoles de 15 a 17 h, del 6 de marzo al 31 de julio.",
+      "entidades": [
+        {
+          "nombre": "Business Network International (BNI)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "895984Y",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Escuela de Semana Santa en el CEIP San José de Calasanz",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio los días 25, 26 y 27 de marzo y 1 y 2 de abril para su Escuela de Semana Santa, haciéndose cargo de limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "895232D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Comisión mixta con el Obispado para el museo de Semana Santa en San Francisco",
+      "categoria": "organizacion",
+      "resumen": "Terminada la rehabilitación de la Iglesia de San Francisco, se constituye la comisión de seguimiento del convenio con el Obispado de Cartagena para instalar allí el Museo Iconográfico de la Semana Santa (la Iglesia Vieja pasará a centro de visitantes). Se toman los representantes del Obispado y del Cabildo y se designan los municipales (concejales de Cultura y Turismo).",
+      "entidades": [
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "forma parte"
+        },
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "forma parte"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "824525Z",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Horario especial del Mercado de San Cayetano en Semana Santa",
+      "categoria": "servicios_actividades",
+      "resumen": "El mercado abrirá el 27 de marzo por la tarde (17:30-21:30) y el festivo 28 de marzo por la mañana; se encargan servicios extra de conserjería y limpieza a la empresa de limpieza municipal.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "895435K",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Renovación de la red de agua en la avenida de La Paz",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto y se ordena a FCC Aqualia, S.A., dentro del contrato del agua, renovar la red en avenida de La Paz, 65.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8753.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "894251Q",
+      "lugar": "Avenida de La Paz",
+      "interes": 2
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "doc": "2025-03-31_PLENO_08",
+  "organo": "PLENO",
+  "sesion": 8,
+  "fecha": "2025-03-31",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 6,
+  "resumen": "Pleno de un solo asunto: se corrige la petición de fondos europeos FEDER para el Plan de Actuación Integrado 2021-2027. Yecla había pedido 14,5 millones de euros (todo el plan) y ahora pide 8,7 millones, el 60 %, porque el otro 40 % (unos 6 millones) lo tendrá que poner el Ayuntamiento, previsiblemente con préstamos. Votaron a favor PP, PSOE y Vox; IU-Verdes se abstuvo por el endeudamiento que supone.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Yecla rebaja a 8,7 millones la ayuda FEDER pedida para su Plan de Actuación Integrado",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Pleno del 27 de febrero acordó pedir 14.500.000 € de fondos FEDER (desarrollo urbano sostenible 2021-2027) para el Plan de Actuación Integrado de Yecla. El 17 de marzo la Dirección General de Fondos Europeos pidió subsanar la solicitud, que debe ser solo el 60 % del presupuesto del plan, y se fija en 8.700.000 €; el Ayuntamiento se compromete a financiar el resto. Debate: IU-Verdes se abstiene porque supondría endeudarse en unos 6 millones (lo que el Ayuntamiento invierte en tres o cuatro años) sin un debate suficiente; el PSOE vota a favor por coherencia, dice que los fondos llegan del Gobierno de España y pregunta cómo se pagará el 40 % y si la Comunidad Autónoma ayudará; el PP niega que sea un error, dice que las inversiones (cuatro proyectos) ya estaban previstas y culpa al Gobierno de que, sin presupuestos del Estado, el remanente de 2024 solo pueda usarse para amortizar deuda; la alcaldesa insiste en que la convocatoria no aclaraba cómo pedir el importe.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Fondos Europeos (Ministerio de Hacienda)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca y pide la subsanación"
+        },
+        {
+          "nombre": "Fondo Europeo de Desarrollo Regional (FEDER)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia el 60 %"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8700000.0,
+      "importes": [
+        {
+          "concepto": "Ayuda FEDER pedida inicialmente (Pleno 27/02/2025)",
+          "eur": 14500000.0,
+          "entidad": "Dirección General de Fondos Europeos (Ministerio de Hacienda)"
+        },
+        {
+          "concepto": "Ayuda FEDER pedida tras la subsanación (60 % del plan)",
+          "eur": 8700000.0,
+          "entidad": "Dirección General de Fondos Europeos (Ministerio de Hacienda)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "18 a favor (PP, PSOE y Vox); 2 abstenciones (IU-Verdes)",
+      "expediente": "1053244P",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

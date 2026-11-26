@@ -1,0 +1,677 @@
+{
+  "doc": "2020-10-14_JGL_48",
+  "organo": "JGL",
+  "sesion": 48,
+  "fecha": "2020-10-14",
+  "tipo_sesion": "ordinaria",
+  "paginas": 32,
+  "resumen": "La Junta adjudica a Alma Ata Salud el Centro de Día para personas mayores dependientes por 447.444 euros al año durante dos años y saca a licitación la reparación del tejado de la Casa de Cultura (127.263 euros) y el alumbrado de Navidad (59.895 euros). Aprueba los padrones de 2020 del IAE (513.615 euros) y otros tributos, revoca el permiso de un quiosco del jardín de la avenida de la Feria que nunca abrió ni pagó la tasa y deniega a una empresa aparcar un camión publicitario de Vodafone en la Plaza de España. También autoriza el teletrabajo y cambios de horario de muchos empleados por el COVID-19, un programa para hacer la nueva web municipal y la vuelta de los clubes a las instalaciones deportivas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 6 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pagos: equipos informáticos de Telefónica y escenario de los conciertos Músicas del Aire",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar un suministro de equipamiento informático a Telefónica y la infraestructura de los conciertos 'Músicas del Aire 2020'.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "JRS Servicios 06, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26993.76,
+      "importes": [
+        {
+          "concepto": "Suministro de equipamiento de tecnología de la información",
+          "eur": 8799.81,
+          "entidad": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U."
+        },
+        {
+          "concepto": "Infraestructura para conciertos Músicas del Aire 2020",
+          "eur": 18193.95,
+          "entidad": "JRS Servicios 06, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "450815H, 476139E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Última certificación de la reurbanización de las calles Jabonerías y Numancia",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 6 y última (88.057,98 €) y la certificación final (0 €) de la reurbanización de las calles Jabonerías y Numancia.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 88057.98,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "313410R",
+      "lugar": "Calles Jabonerías y Numancia",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Padrón 2020 del impuesto sobre cotos de caza",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2020 del impuesto municipal sobre gastos suntuarios por cotos privados de caza; pago voluntario del 15 de octubre al 28 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3648.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482661N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Padrón 2020 por ocupar terrenos públicos del Cerro del Castillo y otros",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2020 del precio público por ocupación de terrenos de uso público del Cerro del Castillo y otros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3124.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483742P",
+      "lugar": "Cerro del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Padrón 2020 del Impuesto de Actividades Económicas: 513.615 €",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2020 del IAE: 452.434,01 € de cuota municipal y 61.180,79 € de recargo autonómico; pago voluntario del 15 de octubre al 28 de diciembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 513614.8,
+      "importes": [
+        {
+          "concepto": "Cuota municipal IAE",
+          "eur": 452434.01,
+          "entidad": null
+        },
+        {
+          "concepto": "Recargo de la Comunidad Autónoma",
+          "eur": 61180.79,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483742P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.6",
+      "titulo": "Padrón 2020 de concesiones de bienes de dominio público",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2020 de aprovechamientos de bienes de dominio público mediante concesión.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11289.6,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483240R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.7",
+      "titulo": "Padrón 2020 de la tasa de quioscos y cajeros automáticos",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón 2020 de la tasa por ocupar la vía pública con quioscos y cajeros automáticos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4576.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483664F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Se devuelve el sueldo a un agente tras anular un tribunal su sanción",
+      "categoria": "reclamaciones",
+      "resumen": "En ejecución de una sentencia del Tribunal Superior de Justicia de Murcia que anula una suspensión de dos meses impuesta en 2016 a un agente de la Policía Local, se le abonan 3.440,46 € de sueldo no cobrado y se regulariza su cotización.",
+      "entidades": [
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 3440.46,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483490P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Corregida al alza la indemnización por jubilación anticipada de un exempleado",
+      "categoria": "personal",
+      "resumen": "Se corrige el importe de la indemnización por jubilación anticipada pagada por sentencia a un exempleado: se jubiló con 61 años y no 62, así que le corresponden 7.235,74 € (en lugar de 6.003,93 €) más intereses.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7235.74,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "476738M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cambio de horario de una limpiadora de colegio por conciliación",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una limpiadora del Colegio Méndez Núñez trabajar de 5:30 a 13:00 mientras dure el protocolo de limpieza COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483653O",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "La directora de Servicios Sociales vuelve y pide tres meses sin sueldo",
+      "categoria": "personal",
+      "resumen": "Termina la comisión de servicios de la directora de Servicios Sociales en el Ayuntamiento de Molina de Segura; se aprueba su reincorporación y una licencia sin sueldo de hasta tres meses, cubriendo el puesto de forma accidental.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Molina de Segura",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483735E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Anticipo de sueldo a un subinspector de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un subinspector un anticipo de 4.864 € de su nómina, a devolver en ocho meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4864.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483538F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Programa de dos años para hacer la nueva web municipal, con un informático interino",
+      "categoria": "personal",
+      "resumen": "Se aprueba un programa temporal de 24 meses para desarrollar el nuevo portal web municipal (análisis, diseño, desarrollo, migración, pruebas y seguridad) y el nombramiento de un analista-programador interino de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482693H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Repintar la señalización de los cruces de los caminos Lentiscar y San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Vecinos Lentiscar/Pujola, se aprueba repintar las marcas viales de los cruces de los caminos Lentiscar y San Isidro, con mucho tráfico y poca visibilidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Vecinos Lentiscar/Pujola",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482814A",
+      "lugar": "Cruces de los caminos Lentiscar y San Isidro",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Denegado un camión publicitario de Vodafone en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a Ubica Servicios de Localización aparcar un camión de una campaña de Vodafone en la Plaza de España, porque la Junta solo autoriza estas ocupaciones a entidades sin ánimo de lucro.",
+      "entidades": [
+        {
+          "nombre": "Ubica Servicios de Localización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Vodafone España",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "anunciante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "483587Z",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Se retira el permiso del quiosco del jardín de la avenida de la Feria, que nunca abrió",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se revoca la autorización de 2005 a Golosinas y Aperitivos Roca para el quiosco del jardín de la avenida de la Feria, que nunca abrió y solo pagó la tasa de 2005; tiene un mes para retirarlo o lo hará el Ayuntamiento a su costa.",
+      "entidades": [
+        {
+          "nombre": "Golosinas y Aperitivos Roca, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular revocado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483371Z",
+      "lugar": "Jardín de la avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Salas del Edificio Bioclimático para cursos agrícolas de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a COAG-IRM el uso de dos salas del Edificio Bioclimático para un curso de injerto de almendros y frutales (27 de octubre) y otro de riego localizado (3 y 4 de noviembre).",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos-Iniciativa Rural de Murcia (COAG-IRM)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483831N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una particular la condición de residente en zona azul hasta el 31 de diciembre de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483012A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Inicio de obras de cuatro naves de derivados de madera en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Urgente: presentado el proyecto de ejecución, se autoriza a un particular a iniciar las obras de cuatro naves industriales para almacenamiento y producción de derivados de madera, con licencia concedida el 22 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477932W (licencia 319/2020)",
+      "lugar": "Paraje Las Teresas, polígono 47, parcela 7",
+      "interes": 2
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Un inspector de servicios apoyará en la compra de material COVID",
+      "categoria": "personal",
+      "resumen": "Urgente: se encarga temporalmente al auxiliar-inspector de Servicios Públicos apoyar a la Inspección Sanitaria en la compra y reparto de material higiénico y EPI para el personal municipal mientras dure la crisis del COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484063K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Ampliación de jornada y cambio de horario de una auxiliar de Agricultura",
+      "categoria": "personal",
+      "resumen": "Urgente: una auxiliar del Servicio de Agricultura con reducción de jornada pasa de 30 a 35 horas semanales con horario de 8:30 a 15:30.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484066P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Cambio de horario por conciliación de una auxiliar de Secretaría",
+      "categoria": "personal",
+      "resumen": "Urgente: se modifica el horario de una auxiliar de Secretaría por conciliación, mientras dure la crisis del COVID-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483999X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Cambio de horario por conciliación de un auxiliar delineante",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a un auxiliar delineante a hacer jornada partida por conciliación, sin derecho a cobrar por ello.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483979T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Cambio de horario por conciliación de una administrativa de Intervención",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una administrativa de Intervención a hacer jornada partida dos tardes por conciliación, sin derecho a cobrar por ello.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484223H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Teletrabajo parcial para una trabajadora social",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una trabajadora social a teletrabajar parte de su jornada por conciliación, según los criterios de teletrabajo COVID aprobados el 6 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483992M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Teletrabajo parcial para una administrativa de Secretaría",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una administrativa de Secretaría a teletrabajar de 7:30 a 9:00 por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483801X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Teletrabajo parcial para una auxiliar de Secretaría",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una auxiliar de Secretaría a teletrabajar de 7:30 a 8:45 por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483915E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Teletrabajo parcial para otra auxiliar de Secretaría",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a otra auxiliar de Secretaría a teletrabajar por las tardes y los jueves por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483804A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Teletrabajo dos días a la semana para una auxiliar de Estadística",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una auxiliar a teletrabajar lunes y viernes por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484126",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Teletrabajo parcial para una auxiliar de Biblioteca",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a una auxiliar de Biblioteca a teletrabajar por las tardes por conciliación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484046M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.13",
+      "titulo": "Contratación de una técnica de educación infantil para la escuela Pulgarcito",
+      "categoria": "personal",
+      "resumen": "Urgente: por la jubilación de una profesora, se contrata de la bolsa a un técnico de educación infantil a media jornada (17,5 horas) para apoyo en la Escuela Infantil Pulgarcito durante el curso 2020/21.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484279K",
+      "lugar": "Escuela Infantil Pulgarcito",
+      "interes": 1
+    },
+    {
+      "ref": "7.14",
+      "titulo": "Alma Ata Salud gestionará el Centro de Día de mayores dependientes: 447.444 €/año",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a Alma Ata Salud, S.L., la primera en puntuación (51,82 puntos), el servicio de Centro de Día para personas mayores dependientes durante dos años por 447.443,93 € al año IVA incluido y 6 € por menú.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 447443.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A (C.SE 6/20)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.15",
+      "titulo": "Licitación de la reparación del tejado de la Casa de Cultura (127.263 €)",
+      "categoria": "contrato",
+      "resumen": "Urgente: se aprueba el proyecto y se abre el procedimiento abierto simplificado para sustituir parte de la cubierta de la Casa Municipal de Cultura, con un presupuesto de 127.262,53 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 127262.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R (C.O. 3/20)",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "7.16",
+      "titulo": "Licitación del alumbrado de Navidad y Reyes (59.895 €)",
+      "categoria": "contrato",
+      "resumen": "Urgente: se abre el procedimiento abierto simplificado para el suministro e instalación del alumbrado ornamental de Navidad y Reyes, con un gasto de 59.895 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 59895.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482610R (C.SU. 7/20)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.17",
+      "titulo": "Más horas de reserva de aparcamiento en el Policlínico del Hospital",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: a petición del Hospital Virgen del Castillo, la reserva de vía pública del Policlínico en calle Historiador Miguel Ortuño pasa a funcionar de 8:00 a 20:00.",
+      "entidades": [
+        {
+          "nombre": "Hospital Virgen del Castillo",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482317",
+      "lugar": "Calle Historiador Miguel Ortuño (Policlínico)",
+      "interes": 1
+    },
+    {
+      "ref": "7.18",
+      "titulo": "Corregidos errores en las ayudas para libros y material escolar 2020",
+      "categoria": "subvencion_concedida",
+      "resumen": "Urgente: se corrigen errores del informe en que se basaron las ayudas extraordinarias para libros y material escolar de septiembre y se conceden a los menores y en las cuantías del nuevo informe de Servicios Sociales (no se indican importes).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "478855C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.19",
+      "titulo": "Programa de Animación Deportiva Escolar 2020/2021 con protocolo COVID",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: se aprueba que la Concejalía de Deportes organice el programa de Animación Deportiva Escolar 2020/2021 con un protocolo de prevención del COVID-19.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483964Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.20",
+      "titulo": "Los clubes vuelven provisionalmente a las instalaciones deportivas",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: como no se ha convocado la reserva de instalaciones 2020/2021 por el COVID, se autoriza provisionalmente a equipos federados, escuelas deportivas y otros grupos de clubes a usar las instalaciones municipales con los mismos horarios máximos de la temporada anterior y cumpliendo los protocolos sanitarios.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483965Z",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

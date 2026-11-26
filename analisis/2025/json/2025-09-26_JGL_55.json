@@ -1,0 +1,76 @@
+{
+  "doc": "2025-09-26_JGL_55",
+  "organo": "JGL",
+  "sesion": 55,
+  "fecha": "2025-09-26",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 5,
+  "resumen": "El Ayuntamiento rompe el contrato de limpieza de los edificios municipales (colegios, guarderías y otros) con TSI Levante, que cobraba 769.431 euros al año, por abandonar el servicio: desde junio no pagaba a las limpiadoras ni ponía productos y no respondía al Ayuntamiento. Se queda con su garantía de 63.589 euros y estudiará reclamarle daños; mientras, se licita un nuevo contrato.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se confirma la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Rescindido el contrato de limpieza de edificios municipales con TSI Levante por abandono",
+      "categoria": "contrato",
+      "resumen": "Se declara resuelto por incumplimiento culpable el contrato de limpieza de edificios municipales (C.SE. 10/23), adjudicado en 2024 a Técnicas y Servicios Integrales de Levante, S.L. por 769.431,79 € al año hasta el 31 de marzo de 2026, y se incauta su garantía de 63.589,40 € (seguro de caución de Atradius). Desde mediados de junio la empresa no contestaba al Ayuntamiento, dejó de pagar las nóminas de junio, la paga extra y julio a las trabajadoras y de suministrar productos de limpieza; ellas siguieron limpiando bajo instrucciones municipales y lo denunciaron ante la Inspección de Trabajo, igual que CCOO. La empresa se opuso, pero el Consejo Jurídico de la Región de Murcia (dictamen 231/2025, de 24 de septiembre) avaló la resolución por abandono del servicio. Se abrirá, si procede, un expediente para reclamarle daños y perjuicios; en paralelo se tramita un nuevo contrato.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L. (TSI Levante)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista; pierde el contrato y la garantía"
+        },
+        {
+          "nombre": "Atradius Crédito y Caución, S.A. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aseguradora de la garantía incautada"
+        },
+        {
+          "nombre": "Consejo Jurídico de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dictamen favorable a la resolución"
+        },
+        {
+          "nombre": "Comisiones Obreras (CCOO)",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "denuncia los impagos a las trabajadoras"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 63589.4,
+      "importes": [
+        {
+          "concepto": "Precio anual del contrato de limpieza (IVA incluido)",
+          "eur": 769431.79,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L. (TSI Levante)"
+        },
+        {
+          "concepto": "Garantía definitiva incautada",
+          "eur": 63589.4,
+          "entidad": "Atradius Crédito y Caución, S.A. de Seguros y Reaseguros"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120846F",
+      "lugar": "Edificios municipales (colegios, escuelas infantiles y otros)",
+      "interes": 3
+    }
+  ]
+}

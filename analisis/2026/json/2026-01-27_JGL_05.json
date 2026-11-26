@@ -1,0 +1,940 @@
+{
+  "doc": "2026-01-27_JGL_05",
+  "organo": "JGL",
+  "sesion": 5,
+  "fecha": "2026-01-27",
+  "tipo_sesion": "ordinaria",
+  "paginas": 43,
+  "resumen": "La Junta de Gobierno paga 545.307 euros en facturas de servicios (sobre todo recogida de basura y jardines a Actúa) y adjudica por 64.712 euros la infraestructura del Carnaval 2026, cuyo presupuesto total se aprueba. Abre expediente de penalidades a la UTE que rehabilita el edificio de Cazadores: lleva un 15% de obra con el 70% del plazo consumido y la multa sería de 1.458 euros diarios desde el 27 de marzo, con riesgo de perder fondos europeos. También se conceden licencias de obra y segregaciones en el campo, se aprueban las fiestas de San Blas y un proyecto de rutas de bicicleta de montaña.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 20 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aviso de una concentración en solidaridad con Palestina",
+      "categoria": "informacion",
+      "resumen": "Se informa de la comunicación de una concentración en la Plaza Mayor el 31 de enero de 2026 en solidaridad con el pueblo palestino.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1217264W",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas de servicios de diciembre 2025",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban pagos de diciembre por recogida de basura y limpieza viaria, jardines, centro de día de mayores, limpieza de edificios, grúa municipal, cursos de la Universidad Popular e infraestructura de la Cabalgata de Reyes.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 545307.32,
+      "importes": [
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos Universidad Popular, diciembre 2025",
+          "eur": 7972.42,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos (grúa), diciembre 2025",
+          "eur": 10490.7,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, recogida selectiva y limpieza viaria, diciembre 2025",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, diciembre 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, diciembre 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, diciembre 2025",
+          "eur": 30127.83,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Infraestructura Fiestas de Reyes Magos 2026, lote 1 (adjudicatario anonimizado)",
+          "eur": 20326.79,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "712712D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación final del césped del Campo de Fútbol nº 3",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación final de la renovación del césped y elementos perimetrales del campo nº 3 del complejo Juan Palao Azorín, financiada con fondos europeos Next Generation y la CARM.",
+      "entidades": [
+        {
+          "nombre": "Obras y Pavimentos Especiales, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consejo Superior de Deportes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10068.98,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1145333Q",
+      "lugar": "Complejo deportivo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Segundo pago de los Bonos Yeclanea 2025 al comercio local",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se dan por justificados y se pagan los bonos de compra Yeclanea 2025 de la segunda lista de beneficiarios (comercios) y se aprueba la lista de bonos no usados, devueltos o aplicados fuera de plazo. Programa financiado por la Consejería de Empleo, Empresa y Economía Social. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empleo, Empresa y Economía Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1069571Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para reformar y ampliar una vivienda en el paraje Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a particulares para reforma y ampliación de vivienda unifamiliar aislada en suelo rústico, respetando los caminos públicos colindantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "920325E",
+      "lugar": "Paraje Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para legalizar y ampliar una vivienda en el paraje Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a particulares, con proyecto básico, para legalizar y ampliar una vivienda aislada; deberán inscribir la finca como indivisible y presentar el proyecto de ejecución antes de empezar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1016717H",
+      "lugar": "Paraje Decarada",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia a la ONCE para cambiar su quiosco de la Plaza de España",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a la ONCE a sustituir su quiosco de venta de juego en la Plaza de España, con fianza de 407 euros por reposición de urbanización y condiciones de Patrimonio Cultural.",
+      "entidades": [
+        {
+          "nombre": "Organización Nacional de Ciegos Españoles (ONCE)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1113097T",
+      "lugar": "Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para rehabilitar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a un particular para rehabilitar una vivienda; necesita proyecto visado antes de empezar las obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167775K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para demoler una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a una particular para derribar una vivienda entre medianeras, con fianzas de 317,51 y 170,19 euros, desratización previa, vallado del solar y control de amianto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1187948D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Segregación de una finca de regadío en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a una particular dividir una finca de 4,2 hectáreas con construcciones en suelo no urbanizable, separando 14.339 m²; las construcciones, no catastradas, deberán darse de alta en el Catastro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177545E",
+      "lugar": "Polígono 47",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Segregación de una parcela de viñedo en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se permite a una particular, representada por una consultora, segregar 5.000 m² de una finca de regadío; el Registro decía 5.586 m² y la medición real 9.672 m².",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "representa al solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1198818A",
+      "lugar": "Polígono 51",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nombramiento de un Auxiliar Inspector de Rentas interino",
+      "categoria": "personal",
+      "resumen": "Se termina el nombramiento temporal por acumulación de tareas y se nombra, de la bolsa de empleo, un Auxiliar Inspector de Rentas interino en plaza vacante (máximo tres años) para dar estabilidad al negociado de Obras y Catastro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210721H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Renuncia de una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una auxiliar administrativa interina de la Oficina de Recaudación desde el 1 de febrero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1219778M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Permiso a educadoras infantiles para ir a un congreso en Madrid",
+      "categoria": "personal",
+      "resumen": "Se autoriza a cinco trabajadoras de las Escuelas Infantiles municipales a asistir al Congreso Internacional de Educación 0-3 (noviembre 2025), con ayuda máxima de 40 euros por empleada.",
+      "entidades": [
+        {
+          "nombre": "AMEI-WAECE (Asociación Mundial de Educadores Infantiles)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1183962R",
+      "lugar": "Madrid",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Curso de formación para el Secretario accidental",
+      "categoria": "personal",
+      "resumen": "Se ordena al Secretario accidental hacer un curso online sobre invalidez de procesos selectivos y se paga la matrícula de 275 euros.",
+      "entidades": [
+        {
+          "nombre": "Centro de Estudios Municipales y de Cooperación Internacional (CEMCI), Diputación de Granada",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 275.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219605X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Viaje de la técnica de Protección Civil a una asamblea profesional",
+      "categoria": "personal",
+      "resumen": "Se ordena a la técnica municipal de Emergencias asistir a la asamblea de la asociación regional de técnicos de Protección Civil en Alguazas, pagando desplazamiento y dietas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Profesionales de Técnicos de Protección Civil de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219573C",
+      "lugar": "Alguazas",
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Reuniones en Murcia de técnicas de familia de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se ordena a las técnicas del programa de Familias y Menores asistir a cinco reuniones en 2026 con la Dirección General de Familias de la CARM, pagando desplazamientos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Familias y Protección de Menores (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213842R",
+      "lugar": "Murcia",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza anual del Bar La Colmena en calle Játiva",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del Bar La Colmena, 24 m² de noviembre 2025 a octubre 2026.",
+      "entidades": [
+        {
+          "nombre": "Bar La Colmena",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216578R",
+      "lugar": "Calle Játiva",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Simulacro de evacuación del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el simulacro de evacuación del colegio en calle Niño el 3 de febrero de 2026.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1218241C",
+      "lugar": "Calle Niño",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Traslado de contenedores de basura que molestaban a una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina, los contenedores junto a su ventana se mueven a la fachada del solar contiguo y se pinta la reserva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219245X",
+      "lugar": "Calle Quevedo",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Plenos para la asamblea de la Comunidad de Regantes del Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos el 20 de febrero de 2026 para la asamblea general de los regantes.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes del Lentiscar",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216556M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2-7.5",
+      "titulo": "Salones de Plenos para cuatro bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a cuatro parejas el uso de los Salones de Plenos (1ª y 3ª planta) para celebrar su matrimonio civil en enero, abril, junio y septiembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1193974Y, 1194689Q, 1218991T, 1213782J",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Sala del Edificio Bioclimático para la Peña El Pitorro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede una sala a la Peña de San Isidro El Pitorro el 31 de enero para preparar las fiestas de San Isidro 2026.",
+      "entidades": [
+        {
+          "nombre": "Peña de San Isidro \"El Pitorro\"",
+          "cif": null,
+          "tipo": "pena",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1218290W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Salas del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular el uso de dos salas cada mes y medio, los sábados por la mañana, para un club de lectura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1215624R",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.8-7.11",
+      "titulo": "Auditorio y Teatro Concha Segura gratis para centros educativos y de mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Centro de Adultos y al Centro de Mayores del IMAS, y el Teatro Concha Segura al IES Azorín y al Centro de Mayores, con descuento del 100% del precio público (120 euros el Auditorio y 1.800 euros el Teatro por acto).",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "IES J. Martínez Ruiz \"Azorín\"",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3840.0,
+      "importes": [
+        {
+          "concepto": "Exención precio Auditorio (3 actos)",
+          "eur": 120.0,
+          "entidad": "Centro Público de Educación de Adultos de Yecla"
+        },
+        {
+          "concepto": "Exención precio Auditorio (concierto fin de curso)",
+          "eur": 120.0,
+          "entidad": "Centro Social de Personas Mayores (IMAS)"
+        },
+        {
+          "concepto": "Exención precio Teatro Concha Segura",
+          "eur": 1800.0,
+          "entidad": "IES J. Martínez Ruiz \"Azorín\""
+        },
+        {
+          "concepto": "Exención precio Teatro Concha Segura",
+          "eur": 1800.0,
+          "entidad": "Centro Social de Personas Mayores (IMAS)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1215623Q, 1217503C, 1215990A, 1217442R",
+      "lugar": "Auditorio Municipal y Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Rampa de la Iglesia de San Francisco para una exposición del Centro de Adultos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Adultos a exponer del 23 al 29 de marzo proyectos sobre el patrimonio de Yecla en la rampa de San Francisco; se avisa al Cabildo de Cofradías.",
+      "entidades": [
+        {
+          "nombre": "Centro Público de Educación de Adultos de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "usa instalación"
+        },
+        {
+          "nombre": "Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "informado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1216595Q",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.13-7.14",
+      "titulo": "Sala del Centro de Emprendimiento para la asociación de afectados de cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a AYAC la sala de reuniones para yoga (lunes y miércoles en enero y febrero, únicos meses disponibles) y para su asamblea anual del 26 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1218249N, 1215964P",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Fiestas de Carnaval 2026: programa, presupuesto y precio de entradas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el Carnaval del 6 al 15 de febrero (galas en el Teatro y en la Feria del Mueble, desfiles y baile) con un presupuesto de 22.360,80 euros; entradas de 6 euros las galas y 10 euros el baile.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble de Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cede recinto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22360.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1112905C",
+      "lugar": "Teatro Concha Segura, recinto Feria del Mueble y centro urbano",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Primer concurso de pintura de escaparates creativos",
+      "categoria": "subvencion_concedida",
+      "resumen": "La Concejalía de Juventud organiza el I Certamen de Pintura de Escaparates Creativos Ciudad de Yecla 2026, con un presupuesto de 3.600 euros y sus bases.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219352W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Fiestas de San Blas 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las fiestas de San Blas (31 de enero, 1 y 3 de febrero) con un presupuesto de 4.598 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4598.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1210719E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Convenio de prácticas con el CIFP Politécnico de Murcia",
+      "categoria": "convenio",
+      "resumen": "Convenio-tipo con la Consejería de Educación para que alumnos de FP del CIFP Politécnico de Murcia hagan prácticas en el Ayuntamiento, sin pago.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación y Formación Profesional (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        },
+        {
+          "nombre": "CIFP Politécnico de Murcia",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1218998D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Prácticas de un estudiante de Gestión Forestal en Servicios Públicos",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno del IES Hermanos Amorós de Villena hacer 160 horas de prácticas sin remuneración en febrero de 2026.",
+      "entidades": [
+        {
+          "nombre": "IES Hermanos Amorós (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1218915N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Devolución de piezas arqueológicas incautadas por la Guardia Civil",
+      "categoria": "reclamaciones",
+      "resumen": "Tras archivarse la causa judicial, el Museo Arqueológico Cayetano de Mergelina devuelve a dos particulares los objetos que la Guardia Civil les incautó en 2019, por orden del juzgado y de Patrimonio Cultural.",
+      "entidades": [
+        {
+          "nombre": "Audiencia Provincial de Murcia, Sección 3ª",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "resuelve"
+        },
+        {
+          "nombre": "Juzgado de Primera Instancia e Instrucción nº 2 de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "ordena devolución"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "requiere"
+        },
+        {
+          "nombre": "Museo Arqueológico Municipal Cayetano de Mergelina",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "devuelve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045295Z",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Traspaso de un puesto textil del mercadillo de los miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el cambio de titular del puesto 22-Z del mercado ambulante junto a San Cayetano entre dos particulares, válido hasta noviembre de 2028.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738366Y",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Plan de seguridad del asfaltado de solares para aparcamiento en calle España",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de asfaltado de dos solares en calle España para aparcamientos públicos.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltados, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1187891Z",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Tarjeta de residente en zona azul",
+      "categoria": "otros",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192570Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Condolencias por la muerte de un exconcejal de Agricultura",
+      "categoria": "organizacion",
+      "resumen": "La Junta expresa su pésame a la familia de un antiguo concejal de Agricultura fallecido el 20 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1219722J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18.1",
+      "titulo": "Entradas a 5 euros para el concierto Parade & Nacho Casado",
+      "categoria": "fiscal",
+      "resumen": "Se fija en 5 euros el precio único de la entrada del concierto del 30 de enero en el Auditorio Municipal.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1220582D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "18.2",
+      "titulo": "Adjudicación del sonido, vallas y luces del Carnaval 2026",
+      "categoria": "contrato",
+      "resumen": "Se adjudica en tres lotes el contrato de infraestructura del Carnaval: producción técnica y pantalla LED, vallado ornamental y alumbrado extraordinario.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64712.01,
+      "importes": [
+        {
+          "concepto": "Lote 1: servicios técnicos de producción e infraestructura",
+          "eur": 45604.9,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Lote 2: vallado ornamental",
+          "eur": 2662.0,
+          "entidad": "Decourba 2007, S.L."
+        },
+        {
+          "concepto": "Lote 3: alumbrado extraordinario ornamental",
+          "eur": 16445.11,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175266P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "18.3",
+      "titulo": "Penalidades a la UTE de la obra del edificio de Cazadores por retraso grave",
+      "categoria": "contrato",
+      "resumen": "La dirección de obra denuncia que, con el 70% del plazo consumido, solo hay un 15% de obra hecha (7,11% certificado) por falta de medios. Se declara incumplimiento y se abre expediente de penalidades de 1.458 euros diarios desde el 27 de marzo de 2026; se avisa de que, si se pierde la subvención europea PIREP, se repercutirá a la empresa.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores (Citanias Obras y Servicios, S.L.U. - Industria y Montajes Eléctricos, S.A.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Penalidad diaria por demora a partir del 27/03/2026",
+          "eur": 1458.0,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "18.4",
+      "titulo": "Proyecto de rutas de bicicleta de montaña (MTB) de Yecla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto de viabilidad de rutas MTB redactado por Grupo Silvoturismo Servicios Ambientales, para poder empezar a acondicionar las rutas.",
+      "entidades": [
+        {
+          "nombre": "Grupo Silvoturismo Servicios Ambientales",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "982777T",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

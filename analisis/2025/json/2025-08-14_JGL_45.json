@@ -1,0 +1,101 @@
+{
+  "doc": "2025-08-14_JGL_45",
+  "organo": "JGL",
+  "sesion": 45,
+  "fecha": "2025-08-14",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 9,
+  "resumen": "En una sesión urgente de agosto, la Junta de Gobierno licita la limpieza de los edificios municipales (171.258 euros) y la obra que termina el Centro Enoturístico de la Casa de los Arcos (541.820 euros, fondos europeos). Además exige al adjudicatario saliente del bar del Centro de Mayores Las Herratillas que lo deje limpio y reparado, y pide a la Comunidad Autónoma un informe sobre el recurso contra el temario local de la oposición a 19 plazas de Policía Local.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se ratifica la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma por unanimidad la urgencia de convocar esta sesión extraordinaria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Licitación de la limpieza de edificios municipales por 171.258 euros",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación (procedimiento abierto simplificado) del servicio de limpieza de edificios públicos municipales (colegios, atención temprana y otros edificios), con un presupuesto de 171.258,56 euros con IVA.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 171258.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1132021C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3",
+      "titulo": "Licitación de la obra final del Centro Enoturístico Casa de los Arcos (541.820 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se licita la obra para terminar el Centro Enoturístico de la Casa de los Arcos, con mejoras de eficiencia energética, por 541.820,50 euros, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' pagado con fondos europeos Next Generation a través del ITREM.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia"
+        },
+        {
+          "nombre": "Unión Europea (Next Generation EU)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 541820.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122691T",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Bar del Centro de Mayores Las Herratillas: se exige al adjudicatario limpiarlo y repararlo",
+      "categoria": "contrato",
+      "resumen": "El particular que llevaba el bar-cafetería del Centro de Mayores 'Las Herratillas' deja el servicio el 1 de septiembre (la nueva licitación quedó desierta). Se le exige, antes del 25 de agosto, una limpieza a fondo y reparar o reponer equipos y menaje; si no, lo hará el Ayuntamiento con cargo a su fianza. Se le dan 10 días para alegar y se tramitará un contrato menor para no cortar el servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "583035X",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Recurso contra el temario local de la oposición a 19 plazas de Policía Local",
+      "categoria": "personal",
+      "resumen": "Un aspirante recurre las bases de la oposición a 19 plazas de agente de Policía Local porque incluyen un bloque de temas sobre Yecla (calles, fiestas, polígonos...) que, según él, discrimina a quien no vive en el municipio. El Ayuntamiento pide informe a la Dirección General de Administración Local de la CARM antes de resolver.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide informe"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1078502W",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

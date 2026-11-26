@@ -1,0 +1,43 @@
+{
+  "doc": "2026-05-11_PLENO_07",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria, asunto único. Ausente (disculpada): 1 concejala del PSOE; 20 presentes. Una sola votación: desestimar reclamaciones y aprobar definitivamente el presupuesto.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "Asunto único",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 6
+        },
+        "Vox": {
+          "favor": 0,
+          "contra": 3,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por nueve votos a favor (Grupo M. Popular), cinco votos en contra (Grupo M. Vox y Grupo M. Izquierda Unida-Verdes), y seis abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos"
+    }
+  ]
+}

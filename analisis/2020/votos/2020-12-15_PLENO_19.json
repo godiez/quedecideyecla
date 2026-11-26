@@ -1,0 +1,74 @@
+{
+  "doc": "2020-12-15_PLENO_19",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 4,
+    "Cs": 1,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria y urgente. Se justifican dos ausencias: una del PSOE y una de Cs (19 presentes). Dos votaciones por unanimidad: ratificación de la urgencia y convenio con el IMAS para el Centro de Día de personas mayores dependientes. Los punto_idx se han calculado como ref - 1 porque el JSON del análisis aún no existía al escribir este fichero.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "urgencia",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 4,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Por unanimidad se ratifica la urgencia de la convocatoria, que viene motivada por la necesidad de aprobar cuanto antes el Convenio del servicio de Centro de Día para personas mayores"
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 4,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno adopta por unanimidad los siguientes acuerdos: 1. Aprobar el borrador de convenio de colaboración a suscribir con el Instituto Murciano de Acción Social (IMAS)"
+    }
+  ]
+}

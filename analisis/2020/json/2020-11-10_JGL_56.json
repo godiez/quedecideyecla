@@ -1,0 +1,1595 @@
+{
+  "doc": "2020-11-10_JGL_56",
+  "organo": "JGL",
+  "sesion": 56,
+  "fecha": "2020-11-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 62,
+  "resumen": "Junta dominada por la segunda ola del COVID. Se renuevan para el invierno 49 terrazas de bares y se rebaja un 30% el IBI a varios comercios que cerraron en el estado de alarma (a otros tres se les deniega). Se convocan 13.000 euros de ayudas para asociaciones de comerciantes y se traslada a la Comunidad Autónoma la petición de los supermercados de abrir el 9 de diciembre. También se rechaza anular 16 multas por consumo de drogas en la calle que dos particulares discutían tras sentencias contrarias al Ayuntamiento, y se autorizan varios teletrabajos y dos interinos para la Policía Local.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 3 y 6 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: fiestas laborales 2021, estado de alarma y tres sentencias",
+      "categoria": "informacion",
+      "resumen": "Se informa del calendario de fiestas laborales de 2021, la prórroga del estado de alarma por el COVID y las restricciones regionales, un concurso de puestos de habilitados nacionales y tres sentencias: el Juzgado de lo Social nº 4 da la razón al Ayuntamiento frente a una trabajadora a la que negó un permiso por matrimonio; un juzgado contencioso de Murcia confirma una sanción disciplinaria a un empleado; y otro estima en parte un recurso de un particular contra acuerdos de la Junta de 2018.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 1 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo de Murcia (número ilegible por OCR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de material informático a Main Memory y Canon",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el suministro de material informático (contrato 3/2020, lotes 1 y 2).",
+      "entidades": [
+        {
+          "nombre": "Main Memory, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Canon España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 33922.69,
+      "importes": [
+        {
+          "concepto": "Suministro de material informático, lote 1",
+          "eur": 26976.79,
+          "entidad": "Main Memory, S.A."
+        },
+        {
+          "concepto": "Suministro de material informático, lote 2 (importe dudoso por OCR)",
+          "eur": 6945.9,
+          "entidad": "Canon España, S.A.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412135K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Siempre Camilo' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del 25 de octubre (cargo de 200 €, taquilla de 120 € y baja de 30 € de entradas no vendidas, cifras dudosas por OCR).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486141X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del espectáculo 'Don Juan Tenorio' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del 31 de octubre: 1.446 € de cargo, 318 € recaudados y 1.128 € de baja por entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 318.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 30% del IBI a comercios que cerraron por el estado de alarma",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación COVID del 30% del IBI de 2020 a los locales de Perfumería Carmina, Mercería Yakar, Restaurante Mediterráneo I y II y otro restaurante (en algunos casos solo sobre la parte del dueño que es titular del negocio). Se deniega a la Academia de baile CrisDance (se dio de alta después del 15 de marzo), a Establecimientos Jesús y a Great Price Shop (el dueño del local no es el titular del negocio). Se anulan recibos pendientes por unos 5.376 € para volver a emitirlos con la rebaja.",
+      "entidades": [
+        {
+          "nombre": "Perfumería Carmina (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario de bonificación"
+        },
+        {
+          "nombre": "Mercería Yakar (titulares particulares)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario de bonificación"
+        },
+        {
+          "nombre": "Restaurante Mediterráneo I y II (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiario de bonificación"
+        },
+        {
+          "nombre": "Academia de baile CrisDance (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitud denegada"
+        },
+        {
+          "nombre": "Establecimientos Jesús (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitud denegada"
+        },
+        {
+          "nombre": "Great Price Shop (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitud denegada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "485551C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Cambio de constructor en una licencia de obras",
+      "categoria": "licencia_obra",
+      "resumen": "A petición del director de obra, se toma nota de que un constructor autónomo sustituye a Construcciones Alonso López Valverde, S.L. en la licencia urbanística 80/2020.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Alonso López Valverde, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructor sustituido"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "415671X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Dos auxiliares administrativos interinos para la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se nombran por seis meses dos auxiliares interinos de la bolsa de empleo por los retrasos en atestados, multas de tráfico, terrazas y dos bajas médicas en la oficina de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486901C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se pide a Jumilla que su funcionaria siga como jefa de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se pide al Ayuntamiento de Jumilla que autorice otra comisión de servicios de un año a una funcionaria suya que ocupa el puesto de TAG Jefe de Gestión Tributaria, vacante porque su titular hace de tesorero accidental.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Jumilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza comisión de servicios"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486794D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Teletrabajo parcial por el COVID para una auxiliar de Tesorería",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar de Tesorería (grupo vulnerable) a teletrabajar parte de la jornada, sin coste para el Ayuntamiento, mientras dure la crisis del COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487056R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Teletrabajo parcial por el COVID para la directora de la OMIC",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la directora de la OMIC (grupo vulnerable) a teletrabajar parte de la jornada, sin coste para el Ayuntamiento, mientras dure la crisis del COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484519T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Teletrabajo parcial por el COVID para un agente de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un agente de Desarrollo Local (conciliación) a teletrabajar parte de la jornada, sin coste para el Ayuntamiento, mientras dure la crisis del COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484221E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Teletrabajo parcial por el COVID para una auxiliar de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar de la Agencia de Desarrollo Local (conciliación) a teletrabajar parte de la jornada, sin coste para el Ayuntamiento, mientras dure la crisis del COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484221E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Teletrabajo parcial por el COVID para una administrativa",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una administrativa (cambio de días ya autorizados) a teletrabajar parte de la jornada, sin coste para el Ayuntamiento, mientras dure la crisis del COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "484144Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Anticipo de sueldo de 3.000 € a una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se concede un anticipo de nómina de 3.000 € que devolverá de la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486924J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Anticipo de sueldo de 2.600 € a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede un anticipo de nómina de 2.600 € que devolverá de la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 2600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486970Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Programa de nóminas para 2021",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor para el servicio de la aplicación informática de nóminas de 2021.",
+      "entidades": [
+        {
+          "nombre": "Soluciones Avanzadas en Informática Aplicada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7066.25,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485231D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para 'Bar Ventorrillo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar Ventorrillo' en calle Cruz de Piedra del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar Ventorrillo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487218R",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno para 'Café Bar Los Pirrikis'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Los Pirrikis' en calle Trinquete del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Los Pirrikis (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487193H",
+      "lugar": "calle Trinquete",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de invierno para 'Café Bar Medieval'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Medieval' en calle Cruz de Piedra del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Medieval (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487182R",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de invierno para 'Café Bar Picasso'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Picasso' en avenida Pablo Picasso del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Picasso (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487179N",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de invierno para 'Firenze'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Firenze' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Firenze (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487176J",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza de invierno para 'Central Park'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Central Park' en Parque de la Constitución del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Central Park (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486986W",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza de invierno para 'Mesón La Parra'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Mesón La Parra' en avenida Literato Azorín del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Mesón La Parra (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456520E",
+      "lugar": "avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Terraza de invierno para 'Cafetería Bulebar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Bulebar' en calle Zaplana del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulebar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454959N",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Terraza de invierno para 'Quimera'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Quimera' en plaza Mari Carmen Lorente del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Quimera (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454994M",
+      "lugar": "plaza Mari Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Terraza de invierno para 'Plaza Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Plaza Café' en plaza de San Cayetano del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Plaza Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454970D",
+      "lugar": "plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Terraza de invierno para 'Barrabás'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Barrabás' en calle Esteban Díaz del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Barrabás (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456436J",
+      "lugar": "calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.12",
+      "titulo": "Terraza de invierno para 'Café Bar El Recreo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar El Recreo' en calle Lorca del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar El Recreo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "463811H",
+      "lugar": "calle Lorca",
+      "interes": 1
+    },
+    {
+      "ref": "7.13",
+      "titulo": "Terraza de invierno para 'Café Bar La Parada'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar La Parada' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar La Parada (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454977N",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.14",
+      "titulo": "Terraza de invierno para 'Cafetería Gardenia'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Gardenia' en calle Cruz de Piedra del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Gardenia (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455661N",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.15",
+      "titulo": "Terraza de invierno para 'Cafetería Petete'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Petete' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Petete (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455392P",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.16",
+      "titulo": "Terraza de invierno para 'Bar Keyko'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar Keyko' en calle San Antonio del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar Keyko (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454992J",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.17",
+      "titulo": "Terraza de invierno para 'Café Atrio'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Atrio' en calle Rambla del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Atrio (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457717T",
+      "lugar": "calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "7.18",
+      "titulo": "Terraza de invierno para 'Carrusel Kinder Bar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Carrusel Kinder Bar' en plaza del Recuerdo del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Carrusel Kinder Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462932M",
+      "lugar": "plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "7.19",
+      "titulo": "Terraza de invierno para 'Bar La Estación'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar La Estación' en avenida Pablo Picasso del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar La Estación (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457373?",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.20",
+      "titulo": "Terraza de invierno para 'Búho Bar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Búho Bar' en avenida Pablo Picasso del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Búho Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454985Z",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.21",
+      "titulo": "Terraza de invierno para 'Cafetería El Paseo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería El Paseo' en avenida Pablo Picasso del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería El Paseo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455653C",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.22",
+      "titulo": "Terraza de invierno para 'Bar El Esquinazo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar El Esquinazo' en avenida de La Paz del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar El Esquinazo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461071C",
+      "lugar": "avenida de La Paz",
+      "interes": 1
+    },
+    {
+      "ref": "7.23",
+      "titulo": "Terraza de invierno para 'Café Archis'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Archis' en calle San Antonio del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Archis (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461627Z",
+      "lugar": "calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.24",
+      "titulo": "Terraza de invierno para 'El Olivo de Jaén'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'El Olivo de Jaén' en plaza García Lorca del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "El Olivo de Jaén (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461129H",
+      "lugar": "plaza García Lorca",
+      "interes": 1
+    },
+    {
+      "ref": "7.25",
+      "titulo": "Terraza de invierno para 'Cafetería Hendrix'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Hendrix' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Hendrix (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457376W",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.26",
+      "titulo": "Terraza de invierno para 'Cafetería Menphis'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Menphis' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Lucas Domene, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454953E",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.27",
+      "titulo": "Terraza de invierno para 'Cafetería Pío XI'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Pío XI' en calle Pío Baroja del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Pío XI (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466080J",
+      "lugar": "calle Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "7.28",
+      "titulo": "Terraza de invierno para 'Candilejas'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Candilejas' en calle Alfarería del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Candilejas (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454944R",
+      "lugar": "calle Alfarería",
+      "interes": 1
+    },
+    {
+      "ref": "7.29",
+      "titulo": "Terraza de invierno para 'Bar Berlín'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar Berlín' en calle Hernán Cortés del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar Berlín (titular particular, C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "467154A",
+      "lugar": "calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "7.30",
+      "titulo": "Terraza de invierno para 'Los Arcos Café'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Los Arcos Café' en calle Forte del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Los Arcos Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456738J",
+      "lugar": "calle Forte",
+      "interes": 1
+    },
+    {
+      "ref": "7.31",
+      "titulo": "Terraza de invierno para 'Café Bar Lío'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Lío' en calle San Francisco del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Lío (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455394R",
+      "lugar": "calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.32",
+      "titulo": "Terraza de invierno para 'Café Bar Peña Taurina'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Peña Taurina' en calle Tejeras del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Peña Taurina (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456505K",
+      "lugar": "calle Tejeras",
+      "interes": 1
+    },
+    {
+      "ref": "7.33",
+      "titulo": "Terraza de invierno para 'Cafetería Los Billares'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Los Billares' en calle Esteban Díaz del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Los Billares (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457379Z",
+      "lugar": "calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.34",
+      "titulo": "Terraza de invierno para 'Bar La Prensa'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar La Prensa' en calle San Fernando del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar La Prensa (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "467145N",
+      "lugar": "calle San Fernando",
+      "interes": 1
+    },
+    {
+      "ref": "7.35",
+      "titulo": "Terraza de invierno para 'Cafetería Aquarium'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Aquarium' en plaza Ocho de Marzo del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Aquarium (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461069Z",
+      "lugar": "plaza Ocho de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "7.36",
+      "titulo": "Terraza de invierno para 'Café Bar Gaggia'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar Gaggia' en calle Esteban Díaz del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Gaggia (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456508P",
+      "lugar": "calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.37",
+      "titulo": "Terraza de invierno para 'Ideal Gastrobar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Ideal Gastrobar' en avenida de la Feria del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Ideal Gastrobar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454965X",
+      "lugar": "avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.38",
+      "titulo": "Terraza de invierno para 'Bar A la Mesa'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar A la Mesa' en plaza Mª Carmen Lorente del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar A la Mesa (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471607K",
+      "lugar": "plaza Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.39",
+      "titulo": "Terraza de invierno para 'Café Glamour'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Glamour' en calle Antonio Machado del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Glamour (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "452669H",
+      "lugar": "calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "7.40",
+      "titulo": "Terraza de invierno para 'Nuestro Bar'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Nuestro Bar' en calle Rogelio Azorín Navarro del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Nuestro Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455646R",
+      "lugar": "calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "7.41",
+      "titulo": "Terraza de invierno para 'Cafetería Siglo XXI'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Siglo XXI' en calle Esteban Díaz del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Siglo XXI (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "456516A",
+      "lugar": "calle Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.42",
+      "titulo": "Terraza de invierno para 'Café Bar La Paloma'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Bar La Paloma' en avenida de la Libertad del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Bar La Paloma (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457757Z",
+      "lugar": "avenida de la Libertad",
+      "interes": 1
+    },
+    {
+      "ref": "7.43",
+      "titulo": "Terraza de invierno para 'Pizzería La Mamma'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Pizzería La Mamma' en Parque de la Constitución del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bopipo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "460090P",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.44",
+      "titulo": "Terraza de invierno para 'Café Sambódromo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Sambódromo' en avenida Literato Azorín del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Sambódromo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457729K",
+      "lugar": "avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.45",
+      "titulo": "Terraza de invierno para 'Bar Brandy'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar Brandy' en avenida Pablo Picasso del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar Brandy (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "454981T",
+      "lugar": "avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.46",
+      "titulo": "Terraza de invierno para 'Bar El Siete'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar El Siete' en calle Fábricas del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar El Siete (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477560D",
+      "lugar": "calle Fábricas",
+      "interes": 1
+    },
+    {
+      "ref": "7.47",
+      "titulo": "Terraza de invierno para 'Café Borneo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Borneo' en calle Cruz de Piedra del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Borneo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466073Z",
+      "lugar": "calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.48",
+      "titulo": "Terraza de invierno para 'Cafetería Tagos'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Tagos' en calle Antonio Ortega del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Tagos (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486570R",
+      "lugar": "calle Antonio Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "7.49",
+      "titulo": "Terraza de invierno para 'Café Chicago'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Café Chicago' en calle San José del 1 de noviembre de 2020 al 31 de marzo de 2021, en las mismas condiciones que la de verano.",
+      "entidades": [
+        {
+          "nombre": "Café Chicago (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "474175C",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.50",
+      "titulo": "Se mueve un contravado al ampliar un vado de cochera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Tras ampliar un metro por cada lado el vado de la cochera de un vecino (ya concedido por decreto), se traslada un metro el contravado del vecino de al lado y se encarga a la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "477942J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Convocatoria de ayudas de 13.000 € para asociaciones de comerciantes",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria 2020 de subvenciones de fomento del comercio local para asociaciones y federaciones de comerciantes sin ánimo de lucro, con un máximo de 13.000 € para gastos corrientes y 10 días hábiles para pedirlas.",
+      "entidades": [
+        {
+          "nombre": "Agencia de Desarrollo Local de Yecla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "propone"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486785Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Comidas a domicilio gratis para una persona",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se concede de oficio y gratis el servicio de comidas a domicilio a un vecino.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482874J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Ayuda a domicilio y comidas a domicilio gratis para una persona",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales se conceden de oficio y gratis la ayuda a domicilio y las comidas a domicilio a un vecino.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487242A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul para su vehículo, con informe favorable de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486028P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Rechazada la anulación de cuatro multas por consumo de drogas en la calle",
+      "categoria": "reclamaciones",
+      "resumen": "Se inadmite la petición de un particular de anular cuatro sanciones firmes por la Ley de Seguridad Ciudadana (art. 36.16). Alegaba que varios juzgados de Murcia han dicho que el Ayuntamiento no es competente para estas multas, que los cacheos eran ilegales y que hay un registro ilegal de reincidentes. El Ayuntamiento responde que esa falta de competencia no es 'manifiesta' (los juzgados no le condenaron en costas por haber dudas) y que no existe tal registro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "484797E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Rechazada la anulación de doce multas por consumo de drogas en la calle",
+      "categoria": "reclamaciones",
+      "resumen": "Con los mismos argumentos, se inadmite la petición de otro particular de anular doce sanciones firmes de 2016 a 2019 por el art. 36.16 de la Ley de Seguridad Ciudadana.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "484792Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Se traslada a la CARM la petición de abrir supermercados el 9 de diciembre",
+      "categoria": "otros",
+      "resumen": "La asociación de supermercados ASUMUR pide abrir el comercio de alimentación el 9 de diciembre (fiesta local), porque el 7, 8 y 9 serían tres festivos seguidos con la movilidad limitada por el COVID. Como la competencia es regional, la Junta envía la petición a las consejerías de Empresa y de Salud.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Supermercados de la Región de Murcia (ASUMUR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Consejería de Empresa, Industria y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide"
+        },
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "484850D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Bolsa de Trabajador/a Social: admitidos, tribunal y fechas de examen",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales de admitidos y excluidos (cuatro excluidos por presentar fuera de plazo), el tribunal y las fechas: méritos el 17 de diciembre y examen tipo test el 23 de diciembre en el Edificio Bioclimático, si el COVID lo permite.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "395494Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Una agente de la Policía Local se jubila tras 37 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada de una agente (RD 1449/2018) el 12 de noviembre y se le agradecen más de 37 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487521N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Teletrabajo parcial para un auxiliar de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un auxiliar administrativo del Centro de Servicios Sociales a teletrabajar lunes, martes y miércoles por conciliación, sin coste para el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486251Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Espectáculo 'En voz de ellas' en el Teatro Concha Segura",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el espectáculo del 14 de noviembre con un presupuesto de 2.420 € y entrada única de 6 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2420.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "399952P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Auditorio gratis para los Mayordomos de la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 15 de noviembre, a puerta cerrada y con medidas COVID, para presentar la revista de las Fiestas de la Virgen y 'El Yeclano Ausente' y entregar premios literarios, con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "487283H",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

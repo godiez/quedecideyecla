@@ -1,0 +1,817 @@
+{
+  "doc": "2022-06-21_JGL_30",
+  "organo": "JGL",
+  "sesion": 30,
+  "fecha": "2022-06-21",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno aprueba el padrón del IBI urbano de 2022: 8,39 millones de euros a cobrar, con pago voluntario del 30 de junio al 16 de diciembre. Declara desierta la obra de remodelación del Mercado Central porque ninguna empresa formalizó el contrato, y prepara 'Verano en Danza 2022' en la Plaza de Toros: concierto de Taburete (48.400 €), espectáculo de Mayumaná (21.175 €) y producción técnica (44.044 €). Además alquila una parcela para aparcamiento en el centro, pide al SEF 209.737 € para un programa de empleo juvenil y da 12.000 € a dos asociaciones festeras.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 14 y 17 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicación: subvención regional para orientar a jóvenes sin empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden de la Consejería de Presidencia, Turismo, Cultura y Deportes que concede a los ayuntamientos subvenciones de 2022 para informar, orientar y acompañar a jóvenes sin trabajo ni estudios (Garantía Juvenil, Fondo Social Europeo). No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Turismo, Cultura y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "638132W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: cursos de la Universidad Popular, wifi municipal y sede electrónica",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar los cursos de artes plásticas de la Universidad Popular de mayo, el material para redes wifi en dependencias municipales y la plataforma de administración electrónica Sedipualba de 2022, que presta la Diputación de Albacete.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Infomicro Comunicaciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 38132.05,
+      "importes": [
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos, Universidad Popular, mayo 2022",
+          "eur": 7978.95,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Material para redes wifi en dependencias municipales y conexión con la Casa Consistorial",
+          "eur": 15285.45,
+          "entidad": "Infomicro Comunicaciones, S.L."
+        },
+        {
+          "concepto": "Plataforma de Administración Electrónica Sedipualba, 2022",
+          "eur": 14867.65,
+          "entidad": "Diputación Provincial de Albacete"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "521199N, 557267H, 615430P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Segunda certificación de la obra del tejado de la Casa de Cultura",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 2 de la sustitución parcial de la cubierta de la Casa de Cultura, a favor de Construcciones Enciso y José.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 26722.71,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R",
+      "lugar": "Casa de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebajas del IBI a familias numerosas en 2022",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las bonificaciones del IBI urbano a las familias numerosas que las pidieron, mientras dure su título; habrá que pedir la prórroga al renovarlo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Se retira la rebaja del IBI a familias numerosas que cambiaron de casa",
+      "categoria": "fiscal",
+      "resumen": "Se declaran extinguidas desde el 1 de enero de 2022 las bonificaciones por familia numerosa de los contribuyentes que cambiaron de domicilio, porque el inmueble ya no es su vivienda habitual.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegada rebaja del IBI por título de familia numerosa caducado",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación por familia numerosa a una pareja porque su título no estaba en vigor el 1 de enero de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Denegadas rebajas del IBI: la casa no es la vivienda habitual de la familia",
+      "categoria": "fiscal",
+      "resumen": "Se deniegan varias bonificaciones por familia numerosa porque los inmuebles no son el domicilio habitual de los miembros de la familia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Denegada rebaja del IBI a un vecino: no es su vivienda habitual",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un titular de familia numerosa la bonificación del IBI de un inmueble que no es el domicilio habitual de la familia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Denegada rebaja del IBI a una vecina que no es la propietaria",
+      "categoria": "fiscal",
+      "resumen": "Se deniega la bonificación por familia numerosa a una vecina porque no es la titular del inmueble ni la obligada a pagar el IBI.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "503182P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir un solar en la urbanización La Alameda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a tres vecinos licencia para segregar una parcela de 128 m² de un solar sin edificar de 256 m² en el sector residencial La Alameda, advirtiendo que la solicitud no la firman todos los titulares registrales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510549X",
+      "lugar": "Plan Parcial Residencial La Alameda (Suelo Urbanizable Residencial 5)",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de directora de ejecución en la licencia 132/2019",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de directora de ejecución de obra y coordinadora de seguridad y salud en una licencia urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "178860R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Cambio de técnica y de constructora en la licencia 77/2020",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la nueva directora de ejecución y coordinadora de seguridad y de la nueva constructora, Construcciones J.J. Gómez.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "407729Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Cambio de directora de ejecución en la licencia 334/2020",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de directora de ejecución de obra y coordinadora de seguridad y salud en una licencia urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "479338Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de técnica y de constructora en la licencia 371/2020",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la nueva directora de ejecución y coordinadora de seguridad y de la nueva constructora, Construcciones Yevereda.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Yevereda, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "481778M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Cambio de técnica y de constructora en la licencia 538/2021",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la nueva directora de ejecución y coordinadora de seguridad y de la nueva constructora, Construcciones y Promociones Molina Yago.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "563707C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Cambio de técnica y de constructora en la licencia 561/2021",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la nueva directora de ejecución y coordinadora de seguridad y de la nueva constructora, Construcciones y Promociones Molina Yago.",
+      "entidades": [
+        {
+          "nombre": "Construcciones y Promociones Molina Yago, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "constructora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "574359X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Cambio de director de ejecución en la licencia 119/2022",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de ejecución de obra y coordinador de seguridad y salud en una licencia urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "601736W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Auxiliar administrativo interino para Intervención durante 9 meses",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino de la bolsa de empleo para el Servicio de Intervención durante 9 meses, por acumulación de tareas (bajas, actualización de padrones como el de basuras y una jefatura de Gestión Tributaria sin cubrir).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640033K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de 6 meses para un Agente de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se contrata durante seis meses a un Agente de Desarrollo Local por el aumento de trabajo en la Agencia de Desarrollo Local (ayudas extraordinarias al empleo, más atención al público y una plataforma de formación en línea).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639899Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Concierto de Taburete en la Plaza de Toros: 48.400 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad, con la agencia que tiene la exclusiva del grupo, el concierto de Taburete en la Plaza de Toros dentro de 'Verano en Danza 2022', con un gasto de 48.400 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 48400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "631049H",
+      "lugar": "Plaza de Toros",
+      "interes": 3
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Espectáculo 'Currents' de Mayumaná en la Plaza de Toros: 21.175 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba contratar sin publicidad, con quien tiene la exclusiva del grupo, el espectáculo 'Currents' de Mayumaná en la Plaza de Toros dentro de 'Verano en Danza 2022', con un gasto de 21.175 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 21175.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "631050J",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Alquiler de una parcela para aparcamiento público en el centro",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica a un grupo de propietarios particulares el alquiler de su parcela para aparcamiento público en el centro, cerca del Mercado Central, por 19.866,70 euros (IVA incluido). Su oferta fue la mejor en precio, superficie, número de plazas y cercanía.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 19866.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "489221Z",
+      "lugar": "zona centro, próxima al Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Desierta la obra de remodelación del Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Se declara desierta la licitación de la remodelación del Mercado Central: la adjudicataria Constu Archena no formalizó el contrato (se le declaró incumplidora en abril) y las otras dos empresas clasificadas, Grulop 21 y Orthem, no presentaron la documentación requerida.",
+      "entidades": [
+        {
+          "nombre": "Constu Archena, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora incumplidora"
+        },
+        {
+          "nombre": "Grulop 21, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora"
+        },
+        {
+          "nombre": "Orthem Servicios y Actuaciones Ambientales, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "559208D",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Filtros de aire para el Mercado de San Cayetano",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Hernández Servicios Climatización por 22.433,40 euros (IVA incluido) la instalación de equipos de filtrado de aire en el Mercado de San Cayetano, presupuestada en 34.000 euros.",
+      "entidades": [
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 22433.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "636989H",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano de una heladería en la calle San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Heladería Frigues una terraza de 48 m² en la calle San Pascual para la temporada de verano (1 de abril a 31 de octubre de 2022).",
+      "entidades": [
+        {
+          "nombre": "Heladería Frigues",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638787E",
+      "lugar": "calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Barrera para proteger la farola de la rotonda de la SEAT",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se instalará una barrera y bolardos flexibles para proteger la farola de la salida hacia Villena de la rotonda de la SEAT (Avda. Juan Carlos I), que los coches han derribado ocho veces en 3-4 años, y se repondrá la luminaria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "633668W",
+      "lugar": "rotonda de la Avda. de Juan Carlos I (rotonda de la SEAT)",
+      "interes": 2
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Una pared municipal para el mural del Orgullo LGBT de Cruz Roja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a Cruz Roja Yecla la pared de un inmueble municipal en la Avda. de Cartagena para pintar un mural por el Día del Orgullo LGBT (28 de junio); la brigada pintará de blanco un rectángulo de 5 x 4 metros y se facilitan los materiales.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638329T",
+      "lugar": "Avda. de Cartagena (inmueble municipal)",
+      "interes": 2
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación No Hay Límites",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación No Hay Límites a usar la sala de reuniones del Centro de Emprendimiento los días 23 y 30 de junio para una actividad informativa con ASOCOMY.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límites",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "ASOCOMY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640161N",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Colegio Alfonso X para la escuela de verano del AMPA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP Alfonso X a usar el colegio del 1 al 30 de julio, de 8 a 14 h, para la escuela de verano que organiza la empresa Épsilon Servicios Educativos, que debe presentar su seguro y correr con los gastos.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Alfonso X",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640547Z",
+      "lugar": "CEIP Alfonso X",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Edificio Bioclimático para una charla del Orgullo LGTB+",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colectivo de Personas LGTB+ de Yecla a usar el salón de actos del Edificio Bioclimático el 28 de junio para una charla de la semana del Orgullo.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de Personas LGTB+ de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639320W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Sesiones para una boda civil (2 de septiembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial el 2 de septiembre de 2022 para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639195X",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Subvenciones de fiestas populares a dos asociaciones",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden 5.999,94 euros a la Asociación Caballeros del Santísimo Sepulcro y otros 5.999,94 euros a la Corte de Honor de la Purísima Concepción para promocionar las fiestas populares en 2022.",
+      "entidades": [
+        {
+          "nombre": "Asociación Caballeros del Stmo. Sepulcro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Corte de Honor de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11999.88,
+      "importes": [
+        {
+          "concepto": "Promoción y difusión de las fiestas populares 2022",
+          "eur": 5999.94,
+          "entidad": "Asociación Caballeros del Stmo. Sepulcro"
+        },
+        {
+          "concepto": "Promoción y difusión de las fiestas populares 2022",
+          "eur": 5999.94,
+          "entidad": "Corte de Honor de la Purísima Concepción"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "585633E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Padrón del IBI urbano 2022: 8,39 millones a cobrar",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del IBI urbano de 2022: 54.646 recibos (3.991 exentos), 8.979.637 euros brutos menos 592.037 euros de bonificaciones, total a cobrar 8.387.600,45 euros. Pago voluntario del 30 de junio al 16 de diciembre; los domiciliados se cargan el 27 de julio y el 28 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8387600.45,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640579T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10.2",
+      "titulo": "La interventora irá a un seminario sobre fondos europeos en Madrid",
+      "categoria": "personal",
+      "resumen": "Se ordena a la interventora accidental asistir al seminario del INAP sobre el Plan de Recuperación, Transformación y Resiliencia en Madrid el 4 de julio, pagando el Ayuntamiento el viaje y la manutención.",
+      "entidades": [
+        {
+          "nombre": "Instituto Nacional de Administración Pública (INAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640402Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "El secretario irá a una jornada sobre mediación en Murcia",
+      "categoria": "personal",
+      "resumen": "Se autoriza al secretario accidental a asistir el 24 de junio en Murcia a una jornada sobre mediación contencioso-administrativa organizada por la Escuela de Formación de la Administración Regional y el Tribunal Superior de Justicia.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641214A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Producción técnica de 'Verano en Danza 2022' por 44.044 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular, único licitador, la producción e infraestructura de conciertos y espectáculos de 'Verano en Danza 2022' por 44.044 euros (IVA incluido). El lote del mobiliario y decoración de la Plaza de Toros queda desierto.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 44044.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "630528J",
+      "lugar": "Plaza de Toros",
+      "interes": 3
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Licencias del cortafuegos informático Fortinet a Telefónica",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Telefónica Soluciones por 12.581,10 euros (IVA incluido) el suministro de licencias y soporte de Fortinet (seguridad informática).",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12581.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "632561H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Aula de cocina del antiguo colegio San José de Calasanz para Kapaces",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Kapaces a usar el aula de cocina del antiguo Colegio San José de Calasanz el 25 y 26 de junio para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637565H",
+      "lugar": "antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Afectados de Cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a usar la sala de reuniones del Centro de Emprendimiento el 22 de junio para reunirse con asociaciones de salud y de sanitarios jubilados.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "640734J",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Se piden 209.737 € al SEF para un programa de empleo y formación juvenil",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el programa mixto de empleo y formación 'Yecla Potenciajoven 2022' para jóvenes desempleados de Garantía Juvenil, en tapizado de mobiliario y mural, y se pide al Servicio Regional de Empleo y Formación una subvención de 209.736,75 euros para hacerlo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 209736.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641079N",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

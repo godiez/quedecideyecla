@@ -1,0 +1,814 @@
+{
+  "doc": "2023-03-28_JGL_15",
+  "organo": "JGL",
+  "sesion": 15,
+  "fecha": "2023-03-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno licita por 90.889 euros la infraestructura de las Fiestas de San Isidro, contrata con Bilbao Seguros el seguro de los edificios municipales (36.416 euros) y pone en marcha el programa de empleo 'Yecla Integra', subvencionado con 286.109 euros. Abre una consulta para dar más uso al albergue El Ramblizo, que apenas se ha usado en cinco años, quita a una carnicería su puesto del Mercado de San Cayetano por tenerlo cerrado y convoca 10.000 euros de ayudas para fiestas populares. El resto son permisos de Semana Santa, terrazas, bodas y prácticas de alumnos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 21 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "El Tribunal Supremo inadmite el recurso de una particular contra el Ayuntamiento",
+      "categoria": "informacion",
+      "resumen": "Se informa de una providencia del Tribunal Supremo que inadmite el recurso de casación de una particular contra una sentencia del TSJ de Murcia, en un pleito sobre extensión de efectos con el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Tribunal Supremo",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta providencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "750207E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Consorcio de Residuos, cuota de la Federación de Municipios y teatro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 74.506 €: la aportación de enero al Consorcio de Residuos (55.829,85 €), la cuota 2023 de la Federación de Municipios y la obra 'Bodas de Sangre'.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Asociación Cultural Tablas de Teatro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 74506.01,
+      "importes": [
+        {
+          "concepto": "Obra de teatro 'Bodas de Sangre' en el Teatro Concha Segura (contrato menor)",
+          "eur": 10220.0,
+          "entidad": "Asociación Cultural Tablas de Teatro"
+        },
+        {
+          "concepto": "Cuota social 2023",
+          "eur": 8456.16,
+          "entidad": "Federación de Municipios de la Región de Murcia"
+        },
+        {
+          "concepto": "Aportación de enero de 2023",
+          "eur": 55829.85,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722447Z, 750948J, 584325N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Recaudación de taquilla del espectáculo 'Adictos'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del espectáculo 'Adictos' del 18 de marzo en el Teatro Concha Segura: 4.368,40 € vendidos y baja de 3.647,60 € en entradas no vendidas (de 8.016 € emitidos).",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4368.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721158J",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Se paralizan las obras de reforma de una vivienda por renuncia del arquitecto",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la renuncia del arquitecto director de la obra de reforma de una vivienda particular (licencia 549/2022); la obra queda paralizada hasta que haya nuevo director.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672100Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Programa de empleo y formación 'Yecla Integra': selección de 15 alumnos-trabajadores",
+      "categoria": "personal",
+      "resumen": "Con una subvención del SEF de 286.108,95 €, se aprueban las bases para seleccionar coordinador, formador y 15 alumnos-trabajadores (desempleados de 25 a 54 años) del programa mixto 'Atención sociosanitaria a personas en el domicilio', con contrato de 9 meses y salario mínimo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 286108.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "671300M (PR 2022-373)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Asesora jurídica de Servicios Sociales a una reunión de la red CAVI",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del Centro de Servicios Sociales asistir el 31 de marzo en Murcia al grupo de trabajo de la red regional CAVI y se pagan sus desplazamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749465Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Aplazado el contrato del proyecto de eficiencia energética de la Casa Los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se deja sobre la mesa la adjudicación del contrato menor para redactar el proyecto de mejora energética del edificio turístico Casa Los Arcos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "745659N",
+      "lugar": "Casa Los Arcos",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato de actividades de 'Corresponsabilidad en fin de semana'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a una profesional autónoma el servicio de 'Corresponsabilidad en fin de semana' (conciliación) por 14.069,88 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14069.88,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744085C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Licitación de la infraestructura de las Fiestas de San Isidro 2023 (90.889 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto simplificado para el contrato de infraestructura de San Isidro 2023 en cinco lotes: escenarios y producción, aseos, vallado, tribunas y sillas, e iluminación de Los Ventorrillos, por 90.889,15 € en total.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 90889.15,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades, conciertos y espectáculos",
+          "eur": 44528.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: alquiler e instalación de aseos portátiles",
+          "eur": 11011.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: vallado de protección decorativo",
+          "eur": 8228.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: tribunas, decoración y sillas",
+          "eur": 13915.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: iluminación ornamental del recinto de Los Ventorrillos",
+          "eur": 13207.15,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719779T (C.SE.4/23)",
+      "lugar": "Recinto de Los Ventorrillos",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza anual del Bar Peña Taurina en la calle Tejeras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del Bar Peña Taurina en la calle Tejeras, 50 m² durante toda la temporada (noviembre 2022-octubre 2023).",
+      "entidades": [
+        {
+          "nombre": "Bar Peña Taurina",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687306R",
+      "lugar": "Calle Tejeras",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto de una cooperativa de alumnos del IES Azorín en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al IES José Martínez Ruiz 'Azorín' a instalar un puesto el 19 de abril en el Parque de la Constitución para una práctica de su cooperativa escolar 'Gustoeso', con tres carpas y tres mesas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741873E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Procesión de la Virgen de Lourdes desde la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Hospitalidad Murciana de Nuestra Señora de Lourdes una procesión el 16 de abril desde la Iglesia Vieja, con patrulla policial y corte de la subida al Castillo.",
+      "entidades": [
+        {
+          "nombre": "Hospitalidad Murciana de Nuestra Señora de Lourdes",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748644J",
+      "lugar": "Iglesia Vieja; Santuario del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "7.4-7.5",
+      "titulo": "Dos procesiones de Domingo de Ramos de la Parroquia de San Juan",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan a la Parroquia de San Juan Bautista y Santa Bárbara dos procesiones el 2 de abril de 2023 (8:00 y 11:30 h) desde la Ermita de Santa Bárbara hasta San Juan, permitiendo hasta 85 dB de ruido.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista y Santa Bárbara",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751533X",
+      "lugar": "Ermita de Santa Bárbara – Iglesia de San Juan",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Fachada de San Francisco iluminada de azul por el Día del Autismo",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la asociación de autismo de Yecla, la fachada de la Iglesia de San Francisco se iluminará de azul el 2 de abril, Día Mundial del Autismo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de personas con Trastorno del Espectro Autista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748477C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Bases para elegir las atracciones y casetas de las Fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar los aparatos, atracciones y puestos que se instalarán en las Fiestas de San Isidro 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749134P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.1-8.3",
+      "titulo": "Salones municipales para tres bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a tres parejas usar el Salón de Sesiones de la Casa Consistorial (dos bodas) y el Auditorio Juan Miguel Benedito (una, con precio público de 120 €) para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749432D, 719743T, 749092F",
+      "lugar": "Casa Consistorial; Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Diabéticos del Altiplano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala del Centro de Emprendimiento a la Asociación de Diabéticos del Altiplano para su asamblea del 19 de abril.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748658D",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Salón de actos del Edificio Bioclimático para jornadas sobre autismo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático a la asociación de autismo de Yecla para ponencias el 1 de abril por el Día Mundial del Autismo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de personas con Trastorno del Espectro Autista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748245E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Consulta pública para cambiar las normas del albergue juvenil El Ramblizo",
+      "categoria": "normativa",
+      "resumen": "Como el albergue juvenil El Ramblizo solo se ha usado nueve noches en cinco años (45 personas), se abre una consulta pública de 15 días para cambiar su reglamento: acoger a peregrinos del Camino de Santiago del Sureste y de la Vera Cruz, bajar el mínimo de cuatro personas y permitir que lo gestione una asociación sin ánimo de lucro.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752125T",
+      "lugar": "Albergue Juvenil El Ramblizo, calle Ramblizo, 7",
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Carnes Selectas del Altiplano pierde su puesto del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se declara la pérdida del puesto 6L del Mercado de San Cayetano por Carnes Selectas del Altiplano, S.L. por estar cerrado más de doce semanas (del 4 de enero al 22 de marzo); queda vacante el 1 de abril y debe desalojarlo en diez días.",
+      "entidades": [
+        {
+          "nombre": "Carnes Selectas del Altiplano, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pierde concesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750567E",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Convocatoria de subvenciones para fiestas populares 2023 (10.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de ayudas para promocionar y difundir las fiestas populares en 2023, con un máximo de 10.000 € para asociaciones y particulares; plazo de 30 días desde su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745570P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Arco hinchable para la carrera solidaria del CEIP San José de Calasanz",
+      "categoria": "servicios_actividades",
+      "resumen": "Se cede y monta un arco hinchable para la VII carrera solidaria del colegio San José de Calasanz el 31 de marzo.",
+      "entidades": [
+        {
+          "nombre": "CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "734606M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Arco hinchable para la carrera solidaria del CEIP La Pedrera",
+      "categoria": "servicios_actividades",
+      "resumen": "Se cede y monta un arco hinchable para la carrera solidaria del colegio La Pedrera el 31 de marzo.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741597X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Prácticas de un alumno del IES Castillo Puche en la Agencia de Desarrollo Local",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno de Gestión Administrativa del IES José Luis Castillo Puche a hacer prácticas no remuneradas en la Agencia de Desarrollo Local del 29 de marzo al 29 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751099T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Prácticas de un alumno de informática del IES Arzobispo Lozano de Jumilla",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno de Informática del IES Arzobispo Lozano de Jumilla a hacer 240 horas de prácticas no remuneradas del 17 de abril al 29 de mayo.",
+      "entidades": [
+        {
+          "nombre": "IES Arzobispo Lozano (Jumilla)",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749048W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Oposición a dos plazas de subinspector de la Policía Local: admitidos y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de dos admitidos al concurso-oposición por promoción interna de dos plazas de subinspector de la Policía Local, se nombra el tribunal y se fija el 15 de mayo para méritos y primer ejercicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614474M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Prórroga de una auxiliar administrativa interina en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se prorroga tres meses más (nueve en total) el nombramiento interino de una auxiliar administrativa en Servicios Sociales por la acumulación de tareas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "672394F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3-16.6",
+      "titulo": "Contratación de albañiles, pintor y fontanero del programa de empleo local",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial 1ª albañil, un oficial 2ª albañil, un oficial 1ª pintor y un oficial 1ª fontanero para el programa de empleo público 'Mejora de espacios en edificios y espacios públicos 2022', subvencionado por el SEF, y se crean bolsas con los suplentes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741425H, 741426J, 741372J, 741421C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Seguro de daños de los bienes municipales con Bilbao Seguros (36.416 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Bilbao Compañía Anónima de Seguros y Reaseguros, S.A., a través de la central de contratación de la FEMP, el seguro de daños materiales de edificios y bienes municipales por 36.415,64 € al año (un año prorrogable otro).",
+      "entidades": [
+        {
+          "nombre": "Bilbao Compañía Anónima de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36415.64,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "639907K (C.SE.6/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Bases para adjudicar el bar de las Fiestas de San Isidro",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar el contrato menor del servicio de bar en las Fiestas de San Isidro 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751803X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Se abre provisionalmente la calle San Francisco en obras para las procesiones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza abrir de forma provisional la calle San Francisco, ocupada por las obras de reurbanización de la calle San Antonio, para el paso de las procesiones del Martes y el Viernes Santo, con las medidas de seguridad propuestas por la constructora Mediterráneo de Obras y Asfaltos, S.A.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de la obra"
+        },
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747405N",
+      "lugar": "Calle San Francisco; calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "16.10",
+      "titulo": "Venta de palma blanca junto a los mercados antes del Domingo de Ramos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden cinco licencias a particulares para vender palma blanca el 29 de marzo junto al Mercado Central y al de San Cayetano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "740954D",
+      "lugar": "Mercado Central; Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "16.11",
+      "titulo": "Terraza de invierno de la cafetería Pío XI en la calle Pío Baroja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular la terraza de la cafetería 'Pío XI' en la calle Pío Baroja, 20 m² en temporada de invierno.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Pío XI",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "711364F",
+      "lugar": "Calle Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "16.12",
+      "titulo": "Tres carritos de juguetes, globos y castañas a un vendedor ambulante",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a un particular tres licencias de puesto eventual (juguetes, globos y castañas) con una tasa de 90 €; el acta mezcla fechas de Semana Santa 2023, Carnaval y las Fiestas de la Virgen de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 90.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736726F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.13",
+      "titulo": "Remolque de patatas fritas y pizzas en el Parque de la Constitución en Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular un puesto-remolque de patatas fritas y pizzas en el Parque de la Constitución del 4 al 10 de abril (tasa de 112 €), salvo el miércoles 5, que coincide con el mercadillo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 112.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744123E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "16.14",
+      "titulo": "Puesto de la Corte de Honor de la Purísima para arreglar el Camarín del Castillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Corte de Honor de la Purísima Concepción un puesto en el mercadillo de los miércoles (abril a junio) en la calle San Francisco para recaudar fondos para reparar la cúpula y el zócalo del Camarín de la Virgen del Castillo; se le presta carpa, mesa y sillas.",
+      "entidades": [
+        {
+          "nombre": "Corte de Honor de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750234R",
+      "lugar": "Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "16.15",
+      "titulo": "Concierto de Semana Santa de Amigos de la Música en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el concierto de Semana Santa de la Asociación de Amigos de la Música el 5 de abril en la Plaza Mayor, con corte de calles y permiso de hasta 85 dB.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "729128D",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "16.16",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja usar el Salón de Sesiones de la Casa Consistorial para su boda civil el 14 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752080F",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "16.17",
+      "titulo": "Prácticas de un alumno de desarrollo web en el Gabinete de Comunicación",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a un alumno de Desarrollo de Aplicaciones Web del IES José Luis Castillo Puche a hacer 400 horas de prácticas no remuneradas en el Gabinete de Comunicación.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752983K",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

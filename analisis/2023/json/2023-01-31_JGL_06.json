@@ -1,0 +1,830 @@
+{
+  "doc": "2023-01-31_JGL_06",
+  "organo": "JGL",
+  "sesion": 6,
+  "fecha": "2023-01-31",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno paga 327.000 euros en facturas, sobre todo la recogida de basuras y los jardines de diciembre, y aprueba las bases para hacer fijas 49 plazas municipales ocupadas por interinos (11 por concurso-oposición y 38 por concurso de méritos). Aprueba el Carnaval 2023 (23.595 euros), licita por 126.189 euros el servicio de prevención de riesgos laborales y adjudica varios contratos menores, entre ellos la obra de teatro 'Villa y Marte'.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 24 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: Atención Temprana, empleo temporal, desolladeros y un auto judicial",
+      "categoria": "informacion",
+      "resumen": "Se informa de escritos de la Comunidad Autónoma sobre la financiación del Centro de Atención Temprana en 2023, los procesos de estabilización de empleo temporal y los desolladeros de las plazas de toros, y de un auto del Juzgado Contencioso nº 7 de Murcia que archiva por caducidad un recurso de Vox contra el Ayuntamiento sobre una consulta popular 'Monarquía o República'.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Personas con Discapacidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Salud Pública y Adicciones (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta auto"
+        },
+        {
+          "nombre": "Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "recurrente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "723664P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, jardines, agua, consorcio de residuos y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar diez facturas por 326.942 €; las mayores, la recogida de basuras y limpieza viaria de diciembre (180.264 €) y el mantenimiento de zonas verdes (48.626 €) a Actúa, además del canon del Consorcio de Residuos, obras de agua de FCC Aqualia y la digitalización de las actas capitulares.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T-Organiza. Servicios Documentales, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 326942.36,
+      "importes": [
+        {
+          "concepto": "Recogida de basuras, limpieza viaria y recogida selectiva (C.SE 4/2015), diciembre 2022",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Factura de 30/12/2022",
+          "eur": 8378.37,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, diciembre 2022",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Renovación de la red de agua en calle Paseo de Ávila",
+          "eur": 24459.44,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Digitalización de las Actas Capitulares",
+          "eur": 6007.25,
+          "entidad": "T-Organiza. Servicios Documentales, S.L.U."
+        },
+        {
+          "concepto": "Retirada con grúa de vehículos de la vía pública, diciembre 2022 a febrero 2023 (contrato menor)",
+          "eur": 6413.0,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Cobro de la tasa de basuras emitida en octubre de 2022",
+          "eur": 13219.5,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Familias numerosas: recibos de agua potable del tercer trimestre de 2022",
+          "eur": 2556.05,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Regularización del canon sin IVA",
+          "eur": 29818.82,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Alquiler de hinchables Navilandia 2022 (contrato menor)",
+          "eur": 7199.5,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 497255H, 538849C, 654675X, 682900Y, 693705E, 719004R, 724919H, 584325N, 705438A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir una finca agrícola de 10,5 hectáreas en La Rabosera",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia de segregación en suelo no urbanizable: se separa una parcela de 58.962 m² con viviendas y almacenes y queda un resto de 46.131 m². Antes deben justificar que la finca mide más de lo que dice el Registro y después regularizar el Catastro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "625197E",
+      "lugar": "Paraje La Rabosera (polígono 50), suelo no urbanizable",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Cambio de técnicos y constructor en una licencia de nave agrícola de 2008",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de director de obra, director de ejecución y constructor de la licencia concedida en 2008 a una particular para una nave almacén agrícola.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "680234W",
+      "lugar": "Paraje Fuente Álamo (polígono 129)",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Una trabajadora de escuelas infantiles pasa a indefinida no fija por sentencia",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de una sentencia del Juzgado de lo Social nº 2 de Murcia, se reconoce a una técnica de Educación Infantil como trabajadora indefinida no fija con antigüedad desde septiembre de 2016.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 2 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "676810P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Oposiciones para hacer fijas 11 plazas ocupadas por interinos",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición (ley de reducción de la temporalidad) de 11 plazas: un auxiliar administrativo funcionario y, como laborales fijos, un logopeda, un programador de Cultura y Festejos, 4 técnicos de Educación Infantil, un auxiliar de hogar, un conserje y 2 limpiadores. Plazo de 20 días naturales tras el anuncio en el BOE.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Concurso de méritos para hacer fijas 38 plazas laborales de larga temporalidad",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria excepcional por concurso de méritos de 38 plazas laborales ocupadas temporalmente desde antes de 2016: psicólogo, 2 trabajadores sociales, educador social, fisioterapeuta, 2 agentes de desarrollo local, profesor de Bellas Artes, 15 técnicos de Educación Infantil, ordenanza, auxiliar de biblioteca, conductor, 2 peones, 5 conserjes y 4 limpiadores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Bolsa de empleo de inspector de servicios públicos: lista provisional y tribunal",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 25 admitidos y un excluido (fuera de plazo) para la bolsa de Auxiliar de Servicios Públicos-Inspector, se nombra el tribunal y se fija la valoración de méritos el 9 de marzo y el examen tipo test el 13 de marzo de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "673539X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato de la obra de teatro 'Villa y Marte' en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Ron Lalá, S.L. la actuación 'Villa y Marte' en el Teatro Concha Segura por 11.979 € (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Ron Lalá, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11979.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722293K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato de gestión y control de las facturas de luz y gas municipales",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Maso Eficiencia y Servicios, S.L. el servicio de gestión de consumos y tarifas de los suministros de electricidad y gas por 8.828,16 €.",
+      "entidades": [
+        {
+          "nombre": "Maso Eficiencia y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8828.16,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725225H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Formación para hombres en corresponsabilidad y cuidados (Plan Corresponsables)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Asistencia, Formación y Eventos, S.L. por 6.000 € la puesta en marcha de actividades formativas del Plan Corresponsables dirigidas a hombres.",
+      "entidades": [
+        {
+          "nombre": "Asistencia, Formación y Eventos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "712351C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Mantenimiento de la web y redes sociales de Turismo en 2023",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Yeclaweb, S.L. el mantenimiento de la web y redes sociales de Turismo durante 2023 por 6.214,56 €.",
+      "entidades": [
+        {
+          "nombre": "Yeclaweb, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6214.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "722210W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Licitación del servicio de prevención de riesgos laborales por 126.189 € (4 años)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto simplificado para contratar el servicio de prevención ajeno (higiene, seguridad, ergonomía, psicología y vigilancia de la salud) del personal municipal, con presupuesto de 126.189,28 € (IVA incluido) para 4 años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 126189.28,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687223C (C.SE.16/22)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1-7.2",
+      "titulo": "Dos puestos de algodón, juguetes y globos en Carnaval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares un carrito de venta de algodón, juguetes, frutos secos y globos los días 18 y 19 de febrero de 2023, con condiciones de seguridad y una tasa de 6 € cada uno.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "706589Z, 706606Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Mesas informativas de Vox en la Plaza de España y el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al partido Vox a instalar mesas informativas el 11 de febrero (Plaza de España) y el 22 de febrero de 2023 (Parque de la Constitución), de 10 a 13 h.",
+      "entidades": [
+        {
+          "nombre": "Vox Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "721271Q",
+      "lugar": "Plaza de España; Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Sala del Centro de Emprendimiento para la asociación 'No hay límite Yecla'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones del Centro de Emprendimiento a la asociación 'No hay límite Yecla' para su asamblea, una reunión de padres y todos los jueves hasta junio para el proyecto 'Emociona2'.",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "716719T",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones del Centro de Emprendimiento a la Asociación de Peluqueras de Yecla para una actividad formativa el 6 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "724763Q",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Aulas del Edificio Bioclimático para exámenes de inglés de Cambridge",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la academia Kensite School, S.L. a usar aulas del Edificio Bioclimático para los exámenes de Cambridge English de junio y julio de 2023.",
+      "entidades": [
+        {
+          "nombre": "Kensite School, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723912J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón de Plenos para la asamblea de la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Federación de Peñas de San Isidro a usar el Salón de Plenos para su asamblea general del 26 de febrero de 2023.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723825N",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Visitas guiadas por Yecla de febrero a julio con el Instituto de Turismo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas organizado con el Instituto de Turismo de la Región de Murcia y la Red de Oficinas de Turismo para febrero-julio de 2023, con un presupuesto de 3.606,24 €.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3606.24,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725739X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Fiestas de Carnaval 2023: programa, presupuesto de 23.595 € y entradas a 5 €",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las Fiestas de Carnaval del 10 al 19 de febrero (coronación de la Reina en el Teatro Concha Segura, dos galas y baile en la Feria del Mueble, desfiles adulto e infantil), con un presupuesto de 23.595 € y entradas a 5 € en galas y baile.",
+      "entidades": [
+        {
+          "nombre": "Feria del Mueble Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cede recinto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 23595.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691785N",
+      "lugar": "Teatro Concha Segura; recinto de la Feria del Mueble; centro urbano",
+      "interes": 2
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Pago urgente: Centro de Día de dependientes y fuegos de las Fiestas de la Virgen",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la gestión de plazas del Centro de Día para dependientes de diciembre (37.286,99 €) a Alma Ata Salud y los fuegos artificiales de las Fiestas de la Virgen (7.249,99 €) a Coeters Dragón.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Coeters Dragón, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 44536.98,
+      "importes": [
+        {
+          "concepto": "Centro de Día, plazas de dependientes, diciembre 2022",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Fuegos artificiales y cohetes para las Fiestas de la Virgen (contrato menor)",
+          "eur": 7249.99,
+          "entidad": "Coeters Dragón, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "457254A, 692860F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Personal de Servicios Sociales a reuniones con la Dirección General de Familia",
+      "categoria": "personal",
+      "resumen": "Se ordena a cuatro trabajadoras de Servicios Sociales asistir a cinco reuniones de técnicos de familia durante 2023 (Jumilla, Yecla, Cieza, Murcia) y se pagan sus desplazamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "687691C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Personal de Atención Temprana a una reunión de coordinación en Archena",
+      "categoria": "personal",
+      "resumen": "Se ordena a seis profesionales del Centro de Atención Temprana asistir a una reunión de coordinación en Archena el 3 de febrero y se pagan desplazamiento y manutención.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726519E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Nueva bolsa de empleo de ordenanzas-telefonistas",
+      "categoria": "personal",
+      "resumen": "Ante una próxima jubilación, se encarga redactar bases para una nueva bolsa de ordenanzas-telefonistas que permita cubrir interinamente el puesto; al aprobarse se extinguirá la bolsa de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726271K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "El arquitecto jefe deja de codirigir la obra del Mercado Central",
+      "categoria": "personal",
+      "resumen": "Se revoca la designación del arquitecto jefe municipal como codirector de las obras de remodelación del Mercado Central por falta de tiempo; solo suplirá las ausencias del otro arquitecto director.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Aviso a Carreteras del fin de las obras del carril bici de la avenida Cruz Roja",
+      "categoria": "informacion",
+      "resumen": "Se comunica a la Dirección General de Carreteras (CARM) que las obras de vías ciclables y peatonales de la avenida Cruz Roja, subvencionadas por la Consejería de Fomento, terminan la semana del 30 de enero.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Carreteras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620929C",
+      "lugar": "Avenida Cruz Roja",
+      "interes": 2
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Procesión de la Candelaria de la Parroquia de la Purísima",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la Procesión de la Candelaria del 4 de febrero de 2023 con apoyo de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726447E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Tala y sustitución de tres árboles que levantan la acera en la avenida de San Pablo",
+      "categoria": "medio_ambiente",
+      "resumen": "Se ordena a Actúa, contratista de jardines, talar tres árboles grandes cuyas raíces levantan acera y calzada en la avenida de San Pablo y plantar otros de especie que no dañe el pavimento; la brigada municipal repara el suelo y hace nuevos alcorques.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "724997Q",
+      "lugar": "Avenida de San Pablo",
+      "interes": 1
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Sala del Centro de Emprendimiento para una charla de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la sala de reuniones del Centro de Emprendimiento a la Asociación de Yecla de Afectados de Cáncer para una conferencia sobre fotoperiodismo el 7 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726271K",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Convenio de prácticas con la Universidad de Alicante",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio para que alumnos de la Universidad de Alicante hagan prácticas en el Ayuntamiento, sin pago.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Alicante",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "726273N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Bases para adjudicar el bar de la Feria del Mueble en Carnaval",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar el contrato menor del servicio de bar en el recinto de la Feria del Mueble durante el Carnaval 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723660J",
+      "lugar": "Recinto de la Feria del Mueble",
+      "interes": 1
+    },
+    {
+      "ref": "11.12",
+      "titulo": "XIII Duatlón Ciudad de Yecla del Club Triatlón Arabí",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya el XIII Duatlón Ciudad de Yecla del 5 de febrero de 2023 (Avenida de la Feria, Cespín, Ronda Norte), con gastos municipales de 1.312,35 € y uso gratuito de instalaciones deportivas valorado en 713 €.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2025.35,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 1312.35,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas (valoración)",
+          "eur": 713.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "717777N",
+      "lugar": "Avenida de la Feria, Parque del Cespín, Avenida Juan Carlos I, Ronda Norte",
+      "interes": 1
+    },
+    {
+      "ref": "11.13",
+      "titulo": "Puesto de pescado en el Mercado de San Cayetano para Pescados Novelda",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica el puesto 11L del Mercado de San Cayetano a Pescados Novelda, S.L., que ha pagado 1.100,40 € de precio y 194,88 € de fianza.",
+      "entidades": [
+        {
+          "nombre": "Pescados Novelda, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1100.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "723791Q",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "11.14-11.19",
+      "titulo": "Apoyo a honores del Ayuntamiento de Murcia (Hijos Predilectos y Medallas de Oro)",
+      "categoria": "organizacion",
+      "resumen": "Yecla se adhiere a seis distinciones que concede el Ayuntamiento de Murcia: títulos de Hijo/Hija Predilecto, Hijo Adoptivo póstumo y Medalla de Oro a cuatro personas, y Medallas de Oro a la Federación de Salud Mental de la Región de Murcia y al Banco de Alimentos del Segura.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita adhesión"
+        },
+        {
+          "nombre": "Federación de Salud Mental de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "homenajeada"
+        },
+        {
+          "nombre": "Banco de Alimentos del Segura",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "homenajeada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725274A, 725278F, 725270W, 725268R, 725276D, 725271X",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

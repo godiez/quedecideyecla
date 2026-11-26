@@ -1,0 +1,655 @@
+{
+  "doc": "2021-05-11_JGL_23",
+  "organo": "JGL",
+  "sesion": 23,
+  "fecha": "2021-05-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "Se aprueba el Plan de Empleo Social 2021 (268.000 €) para contratar durante unos meses a personas paradas o en riesgo de exclusión, y dos obras de excavación y mejora en los yacimientos de Los Torrejones y el Cerro del Castillo con 20 peones parados. Se aprueba el padrón de la tasa de vados de 2021 (453.556 € a cobrar, pago hasta el 30 de junio), se pagan dos certificaciones de obra (agua y saneamiento en la calle San Ramón y el nuevo pozo de agua potable) y se autoriza el cambio de proyecto de una planta solar de 1,99 MW en El Lidonero. Se deniegan varias peticiones de plazas de aparcamiento para discapacitados y la ocupación de la calle por una librería.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la Junta de Gobierno de 4 de mayo de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Normas COVID de la Región y justificación de una ayuda para el polideportivo",
+      "categoria": "informacion",
+      "resumen": "Se informa de tres órdenes de la Consejería de Salud sobre niveles de alerta y restricciones por COVID-19 y de que la Dirección General de Deportes da por justificada la subvención de 4.616,37 € recibida para reparar las cubiertas del Polideportivo Las Herratillas.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "dicta normas COVID"
+        },
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "aprueba justificación de subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4616.37,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "506624W",
+      "lugar": "Polideportivo Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de obras: agua y saneamiento en calle San Ramón y nuevo pozo de agua potable",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación final de la renovación de las redes de saneamiento y agua potable en la calle San Ramón (entre Don Lucio y Numancia) a Forum San Patricio, S.A., y la certificación n.º 7 del sondeo para extraer agua potable a CESYR Estudios y Construcción, S.L.",
+      "entidades": [
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "CESYR Estudios y Construcción, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 62194.0,
+      "importes": [
+        {
+          "concepto": "Certificación n.º 2 y última, renovación de red de saneamiento y agua potable en calle San Ramón (expte. 491425K)",
+          "eur": 15430.05,
+          "entidad": "Forum San Patricio, S.A."
+        },
+        {
+          "concepto": "Certificación n.º 7, sondeo para extracción de agua potable (expte. 380943N)",
+          "eur": 46763.95,
+          "entidad": "CESYR Estudios y Construcción, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "491425K, 380943N",
+      "lugar": "Calle San Ramón (tramo entre calle Don Lucio y calle Numancia)",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegadas tres rebajas del 50 % en la tasa de vados a pensionistas",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a tres particulares jubilados o pensionistas la bonificación del 50 % de la tasa de vado porque tienen más inmuebles urbanos o un aparcamiento de más de 25 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "495869H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Padrón de la tasa de vados 2021: 453.556 € a cobrar, pago hasta el 30 de junio",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las bajas pedidas por varios vecinos y el padrón de la tasa por entrada de vehículos y reservas de vía pública de 2021: 462.383,74 € brutos, menos 8.827,61 € de bonificación por domiciliar, total a cobrar 453.556,13 €. Pago voluntario del 12 de mayo al 30 de junio; los recibos domiciliados se cargan el 27 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 453556.13,
+      "importes": [
+        {
+          "concepto": "Importe bruto del padrón",
+          "eur": 462383.74,
+          "entidad": null
+        },
+        {
+          "concepto": "Bonificación por domiciliación de recibos",
+          "eur": -8827.61,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480924A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda unifamiliar aislada en el paraje Castillarejos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico) para construir una vivienda unifamiliar aislada con trastero en suelo rústico del paraje Castillarejos; debe justificar el saneamiento o poner una fosa séptica y cumplir lo que diga la Confederación Hidrográfica del Segura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471359Q",
+      "lugar": "Paraje Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Retorno Solar modifica el proyecto de su planta fotovoltaica en El Lidonero",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el proyecto modificado de la planta solar fotovoltaica de 1,99 MW de Retorno Solar, S.L. (licencia concedida en febrero de 2021). Debe cumplir las autorizaciones de Bienes Culturales, Territorio y Energía; el apoyo de la línea eléctrica situado en la zona 4 del yacimiento de Los Torrejones se hará con supervisión de un arqueólogo.",
+      "entidades": [
+        {
+          "nombre": "Retorno Solar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479281T",
+      "lugar": "Paraje El Lidonero (polígono 130, parcela 46)",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda unifamiliar entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para construir una vivienda unifamiliar entre medianeras, con fianza de 150 € para reponer la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493341X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para modernizar la casa rural El Castillico",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para modernizar y mejorar el alojamiento rural 'Casa rural El Castillico', con fianza de 265 € y 12 meses para acabar las obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505926A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un periodista para el Gabinete de Comunicación y bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Tras la selección con oferta al SEF, se contrata a una particular como periodista del Gabinete de Comunicación municipal y se crea una bolsa de empleo temporal con otros siete aspirantes por orden de puntuación.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506338Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Reducción de jornada a una trabajadora social para cuidar a su hijo",
+      "categoria": "personal",
+      "resumen": "Se concede a una trabajadora social una reducción de jornada no retribuida del 8 % por cuidado de hijo menor de doce años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506410Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Denegado a un inspector de obras el puesto de jefe de la Oficina de Agricultura",
+      "categoria": "personal",
+      "resumen": "Un inspector de obras pide ocupar la jefatura de la Oficina de Agricultura, vacante desde julio de 2020. Se deniega porque no tiene derecho subjetivo al puesto y el Pleno ya aprobó inicialmente (con el presupuesto de 2021) que ese puesto lo ocupe la plaza de Auxiliar de los Servicios Técnicos; puede presentar alegaciones hasta el 18 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506832J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Reconocimiento de antigüedad a una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una funcionaria interina 6 años y 13 días de servicios previos en la Administración (grupo C2) para cobrar trienios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506679X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Denegado a la librería Menudo Cuento hacer actividades en la calle",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la titular de la librería 'Menudo Cuento' ocupar la vía pública en la calle del Niño Jesús tres días por semana para actividades, porque solo se autoriza a entidades sin ánimo de lucro, perjudicaría a otros comercios, no lo prevé la ordenanza y sentaría precedente.",
+      "entidades": [
+        {
+          "nombre": "Librería Menudo Cuento",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506364J",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Denegada una plaza de aparcamiento para discapacitados en calle Rogelio Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una particular una plaza reservada para discapacitados porque hace poco se habilitó otra a menos de 50 metros, en la calle Lorca, y estas plazas no son nominativas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506367N",
+      "lugar": "Calle Rogelio Azorín Soriano",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Se aplaza la plaza de discapacitados pedida por ADFY en calle San Cristóbal",
+      "categoria": "via_publica_eventos",
+      "resumen": "La petición de ADFY de una plaza reservada a discapacitados en la calle San Cristóbal se deja para mejor estudio.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "505793Q",
+      "lugar": "Calle San Cristóbal",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Nueva plaza de aparcamiento para discapacitados en calle General Cabanellas",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY y con informe favorable de la Policía Local, se habilita una nueva plaza reservada a discapacitados en la calle General Cabanellas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505793Q",
+      "lugar": "Calle General Cabanellas",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Denegada una plaza para discapacitados en la puerta del Hospital Virgen del Castillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la petición de ADFY porque ya hay una plaza frente al hospital en la calle Rambla y otras dos dentro del recinto, junto a Urgencias, y la zona tiene mucho tráfico.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "505793Q",
+      "lugar": "Hospital Virgen del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Plan de Empleo Social 2021: 268.000 € para contratar a personas en paro o exclusión",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el Plan Especial 2021 de Inclusión y Reinserción Social a través del Empleo (268.000 €), con programas de contratación, colaboración social, personas con discapacidad intelectual, riesgo de exclusión, enfermedad mental o drogodependencia y jóvenes sin experiencia. Se gastan ya 141.709,26 € en contratar por tres meses, a media jornada (30 h), a 4 oficiales de albañilería, 4 de pintura, 2 de fontanería, 1 electricista, 1 capataz y 9 peones, más 1 conserje, 3 peones y 1 auxiliar administrativo jóvenes, mediante oferta al SEF; se nombran los tribunales de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 268000.0,
+      "importes": [
+        {
+          "concepto": "Gasto autorizado para contratación laboral temporal (programas de contratación y jóvenes)",
+          "eur": 141709.26,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505644J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "COAG-IR usa aulas del Edificio Bioclimático para un curso de fitosanitarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la organización agraria COAG-IR Murcia a usar dos aulas del Edificio Bioclimático del 14 al 17 de junio para un curso básico de manipulador de productos fitosanitarios.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos-Iniciativa Rural de Murcia (COAG-IR)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalaciones municipales"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506868J",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista definitiva de admitidos en las escuelas infantiles para el curso 2021/22",
+      "categoria": "servicios_actividades",
+      "resumen": "Se estima la única reclamación presentada (una niña que por error no figuraba en la E.I. Campanilla) y se aprueba la lista definitiva de admitidos en las escuelas infantiles municipales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "499348P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Informes municipales sobre la prórroga del Plan de Residuos de la Región",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueban y envían a la Consejería de Agua, Agricultura y Medio Ambiente los informes de Servicios Públicos, el ingeniero industrial, el veterinario y la arquitecta municipales sobre la prórroga hasta 2022 del Plan de Residuos de la Región de Murcia 2016-2020, en su evaluación ambiental.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería, Pesca y Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide consulta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "493112Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Lista de fincas donde se pueden echar lodos de depuradora este verano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba y se envía a ESAMUR la relación de parcelas agrícolas que pueden y no pueden recibir lodos de depuradora entre el 15 de mayo y el 15 de septiembre de 2021, según la ordenanza municipal de lodos, estiércol y purín.",
+      "entidades": [
+        {
+          "nombre": "Entidad Regional de Saneamiento y Depuración de Aguas Residuales (ESAMUR)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe el listado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506823X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegada la condición de residente en zona azul a una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una particular la tarjeta de residente de zona azul porque el vehículo no está a su nombre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "505811Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Denegado un puesto de venta de caracoles en el Mercado Central por deudas",
+      "categoria": "patrimonio",
+      "resumen": "Se deniega a una particular la adjudicación provisional de un puesto de caracoles en el Mercado Central porque tiene deudas con el Ayuntamiento, y el reglamento de mercados lo impide.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506399H",
+      "lugar": "Mercado Central",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Curso de medicina táctica y armas no letales para la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se organiza un curso obligatorio de 15 horas para la Policía Local sobre medicina táctica, tácticas de armas y armas no letales (26 a 28 de mayo), con un gasto de 2.500 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506604R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Cambio de horario de teletrabajo de una auxiliar de Secretaría",
+      "categoria": "personal",
+      "resumen": "Se modifica el horario de teletrabajo parcial por COVID de una auxiliar administrativa de Secretaría por cambio de sus circunstancias familiares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "483804A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Mantenimiento del software Oracle 2021 por 7.660 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Oracle Ibérica, S.R.L. para el mantenimiento de las licencias Oracle del Ayuntamiento en 2021.",
+      "entidades": [
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7659.55,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.4",
+      "titulo": "12 peones parados trabajarán 4 meses en el yacimiento de Los Torrejones",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el Plan de intervención extraordinaria 2021 en el yacimiento arqueológico de Los Torrejones, como obra de utilidad social con 12 peones desempleados durante cuatro meses (colaboración social vía SEF), con 20.000 €; se pide autorización a la Dirección General de Bienes Culturales.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "adscribe trabajadores"
+        },
+        {
+          "nombre": "Dirección General de Bienes Culturales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507276A",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "8 peones parados trabajarán 3 meses en el yacimiento del Cerro del Castillo",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el Plan de intervención extraordinaria 2021 en el yacimiento arqueológico del Cerro del Castillo, con 8 peones desempleados durante tres meses por colaboración social, con 14.000 €; se pide autorización a Bienes Culturales.",
+      "entidades": [
+        {
+          "nombre": "Servicio de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "adscribe trabajadores"
+        },
+        {
+          "nombre": "Dirección General de Bienes Culturales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507277C",
+      "lugar": "Yacimiento arqueológico del Cerro del Castillo",
+      "interes": 2
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Terraza de 40 m² para la Cafetería Carrusel Kinder en la Plaza del Recuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular de la Cafetería Carrusel Kinder una terraza de 40 m² en la Plaza del Recuerdo de abril a octubre de 2021, el doble de lo normal para compensar las limitaciones de aforo por COVID; volverá a 20 m² cuando acaben.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Carrusel Kinder",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507101H",
+      "lugar": "Plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Acto de las Fiestas de San Isidro 2021 en el solar del antiguo cuartel",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se organiza el acto de San Isidro el 15 de mayo en el solar del antiguo cuartel de la Guardia Civil, con medidas COVID de aforo e higiene, y un gasto máximo de 4.100 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4100.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507065H",
+      "lugar": "Solar del antiguo Cuartel de la Guardia Civil",
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+.pytest_cache/
+# Los PDF y el catálogo se regeneran con `actas discover` + `actas fetch`.
+data/pdfs/
+data/*.sqlite
+# Análisis: se versionan los JSON (sin nombres de particulares), la revisión, los votos y los scripts.
+# No se versiona el texto completo de las actas (se regenera desde los PDF con pdftotext y puede
+# contener datos personales) ni los resúmenes generados por los scripts.
+analisis/*/txt/
+analisis/*/dinero.json
+analisis/*/resumen.json
+analisis/*/.revision-*.json
+analisis/*/no_encontrados.json
+.superpowers/
+
+# Web generada (uv run actas web)
+/web/
+
+# Skill de diseño Impeccable copiada a mano (https://github.com/pbakaus/impeccable); no es código del proyecto.
+/.claude/skills/impeccable/
+
+# Capturas de las pruebas en el navegador
+/.playwright-mcp/
+/.impeccable/

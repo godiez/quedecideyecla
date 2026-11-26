@@ -1,0 +1,808 @@
+{
+  "doc": "2024-02-13_JGL_07",
+  "organo": "JGL",
+  "sesion": 7,
+  "fecha": "2024-02-13",
+  "tipo_sesion": "ordinaria",
+  "paginas": 27,
+  "resumen": "La Junta de Gobierno adjudica dos grandes contratos de servicios por dos años: la limpieza de edificios municipales a Técnicas y Servicios Integrales de Levante (769.432 euros al año) y el mantenimiento de jardines a Actúa Servicios y Medio Ambiente (802.809 euros). Paga 43.126 euros en facturas, entre ellas la reparación del colector de la calle San Antonio, convoca una bolsa de arquitectos técnicos y cubre de forma interina la jefatura de Gestión Tributaria. También cede gratis el Teatro y el Auditorio a asociaciones, autoriza siete bodas civiles en el Ayuntamiento y pide permiso para hacer fuego en la Romería de San Marcos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 6 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: programas mixtos de empleo y obra del Mercado",
+      "categoria": "informacion",
+      "resumen": "Se informa de una resolución del Servicio Regional de Empleo y Formación (SEF) que amplía el plazo para iniciar los Programas Mixtos Empleo-Formación de 2023, y de un informe técnico municipal sobre la petición de revocar el nombramiento del técnico receptor de la obra de reforma del Mercado.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "878979E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: colector de la calle San Antonio, cursos de arte y escuela de Navidad",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la sustitución de un tramo del colector de alcantarillado en la calle San Antonio, los cursos de artes plásticas de enero y la escuela infantil de vacaciones de Navidad.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular (Arcoiris)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 36228.73,
+      "importes": [
+        {
+          "concepto": "Sustitución de tramo de colector de alcantarillado en calle San Antonio",
+          "eur": 22682.66,
+          "entidad": "Construcciones J.J. Gómez, S.L.U."
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos, enero 2024",
+          "eur": 7193.57,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Escuela Infantil de Vacaciones de Navidad",
+          "eur": 6352.5,
+          "entidad": "particular (Arcoiris)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "852738J, 628370M, 797181X",
+      "lugar": "Calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de la obra de teatro 'La ilusión conyugal'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (4.106,80 €) y la baja de las entradas no vendidas (5.385,20 €) de la obra representada el 27 de enero en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4106.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de la II Gala del Carnaval 2024",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (4.728 €) y la baja de entradas no vendidas (300 €) de la II Gala del Carnaval, celebrada el 4 de febrero en la Feria del Mueble.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4728.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823538D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "876932M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para convertir una nave agrícola en vivienda en la Herrada del Manco",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para cambiar el uso de una nave agrícola a vivienda unifamiliar aislada y ampliarla. Plazos: 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "866647C",
+      "lugar": "Paraje Herrada del Manco, polígono 42",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia de segregación de dos fincas en la Umbría del Factor",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a varios propietarios a segregar dos parcelas (de 149.286 m² y 71.148 m²) de dos fincas en suelo no urbanizable, respetando la unidad mínima de cultivo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763144Y",
+      "lugar": "Paraje Umbría del Factor, polígono 108",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de arquitecto técnico: bases y convocatoria",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de empleo de arquitectos técnicos (grupo A2) para cubrir interinidades y sustituciones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "879049C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Personal de Servicios Sociales acompañará a mayores en una visita a Lorca",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres trabajadoras de Servicios Sociales organizar y acompañar la visita cultural a Lorca de 110 usuarios del Centro de Mayores Herratillas el 25 de abril; se les pagarán horas extraordinarias.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881622A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Orden de servicio a una trabajadora social para una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social asistir el 14 de febrero en Murcia a una reunión del protocolo de coordinación sociosanitaria; el Ayuntamiento paga el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882789X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Orden de servicio a la trabajadora social del CAVI para reuniones regionales",
+      "categoria": "personal",
+      "resumen": "Se ordena a la trabajadora social del centro de atención a víctimas de violencia de género (CAVI) asistir a tres reuniones de la red regional en Murcia durante 2024.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Mujer y Prevención de la Violencia de Género (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "883900P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Orden de servicio a la psicóloga del CAVI para una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la psicóloga del CAVI asistir el 19 de febrero a una reunión de la red regional de centros en Murcia.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Mujer y Prevención de la Violencia de Género (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880185E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Se encargan las bases de una bolsa de empleo de inspectores de rentas",
+      "categoria": "personal",
+      "resumen": "A propuesta de Intervención se encarga a Recursos Humanos redactar las bases para crear una bolsa de empleo de inspectores de rentas-auxiliares interinos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762659Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato de la obra de teatro 'Camino al Zoo' para el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor la representación de la obra 'Camino al Zoo' dentro de la programación 2024 del Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Talycual Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10648.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881410F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Adjudicada la limpieza de edificios municipales: 769.432 euros al año",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por dos años el servicio de limpieza de inmuebles municipales a Técnicas y Servicios Integrales de Levante, que obtuvo la mejor puntuación (92,96 de 100), por 769.431,79 € al año IVA incluido. Se rechazó la oferta de Limpiezas Encarnación por incumplir el pliego técnico.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Limpiezas Encarnación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador excluido"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 769431.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Adjudicado el mantenimiento de jardines y zonas verdes: 802.809 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por dos años el mantenimiento de jardines y zonas verdes de Yecla a Actúa Servicios y Medio Ambiente, primera con 89,35 puntos, por 802.808,51 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 802808.51,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777199T",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Puesto benéfico de ADFY en la calle San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de personas con discapacidad ADFY a poner un puesto para recaudar fondos el 14 de febrero, día de mercado, con una carpa y una mesa municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881080Y",
+      "lugar": "Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Procesiones de Vía Crucis de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan siete procesiones de Vía Crucis en febrero y marzo a las 6:30 de la mañana, con apoyo de la Policía Local para el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "877995N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Protección Civil acompañará las rutas de senderismo del Centro de Mayores del IMAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los voluntarios de Protección Civil a acompañar siete marchas de senderismo del Centro Social de Personas Mayores del IMAS entre febrero y mayo.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "875755C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Teatro Concha Segura gratis para la IX Gala por la Diversidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura a la asociación 'No hay límite Yecla' el 5 de abril para su IX Gala por la Diversidad, con descuento del 100% del precio (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880174P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Auditorio gratis para un concierto benéfico de TEA Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a la asociación TEA Yecla el 15 de marzo para un concierto benéfico, con descuento del 100% (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación TEA Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882662W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio gratis para ARY en el Día contra las drogas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio a la asociación ARY (rehabilitación de adicciones) el 22 de junio para el Día Internacional contra las drogas, con descuento del 100% (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la rehabilitación de problemas con el alcohol, las drogas y otras conductas adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881535E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 1 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 1 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "883035N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 4 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 4 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881126M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 12 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 12 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "787100W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 23 de marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 23 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880329E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 20 de julio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 20 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869057Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 12 de abril (segunda pareja)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (3ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 12 de abril (segunda pareja).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "878127X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Uso del Salón de Sesiones para una boda civil el 4 de octubre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones (1ª planta) de la Casa Consistorial para celebrar su matrimonio civil el 4 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869123Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.11",
+      "titulo": "Aula del Edificio Bioclimático para la asamblea de la A.C. Costsune",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula del Edificio Bioclimático a la Asociación Cultural Costsune para su asamblea general del 17 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Asociación Cultural Costsune",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882277K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.12",
+      "titulo": "Jornada de convivencia de la AMPA en el CEIP El Alba",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP El Alba a usar las instalaciones exteriores del colegio el 18 de febrero para una jornada de convivencia, haciéndose cargo de limpieza y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881738M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas del programa 'Housing First' para personas sin hogar",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas extraordinarias de inclusión residencial (proyecto 'Housing First y Alojamiento Transitorio') a las personas y por los importes de un anexo que no se publica en el acta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869595X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide permiso para hacer fuego en la Romería de San Marcos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se solicita a la Dirección General del Medio Natural autorización para encender fuego en explanadas del área recreativa del Cerrico de la Fuente el 21 de abril, para cocinar gachasmigas y paellas en la Romería de San Marcos.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "883429K",
+      "lugar": "Área recreativa del Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Cambios en las normas del campeonato local de fútbol sala",
+      "categoria": "servicios_actividades",
+      "resumen": "Se modifica la normativa del campeonato local de fútbol sala 2023/2024, incluido en el proyecto municipal de deportes, según los informes del Servicio de Deportes.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814936F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Prácticas de una estudiante de Trabajo Social en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una estudiante de la Universidad de Murcia a hacer prácticas no remuneradas en el Centro de Servicios Sociales de febrero a mayo.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convenio de prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881893C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Agua de obra para reformar una nave en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Electricidad Santa a conectarse al agua potable para las obras de reforma de su nave industrial, amparadas en una declaración responsable.",
+      "entidades": [
+        {
+          "nombre": "Electricidad Santa, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "882398D",
+      "lugar": "Ctra. de Villena km 1 y camino de Las Artesillas",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Denegada la tarjeta de residente de zona azul a una vecina",
+      "categoria": "otros",
+      "resumen": "Se deniega a una vecina la condición de residente en zona azul porque su domicilio no está dentro de la zona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "875792D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Pago a Grúas Los Raspas por la retirada de vehículos",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueba pagar el servicio de retirada, traslado y depósito de vehículos de la vía pública.",
+      "entidades": [
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6897.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "697847H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Taquilla de la I Gala del Carnaval 2024",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (4.800 €) y la baja de entradas no vendidas (228 €) de la I Gala del Carnaval en la Feria del Mueble.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823538D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Taquilla de la Gala de Coronación de la Reina del Carnaval 2024",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (2.628 €) y la baja de entradas no vendidas (864 €) de la gala celebrada el 2 de febrero en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2628.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823538D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Cese voluntario de una técnica de administración general interina",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la renuncia de una técnica (TAG) interina con efectos del 25 de febrero, lo que la excluye de la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "884563K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Nombramiento interino para la Jefatura de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Para cubrir la vacante por la renuncia anterior, se nombrará interino al siguiente de la bolsa de técnicos de administración general como jefe de Gestión Tributaria, mientras su titular ejerce de tesorero accidental.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "884784R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Programa 'Música en la Cuaresma 2024': 9.317 euros",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de conciertos 'Música en la Cuaresma 2024' y su presupuesto de 9.317 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9317.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "880101N",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

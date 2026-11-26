@@ -1,0 +1,919 @@
+{
+  "doc": "2022-11-15_JGL_53",
+  "organo": "JGL",
+  "sesion": 53,
+  "fecha": "2022-11-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "La Junta de Gobierno paga 179.521 euros en facturas (limpieza, centro de día y socorristas de verano) y 203.117 euros en certificaciones de obra (reurbanización de la calle España, cubierta de la Casa de Cultura y Capilla de las Angustias). Compra por 78.339 euros la casa adosada a la Ermita de San Roque para hacer una zona verde, adjudica a Épsilon la animación del centro de mayores Las Herratillas (65.805 euros al año) y la mayoría de los cursos de la Universidad Popular. También rechaza que el fin del contrato de una trabajadora social interina fuera un despido y abre la bolsa de TAG a cualquier título de grado.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 8 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: subvenciones del SEF, curso de policías, canon de agua y Ucrania",
+      "categoria": "informacion",
+      "resumen": "Se informa de la liquidación de una subvención del SEF de 2020 para un curso de competencias digitales y del reintegro parcial de otra de 2020 para agentes de empleo y desarrollo local; del curso selectivo de nuevos policías locales de la Región que se hará en Yecla; del cambio del canon de saneamiento del polideportivo José Ortega Chumilla (ESAMUR); de ayudas directas a ayuntamientos para atender a desplazados de Ucrania; del programa Corresponsales Juveniles 2022-2023, y de quién sustituye al jefe de la Policía Local del 15 al 23 de noviembre. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida y pide reintegro de subvención"
+        },
+        {
+          "nombre": "Dirección General de Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        },
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "modifica canon"
+        },
+        {
+          "nombre": "Dirección General de Servicios Sociales y Relaciones con el Tercer Sector (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa de subvención"
+        },
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "693889K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Certificaciones: reurbanización de la calle España y cubierta de la Casa de Cultura",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 2 de la reurbanización de la calle España (entre Martínez Corbalán y Don Lucio) y la nº 7 de la sustitución parcial de la cubierta de la Casa de Cultura.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Enciso y José, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 137239.76,
+      "importes": [
+        {
+          "concepto": "Certificación nº 2 'Reurbanización Calle España, tramo Martínez Corbalán - Don Lucio'",
+          "eur": 126571.46,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        },
+        {
+          "concepto": "Certificación nº 7 'Sustitución parcial de la cubierta de la Casa de Cultura'",
+          "eur": 10668.3,
+          "entidad": "Construcciones Enciso y José, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "644768M, 480216R",
+      "lugar": "Calle España; Casa de Cultura",
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Pago de facturas: limpieza, centro de día y socorristas de las piscinas de verano",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la limpieza de edificios municipales y el centro de día de octubre, y cuatro meses (junio a septiembre) del contrato de actividades deportivas y socorrismo.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 179520.51,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, octubre 2022",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, octubre 2022",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, junio 2022",
+          "eur": 21211.22,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, julio 2022",
+          "eur": 41646.39,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, agosto 2022",
+          "eur": 14082.4,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, septiembre 2022",
+          "eur": 12176.8,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 457254A, 470771Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del concierto '7 años' de Juan Saurín en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas del concierto: 1.440 € recaudados y 2.118 € en entradas no vendidas que se dan de baja.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1440.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla de 'Don Juan Tenorio' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas del espectáculo: 672 € recaudados y 2.886 € en entradas no vendidas que se dan de baja.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 672.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla del 'Tributo Musical COCO' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas del espectáculo: 3.198 € recaudados y 360 € en entradas no vendidas que se dan de baja.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3198.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 50 % del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una particular la bonificación del 50 % del IBI durante cinco años (2023-2027), con un máximo de 100 € al año, por instalar placas solares de autoconsumo de 5 kW (inversión de 8.266,61 €).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693121T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para dividir una finca de secano de casi 11 hectáreas en Casa Garijo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para segregar una parcela de 69.150 m² de una finca rústica de unos 107.000 m² en suelo no urbanizable; la construcción antigua queda en el resto (38.261 m²) y deberá darse de alta en Catastro.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "227346J",
+      "lugar": "Paraje Casa Garijo",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca de regadío",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para segregar una parcela de 20.954,50 m² de una finca rústica de regadío de unos 44.900 m² en suelo no urbanizable, sin construcciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "653046J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Ampliación de jornada a una monitora-socorrista",
+      "categoria": "personal",
+      "resumen": "Una monitora-socorrista con reducción de jornada por cuidado de hijo amplía su jornada del 71,55 % al 82,29 % desde el 1 de diciembre.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690904P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Jubilación anticipada de una agente de la Policía Local tras 39 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que una agente de la Policía Local se jubila el 18 de diciembre de 2022 con el régimen especial de los policías locales, y se le agradecen sus más de 39 años de servicio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "692701K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Cuatro policías locales podrán reclamar en los juzgados los daños al mobiliario urbano",
+      "categoria": "personal",
+      "resumen": "Se autoriza a cuatro mandos de la Policía Local a comparecer ante los juzgados en nombre del Ayuntamiento para reclamar el valor del mobiliario urbano dañado en delitos contra la seguridad vial y otros casos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693275H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "La psicóloga de Servicios Sociales irá a una jornada sobre violencia sexual infantil",
+      "categoria": "personal",
+      "resumen": "Se ordena a la psicóloga del Centro de Servicios Sociales asistir el 16 de noviembre a una jornada formativa de la Escuela de Formación de la CARM sobre violencia sexual contra la infancia; el Ayuntamiento paga el desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694397Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "7.250 € por los fuegos artificiales de las Fiestas de la Virgen",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Coeters Dragón, S.L. el contrato menor de fuegos artificiales y cohetes para las Fiestas de la Virgen.",
+      "entidades": [
+        {
+          "nombre": "Coeters Dragón, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7250.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "692860F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "14.525 € en equipamiento para el aula de tapicería",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Francisco José Davó Rubí, S.L. el contrato menor de suministro del equipamiento del aula de tapicería.",
+      "entidades": [
+        {
+          "nombre": "Francisco José Davó Rubí, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14524.84,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691315K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de invierno para el bar Lobo Jack",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Lobo Jack' en la calle Arcipreste Esteban Díaz: 12 m² de noviembre de 2022 a marzo de 2023.",
+      "entidades": [
+        {
+          "nombre": "Lobo Jack (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689608P",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de invierno para el Aquarium Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del 'Aquarium Café' en la plaza Ocho de Marzo: 48 m² de noviembre de 2022 a marzo de 2023.",
+      "entidades": [
+        {
+          "nombre": "Aquarium Café (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691642P",
+      "lugar": "Plaza Ocho de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza anual para la Cafetería Firenze-Niño",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de la 'Cafetería Firenze-Niño' en la calle del Niño Jesús: 12 m² durante todo el año (noviembre 2022 a octubre 2023).",
+      "entidades": [
+        {
+          "nombre": "Cafetería Firenze-Niño (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "689619E",
+      "lugar": "Calle del Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Puesto de chocolate con churros en la Plaza de San Cayetano en el puente de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a instalar un remolque de chocolate y churros en la Plaza de San Cayetano del 6 al 8 de diciembre, pagando 48 € de tasa por ocupación de la vía pública.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga tasa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 48.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690814P",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Puesto de detección precoz de la diabetes en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Diabéticos del Altiplano a instalar un puesto el 23 de noviembre para una jornada de detección precoz de la diabetes, con carpas, mesas y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Diabéticos del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "679216F",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Boda civil en el Salón de Sesiones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su boda civil el 11 de febrero de 2023.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693186J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Convenio con la FFIS para promover la actividad física saludable",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio de cuatro años (prorrogable otros cuatro) con la Fundación para la Formación e Investigación Sanitarias de la Región de Murcia para crear en Yecla una red de servicios que anime a hacer ejercicio físico y controlar factores de riesgo de enfermedades. No se indica aportación económica.",
+      "entidades": [
+        {
+          "nombre": "Fundación para la Formación e Investigación Sanitarias de la Región de Murcia (FFIS)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694210F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Presentación de los equipos de la Red Deportiva Yecla en el Pabellón José Ortega Chumilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya el acto de presentación de los equipos de la Red Deportiva Yecla el 20 de noviembre, con uso gratuito del pabellón valorado en 79,70 €. Se le advierte de que en el futuro debe respetar los plazos de solicitud.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe uso gratuito"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 79.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "691156P",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Urgente: certificación de la restauración de la Capilla de las Angustias de San Francisco",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 5 de la obra de restauración de la Capilla de las Angustias de la Iglesia de San Francisco.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. ZIMA, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 65877.15,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Urgente: la bolsa de Técnico de Administración General admitirá cualquier título de grado",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima en parte el recurso de una aspirante contra las bases de la bolsa de empleo de TAG aprobadas el 11 de octubre: en lugar de exigir solo Derecho, Políticas, Económicas o Empresariales, se pedirá cualquier título universitario de grado o equivalente, se cambia el baremo de titulaciones y se abre un nuevo plazo de 20 días naturales.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "658496D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Urgente: se rechaza que el fin del contrato de una trabajadora social interina sea despido",
+      "categoria": "reclamaciones",
+      "resumen": "Una trabajadora social, con contratos encadenados desde 2009, pidió que el fin de su interinidad (5 de noviembre, al volver la titular) se declarase despido nulo por represalia, o improcedente, o se le indemnizase. La Junta lo deniega todo: era una sustitución con reserva de puesto y no hubo represalia.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "692019N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Urgente: el jefe de Estadística irá a una formación del censo electoral",
+      "categoria": "personal",
+      "resumen": "Se ordena al jefe del Negociado de Estadística asistir el 17 de noviembre a una sesión de la Oficina del Censo Electoral sobre el voto de extranjeros en las elecciones locales de 2023.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Oficina del Censo Electoral",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695281T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Urgente: una administrativa vuelve al horario general",
+      "categoria": "personal",
+      "resumen": "Se autoriza a la jefa del Negociado Central a volver al horario general de la Casa Consistorial desde el 16 de noviembre, tras haber tenido un horario especial.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695351Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Urgente: 8.696 € en señales turísticas para los montes de Algezares y Castillarejos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un autónomo el contrato menor de suministro de señalización turística en los espacios naturales de los Montes de Algezares y Castillarejos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8696.27,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693956D",
+      "lugar": "Montes de Algezares y Castillarejos",
+      "interes": 2
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Urgente: cambia el presidente de la Mesa de Contratación",
+      "categoria": "organizacion",
+      "resumen": "Por el reparto de nuevas delegaciones tras la llegada de una nueva concejala, la Mesa de Contratación permanente de la Alcaldía y la Junta de Gobierno pasa a presidirla el concejal de Festejos en lugar de la concejala que la presidía; el resto son el secretario, la interventora y técnicos municipales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "216606R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Urgente: Épsilon animará el centro de mayores Las Herratillas (65.805 €/año)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por procedimiento abierto a Épsilon Servicios Educativos, S.L., primera en precio y en horas adicionales de profesionales y talleres, el servicio de animación y dinamización social del Centro de Personas Mayores Las Herratillas, por 65.804,90 € al año (IVA incluido) durante dos años.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 131609.8,
+      "importes": [
+        {
+          "concepto": "Animación-dinamización social Centro de Mayores Las Herratillas, primer año",
+          "eur": 65804.9,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Animación-dinamización social Centro de Mayores Las Herratillas, segundo año",
+          "eur": 65804.9,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647398P",
+      "lugar": "Centro Municipal de Personas Mayores Las Herratillas",
+      "interes": 3
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Urgente: Universidad Popular 2022-23, Épsilon gana cuatro de los cinco lotes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la clasificación del contrato de los cursos de la Universidad Popular: Épsilon Servicios Educativos gana los lotes de artes plásticas, patronaje y confección, artes aplicadas y técnicas físicas, y un particular el de restauración de muebles. Se les pide la documentación y las garantías (5 %), que equivalen a unos 99.800 € el primer año para Épsilon y 10.500 € para el particular.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "propuesto adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Urgente: paso de peatones provisional en la Avenida de la Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se señaliza un paso de peatones provisional en la Avenida de la Paz porque el vallado de un edificio que se va a derribar en el cruce con la calle Colón dificulta el paso.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "695056F",
+      "lugar": "Avenida de la Paz, cruce con calle Colón",
+      "interes": 1
+    },
+    {
+      "ref": "11.11",
+      "titulo": "Urgente: dos procesiones de La Milagrosa del Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio La Inmaculada a celebrar dos procesiones con la imagen de La Milagrosa, el 24 y el 27 de noviembre, por las calles del entorno del colegio y la Iglesia del Niño.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694580W",
+      "lugar": "Calles Colón, Miguel Golf, Arco del Niño, Juan Ortuño y otras",
+      "interes": 1
+    },
+    {
+      "ref": "11.12",
+      "titulo": "Urgente: puesto de Cruz Roja contra la violencia de género en la Placeta Ortega",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Española a poner un puesto informativo en la Placeta Ortega el 25 de noviembre, Día contra la violencia de género.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694581X",
+      "lugar": "Placeta Ortega",
+      "interes": 1
+    },
+    {
+      "ref": "11.13",
+      "titulo": "Urgente: marcha canina benéfica de SPANDY en el Cerro de la Fuente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma conocimiento de la marcha canina benéfica de la protectora SPANDY el 27 de noviembre, con salida y llegada en el Cerro de la Fuente, y la Policía Local ayudará a cruzar la carretera de Fuente Álamo.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Protectora de Animales de Yecla (SPANDY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "694582Y",
+      "lugar": "Cerro de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "11.14",
+      "titulo": "Urgente: ANIDA usará el Edificio Bioclimático para un taller de cajas-nido",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a ANIDA a usar el salón de actos del Edificio Bioclimático el 26 de noviembre para un taller de construcción de cajas-nido.",
+      "entidades": [
+        {
+          "nombre": "Asociación Naturalista de Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "693393X",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "11.15",
+      "titulo": "Urgente: el Ayuntamiento compra por 78.339 € la casa pegada a la Ermita de San Roque",
+      "categoria": "patrimonio",
+      "resumen": "El Ayuntamiento compra directamente a tres particulares una casa adosada a la Ermita de San Roque (Bien de Interés Cultural), que el Plan General califica como zona verde. Es el último inmueble que faltaba para reurbanizar ese entorno y dejar la ermita exenta. Precio fijado por el arquitecto municipal y aceptado por los dueños; el Ayuntamiento paga la notaría.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "vende"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 78338.92,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "252625T",
+      "lugar": "Junto a la Ermita de San Roque",
+      "interes": 3
+    },
+    {
+      "ref": "11.16",
+      "titulo": "Urgente: el Ayuntamiento paga el entierro de una vecina sin recursos",
+      "categoria": "servicios_actividades",
+      "resumen": "A propuesta de Servicios Sociales, el Ayuntamiento asume el sepelio de una vecina sin recursos: 1.063,83 € de funeraria y 237,60 € de inhumación.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1301.43,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690435N",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

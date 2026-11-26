@@ -1,0 +1,815 @@
+{
+  "doc": "2020-05-26_JGL_24",
+  "organo": "JGL",
+  "sesion": 24,
+  "fecha": "2020-05-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 39,
+  "resumen": "Junta celebrada por videoconferencia en plena desescalada COVID. Se pagan 123.446 euros en facturas (ampliación del skate park, parques infantiles, licencias informáticas), se licita material informático por 66.308 euros y se obliga a Sacyr Social a seguir llevando el Centro de Día de mayores hasta que haya nuevo contrato. Se aceptan 87.846 euros de la CARM para el centro de atención a víctimas de violencia de género (CAVI), se ceden a Cáritas locales en la Travesía de Pinoso y se reabren a medias los mercadillos junto a los mercados. Se autorizan una docena de terrazas, la mayoría más grandes de lo normal para compensar el aforo limitado.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 15, 19, 20 y 22 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de cuatro sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas COVID, ayudas de la CARM y expropiaciones de la autovía A-33",
+      "categoria": "informacion",
+      "resumen": "Se informa de 16 disposiciones: decretos de la CARM que regulan subvenciones directas a ayuntamientos para servicios sociales por el COVID y para atención a mujeres víctimas de violencia de género, ayudas a autónomos, la publicación de la modificación de ordenanzas fiscales y de la Oferta de Empleo Público 2019, la tarifa de anulación de multas de la zona azul, el aforo de bares y terrazas en fase 2, el pago de depósitos por las expropiaciones de la autovía A-33 (tramo enlace C-3223 a Yecla - N-344) y varias órdenes estatales sobre mascarillas y desescalada.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "regula ayudas"
+        },
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "expropia para la autovía A-33"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "464466R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Pago de facturas: skate park, parques infantiles y licencias informáticas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: la ampliación del skate park, la renovación de los juegos infantiles de la plaza del Músico Oliver y de la plaza del Alcalde José Martínez Sánchez, la renovación de licencias de los cortafuegos Fortinet y la ampliación de licencias Citrix.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ludomáquina, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Akawi Adventure, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Informes, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 123446.15,
+      "importes": [
+        {
+          "concepto": "Renovación licencias Fortines 200E (cortafuegos)",
+          "eur": 16031.97,
+          "entidad": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.U."
+        },
+        {
+          "concepto": "Renovación área infantil, Lote 2, plaza del Músico Oliver (C.SU. 4/2019)",
+          "eur": 26599.43,
+          "entidad": "Ludomáquina, S.L."
+        },
+        {
+          "concepto": "Renovación área infantil, Lote 3, plaza del Alcalde José Martínez Sánchez (C.SU. 4/2019)",
+          "eur": 26599.43,
+          "entidad": "Ludomáquina, S.L."
+        },
+        {
+          "concepto": "Ampliación del skate park",
+          "eur": 47190.0,
+          "entidad": "Akawi Adventure, S.L."
+        },
+        {
+          "concepto": "Ampliación licencias Citrix + RDS (contrato 20/02C)",
+          "eur": 7025.32,
+          "entidad": "Informes, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "165142P, 291915N, 298794R, 438010Y",
+      "lugar": "Plaza del Músico Oliver; plaza del Alcalde José Martínez Sánchez; skate park",
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de dirección de obra en la nave de Industrias David en Urbayecla II",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que uno de los dos arquitectos directores renuncia a la dirección de las obras de adecuación y ampliación de una nave industrial de Industrias David, S.L.U.; queda un único director de obra.",
+      "entidades": [
+        {
+          "nombre": "Industrias David, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor"
+        },
+        {
+          "nombre": "Colegio Oficial de Arquitectos de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica la renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "70716R",
+      "lugar": "P.I. Urbayecla II, C/ Médico Miguel Lucas, 2",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para construir una vivienda unifamiliar entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia con proyecto básico para una vivienda unifamiliar entre medianeras; para empezar las obras tendrá que presentar el proyecto de ejecución. Fianza de 140 euros por la urbanización.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398146F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Jubilación anticipada de un funcionario municipal",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación anticipada, con efectos del 15 de julio de 2020, de un funcionario municipal tras más de 39 años de servicio; se le abonarán las indemnizaciones del convenio y se le agradece su trabajo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "375475T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Jubilación de una limpiadora de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se toma nota de la jubilación ordinaria, con efectos del 29 de junio de 2020, de una limpiadora municipal tras 22 años de servicio, con abono de las indemnizaciones del convenio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "458140F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contratación de un psicólogo para el Programa de Familia",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un psicólogo temporal para un proyecto de intervención psicoeducativa con familias, pagado con la ampliación de la subvención de la CARM para apoyo a la familia e infancia.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "425948W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso de lactancia acumulado para una técnica de escuela infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil el permiso de lactancia acumulado en jornadas completas del 1 al 18 de junio de 2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "460762Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Vuelta a jornada completa del conserje del Mercado de San Cayetano",
+      "categoria": "personal",
+      "resumen": "Se autoriza al conserje-operario del Mercado de San Cayetano a dejar la jornada reducida desde el 25 de mayo, con un horario provisional adaptado al COVID.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465244Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Anticipo de sueldo de 3.000 euros a un agente de la Policía Local",
+      "categoria": "personal",
+      "resumen": "Se concede a un agente de la Policía Local un anticipo de 3.000 euros de su nómina, que devolverá según el reglamento y deberá justificar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "461297Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Contrato menor de consumibles para impresoras (8.438 euros)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Ecotisa Una Tinta de Impresión, S.L. el suministro de consumibles para impresoras y multifunción por 8.438,01 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Ecotisa Una Tinta de Impresión, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8438.01,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "411717E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato menor del nuevo mostrador de información del Ayuntamiento (8.446 euros)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un profesional autónomo la instalación de un mostrador de atención al público y el acondicionamiento de la zona de Información de la Casa Consistorial por 8.445,80 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8445.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "464936W",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Sacyr Social seguirá con el Centro de Día de mayores hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "La empresa adjudicataria del Centro de Día para personas mayores dependientes (C.SE. 7/2017) no quiso prorrogar el contrato, que acaba a los dos años. Como el nuevo contrato aún está en preparación, se acuerda que siga prestando el servicio hasta que entre en vigor el nuevo, por interés general.",
+      "entidades": [
+        {
+          "nombre": "Sacyr Social, S.L. (antes Valoriza Servicios a la Dependencia, S.L.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "425479T",
+      "lugar": "Centro de Día para personas mayores dependientes",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Cruz Roja puede poner el «Carrito Solidario» en supermercados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Tras un nuevo informe favorable de la Policía Local (antes se había denegado por un malentendido), se autoriza a Cruz Roja a recoger alimentos en las puertas de supermercados, con distancia de dos metros y como mucho dos voluntarios.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455070R",
+      "lugar": "Supermercados de Yecla",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de 50 m² para el bar «Ánkora» en calle Maestro Mora",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, más grande de lo habitual para compensar el aforo limitado por el COVID; se reducirá cuando se levanten las limitaciones.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462479H",
+      "lugar": "Calle Maestro Mora",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de 15 m² para la «Cafetería TJ» en Avda. Literato Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, ampliada excepcionalmente por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "463782R",
+      "lugar": "Avda. Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de 40 m² para la «Cafetería Carrusel Kinder» en Plaza del Recuerdo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, con el doble de superficie que en 2019 por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462932M",
+      "lugar": "Plaza del Recuerdo",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegada la terraza de la «Taberna El Garrudo» en calle Corredera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega la terraza porque la Policía Local informa en contra por razones de seguridad vial para clientes y trabajadores.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "462720R",
+      "lugar": "Calle Corredera",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Terraza de 17 m² para el bar «El Recreo» en calle Játiva",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, ampliada excepcionalmente por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "463811H",
+      "lugar": "Calle Játiva",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Terraza de 69 m² para el «Restaurante Pachamama» en calle Párroco Juan Martínez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza en la plaza frente al restaurante para la temporada de verano 2020, ampliada excepcionalmente por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "463831K",
+      "lugar": "Calle Párroco Juan Martínez",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Representante municipal para recibir la obra del semisótano del edificio «Cazadores»",
+      "categoria": "contrato",
+      "resumen": "Se designa al arquitecto municipal para la recepción de la obra de adecuación de la planta semisótano del edificio «Cazadores» para uso lúdico.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "137606W",
+      "lugar": "Edificio «Cazadores»",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Representante municipal para recibir la obra de la Cueva del Mediodía (Monte Arabí)",
+      "categoria": "contrato",
+      "resumen": "Se designa al arquitecto municipal para la recepción de la obra de puesta en valor de las pinturas rupestres de la Cueva del Mediodía del Monte Arabí (nuevo cerramiento y consolidación de los paneles).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "287864M",
+      "lugar": "Cueva del Mediodía, Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Representante municipal para recibir la campaña de asfaltado 2019-2020",
+      "categoria": "contrato",
+      "resumen": "Se designa al arquitecto municipal para la recepción de la obra «Campaña de asfaltados 2019-2020 (varias calles)».",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "296472R",
+      "lugar": "Varias calles",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista provisional de admitidos en las escuelas infantiles para el curso 2020/21",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la lista provisional de niños admitidos en las cinco escuelas infantiles municipales (El Parque, Alameda, Campanilla, Pulgarcito y El Perro Loco), con reclamaciones del 27 al 29 de mayo; si no hay reclamaciones queda definitiva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "409067Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se aceptan 87.846 euros de la CARM para el centro de atención a víctimas (CAVI)",
+      "categoria": "subvencion_recibida",
+      "resumen": "De los 96.139,18 euros previstos para Yecla para atender a mujeres víctimas de violencia de género, el Ayuntamiento pide recibir algo menos porque con los profesionales previstos basta, y acepta 87.846,06 euros.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias y Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 87846.06,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "460644J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Cesión gratuita a Cáritas de locales en la Travesía de Pinoso (Naves del Trigo)",
+      "categoria": "patrimonio",
+      "resumen": "Se ceden gratis y en precario a Cáritas Interparroquial Yecla 311 m² de locales municipales en las antiguas Naves del Trigo como sede y para atender a personas en riesgo de exclusión, por un máximo de diez años prorrogables hasta veinte. Cáritas paga mantenimiento y suministros; el Ayuntamiento, el seguro del edificio.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Interparroquial Yecla (Cáritas Diocesana de Cartagena)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "455325X",
+      "lugar": "Travesía de Pinoso 2, n.º 7 (antiguas Naves del Trigo)",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "AYAC pierde un despacho en el edificio de servicios de la calle San José",
+      "categoria": "patrimonio",
+      "resumen": "Por falta de espacio en Servicios Sociales, se revoca la cesión a AYAC del despacho nº 5 y se cambia el horario del despacho nº 6 mientras duren las medidas COVID.",
+      "entidades": [
+        {
+          "nombre": "AYAC",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pierde cesión"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465876A",
+      "lugar": "Edificio de Servicios Múltiples, calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Ayudas de comida para niños con beca de comedor por el cierre de colegios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se dan ayudas económicas a menores con beca de comedor, con cargo a 1.070,08 euros recibidos de la CARM para garantizar su alimentación durante el cierre de los colegios (16 de marzo a 8 de abril).",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1070.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "432524D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Se reanudan las oposiciones a seis plazas de cabo de la Policía Local",
+      "categoria": "personal",
+      "resumen": "El concurso-oposición interno para seis plazas de cabo, suspendido por el estado de alarma, se reanuda porque la Policía necesita esos puestos: la valoración de méritos y el primer examen serán el 22 de junio de 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "187022D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Se licita material informático por 66.308 euros en cinco lotes",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y se abre procedimiento abierto simplificado para comprar material informático en cinco lotes, con un gasto máximo de 66.308 euros con IVA (valor estimado 54.800 euros).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 66308.0,
+      "importes": [
+        {
+          "concepto": "Lote 1",
+          "eur": 38127.1,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2",
+          "eur": 9498.5,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3",
+          "eur": 5009.4,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4",
+          "eur": 11253.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5",
+          "eur": 2420.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "412135K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Reabren los mercadillos junto a los mercados, solo con ocho puestos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reabren los mercadillos ambulantes junto al Mercado Central y al de San Cayetano solo con puestos de menaje, flores, droguería y churrería (ocho en total). Los de ropa y calzado siguen cerrados porque no se puede garantizar la higiene ni la distancia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462942A",
+      "lugar": "Mercado Central; Mercado de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Nuevo aforo de los mercados municipales",
+      "categoria": "servicios_actividades",
+      "resumen": "Se fija el aforo COVID: 74 personas en el Mercado Central (con vendedores) y 34 en el de San Cayetano (sin contar vendedores).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466164A",
+      "lugar": "Mercado Central; Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Terraza de 32 m² para «Delicias» en la plaza del Alcalde José Martínez Sánchez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, con el doble de superficie que en 2019 por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466089X",
+      "lugar": "Plaza del Alcalde José Martínez Sánchez",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Terraza de 30 m² para «El Lobo Jack» en C/ Arcipreste Esteban Díaz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, ampliada excepcionalmente por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465084A",
+      "lugar": "C/ Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Terraza de 18 m² para «Borneo Café» en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, ampliada excepcionalmente por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466073Z",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Terraza de 42 m² para «Pío XI» en calle Pío Baroja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, con el doble de superficie que en 2019 por el COVID.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "466080J",
+      "lugar": "Calle Pío Baroja",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Terraza de 20 m² para «Hadouken» en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020 (sin la cláusula de ampliación COVID).",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "465092M",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Terraza de 22 m² para «Cafetería Pastelería Firenze» en calle San José (zona azul)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza para la temporada de verano 2020, ampliada por el COVID. Como ocupa plazas de zona azul, no podrá superar el 10% de plazas de pago al año y se notifica a la concesionaria del aparcamiento regulado.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Continental Parking, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria zona azul (notificada)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "462483N",
+      "lugar": "Calle San José",
+      "interes": 1
+    }
+  ]
+}

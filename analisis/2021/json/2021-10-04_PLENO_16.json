@@ -1,0 +1,315 @@
+{
+  "doc": "2021-10-04_PLENO_16",
+  "organo": "PLENO",
+  "sesion": 16,
+  "fecha": "2021-10-04",
+  "tipo_sesion": "ordinaria",
+  "paginas": 61,
+  "resumen": "Se aprueba la Cuenta General de 2020 y se fija una nueva tarifa para las terrazas de bares (12 €/m² en verano, 7 € en invierno, 17 € todo el año). Se sube a 14.200 € la ayuda a Cáritas para productos básicos por la crisis del coronavirus y se dan por justificadas las subvenciones a Cruz Roja (64.000 €) y a la Escuela de Música de Amigos de la Música (205.000 €). El PP, con su mayoría absoluta, tumba las mociones de la oposición sobre invitaciones a actos y un nuevo reglamento de participación ciudadana; sale adelante, con PP y Cs, pedir al Gobierno de España un autobús Yecla-Villena (en lugar de reprobar al consejero regional de Fomento) y bajar los impuestos de la luz.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta del Pleno de 6 de septiembre de 2021.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Cuenta General de 2020",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la Cuenta General del Ayuntamiento del ejercicio 2020 (las cuentas cerradas del año), que no recibió reclamaciones en la exposición pública, y se envía al Tribunal de Cuentas.",
+      "entidades": [
+        {
+          "nombre": "Tribunal de Cuentas",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe la Cuenta General"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "19 a favor (PP, PSOE y Cs); 2 abstenciones (IU-Verdes)",
+      "expediente": "509454A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Nueva tarifa de la tasa por terrazas de bares en la vía pública",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba provisionalmente cambiar la Ordenanza Fiscal n.º 18: las terrazas con mesas y sillas pagarán por metro cuadrado 12 € en temporada de verano (1 de abril a 31 de octubre), 7 € en invierno (1 de noviembre a 31 de marzo) o 17 € si están todo el año. Se abre un mes de alegaciones y se aplicará como tarde desde el 1 de enero de 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "16 a favor (PP, IU-Verdes y Cs); 5 abstenciones (PSOE)",
+      "expediente": "539756M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4",
+      "titulo": "Más dinero para Cáritas para ayudar a personas en riesgo de exclusión (2021)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el anexo de 2021 del convenio con Cáritas Interparroquial de Yecla (atención a transeúntes, productos básicos para personas necesitadas y cesión de espacios) y se sube la aportación económica municipal de 11.200 € a 14.200 € (3.000 € más para productos básicos por la crisis del coronavirus), que se pagan ya. Con la cesión de locales y servicios (28.609,60 €), la aportación total del Ayuntamiento es de 42.809,60 €.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Interparroquial de Yecla (Cáritas Diocesana de Cartagena)",
+          "cif": null,
+          "tipo": "ong",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14200.0,
+      "importes": [
+        {
+          "concepto": "Aportación económica inicial 2021 (ya anticipada)",
+          "eur": 11200.0,
+          "entidad": "Cáritas Interparroquial de Yecla"
+        },
+        {
+          "concepto": "Incremento 2021 para productos básicos (COVID)",
+          "eur": 3000.0,
+          "entidad": "Cáritas Interparroquial de Yecla"
+        },
+        {
+          "concepto": "Aportación en especie (cesión de espacios y servicios)",
+          "eur": 28609.6,
+          "entidad": "Cáritas Interparroquial de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "515071C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Cruz Roja justifica la subvención de 2020 (64.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por bien justificado el uso de la subvención de 64.000 € que la Asamblea Local de Cruz Roja Española en Yecla recibió en 2020 dentro del convenio marco 2017-2020.",
+      "entidades": [
+        {
+          "nombre": "Asamblea Local de Cruz Roja Española en Yecla",
+          "cif": null,
+          "tipo": "ong",
+          "rol": "justifica la subvención recibida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509387H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Moción del PSOE para invitar a la oposición a los actos públicos (rechazada)",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE pedía cambiar el Reglamento de Protocolo para que todos los grupos sean invitados a actos como la inauguración de la Feria y a eventos u obras financiados por el Ayuntamiento, y que mientras tanto el Gobierno local les avise. Debate: la oposición (PSOE, Cs e IU-Verdes) se queja de que desde la llegada de la nueva alcaldesa no se les invita; el PP lo niega, dice que en los actos institucionales siempre tienen sitio y que las propuestas deben ir a la comisión que ya revisa el reglamento.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "12 en contra (PP); 9 a favor (PSOE, IU-Verdes y Cs)",
+      "expediente": "540942J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Moción de IU-Verdes para un nuevo reglamento de participación ciudadana (rechazada)",
+      "categoria": "mocion_politica",
+      "resumen": "IU-Verdes pedía que los técnicos redactaran un nuevo Reglamento de Participación Ciudadana, porque el vigente es de 1983 y está obsoleto (consejos sectoriales sin participación, sin buzón de quejas, audiencias públicas ni iniciativa popular), con seguimiento en la Comisión de Transparencia. El PP responde que el reglamento sigue vigente y funciona, y que ahora no es la prioridad; PSOE y Cs apoyan la moción.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "12 en contra (PP); 9 a favor (PSOE, IU-Verdes y Cs)",
+      "expediente": "541009C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Autobús Yecla-Villena: se pide al Gobierno de España en vez de reprobar al consejero regional",
+      "categoria": "mocion_politica",
+      "resumen": "Cs pedía reprobar al consejero regional de Fomento por no incluir en el Plan Director de Transportes de la Región un autobús del Altiplano a Villena y su estación del AVE (pedido por 1.500 firmas de vecinos y por la Asamblea Regional). Se aprueba en su lugar la enmienda del PP: pedir una reunión con el presidente regional y otra con la Dirección General de Transporte Terrestre del Ministerio, e instar al Gobierno de España a poner un autobús diario de ida y vuelta Yecla-Villena, porque es competencia estatal al unir dos comunidades.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Ciudadanos",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Grupo Municipal Popular",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "enmienda aprobada"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se pedía reprobar al consejero"
+        },
+        {
+          "nombre": "Ministerio de Transportes, Movilidad y Agenda Urbana",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le insta a crear la línea"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "enmienda del PP: 14 a favor (PP y Cs); 5 en contra (PSOE); 2 abstenciones (IU-Verdes). No se votó la moción original",
+      "expediente": "541020R",
+      "lugar": "Yecla-Villena",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Moción del PP para bajar la factura de la luz",
+      "categoria": "mocion_politica",
+      "resumen": "Se pide al Gobierno de España bajar la factura de la luz un 20% con las medidas de la proposición de ley del PP: quitar el impuesto del 7% a la producción eléctrica, destinar 2.000 millones de las subastas de CO2, mantener el IVA de la luz al 10% indefinidamente y pasar costes regulados a los Presupuestos del Estado. Antes se rechazó la enmienda del PSOE, que apoyaba las medidas del Gobierno de septiembre de 2021 (rebaja de impuestos y suministro mínimo vital). Debate muy duro entre PP y la izquierda sobre quién tiene la culpa de la subida.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Popular",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "enmienda rechazada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "enmienda del PSOE rechazada: 12 en contra (PP), 7 a favor (PSOE y Cs), 2 abstenciones (IU-Verdes). Moción del PP aprobada: 14 a favor (PP y Cs), 7 en contra (PSOE e IU-Verdes)",
+      "expediente": "541137E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Declaración institucional de apoyo a La Palma por el volcán",
+      "categoria": "mocion_politica",
+      "resumen": "Todos los grupos aprueban una declaración de solidaridad con los vecinos de La Palma por la erupción del volcán, de agradecimiento a los equipos de emergencia y de ofrecimiento de ayuda; el Ayuntamiento difundirá en sus redes los canales para hacer donativos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (PP, PSOE, IU-Verdes y Cs)",
+      "expediente": "541145Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela de Música: se justifica la subvención de 205.000 € y se aprueba el curso 2021/22",
+      "categoria": "subvencion_concedida",
+      "resumen": "Asunto urgente: se da por justificada la subvención de 205.000 € del convenio con la Asociación de Amigos de la Música de Yecla para el funcionamiento de la Escuela de Música en el curso 2020/21, y se aprueban sus memorias, plan de formación y presupuesto para el curso 2021/22.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "justifica la subvención recibida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 205000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (también la urgencia)",
+      "expediente": "525433T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Resoluciones de la Alcaldía",
+      "categoria": "informacion",
+      "resumen": "El Pleno queda informado de los decretos de la Alcaldía números 3408 a 3761 dictados desde la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Ruegos: peticiones sin contestar y compra de terrenos en Monte Alegre por la macrogranja",
+      "categoria": "mocion_politica",
+      "resumen": "El PSOE se queja de 17 peticiones por escrito sin respuesta (fondos europeos para transporte, calle Numancia, camino público en La Teatina, Camino Viejo de Caudete, Centro de Salud Mariano Yago, sombrajes en colegios, edificio Bioclimático, Columbario del Castillo...); la alcaldesa dice que muchas ya se respondieron en comisión o se hicieron. Cs pide la respuesta por escrito sobre cuándo y cómo se comunicó al Ayuntamiento su derecho de compra preferente de los terrenos de Monte Alegre que compró la empresa que quiere instalar una macrogranja; la alcaldesa dice que se la entregó el 30 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "ruego"
+        },
+        {
+          "nombre": "Grupo Municipal Ciudadanos",
+          "cif": null,
+          "tipo": "grupo_politico",
+          "rol": "ruego"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": "Monte Alegre",
+      "interes": 2
+    }
+  ]
+}

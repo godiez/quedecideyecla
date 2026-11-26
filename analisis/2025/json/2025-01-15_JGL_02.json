@@ -1,0 +1,566 @@
+{
+  "doc": "2025-01-15_JGL_02",
+  "organo": "JGL",
+  "sesion": 2,
+  "fecha": "2025-01-15",
+  "tipo_sesion": "ordinaria",
+  "paginas": 24,
+  "resumen": "La Junta de Gobierno paga 169.000 euros en facturas de diciembre (polideportivos, limpieza y autobús urbano) y 81.718 euros por la última certificación de la obra del yacimiento Yakka. En la obra del Mercado Central, retira al ingeniero municipal que debía recibirla, que había denunciado deficiencias graves, por las discrepancias con la dirección de obra. Pide a la Confederación del Segura más agua para el abastecimiento porque la población ha crecido, y aprueba las Fiestas de San Antón (5.566 euros).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 7 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior, del 7 de enero de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas de conciliación y sustitución de la Secretaría",
+      "categoria": "informacion",
+      "resumen": "Se informa de una orden de la Consejería de Política Social que concede a los ayuntamientos subvenciones para servicios de conciliación de la vida laboral y familiar (cofinanciadas por el Fondo Social Europeo Plus) y de una resolución de la CARM sobre la habilitación para sustituir al secretario municipal. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve habilitación de la Secretaría"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1026899Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas de diciembre: polideportivos, limpieza de edificios y autobús urbano",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de diciembre de 2024 del mantenimiento y limpieza de las instalaciones deportivas, de la limpieza de edificios municipales y del servicio de autobús urbano.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 168932.23,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, diciembre 2024",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, diciembre 2024",
+          "eur": 64119.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, diciembre 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 777197Q, 841943Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central y yacimiento Yakka",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban dos certificaciones a 0 € de la remodelación del Mercado Central y la quinta y última de la puesta en valor del yacimiento 'Yakka' (Plan de Sostenibilidad Turística, fondos Next Generation EU a través del ITREM), por 81.718,09 €.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista (certificaciones a 0 €)"
+        },
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "financia (Next Generation EU)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 81718.09,
+      "importes": [
+        {
+          "concepto": "Certificaciones nº 20 y 21, remodelación del Mercado Central",
+          "eur": 0.0,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 5 y última, acondicionamiento del yacimiento 'Yakka' (C.O.4/24)",
+          "eur": 81718.09,
+          "entidad": "Rehabilitaciones y Construcciones Galán e Hijos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 867240A",
+      "lugar": "Yacimiento Yakka",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Recibos del agua (4º trimestre 2024) y de la basura (1er trimestre 2025)",
+      "categoria": "fiscal",
+      "resumen": "Se toma razón del padrón del agua del cuarto trimestre de 2024 (325.723,62 €; además 234.714,52 € de canon de saneamiento que se cobra para la Comunidad Autónoma), se aprueba el padrón de la tasa de basura del primer trimestre de 2025 (375.753,40 €), que cobra FCC Aqualia, y se anulan recibos antiguos de basura por 60,50 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria del agua y recaudadora de la tasa de basura"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 701477.02,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable, 4º trimestre 2024",
+          "eur": 325723.62,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Tasa de recogida de residuos, 1er trimestre 2025",
+          "eur": 375753.4,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030531T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Un vecino renuncia a su licencia para construir una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se acepta la renuncia de un particular a la licencia urbanística 96/2022 para construir una vivienda unifamiliar entre medianeras y se cierra el expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609887Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para dividir una finca rústica en tres parcelas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar en tres parcelas (de unos 26.000-28.000 m² cada una) una finca en suelo no urbanizable, resultado de agrupar tres fincas registrales; las nuevas parcelas quedan indivisibles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753006R",
+      "lugar": "Polígono 37 (parcelas 59, 60 y 61), suelo no urbanizable general",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para dividir una finca de regadío en el paraje Decarada",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a una particular licencia para segregar una finca de 23.199 m² en suelo no urbanizable en dos fincas de 10.125 y 10.200 m², quedando un resto de 2.554 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1017238F",
+      "lugar": "Paraje Decarada, polígono 34, parcela 444",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se pide a la CARM un informe sobre los niveles de dos empleadas que hicieron carrera profesional",
+      "categoria": "personal",
+      "resumen": "Dos empleadas municipales del grupo A1 (psicóloga y asesora jurídica) piden que, tras la subida legal de su puesto al nivel 24, se les sumen los dos niveles ganados antes con la carrera profesional (nivel 26). El Ayuntamiento pide un informe jurídico a la Dirección General de Administración Local antes de decidir.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "emite informe jurídico"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "987937K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación temporal de un tractorista para el arreglo de caminos",
+      "categoria": "personal",
+      "resumen": "Tras la jubilación de un tractorista del servicio de conservación de caminos (que queda con tres trabajadores), se contrata a otro de la bolsa de empleo hasta que la plaza se cubra en propiedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1027653X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Permiso sin sueldo a una auxiliar administrativa de Personal",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa del Negociado de Personal licencia por asuntos propios sin retribución del 22 de enero al 6 de febrero de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1029284M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Permiso sin sueldo a una auxiliar administrativa de Secretaría",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar administrativa de Secretaría licencia por asuntos propios sin retribución del 20 de enero al 6 de febrero de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1029576R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Mercado Central: se retira al ingeniero que debía recibir la obra por discrepancias técnicas",
+      "categoria": "contrato",
+      "resumen": "El ingeniero técnico industrial municipal designado para recibir las obras de remodelación del Mercado Central había denunciado en varios informes 'deficiencias graves' en la urbanización y pedido su relevo. La Junta lo revoca al constatar 'importantes discrepancias de naturaleza técnica, e incluso personales' con la dirección facultativa, para preservar la objetividad.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de la obra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Plenos para una boda civil (8 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la 1ª planta del Ayuntamiento para su boda civil el 8 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1028512P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Plenos para una boda civil (22 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la 1ª planta para su boda civil el 22 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "992351Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de Plenos de la 3ª planta para una boda civil (1 de febrero)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la 3ª planta para su boda civil el 1 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1029856F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Salón de Plenos de la 3ª planta para una boda civil (30 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Plenos de la 3ª planta para su boda civil el 30 de junio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "991186Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Salón del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular el uso del Salón de Actos del Edificio Bioclimático para un club de lectura el 8 de febrero.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1029173H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Auditorio para la Hermandad de la Santa Faz y la Verónica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la cofradía el uso del Auditorio Juan Miguel Benedito el 15 de marzo para nombrar a su Hermano Cofrade Honorario 2025 y presentar nuevos músicos, previo pago del precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "Real Hermandad de la Santa Faz y Cofradía de la Verónica de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "usa el auditorio y paga 120 €"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1027451Q",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Auditorio gratis para la asociación de personas con discapacidad ADFY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a ADFY el uso del Auditorio Juan Miguel Benedito el 31 de marzo para clausurar su Campaña de Mentalización Escolar, con rebaja del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa el auditorio gratis"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "988212R",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Programa y presupuesto de las Fiestas de San Antón 2025",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las Fiestas de San Antón (12 a 19 de enero) con un presupuesto de 5.566 €: hoguera el 17 de enero junto a la antigua estación, vueltas a la iglesia y bendición de animales el 18 y pasacalles el 19, con cortes de tráfico. La Asociación de Amigos de San Antón limpiará los excrementos de los caballos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de San Antón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora (limpieza)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5566.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1027699K",
+      "lugar": "Iglesia de Los Dolores (Hospitalico) y antigua estación de ferrocarril",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Se pide a la Confederación del Segura más agua para abastecer a Yecla",
+      "categoria": "medio_ambiente",
+      "resumen": "Como la población ha crecido casi un 5% (35.957 habitantes en el padrón de 2024), se pide a la Confederación Hidrográfica del Segura ampliar el volumen de la concesión de agua para abastecimiento de 3.114.363 a 3.281.026 m³ al año (250 litros por habitante y día).",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "debe autorizar la ampliación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1030406W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de seguridad de la obra de placas solares del pozo La Fuente",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de instalación fotovoltaica de autoconsumo en la estación de bombeo del pozo 'La Fuente', presentado por la empresa adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria de la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "927729N",
+      "lugar": "Estación de bombeo del pozo La Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Viaje de la psicóloga del CAVI a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Urgente. Se ordena a la psicóloga del Centro de Atención a Víctimas de Violencia de Género (CAVI) asistir a una reunión de la red regional en Murcia el 20 de enero, con el coche del centro o pagando el Ayuntamiento los gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1028258M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Sala del Centro de Emprendimiento para un taller de la asociación de afectados de cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Se autoriza a la AYAC el uso de la sala de reuniones del Centro de Emprendimiento el 17 de enero para un taller de cuidados de la imagen y maquillaje.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa la sala"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1031125T",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Colaboración con una carrera de orientación en Fuente Álamo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. El Ayuntamiento colabora con una prueba oficial de la Liga Regional de Orientación el 19 de enero en el paraje Fuente Álamo, organizada por el Club Senda de Molina de Segura y la federación regional, con un gasto municipal de 290,40 € y condiciones de seguridad, limpieza y respeto al medio.",
+      "entidades": [
+        {
+          "nombre": "Federación de Orientación de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Club Senda (Molina de Segura)",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 290.4,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1009101E, 1030851N",
+      "lugar": "Paraje Fuente Álamo",
+      "interes": 1
+    }
+  ]
+}

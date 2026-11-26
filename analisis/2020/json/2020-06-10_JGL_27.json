@@ -1,0 +1,823 @@
+{
+  "doc": "2020-06-10_JGL_27",
+  "organo": "JGL",
+  "sesion": 27,
+  "fecha": "2020-06-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "La Junta de Gobierno aprueba el padrón del impuesto de vehículos de 2020 (1,9 millones de euros al cobro) y rechaza las facturas de Sacyr Social por el Centro de Día de mayores, porque cobraban comidas que no se dieron durante el cierre por la COVID. Pide a la Comunidad Autónoma dinero del Plan de Obras y Servicios para reurbanizar las calles Numancia y Rambla y renovar redes de agua en San Ramón y San Antonio, y licita el socorrismo de las piscinas por unos 403.000 euros al año. Además reabre al público oficinas municipales, la Caja, Juventud, Escuelas Infantiles y Casa de Cultura, y presta espacios públicos gratis a academias de baile que no pueden trabajar en sus locales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 2 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas COVID, ayudas de la CARM y reintegros de cursos del SEF",
+      "categoria": "informacion",
+      "resumen": "Se informa de normas del BOE y BORM (desescalada COVID, ayudas regionales al turismo y la hostelería, vuelta del autobús Yecla-Jumilla-Murcia), de una subvención de la CARM para servicios sociales por la COVID, del reinicio de programas mixtos de empleo y formación, y de que el SEF abre procedimientos de reintegro y pérdida de cobro de tres cursos (Yeclainserta, Tapizado e Inglés B2) tras las auditorías de justificación. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro"
+        },
+        {
+          "nombre": "UTE Audiopúblic Auditores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "audita justificación"
+        },
+        {
+          "nombre": "Dirección General de Movilidad y Litoral (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza transporte"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "471208F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Padrón del impuesto de vehículos 2020: 1,9 millones al cobro",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del impuesto de vehículos (IVTM) de 2020: 1.938.126,53 euros, menos 37.961,76 de bonificación por domiciliar, total al cobro 1.900.164,77 euros. Se paga en voluntaria del 15 de junio al 15 de noviembre; los recibos domiciliados se cargan el 28 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1900164.77,
+      "importes": [
+        {
+          "concepto": "Importe total del padrón",
+          "eur": 1938126.53,
+          "entidad": null
+        },
+        {
+          "concepto": "Bonificación por domiciliación",
+          "eur": -37961.76,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470963Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rechazadas facturas de Sacyr Social por el Centro de Día durante el cierre COVID",
+      "categoria": "contrato",
+      "resumen": "El Centro de Día de mayores dependientes cerró el 16 de marzo, pero siguió atendiendo por teléfono. Se rechazan tres facturas de 35.502,91 euros (marzo, abril y mayo) porque incluían comidas no servidas, y se fija lo que debe facturar: 33.150,81 euros en marzo y 30.855,54 euros al mes mientras siga así (se descuentan 166 euros por usuario y mes).",
+      "entidades": [
+        {
+          "nombre": "Sacyr Social, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia plazas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 94861.89,
+      "importes": [
+        {
+          "concepto": "Importe correcto marzo 2020 (IVA incluido)",
+          "eur": 33150.81,
+          "entidad": "Sacyr Social, S.L."
+        },
+        {
+          "concepto": "Importe correcto abril 2020 (IVA incluido)",
+          "eur": 30855.54,
+          "entidad": "Sacyr Social, S.L."
+        },
+        {
+          "concepto": "Importe correcto mayo 2020 (IVA incluido)",
+          "eur": 30855.54,
+          "entidad": "Sacyr Social, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "463052D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Corrección de una licencia de segregación de una finca junto a la avenida Juan Pablo II",
+      "categoria": "licencia_obra",
+      "resumen": "Se corrige un error en la licencia de segregación concedida el 3 de marzo a un particular: el tipo de suelo de las fincas. Se segregan 1.019 m² en suelo no urbanizable (riesgo de avenidas) y quedan 1.392 m² en suelo urbano de equipamiento deportivo.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "328510P",
+      "lugar": "Avenida Juan Pablo II; polígono 34, parcela 262",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia de segregación de una finca en suelo no urbanizable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos particulares licencia para segregar 18.720 m² de una finca de regadío en suelo no urbanizable, con la condición de agruparlos a fincas vecinas hasta sumar 20.000 m².",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "414963N",
+      "lugar": "Polígono 122, parcela 164",
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Vuelve un inspector de la Policía Local tras una excedencia",
+      "categoria": "personal",
+      "resumen": "Se aprueba la reincorporación, el 1 de agosto, de un policía que estaba en excedencia trabajando en el Ayuntamiento de Carcaixent (Valencia), a la plaza vacante de inspector, siempre que acredite su cese allí.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Carcaixent",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "469657C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Desierto el concurso de muebles para el semisótano del edificio Cazadores",
+      "categoria": "contrato",
+      "resumen": "Nadie se presentó al concurso para suministrar mobiliario a la planta semisótano del edificio 'Cazadores', así que se declara desierto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "407725K",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Renovación de licencias del cortafuegos Fortinet a Telefónica: 15.112,90 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Telefónica para renovar las licencias y el soporte de 2020 de los equipos de seguridad informática Fortinet, por 15.112,90 euros con IVA.",
+      "entidades": [
+        {
+          "nombre": "Telefónica Soluciones de Informática y Comunicaciones de España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15112.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "450815H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Denegado reponer un espejo en un cruce del camino del Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un vecino pide reponer un espejo de tráfico. Se deniega: da servicio a ocho viviendas y el criterio actual es que lo paguen los vecinos beneficiados, con asesoramiento de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "403490D",
+      "lugar": "Camino del Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nuevo paso de peatones en la calle Fábricas",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de un vecino y con informe favorable de la Policía Local, se pinta y señaliza un paso de peatones al principio de la calle Fábricas.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "425983T",
+      "lugar": "Calle Fábricas",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Denegado mover la plaza de discapacitados de la calle España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Un comerciante pide trasladar la plaza reservada a personas con discapacidad junto a la Casa de Cultura a la zona de carga y descarga. Se deniega por informe de la Policía Local: es la más cercana a la Casa de Cultura y la carga y descarga sirve a varios comercios.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "426986M",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano para el Demi Bar en la calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 15,91 m² hasta el 31 de octubre, más grande de lo habitual de forma excepcional para compensar la limitación de aforo por la COVID. Está en zona azul y se avisa a la concesionaria Continental Parking.",
+      "entidades": [
+        {
+          "nombre": "Demi Bar (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Continental Parking, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria zona azul"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470840W",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegados bolardos frente a un garaje de la calle Cura Ibáñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una comunidad de propietarios de garaje pide bolardos para que no se aparque en su vado. Se deniega: los bolardos solo se ponen en calles sin acera; deben llamar a la Policía Local cuando ocupen el vado.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios del Garaje de calle Francisco Castaño y Cura Ibáñez",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "439613Z",
+      "lugar": "Calle Cura Ibáñez",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Reabren con cita previa Contabilidad, Gestión Tributaria y Catastro y Obras",
+      "categoria": "servicios_actividades",
+      "resumen": "Tras el cierre por el estado de alarma, desde el 15 de junio vuelven a atender en persona, con cita previa y de uno en uno, los servicios de Contabilidad (registro de facturas), Gestión Tributaria y Catastro y Obras del Ayuntamiento. El resto sigue como hasta ahora.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471175K",
+      "lugar": "Casa Consistorial",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Reabre la Caja de Tesorería para pagar tasas en efectivo",
+      "categoria": "servicios_actividades",
+      "resumen": "Desde el 10 de junio reabre al público la Caja de la Tesorería municipal, para que se puedan pagar tasas e ingresos en metálico sin ir al banco, con las medidas de prevención COVID.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471209H",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Diez parados trabajarán tres meses en el yacimiento de Los Torrejones",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba un plan de intervención extraordinaria en el yacimiento arqueológico de Los Torrejones con diez peones desempleados durante tres meses por colaboración social (SEF), con 20.000 euros de presupuesto municipal, y se pide autorización a Bienes Culturales.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "aporta trabajadores"
+        },
+        {
+          "nombre": "Dirección General de Bienes Culturales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471207E",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Se pide a la CARM 244.150 € para reurbanizar la calle Numancia",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan de Obras y Servicios 2020-2021 la reurbanización de la calle Numancia entre San José y Fábricas: 257.000,01 euros, de los que la Comunidad Autónoma pondría 244.150 y el Ayuntamiento 12.850,01.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 257000.01,
+      "importes": [
+        {
+          "concepto": "Aportación CARM",
+          "eur": 244150.0,
+          "entidad": "Dirección General de Administración Local (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal",
+          "eur": 12850.01,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471128W",
+      "lugar": "Calle Numancia, entre calle San José y calle Fábricas",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Se pide a la CARM 77.823,50 € para renovar redes de agua en la calle San Ramón",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan de Obras y Servicios 2020-2021 la renovación del saneamiento y agua potable de la calle San Ramón entre Don Lucio y Numancia: 84.200 euros, 77.823,50 de la CARM y 6.376,50 del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 84200.0,
+      "importes": [
+        {
+          "concepto": "Aportación CARM",
+          "eur": 77823.5,
+          "entidad": "Dirección General de Administración Local (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal",
+          "eur": 6376.5,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471131Z",
+      "lugar": "Calle San Ramón, entre calle Don Lucio y calle Numancia",
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Se pide a la CARM 162.166,51 € para reurbanizar la calle Rambla",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan de Obras y Servicios 2020-2021 la reurbanización de la calle Rambla entre la avenida Literato Azorín y la avenida de la Feria: 170.701,61 euros, 162.166,51 de la CARM y 8.535,10 del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 170701.61,
+      "importes": [
+        {
+          "concepto": "Aportación CARM",
+          "eur": 162166.51,
+          "entidad": "Dirección General de Administración Local (CARM)"
+        },
+        {
+          "concepto": "Aportación municipal",
+          "eur": 8535.1,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471136F",
+      "lugar": "Calle Rambla, entre avenida Literato Azorín y avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Se pide a la CARM financiar rebajes de acera en Maestro Mora y Rambla (40.000 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan complementario de Obras y Servicios 2020-2021 la obra de accesibilidad con vados peatonales en las calles Maestro Mora y Rambla, de 40.000 euros; el Ayuntamiento pagará lo que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 40000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471221Z",
+      "lugar": "Calle Maestro Mora y calle Rambla",
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Se pide a la CARM financiar redes de agua en la calle San Antonio (42.600 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan complementario de Obras y Servicios 2020-2021 la renovación del saneamiento y agua potable de la calle San Antonio entre la UPY y la calle Iberia, de 42.600 euros; el Ayuntamiento pagará lo que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 42600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471221Z",
+      "lugar": "Calle San Antonio, entre la UPY y calle Iberia",
+      "interes": 2
+    },
+    {
+      "ref": "16",
+      "titulo": "Se pide a la CARM financiar redes de agua en la calle San Ramón, tramo Numancia-Iberia (96.800 €)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan complementario de Obras y Servicios 2020-2021 la renovación del saneamiento y agua potable de la calle San Ramón entre Numancia e Iberia, de 96.800 euros; el Ayuntamiento pagará lo que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 96800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471221Z",
+      "lugar": "Calle San Ramón, entre calle Numancia y calle Iberia",
+      "interes": 2
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Reabre el Servicio de Juventud y las salas de estudio del Edificio Bioclimático",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente. Vuelve la atención presencial del Servicio de Juventud con cita previa y al 50 % de aforo: 20 puestos de estudio y dos salas para ceder en la planta baja del Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471231N",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Reabren las Escuelas Infantiles Municipales el 11 de junio",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente. Se aprueba reabrir las Escuelas Infantiles Municipales el 11 de junio, con las condiciones sanitarias propuestas por el servicio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471259C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Reabren al público los servicios de la Casa de Cultura",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente. Se aprueba la reapertura escalonada de los servicios de la Casa Municipal de Cultura según su plan de desescalada COVID.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471311Z",
+      "lugar": "Casa Municipal de Cultura",
+      "interes": 1
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Contratado un forestal-capataz para el programa de mejora de espacios naturales",
+      "categoria": "personal",
+      "resumen": "Urgente. Se contrata desde el 15 de junio a un forestal-capataz para el programa de empleo 'Mejora de espacios públicos de interés ambiental', subvencionado por el SEF y el Ministerio de Trabajo, y se crea una bolsa con otros dos candidatos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratado"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "310026R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Contratado un oficial albañil para el mismo programa de empleo",
+      "categoria": "personal",
+      "resumen": "Urgente. Se contrata desde el 15 de junio a un oficial de 2ª albañil para el programa 'Mejora de espacios públicos de interés ambiental' (SEF), con bolsa de dos suplentes.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "310026R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Contratados cuatro peones para el mismo programa de empleo",
+      "categoria": "personal",
+      "resumen": "Urgente. Se contrata desde el 15 de junio a cuatro peones para el programa 'Mejora de espacios públicos de interés ambiental' (SEF), con bolsa de siete suplentes.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratado"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "310026R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Plus por trabajar en festivos a una auxiliar de ayuda a domicilio",
+      "categoria": "personal",
+      "resumen": "Urgente. Se reconoce a una auxiliar de hogar que trabaja fines de semana y festivos el plus de penosidad por festividad que le correspondía, con atrasos desde agosto de 2019.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "trabajadora municipal"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471263H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Permiso a un policía local para un curso sobre violencia de género",
+      "categoria": "personal",
+      "resumen": "Urgente. Se autoriza a un agente a asistir a un curso telemático de la Escuela de Formación de la Administración Regional, con las condiciones habituales (hasta 40 horas y 40 euros al año).",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471186A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Se licita el socorrismo de piscinas y las clases deportivas: 403.437,60 € al año",
+      "categoria": "contrato",
+      "resumen": "Urgente. Se aprueba sacar a concurso abierto (también en el Diario de la UE) por dos años la vigilancia y socorrismo de las piscinas municipales y las actividades deportivas dirigidas (lote 1, 372.205,08 euros al año) y las clases de tenis y deportes de raqueta (lote 2, 31.232,52 euros), IVA incluido. Queda pendiente de que se apruebe el presupuesto de 2020.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 403437.6,
+      "importes": [
+        {
+          "concepto": "Lote 1: vigilancia, salvamento y socorrismo en piscinas y actividades físico-deportivas (anual)",
+          "eur": 372205.08,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: clases de tenis y otros deportes de raqueta/pala",
+          "eur": 31232.52,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470771Z",
+      "lugar": "Piscinas municipales",
+      "interes": 3
+    },
+    {
+      "ref": "17.10",
+      "titulo": "Denegada zona de carga y descarga para una clínica veterinaria en Camino Real",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Una comunidad de bienes titular de un centro veterinario pide una zona de carga y descarga. Se deniega: ya hay dos reservas en ese tramo y una zona de carga general cerca; los clientes deben aparcar como el resto.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "439143X",
+      "lugar": "Calle Camino Real",
+      "interes": 1
+    },
+    {
+      "ref": "17.11",
+      "titulo": "Una academia de baile podrá usar gratis el anfiteatro de la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Por la COVID, y de forma excepcional (lo normal es ceder espacios solo a entidades sin ánimo de lucro), se deja usar sin tasa el anfiteatro de la Iglesia Vieja al Gimnasio Academia de Baile Lucasport, de lunes a viernes por la mañana y por la tarde, hasta que pueda volver a su local.",
+      "entidades": [
+        {
+          "nombre": "Gimnasio Academia de Baile Lucasport (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471301K",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 2
+    },
+    {
+      "ref": "17.12",
+      "titulo": "La academia de baile Paso a Paso usará las pistas junto al colegio La Pedrera",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Igual que la anterior: cesión gratuita y excepcional por la COVID de las pistas deportivas junto al colegio La Pedrera a la Academia de Baile 'Paso a paso', hasta que pueda usar su local.",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Paso a paso (particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471330A",
+      "lugar": "Pistas deportivas junto al Colegio La Pedrera",
+      "interes": 1
+    },
+    {
+      "ref": "17.13",
+      "titulo": "La academia de baile Crearte usará las pistas junto al colegio La Paz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente. Cesión gratuita y excepcional por la COVID de las pistas deportivas junto al colegio La Paz a la Academia de Baile Crearte, de martes a jueves por la tarde.",
+      "entidades": [
+        {
+          "nombre": "Crearte, C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "471320M",
+      "lugar": "Pistas deportivas junto al Colegio La Paz",
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "_nota": "Lo propio del municipio. Para usar el proyecto en otro, se cambia este fichero y el lector de la web de su ayuntamiento (src/actas/listing.py). Lo leen el código, la web y el vídeo.",
+  "municipio": "Yecla",
+  "web_ayuntamiento": "https://yecla.es/",
+  "actas_por_año": {
+    "_nota": "Páginas con las actas de cada año: {año} se cambia por el año. primer_año: el primero con actas en la web.",
+    "junta_de_gobierno": "https://yecla.es/{año}-actas-jgl/",
+    "pleno": "https://yecla.es/sesiones-pleno-del-ayuntamiento-{año}/",
+    "primer_año": 2017
+  },
+  "ejemplo_acta_no_publicada": "la del Pleno nº 1 de 2026",
+  "organismos_regionales": ["CARM", "Instituto Murciano", "Servicio Murciano", "IMAS", "SEF", "ITREM"],
+  "legislaturas": {
+    "_nota": "Grupos y concejales de cada legislatura, en el orden en que se muestran (de más a menos concejales). La actual es la última que ha empezado.",
+    "2019-2023": {"inicio": "2019-06-15", "grupos": {"PP": 12, "PSOE": 5, "Cs": 2, "IU-Verdes": 2}},
+    "2023-2027": {"inicio": "2023-06-17", "grupos": {"PP": 9, "PSOE": 7, "Vox": 3, "IU-Verdes": 2}}
+  },
+  "colores_grupos": {
+    "_nota": "Del logotipo de cada partido en su web o, si no se puede leer, de Wikipedia. IU-Verdes va más oscuro que el rojo de IU (#df0022), que se confundía con el del PSOE.",
+    "PP": "#21599e",
+    "PSOE": "#ff0000",
+    "Vox": "#63be21",
+    "IU-Verdes": "#9b1b30",
+    "Cs": "#ff5824"
+  },
+  "web": {
+    "nombre": "Qué decide el Ayuntamiento",
+    "correo": "quedecideyecla@gmail.com",
+    "responsable": "Diego Ibáñez Ortuño",
+    "direccion": "https://godiez.github.io/quedecideyecla/",
+    "codigo": "https://github.com/godiez/quedecideyecla"
+  }
+}

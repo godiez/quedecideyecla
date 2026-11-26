@@ -1,0 +1,1114 @@
+{
+  "doc": "2026-03-10_JGL_14",
+  "organo": "JGL",
+  "sesion": 14,
+  "fecha": "2026-03-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta reconoció a Actúa una indemnización de 110.139 € por la basura y limpieza de mayo de 2024 (servicio que sigue sin contrato nuevo) y pagó otros 108.603 € de la obra de la antigua estación de tren. Compró un coche eléctrico (39.930 €) y encargó la digitalización 3D del castillo para el proyecto Renacer de Yakka. Aprobó escuelas de vacaciones financiadas por el Plan Corresponsables, el convenio de incendios forestales con la CARM y numerosos permisos para eventos y uso de edificios municipales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones anteriores",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las sesiones del 3 y 6 de marzo de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: coordinación de Servicios Sociales y calidad del agua residual de las depuradoras",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de una resolución regional sobre el grupo de coordinación de Servicios Sociales de Atención Primaria y de un informe técnico municipal sobre el agua residual que llega a las depuradoras (EDAR) de Yecla y Raspay en 2025.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales, Tercer Sector y Gestión de la Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1242238F",
+      "lugar": "EDAR de Yecla y Raspay",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Universidad Popular, autobús urbano y comedor de escuela infantil",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban los pagos mensuales de febrero/enero de 2026 a las empresas de la Universidad Popular, del autobús urbano y del comedor de la Escuela Infantil El Parque.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Zero Suite, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 42726.77,
+      "importes": [
+        {
+          "concepto": "Actividad docente Universidad Popular, febrero 2026",
+          "eur": 6144.28,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Concesión transporte urbano en autobús, febrero 2026",
+          "eur": 29554.7,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Comedor E.I. El Parque, enero 2026",
+          "eur": 7027.79,
+          "entidad": "Zero Suite, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M, 1174853Q, 1178792M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 4 de las obras del entorno de la antigua estación de tren",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la cuarta certificación de la obra de mejora del entorno urbano de la antigua estación de tren (Plan de Obras y Servicios 2024/25), a favor de la constructora.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 108603.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación de Tren",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Liquidación de taquilla del musical sobre ABBA en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (3.832 €) y la baja de entradas no vendidas (824 €) del musical del 28 de febrero de 2026.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3832.0,
+      "importes": [
+        {
+          "concepto": "Recaudación taquilla",
+          "eur": 3832.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja entradas no vendidas",
+          "eur": 824.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Liquidación de taquilla del concierto 'Cine y Música' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (2.874 €) y la baja de entradas no vendidas (618 €) del concierto del 1 de marzo de 2026 organizado con la AAMY y el Cine Club Odeón.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música de Yecla (AAMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Cine Club Odeón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2874.0,
+      "importes": [
+        {
+          "concepto": "Recaudación taquilla",
+          "eur": 2874.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja entradas no vendidas",
+          "eur": 618.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Indemnización de 110.139 € a Actúa por la basura y limpieza de mayo de 2024",
+      "categoria": "pago_factura",
+      "resumen": "Se reconoce a la empresa de recogida de basura y limpieza viaria una indemnización por los mayores costes del servicio en mayo de 2024, que sigue prestando sin contrato en vigor a la espera de una nueva licitación (para evitar el 'enriquecimiento injusto' del Ayuntamiento).",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 110139.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Precio de las visitas al Teatro Concha Segura 2026",
+      "categoria": "fiscal",
+      "resumen": "Se deja sobre la mesa, para más estudio, la aprobación del precio de la entrada para visitar el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "1244352R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de una vivienda unifamiliar aislada en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar las obras de una vivienda aislada ya con licencia y se corrige el plazo de ejecución a 24 meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078666Y",
+      "lugar": "Polígono 113",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para construir un almacén en el paraje Gamellejas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir un almacén, con condiciones de protección contra incendios por uso con coche eléctrico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1094705Z",
+      "lugar": "Paraje Gamellejas, polígono 78",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para reformar y ampliar una vivienda aislada con almacén y barbacoa",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para reformar y ampliar una vivienda aislada, con condiciones sobre fosa séptica, aljibes y agua de la piscina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116139T",
+      "lugar": "Polígono 114",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Euroalba Descanso puede empezar a construir su nave en Urbayecla II",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a la empresa a iniciar la construcción de una nave sin actividad específica, previo pago de una fianza de 5.895,93 € para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Euroalba Descanso, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5895.93,
+      "importes": [
+        {
+          "concepto": "Fianza reposición de urbanización",
+          "eur": 5895.93,
+          "entidad": "Euroalba Descanso, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1120903K",
+      "lugar": "Calle Músico Azorín Torregrosa, P.I. Urbayecla II",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Inicio de obras de rehabilitación de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a un particular a empezar la rehabilitación de su vivienda, ya con licencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167775K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Inurban segrega y cede gratis al Ayuntamiento 87,91 m² para calle",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se concede a Inurban licencia para segregar una franja de 87,91 m² de su solar en calle Escuelas Pías (donde construye 9 apartamentos turísticos y locales) y el Ayuntamiento acepta su cesión gratuita como vial público.",
+      "entidades": [
+        {
+          "nombre": "Inurban, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1184502R",
+      "lugar": "Calle Escuelas Pías, 16",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación temporal de un oficial de albañilería para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un oficial 1ª de albañilería durante un máximo de seis meses por falta de personal en la Brigada de Obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1242639N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Jubilación de una auxiliar de hogar municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de una empleada municipal el 3 de junio de 2026 y se le agradecen sus servicios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241760R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "El director de Deportes asiste a un foro de gestores deportivos en Molina de Segura",
+      "categoria": "personal",
+      "resumen": "Se ordena la asistencia del director del Servicio Municipal de Deportes al foro AGESDE del 11 de marzo, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244512P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Una agente de turismo asiste a un curso de calidad turística en Murcia",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de una agente de Desarrollo Local-Turismo a un curso de normas de calidad y sostenibilidad, con gastos a cargo del Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1242133K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Compra de un vehículo eléctrico a Stellantis para el proyecto del castillo (Hisn Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Stellantis & You España el suministro de un vehículo eléctrico para el proyecto 'El Renacer de Yakka' de restauración del castillo, financiado con fondos europeos Next Generation.",
+      "entidades": [
+        {
+          "nombre": "Stellantis & You España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39930.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1205241X",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Prórroga del seguro de daños de los edificios municipales con Occident",
+      "categoria": "contrato",
+      "resumen": "Se prorroga un año, hasta el 1 de abril de 2027 (última prórroga), el seguro de daños materiales de edificios municipales contratado a través de la FEMP.",
+      "entidades": [
+        {
+          "nombre": "Occident GCO, S.A. Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "central de contratación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036896J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Prórroga del seguro de la flota de vehículos municipales",
+      "categoria": "contrato",
+      "resumen": "Se deja sobre la mesa, para más estudio, la cuarta y última prórroga del seguro de los vehículos municipales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "498615X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Se autoriza modificar el proyecto de la obra de la antigua estación de tren",
+      "categoria": "contrato",
+      "resumen": "Se permite a la dirección facultativa modificar el proyecto técnico de la obra de mejora del entorno de la antigua estación de tren.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación de Tren",
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Contrato menor de digitalización 3D del castillo (Hisn Yakka)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 16.456 € (IVA incluido) la digitalización tridimensional del castillo para el proyecto 'Renacer de Yakka'. El adjudicatario aparece anonimizado (posible persona física).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 16456.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1231370M",
+      "lugar": "Castillo (Hisn Yakka)",
+      "interes": 2
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Bases para adjudicar el bar de las Fiestas de San Isidro 2026",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar mediante contrato menor el servicio de bar en las Fiestas de San Isidro 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243284J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Procesión y tamborada del Colegio La Inmaculada en Semana Santa",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al colegio a celebrar una procesión y una tamborada el 27 de marzo y el 9 de abril de 2026, con las indicaciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181851K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en c/ Juan Ramón Jiménez",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de ADFY se habilita una plaza reservada para personas con discapacidad en calle Juan Ramón Jiménez.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241482F",
+      "lugar": "Calle Juan Ramón Jiménez",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Traslado temporal de contenedores por una obra en c/ Médico Miguel Rodríguez",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición del promotor de una obra (particular) se trasladan provisionalmente los contenedores junto al Jardín Ladislao Jareño.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1242280P",
+      "lugar": "Calle Médico Miguel Rodríguez",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Sesiones de taichi para mayores en el Jardín de la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban sesiones de taichi para mayores de Servicios Sociales, cuatro días a la semana en mayo, junio y octubre de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238886A",
+      "lugar": "Jardín de la Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Concentración motera de 'Los Extranjeros' en el polígono Urbayecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la reunión motera con expositores y recorrido urbano el 26 de abril, el corte de calle Castillarejos (tasa de 102,80 €) y el préstamo de vallas, escenario, megafonía y sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación Grupo Motero 'Los Extranjeros'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 102.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238339Q",
+      "lugar": "Calle Castillarejos, P.I. Urbayecla",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Clausura de la 13ª Ruta del Vino y la Tapa en la Plaza del Industrial del Mueble",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el evento del 15 de marzo con venta de alcohol y ruido por encima del límite, préstamo de carpas y material, y fianza de limpieza de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241364R",
+      "lugar": "Plaza del Industrial del Mueble",
+      "interes": 2
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Bases para seleccionar atracciones y casetas de las Fiestas de San Isidro 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y bases para elegir las atracciones, puestos y casetas de las Fiestas de San Isidro 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240357T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Denegada la iluminación lila de edificios por el síndrome CHAMP1",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a un particular iluminar edificios de lila el 20 de marzo porque el Ayuntamiento no tiene medios propios y el coste es elevado (además el solicitante no está inscrito en el registro de entidades ni empadronado).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1242865C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Iluminación azul de la Iglesia de San Francisco por el Día de la Fibromialgia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se acuerda iluminar de azul la fachada de la Iglesia de San Francisco el 12 de mayo, a petición de la asociación local.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243698J",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Denegada la iluminación naranja por la distrofia muscular FSHD",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a FSHD-Spain iluminar edificios de naranja el 20 de junio por falta de medios propios y no estar inscritos en el registro ni empadronados.",
+      "entidades": [
+        {
+          "nombre": "FSHD-Spain",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1244092F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.11",
+      "titulo": "Exhibición de talleres de ejercicio del Centro de Mayores del IMAS en el Jardín de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Social de Personas Mayores del IMAS a usar el Jardín de la Avda. de la Feria el 28 de mayo y se le prestan una carpa, una mesa y 50 sillas.",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1217820R",
+      "lugar": "Jardín de la Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Peña La Alborga usa el salón de actos del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una conferencia sobre matemáticas y estadística el 15 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Peña sociocultural 'La Alborga'",
+          "cif": null,
+          "tipo": "peña",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243800A",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Cruz Roja usa el salón de actos del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Yecla una jornada sobre el papel de las mujeres el 17 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1242255E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Federación de Peñas de San Isidro usa salas del Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza su Semana Cultural del 13 al 17 de abril.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1239919K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "ADFY usa gratis el Auditorio para la Campaña de Mentalización Escolar",
+      "categoria": "fiscal",
+      "resumen": "Se autoriza a ADFY el uso del Auditorio Juan Miguel Benedito el 26 de marzo con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238685X",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Federación de Peñas usa gratis el Auditorio para el cartel y la revista de San Isidro",
+      "categoria": "fiscal",
+      "resumen": "Se autoriza el uso del Auditorio el 9 y el 24 de abril con reducción del 100% del precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de las Fiestas de San Isidro Labrador de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240220D",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.6-8.8",
+      "titulo": "Uso de salones de la Casa Consistorial para tres bodas civiles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a tres parejas de particulares el uso del Salón de Plenos o del Salón de Sesiones para su matrimonio civil (11 de abril, 5 de mayo y 27 de junio).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238282M, 1235802R, 1238916R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.9",
+      "titulo": "Denegadas visitas guiadas al Teatro y a la Capilla de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniegan a una guía turística (particular) las visitas del 15 de marzo: el teatro está ocupado por una gala benéfica de Manos Unidas y la capilla acoge la misa por el desprendimiento de azulejos de la cúpula de la Basílica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1244164F",
+      "lugar": "Teatro Concha Segura; Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.10",
+      "titulo": "Uso del CEIP La Pedrera para entrenamientos de la Liga Escolar Albatros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular el uso de las instalaciones del colegio los viernes de marzo a junio, asumiendo la limpieza y posibles daños.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240545E",
+      "lugar": "CEIP La Pedrera",
+      "interes": 1
+    },
+    {
+      "ref": "8.11",
+      "titulo": "Inserta Empleo (Fundación ONCE) usa despachos del Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el uso de dos despachos hasta el 30 de mayo para entrevistas de inserción laboral de personas con discapacidad.",
+      "entidades": [
+        {
+          "nombre": "Asociación Inserta Empleo (Fundación ONCE)",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245082F",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "8.12",
+      "titulo": "Denegada visita guiada a la Capilla de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una guía turística (particular) la visita del 14 de marzo porque la capilla acoge la misa por los daños en la cúpula de la Basílica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1245148Y",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "8.13",
+      "titulo": "Autorizada visita guiada al Teatro Concha Segura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una guía turística (particular) la visita al teatro el 14 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245182W",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Servicio de conciliación para bebés (0-3 años) en vacaciones en las escuelas infantiles",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba el servicio en Semana Santa, julio y Navidad de 2026, con presupuesto de 16.070,89 € financiado con el Plan Corresponsables de la CARM y precio de 5 € por niño y día.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Plan Corresponsables)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16070.89,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240749N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Escuela Municipal de Semana Santa 2026",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la escuela de Semana Santa (30 marzo–7 abril), con presupuesto de 4.193,29 € del Plan Corresponsables y precio de 3 € por niño y día.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Plan Corresponsables)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4193.29,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1239383Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Escuela deportiva de Semana Santa 'Actívate' para menores de 3 a 16 años",
+      "categoria": "otros",
+      "resumen": "Se aprueba la actividad deportiva de conciliación en Semana Santa del Servicio Municipal de Deportes, acogida al Plan Corresponsables.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Plan Corresponsables)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244510M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Programa 'Natación a la Escuela' con el Colegio San José de Calasanz",
+      "categoria": "otros",
+      "resumen": "Se aprueba la actividad de natación escolar de la temporada 2025/26 con participación del Colegio San José de Calasanz; el gasto municipal asciende a 522,50 €.",
+      "entidades": [
+        {
+          "nombre": "Colegio San José de Calasanz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 522.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244521C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Convenio de prácticas con el CIPFP Valle de Elda",
+      "categoria": "convenio",
+      "resumen": "Se aprueba un convenio para que alumnos de FP del centro de Elda hagan prácticas no remuneradas en el Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "CIPFP Valle de Elda",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "firma"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244249Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Convenio con la CARM para prevenir y apagar incendios forestales (Plan INFOMUR)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con la Consejería de Emergencias para el servicio de prevención y extinción de incendios forestales del 1 de junio al 30 de septiembre de 2026.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Presidencia, Portavocía, Acción Exterior y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238984M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15",
+      "titulo": "Agua potable para dos viviendas en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza el suministro de agua potable a dos viviendas unifamiliares de particulares en suelo no urbanizable, con las condiciones del informe técnico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243360P, 1243370D",
+      "lugar": "Paraje Los Baños (pol. 45); Paraje del Lentiscar (pol. 113)",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Tarjeta de residente en zona azul",
+      "categoria": "otros",
+      "resumen": "Se reconoce a una particular la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1229379X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Concierto de Jóvenes Talentos 2026 junto a la Feria del Mueble",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Por urgencia se aprueba el concierto del 15 de marzo con un presupuesto de 1.789 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1789.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245280F",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

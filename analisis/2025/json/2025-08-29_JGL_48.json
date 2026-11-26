@@ -1,0 +1,53 @@
+{
+  "doc": "2025-08-29_JGL_48",
+  "organo": "JGL",
+  "sesion": 48,
+  "fecha": "2025-08-29",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 1,
+  "resumen": "Sesión urgente de dos minutos para un único pago: la Junta de Gobierno aprueba pagar 12.441,89 euros a Mecanoacid, S.L. por los elementos metálicos de los hitos identificativos de Yecla.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se confirma la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica por unanimidad la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Pago a Mecanoacid por los elementos metálicos de los hitos de Yecla",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar a Mecanoacid, S.L. el contrato menor de suministro del conjunto de elementos metálicos para los hitos identificativos de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Mecanoacid, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12441.89,
+      "importes": [
+        {
+          "concepto": "Contrato menor de suministro de elementos metálicos para hitos identificativos de Yecla",
+          "eur": 12441.89,
+          "entidad": "Mecanoacid, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1123398A",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

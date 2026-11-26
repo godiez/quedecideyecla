@@ -1,0 +1,43 @@
+{
+  "doc": "2025-01-21_PLENO_02",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 7,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Las enmiendas de PSOE e IU-Verdes al presupuesto se debaten pero el acta no recoge votación separada de ellas.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 7,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Ayuntamiento Pleno, por 12 votos a favor (Grupo M. Popular y Grupo M. Vox), y 9 votos en contra (Grupo M. Socialista y Grupo M. Izquierda Unida-Verdes), adopta los siguientes acuerdos: 1º.- Aprobar inicialmente el Presupuesto Municipal para 2025"
+    }
+  ]
+}

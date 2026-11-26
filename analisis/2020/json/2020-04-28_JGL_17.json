@@ -1,0 +1,545 @@
+{
+  "doc": "2020-04-28_JGL_17",
+  "organo": "JGL",
+  "sesion": 17,
+  "fecha": "2020-04-28",
+  "tipo_sesion": "ordinaria",
+  "paginas": 26,
+  "resumen": "Junta celebrada por videoconferencia en pleno estado de alarma. Se declara la suspensión por el COVID de cinco contratos de servicios (socorrismo y actividades deportivas, Espacio Joven, centro de mayores Las Herratillas y Universidad Popular), con efecto desde el 1 de abril y pidiendo a las empresas que justifiquen sus gastos. Se pagan 77.940 euros en obras (red de agua de la calle Hospital, vados peatonales y parques infantiles), se aprueba el convenio de incendios forestales INFOMUR 2020-2021 y se conceden dos becas de cultura de 3.600 euros. Se informa de que la CARM autorizó a empresas del mueble de Yecla a fabricar y donar material sanitario.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 21 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: normas del estado de alarma y material sanitario del sector del mueble",
+      "categoria": "informacion",
+      "resumen": "Se informa de normas estatales y regionales por el COVID-19 (prórroga del estado de alarma, salidas de niños, medidas económicas y de vivienda, prórroga de tarjetas de discapacidad y títulos de familia numerosa), de la ampliación del plazo de una subvención regional para planes municipales de igualdad y de que la Consejería de Salud autorizó a empresas del mueble de Yecla a fabricar y donar material de protección para hospitales y residencias.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Consejería de Mujer, Igualdad, LGTBI, Familias y Política Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "amplía plazo de subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "447319C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de obras: red de agua en calle Hospital, vados peatonales y parque infantil",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres pagos por 77.940,72 euros: renovación de la red de agua potable de la calle Hospital, vados peatonales accesibles en las calles Francisco Castaño e Infanta María Teresa y renovación del área infantil de la calle Infante Don Juan Manuel esquina calle Molino.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Francisco Puche El Jardinero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ludomáquina, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 77940.72,
+      "importes": [
+        {
+          "concepto": "Renovación de red de agua potable en calle Hospital",
+          "eur": 24882.22,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Vados peatonales accesibles en calles Francisco Castaño e Infanta María Teresa",
+          "eur": 38223.9,
+          "entidad": "Francisco Puche El Jardinero, S.L."
+        },
+        {
+          "concepto": "Renovación de áreas infantiles, lote 4: calle Infante Don Juan Manuel esquina calle Molino",
+          "eur": 14834.6,
+          "entidad": "Ludomáquina, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "408367C, 322578A, 291915N",
+      "lugar": "Calle Hospital; calles Francisco Castaño e Infanta María Teresa; calle Infante Don Juan Manuel",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Pago a la Diputación de Albacete por la sede electrónica 'Sedipualba' de 2020",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar 14.677,14 euros a la Diputación de Albacete por el uso en 2020 de su plataforma de administración electrónica Sedipualba, según el convenio firmado.",
+      "entidades": [
+        {
+          "nombre": "Diputación Provincial de Albacete",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14677.14,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "438225X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Pago de la subvención de 2019 a la Asociación de Comerciantes (ASOCOMY)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga la subvención de 5.000 euros concedida en diciembre de 2019 a la Asociación de Comerciantes de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "201106P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Reclamación de 193 € a un conductor y su aseguradora por romper un bolardo",
+      "categoria": "reclamaciones",
+      "resumen": "Se exige a un conductor particular y a su aseguradora (Allianz) que paguen 193,48 euros por reparar el asfalto y reponer un bolardo de la calle Quevedo dañado en un choque el 16 de abril.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "debe pagar"
+        },
+        {
+          "nombre": "Allianz",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aseguradora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 193.48,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "443679X",
+      "lugar": "Calle Quevedo",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia para demoler un inmueble en la Avenida Pablo Picasso",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para demoler un inmueble en la Avenida Pablo Picasso, con fianzas de 1.041,70 euros (urbanización) y 800,17 euros (alumbrado y mobiliario), desratización previa y vallado del solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "403625Q (75/2020)",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se saca de la Oferta de Empleo 2019 la plaza de programador de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se excluye de la Oferta de Empleo Público de 2019 el puesto laboral de Programador de Cultura y Festejos, porque se estudia subirlo de categoría (de C2 a C1) tras negociarlo con los sindicatos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "315591X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Permiso sin sueldo de una semana a una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de las Escuelas Infantiles un permiso por asuntos propios sin sueldo del 23 al 30 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "447041Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Reducción de jornada a un conserje municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza la vuelta al trabajo de un conserje municipal con una reducción de jornada de 4,5 horas semanales por cuidado de hijo, ampliable si se prorroga el estado de alarma.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "447930A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegada a un policía local la comisión de servicios en otro ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se deniega a un agente de la Policía Local trabajar en otro ayuntamiento en comisión de servicios, porque la plantilla sigue bajando (unos 11 agentes se han ido en los últimos meses). Como solución transitoria se le ofrece pasar a jornada fija de mañana en la Casa Consistorial, y se le recuerda que puede pedir una permuta o la movilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "366739K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Suspensión por el COVID del contrato de socorrismo y actividades deportivas (Podium)",
+      "categoria": "contrato",
+      "resumen": "Se reconoce que el contrato de socorrismo en piscinas y actividades deportivas dirigidas y de tenis, adjudicado a Podium Gestión Integral (96.609,43 y 9.040,52 euros), no puede prestarse desde el 1 de abril por el estado de alarma. La empresa deberá justificar cada mes los gastos que le cause para poder ser indemnizada.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "342261N (C.SE. 10/19)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Suspensión por el COVID de los talleres del Espacio Joven (Podium)",
+      "categoria": "contrato",
+      "resumen": "Se declara imposible desde el 1 de abril el contrato de la oferta formativa del Espacio Joven 2019/2020, adjudicado a Podium Gestión Integral (tres lotes de 16.878,29, 21.086,67 y 17.012,60 euros). La empresa deberá justificar mensualmente sus gastos indemnizables.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "229596J (C.SE. 6/19)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Suspensión por el COVID de la dinamización del centro de mayores Las Herratillas",
+      "categoria": "contrato",
+      "resumen": "Se declara imposible desde el 1 de abril el contrato de dinamización del Centro Municipal de Personas Mayores Las Herratillas (hasta 39.566,13 euros al año), de Podium Gestión Integral, que deberá justificar sus gastos para ser indemnizada.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436944R (C.SE. 5/16)",
+      "lugar": "Centro de Personas Mayores Las Herratillas",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Suspensión por el COVID de los cursos de la Universidad Popular (Epsilon)",
+      "categoria": "contrato",
+      "resumen": "Se declara imposible desde el 1 de abril el contrato de los cursos de la Universidad Popular 2019/2020 (lotes 1, 2, 3, 4 y 6, unos 98.000 euros en total) adjudicado a Epsilon Servicios Educativos, que deberá justificar sus gastos mensualmente.",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "234543E (C.SE. 7/19)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Suspensión por el COVID del curso de restauración de muebles de la Universidad Popular",
+      "categoria": "contrato",
+      "resumen": "Se declara imposible desde el 1 de abril el lote 5 (restauración de muebles y artes decorativas, 11.522,83 euros) de la Universidad Popular, adjudicado a un profesional autónomo, que deberá justificar sus gastos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "234543E (C.SE. 7/19)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Contrato menor del mantenimiento de Oracle 2020",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Oracle Ibérica el soporte y mantenimiento de su software para 2020 por 7.364,96 euros IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Oracle Ibérica, S.R.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7364.96,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "385331H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Contrato menor del mantenimiento de las instalaciones contra incendios",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Bifan Ibérica de Seguridad el mantenimiento anual reglamentario de las instalaciones contra incendios municipales por 6.807,10 euros IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Bifan Ibérica de Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6807.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "445421Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Convenio con la CARM para prevenir y apagar incendios forestales (INFOMUR 2020-2021)",
+      "categoria": "convenio",
+      "resumen": "Se aprueba el convenio con la Comunidad Autónoma para prestar el servicio de prevención y extinción de incendios forestales del plan INFOMUR en 2020-2021, y se autoriza al alcalde a firmarlo. No se indica importe.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Transparencia, Participación y Administración Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "firma convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "429045X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Plan de seguridad de la obra de velas de sombra en el Jardín Ladislao Jareño",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de instalación de velas de protección solar en el parque Jardín Ladislao Jareño, elaborado por la adjudicataria Toldos Yecla Sol.",
+      "entidades": [
+        {
+          "nombre": "Toldos Yecla Sol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "326149K",
+      "lugar": "Jardín Ladislao Jareño",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Adaptación de jornada por el COVID a una funcionaria municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una funcionaria municipal a dejar la jornada reducida y a adaptar su horario para cuidar de su hija por el cierre de las escuelas infantiles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "448908J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Vuelta al trabajo en teletrabajo de un técnico municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un técnico municipal a reincorporarse tras su baja en teletrabajo y con horario adaptado por conciliación familiar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "448693K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Teletrabajo por las tardes para una auxiliar de biblioteca",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una auxiliar de biblioteca a adaptar su horario por conciliación y a teletrabajar por las tardes mientras dure la vigencia del Real Decreto-ley 8/2020.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "449494Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Dos becas de 3.600 € en la Casa de Cultura y el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden dos becas de formación de 3.600 euros cada una (seis meses, 660 horas) a las personas con más puntuación: una en la Casa Municipal de Cultura y otra en el Museo Arqueológico Municipal 'Cayetano de Mergelina'. El resto forma una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "becario"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "becario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7200.0,
+      "importes": [
+        {
+          "concepto": "Beca de formación en la Casa Municipal de Cultura",
+          "eur": 3600.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Beca de formación en el Museo Arqueológico Municipal (MAYE)",
+          "eur": 3600.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "375339E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Agua de obra para una nave industrial en el camino del Aljibe",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza en precario y por tres meses a Suministros Industriales Martínez Azorín el suministro de agua potable para las obras de una nave industrial en el camino del Aljibe (declaración responsable 8/2020); el Ayuntamiento podrá cortarlo si falta agua para el casco urbano.",
+      "entidades": [
+        {
+          "nombre": "Suministros Industriales Martínez Azorín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "448405K",
+      "lugar": "Camino del Aljibe",
+      "interes": 1
+    }
+  ]
+}

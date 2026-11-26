@@ -1,0 +1,823 @@
+{
+  "doc": "2025-04-29_JGL_24",
+  "organo": "JGL",
+  "sesion": 24,
+  "fecha": "2025-04-29",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 35,
+  "resumen": "La Junta de Gobierno saca a licitación la rehabilitación del edificio de Cazadores (3,24 millones, fondos europeos), la mejora del entorno de la Antigua Estación (563.000 euros) y mejoras peatonales, y adjudica los Baños Árabes de Los Torrejones (250.000 euros) y la calle España (207.000 euros). Aprueba la Oferta de Empleo Público 2025 con 25 plazas, paga 358.597 euros en facturas y certificaciones de obra y aprueba el padrón de vados (466.594 euros). También contrata la corrida de toros de San Isidro y amplía un plazo de licitación por el apagón del 28 de abril.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Se confirma la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Aprobación del acta de la sesión del 22 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: tratamiento de basura, grúa, uniformes policiales, deportes y seguro",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar seis facturas: tratamiento de residuos de marzo al Consorcio regional, el servicio de grúa municipal, vestuario de la Policía Local, actividades deportivas, socorrismo y conciliación de Podium, y el seguro de daños materiales del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Satara Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Occident GCO, S.A.U. de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 164747.46,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, marzo 2025",
+          "eur": 74067.77,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos (grúa), marzo 2025",
+          "eur": 8675.7,
+          "entidad": "Grúas Los Raspas, S.L."
+        },
+        {
+          "concepto": "Suministro de vestuario para la Policía Local",
+          "eur": 10494.33,
+          "entidad": "Satara Seguridad, S.L."
+        },
+        {
+          "concepto": "Multideporte en jornadas de conciliación, marzo 2025 (Plan Corresponsables)",
+          "eur": 9327.89,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, marzo 2025",
+          "eur": 31524.43,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Seguro de daños materiales del Ayuntamiento (Lote 2, acuerdo marco FEMP)",
+          "eur": 30657.34,
+          "entidad": "Occident GCO, S.A.U. de Seguros y Reaseguros"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 697847H, 821207Q, 941685X, 1036896J",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central, Casa de los Arcos y placas solares del pozo La Fuente",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de obra: la nº 23 de la remodelación del Mercado Central, la nº 9 del Centro Enoturístico de la Casa de los Arcos (fondos europeos) y la única y final de la instalación fotovoltaica de autoconsumo del bombeo del pozo 'La Fuente'.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Redeles Eléctrica de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 193850.06,
+      "importes": [
+        {
+          "concepto": "Certificación nº 23, remodelación del Mercado Central",
+          "eur": 86068.0,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 9, Centro Enoturístico y eficiencia energética en la Casa de los Arcos (PST 'Yecla ES +', Next Generation EU)",
+          "eur": 8562.06,
+          "entidad": "Urgacen Viena 25, S.L."
+        },
+        {
+          "concepto": "Certificación única y final, instalación fotovoltaica de autoconsumo en la estación de bombeo del pozo 'La Fuente'",
+          "eur": 99220.0,
+          "entidad": "Redeles Eléctrica de Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 900819N, 927729N",
+      "lugar": "Mercado Central; Casa de los Arcos; pozo La Fuente",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Tarifa reducida de agua para nuevas familias numerosas o monoparentales",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba aplicar la tarifa especial reducida del agua potable de 2025 a una nueva lista de familias numerosas o monoparentales, mientras tengan vigente el título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "902077K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Se anula la rebaja del agua concedida por error a familias con el título caducado",
+      "categoria": "fiscal",
+      "resumen": "Se quita, con efectos de 1 de enero de 2025, la tarifa reducida de agua a varias familias que se incluyeron por error en la lista del 1 de abril porque su título de familia numerosa estaba caducado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "902077K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 50% de la tasa de vado: una concedida y una denegada",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un pensionista la bonificación del 50% en la tasa de vado y se deniega a otro por tener ingresos superiores al IPREM.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "1037539C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Padrón de la tasa de vados y reservas de vía pública 2025: 466.594 € al cobro",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las bajas pedidas por los titulares y el padrón 2025 de la tasa por entrada de vehículos y reservas de vía pública: 475.878,76 € en total, 9.284,32 € de descuento por domiciliación y 466.594,44 € a cobrar. Pago voluntario del 13 de mayo al 14 de julio; cargo de domiciliados el 29 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 466594.44,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "945356W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oferta de Empleo Público 2025: 25 plazas",
+      "categoria": "personal",
+      "resumen": "Se aprueba la oferta de empleo de 2025: 15 plazas de funcionario (TAG, arquitecto técnico, ingeniero técnico industrial, 2 administrativos, 4 agentes de Policía Local, administrativo delineante, 3 auxiliares administrativos, inspector de rentas e inspector de servicios técnicos) y 10 de personal laboral (profesor de Bellas Artes, pintor, fontanero, mantenedor, ordenanza-telefonista reservada a discapacidad, peón y 4 conserjes, uno reservado a discapacidad).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037349N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Convocatoria de dos plazas fijas de auxiliar de hogar",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de dos plazas laborales fijas de auxiliar de hogar (ofertas 2022 y 2024).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077168R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Convocatoria de la plaza de director de la Escuela Municipal de Bellas Artes",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de una plaza de funcionario de director de la Escuela de Bellas Artes (grupo A2, oferta 2021).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077061T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Convocatoria de dos plazas fijas de tractorista para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria por concurso-oposición de dos plazas laborales fijas de tractorista (grupo C2, oferta 2021).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077952F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Se extingue la bolsa antigua de educador social",
+      "categoria": "personal",
+      "resumen": "Se da por terminada la bolsa de empleo de educador social de 2021 para que entre en vigor la nueva, aprobada el 15 de abril de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "479455K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Contrato de un educador/a social para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un educador/a social para sustituir a una trabajadora de baja en Servicios Sociales, por la sobrecarga del servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900156R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Renuncia de un arquitecto técnico interino",
+      "categoria": "personal",
+      "resumen": "Se acepta el cese voluntario de un arquitecto técnico interino de los Servicios Técnicos desde el 22 de abril y se le excluye de la bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080527H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Renuncia de un auxiliar inspector de obras interino",
+      "categoria": "personal",
+      "resumen": "Se acepta el cese voluntario de un auxiliar inspector de obras interino desde el 23 de abril y se le excluye de la bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080524D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Permiso de lactancia y ayuda por natalidad a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se concede a una auxiliar del Registro el permiso de lactancia acumulado, un día de vacaciones y la ayuda por natalidad de 86,39 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 86.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078984P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Lactancia, vacaciones y excedencia por cuidado de familiar a una jardinera",
+      "categoria": "personal",
+      "resumen": "Se concede a una jardinera municipal el permiso de lactancia, vacaciones, excedencia por cuidado de familiar del 28 de junio al 30 de septiembre y la ayuda por natalidad de 86,39 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 86.39,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078987T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Permiso sin sueldo a la jefa de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se concede licencia por asuntos particulares sin retribución del 2 al 18 de mayo de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077775K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación de la rehabilitación del edificio de Cazadores: 3,24 millones",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y la licitación por procedimiento abierto simplificado de la rehabilitación del edificio de Cazadores como centro de ocio, cultura y promoción económica, con fondos europeos Next Generation (PIREP Local), por 3.237.688,10 € IVA incluido (2,41 millones en 2025 y 0,82 en 2026). La UTE redactora del proyecto llevará también la dirección de obra.",
+      "entidades": [
+        {
+          "nombre": "Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P., UTE",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "redacta el proyecto y dirige la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3237688.1,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio de Cazadores",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Licitación de la mejora del entorno de la Antigua Estación del tren: 563.000 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y la licitación por procedimiento abierto simplificado de la mejora urbana del entorno de la Antigua Estación (Plan de Obras y Servicios 2024/25), por 563.000,90 € IVA incluido. La adjudicación queda condicionada a que se firme el préstamo previsto en el presupuesto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 563000.9,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación del tren",
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Licitación de mejoras peatonales en calles Arco del Niño e Hijas de la Caridad",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y la licitación por procedimiento abierto simplificado de las mejoras de itinerarios peatonales en las calles Arco del Niño e Hijas de la Caridad (POS 2024/25), por 119.856,37 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 119856.37,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081368A",
+      "lugar": "Calle Arco del Niño; calle Hijas de la Caridad",
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Adjudicada la primera fase de los Baños Árabes de Los Torrejones",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Rehabilitaciones y Construcciones Galán e Hijos, S.L., por 249.962,08 € IVA incluido, la obra de la fase I del Plan Director del yacimiento de Los Torrejones (Baños Árabes). Fue la mejor en todos los criterios; se rechazó la oferta de Ingeniería Ortín, S.L. por incluir criterios automáticos en la memoria técnica.",
+      "entidades": [
+        {
+          "nombre": "Rehabilitaciones y Construcciones Galán e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ingeniería Ortín, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 249962.08,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 3
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Adjudicada la mejora peatonal de calle España (tramo D. Lucio–Placeta Ortega)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Ibérica de Infraestructuras y Servicios Ambientales, S.L., por 206.798,05 € IVA incluido, la mejora de itinerarios peatonales en calle España entre calle D. Lucio y Placeta Ortega (POS 2024/25).",
+      "entidades": [
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 206798.05,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045370D",
+      "lugar": "Calle España, tramo calle D. Lucio - Placeta Ortega",
+      "interes": 3
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Más plazo para licitar la infraestructura de San Isidro por el apagón",
+      "categoria": "contrato",
+      "resumen": "Por el apagón eléctrico nacional del 28 de abril, que impidió a varios licitadores presentar ofertas, se amplía hasta el 2 de mayo a las 13:00 el plazo del contrato de infraestructura de las Fiestas de San Isidro 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1071421K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Alquiler de casetas para el I Foro Juvenil 'Construye tu futuro'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Ingeniería y Acústica para el Espectáculo, S.L. el alquiler de casetas para el foro juvenil, por 6.352,50 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Ingeniería y Acústica para el Espectáculo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6352.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077680D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Vados peatonales accesibles en el cruce de San Cristóbal y Concepción",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria y se adjudica por contrato menor a Construcciones Navarro y Palao, S.L., por 14.036 € IVA incluido, la obra de vados peatonales accesibles en la intersección de las calles San Cristóbal y Concepción.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Navarro y Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14036.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1073367N",
+      "lugar": "Intersección calles San Cristóbal y Concepción",
+      "interes": 2
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Corrida de toros de San Isidro (25 de mayo) organizada por Infinitauro",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Infinitauro, S.L., por 14.959 € IVA incluido, la organización de una corrida de toros en la Plaza de Toros el 25 de mayo (ganadería Las Monjas), con entradas de 25 a 75 € y fianza de 1.000 €.",
+      "entidades": [
+        {
+          "nombre": "Infinitauro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14959.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1064958J",
+      "lugar": "Plaza de Toros de Yecla",
+      "interes": 3
+    },
+    {
+      "ref": "5.10",
+      "titulo": "Reparación de la línea eléctrica de baja tensión del Real de la Feria",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor a Invemat Levante, S.L., por 11.899,72 € IVA incluido, la reparación y reconstrucción de la línea eléctrica de baja tensión del Real de la Feria.",
+      "entidades": [
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11899.72,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1082989C",
+      "lugar": "Real de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Caseta en la Feria del Libro para un particular",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a participar en la Feria del Libro de la Plaza Mayor (29 de mayo a 16 de junio), pagando 63 € por el espacio.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 63.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080537X",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Permiso a un vecino para trasladar un árbol que tapa su entrada de vehículos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino, a su cargo, a quitar un árbol de la acera que coincide con su entrada de vehículos, rehacer el pavimento y plantar otro semejante donde indiquen Servicios Públicos, con fianza de 450 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 450.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057102Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "'Día Movimiento Vino D.O.' en la Plaza Mayor el 10 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Consejo Regulador de la D.O.P. Yecla a celebrar este evento de promoción del vino, con fianza de 300 € y límite de 85 dB; el Ayuntamiento cede carpas, papeleras, sonido, escenario y punto de luz.",
+      "entidades": [
+        {
+          "nombre": "Consejo Regulador de la Denominación de Origen Protegida Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1079772J",
+      "lugar": "Plaza Mayor",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Reserva de carga y descarga para el supermercado Dia en calle San Antonio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a Día Retail España, S.A. una reserva de 12 metros de carga y descarga en calle San Antonio de lunes a sábado (7-8 h y 17-19 h), con una tasa anual de 157 €.",
+      "entidades": [
+        {
+          "nombre": "Día Retail España, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 157.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1038370F",
+      "lugar": "Calle San Antonio, 17",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Aula de cocina para los talleres de AMPY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo C.P. San José de Calasanz seis días entre mayo y julio para talleres de cocina con usuarios de la asociación.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1074860M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón del Centro de Desarrollo Local para la asamblea de la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del salón de actos el 7 de mayo para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081073Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Boda civil en la Casa Consistorial (30 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Plenos para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080853K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "I Foro Juvenil 'Construye tu futuro' (8 y 9 de mayo): 9.390 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se organiza un foro de orientación académica y profesional para estudiantes de Secundaria, Bachillerato y FP, con feria de stands, conferencias y actividades, con un presupuesto de 9.389,63 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 9389.63,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1052871X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Plan de seguridad de la ampliación de la escuela infantil Campanilla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud presentado por la adjudicataria Maza Construcciones y Contratas, S.L. para la obra de accesibilidad y ampliación de la escuela infantil.",
+      "entidades": [
+        {
+          "nombre": "Maza Construcciones y Contratas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1019554Y",
+      "lugar": "Escuela Infantil Campanilla, Placeta Juan Ortuño, 20",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Protección Civil de Yecla ayudará en las fiestas de Caravaca de la Cruz",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil a colaborar en las Fiestas Patronales de Caravaca de la Cruz el 1 y 2 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Caravaca de la Cruz",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1071308D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Protección Civil de Yecla ayudará en los Moros y Cristianos de Biar",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil a colaborar en las fiestas de Moros y Cristianos de Biar el 10 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Biar",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1066660Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Prácticas de tres alumnos del Centro de Educación de Adultos en servicios municipales",
+      "categoria": "convenio",
+      "resumen": "Se autorizan prácticas no remuneradas de tres alumnos del ciclo de Informática y Comunicaciones del CEA de Yecla en la Casa de Cultura, Servicios Sociales y el Servicio de Información del Ayuntamiento (mayo-junio).",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos (CEA) de Yecla",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080933X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Prácticas de un alumno del IES Azorín en la Oficina de Turismo",
+      "categoria": "convenio",
+      "resumen": "Se autorizan 240 horas de prácticas de un alumno de FP Básica de Servicios Administrativos en la Oficina de Turismo, del 5 de mayo al 23 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081704R",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

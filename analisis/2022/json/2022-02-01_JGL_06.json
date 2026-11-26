@@ -1,0 +1,899 @@
+{
+  "doc": "2022-02-01_JGL_06",
+  "organo": "JGL",
+  "sesion": 6,
+  "fecha": "2022-02-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 49,
+  "resumen": "La Junta de Gobierno paga 325.000 euros en facturas de servicios (basura y limpieza viaria, limpieza de edificios, zonas verdes, autobús urbano) y multa con 3.042 euros a la constructora de la calle Numancia por acabar la obra con 30 días de retraso. Adjudica la renovación del saneamiento de la calle Santa Bárbara (32.307 euros), ordena a Aqualia renovar la red de agua de la calle Escultor J. Palao (15.208 euros) y aprueba la programación del Teatro Concha Segura de febrero a junio (89.914 euros). También convoca por concurso las plazas de secretario, interventor y tesorero, nombra siete policías locales de carrera y concede licencias de obra, entre ellas la demolición del edificio de la calle España 24 con condiciones para conservar su fachada del siglo XIX.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 25 y 28 de enero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: presupuestos regionales, escuelas infantiles, una sentencia y la planta de compost",
+      "categoria": "informacion",
+      "resumen": "Se informa de la Ley de Presupuestos de la Región de Murcia para 2022, de un escrito de la Consejería de Educación sobre el programa de impulso a la escolarización de 0 a 3 años, de una sentencia que da la razón al Ayuntamiento frente a un vecino que pedía anular multas de Seguridad Ciudadana, y de un informe técnico sobre terrenos municipales para instalar una planta de compostaje.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "aprueba presupuestos"
+        },
+        {
+          "nombre": "Consejería de Educación y Cultura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 3 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "580835Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, zonas verdes, Correos, autobús urbano y concierto",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar las facturas de diciembre de 2021 de la limpieza de edificios municipales, el mantenimiento de zonas verdes, Correos, la subvención al autobús urbano y el Concierto de Año Nuevo.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Sociedad Estatal de Correos y Telégrafos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Festival Internacional de Primavera Andrés Segovia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 144915.1,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, diciembre 2021",
+          "eur": 51358.87,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes de uso público",
+          "eur": 48626.09,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Facturación de Correos, diciembre 2021",
+          "eur": 6223.63,
+          "entidad": "Sociedad Estatal de Correos y Telégrafos, S.A."
+        },
+        {
+          "concepto": "Subvención al servicio de autobús urbano, diciembre 2021",
+          "eur": 25906.51,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Concierto de Año Nuevo, Satrus European Orchestra",
+          "eur": 12800.0,
+          "entidad": "Festival Internacional de Primavera Andrés Segovia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 538849C, 282726A, 551537Z, 572673E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del Concierto de Año Nuevo en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del Concierto de Año Nuevo: se recaudaron 451,20 euros y se dan de baja las entradas no vendidas (5.140,80 euros de 5.592 puestos a la venta).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 451.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "577984F",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla del Concierto de Navidad de la AAMY en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del Concierto de Navidad de la orquesta de guitarras y el coro de la AAMY: se recaudaron 912 euros y se dan de baja las entradas no vendidas (1.884 euros).",
+      "entidades": [
+        {
+          "nombre": "AAMY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "actúa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 912.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "569343E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para una vivienda unifamiliar en el paraje Los Baños",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para construir una vivienda unifamiliar aislada en suelo rústico del paraje Los Baños.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "510424Y",
+      "lugar": "Paraje Los Baños",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para demoler el edificio de la calle España 24, conservando su fachada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Aparcamientos La Fuensanta licencia para demoler parcialmente el edificio de la calle España 24. Por orden de Patrimonio Cultural de la CARM debe conservar la fachada, la rejería, la carpintería y la puerta, intentar rescatar las losas hidráulicas de los años 20 y estudiar los materiales del siglo XIX. Deposita fianzas de 2.876,24 euros.",
+      "entidades": [
+        {
+          "nombre": "Aparcamientos La Fuensanta, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "513463T",
+      "lugar": "Calle España, 24",
+      "interes": 3
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para vivienda, barbacoa y piscina en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia (con proyecto básico, sin poder empezar aún las obras) para una vivienda aislada con barbacoa y piscina en suelo rústico; deben inscribir antes la agrupación de parcelas de la explotación agrícola.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "521918M",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para vivienda y piscina en el paraje Los Pinillos",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia (con proyecto básico) para una vivienda aislada con piscina en suelo rústico, condicionada a inscribir la agrupación de parcelas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "532680J",
+      "lugar": "Paraje Los Pinillos",
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para vivienda y garaje en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para una vivienda unifamiliar aislada con garaje en suelo rústico.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "539792M",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para vivienda, barbacoa y piscina en el paraje Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia (con proyecto básico) para una vivienda aislada con barbacoa y piscina en suelo rústico, condicionada a inscribir la agrupación de parcelas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "545785K",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Denegada licencia de nave industrial en UrbaYecla por superar la altura máxima",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un particular la licencia para una nave industrial en el polígono UrbaYecla porque el proyecto supera la altura máxima del Plan General, defecto que no se puede subsanar. En el punto 4.11 se le concede una nueva licencia para la misma parcela.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "552940Y",
+      "lugar": "Polígono Industrial UrbaYecla",
+      "interes": 2
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Licencia para demoler un edificio en el casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a varios vecinos licencia para derribar una edificación, con fianzas de 1.457,15 euros y desratización previa. En el punto 12.5 se autoriza después una vivienda en ese solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "557017K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia para reformar y ampliar una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia (con proyecto básico) para reformar y ampliar su vivienda en el casco urbano, con fianza de 350 euros por urbanización pendiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "570499K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia para nave industrial y oficina en la avenida Juan Carlos I",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una comunidad de bienes licencia para construir una nave industrial con oficina, con fianza de 16.358,77 euros por posibles daños a la urbanización; necesitará además licencia de actividad antes de usarla.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574359X",
+      "lugar": "Avenida Juan Carlos I, 83",
+      "interes": 2
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Licencia para nave industrial en el polígono UrbaYecla",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para construir una nave industrial en el polígono UrbaYecla (la misma parcela cuya primera solicitud se deniega en 4.7), con fianza de 2.221,34 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "579703T",
+      "lugar": "Polígono Industrial UrbaYecla, calle Castillarejos",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Auxiliar administrativo interino para Servicios Públicos por una baja",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino de la bolsa de empleo, a media jornada (20 horas semanales) y hasta 9 meses, para cubrir la baja del inspector de Servicios Públicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580912Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Jubilación anticipada del comisario-segundo jefe de la Policía Local",
+      "categoria": "personal",
+      "resumen": "La Junta toma nota de que el comisario-segundo jefe de la Policía Local se acoge a la jubilación anticipada prevista para policías locales, lo que permite reponer la plaza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "581202A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de secretario municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso de méritos de 2022 para cubrir en propiedad la Secretaría del Ayuntamiento, vacante y reservada a funcionarios con habilitación nacional.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582203Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de interventor municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso de méritos de 2022 para cubrir en propiedad la Intervención del Ayuntamiento, también vacante.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582211C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Concurso para cubrir de forma definitiva la plaza de tesorero municipal",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y se convoca el concurso de méritos de 2022 para cubrir en propiedad la Tesorería del Ayuntamiento, vacante.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582215H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Se pagan 150 € a un policía por negarle un curso, como ordenó un juzgado",
+      "categoria": "reclamaciones",
+      "resumen": "En cumplimiento de una sentencia de 2019 que reconoció a un agente el derecho a ser compensado por no dejarle asistir a un curso de formación de 4 horas, se le abonan los 150 euros que el Ayuntamiento ofreció y él aceptó (pedía 300). Se rechaza actualizar la cantidad desde 2020.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 150.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "130447C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Corrección del nombre de la aseguradora del seguro de responsabilidad civil",
+      "categoria": "contrato",
+      "resumen": "Se corrige un error en el acuerdo de diciembre de 2021: la empresa elegida para el seguro de responsabilidad civil del Ayuntamiento (lote 1) es Mapfre España y no Mapfre Vida.",
+      "entidades": [
+        {
+          "nombre": "Mapfre España, Compañía de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria propuesta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "543965H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato de talleres de igualdad en colegios e institutos para 2022",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 8.739 euros un contrato menor de actividades de sensibilización y promoción de la igualdad con alumnado de primaria y secundaria, profesorado y grupos de riesgo. El adjudicatario aparece anonimizado.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 8739.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580868M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Cambio en la Mesa de Contratación por el cese de una funcionaria",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a una técnica de Intervención como vocal suplente de la Mesa de Contratación de la Junta de Gobierno y la Alcaldía, en sustitución de una funcionaria que ha cesado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "216606R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza anual de 24 m² para el Café-Bar Medieval",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Café-Bar Medieval en la calle Cruz de Piedra, 24 m² de noviembre de 2021 a octubre de 2022; pagará la tasa desde enero de 2022.",
+      "entidades": [
+        {
+          "nombre": "Café-Bar Medieval",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "552864R",
+      "lugar": "Calle Cruz de Piedra",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Se repinta la línea amarilla de la calle Cerro, pero no se ponen bolardos",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de una vecina se repinta la línea amarilla continua de la calle Cerro; se deniegan los bolardos contra el aparcamiento indebido porque incumplirían las normas de accesibilidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "579807N",
+      "lugar": "Calle Cerro",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Visitas guiadas por Yecla con el Instituto de Turismo regional (febrero-diciembre)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas por Yecla organizado con el Instituto de Turismo de la Región de Murcia y la red de oficinas de turismo, con un presupuesto de 6.954,50 euros.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6954.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580995N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Fiesta de Carnaval juvenil en el Edificio Bioclimático",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad de Carnaval 2022 del Servicio de Juventud en el salón de actos del Edificio Bioclimático el 25 de febrero, con medidas sanitarias.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581857K",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Aqualia renovará la red de agua de la calle Escultor J. Palao",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia, concesionaria del agua potable, y se le ordena renovar la red de la calle Escultor J. Palao por 15.208,78 euros.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta y cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15208.78,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581062F",
+      "lugar": "Calle Escultor J. Palao",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Zanja en caminos públicos para la red de riego de la C.R. Pozo de Santiago",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a la Comunidad de Regantes Pozo de Santiago a abrir una zanja en el camino público del paraje Casa del Llano y en la Traviesa del Campillo para una red de riego, reponiendo el firme con hormigón y con fianza de 300 euros.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Pozo de Santiago de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "576872M",
+      "lugar": "Paraje Casa del Llano y Traviesa del Campillo",
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de la recogida de basura y limpieza viaria de diciembre",
+      "categoria": "pago_factura",
+      "resumen": "Urgente: se aprueba pagar a Actúa la recogida de residuos urbanos y la limpieza viaria de diciembre de 2021.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 180264.34,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Certificación final de la calle Numancia: sale a devolver 5.465 €",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación final de la reurbanización de la calle Numancia (entre San José y Fábricas), que sale negativa: 5.465,34 euros a favor del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Fórum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": -5465.34,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": "Calle Numancia",
+      "interes": 2
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Permiso para empezar una vivienda con piscina en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Presentado el proyecto de ejecución, se autoriza a un vecino a iniciar las obras de la vivienda aislada con garaje, barbacoa y piscina con licencia de julio de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512039Q",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Licencia para vivienda, garaje y trastero entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia para construir una vivienda unifamiliar con garaje y trastero en el casco urbano, con fianza de 175 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "550699K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Licencia para vivienda entre medianeras en un solar recién demolido",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para construir una vivienda unifamiliar en el solar cuya demolición se autoriza en 4.8, con fianza de 175 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "563707C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Auxiliar administrativo interino para la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se nombra interino, de la bolsa de auxiliares administrativos, para la plaza vacante de la Agencia de Desarrollo Local, hasta que se cubra en propiedad (máximo tres años).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582388Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Siete nuevos agentes de Policía Local de carrera",
+      "categoria": "personal",
+      "resumen": "Tras superar el curso selectivo de la CARM, se nombra funcionarios de carrera a siete agentes de Policía Local de la oposición de 9 plazas de la oferta de empleo de 2018. Sus nombres no se recogen.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "imparte el curso selectivo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "154253Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Contrato del material y forfait del viaje juvenil a Sierra Nevada",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 6.600 euros el alquiler de material y forfaits para el viaje de Juventud a Sierra Nevada del 4 al 6 de marzo de 2022.",
+      "entidades": [
+        {
+          "nombre": "Snow Ink Sierra Nevada, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581919X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Contrato de limpieza del sótano del edificio Cazadores (enero-abril)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 7.567,54 euros la limpieza del sótano del edificio Cazadores (centro de ocio juvenil) de enero a abril de 2022.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7567.54,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582476W",
+      "lugar": "Edificio Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "Contrato para dinamizar el centro de ocio juvenil del edificio Cazadores",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la asociación Afedeco por 13.778 euros la dinamización del centro de ocio del edificio Cazadores de enero a abril de 2022.",
+      "entidades": [
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13778.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582395H",
+      "lugar": "Edificio Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Contrato del espectáculo Blablacoche en el Teatro Concha Segura",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por 10.100 euros el espectáculo Blablacoche (5 de febrero), dentro de la programación del teatro.",
+      "entidades": [
+        {
+          "nombre": "Secuencia 3 Artes y Comunicación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10100.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581965K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Obra de saneamiento de la calle Santa Bárbara por 32.307 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto (35.250 euros) y se adjudica por 32.307 euros, como contrato menor, la sustitución de la red de saneamiento de la calle Santa Bárbara entre San Bartolomé y Jumilla.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Martínez Sánchez e Hijo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32307.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "581733N",
+      "lugar": "Calle Santa Bárbara (entre San Bartolomé y Jumilla)",
+      "interes": 2
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Multa de 3.042 € a la constructora de la calle Numancia por 30 días de retraso",
+      "categoria": "contrato",
+      "resumen": "Se impone a Forum San Patricio una penalidad de 3.042 euros (101,40 euros por día) por terminar con 30 días de retraso la reurbanización de la calle Numancia; se descontará de sus facturas o de la fianza. La empresa no presentó alegaciones.",
+      "entidades": [
+        {
+          "nombre": "Fórum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "penalizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3042.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "501912A",
+      "lugar": "Calle Numancia",
+      "interes": 3
+    },
+    {
+      "ref": "12.14",
+      "titulo": "Programación del Teatro Concha Segura de febrero a junio: 89.914 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación del teatro de febrero a junio de 2022 (Pasión Vega, Tartufo, El Aguafiestas, Señora de rojo sobre fondo gris, Pinocho, festivales de bandas, actos de San Isidro...) con un coste de 89.914 euros y entradas de 6 a 12 euros (3 euros estudiantes en teatro grecolatino).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 89914.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "12.15",
+      "titulo": "La asociación Kapaces usa el aula de cocina del antiguo colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación Kapaces a usar el aula de cocina del antiguo colegio San José de Calasanz el 5 de febrero para un taller de restauración.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "582239Q",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    }
+  ]
+}

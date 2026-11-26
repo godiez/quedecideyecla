@@ -1,0 +1,985 @@
+{
+  "doc": "2023-04-25_JGL_19",
+  "organo": "JGL",
+  "sesion": 19,
+  "fecha": "2023-04-25",
+  "tipo_sesion": "ordinaria",
+  "paginas": 50,
+  "resumen": "La Junta de Gobierno aprueba el padrón del impuesto de vehículos de 2023 (casi 2 millones de euros, a pagar del 8 de mayo al 14 de julio) y prepara el concierto de Carlos Baute para San Isidro por 31.460 euros. Informa a favor de una nave industrial de Transportes y Tránsitos Navarro y García en suelo no urbanizable (paraje Los Baños) y deniega el agua potable a la nave de Gomarco en la carretera de Villena. Además convoca plazas de pintor, auxiliar de hogar, limpiadoras y educador social, rechaza dos recursos de una logopeda municipal y mantiene el servicio de comidas a domicilio con la empresa actual porque el nuevo concurso quedó desierto.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 18 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: liquidación de un curso del SEF y cables no autorizados de Cableword",
+      "categoria": "informacion",
+      "resumen": "Se informa de la liquidación de una subvención de 28.860 € del Servicio Regional de Empleo y Formación para el curso 'Atención sociosanitaria a personas dependientes en instituciones sociales' (la misma resolución aparece dos veces), de la acreditación de especialidades formativas del Ayuntamiento y de un informe técnico municipal sobre instalaciones no autorizadas de Cableword.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF, CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Cableword",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "instalaciones no autorizadas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28860.0,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "763096F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Centro de Día, proyecto de vivienda y curso de artes plásticas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar tres facturas: las plazas de dependientes del Centro de Día, el proyecto de vivienda de servicios sociales de enero y el curso de artes plásticas y oficios artísticos de marzo.",
+      "entidades": [
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 51889.81,
+      "importes": [
+        {
+          "concepto": "Curso de artes plásticas y oficios artísticos, marzo 2023",
+          "eur": 6988.04,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Ejecución proyecto vivienda, enero 2023",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "628370M, 647410F, 457254A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Impuesto de vehículos: exenciones por movilidad reducida de 2023",
+      "categoria": "fiscal",
+      "resumen": "Se conceden, deniegan y dan de baja exenciones del impuesto de vehículos a personas con movilidad reducida o discapacidad, según las listas del expediente. La exención dura mientras siga vigente el reconocimiento de discapacidad y solo vale para un vehículo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759022Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Impuesto de vehículos: gratis para coches históricos o de más de 25 años",
+      "categoria": "fiscal",
+      "resumen": "Se concede a unos vecinos y se deniega a otros la bonificación del 100% del impuesto de vehículos para vehículos históricos o con al menos 25 años, según las listas del expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759022Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Impuesto de vehículos: rebaja del 50% para híbridos y eléctricos",
+      "categoria": "fiscal",
+      "resumen": "Se concede la bonificación del 50% del impuesto de vehículos a los vehículos híbridos o eléctricos de la lista del expediente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759022Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Impuesto de vehículos: exención para tractores y maquinaria agrícola",
+      "categoria": "fiscal",
+      "resumen": "Se concede a unos y se deniega a otros la exención del impuesto de vehículos para tractores, remolques y maquinaria con Cartilla de Inspección Agrícola.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "759022Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 90% del impuesto de obras por placas solares en una vivienda (1)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del ICIO por instalar placas solares de autoconsumo en su vivienda, en el paraje Casa La Barcelonesa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "736108Y",
+      "lugar": "Paraje Casa La Barcelonesa",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Rebaja del 90% del impuesto de obras por placas solares en una vivienda (2)",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del ICIO por instalar placas solares de autoconsumo en su vivienda del casco urbano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735949C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nuevo director de ejecución en una obra con licencia de 2005",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de que el titular de la licencia urbanística 139/2005 ha designado un nuevo director de ejecución y coordinador de seguridad y salud de la obra.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "740078M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Una obra con licencia de 2007 se queda sin dirección y no puede seguir",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la renuncia del director de ejecución de la obra con licencia 162/2007, comunicada por el Colegio de Aparejadores, y se avisa a la titular de que las obras no pueden continuar hasta que nombre nueva dirección.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "comunica renuncia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "762281Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Informe a favor de una nave de Transportes y Tránsitos Navarro y García en suelo rústico",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Tras la información pública sin alegaciones, el Ayuntamiento informa a favor del interés público de la nave industrial que quiere construir Transportes y Tránsitos Navarro y García en suelo no urbanizable, y lo envía a la Consejería de Fomento, que es quien da la autorización.",
+      "entidades": [
+        {
+          "nombre": "Transportes y Tránsitos Navarro y García, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "527055X (S.N.U. 9/2021)",
+      "lugar": "Paraje Los Baños, polígono 45 (varias parcelas)",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición para una plaza fija de oficial pintor",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para una plaza de personal laboral fijo de Oficial de Artes y Oficios-Pintor (grupo C2), de la Oferta de Empleo de 2019.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758133N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Oposición para una plaza fija de auxiliar de hogar a media jornada",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para una plaza de personal laboral fijo de Auxiliar de Hogar a media jornada, de la Oferta de Empleo de 2018.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "756620M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Oposición para dos plazas fijas de limpiador/a",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para dos plazas de limpiador/a de personal laboral fijo (Oferta de 2019), con destino en el CEIP La Paz y en la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "757168Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Oposición para una plaza fija de educador social a media jornada",
+      "categoria": "personal",
+      "resumen": "Se aprueban la convocatoria y las bases del concurso-oposición para una plaza de Educador Social a media jornada (grupo A2), personal laboral fijo de la Oferta de 2018.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758924M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.5",
+      "titulo": "La veterinaria municipal irá online a unas jornadas de seguridad alimentaria",
+      "categoria": "personal",
+      "resumen": "Se ordena a la veterinaria-inspectora municipal asistir en línea a las Jornadas sobre Seguridad Alimentaria Municipal de la Asociación Española de Veterinarios Municipales (18 y 19 de mayo) y el Ayuntamiento paga la inscripción.",
+      "entidades": [
+        {
+          "nombre": "Asociación Española de Veterinarios Municipales",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 110.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764321H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Se preparará una bolsa de empleo de periodistas",
+      "categoria": "personal",
+      "resumen": "A propuesta del director del Gabinete de Comunicación, se encarga redactar las bases de una bolsa de empleo de periodistas, por concurso-oposición, para cubrir interinidades y sustituciones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762659Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "AMG hará el comedor de las escuelas infantiles de abril a julio",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a AMG Servicios Integrados el contrato menor del servicio de comedor de las Escuelas Infantiles Municipales de abril a julio de 2023.",
+      "entidades": [
+        {
+          "nombre": "AMG Servicios Integrados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16060.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "745194R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Se reabre el concurso de teleasistencia tras añadir los trabajadores a subrogar",
+      "categoria": "contrato",
+      "resumen": "El concurso de teleasistencia domiciliaria se paró porque Ilunion, la empresa actual, avisó de que faltaba en los pliegos el personal que el nuevo adjudicatario debe asumir. Se añade esa información a los pliegos y se abre un nuevo plazo de 15 días para presentar ofertas.",
+      "entidades": [
+        {
+          "nombre": "Ilunion Sociosanitaria, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria actual"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738332M (C.SE.5/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "7ª Concentración de Bicicletas Clásicas el 7 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la asociación de bicicletas clásicas Las Galgas a celebrar su 7ª concentración el 7 de mayo, con las condiciones de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Asociación Culturas de Bicicletas Clásicas 'Las Galgas' de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758421N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto de la asociación contra el cáncer AYAC en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto para recaudar fondos el 10 de mayo en el Parque de la Constitución, y el Ayuntamiento le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747465X",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "El CEIP La Pedrera usará la cocina del antiguo colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el aula de cocina del antiguo colegio San José de Calasanz al CEIP La Pedrera para talleres de 'Almuerzos saludables' en ocho tardes de abril a junio.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Pedrera",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763282P",
+      "lugar": "Antiguo C.P. San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Exposiciones de San Isidro en la Iglesia de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Federación de Peñas de San Isidro a usar la Iglesia de San Francisco del 7 al 21 de mayo para las exposiciones de carrozas en miniatura, fotografía y bicicletas antiguas, con las condiciones técnicas, y se avisa a la UTE que hace las obras de la Capilla de la Virgen de las Angustias.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Zima Desarrollos Integrales, S.L. - Pegiro, S.L. U.T.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de obras en el edificio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741644M",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9.1",
+      "titulo": "El Club Deportivo Akawi Sports entra en el registro municipal de entidades",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe al Club Deportivo Akawi Sports en el Registro de Entidades Declaradas de Interés Municipal (REDIM).",
+      "entidades": [
+        {
+          "nombre": "Club Deportivo Akawi Sports",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "728638Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "La Asociación Autoayuda-Yecla entra en el registro municipal de entidades",
+      "categoria": "organizacion",
+      "resumen": "Se inscribe a la Asociación Autoayuda-Yecla en el Registro de Entidades Declaradas de Interés Municipal (REDIM).",
+      "entidades": [
+        {
+          "nombre": "Asociación Autoayuda-Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762630J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "No a Protección Civil de Yecla en los Moros y Cristianos de Biar",
+      "categoria": "organizacion",
+      "resumen": "Se deniega la ayuda de los voluntarios de Protección Civil de Yecla a Biar (10 de mayo) porque aún no ha entrado en vigor el cambio del reglamento que les permite actuar fuera del municipio.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Biar",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "764014F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "No a Protección Civil de Yecla en los Moros y Cristianos de Abanilla",
+      "categoria": "organizacion",
+      "resumen": "Se deniega la ayuda de los voluntarios de Protección Civil a Abanilla (1, 3 y 7 de mayo) por el mismo motivo: el reglamento modificado aún no está en vigor.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Abanilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "764047C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "No a Protección Civil de Yecla en los Moros y Cristianos de Caravaca",
+      "categoria": "organizacion",
+      "resumen": "Se deniega la ayuda de los voluntarios de Protección Civil a Caravaca de la Cruz (1 y 2 de mayo) porque el reglamento modificado aún no está en vigor.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Caravaca de la Cruz",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "764203T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Denegada otra vez el agua potable a la nave de Gomarco en la carretera de Villena",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a Gomarco el suministro de agua potable para su nave en suelo no urbanizable porque no hay red cerca (el ramal más próximo, junto al polígono Las Teresas, está a más de 200 metros). Ya se le denegó lo mismo en 2015.",
+      "entidades": [
+        {
+          "nombre": "Gomarco Descanso, S.L. (Colchones Gomarco, S.L.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "762894A",
+      "lugar": "Carretera de Villena, S.N.U., parcela 44 (polígono 34 o 43 según el acta)",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Cambio de titular del agua de obra para una vivienda en el paraje La Decarada",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se cambia de titular, a favor de los nuevos titulares de la licencia, la autorización provisional (24 meses y en precario) de agua potable para la obra de una vivienda en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763030P",
+      "lugar": "Paraje La Decarada, polígono 34",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Padrón del impuesto de vehículos 2023: 1,94 millones a cobrar",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del impuesto de vehículos de 2023: 1.983.792 € en total, menos 39.604 € de descuento por domiciliar, quedan 1.944.188 € a cobrar. Se paga del 8 de mayo al 14 de julio y los recibos domiciliados se cargan el 29 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 1944188.19,
+      "importes": [
+        {
+          "concepto": "Importe total del padrón",
+          "eur": 1983792.08,
+          "entidad": null
+        },
+        {
+          "concepto": "Bonificación por domiciliación",
+          "eur": -39603.89,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764991N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Rechazado el recurso de una logopeda municipal contra la oposición de estabilización",
+      "categoria": "reclamaciones",
+      "resumen": "Una logopeda temporal del Centro de Atención Temprana pidió sacar su plaza del concurso-oposición de estabilización y pasarla al concurso de méritos, como la de fisioterapeuta. Se desestima porque la plaza tuvo una interrupción entre 2014 y 2016, cuando el servicio lo prestó otra persona por contrato.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Rechazado el segundo recurso de la logopeda contra el concurso de méritos",
+      "categoria": "reclamaciones",
+      "resumen": "La misma trabajadora recurrió también la convocatoria del concurso de méritos por no incluir su plaza. Se desestima por los mismos motivos: la plaza no estuvo ocupada sin interrupción antes de 2016.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Renuncia de una auxiliar administrativa interina de Recaudación",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de una auxiliar administrativa interina de la Oficina de Recaudación Municipal desde el 23 de abril.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765671H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Desierto el concurso de comidas a domicilio para mayores: ninguna oferta",
+      "categoria": "contrato",
+      "resumen": "Se declara desierto el concurso del servicio de comidas a domicilio para personas mayores o dependientes porque no se presentó ninguna empresa.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719486M (C.SE.1/23)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Nueva Cocina Mediterránea seguirá con las comidas a domicilio hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "Como el contrato de 2017 acaba el 30 de abril y el nuevo concurso quedó desierto, se obliga a Nueva Cocina Mediterránea 2002 a seguir prestando el servicio de comidas a domicilio, en las mismas condiciones, hasta que entre en vigor un nuevo contrato.",
+      "entidades": [
+        {
+          "nombre": "Nueva Cocina Mediterránea 2002, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766161N (C.SE. 6/16)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Concierto de Carlos Baute en San Isidro por 31.460 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el contrato para el concierto de Carlos Baute en los Ventorrillos de las Peñas en las Fiestas de San Isidro 2023, por procedimiento negociado sin publicidad con la empresa que tiene la exclusiva del artista, y un gasto de 31.460 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 31460.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762568Y (C.PR. 2/23)",
+      "lugar": "Recinto de los Ventorrillos de las Peñas de San Isidro",
+      "interes": 3
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Aventino organizará masterclass del artista Lidó Rico en los colegios (proyecto Germinados)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Aventino Proyectos Integrales el contrato menor de masterclass del artista Lidó Rico en centros educativos, dentro del proyecto piloto 'Germinados' de actividades fuera del horario escolar.",
+      "entidades": [
+        {
+          "nombre": "Aventino Proyectos Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8228.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763760D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Prorrogado un año el contrato de coordinación de la ayuda a domicilio",
+      "categoria": "contrato",
+      "resumen": "Se prorroga del 5 de julio de 2023 al 4 de julio de 2024 (primera prórroga) el contrato de coordinación de atenciones circunstanciales del Servicio de Ayuda a Domicilio con Asistencia, Formación y Eventos.",
+      "entidades": [
+        {
+          "nombre": "Asistencia, Formación y Eventos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505954P (C.SE.3/21)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Cuatro semanas más para la obra de la calle San Antonio",
+      "categoria": "contrato",
+      "resumen": "Mediterráneo de Obras y Asfaltos pidió cinco semanas más para reurbanizar la calle San Antonio (entre San Francisco y Don Lucio); se le conceden cuatro por retrasos no imputables a la empresa. Nueva fecha de fin: 12 de junio. Debe dejar pasar las carrozas de San Isidro el 20 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "654214F (C.O. 7/22)",
+      "lugar": "Calle San Antonio, entre calle San Francisco y calle Don Lucio",
+      "interes": 2
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Terraza de verano de 16 m² para el bar 'Los Caballa' en la calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Los Caballa' en la calle Rambla, 16 m² del 1 de abril al 31 de octubre de 2023.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738133K",
+      "lugar": "Calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Taller de masaje infantil en el Edificio Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático a la Asociación Internacional y Nacional de Masaje Infantil para charlas y un taller el 27 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación Internacional y Nacional de Masaje Infantil",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "765003E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Charla de un escritor para alumnos del Colegio La Inmaculada en el Bioclimático",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático al Colegio La Inmaculada el 26 de abril por la mañana para una charla del escritor Diego Blanco a alumnos de Secundaria.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764507Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "13.14",
+      "titulo": "Charla del mismo escritor para familias en el Salón de Plenos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Salón de Plenos de la Casa Consistorial al Colegio La Inmaculada el 26 de abril por la tarde para una charla a las familias; los derechos de autor, si los hay, corren a cargo del colegio.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "742790D",
+      "lugar": "Casa Consistorial, Salón de Plenos",
+      "interes": 1
+    },
+    {
+      "ref": "13.15",
+      "titulo": "Repetido: la misma cesión del Bioclimático al Colegio La Inmaculada",
+      "categoria": "via_publica_eventos",
+      "resumen": "El acta repite, casi con las mismas palabras y el mismo expediente, el acuerdo 13.13: cesión del salón de actos del Edificio Bioclimático al Colegio La Inmaculada el 26 de abril.",
+      "entidades": [
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764507Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "13.15 bis",
+      "titulo": "Asamblea de la Federación de Peñas de San Isidro en el Centro de Desarrollo Local",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Centro de Desarrollo Local a la Federación de Peñas de San Isidro para su asamblea general extraordinaria del 27 de abril.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763127Z",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "13.16",
+      "titulo": "Permiso a la Comunidad Autónoma para arreglar dos tramos del camino CRA-18",
+      "categoria": "convenio",
+      "resumen": "A petición de la Dirección General del Agua, el Ayuntamiento certifica que los terrenos del camino rural CRA-18 son municipales y están disponibles, autoriza a la Consejería de Agua y Agricultura a arreglar dos tramos y se compromete a recibir y mantener las obras.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "ejecuta obras"
+        },
+        {
+          "nombre": "Dirección General del Agua (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761869C",
+      "lugar": "Camino rural CRA-18",
+      "interes": 2
+    },
+    {
+      "ref": "13.17",
+      "titulo": "Agua potable para una vivienda aislada en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza, en precario y con contador y acometida a cargo del vecino, el suministro de agua potable a una vivienda unifamiliar aislada en suelo no urbanizable (polígono 111).",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "764643E",
+      "lugar": "Polígono 111",
+      "interes": 1
+    },
+    {
+      "ref": "13.18",
+      "titulo": "Copa Albatros 2023 en el pabellón José Ortega Chumilla, con uso gratis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Deportiva Albatros Yecla a celebrar la Copa Albatros el 29 de abril en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación (valorado en 280,40 €) y apoyo municipal en la organización.",
+      "entidades": [
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe cesión gratuita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 280.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "725299K",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    }
+  ]
+}

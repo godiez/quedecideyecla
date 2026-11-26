@@ -1,0 +1,759 @@
+{
+  "doc": "2023-05-09_JGL_21",
+  "organo": "JGL",
+  "sesion": 21,
+  "fecha": "2023-05-09",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno paga 233.907 euros por la basura de marzo, contrata el concierto de Carlos Baute en San Isidro por 31.460 euros y la ampliación de las cámaras de seguridad ciudadana por 34.493 euros. Aprueba el Plan de Empleo e Inserción Social 2023 (90.000 euros) y las listas provisionales para hacer fijas 37 plazas temporales del Ayuntamiento. También paga otros 80.968 euros de la restauración de la Capilla de las Angustias, organiza la Muestra de Folclore y autoriza el Día del Vino D.O. en la Plaza Mayor, terrazas y chiringuitos de la Cabalgata.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 2 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: plan de caza en montes públicos y entrega del camino de la Bronquina",
+      "categoria": "informacion",
+      "resumen": "Se informa de la aprobación por la Dirección General del Medio Natural del plan de aprovechamientos cinegéticos de 2023 en montes de utilidad pública y de la orden de entrega de las obras de acondicionamiento del camino municipal de la Bronquina.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "aprueba plan"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "768407H",
+      "lugar": "camino de la Bronquina",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de basuras de marzo: tratamiento y recogida, limpieza viaria y reciclaje",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el tratamiento de residuos de marzo al Consorcio regional y la recogida de basura, limpieza viaria y recogida selectiva de marzo a Actúa.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "consorcio_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 233907.02,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, marzo 2023",
+          "eur": 53642.68,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Recogida de residuos, limpieza viaria y recogida selectiva (C.SE. 4/2015), marzo 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 495804R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50 % del IBI de 2023 a 2027 por instalar placas solares de autoconsumo, con un máximo de 100 euros al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "744530W",
+      "lugar": "paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Renuncia del director de obra en la licencia de la Parroquia de San Juan Bautista",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la renuncia del director de obra y se avisa a la Parroquia de San Juan Bautista de que las obras no pueden seguir hasta que nombre otro.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "titular de la licencia"
+        },
+        {
+          "nombre": "Colegio Oficial de Aparejadores, Arquitectos Técnicos e Ingenieros de Edificación de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "comunica"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "217049H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Renuncia del director de obra en una licencia de un particular",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota de la renuncia del director de obra y se avisa al titular de que la obra queda parada hasta que nombre otro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482023C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Listas provisionales de admitidos para hacer fijas 37 plazas de personal laboral",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales de aspirantes, los tribunales y las fechas del concurso de méritos para estabilizar 37 plazas temporales: 15 técnicos de Educación Infantil, 5 conserjes, 4 limpiadoras, 2 trabajadores sociales, 2 agentes de desarrollo local, 2 peones y psicólogo, educador social, fisioterapeuta, profesor de Bellas Artes, ordenanza, auxiliar de biblioteca y conductor. Cinco aspirantes quedan excluidos por presentar la solicitud fuera de plazo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "325263E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Orden de servicio a una trabajadora social para una reunión con el INSS",
+      "categoria": "personal",
+      "resumen": "Se ordena a una trabajadora social ir a Murcia a una reunión con el INSS sobre el Ingreso Mínimo Vital, con el vehículo del Centro.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771266D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Formadora del programa de empleo 'Yecla Integra' (atención sociosanitaria)",
+      "categoria": "personal",
+      "resumen": "Se desestima una reclamación, se contrata a una formadora para el programa mixto de empleo y formación de atención sociosanitaria a domicilio, subvencionado por el SEF, y se crea una bolsa de empleo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754702Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Formador del programa de empleo 'Yecla Potencia' (tapicería)",
+      "categoria": "personal",
+      "resumen": "Se contrata a un formador para el programa mixto de empleo y formación de tapizado de mobiliario, subvencionado por el SEF, y se crea una bolsa de empleo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761081H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Coordinador del programa de empleo 'Yecla Integra'",
+      "categoria": "personal",
+      "resumen": "Se desestiman dos reclamaciones, se contrata a un coordinador del programa de atención sociosanitaria a domicilio y se crea una bolsa con seis aspirantes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754703Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Coordinadora del programa de empleo 'Yecla Potencia'",
+      "categoria": "personal",
+      "resumen": "Se desestima una reclamación, se contrata a una coordinadora del programa de tapicería y se crea una bolsa con seis aspirantes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761077C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Alumnos-trabajadores del programa de tapicería 'Yecla Potencia'",
+      "categoria": "personal",
+      "resumen": "Se aprueba la entrada de unos 14 alumnos-trabajadores en el programa mixto de empleo y formación de tapizado y una bolsa de reserva.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758789Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Compra de 6 switches para la red informática municipal",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Main Memory, S.A. el suministro de seis switches para renovar la red municipal por 15.403,93 euros.",
+      "entidades": [
+        {
+          "nombre": "Main Memory, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 15403.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762546R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Concierto de Carlos Baute en San Isidro: 31.460 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica sin publicidad, por tener la exclusiva del artista, el concierto de Carlos Baute del 19 de mayo en los Ventorrillos de las Peñas de San Isidro a Treinta y Tres Producciones, S.L., único licitador, por 31.460 euros.",
+      "entidades": [
+        {
+          "nombre": "Treinta y Tres Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 31460.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "762568Y",
+      "lugar": "recinto de los Ventorrillos de las Peñas de San Isidro",
+      "interes": 3
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza del bar Taguara en la Plaza de la Concordia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular del bar una terraza de 20 m² en temporada de verano (abril a octubre de 2023).",
+      "entidades": [
+        {
+          "nombre": "Bar Taguara",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "761423H",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza del Bar A la Mesa en la Plaza Concejala Mª Carmen Lorente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al titular del bar una terraza de 28 m² en temporada de verano.",
+      "entidades": [
+        {
+          "nombre": "Bar A la Mesa",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748786F",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de la Cafetería Bulebar en la calle Zaplana",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular de la cafetería una terraza de 16 m² en temporada de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Bulebar",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754952W",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Se deniega poner un espejo en un cruce de caminos de Los Quiñones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina instalar un espejo en un cruce, porque según la Policía Local no es más peligroso que muchos otros del término.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "767354W",
+      "lugar": "paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Traslado de una farola por la cochera de una vivienda en construcción",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular mover 3,5 m una farola que coincide con la puerta de su cochera, a su cargo y con fianza de 1.778,34 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769320A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Sesiones para una boda civil (12 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja usar el Salón de Sesiones del Ayuntamiento para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769480Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Iglesia de San Francisco iluminada de azul por el Día de la Fibromialgia",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Enfermos de Fibromialgia de Yecla, la fachada de la Iglesia de San Francisco se ilumina de azul el 12 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Enfermos de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766497E",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "XIII Muestra Nacional de Folclore 'Ciudad de Yecla'",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba celebrar la muestra de folclore el 13 de mayo con un presupuesto de 10.611,70 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10611.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "757259Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Día Movimiento Vino D.O. en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Consejo Regulador de la D.O.P. Yecla a celebrar el 13 de mayo una jornada de promoción del vino con consumo de bebidas en la calle; el Ayuntamiento cede tres carpas, papeleras y luz. Fianza de 300 euros y límite de 85 dB.",
+      "entidades": [
+        {
+          "nombre": "Consejo Regulador de la Denominación de Origen Protegida Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "organiza evento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "763094D",
+      "lugar": "Plaza Mayor / Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la obra de alcantarillado de la calle Pascual Amat",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa que renueva el alcantarillado en la calle Pascual Amat, entre Hijas de la Caridad y Peligros.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J. J. Gómez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "741249N",
+      "lugar": "calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Certificación 11 de la restauración de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la undécima certificación de la obra de restauración de la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco, por 80.967,85 euros.",
+      "entidades": [
+        {
+          "nombre": "UTE Zima, S.L. - Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 80967.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 3
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Plan de Empleo e Inserción Social 2023: 90.000 euros y primeros 8 contratos",
+      "categoria": "personal",
+      "resumen": "Se aprueba el plan municipal de empleo para personas en riesgo de exclusión, con enfermedad mental o jóvenes sin experiencia (90.000 euros). La fase I (42.343,35 euros) contrata por tres meses, a 30 horas, a 5 peones, un ordenanza y un conserje a través del SEF, y se nombran los tribunales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 90000.0,
+      "importes": [
+        {
+          "concepto": "Plan de Promoción e Inserción Social a través del Empleo 2023 (total)",
+          "eur": 90000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Gasto de la fase I",
+          "eur": 42343.35,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "767936D",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Jornada completa para una educadora social pagada con fondos europeos",
+      "categoria": "personal",
+      "resumen": "Se amplía a jornada completa, hasta fin de 2023, el contrato de una educadora social del proyecto de acompañamiento a personas vulnerables, financiado con fondos Next Generation EU; la ampliación cuesta unos 12.571 euros.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12571.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "637760D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Conserje temporal para cubrir al ordenanza de tarde",
+      "categoria": "personal",
+      "resumen": "Se contrata un conserje-operario de la bolsa de empleo para cubrir la ausencia del ordenanza de tarde y poder abrir el Ayuntamiento por la tarde.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771486J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Ampliación de la red de cámaras de seguridad ciudadana (fase II) para Elecnor",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Elecnor Seguridad, S.L. el suministro e instalación de la fase II del sistema de cámaras de seguridad ciudadana por 34.492,65 euros. Se rechaza la oferta de Alarmas Gama, S.L. por no cumplir el pliego técnico.",
+      "entidades": [
+        {
+          "nombre": "Elecnor Seguridad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alarmas Gama, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "licitador rechazado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34492.65,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733915C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Orquesta 'La Fiesta' el 20 de mayo",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Audiovisuales La Fiesta, S.L. la actuación de su orquesta el 20 de mayo por 6.050 euros.",
+      "entidades": [
+        {
+          "nombre": "Audiovisuales La Fiesta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6050.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "771506M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "Fecha de recepción de la obra de la Capilla de las Angustias",
+      "categoria": "contrato",
+      "resumen": "Se fija el 2 de junio de 2023 para recibir oficialmente la obra de restauración de la Capilla de la Virgen de las Angustias y se avisa a la Interventora.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Chiringuitos en la Cabalgata de Carrozas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan todos los chiringuitos pedidos en locales particulares y en la vía pública del centro del recorrido de la Cabalgata, sin necesidad de sorteo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753986D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.9",
+      "titulo": "Terraza de la cafetería La Parada en la calle San José",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la titular de la cafetería una terraza de 16 m² en temporada de verano.",
+      "entidades": [
+        {
+          "nombre": "Cafetería La Parada",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "solicita terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755026Y",
+      "lugar": "calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "12.10",
+      "titulo": "La AMPA del colegio Giner de los Ríos podrá usar el centro para un servicio de recogida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA a usar las instalaciones del colegio de 12:45 a 13:45 en junio y septiembre para un servicio de recogida de alumnos que presta una particular, con seguro de responsabilidad civil.",
+      "entidades": [
+        {
+          "nombre": "AMPA del C.E.I.P. Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "772686A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.11",
+      "titulo": "Se envía el borrador del Plan de Emergencias Municipal a la CARM",
+      "categoria": "organizacion",
+      "resumen": "Se remite a la Dirección General de Seguridad y Emergencias el borrador del Plan de Emergencias Municipal de Yecla para su revisión y aprobación.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Seguridad y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "revisa plan"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753293Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.12",
+      "titulo": "Lista definitiva de admitidos en las Escuelas Infantiles para el curso 2023/24",
+      "categoria": "servicios_actividades",
+      "resumen": "Se estima una reclamación por un error en la lista (se incluye a dos niñas en la E.I. El Parque) y se aprueba la lista definitiva de admitidos en las escuelas infantiles municipales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747754Y",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 2
+    },
+    {
+      "ref": "12.13",
+      "titulo": "Competición regional de gimnasia rítmica en el pabellón José Ortega Chumilla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club de Gimnasia Rítmica Yecla a organizar con la Federación una prueba de la Liga Regional el 13 de mayo, con uso gratuito del pabellón valorado en 937,95 euros.",
+      "entidades": [
+        {
+          "nombre": "Club de Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza evento"
+        },
+        {
+          "nombre": "Federación de Gimnasia Rítmica de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 937.95,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768750J",
+      "lugar": "Pabellón Polideportivo Municipal José Ortega Chumilla",
+      "interes": 1
+    }
+  ]
+}

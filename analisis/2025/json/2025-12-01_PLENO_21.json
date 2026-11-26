@@ -1,0 +1,440 @@
+{
+  "doc": "2025-12-01_PLENO_21",
+  "organo": "PLENO",
+  "sesion": 21,
+  "fecha": "2025-12-01",
+  "tipo_sesion": "ordinaria",
+  "paginas": 77,
+  "resumen": "Se aprueba reorganizar los Servicios Técnicos (nuevo Ámbito de Urbanismo e Infraestructuras) y los Servicios Sociales (nuevo negociado de Mujer e Igualdad), con el voto en contra de Vox, cuya enmienda fue rechazada. Se aprueban 50.000 € de ayudas para agricultores y ganaderos de Yecla y se pagan subvenciones a Cruz Roja (64.000 €), Yeclano Deportivo (63.000 €), Feria del Mueble (30.000 €), Mayordomos de la Purísima (25.000 €) y Kapaces (8.500 €). La oposición saca adelante, contra el voto del PP, una moción del PSOE sobre accesibilidad en espacios culturales; PP y Vox rechazan la moción de IU-Verdes sobre vivienda y Bono Alquiler Joven.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta del Pleno ordinario n.º 19, de 3 de noviembre de 2025.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Rebaja del 50 % del impuesto de obras a un particular por una nave en la carretera de Villena",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50 % del ICIO por construir una nave industrial sin uso específico en la carretera de Villena; la obra presupuestada es de 537.348,45 € y la cuota del impuesto de 17.732,50 €, por lo que se ahorra unos 8.866,25 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 8866.25,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la obra (base del ICIO)",
+          "eur": 537348.45,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 17732.5,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 8866.25,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865646M",
+      "lugar": "Ctra. de Villena (RM-425), km 62,6, polígono 42, parcelas 368 y 369",
+      "interes": 2
+    },
+    {
+      "ref": "3",
+      "titulo": "Rebaja del 50 % del impuesto de obras a un particular por una nave en Las Teresas",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un particular la bonificación del 50 % del ICIO por construir una nave industrial en el polígono industrial Las Teresas; la obra presupuestada es de 277.308,79 € y la cuota pagada del impuesto fue de 8.876,65 € (con descuento por pronto pago), por lo que se ahorra unos 4.438 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 4438.33,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la obra (base del ICIO)",
+          "eur": 277308.79,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Cuota ICIO autoliquidada (con 3 % de pronto pago)",
+          "eur": 8876.65,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 4438.33,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1036969K",
+      "lugar": "Polígono industrial Las Teresas, calle Dr. Pedro Pons, parcela B-26",
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Rebaja del 50 % del impuesto de obras a Insace y Dress 2003 por su nave industrial",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Insace, S.L. y Dress 2003, S.L. la bonificación del 50 % del ICIO por construir una nave industrial en la avenida Juan Carlos I (suelo urbano industrial Z-5); la obra presupuestada es de 2.226.435,20 € y la cuota del impuesto de 73.472,36 €, por lo que se ahorran unos 36.736,18 €.",
+      "entidades": [
+        {
+          "nombre": "Insace, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        },
+        {
+          "nombre": "Dress 2003, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiaria de la bonificación"
+        },
+        {
+          "nombre": "Initeco Proyectos de Ingeniería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presenta la solicitud en representación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36736.18,
+      "importes": [
+        {
+          "concepto": "Presupuesto de ejecución material de la obra (base del ICIO)",
+          "eur": 2226435.2,
+          "entidad": "Insace, S.L. y Dress 2003, S.L."
+        },
+        {
+          "concepto": "Cuota ICIO antes de bonificar",
+          "eur": 73472.36,
+          "entidad": "Insace, S.L. y Dress 2003, S.L."
+        },
+        {
+          "concepto": "Bonificación del 50 % (calculada)",
+          "eur": 36736.18,
+          "entidad": "Insace, S.L. y Dress 2003, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063991Q",
+      "lugar": "Avda. Juan Carlos I, n.º 61 (suelo urbano industrial Z-5)",
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Cruz Roja justifica la subvención de 64.000 € de 2024",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención municipal de 64.000 € de 2024 a la Asamblea Local de Cruz Roja Española, dentro del convenio marco 2021-2024.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española (Asamblea Local de Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1068957N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Nuevo convenio con Cruz Roja para 2025 y 2026: 64.000 € al año",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba el convenio con el Comité Local de Cruz Roja en Yecla para 2025 y 2026 (prorrogable hasta cuatro años más), con 64.000 € anuales para inclusión social, educación y socorros, y se paga ya entera la anualidad de 2025.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española (Comité Local de Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 64000.0,
+      "importes": [
+        {
+          "concepto": "Área de Inclusión Social 2025",
+          "eur": 49286.44,
+          "entidad": "Cruz Roja Española (Comité Local de Yecla)"
+        },
+        {
+          "concepto": "Área de Educación 2025",
+          "eur": 713.56,
+          "entidad": "Cruz Roja Española (Comité Local de Yecla)"
+        },
+        {
+          "concepto": "Área de Socorros 2025",
+          "eur": 14000.0,
+          "entidad": "Cruz Roja Española (Comité Local de Yecla)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1150801K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Primer pago de 30.000 € de 2025 a la Feria del Mueble",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se abona a cuenta, sin exigir garantía, la primera parte de la subvención de 2025 (30.000 €) a la Institución Feria Regional del Mueble de Yecla e Industrias Afines, según el convenio 2024-2027 para la celebración anual de la Feria.",
+      "entidades": [
+        {
+          "nombre": "Institución Feria Regional del Mueble de Yecla e Industrias Afines",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 30000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "998854Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Segundo pago de 63.000 € al Yeclano Deportivo por la temporada 2024/2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada la subvención de la temporada 2024/2025 al Yeclano Deportivo (que ya recibió un anticipo de 117.000 €, el 65 %) y se le paga la segunda parte, 63.000 €, según el convenio para las temporadas 2024/2025 a 2026/2027. En total, 180.000 € esa temporada.",
+      "entidades": [
+        {
+          "nombre": "Yeclano Deportivo",
+          "cif": null,
+          "tipo": "club",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 63000.0,
+      "importes": [
+        {
+          "concepto": "Anticipo temporada 2024/2025 (ya pagado, 65 %)",
+          "eur": 117000.0,
+          "entidad": "Yeclano Deportivo"
+        },
+        {
+          "concepto": "Segundo plazo temporada 2024/2025",
+          "eur": 63000.0,
+          "entidad": "Yeclano Deportivo"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "a favor PP, PSOE y Vox (18); abstención IU-Verdes (2)",
+      "expediente": "1156106D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Segundo pago de 25.000 € a los Mayordomos de la Purísima para 2025",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el primer plazo (25.000 €, con facturas por 28.377,53 €) del convenio de 2025 con la Asociación de Mayordomos de la Purísima Concepción y se le paga el segundo plazo de 25.000 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1112272Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Segundo pago de 8.500 € a Kapaces por la 'Brigada del arte'",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificado el primer plazo (8.500 €, con pagos por 8.875,88 €) de la subvención de 2025 a la Asociación Kapaces para el proyecto 'Brigada del arte', de conservación del patrimonio local mediante el arte y la arqueología con personas con discapacidad, y se paga el segundo plazo de 8.500 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Kapaces (Asociación para la vida independiente de personas con discapacidad funcional en Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1110735N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Se reorganizan los Servicios Técnicos y los Servicios Sociales del Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Aprobación inicial del cambio del reglamento de organización municipal (de 2005): los Servicios Técnicos se dividen en un nuevo Ámbito de Urbanismo e Infraestructuras (disciplina urbanística y actividades; planificación y desarrollo urbano, con departamentos de planeamiento y de proyectos e infraestructuras) y un ámbito de mantenimiento puramente operativo; Servicios Sociales crea un negociado de Mujer e Igualdad. Se suprime la Oficina de Agricultura y Caminos Rurales y la brigada de caminos pasa a Vías y Obras. Debate: Vox, que en noviembre pidió aplazarlo, presentó una enmienda para mantener la Oficina de Agricultura y la brigada de caminos (más de 1.500 km de caminos), crear un área de Salubridad Pública y Consumo y un departamento de Emergencias y Protección Civil; IU-Verdes y PSOE apoyan tras las reuniones con los sindicatos; el PP y la alcaldesa defienden que es una propuesta de los jefes de servicio y que a la enmienda le faltan informes técnicos. Se abre información pública de 30 días.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "presenta enmienda (rechazada)"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "Enmienda de Vox: rechazada, en contra PP, PSOE e IU-Verdes (17), a favor Vox (3). Propuesta: aprobada, a favor PP, PSOE e IU-Verdes (17), en contra Vox (3).",
+      "expediente": "1170592Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Moción del PSOE: accesibilidad para personas con discapacidad en museos, teatro y cultura",
+      "categoria": "mocion_politica",
+      "resumen": "Se aprueba hacer un diagnóstico de accesibilidad (física, visual, auditiva, sensorial) de las instalaciones culturales municipales, una agenda cultural con información de accesibilidad y una programación que tenga en cuenta a personas sordas, ciegas o con discapacidad intelectual, con las asociaciones. Debate: el PSOE recuerda que casi 3.000 vecinos (7,75 %) tienen discapacidad reconocida y que el Real Decreto 193/2023 obliga desde enero de 2026; el PP vota en contra porque ya existe un Plan de Accesibilidad Turística con diagnóstico de 8 edificios dentro del Plan de Sostenibilidad Turística y anuncia aparcamientos en las calles Hospital y España y sensores en plazas de discapacitados; IU-Verdes pide subtítulos, lengua de signos y bucle magnético y critica la falta de aparcamiento; Vox apoya y denuncia que en la calle Hospital reformada no se deja parar a vehículos que llevan a personas con movilidad reducida. La alcaldesa cierra con ataques al Gobierno de España.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Socialista",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "a favor PSOE, Vox e IU-Verdes (11); en contra PP (9)",
+      "expediente": "1191164W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Rechazada la moción de IU-Verdes sobre vivienda y el Bono Alquiler Joven",
+      "categoria": "mocion_politica",
+      "resumen": "IU-Verdes pedía exigir a la Comunidad Autónoma que pague el Bono Alquiler Joven pendiente con un calendario público, más vivienda pública y asequible en Yecla, un programa de alquiler con opción a compra y estudiar declarar Yecla zona de mercado tensionado. Debate: IU-Verdes denuncia que en Yecla casi no hay alquiler por menos de 500 € y culpa al Gobierno regional; el PP culpa al Gobierno de España, cita una nueva convocatoria regional de 2 millones y acusa a PSOE y Vox de tumbar el decreto regional de vivienda; Vox rechaza la zona tensionada y pide endurecer las leyes contra la ocupación, liberar suelo y priorizar a jóvenes españoles en las ayudas; el PSOE apoya y dice que en Yecla no se hacen viviendas de protección oficial desde 2010.",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Izquierda Unida-Verdes",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "proponente"
+        },
+        {
+          "nombre": "Consejo de Gobierno de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "destinatario de las peticiones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "en contra PP y Vox (12); a favor PSOE e IU-Verdes (8)",
+      "expediente": "1191861N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14",
+      "titulo": "Ayudas de 50.000 € para agricultores y ganaderos de Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Por urgencia se aprueban las bases y la convocatoria 2025 de ayudas directas a agricultores y ganaderos a tiempo completo empadronados en Yecla desde hace al menos 5 años, por la subida de costes (energía, guerra de Ucrania) y la sequía: 50.000 € a repartir, hasta 1.000 € por persona, para gastos de maquinaria, piensos, fitosanitarios, fertilizantes o cuotas de autónomo; plazo de solicitud de 7 días naturales desde su publicación en el BORM. Cuentan con informes favorables de la CARM y del Ministerio de Hacienda.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa que no hay duplicidad"
+        },
+        {
+          "nombre": "D.G. de Estabilidad Presupuestaria y Gestión Financiera Territorial (Ministerio de Hacienda)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informe favorable de sostenibilidad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 50000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (urgencia y fondo)",
+      "expediente": "1192175Z, 1110731H",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15",
+      "titulo": "Resoluciones de la Alcaldía, entre ellas despidos de personal laboral",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de los decretos de Alcaldía del n.º 4319 (29 de octubre) al 4921 (25 de noviembre de 2025), destacando los n.º 4564, 4628 y 4629, sobre despidos de personal laboral (el acta no da más detalle).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": null,
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "16",
+      "titulo": "Ruegos y preguntas de Vox: Museo Regreco, planta de microchips y caminos rurales",
+      "categoria": "mocion_politica",
+      "resumen": "Vox pregunta por el aire acondicionado del Espacio Joven durante las obras del Edificio de Cazadores (el concejal responde que está en perfecto estado), por la reapertura del Museo Regreco, cerrado hace ocho años (se abrirá en diciembre, cuando haya informe técnico favorable), y por la candidatura de Yecla para la planta de microchips de Quantix Security, con más de 52 empleos directos (se está preparando el dossier, con plazo hasta el 10 de diciembre); y ruega que siga el inventario de caminos rurales (la alcaldesa lo verá con el técnico).",
+      "entidades": [
+        {
+          "nombre": "Grupo Municipal Vox",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "pregunta"
+        },
+        {
+          "nombre": "Quantix Security",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "proyecto de planta de microchips al que Yecla opta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": null,
+      "expediente": null,
+      "lugar": "Edificio de Cazadores; Museo Regreco",
+      "interes": 2
+    }
+  ]
+}

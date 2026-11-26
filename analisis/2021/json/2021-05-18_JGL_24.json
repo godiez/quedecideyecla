@@ -1,0 +1,726 @@
+{
+  "doc": "2021-05-18_JGL_24",
+  "organo": "JGL",
+  "sesion": 24,
+  "fecha": "2021-05-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 23,
+  "resumen": "La Junta de Gobierno adjudica a Podium Gestión Integral, S.L. el socorrismo de las piscinas y las actividades deportivas municipales por 712.442 euros en dos años. Concede licencias de obra a empresas del mueble (El Tricampet, GMC Sistemas de Descanso, Fama Sofás), rebaja a la mitad el impuesto de obras a Jumapa 2000 por una nave y paga las subvenciones de los comerciantes (8.000 euros) y las peluqueras (5.000). También aprueba un protocolo antiacoso para la plantilla y se informa de la manifestación contra la ganadería intensiva convocada por Salvemos el Arabí.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 11 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: subvenciones regionales, granja porcina en Montealegre y manifestación por el Arabí",
+      "categoria": "informacion",
+      "resumen": "Se informa de: medidas y nivel de alerta COVID-19; la aprobación de la justificación de 4.003,89 euros de subvención de Deportes para reparar las cubiertas del polideportivo José Ortega Chumilla; la liquidación de 49.415,70 euros de subvención de Educación para la limpieza extra de colegios por la COVID-19; un escrito de Patrimonio Cultural sobre la obra en la Casa Consistorial; información de la CHS, pedida por el Ayuntamiento, sobre un proyecto de explotación porcina en Montealegre del Castillo (Albacete) y sobre la limpieza de la rambla del Agua Salada; la acreditación del SEF para un curso de conservación de montes en el VIVEMU; dos sentencias sobre recursos de particulares (una desestima y otra estima el recurso contra un decreto de 2019); y un informe de la Policía Local sobre la manifestación del 23 de mayo convocada por la Plataforma Salvemos el Arabí y Comarca contra la agricultura y ganadería intensiva.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Centros Educativos e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "acredita curso"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 6 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "Plataforma Salvemos el Arabí y Comarca",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "convoca manifestación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 53419.59,
+      "importes": [
+        {
+          "concepto": "Subvención justificada para reparar cubiertas del polideportivo José Ortega Chumilla",
+          "eur": 4003.89,
+          "entidad": "Dirección General de Deportes (CARM)"
+        },
+        {
+          "concepto": "Subvención liquidada para limpieza extraordinaria COVID-19 en colegios",
+          "eur": 49415.7,
+          "entidad": "Dirección General de Centros Educativos e Infraestructuras (CARM)"
+        }
+      ],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "507387E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Rebaja del 50% del impuesto de obras a Jumapa 2000 por una nave industrial",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Jumapa 2000, S.L. una bonificación del 50% del ICIO por construir una nave industrial en la calle Reina Sofía esquina Príncipe de Asturias (parcela 6-E), por tratarse de una obra industrial de especial interés municipal. No se indica el importe.",
+      "entidades": [
+        {
+          "nombre": "Jumapa 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "bonificada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495706F",
+      "lugar": "Calle Reina Sofía esquina calle Príncipe de Asturias, parcela 6-E",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Los comerciantes (ASOCOMY) justifican y cobran su subvención de 8.000 euros",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga a la Asociación de Comerciantes de Yecla (ASOCOMY) la subvención de 8.000 euros concedida en diciembre de 2020.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Comerciantes de Yecla (ASOCOMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486785Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "La Asociación de Peluqueras justifica y cobra su subvención de 5.000 euros",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se da por justificada y se paga a la Asociación de Peluqueras de Yecla la subvención de 5.000 euros concedida en diciembre de 2020.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "486785Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Protocolo antiacoso para el personal del Ayuntamiento",
+      "categoria": "personal",
+      "resumen": "Se aprueba el procedimiento para prevenir y actuar contra la violencia laboral (protocolo antiacoso) en el Ayuntamiento, ya aprobado por el Comité de Seguridad y Salud, y se publicará en la web municipal.",
+      "entidades": [
+        {
+          "nombre": "Comité de Seguridad y Salud Laboral del Ayuntamiento",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "aprueba previamente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507508Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Informe favorable para extender a una empleada los efectos de una sentencia",
+      "categoria": "personal",
+      "resumen": "A petición del Juzgado de lo Contencioso-Administrativo nº 5 de Murcia, se aprueba el informe del Negociado de Personal que considera viable extender a una interesada los efectos de la sentencia 105/20 de ese juzgado, y se remite al juzgado.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "solicita informe"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "507254W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Reconocimiento de antigüedad a una técnico de educación infantil",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una técnico de educación infantil temporal 11 meses y 18 días trabajados en el Ayuntamiento de Hellín, a efectos de antigüedad.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Hellín",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "empleador anterior"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507800D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Denegada una plaza de aparcamiento para personas con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina una plaza reservada para personas con discapacidad, porque hay una cerca, junto al Colegio La Pedrera, que puede usarse fuera del horario escolar, las plazas no son nominativas y en la zona no hay problemas de aparcamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506793E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Cruz Roja recoge alimentos con el 'VII Carrito Solidario' en supermercados",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Española a instalar carritos de recogida de alimentos a la puerta de supermercados el 29 de mayo y el 5, 12 y 19 de junio.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507588J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Puesto informativo de la Asociación de Celíacos en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Delegación Norte de la Asociación de Celíacos de Murcia (ACMU) a poner un puesto informativo en la Plaza Mayor el 26 de mayo, y se le presta una carpa, una mesa y cuatro sillas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Celíacos de Murcia (ACMU), Delegación Norte",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507010F",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Denegada una boda civil en el jardín del Morterico",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega celebrar una boda civil en el jardín Juan J. Azorín 'Morterico', porque las bodas en edificios municipales solo pueden hacerse en los salones de la Casa Consistorial y en el Auditorio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "506785T",
+      "lugar": "Jardín Juan J. Azorín 'Morterico'",
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Criterios para delimitar aparcamientos de motos con isletas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban los criterios técnicos de la Policía Local para usar isletas de vado con bandolera para delimitar los aparcamientos de ciclomotores y motocicletas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506516W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Criterios para delimitar vados de gran capacidad con isletas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban los criterios técnicos de la Policía Local para usar isletas de vado con bandolera en los vados permanentes de gran capacidad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506516W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Taller de taichí del Centro de Mayores del IMAS en el jardín de la Avenida de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Social de Personas Mayores del IMAS a usar el jardín de la Avenida de la Feria para un taller de taichí los martes y jueves de junio, julio y septiembre.",
+      "entidades": [
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS), Centro Social de Personas Mayores",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507585E",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Más señalización en el cruce de la Ronda Norte con la carretera de Caudete",
+      "categoria": "otros",
+      "resumen": "Se refuerza la señalización horizontal y vertical del cruce de la Ronda Norte con la carretera de Caudete, según propuesta de la Policía Local.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508025Q",
+      "lugar": "Cruce Ronda Norte - carretera de Caudete",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Boda civil en el Salón de Plenos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos para su boda civil el 29 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506006M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Boda civil en el Salón de Sesiones de la 3ª planta",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 3ª planta de la Casa Consistorial para su boda civil el 30 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503288M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Salas del Edificio Bioclimático para pagar las expropiaciones de la autovía A-33",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden dos salas del Edificio Bioclimático a la Demarcación de Carreteras del Estado del 14 de junio al 2 de julio para ofrecer el justiprecio a los propietarios expropiados por la autovía A-33 (tramo enlace C-3223 a Yecla - enlace N-344).",
+      "entidades": [
+        {
+          "nombre": "Demarcación de Carreteras del Estado en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506870M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Juventudes Socialistas usan el Bioclimático para una charla sobre selectividad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Juventudes Socialistas de Yecla a usar el Salón de Actos del Edificio Bioclimático el 21 de mayo para charlas sobre la selectividad.",
+      "entidades": [
+        {
+          "nombre": "Juventudes Socialistas de Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507349C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Permiso para un reportaje fotográfico del Monte Arabí",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a hacer un reportaje fotográfico sobre el Monte Arabí (medio ambiente y arqueología), advirtiéndole de que para publicarlo necesita permiso de Bienes Culturales por ser BIC y para circular fuera de caminos, de Medio Natural.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Bienes Culturales (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar la publicación"
+        },
+        {
+          "nombre": "Dirección General del Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "debe autorizar la circulación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507069N",
+      "lugar": "Monte Arabí",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "El Ayuntamiento no quiere comprar una finca junto a la Sierra de las Pansas",
+      "categoria": "patrimonio",
+      "resumen": "Unas herederas preguntan si el Ayuntamiento quiere comprar una parcela rústica que linda con la Sierra de las Pansas (Parque Regional); se responde que no hay interés municipal porque, según el Servicio de Medio Ambiente, su compra no es de interés ambiental preferente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "506001E",
+      "lugar": "Junto a la Sierra de las Pansas (polígono 65)",
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Reducción de jornada de una monitora socorrista para cuidar a su hijo",
+      "categoria": "personal",
+      "resumen": "Se ajusta la reducción de jornada de una monitora socorrista para cuidado de hijo menor (43,35%, 20 horas semanales de 9 a 13) a la nueva jornada de 35,3 horas, hasta que el niño cumpla 12 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508136W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Licencia a El Tricampet para ampliar un almacén de muebles",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de obras a El Tricampet, S.L. para ampliar un almacén de mobiliario en el polígono 42 (parcelas 343 y 344).",
+      "entidades": [
+        {
+          "nombre": "El Tricampet, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "293884Y",
+      "lugar": "Polígono 42, parcelas 343 y 344",
+      "interes": 2
+    },
+    {
+      "ref": "9.3",
+      "titulo": "Licencia a GMC Sistemas de Descanso para naves en el polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia (con proyecto básico) a GMC Sistemas de Descanso, S.L. para construir naves sin uso específico en el P.I. Las Teresas, Avda. Juan Carlos I, parcela 10, tras demoler la nave existente; debe depositar una fianza de 19.166,28 euros para reponer la urbanización.",
+      "entidades": [
+        {
+          "nombre": "GMC Sistemas de Descanso, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [
+        {
+          "concepto": "Fianza para reponer la urbanización",
+          "eur": 19166.28,
+          "entidad": "GMC Sistemas de Descanso, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436294P",
+      "lugar": "P.I. Las Teresas, Avda. Juan Carlos I, parcela 10",
+      "interes": 2
+    },
+    {
+      "ref": "9.4",
+      "titulo": "Licencia a Fama Sofás para reformar una vivienda aislada en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Fama Sofás, S.L. para la reforma integral de una vivienda unifamiliar aislada en suelo rústico, con la condición de inscribir el terreno como finca indivisible.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502688D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.5",
+      "titulo": "Licencia a un particular para una nave agrícola en Las Cañuelas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a un particular para construir una nave agrícola en el paraje Las Cañuelas, que solo podrá destinarse al uso agrícola informado por la Dirección General de Política Agraria Común.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Política Agraria Común (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "500447O",
+      "lugar": "Paraje Las Cañuelas (polígono 127)",
+      "interes": 1
+    },
+    {
+      "ref": "9.6",
+      "titulo": "Un policía jubilado devuelve en nómina 77 horas que debía",
+      "categoria": "personal",
+      "resumen": "Al jubilarse un agente de la Policía Local, se regulariza en su nómina de mayo el saldo de 77 horas y 45 minutos que debía al Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506388R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.7",
+      "titulo": "Podium Gestión Integral se queda los socorristas y actividades deportivas: 712.442 euros en dos años",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Podium Gestión Integral, S.L. el contrato de salvamento y socorrismo en las piscinas municipales y actividades físico-deportivas dirigidas (lote 1: 327.912,67 euros al año, 655.825,34 en dos años) y las clases de tenis y deportes de raqueta (lote 2: 28.308,55 euros al año, 56.617,11 en dos años), IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 712442.45,
+      "importes": [
+        {
+          "concepto": "Lote 1: socorrismo en piscinas y actividades físico-deportivas (2 años)",
+          "eur": 655825.34,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Lote 2: clases de tenis y deportes de raqueta/pala (2 años)",
+          "eur": 56617.11,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "470771Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9.8",
+      "titulo": "Escuela de verano en el colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP San José de Calasanz a usar el colegio del 1 al 30 de julio (8:45 a 14:00) para la 'Escuela de verano 2021', que organiza una persona física con el nombre comercial Arcoiris, con medidas COVID-19 y a su cargo los gastos.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Arcoiris (persona física)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507753N",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "9.9",
+      "titulo": "Apoyo a que 'La noche de los tambores' de Mula sea de Interés Turístico Internacional",
+      "categoria": "organizacion",
+      "resumen": "El Ayuntamiento se adhiere a la petición del Ayuntamiento de Mula y la Asociación de Tamboristas para declarar 'La noche de los tambores' Fiesta de Interés Turístico Internacional.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Mula",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Asociación de Tamboristas de Mula",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "promotora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "506282W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.10",
+      "titulo": "Personas condenadas cumplirán trabajos en beneficio de la comunidad en servicios municipales",
+      "categoria": "otros",
+      "resumen": "A petición de la Dirección General de Ejecución Penal y Reinserción Social, se acepta que varias personas cumplan penas de trabajos en beneficio de la comunidad en los servicios de Festejos, Agricultura y Escuelas Infantiles, con sus responsables como tutores.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Ejecución Penal y Reinserción Social",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507999E",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

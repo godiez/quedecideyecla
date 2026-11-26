@@ -1,0 +1,907 @@
+{
+  "doc": "2025-02-18_JGL_09",
+  "organo": "JGL",
+  "sesion": 9,
+  "fecha": "2025-02-18",
+  "tipo_sesion": "ordinaria",
+  "paginas": 41,
+  "resumen": "La Junta de Gobierno inicia la rescisión del contrato de la Casa de los Arcos con Urgacén Viena 25 porque la obra, pagada con fondos europeos, solo va al 20% y peligra una subvención de más de 3 millones. Paga 554.000 euros en facturas y certificaciones de obra (basuras, deportes, jardines, Mercado Central, zonas peatonales), adjudica el Carnaval 2025 por 62.000 euros y saca a licitación las obras de los Baños Árabes de Los Torrejones (286.000 €) y de la calle España (231.000 €). También cede teatro, auditorio y salas a asociaciones y cambia los festivos de apertura de comercios de diciembre.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 11 de febrero",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: basuras, deportes, jardines, centro de día y proyectos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban seis pagos: los servicios de enero de recogida de basura y limpieza viaria, instalaciones deportivas, jardines y Centro de Día de mayores, el proyecto básico de rehabilitación del Edificio de Cazadores y un geoportal urbanístico.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consultoría Técnica Nexus Geografics, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 400218.22,
+      "importes": [
+        {
+          "concepto": "Recogida de basuras, limpieza viaria y recogida selectiva, enero 2025",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, enero 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, enero 2025",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, enero 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Proyecto básico de rehabilitación del Edificio de Cazadores como centro multifuncional (PIREP, Next Generation EU)",
+          "eur": 24200.0,
+          "entidad": "UTE Neten Consultoría, S.L.L. - García Guisado Arquitectura, S.C.P."
+        },
+        {
+          "concepto": "Base de datos cartográfica y geoportal urbanístico (contrato menor)",
+          "eur": 8983.65,
+          "entidad": "Consultoría Técnica Nexus Geografics, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "495804R, 509033Q, 777199T, 836272P, 854499E, 975633X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de obra: Mercado Central, Casa de los Arcos y zonas peatonales",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de obra: la nº 22 de la remodelación del Mercado Central, la nº 6 del Centro Enoturístico de la Casa de los Arcos y la nº 3 de la mejora de espacios peatonales de la zona de bajas emisiones (las dos últimas con fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 153604.17,
+      "importes": [
+        {
+          "concepto": "Certificación nº 22, remodelación del Mercado Central",
+          "eur": 34341.45,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 6, Centro Enoturístico Casa de los Arcos (PST 'Yecla ES +', Next Generation EU)",
+          "eur": 4351.62,
+          "entidad": "Urgacen Viena 25, S.L."
+        },
+        {
+          "concepto": "Certificación nº 3, mejora de espacios peatonales (1), zonas de bajas emisiones (Next Generation EU)",
+          "eur": 114911.1,
+          "entidad": "Mediterráneo de Obras y Asfaltos, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 900819N, 954929Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia a Colchones Gomarco para derribar una nave industrial en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Colchones Gomarco, S.L. para demoler una nave industrial en la avenida Juan Carlos I (S.U. Las Teresas), con fianzas de 5.189,97 € por reposición de urbanización y 3.500 € por alumbrado y mobiliario, desratización previa y control del amianto.",
+      "entidades": [
+        {
+          "nombre": "Colchones Gomarco, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1020932M",
+      "lugar": "Avenida Juan Carlos I, n.º 63, parcela 10, S.U. Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Denegada licencia para rehabilitar una vivienda fuera de ordenación en El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a un vecino la licencia para rehabilitar una vivienda en El Lentiscar porque el edificio está fuera de ordenación (declarado como vivienda en 2022 sin autorización de uso) y las obras superan las permitidas en ese régimen.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "965795H",
+      "lugar": "paraje El Lentiscar",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Licencia para dividir una finca en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar una parcela de 37.368 m² de una finca de almendros de regadío en suelo no urbanizable general; el resto queda con 9.314 m² y la construcción existente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "940892W",
+      "lugar": "Polígono 42 (suelo no urbanizable general)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Adjudicado el contrato de Carnaval 2025 en tres lotes",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la organización del Carnaval 2025: producción e infraestructura de espectáculos y desfiles a Maximstands (42.346,67 €), vallado ornamental a Decourba 2007 (2.770,90 €) y alumbrado extraordinario a Invemat Levante (16.892,81 €), en todos los casos por mejor precio.",
+      "entidades": [
+        {
+          "nombre": "Maximstands, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 62010.38,
+      "importes": [
+        {
+          "concepto": "Lote 1: servicios técnicos, producción e infraestructura de Carnaval",
+          "eur": 42346.67,
+          "entidad": "Maximstands, S.L."
+        },
+        {
+          "concepto": "Lote 2: vallado ornamental",
+          "eur": 2770.9,
+          "entidad": "Decourba 2007, S.L."
+        },
+        {
+          "concepto": "Lote 3: alumbrado extraordinario ornamental",
+          "eur": 16892.81,
+          "entidad": "Invemat Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1032769C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Elevador transportable para el Auditorio Municipal",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Salvatec Accesibilidad, S.L. para suministrar e instalar un elevador vertical transportable en el Auditorio Juan Miguel Benedito, por 9.020 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Salvatec Accesibilidad, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9020.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1047187C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Publicidad municipal en el semanario Siete Días Yecla en 2025",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de publicidad institucional en Siete Días Yecla durante 2025 con Prensa y Publicaciones de Yecla, por 9.500,07 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Prensa y Publicaciones de Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9500.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1044317Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5",
+      "titulo": "Procesiones de Vía Crucis de la Parroquia del Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Parroquia del Niño Jesús a celebrar procesiones de Vía Crucis el 5 y el 21 de marzo, con apoyo de la Policía Local para el tráfico.",
+      "entidades": [
+        {
+          "nombre": "Parroquia del Niño Jesús",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046635K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Auditorio gratis para la rondalla del Centro de Mayores del IMAS (11 de junio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Centro Social de Personas Mayores (IMAS) para la actuación de la rondalla 'Los de Ayer', con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045996Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Auditorio gratis para el Real Cabildo: cartel de Semana Santa y Nazareno del año",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio al Real Cabildo Superior de Cofradías Pasionarias para presentar el cartel y programa de Semana Santa y nombrar al Nazareno del año (9 de marzo), con rebaja del 100% (120 €) y permiso para un ágape en los soportales.",
+      "entidades": [
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1039624Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Teatro Concha Segura gratis para la gala benéfica de KAPACES",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro Concha Segura a la Asociación para la vida independiente KAPACES para una gala benéfica el 14 de marzo, con rebaja del 100% (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Asociación para la vida independiente, personas con discapacidad funcional, KAPACES",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1044461Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Teatro Concha Segura gratis para la muestra de talleres del Centro de Mayores",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro al Centro de Personas Mayores del IMAS el 5 de junio para la muestra de talleres artísticos de fin de curso, con rebaja del 100% (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045999C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Teatro Concha Segura gratis para un musical benéfico de Manos Unidas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Teatro a Manos Unidas Comarcal Yecla el 8 de marzo para el musical benéfico 'Autopista hacia el Cielo', con rebaja del 100% (1.800 €).",
+      "entidades": [
+        {
+          "nombre": "Manos Unidas Comarcal Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1039959N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Sala del Centro de Emprendimiento para la asamblea de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) a usar la sala de reuniones del Centro de Emprendimiento para su asamblea anual el 25 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1043725T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Sala del Centro de Emprendimiento para una formación de la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Peluqueras de Yecla a usar la sala de reuniones del Centro de Emprendimiento para una actividad formativa el 3 de marzo.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045461E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.8",
+      "titulo": "Aulas del Edificio Bioclimático para exámenes de inglés de Cambridge",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la academia Kensite School, S.L. a usar aulas del Edificio Bioclimático para exámenes de Cambridge English los días 28 de junio y 25 y 26 de julio.",
+      "entidades": [
+        {
+          "nombre": "Kensite School, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045358M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.9",
+      "titulo": "Salón de actos del Bioclimático para un club de lectura (12 de abril)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vecina a usar el salón de actos del Edificio Bioclimático para un club de lectura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046760J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.10",
+      "titulo": "Salón de actos del Bioclimático para un club de lectura (29 de marzo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vecina a usar el salón de actos del Edificio Bioclimático para un club de lectura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045354F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.11",
+      "titulo": "Dos aulas del Bioclimático para un taller de fanzines",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vecina a usar dos aulas del Edificio Bioclimático para un taller de fanzines el 15 de marzo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045356J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.12",
+      "titulo": "Sala del Bioclimático para un curso de poda del olivar de COAG",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG Yecla a usar una sala del Edificio Bioclimático para su segundo curso de poda del olivar para agricultores (24 y 25 de febrero).",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045272R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.13",
+      "titulo": "Salón y aula del Bioclimático para un taller de cajas nido de ANIDA",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Naturista ANIDA a usar el salón de actos y un aula del Edificio Bioclimático para un taller de cajas nido el 22 de febrero.",
+      "entidades": [
+        {
+          "nombre": "Asociación Naturista para la Investigación y Defensa del Altiplano (ANIDA)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045014J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.14",
+      "titulo": "Iglesia de San Francisco para el 25 aniversario de la Cofradía de las Angustias",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Cofradía Nuestra Señora de las Angustias a usar la Iglesia de San Francisco y una sala anexa para una ponencia, vino de honor, concierto y ágape (21 y 22 de marzo).",
+      "entidades": [
+        {
+          "nombre": "Cofradía Nuestra Señora de las Angustias",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1047585E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.15",
+      "titulo": "Iglesia de San Francisco para una exposición sobre el pintor Fernando Carpena",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Real Cabildo Superior de Cofradías Pasionarias a usar la Iglesia de San Francisco del 25 de abril al 25 de mayo para una exposición por el centenario del pintor Fernando Carpena Puche, y se le presta el cuadro municipal 'Bautismo del vino'.",
+      "entidades": [
+        {
+          "nombre": "Real Cabildo Superior de Cofradías Pasionarias de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1047696J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Comercios: se cambian los festivos de apertura del 7 y 8 de diciembre",
+      "categoria": "via_publica_eventos",
+      "resumen": "Para que los comercios no abran el día de la Bajada (7 de diciembre, domingo) ni la Inmaculada (8 de diciembre) y tampoco cierren tres días seguidos, se cambian esos días de apertura autorizada por el 19 de octubre y el 9 de diciembre de 2025.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Empleo y Economía Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046629C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Carnaval Infantil en el Espacio Joven (Plan Corresponsables)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación y un gasto de 726 € para el Carnaval Infantil del 28 de febrero en el Espacio Joven, actividad de conciliación para niños de 5 a 12 años con prioridad para familias vulnerables, acogida a la subvención regional del Plan Corresponsables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 726.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1048008R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Megafonía para la concentración de CC.OO. del 8 de marzo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración de CC.OO. del Altiplano por el Día de la Mujer Trabajadora (8 de marzo, Plaza 8 de Marzo) y se le presta la megafonía municipal.",
+      "entidades": [
+        {
+          "nombre": "Comisiones Obreras (CC.OO.) del Altiplano",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1046081Q",
+      "lugar": "Plaza 8 de Marzo",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Prácticas de alumnas del IES Castillo Puche en las escuelas infantiles",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a diez estudiantes del ciclo superior de Educación Infantil del IES José Luis Castillo Puche a hacer sus prácticas en las Escuelas Infantiles Municipales de marzo a junio.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnado en prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1044028P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Prácticas de dos alumnos del IES Hermanos Amorós (Villena) en escuelas infantiles",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a dos estudiantes del IES Hermanos Amorós de Villena a hacer prácticas en las escuelas infantiles El Parque y Perro Loco de marzo a mayo.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. Hermanos Amorós (Villena)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "envía alumnado en prácticas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1044459N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Pabellón gratis para el 2º Encuentro Interescuelas de Gimnasia Rítmica",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club Gimnasia Rítmica Yecla a celebrar una competición no oficial el 22 de febrero en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 204,75 € y apoyo municipal en la organización.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 204.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042553Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Luz verde para empezar la ampliación de la nave de la ITV en la avenida Adolfo Suárez",
+      "categoria": "licencia_obra",
+      "resumen": "Asunto urgente: presentado el proyecto refundido visado, se autoriza a Priminvertia Yecla, S.L. a iniciar las obras de ampliación de la nave de la estación de ITV, cuya licencia se concedió el 26 de noviembre de 2024.",
+      "entidades": [
+        {
+          "nombre": "Priminvertia Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "965858W",
+      "lugar": "Avenida Adolfo Suárez, n.º 78 (antes Avenida de la Paz, 214), esquina Travesía Tejeras",
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Licitación de las obras de los Baños Árabes de Los Torrejones (285.877 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre la licitación (procedimiento abierto simplificado) de la fase I del Plan Director del yacimiento arqueológico de Los Torrejones (Baños Árabes), con un presupuesto de 285.876,66 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 285876.66,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1042512J",
+      "lugar": "Yacimiento arqueológico de Los Torrejones",
+      "interes": 3
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Licitación de la mejora de aceras en la calle España (231.392 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto y se abre la licitación de las obras de mejora de itinerarios peatonales en la calle España, entre la calle D. Lucio y la Placeta Ortega (Plan de Obras y Servicios 2024/25), por 231.391,93 € IVA incluido.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 231391.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1045370D",
+      "lugar": "Calle España, tramo calle D. Lucio - Placeta Ortega",
+      "interes": 3
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Casa de los Arcos: el Ayuntamiento inicia la rescisión del contrato por abandono de la obra",
+      "categoria": "contrato",
+      "resumen": "La obra del Centro Enoturístico de la Casa de los Arcos (fondos europeos) debía acabar el 22 de enero de 2025 y solo va al 20%; los técnicos hablan de 'abandono técnico', falta de jefe de obra y riesgo de perder una subvención de más de 3 millones. Se archiva el expediente de penalidades (308,56 €/día), se declara incumplimiento culpable de Urgacén Viena 25, S.L. y se le da audiencia de 10 días antes de resolver el contrato, también a la aseguradora de su garantía de 25.714 €.",
+      "entidades": [
+        {
+          "nombre": "Urgacén Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista incumplidora"
+        },
+        {
+          "nombre": "Fiatc Mutua de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aseguradora de la garantía"
+        },
+        {
+          "nombre": "Credicand Suscripción de Riesgos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "agencia de la aseguradora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Plan de negocio para dinamizar el Mercado Central",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Inversus Corporate Finance, S.L. para redactar un plan de negocio que dinamice el Mercado Central, por 17.121,50 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Inversus Corporate Finance, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17121.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035840R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Carpa informativa de Junta Democrática de España en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Junta Democrática de España a instalar una carpa informativa en la Plaza de España el 22 de febrero, de 10:30 a 14:00.",
+      "entidades": [
+        {
+          "nombre": "Junta Democrática de España",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1048162F",
+      "lugar": "Plaza de España",
+      "interes": 1
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Mural pictórico del IES Azorín en el parque de la calle San Cristóbal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una vecina y al IES José Martínez Ruiz 'Azorín' a pintar un mural en el parque de ocio de la calle San Cristóbal esquina Jabonerías (22 y 23 de febrero); el Ayuntamiento aporta material por hasta 200 €.",
+      "entidades": [
+        {
+          "nombre": "I.E.S. José Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1038775T",
+      "lugar": "Parque de calle San Cristóbal esquina calle Jabonerías",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Campo gratis para un partido amistoso del juvenil de la S.D. Fútbol Base Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza a la Sociedad Deportiva Fútbol Base Yecla a jugar un partido no oficial de su juvenil contra el Quart de les Valls el 20 de febrero en el Complejo Juan Palao Azorín, con uso gratuito valorado en 90 €, y se le advierte de que en el futuro debe respetar los plazos de solicitud.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Deportiva Fútbol Base Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 90.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "955119E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "informacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

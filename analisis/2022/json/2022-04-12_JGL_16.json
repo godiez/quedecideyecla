@@ -1,0 +1,980 @@
+{
+  "doc": "2022-04-12_JGL_16",
+  "organo": "JGL",
+  "sesion": 16,
+  "fecha": "2022-04-12",
+  "tipo_sesion": "ordinaria",
+  "paginas": 36,
+  "resumen": "La Junta de Gobierno aprueba un plan de empleo social de 186.000 euros para contratar durante tres meses a 34 personas en riesgo de exclusión, y pide a la Comunidad Autónoma casi 532.000 euros para renovar las calles Cerro, San Antonio y Cervantes. Paga 188.164 euros en facturas (limpieza, deportes, alcantarillado, autobús) y concede licencias a empresas como Interplasp (dos naves en la carretera de Villena) y American Tower (torre de telecomunicaciones). También se corrige el precio del contrato del centro de ocio de 'Cazadores' y se prepara la romería de San Marcos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 5 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: reintegro de una ayuda de empleo, elecciones sindicales y línea eléctrica de una fotovoltaica",
+      "categoria": "informacion",
+      "resumen": "Se informa de: el SEF inicia el reintegro parcial de la subvención del programa de Agentes de Empleo y Desarrollo Local (expte. 2019-02-71-0038); la convocatoria por CC.OO. de elecciones sindicales del personal laboral y funcionario; y la Consejería de Empresa cita para las actas previas a la ocupación (expropiación) de fincas afectadas por la línea de alta tensión de 132 kV que evacuará la planta fotovoltaica 'Cerrillares I' (50 MWp), entre Jumilla y Yecla.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro parcial de subvención"
+        },
+        {
+          "nombre": "Dirección General de Diálogo Social y Bienestar Laboral (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica elecciones sindicales"
+        },
+        {
+          "nombre": "Confederación Sindical de Comisiones Obreras (CC.OO.)",
+          "cif": null,
+          "tipo": "sindicato",
+          "rol": "promueve elecciones sindicales"
+        },
+        {
+          "nombre": "Consejería de Empresa, Empleo, Universidades y Portavocía (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita ocupación de terrenos para línea eléctrica"
+        },
+        {
+          "nombre": "Planta Fotovoltaica 'Cerrillares I'",
+          "cif": null,
+          "tipo": "proyecto",
+          "rol": "línea de evacuación de 132 kV"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "610561C",
+      "lugar": "Polígonos 92 y 93 (línea de alta tensión Cerrillares I)",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza, deportes, alcantarillado, autobús, residuos y más",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban siete pagos por 188.163,72 € en total: limpieza de edificios municipales de marzo, actividades deportivas y socorrismo de febrero, obras de alcantarillado en calle España, autobús urbano de marzo, aportación de febrero al consorcio de residuos, una furgoneta Ford Transit para Agricultura y cursos de artes plásticas de la Universidad Popular.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Forum San Patricio, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Luis Forte e Hijos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Épsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 188163.72,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales, marzo 2022",
+          "eur": 51358.87,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, febrero 2022",
+          "eur": 32408.45,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Renovación de alcantarillado en calle España (Placeta Ortega - calle Numancia)",
+          "eur": 35015.63,
+          "entidad": "Forum San Patricio, S.A."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, marzo 2022",
+          "eur": 26138.87,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Aportación de febrero 2022 al consorcio de residuos",
+          "eur": 21966.39,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Furgoneta Ford Transit para el Servicio de Agricultura",
+          "eur": 14000.0,
+          "entidad": "Luis Forte e Hijos, S.L."
+        },
+        {
+          "concepto": "Cursos de artes plásticas y oficios artísticos de la Universidad Popular, marzo 2022",
+          "eur": 7275.51,
+          "entidad": "Épsilon Servicios Educativos, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X, 470771Z, 532251N, 551537Z, 584325N, 593046A, 521199N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'El Aguafiestas' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo 'El Aguafiestas' (2 de abril): 5.487,80 € recaudados y baja de 3.203,20 € por entradas no vendidas, de un cargo de 8.691 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5487.8,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610190M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de una nave industrial de Proyecto Denver en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Proyecto Denver, S.L. a empezar la construcción de una nave industrial (licencia 314/2021, concedida en agosto de 2021) tras presentar el proyecto de ejecución.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "516874F",
+      "lugar": "Calle Miguel Servet, P.I. Las Teresas (parcela G-89)",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Inicio de obras de una vivienda con piscina en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a dos particulares a empezar la construcción de una vivienda unifamiliar aislada con piscina en un paraje rural (licencia 346/2021).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "532680J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda en el campo en zona inundable",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos particulares licencia para una vivienda aislada con garaje, piscina y almacén en un paraje rural. Condiciones: acreditar la explotación agraria, anotar en el Registro de la Propiedad que está en zona inundable, dejar paso libre al agua bajo el forjado, fosa séptica impermeable y declarar que asumen el riesgo de inundación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524139X (licencia 358/2021)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Legalización de un local convertido en vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una particular licencia para legalizar el cambio de uso de un local a vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "571878A (licencia 514/2021)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Denegado un almacén agrícola por ocupar demasiada parcela",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a una particular la licencia para un almacén agrícola en el paraje Los Quiñones porque la construcción superaría la ocupación máxima de parcela que permite el Plan General (defecto insubsanable).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "559332A (licencia 521/2021)",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia a American Tower para una torre de telecomunicaciones en La Herrada",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a American Tower España, S.L. licencia para construir una infraestructura de soporte (torre) para futuras redes de telecomunicaciones en el polígono industrial La Herrada, con obligación de reponer caminos y gestionar residuos.",
+      "entidades": [
+        {
+          "nombre": "American Tower España, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "564361K (licencia 544/2021)",
+      "lugar": "Calle Infanta Elena, P.I. La Herrada",
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para convertir una planta baja de vivienda en garaje",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia para adaptar la planta baja de una vivienda como garaje, con fianza de urbanización de 300 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "580051C (licencia 4/2022)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Denegación de una licencia urbanística: se deja sobre la mesa",
+      "categoria": "licencia_obra",
+      "resumen": "La propuesta de denegar una licencia urbanística a una particular se deja sobre la mesa para estudiarla mejor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "587632F (licencia 55/2022)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Licencia para una vivienda unifamiliar con garaje entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (con proyecto básico; necesitará otra autorización para empezar) para una vivienda unifamiliar con garaje, con fianza de urbanización de 200 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "590486W (licencia 85/2022)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Licencia a Interplasp para una nave de almacén de espumas (nave 1)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Interplasp, S.L. licencia para una nave industrial de almacenamiento de bloques de espuma de poliuretano (nave 1) en la carretera de Villena. Antes de empezar debe iniciar medidas correctoras (canal perimetral), justificar la autorización ambiental y presentar un plan de compensación ambiental.",
+      "entidades": [
+        {
+          "nombre": "Interplasp, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591479Z (licencia 92/2022)",
+      "lugar": "Ctra. de Villena, polígono 46, parcela 267",
+      "interes": 2
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Licencia a Interplasp para otra nave de almacén de espumas (nave 3)",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Interplasp, S.L. licencia para una segunda nave de almacenamiento de bloques de espuma de poliuretano (nave 3) en la misma parcela, con las mismas condiciones ambientales.",
+      "entidades": [
+        {
+          "nombre": "Interplasp, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "591481C (licencia 93/2022)",
+      "lugar": "Ctra. de Villena, polígono 46, parcela 267",
+      "interes": 2
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Licencia a Interplasp para canales de drenaje en su parcela",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Interplasp, S.L. licencia para construir canales de drenaje en su parcela industrial de la carretera de Villena.",
+      "entidades": [
+        {
+          "nombre": "Interplasp, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "593555H (licencia 110/2022)",
+      "lugar": "Ctra. de Villena, polígono 46, parcela 267",
+      "interes": 1
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Licencia al Banco Sabadell para rehabilitar una cubierta en calle España",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Banco de Sabadell, S.A. licencia para rehabilitar la cubierta de su edificio de la calle España (con informe del director de la Casa de Cultura), con fianza de 550 €.",
+      "entidades": [
+        {
+          "nombre": "Banco de Sabadell, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599478J (licencia 128/2022)",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Permiso a una trabajadora de escuela infantil para un curso de igualdad",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una técnica de educación infantil municipal a asistir a un curso sobre igualdad en escuelas infantiles de la Escuela de Formación de la Administración Pública regional.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610218A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Bacheo de caminos rurales por 20.299,69 €",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (23.016,80 €) y se adjudica por contrato menor a Alicaser, Obras y Servicios, S.L. el parcheo de caminos rurales del término municipal (abril 2022) por 20.299,69 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Alicaser, Obras y Servicios, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 20299.69,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610108Y",
+      "lugar": "Caminos rurales del término municipal",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Técnicos y producción del Teatro y Auditorio en abril y mayo",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a un particular (autónomo) para los servicios de técnicos y producción del Teatro y Auditorio en abril y mayo de 2022, por 17.868,69 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 17868.69,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610202D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Procesión de la Virgen de Lourdes el 24 de abril",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Hospitalidad Murciana de Nuestra Señora de Lourdes una procesión desde la Iglesia Vieja el 24 de abril, con patrulla de Policía Local, prohibición de aparcar junto al santuario del Castillo y vallas en la subida.",
+      "entidades": [
+        {
+          "nombre": "Hospitalidad Murciana de Nuestra Señora de Lourdes",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "603096J",
+      "lugar": "Iglesia Vieja; santuario del Castillo",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "'Musiqueando 2022': música escolar en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a siete colegios (CEIP La Paz, Alfonso X, Herratillas, El Alba, Giner de los Ríos, CEE Virgen de la Esperanza y Colegio La Inmaculada) la actividad de música escolar 'Musiqueando 2022' el 28 de abril en el escenario del parque, con hasta 80 dB, y se les presta electricidad, megafonía y micrófonos.",
+      "entidades": [
+        {
+          "nombre": "CEIP La Paz",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "CEIP Alfonso X",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "CEIP Herratillas",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "CEIP El Alba",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Colegio de Educación Especial Virgen de la Esperanza",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        },
+        {
+          "nombre": "Colegio La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "participa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "606295C",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "La Plaza Mayor se ilumina de amarillo por la osteogénesis imperfecta",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Osteogénesis Imperfecta, la Plaza Mayor se iluminará de amarillo el 6 de mayo, Día Mundial de esta enfermedad.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Osteogénesis Imperfecta",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610422J",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Asociación de Discapacitados Físicos de Yecla (ADFY) se habilita una plaza reservada a personas con discapacidad en la esquina de las calles Águilas y Pintor Juan Albert.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Discapacitados Físicos de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "604659E",
+      "lugar": "Esquina calles Águilas y Pintor Juan Albert",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón del Edificio Bioclimático para un taller de masaje infantil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Española de Masaje Infantil (AEMI) el salón de actos del Edificio Bioclimático el 26 de mayo para un taller y una charla.",
+      "entidades": [
+        {
+          "nombre": "Asociación Española de Masaje Infantil (AEMI)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "611839C",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Plan de empleo social 2022: 186.000 € y 34 contrataciones de tres meses",
+      "categoria": "personal",
+      "resumen": "Se aprueba el Plan Especial 2022 de Inclusión y Reinserción Social a través del Empleo (186.000 €), con programas para personas con discapacidad intelectual, en riesgo de exclusión, con enfermedad mental o drogodependencia y jóvenes menores de 30 años. Se gastan 184.252,07 € en contratar durante tres meses, a 30 h/semana, a 34 personas (oficiales de albañilería, pintura, fontanería y electricidad, capataz, limpiador, conserjes, 20 peones y un auxiliar administrativo) mediante oferta al SEF, y se nombran los tribunales de selección.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe la oferta de empleo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 184252.07,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "603227Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Fiestas de San Marcos 2022 en el Cerrico de la Fuente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de la romería de San Marcos (24 de abril, Cerrico de la Fuente) con un presupuesto de 8.506,30 €, los precios de inscripción del festival de paellas (10 €) y del concurso de gachasmigas (2 €) y el jurado de este concurso (concejal de Festejos, un representante por grupo municipal y dos de la antigua Peña Gachasmiguera).",
+      "entidades": [
+        {
+          "nombre": "Peña Gachasmiguera",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "forma parte del jurado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8506.3,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "610661Q",
+      "lugar": "Cerrico de la Fuente",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Beca de 5.400 € en el Museo Arqueológico",
+      "categoria": "subvencion_concedida",
+      "resumen": "Tras la renuncia del primer clasificado (que obtiene otra beca en la Casa de Cultura), se concede a otro particular la beca de formación de nueve meses (990 horas) en el Museo Arqueológico Municipal 'Cayetano de Mergelina' (MAYE), por 5.400 €, y se crea una lista de espera.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5400.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "578229X",
+      "lugar": "Museo Arqueológico Municipal Cayetano de Mergelina",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegada la tarjeta de residente de zona azul por deudas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina la tarjeta de residente de la zona azul porque no está al corriente de pago con el Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "592856M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Rebaja del 50 % del impuesto de obras para una nave industrial en la avenida Juan Carlos I",
+      "categoria": "fiscal",
+      "resumen": "Se concede a una comunidad de bienes una bonificación del 50 % del ICIO por construir una nave industrial con oficinas: la obra cuesta 1.719.494 € y la cuota era de 56.743,30 €, por lo que se ahorra unos 28.371,65 €.",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "beneficiaria de la bonificación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 28371.65,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "574359X (licencia 561/2021)",
+      "lugar": "Avda. Juan Carlos I",
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Oposición de 22 policías locales: se corrige la lista de admitidos",
+      "categoria": "personal",
+      "resumen": "En el proceso para cubrir 22 plazas de agente de Policía Local (ofertas de empleo de 2018 y 2020) se incluye en la lista definitiva de admitidos a un aspirante que se había omitido por error.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "511880W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Anticipo de nómina de 400 € a una trabajadora municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a una conserje-operaria un anticipo de 400 € de su sueldo, a devolver en ocho meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612282R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Se corrige el precio del contrato del espacio de ocio de 'Cazadores'",
+      "categoria": "contrato",
+      "resumen": "Se corrige el pliego del contrato de gestión y dinamización del espacio de ocio del semisótano de 'Cazadores' porque el estudio económico no incluía los pluses de nocturnidad y festivos del convenio: el precio base pasa a 87.110,70 € al año con IVA (71.992,32 € sin IVA) y el valor estimado a 287.969,28 €. Se amplía el plazo de ofertas hasta el 26 de abril.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 87110.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "575299C (C.SE.1/22)",
+      "lugar": "Edificio de Cazadores (planta semisótano)",
+      "interes": 2
+    },
+    {
+      "ref": "13.5-13.7",
+      "titulo": "Tres terrazas de hostelería: La Ibense III, Cafetería 9 de Julio y Cafetería Ideal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan terrazas de verano (1 de abril a 31 de octubre) a la heladería 'La Ibense III' (68 m² en la plaza Concejala Mª Carmen Lorente) y a la 'Cafetería 9 de Julio' (25 m² en calle Generación del 27), y se permite a la cafetería 'Ideal' trasladar 40 m² de su terraza frente al local contiguo que ha alquilado (antiguo 'La Espiga Dorada'). Los titulares son particulares.",
+      "entidades": [
+        {
+          "nombre": "La Ibense III",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita terraza"
+        },
+        {
+          "nombre": "Cafetería 9 de Julio",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita terraza"
+        },
+        {
+          "nombre": "Cafetería Ideal",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "traslada terraza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "609547T, 610289Z, 551217E",
+      "lugar": "Plaza Concejala Mª Carmen Lorente; calle Generación del 27; avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Se piden 149.986 € a la CARM para renovar la calle Cerro",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita a la Dirección General de Administración Local incluir en el Plan de Obras y Servicios 2022-2023 la renovación de pavimento, alcantarillado y agua potable de la calle Cerro (entre Saliente y travesía de San Cristóbal), presupuestada en 149.986,68 €, pagada al 100 % por la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 149986.68,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612863Z",
+      "lugar": "Calle Cerro",
+      "interes": 2
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Se piden 334.150 € a la CARM para reurbanizar la calle San Antonio",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita a la Dirección General de Administración Local incluir en el Plan de Obras y Servicios 2022-2023 la reurbanización de la calle San Antonio (entre San Francisco y Don Lucio), presupuestada en 334.150,10 €, pagada al 100 % por la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 334150.1,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612835K",
+      "lugar": "Calle San Antonio",
+      "interes": 2
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Se piden fondos a la CARM para renovar redes en la calle Cervantes",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se solicita incluir en el Plan Complementario de Obras y Servicios 2022-2023 la renovación de saneamiento y agua potable de la calle Cervantes (entre Historiador Miguel Ortuño y Maestro Mora), de 47.500 €; el Ayuntamiento pagará la parte que no se subvencione.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "se le pide subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 47500.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612938D",
+      "lugar": "Calle Cervantes",
+      "interes": 2
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Caza en el monte comunal Cerro de las Gamellejas",
+      "categoria": "patrimonio",
+      "resumen": "A petición de la Sociedad de Cazadores San Huberto, el Ayuntamiento pide a la Dirección General de Medio Natural incluir su monte comunal 'Cerro de las Gamellejas' (unas 78-92 ha) en el Plan de Aprovechamiento Cinegético 2022/2023, requisito para poder licitar después la caza en él.",
+      "entidades": [
+        {
+          "nombre": "Sociedad de Cazadores San Huberto de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Dirección General de Medio Natural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "decide la inclusión en el plan cinegético"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "608247N",
+      "lugar": "Monte comunal Cerro de las Gamellejas (polígono 78)",
+      "interes": 2
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Bases para las atracciones y casetas de las Fiestas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar las atracciones, puestos y casetas que se instalarán en las Fiestas de San Isidro 2022.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612952Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Programa del centro de ocio juvenil de 'Cazadores' de abril a junio",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el proyecto de dinamización del centro de ocio del semisótano de 'Cazadores' de abril a junio de 2022, con un presupuesto de 11.700 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11700.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612044M",
+      "lugar": "Edificio de Cazadores (planta semisótano)",
+      "interes": 1
+    },
+    {
+      "ref": "13.14",
+      "titulo": "Afedeco dinamizará el centro de ocio de 'Cazadores' por 8.149 €",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a la asociación Afedeco para dinamizar el centro de ocio del semisótano de 'Cazadores' de abril a junio de 2022, por 8.149 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Afedeco, Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8149.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612029Q",
+      "lugar": "Edificio de Cazadores (planta semisótano)",
+      "interes": 2
+    },
+    {
+      "ref": "13.15",
+      "titulo": "Informe a ESAMUR sobre medidas de ahorro de agua",
+      "categoria": "medio_ambiente",
+      "resumen": "Se envían a la Entidad de Saneamiento y Depuración (ESAMUR) los informes técnicos sobre las medidas de ahorro de agua aplicadas por el Ayuntamiento, como exige la ley regional 6/2006.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "requiere información"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572436A",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

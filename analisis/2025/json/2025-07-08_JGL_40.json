@@ -1,0 +1,727 @@
+{
+  "doc": "2025-07-08_JGL_40",
+  "organo": "JGL",
+  "sesion": 40,
+  "fecha": "2025-07-08",
+  "tipo_sesion": "ordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno corrige y aprueba el programa de conciertos de la Feria de Septiembre 2025 por 165.528 euros (La La Love You, Mago de Oz, Depol y otros). Paga 94.447 euros en facturas (Centro de Día, autobús urbano, reparación de un coche) y reconoce a Actúa 71.919 euros más por seguir con la recogida de basura sin contrato en enero de 2024. Concede siete licencias de obra, deniega la legalización de una terraza cubierta y acepta que Colchones Gomarco renuncie a una nave en Las Teresas para que en ese solar se pueda hacer una ITV.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta del 1 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: anticipo y justificación de ayudas de empleo del SEF",
+      "categoria": "informacion",
+      "resumen": "Se informa de tres resoluciones del Servicio Regional de Empleo y Formación: un anticipo de la subvención para un curso de competencias clave (lengua y matemáticas, con fondos del Ministerio de Educación) y la justificación de las ayudas de Empleo Público Local y de la Red de Agentes de Empleo y Desarrollo Local. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Ministerio de Educación, Formación Profesional y Deportes",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1114191N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Centro de Día, autobús urbano, charlas educativas y reparación de un coche",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el Centro de Día para mayores dependientes y el autobús urbano de junio, un contrato menor de actuaciones educativas en centros escolares (adjudicatario anonimizado) y la reparación de un vehículo Kia Stonic.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Automoción Muñoz García, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 94447.33,
+      "importes": [
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, junio 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Servicio de autobuses urbanos, junio 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Actuaciones educativas para alumnado de Infantil a Bachillerato y FP, profesorado, familias y grupos vulnerables",
+          "eur": 10146.87,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Reparación de un vehículo Kia Stonic",
+          "eur": 11200.98,
+          "entidad": "Automoción Muñoz García, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P, 841943Q, 1025801Z, 1072395N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central y restauración del paraje Las Celadillas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 26 (0 €) de la remodelación del Mercado Central y la certificación final (3.019,54 €) de la restauración paisajística y de zonas húmedas del paraje Las Celadillas, junto a la balsa de la depuradora (Plan de Sostenibilidad Turística, fondos Next Generation).",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        },
+        {
+          "nombre": "Paisajes Forestales del Noroeste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3019.54,
+      "importes": [
+        {
+          "concepto": "Certificación nº 26, remodelación del Mercado Central",
+          "eur": 0.0,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación final, restauración paisajística del paraje Las Celadillas (C.O. 12/24)",
+          "eur": 3019.54,
+          "entidad": "Paisajes Forestales del Noroeste, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 987951E",
+      "lugar": "Mercado Central; paraje Las Celadillas (junto a la balsa de la EDAR)",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Actúa cobra 71.919 euros extra por la recogida de basura de enero de 2024 sin contrato",
+      "categoria": "pago_factura",
+      "resumen": "Como el contrato de basuras y limpieza viaria terminó y el Pleno obligó a Actúa a seguir mientras se licita uno nuevo, se le reconocen 71.919,36 € de indemnización (para evitar el 'enriquecimiento injusto' del Ayuntamiento) por la diferencia entre sus costes reales y la factura pagada en enero de 2024. Se excluyen gastos financieros, amortizaciones e IVA.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 71919.36,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Paralizada la obra de una vivienda en el paraje Casa Igarza por renuncia de sus técnicos",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón de la renuncia del director de obra y del director de ejecución de una vivienda unifamiliar aislada (licencia 818/24, concedida en junio) y las obras quedan paralizadas hasta que se nombren nuevos técnicos y constructor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1022934R",
+      "lugar": "paraje Casa Igarza",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para una vivienda aislada en el paraje Rambla Panizo",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para construir una vivienda unifamiliar aislada con fosa séptica impermeable; para ocuparla necesitará autorización de vertido de la Confederación Hidrográfica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949841Z",
+      "lugar": "paraje Rambla Panizo",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda en hilera en la calle Médico Miguel Rodríguez",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia con proyecto básico (no permite empezar hasta presentar el de ejecución) y una fianza de 486,67 € por urbanización pendiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 486.67,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1024365E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para rehabilitar un local en la calle Ramblizo y se levanta su precinto",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para rehabilitar un local y se levanta la paralización y el precinto de las obras ordenados en diciembre de 2024, sin perjuicio de la sanción que resulte del expediente de infracción urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1034912D",
+      "lugar": "calle Ramblizo",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Suministros Lomar podrá derribar un almacén industrial en el paraje Los Baños",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Suministros Lomar, S.L. para demoler un almacén industrial y acondicionar el terreno.",
+      "entidades": [
+        {
+          "nombre": "Suministros Lomar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1070651Q",
+      "lugar": "paraje Los Baños, polígono 45, parcelas 589 y 590",
+      "interes": 2
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para derribar un edificio entre medianeras en la calle Zaplana",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de demolición con dirección técnica y una fianza de 360,50 € para reponer la urbanización que se dañe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 360.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077717E",
+      "lugar": "calle Zaplana",
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Madrona Patrimonio convertirá un local en vivienda en la calle Ramón Gómez de la Serna",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a Madrona Patrimonio, S.L.U. para cambiar el uso de un local a vivienda; antes de empezar debe acreditar el constructor.",
+      "entidades": [
+        {
+          "nombre": "Madrona Patrimonio, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1084937H",
+      "lugar": "calle Ramón Gómez de la Serna",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Denegada la legalización de una terraza cubierta sin licencia",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a una vecina la licencia para legalizar la cubrición de una terraza, abierta tras un expediente de infracción urbanística, porque no respeta las servidumbres de luces y vistas del Código Civil (art. 3.2.17 del Plan General). Si no se legaliza, se propone la demolición; se le ofrece cita con el arquitecto municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1045928D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Colchones Gomarco renuncia a construir una nave en Las Teresas, donde se quiere hacer una ITV",
+      "categoria": "licencia_obra",
+      "resumen": "Se acepta la renuncia de Colchones Gomarco, S.L. a la licencia de 2020 (concedida antes a GMC Sistemas de Descanso, S.L.) para una nave en la Av. Juan Carlos I, 63, que nunca se empezó. Era requisito para tramitar la licencia que pide Itevemur, S.L. para construir allí una nave de inspección técnica de vehículos (ITV).",
+      "entidades": [
+        {
+          "nombre": "Colchones Gomarco, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "renuncia a licencia"
+        },
+        {
+          "nombre": "GMC Sistemas de Descanso, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular anterior"
+        },
+        {
+          "nombre": "Itevemur, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "436294P",
+      "lugar": "Av. Juan Carlos I, 63, Polígono Industrial Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de un/a ordenanza telefonista para cubrir una baja",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un/a ordenanza telefonista de Servicios Sociales mientras dure la baja médica de la titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1114512J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de un/a peón-operario para la brigada de Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa (o mediante oferta al SEF) a un/a peón-operario para sustituir la baja y el permiso de maternidad de una trabajadora, por la carga de trabajo de fiestas y actos culturales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115536F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contratación de una conserje de Juventud con el Plan de Inserción Social 2025",
+      "categoria": "personal",
+      "resumen": "Se contrata a la aspirante con mayor puntuación, enviada por el SEF, con cargo al Plan de Promoción e Inserción Social a través del Empleo 2025 (150.000 € en total), y se crea una lista de espera con otros dos candidatos.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "envía candidatos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1100516W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Un auxiliar de biblioteca renuncia para ser técnico de museos",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la renuncia, desde el 6 de julio, de un auxiliar de biblioteca llamado para un puesto de técnico de museos en la Casa de Cultura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115469N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Más policías locales de guardia en julio y agosto",
+      "categoria": "personal",
+      "resumen": "Se amplían los servicios mínimos de la Policía Local en verano: de 4 a 5 agentes en las noches de viernes y sábado y en las mañanas de fin de semana; las ausencias se cubrirán con horas extra en lugar de guardias de disponibilidad. Cuenta con el apoyo sindical.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1108419X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Reparación del agua caliente y la calefacción de la piscina cubierta: 11.585 euros",
+      "categoria": "contrato",
+      "resumen": "Se adjudica un contrato menor a Hernández Servicios Climatización, S.L. para reparar el sistema de agua caliente sanitaria y calefacción de la Piscina Municipal Cubierta.",
+      "entidades": [
+        {
+          "nombre": "Hernández Servicios Climatización, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 11584.54,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1086056M",
+      "lugar": "Piscina Municipal Cubierta",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Terraza de verano para la 'Heladería La Ibense III'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 68 m2 del 1 de abril al 31 de octubre de 2025 en la Plaza Concejala Mª Carmen Lorente.",
+      "entidades": [
+        {
+          "nombre": "Heladería La Ibense III (titular particular, C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063085H",
+      "lugar": "Plaza Concejala Mª Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para que Yecla Siglo de Oro proyecte el vídeo de su recreación histórica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos el 15 de julio para proyectar el vídeo de la III Recreación Histórica.",
+      "entidades": [
+        {
+          "nombre": "Asociación Yecla Siglo de Oro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115819Z",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "La Peña Taurina Yeclana usará la Plaza de Toros para el Día del Socio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede la Plaza de Toros el 26 de julio para una misa por los socios difuntos y un vino de honor (máximo 150 personas), condicionado a presentar declaración responsable ante la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Peña Taurina Yeclana",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115407C",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "AFEMY podrá poner aire acondicionado en su local municipal",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza a la Asociación de Salud Mental AFEMY a instalar aparatos de aire acondicionado en la fachada del edificio municipal que tiene cedido, con revisión eléctrica previa, sin verter agua a la calle y con medidas contra ruidos.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Salud Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1112854F",
+      "lugar": "calle de la Amistad, 3",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Plan de seguridad del asfaltado de caminos rurales (Casa Faldeta y Quiñones)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa adjudicataria del parcheo y asfaltado de varios tramos de caminos rurales.",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116082P",
+      "lugar": "caminos de Casa Faldeta y Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de seguridad del asfaltado de varias calles del casco urbano",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la empresa adjudicataria del parcheo y asfaltado de tramos de las calles San Antonio, Rambla de Algezares, Infanta M. Teresa y Arcipreste Esteban Díaz.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1116085T",
+      "lugar": "calles San Antonio, Rambla de Algezares, Infanta M. Teresa y Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Permiso para abrir una zanja en un camino público del paraje El Lentiscar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino abrir una zanja en un camino público para llevar una tubería de agua a su finca, con fianza de 300 € y condiciones técnicas; necesitará además licencia urbanística.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115914F",
+      "lugar": "paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de un curso de inglés B1 de 140 horas",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueba pagar la impartición de un curso de inglés B1 de 140 horas (programación del SEPE), a un adjudicatario anonimizado.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6300.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1064855Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Bolsa de Director/a de la OMIC: admitidos, tribunal y fechas de examen",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 4 aspirantes admitidos, se nombra el tribunal y se fija la valoración de méritos el 3 de octubre y el examen tipo test el 9 de octubre de 2025 en la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1091966W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Viaje de dos técnicas de Desarrollo Local a una jornada de turismo en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la directora y a una agente de la Agencia de Desarrollo Local asistir el 10 de julio a la I Jornada de difusión de Planes de Sostenibilidad Turística y se pagan desplazamiento y comida.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117323N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Pabellón gratis en julio para los entrenamientos del Club Gimnasia Rítmica Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Pabellón José Ortega Chumilla martes, miércoles y jueves por la tarde en julio para preparar el Campeonato Nacional de octubre; uso gratuito valorado en 1.126,15 €. Se advierte al club de que pida los permisos con antelación.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1126.15,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117570F",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "12.5",
+      "titulo": "Se retrasa un día la recepción de las obras de mejora peatonal (zona de bajas emisiones)",
+      "categoria": "contrato",
+      "resumen": "A petición de la contratista, la recepción de las obras de mejora de espacios peatonales del programa de zonas de bajas emisiones (fondos Next Generation) pasa del 10 al 11 de julio.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.6",
+      "titulo": "Conciertos de la Feria de Septiembre 2025: 165.528 euros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se corrigen errores y se aprueba de nuevo el programa de actuaciones de la Feria (12 al 21 de septiembre) por 165.528 € IVA incluido. Lo más caro: La La Love You (60.000 €), Mago de Oz (29.000 €) y Depol (22.000 €); además tributos, musicales infantiles y grupos locales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 165528.0,
+      "importes": [
+        {
+          "concepto": "Conexión Remember (12 sept.)",
+          "eur": 5000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Depol (13 sept.)",
+          "eur": 22000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Tributo Manuel Carrasco y Estopa (14 sept.)",
+          "eur": 6500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil 'Musical Los Tres Cerditos' (16 sept.)",
+          "eur": 4000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil 'Disney Story Musical' (17 sept.)",
+          "eur": 4000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Grupos locales: Abyla, Maneras de Vivir, Vito CorleOne y Cornho (18 sept.)",
+          "eur": 1800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Mago de Oz (19 sept.)",
+          "eur": 29000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "La La Love You (20 sept.)",
+          "eur": 60000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Tributo Raphael (21 sept.)",
+          "eur": 4500.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA 21%",
+          "eur": 28728.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1103228M",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

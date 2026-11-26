@@ -1,0 +1,961 @@
+{
+  "doc": "2024-07-02_JGL_31",
+  "organo": "JGL",
+  "sesion": 31,
+  "fecha": "2024-07-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 44,
+  "resumen": "La Junta de Gobierno rechaza cuatro proyectos de Proyecto Denver, S.L. para levantar 19 naves logísticas en suelo no urbanizable, en un ámbito de más de un millón de metros cuadrados, y también deniega talar un pinar en la carretera de Villena. Paga 312.947 euros en servicios de basura, limpieza y jardines, y además 36.763 euros a Actúa por seguir prestando el servicio sin contrato en abril de 2023. Adjudica las plataformas de 11 paradas de autobús (91.379 euros) y la Escuela Municipal de Vacaciones, y permite convertir un edificio de la calle San Antonio en 17 apartamentos turísticos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 25 y 28 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: el SEF pide devolver parte de una subvención y otras",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Regional de Empleo y Formación (SEF) inicia el reintegro parcial de la subvención del programa de Agentes de Empleo y Desarrollo Local (nº 2022-02-71-0023) y liquida la del curso 'Atención sociosanitaria a personas dependientes en instituciones sociales', y de un escrito de la Consejería de Política Social sobre la financiación de los servicios sociales de atención primaria en 2024. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide reintegro / liquida subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947194Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, limpieza viaria, jardines y renovación de una red de agua",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el tratamiento de residuos de mayo al Consorcio regional, la limpieza viaria y recogida de basura y la conservación de zonas verdes de mayo a Actúa, y una obra de renovación de la red de agua en la avenida de la Paz a FCC Aqualia.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 312946.96,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, mayo 2024",
+          "eur": 77498.8,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Limpieza, mantenimiento y conservación de zonas verdes, mayo 2024",
+          "eur": 48626.09,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza viaria, recogida de residuos y recogida selectiva, mayo 2024",
+          "eur": 180264.34,
+          "entidad": "Actúa Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Obra de renovación de red en avenida de la Paz",
+          "eur": 6557.73,
+          "entidad": "FCC Aqualia, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 538849C, 495804R, 894251Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inurban podrá convertir un edificio de 3 viviendas en 17 apartamentos turísticos",
+      "categoria": "licencia_obra",
+      "resumen": "Se modifica la licencia de 2006 de Inurban, S.A.U. en la calle San Antonio: el proyecto pasa de tres viviendas, locales y sótano a diecisiete apartamentos turísticos, local y sótano. Los apartamentos no podrán usarse como vivienda habitual ni inscribirse por separado; necesitará informe del Instituto de Turismo y una fianza de 735 €.",
+      "entidades": [
+        {
+          "nombre": "Inurban, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "debe informar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780111N",
+      "lugar": "Calle San Antonio",
+      "interes": 3
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia a Mobel Yecla para una nave de fabricación de sillones tapizados",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Mobel Yecla, S.L. licencia (proyecto básico) para construir una nave de fabricación y almacenaje de mobiliario de asiento tapizado; deberá obtener después el título de actividad.",
+      "entidades": [
+        {
+          "nombre": "Mobel Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738018A",
+      "lugar": "Paraje Solana de la Magdalena, polígono 109",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para una vivienda entre medianeras con garaje y piscina",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia (proyecto básico) para construir una vivienda unifamiliar entre medianeras con garaje y piscina, con fianza de 540 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "861533Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Rechazadas 6 naves logísticas de Proyecto Denver en suelo no urbanizable (parajes Quiñones y Rabosera)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza tramitar la autorización excepcional para construir 6 naves de almacén logístico en suelo no urbanizable en parajes Quiñones y Rabosera. Según los informes municipales, la empresa no justifica la necesidad de edificar en un ámbito total de 1.064.757 m² con 381.122 m² de ocupación para ampliar sus instalaciones (cuatro expedientes: 609643C, 754496M, 755795Q y 757783C).",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "609643C",
+      "lugar": "parajes Quiñones y Rabosera",
+      "interes": 3
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Rechazadas 6 naves logísticas de Proyecto Denver en suelo no urbanizable (parajes Las Teresas y Lidonero)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza tramitar la autorización excepcional para construir 6 naves de almacén logístico en suelo no urbanizable en parajes Las Teresas y Lidonero. Según los informes municipales, la empresa no justifica la necesidad de edificar en un ámbito total de 1.064.757 m² con 381.122 m² de ocupación para ampliar sus instalaciones (cuatro expedientes: 609643C, 754496M, 755795Q y 757783C).",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "754496M",
+      "lugar": "parajes Las Teresas y Lidonero",
+      "interes": 3
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Rechazadas 4 naves logísticas de Proyecto Denver en suelo no urbanizable (paraje Las Artesillas)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza tramitar la autorización excepcional para construir 4 naves de almacén logístico en suelo no urbanizable en paraje Las Artesillas. Según los informes municipales, la empresa no justifica la necesidad de edificar en un ámbito total de 1.064.757 m² con 381.122 m² de ocupación para ampliar sus instalaciones (cuatro expedientes: 609643C, 754496M, 755795Q y 757783C).",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "755795Q",
+      "lugar": "paraje Las Artesillas",
+      "interes": 3
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Rechazadas 3 naves logísticas de Proyecto Denver en suelo no urbanizable (paraje Las Teresas)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza tramitar la autorización excepcional para construir 3 naves de almacén logístico en suelo no urbanizable en paraje Las Teresas. Según los informes municipales, la empresa no justifica la necesidad de edificar en un ámbito total de 1.064.757 m² con 381.122 m² de ocupación para ampliar sus instalaciones (cuatro expedientes: 609643C, 754496M, 755795Q y 757783C).",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "757783C",
+      "lugar": "paraje Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Rechazado un lavadero de coches con recarga eléctrica en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se rechaza tramitar la autorización excepcional pedida por un particular para un lavadero manual de vehículos con puntos de recarga eléctrica y aspiradores junto a la Ronda Norte: hay al menos 26 parcelas industriales disponibles, el único motivo es que el promotor es dueño del terreno, la parcela está en un cauce y es casi toda inundable, está a menos de 500 m del suelo residencial y parte podría ser municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "807190Y",
+      "lugar": "Paraje La Hormiga (junto a la Ronda Norte, N-344A)",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de oficial fontanero",
+      "categoria": "personal",
+      "resumen": "Se aprueba la bolsa de empleo de Oficial de Artes y Oficios-Fontanero, con dos aspirantes, para contrataciones temporales, vigente hasta el 31 de diciembre de 2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "885639E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Permiso por lactancia acumulada para una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de las Escuelas Infantiles el permiso retribuido del 9 de julio al 13 de agosto en sustitución de la hora de lactancia, y vacaciones del 14 al 31 de agosto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "950015Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Ayuda por hijo con discapacidad a un trabajador municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a un trabajador municipal la ayuda por hijo con discapacidad del acuerdo de condiciones de trabajo, de 159,93 € al mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 159.93,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949796M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Sillones para el Centro de Día de Mayores Las Teresas",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Yakka Gestión de Interiores, S.L. por 14.515,35 € (IVA incluido) el suministro de sillones para el Centro de Día de Personas Mayores y Dependientes 'Las Teresas', pagado con una subvención para la dependencia (SAAD).",
+      "entidades": [
+        {
+          "nombre": "Yakka Gestión de Interiores, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14515.35,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "946832W",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Adjudicadas las plataformas de 11 paradas de autobús; las pantallas quedan desiertas",
+      "categoria": "contrato",
+      "resumen": "Con fondos europeos Next Generation para zonas de bajas emisiones, se adjudica a Asua B.G. 96, S.L. por 91.379,20 € (IVA incluido) el lote 1 (11 plataformas prefabricadas para paradas del autobús urbano). El lote 2 (postes con pantallas de información) queda desierto: la única oferta, de R3 Recymed, S.L., solo justificaba 6 de las 43 características técnicas exigidas; otra empresa quedó fuera porque su oferta no se pudo abrir.",
+      "entidades": [
+        {
+          "nombre": "Asua B.G. 96, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "R3 Recymed, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "rechazada"
+        },
+        {
+          "nombre": "Capmar Sistemas de Información, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "excluida"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 91379.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "690134W (C.SU. 8/22)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Bar-cafetería del Centro de Ocio Los Rosales en verano",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a una particular el bar-cafetería del Centro de Ocio Los Rosales para el verano de 2024; la adjudicataria paga al Ayuntamiento 303,33 € y deposita 150 € de garantía.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 303.33,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "944959T",
+      "lugar": "Centro de Ocio Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de verano para el Bar R.H.",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 9 m² de el Bar R.H..",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947917C",
+      "lugar": "Calle Francisco Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de verano para la Arrocería Brandy",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 18 m² de la Arrocería Brandy.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949226W",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Terraza de verano para el bar Taguara",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 36 m² de el bar Taguara.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919956R",
+      "lugar": "Plaza de la Concordia",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Terraza de verano para el Hendrix Café",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 8 m² de el Hendrix Café.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947920F",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Terraza de verano para el café-bar Depaso",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre) de 12 m² de el café-bar Depaso.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947916A",
+      "lugar": "Calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Nueva plaza de aparcamiento para personas con discapacidad en calle San Bartolomé",
+      "categoria": "via_publica_eventos",
+      "resumen": "A propuesta de la Policía Local se habilita una plaza de estacionamiento reservada a personas con discapacidad en la calle San Bartolomé.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "940333T",
+      "lugar": "Calle San Bartolomé",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Denegado reponer un espejo de tráfico en el camino Boca del Cántaro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a una vecina reponer un espejo en una curva del camino Boca del Cántaro: la Policía Local considera que hay visibilidad suficiente adecuando la velocidad y que los espejos solo se ponen en calles estrechas.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "944485K",
+      "lugar": "Camino Boca del Cántaro",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Reserva de carga y descarga para un supermercado en calle Rogelio Azorín Navarro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a Larrycari Yecla, S.L. una reserva de 12 m para carga y descarga de su supermercado, de lunes a sábado de 7 a 10 h, con una tasa de 19,13 € por tres trimestres de 2024.",
+      "entidades": [
+        {
+          "nombre": "Larrycari Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19.13,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942433K",
+      "lugar": "Calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón del Centro de Desarrollo Local para las elecciones de la Federación de Peñas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Federación de Peñas de San Isidro el salón de actos del Centro de Desarrollo Local los días 4 y 11 de julio para elegir su junta directiva.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949720F",
+      "lugar": "Centro de Desarrollo Local",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Cambio de fecha y sala para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja celebrar su matrimonio civil en el Salón de Sesiones de la Casa Consistorial el 19 de julio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "948475C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Festival de arte joven Yécora Fest 2024 (16.050 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Juventud organiza del 5 al 7 de julio el 'Festival de Arte Yécora Fest 2024' para promocionar a jóvenes artistas yeclanos y el arte urbano, en el atrio de la Iglesia de San Francisco, con un gasto máximo de 16.050 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 16050.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949798P",
+      "lugar": "Atrio de la Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se amplía hasta el 7 de julio la pintura efímera de la Escuela de Bellas Artes",
+      "categoria": "servicios_actividades",
+      "resumen": "Se prolonga hasta el 7 de julio la actividad 'Pintura efímera' de la Escuela Municipal de Bellas Artes en el parque de la avenida de la Feria, prevista hasta el 15 de junio, para coincidir con el Yécora Fest.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "944420W",
+      "lugar": "Parque de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Nuevos requisitos de documentación para construir viviendas en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se fija la documentación que deben presentar quienes pidan licencia para una vivienda unifamiliar ligada a una explotación agraria en suelo no urbanizable: inscripción en registros de explotaciones, escrituras, planos, acceso rodado y cómo resolverán agua, luz y saneamiento con informes de las compañías, entre otros. El motivo es que muchas viviendas no justificaban tener agua potable o vertían aguas al subsuelo sin autorización.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "943956A",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Plan de seguridad y salud de la obra de itinerarios peatonales de calle del Niño, Pintor Aguirre y Carlos III",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de mejora de itinerarios peatonales en las calles del Niño, Pintor Aguirre y Carlos III (zonas de bajas emisiones, fondos europeos), elaborado por la adjudicataria Mediterráneo de Obras y Asfaltos, S.A.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "867238Y",
+      "lugar": "Calles del Niño, Pintor Aguirre y Carlos III",
+      "interes": 1
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Pago de una pala Terex para la Brigada de Obras",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar una pala Terex para la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "Soluciones de Maquinaria y Distribuciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8039.4,
+      "importes": [
+        {
+          "concepto": "Pala Terex para la Brigada de Obras",
+          "eur": 8039.4,
+          "entidad": "Soluciones de Maquinaria y Distribuciones, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922330P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Denegada la tala de un pinar donde se van a construir dos naves en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega a Hernández Cerdán Inmuebles, S.L. la licencia para talar toda la masa de árboles de una finca donde 40 Grados Lencería, S.L. tiene autorización regional para dos naves textiles: esa autorización se informó favorablemente precisamente porque se conservaban los árboles, y las directrices regionales prohíben ocupar masas arbóreas. Solo se podrán talar pinos enfermos o con riesgo de caída si se justifica.",
+      "entidades": [
+        {
+          "nombre": "Hernández Cerdán Inmuebles, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "40 Grados Lencería, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "promotor de las naves"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "875422P",
+      "lugar": "Paraje Marrañaos (carretera de Villena), polígono 47",
+      "interes": 3
+    },
+    {
+      "ref": "13.3",
+      "titulo": "Un albañil de la Brigada de Obras hará guardias por las bajas de compañeros",
+      "categoria": "personal",
+      "resumen": "Se asigna provisionalmente a un oficial de albañilería el servicio de guardias semanales de la Brigada de Obras, con su complemento de penosidad, mientras dos de los cuatro trabajadores de guardias están de baja.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "950706A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.4",
+      "titulo": "Plan de accesibilidad turística del Plan de Sostenibilidad Turística",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Puntodis Accesible Solutions In Sign-Writting, S.L. por 12.098,79 € (IVA incluido) el 'Plan de Accesibilidad Turística, Formación y Sensibilización' del Plan de Sostenibilidad Turística 'Yecla ES+' (fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Puntodis Accesible Solutions In Sign-Writting, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 12098.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933510R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.5",
+      "titulo": "Formación en inteligencia turística para empresarios",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Inteligencia Turística, S.L. por 13.310 € (IVA incluido) la formación en inteligencia turística a gestores y empresarios, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' (fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Inteligencia Turística, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13310.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931106D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.6",
+      "titulo": "Adjudicada la Escuela Municipal de Vacaciones para dos cursos",
+      "categoria": "contrato",
+      "resumen": "Se adjudica la Escuela Municipal de Vacaciones (verano, Navidad y Semana Santa) de 2024/25 y 2025/26: el lote 1 a Epsilon Servicios Educativos, S.L. por 33.445,91 € al año y la limpieza de las instalaciones a Técnicas y Servicios Integrales de Levante, S.L. por 4.284,32 € al año (IVA incluido).",
+      "entidades": [
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 37730.23,
+      "importes": [
+        {
+          "concepto": "Lote 1: Escuela Municipal de Vacaciones (precio anual)",
+          "eur": 33445.91,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Lote 2: limpieza de las instalaciones (precio anual)",
+          "eur": 4284.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931170R (C.SE. 6/24)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.7",
+      "titulo": "Actúa cobra 36.763 € extra por seguir con la basura sin contrato (abril 2023)",
+      "categoria": "pago_factura",
+      "resumen": "Se reconoce a Actúa Servicios y Medio Ambiente, S.L. una indemnización de 36.763,52 € para evitar el enriquecimiento injusto del Ayuntamiento: la empresa siguió prestando la recogida de basura y limpieza viaria tras acabar su contrato, y se le paga la diferencia de costes reales de abril de 2023 (sin beneficio industrial, gastos financieros ni IVA).",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36763.52,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13.8",
+      "titulo": "Calendario de mejoras del nuevo contrato de jardines de Actúa",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el calendario para ejecutar las mejoras que ofreció Actúa Servicios y Medio Ambiente, S.L. en el nuevo contrato de mantenimiento de jardines y zonas verdes, iniciado el 1 de junio.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "944760R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.9",
+      "titulo": "Puesto de Cruz Roja en el mercadillo para su proyecto de empleo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Cruz Roja Española de Yecla una mesa informativa en el mercadillo de la calle San Francisco-Parque de la Constitución los días 26 de junio, 10 de julio y 14 de agosto para promocionar su proyecto de empleabilidad.",
+      "entidades": [
+        {
+          "nombre": "Cruz Roja Española de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949336Y",
+      "lugar": "Parque de la Constitución-Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "13.10",
+      "titulo": "Salas de Juventud para la escuela de verano de 'No hay límite Yecla'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden salas del Edificio Bioclimático y el sótano del Edificio de Cazadores en julio a la asociación 'No hay límite Yecla' para su escuela de verano para niños y adolescentes con diversidad funcional.",
+      "entidades": [
+        {
+          "nombre": "Asociación No hay límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951482D",
+      "lugar": "Edificio Bioclimático y Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "13.11",
+      "titulo": "Uso de instalaciones deportivas en verano: escuelas y campus, con cesión gratuita valorada en 3.878 €",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el uso de las instalaciones deportivas municipales en verano a varias escuelas de verano (AFEDECO, Psico-Educa Yecla, Estudio de Danza Crearte, Montessori Yecla, AFEMY y AMPY) y los campus de triatlón y baloncesto, con colaboración municipal. El uso gratuito se valora en 185,50 € para AFEMY, 1.083 € para AMPY, 1.448,50 € para Red Deportiva Yecla y 1.160,80 € para el Club Triatlón Arabí Yecla.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "beneficiaria"
+        },
+        {
+          "nombre": "AFEDECO Asociación de Formación y Desarrollo Comunitario en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Psico-Educa Yecla, C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Estudio de Danza Crearte",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Montessori Yecla, C.B.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3877.8,
+      "importes": [
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 185.5,
+          "entidad": "Asociación de Familiares y Personas con Enfermedad Mental de Yecla (AFEMY)"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 1083.0,
+          "entidad": "Asociación de Personas con Discapacidad Intelectual de Yecla (AMPY)"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones: Campus de Baloncesto",
+          "eur": 1448.5,
+          "entidad": "Red Deportiva Yecla"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones: Campus Municipal de Triatlón",
+          "eur": 1160.8,
+          "entidad": "Club Triatlón Arabí Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "951411E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.12",
+      "titulo": "Se pide a la UNED más tutorías de Educación Infantil en el aula de Yecla",
+      "categoria": "convenio",
+      "resumen": "Dentro del convenio con el Centro Asociado de la UNED en Cartagena, se pide impartir en Yecla la tutoría del Grado en Educación Infantil en 2024/25, por su alta demanda, dejando si es necesario las de ADE y Educación Social, con poca demanda.",
+      "entidades": [
+        {
+          "nombre": "Consorcio del Centro Asociado de la UNED en Cartagena",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "convenio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "508873T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13.13",
+      "titulo": "Protección Civil de Yecla colaborará en una carrera en Montealegre del Castillo",
+      "categoria": "organizacion",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil a colaborar en la carrera popular de Montealegre del Castillo el 6 de julio.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Montealegre del Castillo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "946797X",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

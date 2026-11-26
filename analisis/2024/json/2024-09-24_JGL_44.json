@@ -1,0 +1,831 @@
+{
+  "doc": "2024-09-24_JGL_44",
+  "organo": "JGL",
+  "sesion": 44,
+  "fecha": "2024-09-24",
+  "tipo_sesion": "ordinaria",
+  "paginas": 34,
+  "resumen": "La Junta de Gobierno adjudica dos obras con fondos europeos: la mejora de espacios peatonales de la zona de bajas emisiones a Mediterráneo de Obras y Asfaltos por 1,15 millones y el jardín vertical junto al Mercado Central a Acer Proyectos y Obras por 181.490 euros. Aprueba el padrón del IBI rústico (299.099 euros), el festival Jazz Yecla 2024 (57.894 euros) y la campaña de comercio 'Yecla Con Sentido'. El SEF reclama al Ayuntamiento parte de dos subvenciones de formación de 2022 y se jubila el secretario accidental.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 17 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "El SEF pide devolver parte de la subvención del curso 'Yecla Integra 2022'",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Regional de Empleo y Formación inicia un procedimiento para que el Ayuntamiento devuelva parte de la subvención recibida para la acción formativa 'Yecla Integra 2022'. No se indica la cantidad.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947234D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "El SEF pide devolver parte de la subvención de 'Yecla potenciajoven 2022'",
+      "categoria": "informacion",
+      "resumen": "Se informa de otro procedimiento del SEF para el reintegro parcial de la subvención de la acción formativa 'Yecla potenciajoven 2022'. No se indica la cantidad.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "reclama reintegro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "947234D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: espectáculo 'Hora Zulú' y licencias Fortinet",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la actuación 'Hora Zulú' y las licencias de ciberseguridad Fortinet de 2024.",
+      "entidades": [
+        {
+          "nombre": "Gabinas de Cochero, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nextret, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18590.2,
+      "importes": [
+        {
+          "concepto": "Actuación 'Hora Zulú' (contrato menor privado)",
+          "eur": 8470.0,
+          "entidad": "Gabinas de Cochero, S.L."
+        },
+        {
+          "concepto": "Licencias Fortinet 2024",
+          "eur": 10120.2,
+          "entidad": "Nextret, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "964167X, 952576Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones 1 y 2 de la obra del centro enoturístico de Casa de los Arcos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban las dos primeras certificaciones de la obra del Centro Enoturístico y mejora de eficiencia energética en Casa de los Arcos (Plan de Sostenibilidad Turística 'Yecla es +', fondos europeos Next Generation).",
+      "entidades": [
+        {
+          "nombre": "Urgacen Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 24149.57,
+      "importes": [
+        {
+          "concepto": "Certificación nº 1 obra Centro Enoturístico Casa de los Arcos",
+          "eur": 6664.17,
+          "entidad": "Urgacen Viena 25, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2 obra Centro Enoturístico Casa de los Arcos",
+          "eur": 17485.4,
+          "entidad": "Urgacen Viena 25, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Padrón del IBI rústico 2024: 299.099 € a cobrar",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el padrón del IBI de fincas rústicas de 2024: 10.185 recibos (3.696 no exentos), 303.277,17 € menos 4.178,44 € de bonificación por domiciliar = 299.098,73 €. Pago voluntario del 11 de octubre al 13 de diciembre; cargo de domiciliados el 28 de noviembre.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 299098.73,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "979798F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Cuota anual de 18.000 € al grupo de desarrollo rural Leader del Nordeste",
+      "categoria": "pago_factura",
+      "resumen": "Se reconoce el pago de la cuota municipal de 2024 a la Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia (Leader).",
+      "entidades": [
+        {
+          "nombre": "Asociación para el Desarrollo Comarcal del Nordeste de la Región de Murcia (Leader)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 18000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "980505N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contratación de un fontanero para la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un oficial fontanero para sustituir a un trabajador en excedencia forzosa, por el volumen de trabajo y las guardias de fontanería.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976309K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso de lactancia acumulado para una técnica de Educación Infantil",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica de Educación Infantil el permiso de lactancia acumulado (7 nov. 2024-21 ene. 2025) y sus vacaciones de 2024 a continuación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "979473E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Reducción de jornada de una técnica municipal para cuidar a un familiar",
+      "categoria": "personal",
+      "resumen": "Se concede a una técnica municipal una reducción de jornada no retribuida del 25,4% en octubre y noviembre para cuidado de un familiar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975004Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Teletrabajo excepcional de una auxiliar de Personal para hacer las nóminas",
+      "categoria": "personal",
+      "resumen": "Se aprueba el teletrabajo de una auxiliar administrativa de Personal del 17 al 20 de septiembre: estaba de baja por una lesión y pidió el alta voluntaria para poder sacar la nómina de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977366D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Jubilación de un auxiliar inspector de Rentas tras más de 35 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de un auxiliar inspector de Rentas el 11 de octubre y se le agradecen más de 35 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "979862W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Jubilación del secretario accidental",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación del técnico de Administración General que ejerce de secretario accidental, el 31 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "981141X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Jubilación anticipada de un policía local",
+      "categoria": "personal",
+      "resumen": "Se toma razón de que un agente de la Policía Local se acoge a la jubilación anticipada para policías locales con efectos del 20 de diciembre, tras más de 35 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "979850D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "La Universidad de Murcia creará una ruta lingüística turística por 19.940 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la Universidad de Murcia un contrato menor para crear el contenido de una 'Ruta Lingüística por la ciudad de Yecla' para la plataforma turística del Plan de Sostenibilidad Turística (fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19940.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "950855H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Geoportal urbanístico y base de datos cartográfica por 17.967 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Consultoría Técnica Nexus Geografics un contrato menor para implantar una base de datos cartográfica y un geoportal urbanístico municipal.",
+      "entidades": [
+        {
+          "nombre": "Consultoría Técnica Nexus Geografics, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17967.26,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975633X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Mesa informativa de AMITES en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AMITES Yecla un puesto informativo en el mercadillo de calle San Francisco-Parque de la Constitución el 25 de septiembre, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "AMITES Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978745T",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Mesa informativa de AFAY (alzhéimer) en el mercadillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla un puesto informativo en el mercadillo el 25 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla (AFAY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "978745T",
+      "lugar": "calle San Francisco-Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Petición de badenes en el camino de La Cañada: la Policía Local lo desaconseja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una vecina pide bandas reductoras de velocidad en el camino de La Cañada. La Policía Local informa en contra (camino estrecho y recto, límite de 40 km/h, ruido para los vecinos; solo se ponen en casco urbano y junto a colegios). El acta no recoge el acuerdo final.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "965580J",
+      "lugar": "camino del paraje La Cañada",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 5 de octubre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973376M",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 11 de octubre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975373K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 9 de noviembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973278A",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 19 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962408D",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 15 de noviembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "979211Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Salón de Sesiones del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Sesiones (3ª planta) de la Casa Consistorial para una boda civil el 23 de noviembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975315E",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Salón de Plenos del Ayuntamiento para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Salón de Plenos (1ª planta) de la Casa Consistorial para una boda civil el 14 de junio de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "972929Q",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Salas del Edificio Bioclimático para Orgullo Crítico Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Orgullo Crítico Yecla el uso de salas y salón de actos del Edificio Bioclimático para reuniones y asambleas periódicas durante el curso (el acta pone por error 'hasta el 31 de julio de 2024').",
+      "entidades": [
+        {
+          "nombre": "Asociación Orgullo Crítico Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981166F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Aula del Edificio Bioclimático para un club de lectura",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un aula del Edificio Bioclimático a una vecina para un club de lectura los días 5 y 26 de octubre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "979563E",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Auditorio gratis para una conferencia de AMITES sobre salud mental",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito a AMITES Yecla el 3 de octubre para una conferencia abierta sobre salud mental, con el 100% de rebaja en el precio público (120 €).",
+      "entidades": [
+        {
+          "nombre": "AMITES Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "975246J",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Se renumeran los edificios de la Avenida Adolfo Suárez",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "El antiguo tramo de la Avenida de la Paz (de Avenida de San Pablo a la carretera de Jumilla) se llama Avenida Adolfo Suárez desde 2011, pero nunca se cambió la numeración. Ahora se renumeran los inmuebles y se comunica al Catastro y a los propietarios.",
+      "entidades": [
+        {
+          "nombre": "Gerencia Regional del Catastro",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe comunicación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "973721Q",
+      "lugar": "Avenida Adolfo Suárez",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa del Jazz Yecla 2024: 57.894 € y entradas a 6 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa del festival Jazz Yecla 2024 (1 a 5 de octubre), con un presupuesto de 57.894,30 € y entrada a 6 € por concierto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 57894.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "962885Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Sala Las Herratillas gratis para las '12 Horas de Voleibol'",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza a la Red Deportiva Yecla a celebrar las '12 Horas de Voleibol' el 28 de septiembre en la Sala Escolar Las Herratillas, con uso gratuito (valorado en 157,20 €) y apoyo municipal.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 157.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "932479K",
+      "lugar": "Sala Escolar Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Autorizada la marcha nocturna de trail y senderismo Yecla-Caudete",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Excursionista de Yecla la actividad no competitiva de trail y senderismo nocturno Yecla-Caudete del 28 de septiembre, solo en el tramo del término de Yecla y con condiciones ambientales y de seguridad.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "961407N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "'Catas clandestinas 2024' de la Ruta del Vino en el Monte Arabí",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Ruta del Vino de Yecla la actividad 'Catas clandestinas 2024' el 29 de septiembre en los merenderos junto al punto de información del Monte Arabí, con las condiciones de sanidad y medio ambiente.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "979514M",
+      "lugar": "merenderos del Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "13.1",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976280W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13.2",
+      "titulo": "Tarjeta de residente de zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "976292M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Contrato de un psicólogo para prevención de adicciones y ocio de menores",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata de la bolsa de empleo a un psicólogo a jornada completa durante el curso 2024/25 para el programa de prevención de adicciones y el proyecto de ocio para menores en riesgo, pagado con una subvención nominativa de la Comunidad Autónoma.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "971955N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Jardín vertical junto al Mercado Central: adjudicado por 181.490 €",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a Acer Proyectos y Obras la obra del jardín vertical en el entorno del Mercado Central (adaptación al cambio climático del casco antiguo, Plan de Sostenibilidad Turística con fondos europeos). Obtuvo 92,8 de 100 puntos.",
+      "entidades": [
+        {
+          "nombre": "Acer Proyectos y Obras, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 181489.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939349C",
+      "lugar": "entorno del Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Mejora de espacios peatonales (zona de bajas emisiones): adjudicada por 1,15 millones",
+      "categoria": "contrato",
+      "resumen": "Urgente: se adjudica a Mediterráneo de Obras y Asfaltos la obra de mejora de los espacios para peatones (1) del programa de zonas de bajas emisiones, financiada con fondos europeos Next Generation. Obtuvo la máxima puntuación en todos los criterios.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1145389.85,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "954929Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Aulas del Edificio Bioclimático para el IES José Luis Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se ceden aulas y salón de actos del Edificio Bioclimático al IES José Luis Castillo Puche durante el curso 2024/25 para clases del ciclo superior de Enseñanza y Animación Sociodeportiva.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981623Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Sala del Centro de Emprendimiento para yoga de la AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se cede a la Asociación de Yecla de Afectados de Cáncer la sala de reuniones del Centro de Emprendimiento para clases de yoga los lunes y miércoles, de octubre a julio.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981930R",
+      "lugar": "Centro de Emprendimiento (calle Arcipreste Esteban Díaz)",
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Programa 'Yecla Con Sentido' para promocionar el comercio local: 16.216 €",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: se aprueba el programa de promoción del comercio local 'Yecla Con Sentido' (3 a 12 de octubre) en el atrio y la sala de exposiciones de la Iglesia de San Francisco, con un presupuesto de 16.215,50 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 16215.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "947669H",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Se piden 9.746 € de fondos europeos para ordenadores de Servicios Sociales",
+      "categoria": "subvencion_recibida",
+      "resumen": "Urgente: el Ayuntamiento manifiesta su interés en recibir 9.745,53 € del Plan de Recuperación (proyecto de impulso de las TIC en Servicios Sociales) para material informático del Centro de Servicios Sociales, y se compromete a pagar el IVA en 2025.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Servicios Sociales, Tercer Sector y Gestión de la Diversidad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Ministerio de Derechos Sociales, Consumo y Agenda 2030",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9745.53,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "981160Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Agua potable para las obras de una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Urgente: se autoriza el suministro de agua potable para las obras de una vivienda unifamiliar en suelo no urbanizable con licencia de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "949583Q",
+      "lugar": "Senda de los Jinetes",
+      "interes": 1
+    },
+    {
+      "ref": "14.9",
+      "titulo": "Taller de marcha nórdica de la AYAC en la Avenida Abad José Sola",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a la Asociación de Yecla de Afectados por el Cáncer un taller de iniciación a la marcha nórdica en la zona peatonal de la Avenida Abad José Sola el 29 de septiembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "977732M",
+      "lugar": "Avenida Abad José Sola",
+      "interes": 1
+    }
+  ]
+}

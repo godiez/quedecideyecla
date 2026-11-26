@@ -1,0 +1,97 @@
+{
+  "doc": "2026-05-08_JGL_23",
+  "organo": "JGL",
+  "sesion": 23,
+  "fecha": "2026-05-08",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 5,
+  "resumen": "Sesión urgente de dos asuntos de obras. La obra de mejora del entorno de la antigua estación de tren sube de precio: el contrato con Asfaltos y Construcciones Aitana, S.L. pasa a 561.853,44 € (55.490,43 € más) y tendrá un mes más de plazo. También se autoriza modificar el proyecto de la Casa de los Arcos (centro enoturístico financiado con fondos europeos).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se confirma por unanimidad que la sesión se convoca con carácter urgente.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1282447C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "La obra del entorno de la antigua estación de tren cuesta 55.490 € más",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el proyecto modificado y la modificación del contrato de obras con Asfaltos y Construcciones Aitana, S.L., que pasa de 506.363,01 € a 561.853,44 € (IVA incluido, +10,96 %) por corregir errores u omisiones del proyecto, con un mes más de plazo. Las obras estaban suspendidas desde el 23 de marzo de 2026. Obra del Plan de Obras y Servicios (P.O.S. 2024/25).",
+      "entidades": [
+        {
+          "nombre": "Asfaltos y Construcciones Aitana, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 55490.43,
+      "importes": [
+        {
+          "concepto": "Precio inicial de adjudicación (IVA incl.)",
+          "eur": 506363.01,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Nuevo precio del contrato (IVA incl.)",
+          "eur": 561853.44,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Gasto complementario aprobado",
+          "eur": 55490.43,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        },
+        {
+          "concepto": "Garantía definitiva actualizada",
+          "eur": 23217.08,
+          "entidad": "Asfaltos y Construcciones Aitana, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Entorno de la antigua estación de tren",
+      "interes": 3
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Se autoriza modificar el proyecto de obra de la Casa de los Arcos",
+      "categoria": "contrato",
+      "resumen": "Se permite a la dirección facultativa modificar el proyecto técnico de la obra para terminar el centro enoturístico y mejorar la eficiencia energética de la Casa de los Arcos (Plan de Sostenibilidad Turística 'Yecla es +', fondos Next Generation EU). Aún no se fija coste.",
+      "entidades": [
+        {
+          "nombre": "Unión Europea (Next Generation EU-PRTR)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122691T",
+      "lugar": "Casa de los Arcos",
+      "interes": 2
+    }
+  ]
+}

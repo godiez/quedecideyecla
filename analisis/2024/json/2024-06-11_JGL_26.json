@@ -1,0 +1,738 @@
+{
+  "doc": "2024-06-11_JGL_26",
+  "organo": "JGL",
+  "sesion": 26,
+  "fecha": "2024-06-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 42,
+  "resumen": "La Junta de Gobierno paga 122.371 euros en facturas (limpieza de edificios, autobús urbano, cobro de basuras, cursos y un festejo taurino) y abre las licitaciones de la Escuela Municipal de Vacaciones (129.719 euros) y de 'Verano en Danza 2024' (32.125 euros). Pide a la Confederación Hidrográfica del Segura que impida los cañones antigranizo por la sequía, reconoce a dos vecinos parcelas que el Catastro ponía a nombre del Ayuntamiento en el monte Algezares y Castillarejos y convoca 8 becas de arqueología. También autoriza obras, terrazas, eventos deportivos y la zanja de una planta fotovoltaica.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 5 de junio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: el SEPE deniega una ayuda del Programa Tándem",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Servicio Público de Empleo Estatal ha denegado al Ayuntamiento la subvención del 'Programa Tándem en entidades del sector público estatal' porque el Ayuntamiento no puede ser beneficiario según la convocatoria.",
+      "entidades": [
+        {
+          "nombre": "Servicio Público de Empleo Estatal (SEPE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "deniega subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "936937C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza de edificios, autobuses, basuras, cursos y festejo taurino",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: limpieza de edificios municipales (marzo), autobús urbano (mayo), cobranza de la tasa de basuras (abril), cursos de la Universidad Popular (mayo) y el festejo taurino de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Tauromagia y Eventos, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 122370.86,
+      "importes": [
+        {
+          "concepto": "Servicio de autobuses urbanos, mayo 2024",
+          "eur": 29117.39,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Festejo taurino en la Plaza de Toros por las Fiestas de San Isidro (12/5/2024), contrato menor",
+          "eur": 7000.0,
+          "entidad": "Tauromagia y Eventos, S.L.U."
+        },
+        {
+          "concepto": "Cobranza de la tasa de recogida de basuras, abril 2024",
+          "eur": 14719.95,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Cursos de la Universidad Popular de artes plásticas y oficios artísticos, mayo 2024",
+          "eur": 7334.2,
+          "entidad": "Epsilon Servicios Educativos, S.L."
+        },
+        {
+          "concepto": "Limpieza de edificios municipales, marzo 2024",
+          "eur": 64199.32,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "841943Q, 895167N, 916684Y, 628370M, 777197Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 50% del IBI por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 50% del IBI durante cinco años (2025-2029, máximo 100 € al año) por instalar placas solares de autoconsumo en su vivienda (inversión de 6.157,02 €, por encima del mínimo de 6.000 €).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "939433T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 50% del impuesto de obras (ICIO) por placas solares a una empresa",
+      "categoria": "fiscal",
+      "resumen": "Se concede a Víctor Manuel Gaspar Palao, S.L. la bonificación del 50% del ICIO de la instalación fotovoltaica en un inmueble de uso industrial (declaración responsable 346/24).",
+      "entidades": [
+        {
+          "nombre": "Víctor Manuel Gaspar Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recibe bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "933332W",
+      "lugar": "Polígono 113, parcela 298",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar las obras de una vivienda aislada con piscina en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el inicio de las obras de una vivienda unifamiliar aislada con piscina (licencia 318/2018, proyecto modificado en marzo de 2024), una vez aportada la documentación pendiente.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "64341N",
+      "lugar": "Paraje La Pujola, polígono 112, parcela 164",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Morales Puche renuncia a construir una de sus tres naves en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Se acepta la renuncia de Morales Puche, S.L. a la parte de su licencia de 2021 que correspondía al edificio 1 de las tres naves industriales previstas; los edificios 2 y 3 ya tenían permiso de inicio.",
+      "entidades": [
+        {
+          "nombre": "Morales Puche, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "renuncia a licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505742W",
+      "lugar": "Paraje Las Teresas, polígono 46, parcela 292",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Inurban puede empezar el edificio de 9 apartamentos en calle Escuelas Pías",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Inurban, S.A.U. el inicio de las obras de un edificio de 9 apartamentos y locales (licencia 733/2023), con la condición de pagar la fianza y hacer el replanteo con los técnicos municipales.",
+      "entidades": [
+        {
+          "nombre": "Inurban, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "844245N",
+      "lugar": "Calle Escuelas Pías, 16",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Bolsa de empleo de arquitecto técnico (3 aspirantes)",
+      "categoria": "personal",
+      "resumen": "Se aprueba la bolsa de empleo de arquitecto técnico, con tres aspirantes ordenados por puntuación del concurso-oposición, para nombramientos interinos o contratos temporales; vigente hasta el 31 de diciembre de 2027.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "879049C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato de un limpiador para el Ayuntamiento en verano",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un limpiador para la Casa Consistorial del 15 de julio al 20 de septiembre de 2024, por las vacaciones del personal y el aumento de actos en verano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938311K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Un policía local hará cursos de reanimación (RCP) y desfibrilador",
+      "categoria": "personal",
+      "resumen": "Se ordena a un agente de la Policía Local asistir a cursos de RCP, desfibrilación e instructor de soporte vital de la SEMICYUC; el Ayuntamiento paga inscripción y desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Española de Medicina Intensiva, Crítica y Unidades Coronarias (SEMICYUC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938825Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Excedencia para cuidar a un hijo de una inspectora de obras",
+      "categoria": "personal",
+      "resumen": "Se concede a una inspectora de obras auxiliar una excedencia voluntaria por cuidado de hijo menor de tres años del 1 al 21 de julio de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941003Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Anticipo de sueldo de 3.000 € a una limpiadora municipal",
+      "categoria": "personal",
+      "resumen": "Se concede a una limpiadora municipal un anticipo de 3.000 € de su sueldo, que devolverá en la forma reglamentaria.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 3000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938953C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Licitación de la Escuela Municipal de Vacaciones 2024-2026 (129.719 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación del servicio de Escuela Municipal de Vacaciones (verano, Navidad y Semana Santa) para dos cursos, con dos lotes: actividades (36.000 €/año) y limpieza (3.240 €/año). Valor estimado 129.719,04 €; gasto de 24.000 € en 2024, 39.240 € en 2025 y 15.240 € en 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 129719.04,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "931170R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Bases para adjudicar el bar de 'Verano en Danza 2024'",
+      "categoria": "contrato",
+      "resumen": "Se aprueban las bases para adjudicar mediante contrato menor el servicio de bar de la actividad 'Verano en Danza 2024' en la Plaza de Toros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941514J",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Terraza anual del 'Plaza Café' en la plaza de San Cayetano (80 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del 'Plaza Café' en la plaza de San Cayetano para la temporada anual (noviembre 2023 a octubre 2024), con 80 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "868358D",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Concierto de la banda de cornetas de la Santa Faz en la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Real Hermandad de la Santa Faz y Cofradía de la Verónica un concierto por el X aniversario de su banda de cornetas y tambores en el anfiteatro de la Iglesia Vieja el 28 de junio, con aseos, luz y sonido municipales y permiso para superar el límite de ruido hasta las 23:00.",
+      "entidades": [
+        {
+          "nombre": "Real Hermandad de la Santa Faz y Cofradía de la Verónica de Yecla",
+          "cif": null,
+          "tipo": "cofradia",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "924519E",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Bases para elegir las atracciones y casetas de la Feria de Septiembre 2024",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban la convocatoria y las bases para seleccionar las atracciones, puestos y casetas que se instalarán en la Feria de Septiembre de 2024.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938840W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Convocatoria de 8 becas de auxiliar de arqueología (7.200 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan 8 becas de 900 € para jóvenes de 18 a 35 años estudiantes o titulados en Historia, Arte, Humanidades o Restauración, que colaborarán en trabajos de arqueología. Total máximo 7.200 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 7200.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "929388R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Tierra de Los Rosales y escombros de las demoliciones junto a San Roque",
+      "categoria": "otros",
+      "resumen": "La brigada municipal moverá la tierra vegetal de una parcela municipal dotacional del plan parcial 'Los Rosales' (SUPR-6) a otra parcela municipal junto a la antigua escombrera, y se autoriza a Servicios Profesionales Murcianos, S.L., que derriba varios inmuebles en calles Carmen y San Roque, a acopiar y moler allí los escombros reciclables.",
+      "entidades": [
+        {
+          "nombre": "Servicios Profesionales Murcianos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "843146M",
+      "lugar": "SUPR-6 'Los Rosales'; entorno de la Ermita de San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Se pide a la CHS que impida el uso de cañones antigranizo por la sequía",
+      "categoria": "medio_ambiente",
+      "resumen": "Ante la sequía extrema que sufren agricultores y ganaderos del Altiplano, el Ayuntamiento pide a la Confederación Hidrográfica del Segura que evite que funcionen cañones antigranizo o sónicos en su territorio, al menos en los próximos meses, por sus posibles efectos sobre la lluvia.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "destinataria de la petición"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "940957K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "13",
+      "titulo": "Dos parcelas del monte comunal Algezares y Castillarejos pasan a sus dueños",
+      "categoria": "patrimonio",
+      "resumen": "Dos vecinos acreditaron en el Registro que son dueños de dos parcelas que el Catastro tenía por error a nombre del Ayuntamiento, dentro del monte comunal 'Algezares y Castillarejos'. Se reconocen esos enclaves, se cambia la titularidad catastral a su favor y se ordena colocar piquetes a su costa, a la espera de un nuevo deslinde del monte.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "919636Y, 498676F, 586634W, 735838Y",
+      "lugar": "Monte 'Algezares y Castillarejos' (polígono 84, parcela 48; polígono 129, parcela 152)",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Rechazado el recurso de una discoteca para mover contenedores en calle Colón",
+      "categoria": "reclamaciones",
+      "resumen": "Se desestima el recurso de Morales y Nashira, S.L., titular de una terraza y discoteca en calle Colón, que pedía trasladar los contenedores de papel y vidrio frente a su local; los técnicos explican que en la ubicación propuesta molestarían a viviendas.",
+      "entidades": [
+        {
+          "nombre": "Morales y Nashira, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurrente"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "904465C",
+      "lugar": "Calle Colón, 59",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Zanja en el camino 'La Arboleda' para la línea de una planta fotovoltaica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Exiom Planta Fotovoltaica V, S.L. a abrir una zanja en un camino público para enterrar una línea de media tensión del proyecto fotovoltaico 'Arboreda', con fianza de 300 € y condicionado a tener el título urbanístico.",
+      "entidades": [
+        {
+          "nombre": "Exiom Planta Fotovoltaica V, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941426M",
+      "lugar": "Camino La Arboleda, junto al polígono 39, parcela 14",
+      "interes": 2
+    },
+    {
+      "ref": "16",
+      "titulo": "Denegada el agua potable a una construcción en suelo de parque urbano",
+      "categoria": "otros",
+      "resumen": "Se deniega a un particular el suministro de agua potable para una edificación en la avenida de San Pablo porque la parcela está calificada como parque urbano, donde no se permiten viviendas ni otros usos y no consta que la construcción tenga licencia.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "938465Z",
+      "lugar": "Avenida de San Pablo",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "La asesora jurídica del CAVI irá a una reunión regional en Murcia",
+      "categoria": "personal",
+      "resumen": "Se ordena a la asesora jurídica del Centro de Atención a Víctimas de Violencia de Género (CAVI) asistir a una reunión de la red regional de CAVIs el 14 de junio, con gastos de desplazamiento a cargo municipal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941899T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Sustitución de una técnica de la Escuela Infantil Pulgarcito",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de Educación Infantil a tiempo parcial (27,5 horas semanales) para sustituir a una tutora de la E.I. Pulgarcito mientras esté de baja.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941865X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Toldos Yecla Sol montará los toldos de sombra en calles y parques (7.018 €)",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Toldos Yecla Sol, S.L. por 7.018 € (IVA incluido) el montaje y desmontaje de las velas de sombra en las calles Niño Jesús y Hospital y en los parques infantiles de la plaza de la Concordia y el jardín Ladislao Jareño.",
+      "entidades": [
+        {
+          "nombre": "Toldos Yecla Sol, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7018.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942555E",
+      "lugar": "Calles Niño Jesús y Hospital; plaza de la Concordia; jardín Ladislao Jareño",
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Licitación de la organización de 'Verano en Danza 2024' (32.125 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre la licitación del contrato mixto de servicios y suministros para la infraestructura, producción y organización de 'Verano en Danza 2024', por 32.125,50 € (IVA incluido).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 32125.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "938784R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Corte de la calle San José para una jornada comercial de verano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cierra al tráfico la calle San José (de calle Rambla a calle San Francisco) el 14 de junio de 19:00 a 24:00 para una jornada comercial especial por el inicio del verano, promovida por la Concejalía de Comercio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "935854Y",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Terraza de verano del 'Picasso Café' en la avenida Pablo Picasso (28 m²)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular la terraza del 'Picasso Café' de abril a octubre de 2024, con 28 m²; ya ha pagado la tasa de 336 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "915675X",
+      "lugar": "Avenida de Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Sala del Centro de Emprendimiento para la asamblea de la Asociación No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación No Hay Límite la sala de reuniones del Centro de Emprendimiento para su asamblea general del 19 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941262J",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Salón del Edificio Bioclimático para una reunión sobre colonias felinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a la Asociación Soy su Voz el salón de actos del Edificio Bioclimático el 15 de junio para una reunión de gestoras de colonias felinas de Yecla.",
+      "entidades": [
+        {
+          "nombre": "Asociación Soy su Voz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "942440W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Fiesta de fin de curso del Colegio La Inmaculada en la Iglesia Vieja",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colegio de La Inmaculada su fiesta de final de curso en el anfiteatro de la Iglesia Vieja el 20 de junio de 20:00 a 22:00, con aseos, luz y sonido municipales.",
+      "entidades": [
+        {
+          "nombre": "Colegio de La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941059C",
+      "lugar": "Anfiteatro de la Iglesia Vieja",
+      "interes": 1
+    },
+    {
+      "ref": "17.10",
+      "titulo": "Un puesto de fruta del mercado pasa de padre a hijo",
+      "categoria": "patrimonio",
+      "resumen": "Se autoriza desde el 1 de junio el cambio de titular de los puestos 25C y 26C del Mercado Central (ahora puesto 146 del mercadillo del Parque de la Constitución) de un vendedor de frutas y verduras a su hijo, sin cobrar traspaso por ser familiar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "937508W",
+      "lugar": "Mercado Central / mercadillo del Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "17.11",
+      "titulo": "Pabellón gratis para el torneo de fin de curso de gimnasia rítmica",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club Gimnasia Rítmica Yecla su torneo de fin de curso e interescuelas el 15 de junio en el pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 204,75 €.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración en especie"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 204.75,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "928426F",
+      "lugar": "Pabellón Polideportivo Municipal José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "17.12",
+      "titulo": "Carrera solidaria 'Marta la Princesa Valiente' con apoyo municipal",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza a la Asociación Marta 'La Princesa Valiente', con el Club Fondistas Yecla, la VI carrera y marcha popular solidaria del 15 de junio con salida y llegada en la avenida de la Estación. El Ayuntamiento colabora con gastos de 848,21 € y uso gratuito de instalaciones valorado en 310 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Marta 'La Princesa Valiente'",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Club Fondistas Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1158.21,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 848.21,
+          "entidad": "Asociación Marta 'La Princesa Valiente'"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones deportivas",
+          "eur": 310.0,
+          "entidad": "Asociación Marta 'La Princesa Valiente'"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "913183K",
+      "lugar": "Avenida de la Estación",
+      "interes": 1
+    },
+    {
+      "ref": "17.13",
+      "titulo": "Torneo de Primavera de Ajedrez en la Plaza Mayor con apoyo municipal",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club de Ajedrez Municipal Yeclano el VI Torneo de Primavera el 16 de junio en la Plaza Mayor (soportales de los Arcos y del Auditorio), con gastos municipales de 169,40 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 169.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "936579E",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    }
+  ]
+}

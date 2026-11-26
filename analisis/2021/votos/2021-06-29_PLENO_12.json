@@ -1,0 +1,74 @@
+{
+  "doc": "2021-06-29_PLENO_12",
+  "asistentes": {
+    "PP": 12,
+    "PSOE": 4,
+    "Cs": 1,
+    "IU-Verdes": 2
+  },
+  "notas": "Asisten 19 de 21 concejales: se justifican las ausencias de un concejal del PSOE y uno de Ciudadanos.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 4,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por diecisiete votos a favor (Grupos M. Popular, socialista y Ciudadanos) y dos en contra (Grupo M. Izquierda Unida-Verdes), adopta los siguientes acuerdos"
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 12,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 4,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Cs": {
+          "favor": 1,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por diecisiete votos a favor (Grupos M. Popular, Socialista y Ciudadanos) y dos abstenciones (Grupo M. Izquierda Unida-Verdes), adopta los siguientes acuerdos"
+    }
+  ]
+}

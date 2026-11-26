@@ -1,0 +1,857 @@
+{
+  "doc": "2023-10-31_JGL_46",
+  "organo": "JGL",
+  "sesion": 46,
+  "fecha": "2023-10-31",
+  "tipo_sesion": "ordinaria",
+  "paginas": 44,
+  "resumen": "La Junta de Gobierno compra por 50.556 euros una casa de la Avenida de la Paz que el Plan General destina a calle y acepta una ayuda regional de 56.916 euros para los equipos de infancia y familia. Convoca ayudas para las AMPAS (17.000 euros), para libros escolares de familias vulnerables (32.000 euros) y para cultura (10.000 euros), y aprueba cómo pedir la exención del IBI rústico por las pérdidas agrarias de 2023. También da licencia a la Fundación Casa-Cuna para una casa de acogida de mujeres y responde a la CARM sobre cuatro naves y una residencia rural en suelo no urbanizable.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 24 de octubre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas del SEF y de conciliación, y necesidades de la Brigada de Obras",
+      "categoria": "informacion",
+      "resumen": "Se informa de la liquidación por el SEF de la subvención de un curso de 'Docencia de la Formación Profesional para el empleo', de la concesión y pago por la Consejería de Política Social de subvenciones para servicios de conciliación (Fondo Social Europeo Plus) y de un informe técnico sobre las necesidades de vehículos y maquinaria de la Brigada de Obras. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención"
+        },
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "837279N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: instalaciones deportivas de septiembre y técnicos del Jazz",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el mantenimiento, limpieza y atención de las instalaciones deportivas de septiembre y los servicios técnicos del festival de Jazz (5-7 de octubre).",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 82967.33,
+      "importes": [
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, septiembre 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Servicios técnicos de espectáculos de Cultura (C.SE. 7/23), Festival Jazz 5-7 octubre",
+          "eur": 7271.81,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509033Q, 739284J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cómo pedir la exención del IBI rústico 2023 por pérdidas agrarias",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba el modelo de solicitud para que agricultores y ganaderos con caídas de rendimiento de al menos el 20-30% en 2023 pidan la exención del IBI rústico (Real Decreto-ley 4/2023). Las solicitudes no se resolverán hasta agosto de 2024; si el recibo está pagado se devolverá y, si no, el Estado compensa al Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Secretaría General de Financiación Autonómica y Local (Estado)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "compensa al Ayuntamiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "828284W",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Denegada rebaja del ICIO por placas solares (inversión menor de 6.000 €)",
+      "categoria": "fiscal",
+      "resumen": "Se deniega a un vecino del paraje La Hormiga la bonificación del 90% del ICIO porque su instalación (5.465,43 € sin IVA) no llega a la inversión mínima de 6.000 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "751329N",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 50% del ICIO a I.T.A. Alberjal por placas solares en su nave",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 50% del impuesto de obras de una instalación solar de autoconsumo en una nave industrial (máximo 1.000 €).",
+      "entidades": [
+        {
+          "nombre": "I.T.A. Alberjal, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "beneficiario de bonificación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819255E",
+      "lugar": "C/ Castillarejos (nave industrial)",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inicio de obras de una vivienda aislada en el paraje La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el comienzo de las obras de una vivienda unifamiliar aislada con licencia 74/2023, tras presentar el proyecto de ejecución.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "732024A",
+      "lugar": "paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Inicio de obras de una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el comienzo de las obras de una vivienda unifamiliar (licencia 647/2022); antes debe depositar la fianza y avisar para el replanteo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "686706J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Residencia rural en una bodega de Los Arenales: el Ayuntamiento responde a la CARM",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Para el expediente regional de una residencia rural en una bodega existente en suelo no urbanizable, se aprueba el informe sobre el camino de acceso y se ratifica el informe favorable de 2022.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "558591X",
+      "lugar": "paraje Los Arenales",
+      "interes": 2
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Ampliación de la nave de Jumapa 2000 en la carretera de Villena",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Para la ampliación de una nave industrial en suelo no urbanizable, se ratifica el informe favorable. El Ayuntamiento comunica que en los polígonos A y B de Las Teresas no quedan parcelas y que el polígono privado Las Artesillas/Las Teresas no está urbanizado.",
+      "entidades": [
+        {
+          "nombre": "Jumapa 2000, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "698675H",
+      "lugar": "Carretera de Villena RM-425, km 4,5 (polígono 47)",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Musealización de la Casa del Guarda del Monte Arabí: se deja sobre la mesa",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "La autorización excepcional de las obras para convertir la Casa del Guarda en espacio museístico se aplaza para mejor estudio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "727853H",
+      "lugar": "Monte Arabí",
+      "interes": 2
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Sustituta de una técnica de la Escuela Infantil Alameda",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una técnica de Educación Infantil a media jornada (17,5 h/semana) para cubrir una baja.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838168Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Sustituto del mantenedor de las escuelas infantiles",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a jornada completa a un mantenedor para cubrir la baja del titular, que mantiene las cinco escuelas infantiles.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834507N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Se cierra la bolsa de empleo de analista programador de 2019",
+      "categoria": "personal",
+      "resumen": "Se extingue la bolsa de 2019, que ya no sirve, porque hay una nueva aprobada el 10 de octubre de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "126386M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Analista programador interino por jubilación del titular",
+      "categoria": "personal",
+      "resumen": "Se nombra interino a quien corresponda de la nueva bolsa para cubrir la plaza vacante, máximo tres años.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835937Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Plan de Inserción Social 2023: contratado un oficial 1ª albañil",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial 1ª albañil propuesto por la comisión de selección dentro de la 2ª fase del Plan de Promoción e Inserción Social a través del Empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826688D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Plan de Inserción Social 2023: contratado un oficial 2ª albañil",
+      "categoria": "personal",
+      "resumen": "Se contrata a un oficial 2ª albañil dentro del mismo plan.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826698R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Guardias de fontanería para un oficial por baja de un compañero",
+      "categoria": "personal",
+      "resumen": "Se asigna provisionalmente a un oficial 2ª fontanero el turno de guardias semanales, con su plus de penosidad, mientras dure la baja del mantenedor.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837226P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Fiesta de Holywins de la Parroquia El Niño Jesús: resuelta por decreto",
+      "categoria": "via_publica_eventos",
+      "resumen": "No se adopta acuerdo porque ya se resolvió por decreto de Alcaldía.",
+      "entidades": [
+        {
+          "nombre": "Parroquia El Niño Jesús de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "retirado",
+      "votacion": "unanimidad",
+      "expediente": "837062M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Puesto benéfico de la Asociación de Fibromialgia en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto el 29 de noviembre para hacer adornos navideños, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla (AFIYE)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829901Q",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Tala de un árbol frente a la nave de Yeclalac",
+      "categoria": "medio_ambiente",
+      "resumen": "A petición de Yeclalac, S.L., se tala un árbol del Amor (Cercis siliquastrum) cuyas raíces dañan la acera y la puerta de su nave, se podan los demás y se plantará un aligustre; lo hacen Actúa y la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "Yeclalac, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "ejecuta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836593K",
+      "lugar": "Calle Francisco Antonio Jiménez",
+      "interes": 2
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza anual para la cafetería 'El Paseo'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una terraza de 50 m2 en la avenida Pablo Picasso del 1 de noviembre de 2023 al 31 de octubre de 2024; la titular ya pagó la tasa de 850 €.",
+      "entidades": [
+        {
+          "nombre": "Cafetería El Paseo (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso / paga"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 850.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835170J",
+      "lugar": "Avenida Pablo Picasso",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Puesto de chocolate con churros en la Plaza de San Cayetano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino un puesto-remolque de chocolate y churros del 6 al 8 de diciembre, con tasa de 48 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 48.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "834717E",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón del Edificio Bioclimático para un curso de ASOCOMY a comerciantes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 9 de noviembre para un curso de formación para comerciantes.",
+      "entidades": [
+        {
+          "nombre": "ASOCOMY",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "837180A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Boda civil en la Casa Consistorial (1 de diciembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838058W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Sala del Centro de Emprendimiento para un proyecto de Cáritas con jóvenes",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la sala de reuniones el 31 de octubre y el 7 y 9 de noviembre para sesiones de formación del Proyecto Nazaret de inclusión de jóvenes vulnerables.",
+      "entidades": [
+        {
+          "nombre": "Cáritas Diócesis de Cartagena",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838731E",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "El Ayuntamiento compra por 50.556 € una casa de la Avenida de la Paz para hacer calle",
+      "categoria": "patrimonio",
+      "resumen": "Se compra directamente a sus siete propietarios una vivienda de 118 m2 de solar (148 m2 construidos) que el Plan General destina íntegramente a viario público, por 50.555,67 € según valoración técnica; el Ayuntamiento paga la notaría.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 50555.67,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "547694M",
+      "lugar": "Avenida de la Paz esquina calle Águilas",
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de subvenciones a las AMPAS y la FAMPA 2023",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan ayudas de hasta 17.000 € en total para asociaciones de madres y padres de colegios, institutos, escuelas infantiles y Centro de Atención Temprana, y para su federación local (máximo 1.025 € por AMPA de colegio o instituto).",
+      "entidades": [
+        {
+          "nombre": "FAMPA de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "puede recibir subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835347E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Convocatoria de 320 ayudas para libros y material escolar (curso 2022/23)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan hasta 320 becas de un máximo de 100 € (32.000 € en total) para familias vulnerables con hijos en Infantil, Primaria, ESO, FP o Bachillerato en centros de Yecla.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 32000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "835294F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Convocatoria de subvenciones para promoción de la cultura 2023",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan ayudas de 10.000 € en total para proyectos culturales de asociaciones y particulares de Yecla, repartidas según interés del proyecto, recursos propios y número de socios; no se pagan comidas ni publicaciones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836749C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "La alcaldesa, representante en el Consejo de Coordinación Territorial de Servicios Sociales",
+      "categoria": "organizacion",
+      "resumen": "Se nombra a la alcaldesa vocal del Consejo de Coordinación Territorial de Servicios Sociales de la CARM y a la concejala de Política Social como suplente.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide designación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "831338M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Nuevos cargos de la Junta de Compensación del SUPR-6 'Los Rosales'",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "Se inscriben en el registro municipal los nuevos presidente, secretario y vicepresidente del Consejo Rector de la Junta de Compensación del Plan Parcial Los Rosales, elegidos en diciembre de 2022.",
+      "entidades": [
+        {
+          "nombre": "Junta de Compensación del SUPR-6 'Los Rosales'",
+          "cif": null,
+          "tipo": "otro",
+          "rol": "entidad urbanística colaboradora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "612241K",
+      "lugar": "SUPR-6 Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "X Marcha Canina Benéfica de SPANDY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la marcha del 19 de noviembre con salida y llegada en el Cerro de la Fuente y apoyo de la Policía Local en los cruces.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Protectora de Animales de Yecla (SPANDY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833790R",
+      "lugar": "Cerro de la Fuente",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Plan de seguridad del asfaltado de la Avda. de la Paz y otras calles",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de parcheo y asfaltado de la Avenida de la Paz, General Antonio Lorenzo Gaitán, Santa Bárbara y Juan XXIII.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "826235Z",
+      "lugar": "Avda. de la Paz, C/ General Antonio Lorenzo Gaitán, C/ Santa Bárbara, C/ Juan XXIII",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Plan de seguridad del parcheo de caminos rurales",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de parcheo de caminos rurales del término municipal.",
+      "entidades": [
+        {
+          "nombre": "Kubica Obras y Asfaltos, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "833560Y",
+      "lugar": "Caminos rurales del término municipal",
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Licencia a la Fundación Casa-Cuna para una casa de acogida de mujeres",
+      "categoria": "licencia_obra",
+      "resumen": "Urgente: se concede licencia para adaptar un inmueble en la calle San Antonio como casa de acogida de mujeres en riesgo social y punto de apoyo a la infancia, con fianza de 350 €.",
+      "entidades": [
+        {
+          "nombre": "Fundación Casa-Cuna de la Anunciación",
+          "cif": null,
+          "tipo": "fundacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 350.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "829672Y",
+      "lugar": "Calle San Antonio",
+      "interes": 3
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Nave de Barnizados Arabí en la carretera de Pinoso: respuesta a la CARM",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Urgente: para el expediente regional de un establecimiento industrial en suelo no urbanizable, se aprueba el informe técnico, se ratifica el informe favorable de enero de 2023 y el Ayuntamiento comunica que en los polígonos A y B de Las Teresas no quedan parcelas y que el polígono privado Las Artesillas/Las Teresas no está urbanizado.",
+      "entidades": [
+        {
+          "nombre": "Barnizados Arabí, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "648544F",
+      "lugar": "Carretera de Pinoso",
+      "interes": 2
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Ampliación de Armazones F. Pérez en la RM-425: respuesta a la CARM",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Urgente: para la ampliación de un edificio en suelo no urbanizable, se aprueba el informe sobre el camino de acceso para camiones, se ratifica el informe favorable de febrero de 2023 y se comunica la falta de parcelas industriales.",
+      "entidades": [
+        {
+          "nombre": "Armazones F. Pérez, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        },
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "629637X",
+      "lugar": "Ctra. RM-425, pk 60,6 (polígono 48)",
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Ampliación de una nave en la carretera de Pinoso km 1,2: respuesta a la CARM",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Urgente: para la ampliación de una nave industrial de un particular en suelo no urbanizable, se aprueba el informe técnico de 2022, se ratifica el informe favorable y se comunica la falta de parcelas industriales.",
+      "entidades": [
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "540248W",
+      "lugar": "Carretera de Pinoso, km 1,2",
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Curso de trabajo en red para diez trabajadores de Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena la asistencia de diez trabajadores al curso de los días 6, 7 y 13 de noviembre del proyecto 'Acompañamiento Social Vital' (fondos Next Generation).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "838368A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Se acepta una ayuda de la CARM de 56.916 € para equipos de infancia y familia",
+      "categoria": "subvencion_recibida",
+      "resumen": "Urgente: se acepta la subvención directa de 56.916,16 € para implantar o reforzar los equipos de atención a la infancia y la familia de los servicios sociales en 2023.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familias e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 56916.16,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "799352M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Carrera y Marcha solidaria de AYAC con apoyo municipal",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza la carrera y marcha contra el cáncer del 5 de noviembre con salida y llegada en el Parque de la Constitución, con colaboración municipal y gastos estimados de 595,32 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados por el Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 595.32,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "806942D",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Prácticas de autoescuela de Dale Formación en el casco urbano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se toma razón de que la autoescuela hará prácticas del permiso B por las calles abiertas al tráfico.",
+      "entidades": [
+        {
+          "nombre": "Dale Formación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "789506M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Terrenos municipales para reparar la calzada en la Boca del Cántaro",
+      "categoria": "otros",
+      "resumen": "Urgente: se envía a la Consejería de Agua y Agricultura el certificado de que los terrenos para reparar dos tramos de calzada en el paraje de la Boca del Cántaro son municipales.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Agua, Agricultura, Ganadería y Pesca (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "recibe certificado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "839555Z",
+      "lugar": "paraje Boca del Cántaro",
+      "interes": 1
+    }
+  ]
+}

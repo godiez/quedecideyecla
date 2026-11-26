@@ -1,0 +1,822 @@
+{
+  "doc": "2024-04-02_JGL_15",
+  "organo": "JGL",
+  "sesion": 15,
+  "fecha": "2024-04-02",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno licita la obra del centro enoturístico de la Casa de los Arcos (623.901 euros, fondos europeos), la infraestructura de las Fiestas de San Isidro (108.346 euros en cinco lotes) y un furgón adaptado para Servicios Sociales. Concede licencias a una planta solar de 875 kW de Fontcaster Solar y a Inurbán para 9 apartamentos turísticos en calle Escuelas Pías, y se informa de 241.174 euros del Estado para digitalizar el Ayuntamiento. También paga basuras, limpieza y socorrismo y autoriza terrazas y eventos (Ruta del Vino, Milla Solidaria).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 26 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: 241.174 € del Estado para digitalización y padrón de 35.957 vecinos",
+      "categoria": "informacion",
+      "resumen": "Se informa de que el Ministerio de Política Territorial asigna 241.174,41 € (fondos europeos) para infraestructuras tecnológicas y mejorar la relación digital con los ciudadanos; de un taller de inteligencia emocional para jóvenes de la CARM; de la justificación de las ayudas a la Policía Local 2023; de la respuesta de la Confederación Hidrográfica del Segura sobre la limpieza de ramblas fuera del casco urbano; y de que el INE propone una población de 35.957 habitantes a 1 de enero de 2024.",
+      "entidades": [
+        {
+          "nombre": "Ministerio de Política Territorial y Memoria Democrática",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Juventud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Seguridad y Emergencias (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Instituto Nacional de Estadística (INE)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 241174.41,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "905361X",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago al Consorcio de Residuos por el tratamiento de basuras de febrero",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el tratamiento de residuos sólidos urbanos de febrero de 2024.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67616.45,
+      "importes": [
+        {
+          "concepto": "Tratamiento de r.s.u., febrero 2024",
+          "eur": 67616.45,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Rebaja del 90% del ICIO por instalar un ascensor en un edificio con mayores de 70",
+      "categoria": "fiscal",
+      "resumen": "Se concede a dos vecinos la bonificación del 90% del impuesto de obras por instalar un ascensor y quitar barreras en un edificio de viviendas donde viven varias personas mayores de 70 años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865444F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Inspector de obras interino para cubrir una baja con cientos de expedientes atrasados",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un inspector de obras auxiliar interino mientras el titular esté de baja, porque se han acumulado varios cientos de expedientes que la otra inspectora no puede atender.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "884882D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Oposición a oficial pintor: 19 admitidos y fechas del examen",
+      "categoria": "personal",
+      "resumen": "Se aprueba la lista provisional de 19 aspirantes admitidos a una plaza fija de oficial de artes y oficios-pintor (oferta de 2019), se nombra el tribunal y se fija la valoración de méritos el 3 de junio y el examen tipo test el 5 de junio de 2024 en el Edificio Bioclimático.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "758133N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Reconocimiento de antigüedad a una técnica de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se reconocen a una técnica de administración general, a efectos de antigüedad, casi 8 años de servicios prestados en otras administraciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "905073X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Ayuda por hijo con discapacidad a una empleada municipal (159,93 €/mes)",
+      "categoria": "personal",
+      "resumen": "Se concede a una empleada municipal la ayuda por hijo con discapacidad del acuerdo de condiciones de trabajo, condicionada a que acredite que no cobra otra prestación pública por lo mismo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 159.93,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "905245K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Licitación de un furgón adaptado para Servicios Sociales (44.132 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y los pliegos para comprar un furgón adaptado para Servicios Sociales, con un precio base de 44.132 € IVA incluido, y se publica la licitación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 44132.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "896707C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Licitación de la infraestructura de las Fiestas de San Isidro 2024 (108.347 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado en cinco lotes para la infraestructura de San Isidro 2024: escenarios y conciertos (51.183 €), aseos portátiles (11.011 €), vallado decorativo (10.542,73 €), tribunas y sillas (17.998,75 €) e iluminación y electricidad del recinto de los Ventorrillos (17.611,55 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 108346.03,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actuaciones y conciertos",
+          "eur": 51183.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: aseos portátiles y casetas sanitarias",
+          "eur": 11011.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: vallado de protección decorativo",
+          "eur": 10542.73,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: tribunas, decoración y sillas",
+          "eur": 17998.75,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: iluminación ornamental y suministro eléctrico en Los Ventorrillos",
+          "eur": 17611.55,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "895653N",
+      "lugar": "recinto de Los Ventorrillos",
+      "interes": 3
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Contrato menor de tóner para impresoras municipales con Copiyec",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Copiyec, S.L. el suministro de tóner para las impresoras municipales.",
+      "entidades": [
+        {
+          "nombre": "Copiyec, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6118.97,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "898804P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Nueva fecha para la clausura de la Ruta del Vino y la Tapa en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Suspendida en marzo por la lluvia, se autoriza a la Asociación Ruta del Vino de Yecla a celebrar la clausura de la 11ª Ruta del Vino y la Tapa el 7 de abril en el Parque de la Constitución, con carpas, mesas y vallas municipales, venta de alcohol y permiso para superar el límite de ruido; fianza de limpieza de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ruta del Vino de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "890980Y",
+      "lugar": "Parque de la Constitución",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Salón del Bioclimático para la asamblea de los regantes de la Hoya del Carche-Ermita",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la comunidad de regantes usar el salón de actos del Edificio Bioclimático el 12 de abril para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes de la Hoya del Carche-Ermita",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "906607C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Aqualia renovará la red de agua potable de la calle Pablo Casals (19.168 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el presupuesto de FCC Aqualia, concesionaria del agua, y se le ordena renovar la red de agua potable de la calle Pablo Casals, dentro del contrato del servicio.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 19168.28,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "905999H",
+      "lugar": "calle Pablo Casals",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Aplazada la reestructuración de un puesto del Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se deja sobre la mesa para mejor estudio la petición de un vecino de reestructurar el puesto 5L del Mercado de San Cayetano.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "904996P",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Pago de la limpieza de edificios municipales y del socorrismo y actividades deportivas",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la limpieza de edificios municipales de marzo de 2024 y las actividades deportivas y el socorrismo de febrero.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 63542.25,
+      "importes": [
+        {
+          "concepto": "Limpieza de edificios municipales, marzo 2024",
+          "eur": 53116.71,
+          "entidad": "Técnicas y Servicios Integrales de Levante, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, febrero 2024",
+          "eur": 10425.54,
+          "entidad": "Podium Gestión Integral, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "777197Q, 785944P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Taquilla de la obra 'Las gracias mohosas' (246 €)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (246 €) y la baja de las entradas no vendidas de la obra 'Las gracias mohosas' en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 246.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Taquilla de la obra 'Camino al Zoo' (3.386 €)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (3.386 €) y la baja de las entradas no vendidas de 'Camino al Zoo' en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3386.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "864552R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Taquilla de la elección de Reinas y Damas de San Isidro 2024 (2.608 €)",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la recaudación de taquilla (2.608 €) y la baja de entradas no vendidas de la elección y proclamación de Reinas y Damas de San Isidro en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2608.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "885928F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Tarifa reducida de agua para familias numerosas en 2024",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba aplicar la tarifa especial reducida del agua potable a las familias numerosas que lo pidieron, mientras tengan vigente el título.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "733269E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "Inurbán modifica su proyecto de 9 apartamentos turísticos en calle Escuelas Pías",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a Inurbán, S.A.U. a modificar el proyecto básico del edificio de 9 apartamentos turísticos y locales en calle Escuelas Pías, 16. Los apartamentos no podrán usarse como vivienda habitual ni inscribirse por separado; necesita informe del Instituto de Turismo antes de empezar.",
+      "entidades": [
+        {
+          "nombre": "Inurbán, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "844245N",
+      "lugar": "calle Escuelas Pías, 16",
+      "interes": 3
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Licencia a la Parroquia de la Purísima para retejar los salones parroquiales",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia para retejar parte de la cubierta de los salones parroquiales de la Basílica de la Purísima, con las condiciones de Patrimonio Cultural de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de la Purísima Concepción",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "854241X",
+      "lugar": "calle España, 3",
+      "interes": 2
+    },
+    {
+      "ref": "10.8",
+      "titulo": "Licencia a Fontcaster Solar para una planta fotovoltaica de 875 kW",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Fontcaster Solar, S.L. licencia para construir una planta solar fotovoltaica de 875 kW en suelo rústico, con las condiciones de la autorización regional de Energía.",
+      "entidades": [
+        {
+          "nombre": "Fontcaster Solar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "872955N",
+      "lugar": "polígono 100, parcela 92",
+      "interes": 3
+    },
+    {
+      "ref": "10.9",
+      "titulo": "Licencia a Proyecto Denver para un acceso desde la carretera RM-425",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a Proyecto Denver, S.L. licencia para adecuar el acceso entre una parcela privada y la carretera RM-425.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "881723Q",
+      "lugar": "carretera RM-425, p.k. 4+650",
+      "interes": 2
+    },
+    {
+      "ref": "10.10",
+      "titulo": "Licencia para demoler un edificio en calle San Ramón",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a una vecina licencia para derribar una edificación en calle San Ramón, con fianzas de 715 € y 1.179 € para reponer urbanización y alumbrado, desratización previa y vallado del solar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "901664M",
+      "lugar": "calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "10.11",
+      "titulo": "Licencia para una barbacoa junto a una vivienda en Las Cabezuelas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para construir una barbacoa anexa a su vivienda aislada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "892085H",
+      "lugar": "paraje Las Cabezuelas",
+      "interes": 1
+    },
+    {
+      "ref": "10.12",
+      "titulo": "Licencia para una vivienda aislada en El Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un vecino licencia (con proyecto básico) para construir una vivienda unifamiliar aislada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "888000J",
+      "lugar": "paraje El Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "10.13",
+      "titulo": "Licencia para instalar ascensor en un edificio de la calle Pascual Amat",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a la comunidad de propietarios licencia para instalar un ascensor en el edificio.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Propietarios Pascual Amat 28",
+          "cif": null,
+          "tipo": "comunidad_propietarios",
+          "rol": "pide licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "892058W",
+      "lugar": "calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "10.14",
+      "titulo": "Licencia para una vivienda con garaje y piscina en Moratillas",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a dos vecinos licencia para construir una vivienda unifamiliar aislada con garaje y piscina. Un concejal se ausenta por interés personal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad (se ausenta un concejal por interés personal)",
+      "expediente": "898018Y",
+      "lugar": "paraje Moratillas",
+      "interes": 1
+    },
+    {
+      "ref": "10.15",
+      "titulo": "Contrato menor con Onuson para La Jungla, DJ y gala en San Isidro 2024",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Onuson Producciones, S.L. 'La Jungla', un DJ local y la gala 'Yecla Ciudad de Talentos' los días 11, 15 y 16 de mayo dentro de las Fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Onuson Producciones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 9256.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "901553H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.16",
+      "titulo": "Licitación de la obra del centro enoturístico en la Casa de los Arcos (623.901 €)",
+      "categoria": "contrato",
+      "resumen": "Se aprueban el proyecto y la licitación de las obras para crear un centro enoturístico y mejorar la eficiencia energética de la Casa de los Arcos, con 623.901,72 € de presupuesto, dentro del Plan de Sostenibilidad Turística 'Yecla ES+' financiado con fondos europeos Next Generation a través del Instituto de Turismo de la Región de Murcia.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 623901.72,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "C.O.5/24",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "10.17",
+      "titulo": "Terraza de verano del Bar Los Caballa en calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre, 16 m²) del Bar Los Caballa en calle Rambla.",
+      "entidades": [
+        {
+          "nombre": "Bar Los Caballa",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "886745Q",
+      "lugar": "calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "10.18",
+      "titulo": "Terraza de verano de la cafetería Glamour",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza de verano (1 de abril a 31 de octubre, 26 m²) de la cafetería Glamour, en calle Antonio Machado.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Glamour",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "897058P",
+      "lugar": "calle Antonio Machado",
+      "interes": 1
+    },
+    {
+      "ref": "10.19",
+      "titulo": "Sala del Centro de Emprendimiento para la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Peluqueras de Yecla usar la sala de reuniones del Centro de Emprendimiento el 8 de abril para una actividad formativa.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "907837K",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "10.20",
+      "titulo": "Salón del Edificio Bioclimático para la Asociación Soy su Voz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Soy su Voz usar el salón de actos del Edificio Bioclimático el 13 de abril para una reunión de socios.",
+      "entidades": [
+        {
+          "nombre": "Asociación Soy su Voz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "906605Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.21",
+      "titulo": "Puesto provisional de venta de caracoles en el Mercado de San Cayetano",
+      "categoria": "patrimonio",
+      "resumen": "Se adjudica provisionalmente a una vecina un puesto de venta de caracoles en el Mercado de San Cayetano del 1 de abril al 31 de agosto, pagando 6,86 € por metro y mes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "906499C",
+      "lugar": "Mercado de San Cayetano",
+      "interes": 1
+    },
+    {
+      "ref": "10.22",
+      "titulo": "Pista de atletismo gratis para la I Jornada sub-14 del Club de Atletismo Yeclano",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Club de Atletismo Yeclano y a la Federación de Atletismo de la Región de Murcia la I Jornada sub-14 el 7 de abril en la pista del complejo Juan Palao, con uso gratuito de las instalaciones valorado en 476,70 €.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe ayuda en especie"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "coorganiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 476.7,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "907476J",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 1
+    },
+    {
+      "ref": "10.23",
+      "titulo": "II Milla Solidaria del CEIP Miguel Ortuño a favor de la asociación de autismo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya con medios municipales la II Milla Solidaria del AMPA del CEIP Miguel Ortuño, carrera no competitiva el 7 de abril por la calle Játiva y alrededores, a beneficio de la asociación de personas con autismo de Yecla.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Miguel Ortuño",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869462M",
+      "lugar": "calle Játiva y alrededores",
+      "interes": 1
+    },
+    {
+      "ref": "10.24",
+      "titulo": "Condolencias por el fallecimiento del presidente de AMITES Yecla",
+      "categoria": "otros",
+      "resumen": "La Junta expresa su pésame a la familia y a la ONG AMITES Yecla por el fallecimiento de su presidente, destacado en asociaciones sociales de la ciudad.",
+      "entidades": [
+        {
+          "nombre": "AMITES Yecla O.N.G.",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe condolencias"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "907377X",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

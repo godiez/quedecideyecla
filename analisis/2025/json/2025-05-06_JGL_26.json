@@ -1,0 +1,934 @@
+{
+  "doc": "2025-05-06_JGL_26",
+  "organo": "JGL",
+  "sesion": 26,
+  "fecha": "2025-05-06",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno paga 54.600 euros en facturas y 114.856 euros en certificaciones de obra (sobre todo la reforma del Mercado Central y la calle Hospital). Da la razón en parte a un vecino al que se negó licencia para una nave en la carretera de Villena: la autorización de 1997 sigue vigente y se vuelve a estudiar la licencia. Se pide a la Confederación Hidrográfica del Segura agua depurada para regar la restauración del paraje Las Celadillas, se suspende el plazo para rescindir el contrato del Centro Enoturístico (Casa de los Arcos) y se preparan las Fiestas de San Isidro (atracciones, bar, DJ y puestos).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las sesiones del 29 y 30 de abril",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayuda al comercio y permiso arqueológico para el Hisn Yakka",
+      "categoria": "informacion",
+      "resumen": "Se informa de que la Consejería de Empresa autoriza cambiar el presupuesto de las actuaciones de la subvención directa de 2024 para dinamizar el comercio y modernizar mercados, y de que Patrimonio Cultural autoriza, desde el punto de vista arqueológico, el proyecto de acondicionamiento, musealización y accesibilidad del yacimiento Hisn Yakka (calle San Pablo, 1).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Empresa, Empleo y Economía Social (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza modificar subvención"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza proyecto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1065728D",
+      "lugar": "Yacimiento Hisn Yakka, calle San Pablo, 1",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: prevención laboral, proyectos turísticos, GPS y plataforma de RRHH",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cinco facturas: el servicio de prevención de riesgos laborales del personal, la dirección de obra de la rehabilitación de la Iglesia de la Asunción como centro de visitantes y el proyecto de musealización del Centro Enoturístico (ambos del Plan de Sostenibilidad Turística, fondos europeos), un GPS de topografía y una plataforma de recursos humanos.",
+      "entidades": [
+        {
+          "nombre": "Quirón Prevención, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Rocamora Diseño y Arquitectura, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Metricalgeo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "ESPUBLICO, Servicios para la Administración, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 54599.37,
+      "importes": [
+        {
+          "concepto": "Servicio de Prevención Ajeno del personal municipal (C.SE. 13/23)",
+          "eur": 6085.65,
+          "entidad": "Quirón Prevención, S.L.U."
+        },
+        {
+          "concepto": "Proyecto y dirección de obra de la rehabilitación de la Iglesia de la Asunción como centro de visitantes (PSTD 'Yecla Es +', C.SE.13/24)",
+          "eur": 22800.01,
+          "entidad": "Rocamora Diseño y Arquitectura, S.L.P."
+        },
+        {
+          "concepto": "Proyecto de musealización del Centro Enoturístico (PSTD, actuación 18 bis)",
+          "eur": 7804.5,
+          "entidad": "Rocamora Diseño y Arquitectura, S.L.P."
+        },
+        {
+          "concepto": "GPS de topografía para Servicios Técnicos",
+          "eur": 8945.0,
+          "entidad": "Metricalgeo, S.L."
+        },
+        {
+          "concepto": "Plataforma de Recursos Humanos 2025-2026",
+          "eur": 8964.21,
+          "entidad": "ESPUBLICO, Servicios para la Administración, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784028A, 1005240R, 1020920W, 1061439X, 1075894Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: Mercado Central, Las Celadillas y calle Hospital",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban tres certificaciones de obra: la nº 24 de la remodelación del Mercado Central, la nº 4 de la restauración paisajística del paraje Las Celadillas junto a la balsa de la depuradora y la nº 2 de la mejora de accesibilidad de la calle Hospital (estas dos, del Plan de Sostenibilidad Turística con fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Paisajes Forestales del Noroeste, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ibérica de Infraestructuras y Servicios Ambientales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 114855.6,
+      "importes": [
+        {
+          "concepto": "Certificación nº 24, remodelación del Mercado Central",
+          "eur": 60193.76,
+          "entidad": "Guerola Transer, S.L.U."
+        },
+        {
+          "concepto": "Certificación nº 4, restauración paisajística paraje Las Celadillas (C.O.12/24)",
+          "eur": 6352.12,
+          "entidad": "Paisajes Forestales del Noroeste, S.L."
+        },
+        {
+          "concepto": "Certificación nº 2, accesibilidad y recorridos peatonales en calle Hospital (C.O. 15/24)",
+          "eur": 48309.72,
+          "entidad": "Ibérica de Infraestructuras y Servicios Ambientales, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A, 987951E, 1008722D",
+      "lugar": "Mercado Central; paraje Las Celadillas (EDAR); calle Hospital",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 95 % de la tasa de basura a un pensionista que vive de alquiler",
+      "categoria": "fiscal",
+      "resumen": "Tras su reclamación, se concede a un pensionista la bonificación del 95 % en la tasa de basura de 2025, que se le había quitado en marzo por figurar como inquilino; la ordenanza permite que el sujeto pasivo sea el arrendatario.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085116F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla de la obra 'Una Madre de Película' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla de la obra del 12 de abril (5.681,60 € de 9.492 € puestos a la venta) y se dan de baja las entradas no vendidas (3.810,40 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5681.6,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 5681.6,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 3810.4,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla de la obra 'Parejas Imperfectas' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla de la obra del 15 de marzo (1.157 € de 9.492 € puestos a la venta) y se dan de baja las entradas no vendidas (8.335 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1157.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 1157.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 8335.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Taquilla del monólogo 'Hablando en serio' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla del monólogo del 5 de abril (1.585 € de 8.016 € puestos a la venta) y se dan de baja las entradas no vendidas (6.431 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1585.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 1585.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 6431.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Taquilla de la obra 'El Pollito' en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla de la obra del 28 de marzo (258 € de 3.492 € puestos a la venta) y se dan de baja las entradas no vendidas (3.234 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 258.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 258.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 3234.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Taquilla del concierto de José Mercé en el Teatro Concha Segura",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla del concierto del 29 de marzo (11.166 € de 12.765 € puestos a la venta) y se dan de baja las entradas no vendidas (1.599 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11166.0,
+      "importes": [
+        {
+          "concepto": "Taquilla",
+          "eur": 11166.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Baja por entradas no vendidas",
+          "eur": 1599.0,
+          "entidad": "Ayuntamiento de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037235E",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Taita Property puede empezar a construir 7 apartamentos turísticos",
+      "categoria": "licencia_obra",
+      "resumen": "Presentado el proyecto básico y de ejecución visado, se autoriza el inicio de las obras del edificio de 7 apartamentos turísticos cuya licencia se concedió en diciembre de 2024.",
+      "entidades": [
+        {
+          "nombre": "Taita Property, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "989299C",
+      "lugar": "Calle Francisco Azorín, 48",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Recurso estimado en parte: vigente la autorización de 1997 para una nave en suelo rústico",
+      "categoria": "reclamaciones",
+      "resumen": "Se negó a un particular licencia para una nave industrial en suelo no urbanizable porque la autorización excepcional de 1997 se dio a otra empresa (Yupi Muebles, S.L.). Tras un informe de la Comunidad Autónoma que dice que esa autorización va ligada al terreno y sigue vigente, se estima en parte su recurso y se vuelve a tramitar la licencia, siempre que no cambie el uso, la tipología ni aumente la edificabilidad.",
+      "entidades": [
+        {
+          "nombre": "Yupi Muebles, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "titular original de la autorización de 1997"
+        },
+        {
+          "nombre": "Dirección General de Ordenación del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa que la autorización sigue vigente"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "865646M",
+      "lugar": "Carretera de Villena, P.K. 62,6",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nombramiento de un arquitecto técnico interino por una renuncia",
+      "categoria": "personal",
+      "resumen": "Por la renuncia de un arquitecto técnico municipal, se nombra a uno interino de la bolsa de empleo hasta que la plaza se cubra en propiedad, dado el volumen de trabajo de los Servicios Técnicos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080434D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contrato temporal de técnico de educación infantil en la Escuela Campanilla",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un técnico de educación infantil (30 horas semanales) para sustituir una baja médica en la Escuela Infantil Campanilla, como máximo hasta final del curso 2024-2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1083961C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Cese voluntario de una auxiliar administrativa interina del Registro",
+      "categoria": "personal",
+      "resumen": "Se acepta la renuncia de una funcionaria interina auxiliar administrativa del Registro de Entrada, con efectos del 31 de mayo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1083251Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Renuncia de un conductor-operario de la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de un conductor-operario temporal de la Brigada de Obras, que se va a trabajar a una empresa privada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1085136J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Gastos de viaje de la directora de la Agencia de Desarrollo Local",
+      "categoria": "personal",
+      "resumen": "Se aprueba la asistencia de la directora de la Agencia de Desarrollo Local a una comisión de la Federación de Municipios de la Región de Murcia el 24 de abril y se pagan sus gastos de desplazamiento.",
+      "entidades": [
+        {
+          "nombre": "Federación de Municipios de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "convoca la reunión"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081301H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Diez jóvenes entran en el programa de empleo y formación de tapicería",
+      "categoria": "personal",
+      "resumen": "Se incorporan diez alumnos-trabajadores y una lista de nueve suplentes al programa mixto de empleo y formación 'Operaciones Auxiliares de Tapizado de Mobiliario y Mural' (Yecla Emplea Joven 2024), subvencionado por el SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "subvenciona el programa"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1075878A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "DJ's de La Jungla Radio para las Fiestas de San Isidro",
+      "categoria": "contrato",
+      "resumen": "Se adjudica el contrato menor de la actuación de los DJ's de La Jungla Radio el 10 de mayo, dentro de las Fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Onuson Productiones, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 6473.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1083515H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Adjudicado el bar de las Fiestas de San Isidro",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el servicio de bar de las Fiestas de San Isidro 2025; el adjudicatario paga al Ayuntamiento 5.120 € y deja una garantía de 1.000 €.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga al Ayuntamiento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 5120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1063092R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Se pide agua depurada para regar la restauración del paraje Las Celadillas",
+      "categoria": "medio_ambiente",
+      "resumen": "Para mantener los más de 190 árboles y 390 arbustos plantados en la restauración paisajística junto a la balsa de la depuradora (fondos europeos), se solicita a la Confederación Hidrográfica del Segura concesión de 300 m3/año de agua residual regenerada y se comunica a las comunidades de regantes que usan el embalse.",
+      "entidades": [
+        {
+          "nombre": "Confederación Hidrográfica del Segura",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "se le pide concesión de agua"
+        },
+        {
+          "nombre": "Comunidad de Regantes Hoya Mollidar-Portichuelo de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "cesionaria del embalse, se le comunica"
+        },
+        {
+          "nombre": "Comunidad de Regantes Pozo de Santiago de Yecla",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "cesionaria del embalse, se le comunica"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "987951E",
+      "lugar": "Paraje Las Celadillas, junto a la balsa reguladora de la EDAR (polígono 46, parcela 297)",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Terraza de 16 m2 para el Trébol Bar en calle Rambla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del Trébol Bar en temporada de verano (1 de abril a 31 de octubre de 2025), con 16 m2.",
+      "entidades": [
+        {
+          "nombre": "Trébol Bar (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080946P",
+      "lugar": "Calle Rambla, 48",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Terraza de 8 m2 para el establecimiento Firenze en calle Niño Jesús",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento hostelero Firenze en temporada de verano de 2025, con 8 m2.",
+      "entidades": [
+        {
+          "nombre": "Firenze (titular particular)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080957E",
+      "lugar": "Calle Niño Jesús",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Tres carritos de juguetes y globos en la Cabalgata de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se dan a un vendedor ambulante tres licencias de puesto eventual para vender juguetes y globos el 17 de mayo durante la Cabalgata de Carrozas, con una tasa de 12 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1066844D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Dos carritos de juguetes, refrescos y globos en la Cabalgata de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se dan a una vendedora ambulante dos licencias de puesto eventual para el 17 de mayo durante la Cabalgata de Carrozas, con una tasa de 12 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 12.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076635C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Ofrendas florales a la Virgen del Castillo los días 10 y 24 de mayo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de las dos ofrendas florales que organiza la Asociación de Mayordomos de la Purísima; la Policía Local ordenará el tráfico y escoltará la comitiva.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1080517T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Atracciones y puestos de feria autorizados para San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a 17 feriantes a montar sus atracciones y puestos en las Fiestas de San Isidro 2025 (coches de choque, tren de la bruja, camas elásticas, churrería, hamburguesería, etc.), condicionado a presentar certificado técnico de montaje y seguridad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1051604M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Puesto informativo del Centro de Educación de Adultos en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro de Educación de Adultos un puesto los días 14, 21 y 28 de mayo para una campaña informativa, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Centro de Educación de Adultos de Yecla (CEA)",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081699K",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Jornada de convivencia de los Mayordomos de la Purísima en el jardín de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la jornada del 15 de junio (gachasmigas, misa de campaña y actividades infantiles) con seguro, personal de seguridad, límite de 85 dB y fianza de limpieza de 600 €; el Ayuntamiento presta sillas, carpas, tarima, megafonía y un punto de luz.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076488Y",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Salón de Plenos para una boda civil el 23 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1079131T",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón de Plenos para una boda civil el 25 de junio",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos para celebrar su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078990Y",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Auditorio Juan Miguel Benedito para la gala de una escuela de pole dance",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el auditorio el 25 de mayo para la gala artística del 4º aniversario de una escuela de pole dance, previo pago de 400 € de precio público.",
+      "entidades": [
+        {
+          "nombre": "particular (Escuela Pole Dance)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1078819K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sala del Centro de Emprendimiento para un curso de la Asociación de Peluqueras",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso de la sala de reuniones los días 12 y 26 de mayo para un curso de formación.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Peluqueras de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081756P",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Lista de parcelas donde se pueden echar lodos de depuradora este verano",
+      "categoria": "medio_ambiente",
+      "resumen": "Se aprueba la relación de parcelas agrícolas que pueden y no pueden recibir lodos de depuradora entre el 15 de mayo y el 15 de septiembre, según la ordenanza municipal, y se envía a ESAMUR advirtiendo que 80 de las 430 parcelas las han pedido dos gestores distintos. Se publicará en la web municipal.",
+      "entidades": [
+        {
+          "nombre": "Entidad Regional de Saneamiento y Depuración de Aguas Residuales (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "gestiona las autorizaciones"
+        },
+        {
+          "nombre": "Aquambiente Servicios para la Gestión del Agua, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "gestor que pide aplicar lodos"
+        },
+        {
+          "nombre": "Biomasa del Guadalquivir, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "gestor que pide aplicar lodos"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076790R",
+      "lugar": "Parcelas agrícolas del término municipal",
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Un agente de Policía Local, a un curso de primeros auxilios",
+      "categoria": "personal",
+      "resumen": "Urgente: se autoriza a un agente a asistir a un curso de la EFIAP sobre accidentes de tráfico y primeros auxilios en Murcia.",
+      "entidades": [
+        {
+          "nombre": "Escuela de Formación e Innovación de la Administración Pública de la Región de Murcia (EFIAP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza el curso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085354M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Dos trabajadoras de Servicios Sociales, a una formación en Murcia",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena a una trabajadora social y una educadora social asistir a una formación de la Consejería de Política Social sobre acompañamiento a personas vulnerables, con gastos de viaje a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Política Social, Familia e Igualdad (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "convoca la formación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1083969N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.3",
+      "titulo": "Corregido un error en la licitación de la rehabilitación del edificio Cazadores",
+      "categoria": "contrato",
+      "resumen": "Urgente: antes de publicar la licitación de las obras para convertir el edificio 'Cazadores' en centro de ocio, cultura y promoción económica (fondos europeos PIREP), se corrige la clasificación exigida a los contratistas, que estaba mal en la memoria y el pliego.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C",
+      "lugar": "Edificio 'Cazadores'",
+      "interes": 2
+    },
+    {
+      "ref": "10.4",
+      "titulo": "Casa de los Arcos: se para el plazo para rescindir el contrato del Centro Enoturístico",
+      "categoria": "contrato",
+      "resumen": "Urgente: en el expediente para rescindir el contrato de las obras del Centro Enoturístico en la Casa de los Arcos (fondos europeos), se suspende el plazo de resolución hasta que llegue el dictamen del Consejo Jurídico de la Región de Murcia, que avisa de que no lo emitirá antes del 18 de mayo; así se evita que el expediente caduque.",
+      "entidades": [
+        {
+          "nombre": "Urgacén Viena 25, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista cuyo contrato se quiere resolver"
+        },
+        {
+          "nombre": "Fiatc Mutua de Seguros y Reaseguros",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "aseguradora de la garantía"
+        },
+        {
+          "nombre": "Credicand Suscripción de Riesgos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "agencia de la aseguradora"
+        },
+        {
+          "nombre": "Consejo Jurídico de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "debe emitir dictamen"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "900819N",
+      "lugar": "Casa de los Arcos",
+      "interes": 3
+    },
+    {
+      "ref": "10.5",
+      "titulo": "Puesto solidario de la Asociación de Afectados de Cáncer en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza a AYAC un puesto el 14 de mayo para una campaña solidaria, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085296F",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "10.6",
+      "titulo": "XV Muestra Nacional de Folclore 'Ciudad de Yecla' con 12.620 € de presupuesto",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: se aprueba celebrar la muestra el 10 de mayo y su presupuesto de gastos de 12.620,30 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 12620.3,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085533K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.7",
+      "titulo": "Informes municipales sobre el Plan Regional de Residuos 2024-2035",
+      "categoria": "medio_ambiente",
+      "resumen": "Urgente: se aprueban y envían a la Dirección General de Medio Ambiente los informes técnicos municipales para la evaluación ambiental del Plan de Gestión y Prevención de Residuos de la Región de Murcia 2024-2035.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita la evaluación ambiental"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1037833K",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

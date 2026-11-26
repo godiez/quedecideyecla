@@ -1,0 +1,635 @@
+{
+  "doc": "2026-08-03_JGL_41",
+  "organo": "JGL",
+  "sesion": 41,
+  "fecha": "2026-08-03",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 39,
+  "resumen": "Se pagan facturas y certificaciones de obra por unos 308.000 euros, entre ellas 148.000 euros de la plataforma de turismo inteligente (fondos europeos) y 90.000 euros de la rehabilitación del edificio Cazadores. Se conceden varias licencias de vivienda y una nave industrial, y se deniegan tres; entre ellas la de T.M. Leader Contract, S.L., por intentar legalizar una nave con orden de demolición firme en suelo no urbanizable. Se apoya ante la Comunidad Autónoma una nave de Solo Patas, S.L. en suelo no urbanizable en Las Teresas.",
+  "puntos": [
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: turismo inteligente, solera en colegio y musical de verano",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar tres facturas: plataforma de inteligencia turística (fondos Next Generation), solera de hormigón en el patio del CEIP San José de Calasanz y un musical tributo K-Pop del verano.",
+      "entidades": [
+        {
+          "nombre": "Iurban Digital Tourism S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Teatropiaxxi Teatro Musical S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 177283.39,
+      "importes": [
+        {
+          "concepto": "Sistema de inteligencia y sostenibilidad turística y plataforma CMS (PSTD Yecla ES+, Next Generation EU)",
+          "eur": 148061.89,
+          "entidad": "Iurban Digital Tourism S.L."
+        },
+        {
+          "concepto": "90 m2 de solera de hormigón en patio del CEIP San José de Calasanz",
+          "eur": 8651.5,
+          "entidad": "Construcciones J.J. Gómez Yecla S.L.U."
+        },
+        {
+          "concepto": "Musical tributo Guerreras K-Pop (Verano en Danza 2026)",
+          "eur": 20570.0,
+          "entidad": "Teatropiaxxi Teatro Musical S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1095593H, 1281065H, 1304216M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Certificaciones de obra: edificio Cazadores y CEIP Giner de los Ríos",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación 12 de la rehabilitación del edificio Cazadores como centro multifuncional (fondos europeos PIREP) y la certificación 1 de la reforma del CEIP Giner de los Ríos.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones Molina Yago 2000 S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 130828.05,
+      "importes": [
+        {
+          "concepto": "Certificación n.º 12 rehabilitación edificio Cazadores (PIREP, Next Generation EU)",
+          "eur": 90888.19,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        },
+        {
+          "concepto": "Certificación n.º 1 acondicionamiento y reforma CEIP Giner de los Ríos",
+          "eur": 39939.86,
+          "entidad": "Construcciones Molina Yago 2000 S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C, 1278704D",
+      "lugar": "Edificio Cazadores; CEIP Giner de los Ríos",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Recaudación de taquilla de Músicas del Aire 2026",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueban los ingresos por taquilla y la baja de entradas no vendidas de 9 espectáculos de Músicas del Aire en la explanada de San Francisco; se recaudaron 5.385 euros de 14.000 euros de cargo.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5385.0,
+      "importes": [
+        {
+          "concepto": "Taquilla recaudada (9 espectáculos)",
+          "eur": 5385.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Baja de entradas no vendidas",
+          "eur": 8615.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1315323N",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Licencia modificada para vivienda aislada y piscina con cambio de titular",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma razón del cambio de titular y se concede licencia con proyecto modificado para vivienda unifamiliar aislada y piscina en suelo rústico.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "735582R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para demolición parcial de vivienda y barbacoa en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico (sin autorización de inicio) para demoler parcialmente una vivienda aislada y construir una barbacoa.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "959530F",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Modificación de licencia de vivienda aislada y piscina en Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza el proyecto modificado y se concede licencia para vivienda unifamiliar aislada y piscina.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "922504F",
+      "lugar": "Paraje Los Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Licencia para rehabilitar vivienda en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para rehabilitación de una vivienda en suelo rústico.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1015477K",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Denegada licencia de vivienda en el Plan Parcial Los Rosales",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega una vivienda entre medianeras porque los terrenos del Plan Parcial Los Rosales siguen en obras de urbanización y aún no son solar.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1093284A",
+      "lugar": "Plan Parcial Los Rosales",
+      "interes": 2
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Licencia para vivienda unifamiliar en casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para construir una vivienda unifamiliar; fianza de reposición de urbanización de 318,06 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1119773Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Licencia para vivienda aislada y piscina en suelo rústico",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para vivienda unifamiliar aislada y piscina.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1207108P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para vivienda y piscina en La Decarada",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para vivienda unifamiliar y piscina, con demolición parcial de una construcción auxiliar para no superar el 5% de ocupación.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1214122F",
+      "lugar": "Partida La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Licencia provisional a Dormitorium para almacén de colchones en Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia de uso provisional para almacén de colchones, canapés y tapicería en una nave existente en suelo rústico; debe inscribirse en el Registro de la Propiedad.",
+      "entidades": [
+        {
+          "nombre": "Dormitorium, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1225648P",
+      "lugar": "Paraje Artesillas",
+      "interes": 2
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Denegada a T.M. Leader Contract la legalización de nave con orden de demolición",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega una licencia provisional para uso industrial sobre una estructura ilegal en suelo no urbanizable Campiña, con orden de demolición confirmada por sentencias firmes tras un litigio desde 2007 con T.M. Sillerías, S.L.; el informe jurídico lo califica de abuso del derecho.",
+      "entidades": [
+        {
+          "nombre": "T.M. Leader Contract, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "T.M. Sillerías, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1233200D",
+      "lugar": "Polígono 129 (SNU Campiña)",
+      "interes": 3
+    },
+    {
+      "ref": "3.11",
+      "titulo": "Licencia para retejado, reforma de vivienda y piscina en Finca La Quintanilla",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para retejar, reformar el interior de una vivienda y construir piscina.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245661K",
+      "lugar": "Paraje Finca La Quintanilla",
+      "interes": 1
+    },
+    {
+      "ref": "3.12",
+      "titulo": "Denegada rehabilitación de local en suelo destinado a parque urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se deniega la rehabilitación de un local porque el suelo está calificado como parque urbano en el Plan General.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1260067T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.13",
+      "titulo": "Autorizado inicio de obras de vivienda y piscina en La Rabosera",
+      "categoria": "licencia_obra",
+      "resumen": "Tras presentar el proyecto de ejecución, se autoriza empezar las obras de una vivienda aislada con piscina.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1268303H",
+      "lugar": "Paraje La Rabosera",
+      "interes": 1
+    },
+    {
+      "ref": "3.14",
+      "titulo": "Licencia a Dlanada Gestión para nave almacén en polígono Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para una nave industrial de almacén; fianzas de 8.630,37 y 3.051,55 euros por reposición de urbanización y alumbrado.",
+      "entidades": [
+        {
+          "nombre": "Dlanada Gestión, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302179H",
+      "lugar": "Polígono industrial Las Teresas, calle Miguel Servet",
+      "interes": 2
+    },
+    {
+      "ref": "3.15",
+      "titulo": "Licencia para vivienda unifamiliar en esquina",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para vivienda unifamiliar en casco urbano; fianzas de 2.555,94 y 915,86 euros.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1314945N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.16",
+      "titulo": "Licencia de reforma para restablecer la legalidad en vivienda aislada",
+      "categoria": "reclamaciones",
+      "resumen": "Se autoriza una reforma para deshacer obras ilegales (separar dos edificaciones unidas sin permiso), con plazos estrictos y fecha límite el 1 de septiembre de 2026; si no se cumple, el Ayuntamiento retoma la ejecución subsidiaria.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1322784A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.17",
+      "titulo": "Informe favorable a nave industrial de Solo Patas en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El Ayuntamiento apoya ante la Comunidad Autónoma la autorización excepcional por interés público de una nave industrial en suelo no urbanizable, aunque el técnico señala carencias en infraestructuras, inundabilidad y paisaje de la Vía Verde del Chicharra.",
+      "entidades": [
+        {
+          "nombre": "Solo Patas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otro"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1115329T",
+      "lugar": "Paraje Las Teresas",
+      "interes": 3
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Nombramiento interino de Auxiliar Inspector de Rentas y nueva bolsa subsidiaria",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar inspector de rentas interino para Obras y Catastro y se aprueba una bolsa de empleo subsidiaria con 16 aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328846W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Nombramiento interino de auxiliar administrativo para Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se cubre por jubilación una plaza de auxiliar administrativo, prevista la carga de alegaciones por la nueva tasa de residuos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328862R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3-4.6",
+      "titulo": "Cuatro renuncias de funcionarios interinos",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de cuatro renuncias de interinos (jefe de Recaudación, dos auxiliares administrativos y un auxiliar inspector de rentas), varios por obtener plaza en otros ayuntamientos o en otro puesto.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1327651K, 1327669K, 1328025E, 1329022P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Compra de una bomba de calor para el Ayuntamiento",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de suministro de una bomba de calor para la Casa Consistorial.",
+      "entidades": [
+        {
+          "nombre": "Altiplano Comercial del Instalador S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7078.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328389K",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Actividades de conciliación para niños durante la Feria 2026",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba la programación y un gasto de 10.739,80 euros para actividades de corresponsabilidad (niños de 3 a 16 años) en la Feria de septiembre, financiadas con la subvención regional del Plan Corresponsables.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia (Plan Corresponsables)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10739.8,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1327893X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Autorizada la VII Carrera ciclista Ciudad de Yecla del Club Ciclista Altiplano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la carrera del 30 de agosto en circuito urbano junto a la Avenida de la Feria, con colaboración municipal valorada en 834,12 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Altiplano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 834.12,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1319414W",
+      "lugar": "Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Uso provisional de instalaciones deportivas por los clubes en pretemporada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Mientras se convoca la reserva de instalaciones deportivas de la temporada 2026/2027, se autoriza provisionalmente a los clubes federados (grupo 3) a entrenar y jugar partidos de preparación.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328678M",
+      "lugar": "Instalaciones deportivas municipales",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Adhesión a la distinción póstuma de Hijo Adoptivo de Torre Pacheco",
+      "categoria": "organizacion",
+      "resumen": "Yecla se adhiere a la iniciativa del Ayuntamiento de Torre Pacheco de nombrar Hijo Adoptivo a título póstumo a una persona.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Torre Pacheco",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1328136J",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "doc": "2023-08-01_JGL_36",
+  "organo": "JGL",
+  "sesion": 36,
+  "fecha": "2023-08-01",
+  "tipo_sesion": "extraordinaria",
+  "paginas": 33,
+  "resumen": "La Junta de Gobierno paraliza desde el 11 de agosto las obras del Mercado Central hasta aprobar un proyecto modificado, aprueba la Feria de Septiembre con 175.934 euros y convoca 50.000 euros en ayudas a asociaciones de inserción social. Da licencias para un edificio de 24 viviendas en la avenida de Villena, un supermercado en Artesillas, una fábrica de colchones y cuatro naves en Las Teresas. Paga 193.359 euros en facturas (instalaciones deportivas, Podium, Verano en Danza) y aprueba los cursos de la Universidad Popular.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 25 de julio",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: instalaciones deportivas, Podium, agua y otros (193.359 €)",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban nueve facturas: mantenimiento de instalaciones deportivas de junio a Véctoris (75.696 €), actividades deportivas, socorrismo y Plan Corresponsables de abril y mayo a Podium (78.340 €), el 40 % del espectáculo Verano en Danza (14.000 €, a un particular), césped artificial para el ruedo de la Plaza de Toros, señalización del sendero Yecla-Valora y suministro de agua.",
+      "entidades": [
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Vadecons, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quality Sport 2014, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra (Verano en Danza)"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 193358.58,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura 26 de 12/07/23",
+          "eur": 7672.5,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Señalización del sendero azul Yecla-Valora",
+          "eur": 8156.01,
+          "entidad": "Vadecons, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables, abril 2023",
+          "eur": 17197.91,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Plan Corresponsables, mayo 2023",
+          "eur": 12273.32,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, abril 2023",
+          "eur": 22925.95,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Actividades deportivas y socorrismo, mayo 2023",
+          "eur": 25943.17,
+          "entidad": "Podium Gestión Integral, S.L."
+        },
+        {
+          "concepto": "Césped artificial decorativo para el ruedo de la Plaza de Toros",
+          "eur": 9494.2,
+          "entidad": "Quality Sport 2014, S.L."
+        },
+        {
+          "concepto": "40 % del espectáculo Verano en Danza",
+          "eur": 14000.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, junio 2023",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 753263Z, 470771Z, 798951E, 783431Z, 509033Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Últimos pagos de las obras de la capilla de las Angustias y del tejado de la Casa de Cultura",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban la certificación nº 14 y última de la restauración de la Capilla de la Virgen de las Angustias de la Iglesia de San Francisco (21.290,57 €, a la UTE Zima-Pegiro) y la certificación final de la sustitución parcial de la cubierta de la Casa de Cultura (11.578,50 €; no se nombra la contratista).",
+      "entidades": [
+        {
+          "nombre": "UTE Zima, S.L.-Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32869.07,
+      "importes": [
+        {
+          "concepto": "Certificación nº 14 y última, restauración Capilla Virgen de las Angustias",
+          "eur": 21290.57,
+          "entidad": "UTE Zima, S.L.-Pegiro, S.L."
+        },
+        {
+          "concepto": "Certificación final, sustitución parcial de la cubierta de la Casa de Cultura",
+          "eur": 11578.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "480216R",
+      "lugar": "Iglesia de San Francisco y Casa de Cultura",
+      "interes": 2
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Recaudación del festival de baile 'Princesas y el Amor Brujo' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo del 7 de julio: de 11.231 € en entradas puestas a la venta (Instant Ticket) se recaudaron 2.954,00 € y se dan de baja 8.277,00 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Academia de baile local",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2954.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Recaudación del festival de baile 'En el corazón de la selva' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo del 8 de julio: de 11.231 € en entradas puestas a la venta (Instant Ticket) se recaudaron 8.821,00 € y se dan de baja 2.410,00 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Cris Dance",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8821.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "2.5",
+      "titulo": "Recaudación del festival de baile 'Por ti' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo del 14 de julio: de 11.231 € en entradas puestas a la venta (Instant Ticket) se recaudaron 2.630,00 € y se dan de baja 8.601,00 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Academia Paso a Paso",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2630.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "2.6",
+      "titulo": "Recaudación del festival de baile 'Fuera de serie' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo del 15 de julio: de 11.231 € en entradas puestas a la venta (Instant Ticket) se recaudaron 4.509,00 € y se dan de baja 6.722,00 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Academia de Baile Lucasport",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4509.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "2.7",
+      "titulo": "Recaudación del festival de baile 'Por amor al arte' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del espectáculo del 16 de julio: de 11.231 € en entradas puestas a la venta (Instant Ticket) se recaudaron 3.216,00 € y se dan de baja 8.015,00 € de entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Academia Crearte",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "organiza el espectáculo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3216.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "2.8",
+      "titulo": "Recaudación del concierto 'De la zarzuela al musical' en la Plaza de Toros",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la taquilla del concierto de la banda de la Asociación de Amigos de la Música del 21 de julio: de 11.231 € en entradas puestas a la venta se recaudaron 2.224 € y se dan de baja 9.007 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos de la Música",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza el concierto"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 2224.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "794050Y",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Legalización de un altillo en una nave industrial en la carretera de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Se aprueba el proyecto modificado de ampliación de una nave industrial con licencia de 2001 (modificación y legalización de un altillo), a nombre de un particular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747608W",
+      "lugar": "Carretera de Villena km 4 (polígono 43, parcela 185)",
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licencia para un edificio de 24 viviendas en la avenida de Villena",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico para un edificio de 24 viviendas, trasteros y garajes promovido por cinco particulares; no puede empezar sin proyecto de ejecución y exige fianzas de 6.897,50 € (urbanización simultánea) y 30.628 € (reposición de la urbanización).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748402Y",
+      "lugar": "Avenida de Villena",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "La Comunidad de Regantes Hoya del Mollidar-El Portichuelo instala energía renovable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Licencia para mejorar la eficiencia energética y generar energía renovable en sus instalaciones de riego en el campo; deberá tramitar el título de actividad ambiental y depositar 600 € de fianza por daños en caminos.",
+      "entidades": [
+        {
+          "nombre": "Comunidad de Regantes Hoya del Mollidar-El Portichuelo",
+          "cif": null,
+          "tipo": "comunidad_regantes",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754682W",
+      "lugar": "Polígono 69 parcelas 29 y 30; polígono 58 parcelas 9, 140 y 141",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Certain construye un supermercado con aparcamiento en Artesillas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para una nave destinada a supermercado y su aparcamiento junto a la carretera EN-3555; antes de usarla necesita el título de actividad ambiental.",
+      "entidades": [
+        {
+          "nombre": "Certain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "768718P",
+      "lugar": "Paraje Artesillas (polígono 44, parcela 300), junto a la EN-3555",
+      "interes": 3
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Carne Selecta derriba una vivienda en la calle San Ramón",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia de demolición de una vivienda entre medianeras, con fianzas de 421,41 € y 408,15 €, vallado del solar y gestión de residuos; plazo de 3 meses.",
+      "entidades": [
+        {
+          "nombre": "Carne Selecta, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "780186R",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Proyecto Denver construye cuatro naves industriales en Las Teresas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para cuatro naves adosadas sin uso específico, con fianza de 16.587,93 € por reposición de la urbanización.",
+      "entidades": [
+        {
+          "nombre": "Proyecto Denver, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "785924M",
+      "lugar": "Polígono Las Teresas, calle Miguel Servet",
+      "interes": 2
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Ecus Sleep construye una nave para fabricar colchones",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para una nave industrial de fabricación de colchones; antes de usarla necesita el título de actividad ambiental.",
+      "entidades": [
+        {
+          "nombre": "Ecus Sleep, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796970D",
+      "lugar": "Polígono 34, parcela 711",
+      "interes": 3
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Licencia para rehabilitar una vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a dos particulares para rehabilitar su vivienda, con fianza de 300 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "787417K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Mopal Tapizados adecúa una nave para tapicería y oficinas",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia para adaptar una nave en la avenida Juan Carlos I; se le aplica la fianza de 14.243,97 € ya depositada en otro expediente.",
+      "entidades": [
+        {
+          "nombre": "Mopal Tapizados, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "obtiene licencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "797286R",
+      "lugar": "Avenida Juan Carlos I",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Recurso en la bolsa de Técnico de Administración General: se corrige una nota",
+      "categoria": "reclamaciones",
+      "resumen": "Un aspirante recurre su puntuación en el concurso de méritos: se rechaza que se le valore más una prueba superada en otra administración, pero se le reconocen 730 días de experiencia (2,40 puntos en vez de 2,30). Su nota final pasa de 17,03 a 17,13 y sube del 6º al 5º puesto de la bolsa de 8 aspirantes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": "658496D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Se contratan tres peones del Plan de Inserción Social a través del Empleo",
+      "categoria": "personal",
+      "resumen": "Contratación de tres peones (2ª fase del Plan de Promoción e Inserción Social a través del Empleo 2023, programa de mejora de la empleabilidad), seleccionados de una oferta al SEF.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "gestiona la oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801420J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Se contrata un peón joven del Plan de Inserción Social a través del Empleo",
+      "categoria": "personal",
+      "resumen": "Contratación de un peón del programa para menores de 30 años con poca experiencia (2ª fase del Plan 2023).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801420J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Ingeniería para la nueva conexión eléctrica del Mercado Central (12.269 €)",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a un ingeniero (persona física) para los trabajos de las instalaciones de enlace del suministro eléctrico del Mercado Central.",
+      "entidades": [
+        {
+          "nombre": "particular (ingeniero)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 12269.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802644J",
+      "lugar": "Mercado Central",
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Se paralizan las obras del Mercado Central hasta aprobar un modificado",
+      "categoria": "contrato",
+      "resumen": "Se suspenden temporalmente todas las obras de remodelación del Mercado Central desde el 11 de agosto de 2023, porque las partidas que se van a cambiar en el proyecto modificado (autorizado el 18 de julio) están a punto de ejecutarse; seguirán paradas hasta que se apruebe la modificación del contrato.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Actividad del Colegio de Fisioterapeutas en la Plaza Mayor",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el 6 de septiembre, de 19 a 20 h, por el Día Mundial de la Fisioterapia, con fianza de 400 € y uso del punto de luz de la plaza.",
+      "entidades": [
+        {
+          "nombre": "Ilustre Colegio Oficial de Fisioterapeutas de la Región de Murcia",
+          "cif": null,
+          "tipo": "colegio_profesional",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "783935N",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Puesto informativo de AFAY por el Día Mundial del Alzheimer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el 20 de septiembre un puesto en el Parque de la Constitución-calle San Francisco, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Amigos y Familiares de Enfermos de Alzheimer de Yecla (AFAY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "instala puesto informativo"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802552F",
+      "lugar": "Parque de la Constitución - calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Convocatoria de 50.000 € en ayudas a asociaciones de inserción social",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan subvenciones de hasta 50.000 € en total para asociaciones e instituciones con proyectos de atención social, prevención de adicciones, solidaridad o lucha contra la exclusión, para gastos de 2023. Solicitudes hasta el 30 de septiembre de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 50000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802213K",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "8",
+      "titulo": "Cursos y talleres de la Universidad Popular 2023/2024",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación inicial: 22 cursos largos (bolillos, cerámica, corte y confección, restauración, pilates, yoga…) y 14 cortos (micología, cata de vinos, cocina, mindfulness…), con preinscripción del 19 al 25 de septiembre, sorteo si hay más solicitudes que plazas y bonificación del 40 % para mayores de 65, jóvenes, familias numerosas, pensionistas, personas con discapacidad y personas en paro.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "792547K",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Programa y presupuesto de la Feria de Septiembre 2023 (175.934 €)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de la Feria del 15 al 24 de septiembre con un presupuesto de gastos de 175.934 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 175934.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784133Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Visto bueno a una planta fotovoltaica de ESAMUR en la depuradora",
+      "categoria": "medio_ambiente",
+      "resumen": "El Ayuntamiento muestra su conformidad con la planta solar para autoconsumo que ESAMUR instalará en la EDAR de Yecla y se compromete a recibir las obras.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "promueve la obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "791247E",
+      "lugar": "EDAR de Yecla",
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Permiso de ruido para la fiesta aniversario del bar Samsara",
+      "categoria": "licencia_actividad",
+      "resumen": "Informe favorable para una fiesta con DJ la noche del 26 al 27 de agosto: se permiten excepcionalmente 80 dBA en la terraza hasta las 23 h; después la música sigue dentro con el límite nocturno normal de 55 dBA en el exterior. La solicitante es una particular.",
+      "entidades": [
+        {
+          "nombre": "Café Bar Samsara",
+          "cif": null,
+          "tipo": "establecimiento",
+          "rol": "celebra el evento"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802244D",
+      "lugar": "Calle Pascual Amat (local Samsara)",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Uso del Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja particular a celebrar su matrimonio civil en la Casa Consistorial el 1 de septiembre.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802740R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    }
+  ]
+}

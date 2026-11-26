@@ -1,0 +1,1170 @@
+{
+  "doc": "2026-05-05_JGL_22",
+  "organo": "JGL",
+  "sesion": 22,
+  "fecha": "2026-05-05",
+  "tipo_sesion": "ordinaria",
+  "paginas": 59,
+  "resumen": "La Junta adjudicó por 131.000 € la infraestructura de las Fiestas de San Isidro (sonido, aseos, vallas, tribunas, luces y carpas) y reconoció 70.349 € a la empresa de la basura por el servicio de julio de 2024 con el contrato vencido. Concedió 107.700 € en ayudas europeas para rehabilitar 6 viviendas del centro y casi 50.000 € a 69 agricultores y ganaderos. También aprobó los recibos del agua y la basura, y fijó el examen de la oposición a 7 plazas de auxiliar administrativo.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 28 de abril de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.1",
+      "titulo": "Pago de facturas: gasóleo de la piscina cubierta y grúa municipal",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba el pago de tres facturas de gasóleo para la piscina cubierta y del servicio de grúa de retirada de vehículos de marzo.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Grúas Los Raspas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 30528.31,
+      "importes": [
+        {
+          "concepto": "Gasóleo C piscina cubierta, fra. 00095",
+          "eur": 6850.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Gasóleo C piscina cubierta, fra. 00097",
+          "eur": 7650.01,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Gasóleo C piscina cubierta, fra. 00126",
+          "eur": 7388.9,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Retirada, traslado y depósito de vehículos, marzo 2026",
+          "eur": 8639.4,
+          "entidad": "Grúas Los Raspas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750072R, 1151620Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.2",
+      "titulo": "Liquidación de taquilla del monólogo 'Preguntamelón'",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de taquilla del monólogo de Millán Salcedo en el Teatro Concha Segura: 4.324 € vendidos y baja de 5.168 € en entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Instant Ticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4324.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2.3",
+      "titulo": "Recibos del agua (1er trimestre) y de la basura (2º trimestre) de 2026",
+      "categoria": "fiscal",
+      "resumen": "Se aprueban las listas de cobro: agua 339.098,91 €, canon municipal 31.278,65 €, canon de saneamiento regional 247.904,33 € y tasa de basura 889.139,60 €; se anulan recibos de basura de 2025 por 25.104 €.",
+      "entidades": [
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "concesionaria y recaudadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 889139.6,
+      "importes": [
+        {
+          "concepto": "Lista cobratoria agua potable 1T 2026",
+          "eur": 339098.91,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Canon municipal 2T 2026 (ingreso para el Ayuntamiento)",
+          "eur": 31278.65,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Canon de saneamiento (por cuenta de la CARM)",
+          "eur": 247904.33,
+          "entidad": "Comunidad Autónoma de la Región de Murcia"
+        },
+        {
+          "concepto": "Tasa recogida de residuos 2T 2026",
+          "eur": 889139.6,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Anulación recibos basura 2025",
+          "eur": -25104.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276698R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "2.4",
+      "titulo": "Ayudas europeas para rehabilitar 6 viviendas en el centro (Yecla Centro Fase I)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden definitivamente ayudas de rehabilitación energética a 6 vecinos del entorno 'Yecla Centro Fase I' (fondos Next Generation EU), entre 14.500 y 21.400 € cada una; obras antes del 30 de junio de 2026 y pago tras justificar.",
+      "entidades": [
+        {
+          "nombre": "Unión Europea – Next Generation EU (PRTR)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 107700.0,
+      "importes": [
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 14500.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 14500.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 14500.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 21400.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 21400.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Ayuda rehabilitación vivienda (particular)",
+          "eur": 21400.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1060556W",
+      "lugar": "Entorno residencial ERRP 'Yecla Centro. Fase I'",
+      "interes": 3
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Inicio de obras de una vivienda unifamiliar en Avda. de la Paz",
+      "categoria": "licencia_obra",
+      "resumen": "Se autoriza a una particular el inicio de obras de una vivienda unifamiliar entre medianeras, con fianza de 609,25 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 609.25,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1185324J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Prórroga de 12 meses de una licencia de vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se amplía 12 meses el plazo para terminar una vivienda unifamiliar con trastero y garaje, porque la prórroga se pidió antes de que venciera.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "617976A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Oposición a 7 plazas de auxiliar administrativo: admitidos, tribunal y fechas",
+      "categoria": "personal",
+      "resumen": "Se aprueban las listas provisionales de admitidos y excluidos (7 excluidos, sobre todo por presentar fuera de plazo), adaptaciones para personas con discapacidad, el tribunal, y se fija el primer examen tipo test el 10 de septiembre de 2026 en el IES Azorín.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1089633E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Nombramiento interino de un auxiliar administrativo para Cultura y Festejos",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa a un/a auxiliar administrativo/a interino/a para Cultura y Festejos, por la vacante que deja la anterior titular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274748J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Excedencia voluntaria de la jefa de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se concede a la jefa de negociado de Gestión Tributaria excedencia voluntaria por interés particular de al menos dos años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276792Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Jubilación de una auxiliar administrativa tras 36 años",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación anticipada de una empleada municipal el 13 de julio de 2026 y se le agradecen sus servicios.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276885C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Reconocimiento de antigüedad a un mantenedor de la Brigada de Obras",
+      "categoria": "personal",
+      "resumen": "Se reconocen 6 meses y 5 días trabajados en el Ayuntamiento de Caudete, con abono de un trienio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1272647Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Respuesta a un trabajador sobre la Relación de Puestos de Trabajo",
+      "categoria": "personal",
+      "resumen": "Se explica a un mantenedor que el error del organigrama ya se corrigió en 2023 y que su puesto corresponde a la Brigada de Obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "1268234M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Guardias provisionales de fontanería a un mantenedor",
+      "categoria": "personal",
+      "resumen": "Se asigna a un mantenedor el servicio de guardias de la Brigada de Fontaneros del 27 de abril al 7 de junio, con su plus de penosidad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275880F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Horario laboral 2026 de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se aprueba el cuadrante de horarios de los empleados de la Universidad Popular.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276699T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Infraestructura de las Fiestas de San Isidro 2026: 6 lotes adjudicados",
+      "categoria": "contrato",
+      "resumen": "Se adjudican los 6 lotes del contrato de sonido, aseos, vallas, tribunas, iluminación y carpas de las fiestas de San Isidro, por un total de 131.109,55 €.",
+      "entidades": [
+        {
+          "nombre": "Audiotec Sonido e Iluminación, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Camión Toilet, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Decourba 2007, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Montajes Arco Mediterráneo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Invemat Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 131109.55,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de conciertos y espectáculos",
+          "eur": 44770.0,
+          "entidad": "Audiotec Sonido e Iluminación, S.L."
+        },
+        {
+          "concepto": "Lote 2: aseos, casetas sanitarias y camerinos",
+          "eur": 24066.9,
+          "entidad": "Camión Toilet, S.L.U."
+        },
+        {
+          "concepto": "Lote 3: vallado ornamental",
+          "eur": 15415.4,
+          "entidad": "Decourba 2007, S.L.U."
+        },
+        {
+          "concepto": "Lote 4: tribunas y sillas de la Cabalgata de Carrozas",
+          "eur": 13279.75,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        },
+        {
+          "concepto": "Lote 5: iluminación ornamental y suministro eléctrico Ventorrillos y atracciones",
+          "eur": 20691.0,
+          "entidad": "Invemat Levante, S.L."
+        },
+        {
+          "concepto": "Lote 6: carpas del Recinto de los Ventorrillos",
+          "eur": 12886.5,
+          "entidad": "Montajes Arco Mediterráneo, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1247320P",
+      "lugar": "Recinto de los Ventorrillos y vía pública",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Asistencia técnica y pericial del campo nº 2 del Complejo Juan Palao",
+      "categoria": "contrato",
+      "resumen": "Contrato menor de asistencia técnica y pericial para el campo de fútbol nº 2 del Complejo Juan Palao Azorín.",
+      "entidades": [
+        {
+          "nombre": "Calderón y Asociados Ingeniería, S.L.P.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 14822.5,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238272Y",
+      "lugar": "Complejo Juan Palao Azorín",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de King Pizzería Kebab",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 8 m² (temporada de verano) para 'King Pizzería Kebab'.",
+      "entidades": [
+        {
+          "nombre": "King Pizzería Kebab",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238442J",
+      "lugar": "Calle San Antonio",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de Café Glamour",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 26 m² (temporada de verano) para 'Café Glamour'.",
+      "entidades": [
+        {
+          "nombre": "Café Glamour",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1254212M",
+      "lugar": "Calle San Ramón",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de Restaurante El Carmín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 14 m² (temporada de verano) para 'Restaurante El Carmín'.",
+      "entidades": [
+        {
+          "nombre": "Restaurante El Carmín",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1254274Y",
+      "lugar": "Calle Rogelio Azorín Navarro",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Terraza de Cafetería Sambodromo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 54 m² (temporada anual) para 'Cafetería Sambodromo'.",
+      "entidades": [
+        {
+          "nombre": "Cafetería Sambodromo",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1256226J",
+      "lugar": "Avenida Literato Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Terraza de Café Central Park",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular una terraza de 42 m² (temporada de verano) para 'Café Central Park'.",
+      "entidades": [
+        {
+          "nombre": "Café Central Park",
+          "cif": null,
+          "tipo": "negocio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258206J",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Puesto en el mercado por el Día Mundial Sin Tabaco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza un puesto informativo de Atención Primaria del Área V de Salud en el mercado de la Plaza Mayor el 27 de mayo.",
+      "entidades": [
+        {
+          "nombre": "Área V de Salud – Servicio Murciano de Salud",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274534M",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.7-6.11",
+      "titulo": "Puestos ambulantes de juguetes y globos en San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se conceden a 5 vendedores particulares licencias de puestos eventuales (carritos de juguetes, globos, golosinas) para las fiestas y la Cabalgata, con tasas de 4 a 18 € cada uno.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 48.0,
+      "importes": [
+        {
+          "concepto": "Tasa puestos eventuales",
+          "eur": 6.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Tasa puestos eventuales",
+          "eur": 12.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Tasa puestos eventuales",
+          "eur": 4.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Tasa puestos eventuales",
+          "eur": 18.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Tasa puestos eventuales",
+          "eur": 8.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1266511T, 1266525N, 1267352M, 1268270M, 1270491X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.12",
+      "titulo": "Procesión-ofrenda del Colegio La Inmaculada por San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la procesión-ofrenda del colegio el 15 de mayo por varias calles del centro, con apoyo de Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Colegio Concertado La Inmaculada",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181851K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.13",
+      "titulo": "Almuerzos de catequesis de la Parroquia de San Juan Bautista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza ocupar la Plaza Concejala María del Carmen Lorente los días 10 y 17 de mayo para almuerzos parroquiales.",
+      "entidades": [
+        {
+          "nombre": "Parroquia de San Juan Bautista de Yecla",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1272335H",
+      "lugar": "Plaza Concejala María del Carmen Lorente",
+      "interes": 1
+    },
+    {
+      "ref": "6.14",
+      "titulo": "Graduaciones del IES Azorín en la explanada de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autorizan los actos de graduación los días 22 y 23 de junio, con escenario y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "IES J. Martínez Ruiz 'Azorín'",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274354M",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.15",
+      "titulo": "Traslado de una farola que bloquea la entrada a una vivienda",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un vecino mover una farola 2,5 m a su costa, con fianza de 473,14 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 473.14,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276850D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1-7.2",
+      "titulo": "Auditorio Juan Miguel Benedito para galas de escuelas de danza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a dos particulares el uso del Auditorio para galas de fin de curso de escuelas de baile (30 de mayo y 13 de junio), pagando 400 € cada una por sonido e iluminación.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274708D, 1274767K",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Auditorio para las obras de fin de curso de ATTIS Teatro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Auditorio el 30 de junio y 1 de julio, con precio público de 240 €.",
+      "entidades": [
+        {
+          "nombre": "ATTIS Teatro, Escuela de Formación de Artistas de Yecla",
+          "cif": null,
+          "tipo": "escuela",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 240.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274799E",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Auditorio para la graduación del AMPA del IES Felipe VI",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Auditorio el 26 de junio para la graduación de 2º de Bachillerato, con precio público de 120 €.",
+      "entidades": [
+        {
+          "nombre": "A.M.P.A. del IES Felipe VI",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275939N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Salón del Edificio Bioclimático para AMUSAL",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos el 22 de mayo para una junta directiva de la asociación empresarial.",
+      "entidades": [
+        {
+          "nombre": "Asociación Empresarial de Sociedades Laborales y Participadas de la Región de Murcia (AMUSAL)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276633C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Sala del Centro de Emprendimiento para una charla de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una sala el 30 de junio para una charla sobre el linfedema.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274491C",
+      "lugar": "Centro de Emprendimiento",
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Visita del Centro Excursionista al Aula de la Naturaleza Coto Salinas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Aula de la Naturaleza el 10 de mayo para actividades ambientales.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1278282R",
+      "lugar": "Aula de la Naturaleza Coto Salinas",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "XVI Muestra Nacional de Folclore 'Ciudad de Yecla'",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba celebrar la muestra de folclore el 9 de mayo con un presupuesto de 11.507,10 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11507.1,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274680P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9.1",
+      "titulo": "Prácticas de alumnos del IES Castillo Puche en Deportes",
+      "categoria": "convenio",
+      "resumen": "Se autorizan prácticas no remuneradas de 3 alumnos del ciclo de Animación Sociodeportiva en el Servicio de Deportes, con colaboración de la empresa del servicio deportivo.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1248936J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9.2",
+      "titulo": "Prácticas de un alumno del IES Monastil de Elda en Deportes",
+      "categoria": "convenio",
+      "resumen": "Se autorizan prácticas no remuneradas de un alumno del ciclo de Guía en el Medio Natural.",
+      "entidades": [
+        {
+          "nombre": "IES Monastil (Elda)",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Podium Gestión Integral, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1238061E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Escenario y sillas para la entrega de orlas del IES Castillo Puche",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede un escenario de 8x4 m y sillas para el acto del 25 de junio.",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "centro_educativo",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274408M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Zanja en camino público para tubería de riego de Agrícola Jimbo",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a Agrícola Jimbo S.L. abrir una zanja en un camino público rural para instalar una tubería de riego, con fianza de 1.611 €.",
+      "entidades": [
+        {
+          "nombre": "Agrícola Jimbo, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1611.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1275151T",
+      "lugar": "Camino público junto a polígono 106",
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Curso de iniciación a la marcha nórdica",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el curso del Centro Excursionista y AYAC impartido por la Federación de Montañismo, con uso gratuito de instalaciones valorado en 31 €.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Montañismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "imparte"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 31.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1267576Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Final Regional de Atletismo Escolar en Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba organizar con la CARM, la FAMU y el Club de Atletismo Yeclano la final regional escolar del 8 de mayo, con aportación municipal máxima de 1.000 €.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "coorganiza"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1117346W",
+      "lugar": "Complejo Polideportivo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Indemnización de 70.348,76 € a Actúa por la basura y limpieza de julio de 2024",
+      "categoria": "reclamaciones",
+      "resumen": "Se reconoce a la empresa de recogida de basura y limpieza viaria, que sigue prestando el servicio con el contrato vencido, una indemnización por la diferencia de costes de julio de 2024, para evitar el enriquecimiento injusto del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Actúa Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 70348.76,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Sustitución de 30 m de alcantarillado en la calle Argentina",
+      "categoria": "contrato",
+      "resumen": "Se aprueba la memoria (12.536,19 €) y se adjudica la obra por contrato menor.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 10890.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1276683X",
+      "lugar": "Calle Argentina",
+      "interes": 2
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Informe municipal sobre el desdoblamiento de la carretera RM-425 hacia la A-33",
+      "categoria": "urbanismo_planeamiento",
+      "resumen": "El Ayuntamiento envía su informe técnico a la evaluación ambiental del proyecto regional de desdoblar la RM-425 entre la variante de Yecla y la autovía A-33.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Medio Ambiente (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        },
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promotora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1275177E",
+      "lugar": "Carretera RM-425",
+      "interes": 3
+    },
+    {
+      "ref": "14.4",
+      "titulo": "Ayudas de 49.996 € a 69 agricultores y ganaderos",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden y pagan ayudas por la subida de costes (energía, guerra de Ucrania) a 69 explotaciones agrarias y ganaderas; se deniegan 13 de 82 solicitudes por no cumplir requisitos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 49996.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1192175Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Nueva adjudicación del bar de las Fiestas de San Isidro",
+      "categoria": "contrato",
+      "resumen": "Tras la renuncia del primer adjudicatario, se adjudica el bar de las fiestas a la segunda mejor oferta, un particular que pagará 6.605 € al Ayuntamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 6605.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1243284J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Día Movimiento Vino D.O. en la Plaza de España",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Consejo Regulador de la D.O.P. Yecla la jornada de promoción del vino el 9 de mayo, con cesión de dos carpas y seis papeleras y fianza de limpieza de 500 €.",
+      "entidades": [
+        {
+          "nombre": "Consejo Regulador de la Denominación de Origen Protegida Yecla",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1279407E",
+      "lugar": "Plaza de España",
+      "interes": 2
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Plan de seguridad y salud del parcheo de caminos rurales",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de parcheo de caminos rurales.",
+      "entidades": [
+        {
+          "nombre": "Mediterráneo de Obras y Asfaltos, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1269364F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "organizacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

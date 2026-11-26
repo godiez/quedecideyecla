@@ -1,0 +1,438 @@
+{
+  "doc": "2023-12-29_JGL_56",
+  "organo": "JGL",
+  "sesion": 56,
+  "fecha": "2023-12-29",
+  "tipo_sesion": "extraordinaria y urgente",
+  "paginas": 14,
+  "resumen": "En la última Junta de Gobierno del año se reparten las subvenciones de 2023: 100.000 euros a 16 clubes deportivos, 17.000 euros en becas a deportistas y 10.000 euros a asociaciones culturales. Se propone adjudicar a Alma Ata Salud el nuevo contrato del Centro de Día de mayores y se licita el Carnaval 2024 por unos 64.000 euros. Además se contrata el concierto de Fin de Año con la Orquesta Filarmonía Ibérica (16.335 euros) y se prohíbe a Eulen retirar los muebles de los pisos del proyecto 'Housing First', porque ya los pagó el Ayuntamiento.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Ratificación de la urgencia de la sesión",
+      "categoria": "organizacion",
+      "resumen": "Se ratifica la urgencia de la convocatoria.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "862578A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Pago a Eulen por el proyecto Housing First de alojamiento a personas sin hogar",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba el pago a Eulen Servicios Sociosanitarios por el contrato del proyecto piloto 'Housing First' y alojamiento transitorio (fondos europeos).",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7614.78,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Housing First: Eulen no puede llevarse el equipamiento de las viviendas",
+      "categoria": "contrato",
+      "resumen": "Eulen anunció que retiraría el equipamiento de las viviendas alquiladas del proyecto (valorado por ella en 2.024,38 €) para compensar una posible sanción por incumplimientos. El Ayuntamiento le ordena no retirar nada porque ese equipamiento ya está pagado en el precio del contrato y debe quedar para que las personas beneficiarias sigan en las viviendas.",
+      "entidades": [
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 2024.38,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "647410F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Licitación del Carnaval 2024 en cinco lotes (64.275 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre procedimiento abierto simplificado abreviado, de tramitación anticipada, para la infraestructura y organización del Carnaval 2024 (valor estimado 53.120 € sin IVA): producción y desfiles, taquilla y limpieza, vallado, alumbrado ornamental y carpa en la Plaza de San Cayetano.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 64275.2,
+      "importes": [
+        {
+          "concepto": "Lote 1: producción e infraestructura de actividades, espectáculos y desfiles",
+          "eur": 33396.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: acomodación, taquilla, control y limpieza",
+          "eur": 4440.7,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 3: alquiler de vallado de protección-decorativo",
+          "eur": 2662.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 4: alquiler de alumbrado ornamental de Carnaval",
+          "eur": 16940.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 5: alquiler de carpa en Plaza de San Cayetano",
+          "eur": 6836.5,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "844514M",
+      "lugar": "Plaza de San Cayetano",
+      "interes": 2
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Centro de Día de mayores: Alma Ata Salud, propuesta como adjudicataria",
+      "categoria": "contrato",
+      "resumen": "De las dos ofertas presentadas al contrato del Centro de Día para personas mayores dependientes (procedimiento abierto con publicidad europea), la mejor valorada es Alma Ata Salud (56,58 puntos). Se le pide la documentación y una garantía de 25.485 € (5 % del precio anual sin IVA, lo que supone unos 509.700 € al año).",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "propuesta adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25485.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836272P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Prórroga del alquiler de un local municipal en la Plaza Mayor",
+      "categoria": "patrimonio",
+      "resumen": "Se prorroga un año (7-5-2023 a 6-5-2024) el contrato de alquiler a una particular de un inmueble municipal en la Plaza Mayor, con actualización de la renta según el IPC.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "arrendataria"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "784034M",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Concierto de Fin de Año con la Orquesta Filarmonía Ibérica: 16.335 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica por contrato menor la actuación de la Orquesta Filarmonía Ibérica en el concierto de Fin de Año (Navidad 2023).",
+      "entidades": [
+        {
+          "nombre": "Produccions Musicals Hispania Artis, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16335.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "857082R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4",
+      "titulo": "Escuela de Navidad de la AMPA del CEIP Giner de los Ríos",
+      "categoria": "servicios_actividades",
+      "resumen": "Se autoriza a la AMPA a usar el colegio del 26 al 29 de diciembre y del 2 al 5 de enero (7:45-14:45) para su Escuela de Navidad, haciéndose cargo de limpieza, vigilancia y posibles daños.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita uso de instalaciones"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "862581E",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "5",
+      "titulo": "Subvenciones de cultura 2023: 10.000 € a 11 beneficiarios",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reparten las ayudas a programas de promoción y difusión de la cultura de 2023; la mayor, 4.000 € para el Cine Club Odeón. El pago queda condicionado a justificar el gasto y estar al corriente con Hacienda y la Seguridad Social.",
+      "entidades": [
+        {
+          "nombre": "Cine Club Odeón",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Peña Flamenca de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Belenistas de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Amigos del Museo Arqueológico de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Centro de Estudios Locales de Yecla y Norte de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 10000.0,
+      "importes": [
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 300.0,
+          "entidad": "Asociación de Teatro \"Tras el telón\""
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 500.0,
+          "entidad": "Asociación de Cultura Popular y Promoción de Adultos La Purísima"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 600.0,
+          "entidad": "Centro de Estudios Locales de Yecla y Norte de Murcia"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 700.0,
+          "entidad": "Asociación de Amigos del Museo Arqueológico de Yecla"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 4000.0,
+          "entidad": "Cine Club Odeón"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 750.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 300.0,
+          "entidad": "Asociación Yecla Siglo de Oro"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 400.0,
+          "entidad": "Asociación Cultural Círculo Poético de Yecla"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 1200.0,
+          "entidad": "Peña Flamenca de Yecla"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 500.0,
+          "entidad": "Asociación de Cultura Popular y Promoción de Adultos San Nicolás"
+        },
+        {
+          "concepto": "Programas de cultura 2023",
+          "eur": 750.0,
+          "entidad": "Asociación de Belenistas de Yecla"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836749C",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6",
+      "titulo": "Subvenciones de deporte 2023: 100.000 € a 16 clubes y 17.000 € en becas",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reparten 100.000 € entre 16 clubes (90.000 € temporada 2022/23 y 10.000 € inicio 2023/24); las mayores, Red Deportiva Yecla (13.920 €) y EF Ciudad de Yecla (12.650 €). Se dan 17.000 € en becas a 46 deportistas no profesionales (de 125 a 1.300 €) y se deniegan 4 solicitudes individuales y dos actividades (V Triatlón Ciudad de Yecla y Liga Escolar Albatros) por quedar fuera de la convocatoria. Además se valora en 315.638,61 € el uso gratuito de instalaciones deportivas municipales por los clubes.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "EF Ciudad de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación Deportiva Albatros Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Yecla CF",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "becas a deportistas"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 117000.0,
+      "importes": [
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 3000.0,
+          "entidad": "Club Montañero Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 13920.0,
+          "entidad": "Red Deportiva Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 9600.0,
+          "entidad": "Asociación Deportiva Albatros Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 1350.0,
+          "entidad": "Club Ciclista Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 12650.0,
+          "entidad": "EF Ciudad de Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 8550.0,
+          "entidad": "Agrupación Deportiva Atletismo Yeclano"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 4300.0,
+          "entidad": "Club Natación Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 8150.0,
+          "entidad": "Club Triatlón Arabí Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 4300.0,
+          "entidad": "Club Fondistas Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 5050.0,
+          "entidad": "No Hay Límite Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 4050.0,
+          "entidad": "Sociedad Deportiva Hispania"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 975.0,
+          "entidad": "CTM Altiplano"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 5530.0,
+          "entidad": "Club Gimnasia Rítmica Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 6150.0,
+          "entidad": "Centro Excursionista Yecla"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 8675.0,
+          "entidad": "Yecla CF"
+        },
+        {
+          "concepto": "Subvención clubes 2023",
+          "eur": 3750.0,
+          "entidad": "Club de Ajedrez Municipal Yeclano"
+        },
+        {
+          "concepto": "Becas a 46 deportistas no profesionales (de 125 a 1.300 €)",
+          "eur": 17000.0,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "836707T",
+      "lugar": null,
+      "interes": 3
+    }
+  ]
+}

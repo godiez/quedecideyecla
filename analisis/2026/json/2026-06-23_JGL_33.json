@@ -1,0 +1,910 @@
+{
+  "doc": "2026-06-23_JGL_33",
+  "organo": "JGL",
+  "sesion": 33,
+  "fecha": "2026-06-23",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "Se aprueba el programa de conciertos de la Feria de Septiembre 2026 (267.894 euros, con Omar Montes, D. Valentino o Medina Azahara) y se pagan unos 625.000 euros en facturas de basuras, jardines, limpieza y centro de día. El Ayuntamiento informa en contra de una fábrica de colchones de Diseño Rodrima en suelo protegido por yacimientos arqueológicos (Torrejones). Además se convocan ayudas sociales (24.720 euros), se aprueba la fase II del plan de empleo social (54.018 euros) y se piden cinco cámaras de vigilancia para zonas rurales.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 16 de junio de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Sentencia firme del TSJ de Murcia sobre urbanismo",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de una sentencia firme del Tribunal Superior de Justicia de Murcia (apelación 348/2024) sobre un asunto de urbanismo; el acta no dice el contenido.",
+      "entidades": [
+        {
+          "nombre": "Tribunal Superior de Justicia de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1305747N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basuras, jardines, limpieza, centro de día y alcantarillado",
+      "categoria": "pago_factura",
+      "resumen": "Se pagan las facturas de mayo de recogida de basuras y limpieza viaria, jardines, limpieza de edificios municipales y centro de día de mayores, el tratamiento de residuos de abril y la sustitución de un colector en calle Argentina.",
+      "entidades": [
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 625305.89,
+      "importes": [
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, abril 2026",
+          "eur": 78271.4,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Recogida de basuras, recogida selectiva y limpieza viaria, mayo 2026",
+          "eur": 365314.87,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Mantenimiento de jardines y zonas verdes, mayo 2026",
+          "eur": 66900.71,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, mayo 2026",
+          "eur": 41437.2,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, mayo 2026 (C.SE. 9/25)",
+          "eur": 62491.71,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Contrato menor: sustitución de 30 m de colector de alcantarillado en calle Argentina",
+          "eur": 10890.0,
+          "entidad": "Construcciones J.J. Gómez Yecla, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "584325N, 712712D, 777199T, 836272P, 1132021C, 1276683X",
+      "lugar": "Calle Argentina (colector)",
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Premios del concurso de carrozas de San Isidro 2026",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reconoce el pago de los premios y accésits del concurso de carrozas de la Cabalgata de San Isidro 2026 a las entidades premiadas (el acta no las nombra). Parte la paga el Ayuntamiento y sus concejalías (8.500 euros) y parte los patrocinadores (11.450 euros).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 19950.0,
+      "importes": [
+        {
+          "concepto": "Premios y accésits a cargo del Ayuntamiento y concejalías",
+          "eur": 8500.0,
+          "entidad": "Ayuntamiento de Yecla"
+        },
+        {
+          "concepto": "Premios a cargo de patrocinadores (categoría adulta)",
+          "eur": 5850.0,
+          "entidad": "patrocinadores"
+        },
+        {
+          "concepto": "Premios a cargo de patrocinadores (categoría infantil)",
+          "eur": 5600.0,
+          "entidad": "patrocinadores"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1257996R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de promotor en una licencia de rehabilitación de vivienda",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota del cambio de promotores en una licencia ya concedida para rehabilitar una vivienda adosada.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1035844Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para construir una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a particulares para construir una vivienda unifamiliar entre medianeras, con fianzas de 555,17 y 239,07 euros por la urbanización y el alumbrado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1258344A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Licencia para rehabilitar una vivienda en esquina",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia a un particular para rehabilitar una vivienda unifamiliar en esquina.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1190637N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Licencia para reformar la Residencia de Ancianos Santa Teresa Jornet",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia (con proyecto básico, aún sin permiso para empezar las obras) a las Hermanitas de los Ancianos Desamparados para adecuar y reformar en parte la residencia de la Avenida Literato Azorín.",
+      "entidades": [
+        {
+          "nombre": "Congregación Hermanitas de los Ancianos Desamparados",
+          "cif": null,
+          "tipo": "entidad_religiosa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1274027H",
+      "lugar": "Avenida Literato Azorín, 33 (Residencia Santa Teresa Jornet)",
+      "interes": 2
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Licencia para construir una vivienda aislada en paraje Arenales",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico a una particular para una vivienda unifamiliar aislada en suelo rústico; exige finca indivisible de al menos 20.000 m2 y permiso de vertidos de la Confederación Hidrográfica del Segura.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245760Y",
+      "lugar": "Paraje Arenales, polígono 52",
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Licencia para construir una vivienda entre medianeras",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico a un particular para una vivienda unifamiliar entre medianeras, con fianza de 811,12 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1255938J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Licencia para construir una vivienda aislada en paraje Los Quiñones",
+      "categoria": "licencia_obra",
+      "resumen": "Licencia con proyecto básico a un particular para una vivienda unifamiliar aislada en suelo rústico, con finca indivisible mínima de 20.000 m2.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1283879Q",
+      "lugar": "Paraje Los Quiñones, polígono 115",
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Informe en contra de una fábrica de colchones en suelo arqueológico protegido",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El Ayuntamiento emite informe desfavorable a la petición de Diseño Rodrima, S.L. para construir una nave de fabricación y almacén de colchones en suelo no urbanizable protegido por yacimientos arqueológicos en Torrejones, porque no se cumplen los requisitos de interés público. Se desestima la alegación de un particular y se envía el expediente a la Consejería de Fomento, que es quien decide.",
+      "entidades": [
+        {
+          "nombre": "Diseño Rodrima, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Consejería de Fomento e Infraestructuras (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "789964Y",
+      "lugar": "Paraje Torrejones, polígono 45, parcela 586",
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Oposición a Director de la Escuela de Bellas Artes: admitidos y fechas",
+      "categoria": "personal",
+      "resumen": "Lista provisional de 6 admitidos, tribunal y fechas (15 y 27 de octubre de 2026) del concurso-oposición para una plaza de Director de la Escuela Municipal de Bellas Artes (grupo A2).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077061T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Oposición a dos plazas de Auxiliar de Hogar: admitidos y fechas",
+      "categoria": "personal",
+      "resumen": "Lista provisional de 37 admitidos, tribunal y fechas (19 y 22 de octubre de 2026) del concurso-oposición para dos plazas fijas de Auxiliar de Hogar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1077168R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Bases para crear una bolsa de empleo de Director/a de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases y la convocatoria de un concurso-oposición para crear una bolsa de empleo de Director/a de la Universidad Popular (grupo A2), con 20 días naturales para presentar instancias tras su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1300265Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.4",
+      "titulo": "Nombramiento de un auxiliar administrativo interino para el Registro",
+      "categoria": "personal",
+      "resumen": "Se nombra de la bolsa de empleo un auxiliar administrativo interino para cubrir una renuncia en el Registro General, que se quedaba con una sola persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306544W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5",
+      "titulo": "Nombramiento de un auxiliar administrativo interino por excedencia",
+      "categoria": "personal",
+      "resumen": "Se nombra un auxiliar administrativo interino para sustituir del 20 de julio al 9 de septiembre de 2026 a una trabajadora del Registro en excedencia por cuidado de hijo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306681K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.6",
+      "titulo": "Contrato temporal de limpiador/a para el Ayuntamiento en verano",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un/a limpiador/a del 1 de julio al 30 de septiembre de 2026 para cubrir las vacaciones del personal de limpieza de la Casa Consistorial.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1303426P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.7",
+      "titulo": "Técnicas de Servicios Sociales a una reunión en Jumilla",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres técnicas del programa de Familias y Menores asistir a una reunión con la CARM en Jumilla el 25 de junio, pagando el Ayuntamiento los desplazamientos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1213842R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.8",
+      "titulo": "Jefe de la Policía Local a una jornada técnica en Valencia",
+      "categoria": "personal",
+      "resumen": "Se autoriza al Inspector Jefe accidental de la Policía Local a asistir a la jornada 'Innovación en Seguridad Pública' en Valencia el 30 de junio.",
+      "entidades": [
+        {
+          "nombre": "Expocom",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1307351Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.9",
+      "titulo": "Renuncia de una auxiliar administrativa interina",
+      "categoria": "personal",
+      "resumen": "Se toma conocimiento de la renuncia de una auxiliar administrativa interina del Registro General, con efectos del 30 de junio de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1306620A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Contratar el concierto 'Tributo Las Guerreras KPop' en la Plaza de Toros",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y un gasto de 20.570 euros para contratar, sin publicidad por exclusividad del representante, el espectáculo 'Tributo Las Guerreras KPop' en la Plaza de Toros dentro de Verano en Danza 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 20570.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304216M",
+      "lugar": "Plaza de Toros",
+      "interes": 2
+    },
+    {
+      "ref": "7",
+      "titulo": "Terraza de verano para el bar 'Tino' en calle Cruz de Piedra",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a instalar una terraza de 18 m2 del bar 'Tino' en calle Cruz de Piedra durante la temporada de verano (abril a octubre de 2026).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1301482P",
+      "lugar": "Calle Cruz de Piedra, 126 (bar Tino)",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos el 26 de junio de 2026 para su boda civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1305275H",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Salón del Edificio Bioclimático para la Escuela de Padres de No Hay Límite",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el salón de actos del Edificio Bioclimático a la Asociación No Hay Límite Yecla para una charla de su Escuela para Padres el 30 de junio.",
+      "entidades": [
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306058W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Salón del Edificio Bioclimático para Red Deportiva Yecla toda la temporada",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a Red Deportiva Yecla a usar el salón de actos del Edificio Bioclimático durante la temporada 2026/27, confirmando antes la disponibilidad.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306498F",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Sótano de Cazadores para el campamento urbano de AFEDECO",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Centro de Ocio 'Sótano de Cazadores' a AFEDECO para un campamento urbano de jóvenes los martes de julio de 2026.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Formación y Desarrollo Comunitario de Yecla (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296845Z",
+      "lugar": "Sótano de Cazadores (Edificio Bioclimático)",
+      "interes": 1
+    },
+    {
+      "ref": "8.5",
+      "titulo": "Escuela de verano en el CEIP San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP San José de Calasanz a usar el colegio en julio de 2026 para una escuela de verano gestionada por una particular (Arcoiris), con seguro y limpieza a su cargo.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1305551Q",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "8.6",
+      "titulo": "Escuela de verano en el CEIP Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Giner de los Ríos a usar el colegio en julio de 2026 para una escuela de verano gestionada por una particular (Arcoiris).",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1305526F",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "8.7",
+      "titulo": "Escuela de verano en el CEIP Méndez Núñez",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la AMPA del CEIP Méndez Núñez a usar el colegio en julio de 2026 para una escuela de verano gestionada por una particular (Arcoiris).",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Méndez Núñez",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1305578D",
+      "lugar": "CEIP Méndez Núñez",
+      "interes": 1
+    },
+    {
+      "ref": "8.8",
+      "titulo": "Denegada la gala benéfica de ADFY en la explanada de San Francisco",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la asociación de discapacidad ADFY una gala benéfica con barra en la explanada de la Iglesia de San Francisco (ya había otro acto ese día y no se permiten barras allí); se le propone hacerla en el Teatro Concha Segura.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Personas con Discapacidad Física, Orgánica y Sensorial de Yecla (ADFY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1304170Y",
+      "lugar": "Explanada de la Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Convocatoria de ayudas a entidades sociales 2026 (24.720 euros)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se convocan subvenciones de hasta 24.720 euros para entidades sin ánimo de lucro con proyectos de prevención, promoción e inserción social y alojamiento para personas vulnerables; 20 días para pedirlas tras el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 24720.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1302492R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Plan de empleo social 2026, fase II: 8 contratos de tres meses",
+      "categoria": "personal",
+      "resumen": "Se aprueba la segunda fase del Plan de Promoción e Inserción Social a través del Empleo, con 54.018 euros para contratar por tres meses, vía oferta al SEF, a cinco peones, dos albañiles y un pintor para Festejos y la Brigada de Obras.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 54018.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1303808W",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Conciertos de la Feria de Septiembre 2026: 267.894 euros",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de actuaciones de la Feria 2026 y su presupuesto (267.894 euros con IVA): Omar Montes (85.000 euros sin IVA), D. Valentino (54.000), Medina Azahara (30.000), Los Rebeldes, Hey Kid, tributo a Julio Iglesias, espectáculos infantiles y grupos locales.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 267894.0,
+      "importes": [
+        {
+          "concepto": "Medina Azahara (11 sept), sin IVA",
+          "eur": 30000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "D. Valentino (12 sept), sin IVA",
+          "eur": 54000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Los Rebeldes (13 sept), sin IVA",
+          "eur": 19000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil 'La Fiesta de Mickey Mouse' (15 sept), sin IVA",
+          "eur": 3800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Infantil 'Timón y Pumba' (16 sept), sin IVA",
+          "eur": 4000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Grupos locales (17 sept), sin IVA",
+          "eur": 1800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Hey Kid (18 sept), sin IVA",
+          "eur": 19000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Omar Montes (19 sept), sin IVA",
+          "eur": 85000.0,
+          "entidad": null
+        },
+        {
+          "concepto": "Tributo Julio Iglesias (20 sept), sin IVA",
+          "eur": 4800.0,
+          "entidad": null
+        },
+        {
+          "concepto": "IVA 21 %",
+          "eur": 46494.0,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1299203Z",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "12",
+      "titulo": "Viaje juvenil de multiaventura a Calasparra",
+      "categoria": "fiscal",
+      "resumen": "Se organiza un viaje de ocio y multiaventura a Calasparra el 30 de junio para jóvenes del Sótano de Cazadores, con precio público de 5 euros por persona y un gasto máximo de 2.564,50 euros.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 2564.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1305846A",
+      "lugar": "Calasparra",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Petición para instalar cinco cámaras de vigilancia en zonas rurales",
+      "categoria": "otros",
+      "resumen": "Se pide a la Delegación del Gobierno permiso para instalar cinco cámaras de videovigilancia fuera del casco urbano, por la preocupación de los vecinos de zonas rurales y viviendas aisladas por la seguridad.",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "resuelve"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304706R",
+      "lugar": "Diseminado (zonas rurales del término municipal)",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Jornada de puertas abiertas del Club de Ajedrez Municipal Yeclano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya con medios municipales una jornada de convivencia y torneos de ajedrez el 27 de junio en el antiguo colegio San José de Calasanz, sede del club.",
+      "entidades": [
+        {
+          "nombre": "Club de Ajedrez Municipal Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1300927T",
+      "lugar": "Antiguo colegio San José de Calasanz (acceso por calle San Antonio)",
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Festival de fin de curso del Club Gimnasia Rítmica Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el festival de fin de curso el 24 de junio en el Pabellón José Ortega Chumilla, con uso gratuito de la instalación valorado en 99,40 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 99.4,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1303309C",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Masterclass de fin de curso del Judo Club Ciudad de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una clase especial de fin de curso el 27 de junio en el Pabellón José Ortega Chumilla, con uso gratuito valorado en 170,62 euros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Judo Club Ciudad de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 170.62,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1273052D",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "17",
+      "titulo": "Prácticas de una estudiante de Veterinaria en el servicio municipal",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a una estudiante de Veterinaria de la Universidad de Murcia a hacer 115 horas de prácticas no remuneradas en julio en el Servicio Municipal de Veterinaria.",
+      "entidades": [
+        {
+          "nombre": "Universidad de Murcia",
+          "cif": null,
+          "tipo": "universidad",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291791E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "18",
+      "titulo": "Zanja en el Camino de la Alberca a los Arenales para riego",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular a abrir una zanja en el camino público CRA-44 para poner una tubería de riego, con fianza de 300 euros.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297590J",
+      "lugar": "Camino CRA-44 'Camino de la Alberca a los Arenales', polígono 54",
+      "interes": 1
+    },
+    {
+      "ref": "19.1",
+      "titulo": "Nuevo sistema de horas extra voluntarias de la Policía Local (CERO)",
+      "categoria": "personal",
+      "resumen": "Se aprueba el documento 'Cobertura Estratégica de Refuerzo Operativo (CERO)', que regula las horas extraordinarias voluntarias de la Policía Local con compromiso anual, pactado con los sindicatos.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1306322M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "19.2",
+      "titulo": "Campeonato regional Sub16 de atletismo en la pista Juan Palao Azorín",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza y apoya el Gran Premio y Campeonato de Clubes Sub16 de la Región de Murcia el 27 de junio, con uso gratuito de la pista valorado en 425,50 euros.",
+      "entidades": [
+        {
+          "nombre": "Club de Atletismo Yeclano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Atletismo de la Región de Murcia (FAMU)",
+          "cif": null,
+          "tipo": "federacion",
+          "rol": "recibe"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 425.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1208940J",
+      "lugar": "Complejo Juan Palao Azorín",
+      "interes": 1
+    },
+    {
+      "ref": "19.3",
+      "titulo": "Protección Civil de Yecla colabora en una carrera en Fuente Álamo",
+      "categoria": "convenio",
+      "resumen": "Se autoriza a la Agrupación de Voluntarios de Protección Civil de Yecla a colaborar en la Carrera Popular de Fuente Álamo el 27 de junio.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Fuente Álamo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1304825H",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

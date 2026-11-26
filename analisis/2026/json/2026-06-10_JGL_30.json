@@ -1,0 +1,683 @@
+{
+  "doc": "2026-06-10_JGL_30",
+  "organo": "JGL",
+  "sesion": 30,
+  "fecha": "2026-06-10",
+  "tipo_sesion": "ordinaria",
+  "paginas": 43,
+  "resumen": "La Junta pagó facturas por unos 164.000 euros (limpieza de edificios, autobús urbano, agua) y dos certificaciones de obra: el edificio de Cazadores (202.288 euros) y el castillo Hisn Yakka. Contrató el seguro de responsabilidad civil del Ayuntamiento con Zurich (71.169 euros al año) y prorrogó con Serunion las comidas a domicilio para mayores. Además autorizó muchas actividades de AMPAs, asociaciones y clubes (triatlón, tenis de mesa, coches clásicos).",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta anterior",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión del 2 de junio de 2026.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "El SEF liquida la subvención del curso de Animación Sociocultural",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se informa de la resolución del Servicio Regional de Empleo y Formación que liquida y paga la subvención del curso 'Animación Sociocultural' (programación 2024).",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": null,
+      "expediente": "1300668J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: limpieza, autobús urbano, agua, castillo y otros",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban facturas de agua, limpieza de edificios municipales, autobús urbano, premio de cobranza de basura, software policial y dos trabajos del proyecto 'El Renacer de Yakka' hechos por particulares.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Aguas de Pinoso",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Proyectos de Valor Urbano y Servicios Integrales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Suitable Software Vinfoval, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 164464.7,
+      "importes": [
+        {
+          "concepto": "Suministro de agua, factura marzo 2026",
+          "eur": 13754.07,
+          "entidad": "S.A.T. Aguas de Pinoso"
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, marzo 2026",
+          "eur": 62491.71,
+          "entidad": "Proyectos de Valor Urbano y Servicios Integrales, S.L."
+        },
+        {
+          "concepto": "Concesión del transporte urbano en autobús, mayo 2026",
+          "eur": 29554.7,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Diseño, vestuario y atrezzo de visita teatralizada, proyecto Renacer de Yakka (Next Generation EU)",
+          "eur": 16698.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Digitalización tridimensional del Hisn Yakka (Next Generation EU)",
+          "eur": 16456.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Premio de cobranza de la tasa de basura, abril 2026",
+          "eur": 18250.22,
+          "entidad": "FCC Aqualia, S.A."
+        },
+        {
+          "concepto": "Mantenimiento del programa de gestión policial VINFOPOL 2026",
+          "eur": 7260.0,
+          "entidad": "Suitable Software Vinfoval, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "497255H, 1132021C, 1174853Q, 1205284F, 1231370M, 1276698R, 1286077T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificaciones de obra: edificio de Cazadores y castillo Hisn Yakka",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación n.º 10 de la rehabilitación del edificio de Cazadores como centro de ocio y cultura (fondos europeos) y la n.º 1 de la restauración del Hisn Yakka.",
+      "entidades": [
+        {
+          "nombre": "U.T.E. Edificio de Cazadores",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Ingeniería Ortín, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 223667.64,
+      "importes": [
+        {
+          "concepto": "Certificación n.º 10 rehabilitación edificio de Cazadores (PIREP, Next Generation EU)",
+          "eur": 202288.37,
+          "entidad": "U.T.E. Edificio de Cazadores"
+        },
+        {
+          "concepto": "Certificación n.º 1 restauración Hisn Yakka, fase 1 (Next Generation EU)",
+          "eur": 21379.27,
+          "entidad": "Ingeniería Ortín, S.L.U."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1076617C, 1169300D",
+      "lugar": "Edificio de Cazadores; castillo (Hisn Yakka)",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de la obra de teatro 'La Celestina, Hilando Fino'",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la recaudación de taquilla (528 euros) y se dan de baja las entradas no vendidas (4.128 euros) de la función en el Teatro Concha Segura.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 528.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1223035K",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4",
+      "titulo": "Licencia para construir una vivienda unifamiliar en el Paraje Lentiscar",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia de obra a particulares para una vivienda unifamiliar aislada, con plazos de 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1245488W",
+      "lugar": "Paraje Lentiscar",
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nombramiento de la directora de las Escuelas Infantiles y bolsa de empleo",
+      "categoria": "personal",
+      "resumen": "Tras el concurso-oposición, se nombra funcionaria de carrera a la aspirante con mejor nota para dirigir las Escuelas Infantiles Municipales y se crea una bolsa de empleo hasta 2030.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1092713H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Interino para la jefatura de Gestión Tributaria",
+      "categoria": "personal",
+      "resumen": "Se nombra un administrativo interino para cubrir la jefatura del negociado de Gestión Tributaria por la excedencia de su titular y la falta de personal.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298151N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3-5.4",
+      "titulo": "Contratación de dos peones del Plan de Inserción Social por el Empleo 2026",
+      "categoria": "personal",
+      "resumen": "Se contrata a dos personas como peones (una del programa de jóvenes menores de 30 años) y se crea una pequeña bolsa de reserva.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287861X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.5-5.9",
+      "titulo": "Asuntos de personal: antigüedad, excedencia, formación y viajes",
+      "categoria": "personal",
+      "resumen": "Se reconoce antigüedad a una auxiliar de biblioteca, una excedencia por cuidado de hijo, se designa a un policía local para dar cursos de desfibriladores y se autorizan viajes de servicio (reunión en Murcia y Sports Summit Madrid) pagando el Ayuntamiento los gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1296871K, 1296927N, 1297736M, 1298404P, 1300105C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Prórroga del servicio de comidas a domicilio para mayores",
+      "categoria": "contrato",
+      "resumen": "Se prorroga por un año (octubre 2026 a septiembre 2027, última prórroga posible) el contrato con Serunion para llevar comidas a domicilio a mayores y dependientes.",
+      "entidades": [
+        {
+          "nombre": "Serunion, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "766229H",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Contrato de la 'Ruta Accesible Digitalizada' de turismo",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Entornos Naturales y Rutas Consolidadas un contrato menor para crear una ruta turística accesible y digital, financiada por la Consejería de Turismo.",
+      "entidades": [
+        {
+          "nombre": "Entornos Naturales y Rutas Consolidadas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Consejería de Turismo, Cultura, Juventud y Deportes (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17424.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1291474P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Jornada de convivencia de los Mayordomos de la Purísima en el Jardín de la Feria",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Mayordomos de la Purísima su jornada de convivencia el 21 de junio, con fianza de limpieza de 600 euros y préstamo de sillas, carpas, tarima y megafonía.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1244294M",
+      "lugar": "Jardín de la Avda. de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Corte de la calle San José para la Noche Comercial de San Juan",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cierra al tráfico la calle San José (de Rambla a San Francisco) el 26 de junio de 18:00 a 01:00 para una jornada comercial.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1294455E",
+      "lugar": "Calle San José",
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Auditorio gratis para la Asociación de Afectados de Cáncer (AYAC)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 18 de junio para un evento fotográfico sobre el cáncer, con reducción del 100% del precio (120 euros).",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1261783C",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2-8.11",
+      "titulo": "Uso de colegios y salas por AMPAs e institutos (fiestas, escuelas de verano)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el uso del Edificio Bioclimático al IES Castillo Puche y de los colegios a las AMPAs de Giner de los Ríos, La Paz, Alfonso X, La Pedrera y El Alba para convivencias, fiestas de fin de curso, huerto escolar, aula vespertina y escuelas de verano (estas últimas gestionadas por la ludoteca Neverland).",
+      "entidades": [
+        {
+          "nombre": "IES José Luis Castillo Puche",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AMPA CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AMPA CEIP La Paz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AMPA CEIP Alfonso X El Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AMPA CEIP La Pedrera",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "AMPA CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Ludoteca Neverland (Psico-Educa, C.B.)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1299936R, 1298118R, 1298234D, 1298246W, 1297995X, 1298108D, 1298269C, 1299806M, 1299830W, 1299849X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.12-8.14",
+      "titulo": "Uso de Coto Salinas, Centro de Desarrollo Local y Bioclimático por asociaciones",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación Colonos Coto Salinas a usar el Aula de la Naturaleza, a la Federación de Peñas de San Isidro el salón del Centro de Desarrollo Local para tres asambleas y a la Asociación No Hay Límite el Bioclimático para un taller para mujeres.",
+      "entidades": [
+        {
+          "nombre": "Asociación Colonos Coto Salinas",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Asociación No Hay Límite Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1292221C, 1299401Z, 1300210Y",
+      "lugar": "Aula de la Naturaleza Coto Salinas; Centro de Desarrollo Local (Urbayecla II); Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Justificadas las ayudas de vivienda del proyecto Housing First",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se dan por justificadas las ayudas a cinco personas vulnerables para alojamiento (1.848 euros en total), dentro del proyecto 'Housing First' financiado con 109.518 euros de fondos europeos a través de la CARM.",
+      "entidades": [
+        {
+          "nombre": "Comunidad Autónoma de la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 1848.26,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "869595X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Préstamo de sillas y vallas a la AMPA del Alfonso X",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden sillas y dos vallas para la fiesta de fin de curso del 19 de junio.",
+      "entidades": [
+        {
+          "nombre": "AMPA CEIP Alfonso X El Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1297855C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "XI Concentración de vehículos clásicos en la ITV",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se toma razón de la concentración de coches clásicos de la Asociación Motor Clásico Yecla el 14 de junio y se le prestan carpas, sillas, escenario y megafonía.",
+      "entidades": [
+        {
+          "nombre": "Asociación Motor Clásico Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "ITV Mecod Yecla",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "lugar"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1299007C",
+      "lugar": "Instalaciones de la ITV",
+      "interes": 1
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Pago de la conferencia y talleres 'La Tiendología'",
+      "categoria": "pago_factura",
+      "resumen": "Se paga a Conversa Comunicación para el Comercio la escuela de desarrollo económico 'La Tiendología'.",
+      "entidades": [
+        {
+          "nombre": "Conversa Comunicación para el Comercio, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7502.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1240605N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Cambio de una persona contratada en el proyecto de inserción sociolaboral",
+      "categoria": "personal",
+      "resumen": "Se deja sin efecto la contratación de una peona por circunstancias sobrevenidas y se contrata a otra persona por tres meses.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1287256F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.3",
+      "titulo": "Bar del Centro de Ocio Los Rosales en verano",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a un particular el servicio de bar de Los Rosales en verano 2026; el adjudicatario paga al Ayuntamiento 787 euros y una fianza de 150.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 787.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1295303H",
+      "lugar": "Centro de Ocio Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "12.4",
+      "titulo": "Ayuda al CTM Altiplano para el TOP 8 regional de tenis de mesa",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la competición del 13 de junio en el Pabellón José Ortega Chumilla con una aportación municipal de 500 euros y uso gratis del pabellón (valorado en 269,80 euros).",
+      "entidades": [
+        {
+          "nombre": "CTM Altiplano Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Tenis de Mesa de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 500.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1298498W",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 1
+    },
+    {
+      "ref": "12.5-12.6",
+      "titulo": "Uso de colegios por las AMPAs de El Alba y Alfonso X",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el aula vespertina del CEIP El Alba (a cargo de Epsilon Servicios Educativos) y la fiesta de 6.º del Alfonso X.",
+      "entidades": [
+        {
+          "nombre": "AMPA CEIP El Alba",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Epsilon Servicios Educativos, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "presta servicio"
+        },
+        {
+          "nombre": "AMPA CEIP Alfonso X El Sabio",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1299871C, 1301201Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.7",
+      "titulo": "VIII Triatlón Ciudad de Yecla",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza el triatlón de menores y campeonato regional por relevos del Club Triatlón Arabí el 14 de junio, con aportación municipal de 1.833,72 euros y uso gratuito de instalaciones valorado en 892 euros.",
+      "entidades": [
+        {
+          "nombre": "Club Triatlón Arabí Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe"
+        },
+        {
+          "nombre": "Federación de Triatlón de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1833.72,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1241861H",
+      "lugar": "Centro de Ocio Los Rosales y circuito urbano",
+      "interes": 1
+    },
+    {
+      "ref": "12.8",
+      "titulo": "Seguro de responsabilidad civil del Ayuntamiento con Zurich",
+      "categoria": "contrato",
+      "resumen": "A través de la central de compras de la FEMP, se adjudica a Zurich el seguro de responsabilidad civil patrimonial: 71.169,05 euros al año, prorrogable un año más (valor estimado 156.571,91 euros).",
+      "entidades": [
+        {
+          "nombre": "Zurich Insurance PLC, Sucursal en España",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        },
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "central de compras"
+        },
+        {
+          "nombre": "Willis Iberia Correduría de Seguros y Reaseguros, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "mediadora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 71169.05,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1279877H",
+      "lugar": null,
+      "interes": 2
+    }
+  ]
+}

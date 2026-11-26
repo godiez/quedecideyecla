@@ -1,0 +1,43 @@
+{
+  "doc": "2025-03-31_PLENO_08",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 6,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Sesión extraordinaria con 20 asistentes: falta una concejala del PSOE (no figura en la lista de asistentes).",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 6,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por dieciocho votos a favor (Grupo M. Popular, Grupo M. Socialista y Grupo M. Vox), y dos abstenciones (Grupo M. Izquierda Unida-Verdes), adopta los siguientes acuerdos"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "doc": "2023-04-04_JGL_16",
+  "organo": "JGL",
+  "sesion": 16,
+  "fecha": "2023-04-04",
+  "tipo_sesion": "ordinaria",
+  "paginas": 23,
+  "resumen": "La Junta de Gobierno paga 180.385 euros en facturas (Carnaval, centro de día, basuras, limpieza de edificios y el proyecto Housing First para personas sin hogar) y acepta 39.000 euros de la Comunidad Autónoma para Yeclanea y la Feria Outlet. Vende para desguace los coches del depósito policial por 28.900 euros y prepara un taller de empleo de tapizado para 15 jóvenes, pagado por el SEF con 209.736 euros. Además, contrata a cuatro conserjes con discapacidad intelectual, aprueba las bases de las carrozas de San Isidro y da informe negativo a un circo que coincidía con las fiestas.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas de las dos sesiones del 28 de marzo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de las dos sesiones celebradas el 28 de marzo de 2023.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: cursos del SEF liquidados, población de Yecla y alumbrado",
+      "categoria": "informacion",
+      "resumen": "Se informa de la liquidación por el SEF de dos subvenciones de cursos de 2020 ('Transformación Digital de la Empresa' y 'Creación de Empresas On-Line'), de que el INE propone una población de 35.521 habitantes a 1 de enero de 2023, de la entrega a un particular de una joya encontrada en la calle y de un informe sobre las instalaciones eléctricas de Cableworld en el alumbrado público.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvenciones de formación"
+        },
+        {
+          "nombre": "Instituto Nacional de Estadística (INE)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "comunica cifra de población"
+        },
+        {
+          "nombre": "Cableworld",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "tiene instalaciones eléctricas en el alumbrado público"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "752679N, 498941Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: Carnaval, Housing First, centro de día y basuras",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar cuatro facturas: la organización de las Fiestas de Carnaval 2023, el proyecto piloto Housing First (alojamiento para personas sin hogar), las plazas del Centro de Día para dependientes de febrero y el tratamiento de residuos de febrero.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Eulen Servicios Sociosanitarios, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 127268.72,
+      "importes": [
+        {
+          "concepto": "Contrato mixto de infraestructura, producción y organización de las Fiestas de Carnaval 2023",
+          "eur": 35090.0,
+          "entidad": "particular"
+        },
+        {
+          "concepto": "Proyecto piloto Housing First y alojamiento transitorio",
+          "eur": 7614.78,
+          "entidad": "Eulen Servicios Sociosanitarios, S.A."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, febrero 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, febrero 2023",
+          "eur": 47276.95,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "719683K, 647410F, 457254A, 584325N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Cuentas de la taquilla de la Nochevieja juvenil 2022",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de la venta de entradas de la Nochevieja juvenil 2022 en el sótano del Edificio de Cazadores: 279,26 € recaudados en taquilla (venta por Crocanticket) y baja de 2.120,71 € en entradas no vendidas.",
+      "entidades": [
+        {
+          "nombre": "Crocanticket",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "canal de venta de entradas"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 279.26,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "705306R",
+      "lugar": "Edificio de Cazadores",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Cuentas de la taquilla del festival de bandas de Semana Santa",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de entradas de 'Romanos del Ecce Homo', del Festival de Bandas de Cornetas y Tambores de Semana Santa en el Teatro Concha Segura: 436 € recaudados y baja de 728 € en entradas no vendidas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 436.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "731751X",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Descuento en el agua para familias numerosas (segunda tanda de 2023)",
+      "categoria": "fiscal",
+      "resumen": "Se concede la tarifa reducida del agua potable a las familias numerosas que lo pidieron; dura lo que dure el título de familia numerosa y hay que pedir la prórroga al renovarlo. No se indica cuántas familias ni el importe.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "599951Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Permiso para empezar a construir una vivienda aislada en el campo",
+      "categoria": "licencia_obra",
+      "resumen": "Los dueños de una licencia para una vivienda unifamiliar aislada en el campo presentan la nota del Registro que declara la parcela indivisible, como exigía la licencia, y se les autoriza a empezar las obras.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "650213Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Licencia para construir una vivienda entre medianeras en el casco urbano",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede licencia a dos particulares para construir una vivienda unifamiliar entre medianeras, con 6 meses para empezar y 24 para terminar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "614228W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de cuatro conserjes con discapacidad intelectual",
+      "categoria": "personal",
+      "resumen": "Se contrata a cuatro personas como conserjes-peones dentro del proyecto de inserción laboral de personas con discapacidad intelectual o trastornos del desarrollo, y se crea una bolsa de empleo de tres personas para sustituciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754338R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Dos técnicos municipales formarán parte de un tribunal en Abanilla",
+      "categoria": "personal",
+      "resumen": "Se autoriza a dos técnicos de Administración General del Ayuntamiento a ser presidente y vocal del tribunal que selecciona personal laboral (estabilización de empleo temporal) en el Ayuntamiento de Abanilla.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Abanilla",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "pide la colaboración"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754745H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Selección de personal y 15 alumnos para un taller de empleo de tapizado",
+      "categoria": "personal",
+      "resumen": "Se aprueban las bases para seleccionar al coordinador, los formadores y 15 jóvenes del programa de empleo y formación 'Operaciones auxiliares de tapizado de mobiliario y mural' (Yecla Potencia Joven 2022), pagado por el SEF con 209.736,75 €. Los alumnos cobrarán el 75 % del salario mínimo, 40 horas semanales, durante 6 meses tras 3 de formación.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 209736.75,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "641079N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Señales para el Sendero Azul 'Yecla Valora' por 8.156 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Vadecons Servicios y Medio Ambiente, S.L. el suministro de la señalización del Sendero Azul 'Yecla Valora' por 8.156,01 € con IVA (contrato menor).",
+      "entidades": [
+        {
+          "nombre": "Vadecons Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 8156.01,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753263Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Venta para desguace de los coches abandonados en el depósito policial",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a Desguace y Grúas París, S.L., que hizo la mejor oferta, la compra de los vehículos para desguace depositados en la Jefatura de la Policía Local; la empresa paga al Ayuntamiento 28.900,85 €.",
+      "entidades": [
+        {
+          "nombre": "Desguace y Grúas París, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "paga al Ayuntamiento"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 28900.85,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "738251Z",
+      "lugar": "Jefatura de la Policía Local",
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Se retira un cuadro eléctrico de un bolardo que no funciona en San Pascual",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de Caja Rural de Albacete y Cuenca, se ordena a las brigadas municipales retirar el cuadro eléctrico de una pilona retráctil (bolardo) que ya no funciona, adosado a la fachada de su edificio.",
+      "entidades": [
+        {
+          "nombre": "Caja Rural de Albacete y Cuenca, S.C.C.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "713808A",
+      "lugar": "Calle San Pascual",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Puesto informativo de la Asociación de Fibromialgia en el parque",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Fibromialgia de Yecla un puesto en el Parque de la Constitución el 26 de abril por el Día de la Fibromialgia, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "743642M",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Puesto de AYAC para recaudar fondos contra el cáncer",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer (AYAC) un puesto para recaudar fondos en el Parque de la Constitución el 26 de abril, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "747453E",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Música escolar 'Musiqueando 2023' en el parque: se aplaza",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deja sobre la mesa, para estudiarla mejor, la autorización de la actividad de música escolar 'Musiqueando 2023' en el escenario del Parque de la Constitución.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "741299H",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Medidas de organización de la Cabalgata de Carrozas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueban las medidas de organización de la Cabalgata de Carrozas de las Fiestas de San Isidro, el sábado 20 de mayo (el acta pone por error 2022).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753986D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Denegada la queja de un vecino por humedades atribuidas a la acera",
+      "categoria": "reclamaciones",
+      "resumen": "Un vecino pedía medidas porque las piletas de la acera le causaban humedades en su inmueble; se deniega porque el técnico no encontró humedades ni fugas y cree que vienen de la finca vecina, un asunto privado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "741963E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8.1",
+      "titulo": "Uso del Auditorio Juan Miguel Benedito para una gala de una escuela de pole dance",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una escuela de pole dance (de una particular) a usar el Auditorio Municipal el 16 de abril para su gala del 2º aniversario, pagando el precio público de 400 €.",
+      "entidades": [
+        {
+          "nombre": "particular (Escuela Pole Dance)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "paga el uso"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753242W",
+      "lugar": "Auditorio Municipal Juan Miguel Benedito",
+      "interes": 1
+    },
+    {
+      "ref": "8.2",
+      "titulo": "Teatro gratis para la muestra de talleres del Centro de Mayores del IMAS",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Centro Social de Personas Mayores del IMAS a usar el Teatro Concha Segura el 7 de junio para su muestra de talleres de fin de curso, sin pagar los 1.800 € del precio público (rebaja del 100 %).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores del IMAS",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "exento del precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "750558R",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.3",
+      "titulo": "Teatro gratis para la gala benéfica de ARY por el Día Sin Alcohol",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación para la Rehabilitación de Problemas con el Alcohol, las Drogas y otras Conductas Adictivas (ARY) a usar el Teatro Concha Segura el 18 de noviembre para una gala benéfica, sin pagar los 1.800 € del precio público.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de Problemas con el Alcohol, las Drogas y otras Conductas Adictivas de Yecla (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "exenta del precio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "749735Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "8.4",
+      "titulo": "Salón del Edificio Bioclimático para la asamblea de la SAT Pozo Pajonares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la S.A.T. Pozo Pajonares a usar el Salón de Actos del Edificio Bioclimático el 22 de abril para su asamblea de socios.",
+      "entidades": [
+        {
+          "nombre": "S.A.T. Pozo Pajonares",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752369H",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "La Comunidad Autónoma da 39.000 € para Yeclanea y la Feria Outlet",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención de la CARM de 39.000 € para promocionar el comercio local: 36.000 € para Yeclanea 2023 y 3.000 € para difundir la Feria Outlet.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Comercio e Innovación Empresarial (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 39000.0,
+      "importes": [
+        {
+          "concepto": "Yeclanea 2023",
+          "eur": 36000.0,
+          "entidad": "CARM"
+        },
+        {
+          "concepto": "Difusión Feria Outlet",
+          "eur": 3000.0,
+          "entidad": "CARM"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "748514D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10.1",
+      "titulo": "Comidas a domicilio gratis para una persona (informe del 29 de marzo)",
+      "categoria": "servicios_actividades",
+      "resumen": "Servicios Sociales concede de oficio y sin coste el servicio de comidas a domicilio a una persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753801X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "10.2",
+      "titulo": "Comidas a domicilio gratis para una persona (informe del 30 de marzo)",
+      "categoria": "servicios_actividades",
+      "resumen": "Servicios Sociales concede de oficio y sin coste el servicio de comidas a domicilio a otra persona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754529H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11",
+      "titulo": "Bases de la Cabalgata y del concurso de carrozas de San Isidro 2023",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición de la Federación de Peñas de San Isidro, se aprueban las bases de la Cabalgata y del Concurso de Carrozas de 2023 y las del jurado.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754110A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Denegada el agua y el alcantarillado a una parcela de la carretera de Villena",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a un particular el suministro de agua potable y la conexión al saneamiento para una parcela en la carretera de Yecla a Villena, porque no tiene licencia urbanística ni de actividad que lo ampare.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "748031H",
+      "lugar": "Carretera de Yecla a Villena",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Apoyo al nombramiento de hijo adoptivo de Ulea a un sanitario",
+      "categoria": "organizacion",
+      "resumen": "Yecla se adhiere a la iniciativa del Ayuntamiento de Ulea de nombrar hijo adoptivo a un ayudante técnico sanitario que trabajó allí más de 25 años.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Ulea",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "promueve la distinción"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754516P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Pago de la limpieza de edificios municipales de marzo (urgente)",
+      "categoria": "pago_factura",
+      "resumen": "Se paga a T.S.I. Levante, S.L. la limpieza de los inmuebles municipales de marzo de 2023.",
+      "entidades": [
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 53116.71,
+      "importes": [
+        {
+          "concepto": "Limpieza de inmuebles municipales (C.SE. 2/19), marzo 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "118095X",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Puesto informativo del PSOE en el parque durante seis miércoles",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al PSOE de Yecla un puesto informativo en el Parque de la Constitución los días 5, 12, 19 y 26 de abril y 3 y 10 de mayo, con una mesa y tres sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Partido Socialista Obrero Español de Yecla",
+          "cif": null,
+          "tipo": "partido",
+          "rol": "autorizado"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "755364R",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "14.3",
+      "titulo": "Contenedores de la calle San Valentín: se mantiene el cambio acordado",
+      "categoria": "via_publica_eventos",
+      "resumen": "González Máquinas Recreativas y de Azar, S.L. se quejaba de que los contenedores seguían frente a su local; el Ayuntamiento ratifica el cambio de diciembre y ordena a Actúa, la contrata de basuras, poner los de papel y envases en un extremo del aparcamiento y los de vidrio en el otro, dejando libre la puerta.",
+      "entidades": [
+        {
+          "nombre": "González Máquinas Recreativas y de Azar, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicitante"
+        },
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista de recogida de basuras"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752662P",
+      "lugar": "Calle San Valentín",
+      "interes": 2
+    },
+    {
+      "ref": "14.4",
+      "titulo": "El circo 'Mouse' debe pedir permiso a la Comunidad Autónoma; informe negativo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una particular pedía instalar el Circo 'Mouse' del 5 al 14 de mayo en terrenos privados junto a la antigua estación de tren. Al superar 150 personas de aforo, la autorización es de la Comunidad Autónoma; el Ayuntamiento emite informe de viabilidad negativo porque coincide con las Fiestas de San Isidro.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "competente para autorizar"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "735761Q",
+      "lugar": "Aledaños de la antigua estación de ferrocarril",
+      "interes": 2
+    },
+    {
+      "ref": "14.5",
+      "titulo": "Misas de Pascua en la Iglesia de San Francisco, en obras",
+      "categoria": "via_publica_eventos",
+      "resumen": "El Ayuntamiento toma nota de que la parroquia de la Purísima celebrará la Vigilia Pascual en la Iglesia de San Francisco el 8 y 9 de abril, y exige cumplir las medidas de seguridad de las obras de restauración de la Capilla de la Virgen de las Angustias.",
+      "entidades": [
+        {
+          "nombre": "Basílica Arciprestal de la Purísima Concepción",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "comunica actos de culto"
+        },
+        {
+          "nombre": "Obispado de Cartagena",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "firmante del convenio de cesión de la iglesia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "752178R",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "14.6",
+      "titulo": "Criterios de ayudas para vivienda del proyecto Housing First",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueban los criterios para dar ayudas municipales extraordinarias de inclusión residencial (acceso a vivienda) dentro del proyecto Housing First y Alojamiento Transitorio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "754950R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "14.7",
+      "titulo": "Tarjeta de residente de zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un particular la condición de residente en zona azul para su vehículo, hasta el 31 de diciembre de 2024.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "751578J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.8",
+      "titulo": "No a Protección Civil de Yecla en los Moros y Cristianos de Banyeres",
+      "categoria": "organizacion",
+      "resumen": "Se deniega al Ayuntamiento de Banyeres de Mariola la ayuda de voluntarios de Protección Civil para su Entrada de Moros y Cristianos del 22 de abril, porque aún no está en vigor el cambio del reglamento que permite actuar fuera del municipio.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Banyeres de Mariola",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicitante"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "751250D",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

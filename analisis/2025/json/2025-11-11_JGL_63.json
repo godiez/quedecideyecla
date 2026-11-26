@@ -1,0 +1,1123 @@
+{
+  "doc": "2025-11-11_JGL_63",
+  "organo": "JGL",
+  "sesion": 63,
+  "fecha": "2025-11-11",
+  "tipo_sesion": "ordinaria",
+  "paginas": 48,
+  "resumen": "La Junta de Gobierno pide al SEF 288.852 euros para un curso de empleo en atención sociosanitaria, acepta 30.000 euros para aparcamiento inteligente y da su visto bueno a 104.867 euros de la CARM para obras en tres colegios. Paga 254.000 euros en facturas y otros 67.641 euros a Actúa por seguir recogiendo la basura sin contrato, reparte 36.000 euros entre seis asociaciones sociales y convoca ayudas a fiestas y cultura. También apoya una línea eléctrica de 132 kV de Iberdrola, sube de nivel a 29 empleados (15.949 €) y autoriza terrazas, bodas y puestos benéficos.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 4 de noviembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: ayudas Smartregión, obras en la Ermita de San Roque y una sentencia",
+      "categoria": "informacion",
+      "resumen": "Se informa de la orden regional que resuelve las ayudas Smartregión (ciudades inteligentes, fondos FEDER 2024), de la autorización de Patrimonio Cultural al proyecto de reparación de cerramientos y sacristía de la Ermita de San Roque y de una sentencia firme del Juzgado de lo Contencioso nº 7 de Murcia sobre tributos locales (P.A. 143/2025).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Economía, Hacienda, Fondos Europeos y Transformación Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Patrimonio Cultural (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        },
+        {
+          "nombre": "Juzgado de lo Contencioso-Administrativo nº 7 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "1179583K",
+      "lugar": "Ermita de San Roque",
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: deportes, tratamiento de basura, centro de día y autobuses",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueban siete pagos: mantenimiento de instalaciones deportivas, tratamiento de residuos en el consorcio regional, Centro de Día de mayores, autobús urbano, prevención de riesgos laborales, un seguro colectivo y el equipamiento de un coche de policía.",
+      "entidades": [
+        {
+          "nombre": "Mapfre Vida, S.A. de Seguros y Reaseguros sobre la Vida Humana",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Véctoris, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Quirón Prevención, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nauti Car, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 253632.5,
+      "importes": [
+        {
+          "concepto": "Seguro colectivo (póliza 'Seguro Colectivo FCC'), recibo",
+          "eur": 7376.12,
+          "entidad": "Mapfre Vida, S.A. de Seguros y Reaseguros sobre la Vida Humana"
+        },
+        {
+          "concepto": "Mantenimiento, limpieza y atención de instalaciones deportivas, octubre 2025",
+          "eur": 75695.52,
+          "entidad": "Véctoris, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos sólidos urbanos, septiembre 2025",
+          "eur": 82831.07,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Servicio de prevención ajeno de riesgos laborales del personal municipal",
+          "eur": 6085.66,
+          "entidad": "Quirón Prevención, S.L.U."
+        },
+        {
+          "concepto": "Centro de Día para personas mayores dependientes, octubre 2025",
+          "eur": 44174.0,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Autobuses urbanos, octubre 2025",
+          "eur": 28925.48,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Equipamiento de vehículo policial (contrato menor)",
+          "eur": 8544.65,
+          "entidad": "Nauti Car, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "502444P, 509033Q, 584325N, 784028D, 836272P, 841943Q, 1161567N",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Actúa cobra 67.641 € extra por la recogida de basura de marzo de 2024",
+      "categoria": "pago_factura",
+      "resumen": "Como el contrato de basuras y limpieza viaria terminó y Actúa sigue prestando el servicio por orden del Pleno hasta el nuevo contrato, se le reconoce una indemnización de 67.640,76 € por la diferencia de costes de marzo de 2024 (para evitar el 'enriquecimiento injusto' del Ayuntamiento), descontando gastos financieros, amortizaciones e IVA.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67640.76,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822994Y",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a un vecino la bonificación del 90% del impuesto de obras (ICIO) por instalar placas solares de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1101498J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en otra vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a otro vecino la bonificación del 90% del ICIO por una instalación fotovoltaica de autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122127K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 50% del IBI durante cinco años por placas solares",
+      "categoria": "fiscal",
+      "resumen": "Al mismo vecino del punto anterior se le concede la bonificación del 50% del IBI de 2026 a 2030 (máximo 100 € al año), porque su instalación solar de 6 kW supera la inversión mínima de 6.000 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1122127K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Contrato temporal de una técnica de Educación Infantil en la escuela El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa de empleo a un/a técnico/a de Educación Infantil a 30 horas semanales para sustituir una baja médica en la Escuela Infantil El Parque, como máximo hasta el final del curso 2025/2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179758D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Contrato temporal de una técnica de Educación Infantil en la escuela Perro Loco",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a un/a técnico/a de Educación Infantil a 20 horas semanales del 10 al 22 de diciembre de 2025 para cubrir una baja en la Escuela Infantil El Perro Loco.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1178092P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Permiso de lactancia acumulado y vacaciones a una peón de Cultura",
+      "categoria": "personal",
+      "resumen": "Se concede a una trabajadora de Cultura y Festejos el permiso de lactancia acumulado (18 de diciembre a 23 de enero) y después sus vacaciones de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181529N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Cambio de horario por conciliación a un funcionario municipal",
+      "categoria": "personal",
+      "resumen": "Se autoriza a un funcionario municipal a cambiar temporalmente su horario para conciliar la vida familiar, mientras su hijo sea menor de doce años.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179265T",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Corrección de un error en la antigüedad reconocida a una auxiliar administrativa",
+      "categoria": "personal",
+      "resumen": "Se corrige un error material en el reconocimiento de servicios previos de una auxiliar administrativa de Intervención: la antigüedad se calcula desde el 30 de marzo de 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1154932Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Carrera profesional: 29 empleados suben un nivel de grado personal (15.949 €)",
+      "categoria": "personal",
+      "resumen": "Se resuelve el concurso anual 2024 de carrera profesional horizontal: 29 funcionarios y laborales suben un nivel de grado personal con efectos económicos desde el 1 de enero de 2025 y a 8 se les deniega (no cumplen los 5 años, las horas de formación o no son empleados). Se aprueba un gasto de 15.948,97 €.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 15948.97,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1016957Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Una técnica de Juventud irá a unas jornadas de la FEMP en Madrid",
+      "categoria": "personal",
+      "resumen": "Se ordena a una técnica de Juventud asistir a unas jornadas de formación para centros de información juvenil de la FEMP (11 y 12 de diciembre, Madrid), con gastos a cargo del Ayuntamiento.",
+      "entidades": [
+        {
+          "nombre": "Federación Española de Municipios y Provincias (FEMP)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza formación"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1180621C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Una agente de desarrollo local irá a la Convención de Turismo regional",
+      "categoria": "personal",
+      "resumen": "Se ordena a una agente de Desarrollo Local-Turismo asistir a la II Convención de Turismo de la Región de Murcia (18 de noviembre), organizada por el ITREM.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia (ITREM)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181006M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Formación sobre violencia de género para tres trabajadoras del CAVI",
+      "categoria": "personal",
+      "resumen": "Se ordena a tres trabajadoras del Centro de Atención a Víctimas de Violencia de Género (CAVI) asistir a dos jornadas de formación en Murcia y Caravaca de la Cruz.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1180635X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Curso de ArcGIS Pro para un auxiliar delineante (400 €)",
+      "categoria": "personal",
+      "resumen": "Se ordena a un auxiliar delineante de los Servicios Técnicos hacer un curso online de ArcGIS Pro de 40 horas de Esri España; el Ayuntamiento paga la inscripción de 400 €.",
+      "entidades": [
+        {
+          "nombre": "Esri España Soluciones Geoespaciales, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 400.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1178666M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Nueva cámara de videovigilancia en el casco urbano",
+      "categoria": "contrato",
+      "resumen": "Contrato menor a Elecnor Servicios y Proyectos, S.A.U. para suministrar e instalar una cámara de vigilancia de seguridad en el casco urbano, por 13.078,79 € con IVA, a propuesta de la Policía Local.",
+      "entidades": [
+        {
+          "nombre": "Elecnor Servicios y Proyectos, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 13078.79,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1174216F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Obra del entorno de la Antigua Estación: cambio de director de obra",
+      "categoria": "contrato",
+      "resumen": "Se designa temporalmente a un ingeniero de caminos municipal como director de obra y coordinador de seguridad y salud de la mejora del entorno urbano de la Antigua Estación del tren (Plan de Obras y Servicios 2024/25).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1081372F",
+      "lugar": "Antigua Estación del tren",
+      "interes": 1
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Terraza de 40 m² para la Cafetería Los Billares",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Cafetería Los Billares' en la calle Arcipreste Esteban Díaz para la temporada anual (1 de noviembre de 2025 a 31 de octubre de 2026), con 40 m² y las condiciones de la Policía Local. El titular es un particular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181010R",
+      "lugar": "Calle Arcipreste Esteban Díaz",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Terraza de 6 m² para el Bar La Bohemia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Bar La Bohemia' en la calle España para la temporada anual (1 de noviembre de 2025 a 31 de octubre de 2026), con 6 m² y las condiciones de la Policía Local. El titular es un particular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181073E",
+      "lugar": "Calle España",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "Terraza de 27 m² para el Lío Bar",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la terraza del establecimiento 'Lío Bar' en la calle San Francisco para la temporada anual (1 de noviembre de 2025 a 31 de octubre de 2026), con 27 m² y las condiciones de la Policía Local. El titular es un particular.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175566F",
+      "lugar": "Calle San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Puesto en el mercado para la campaña de AFIYE sobre la fibromialgia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Fibromialgia de Yecla a poner un puesto informativo en el mercado de la Plaza Mayor el 26 de noviembre, con carpa, mesa y sillas municipales.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla (AFIYE)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa espacio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177725E",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Puesto en el mercado para la campaña benéfica de AMPY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a AMPY (personas con discapacidad intelectual) a poner un puesto benéfico en el mercado de la Plaza Mayor el 19 de noviembre y el 10 y 17 de diciembre, con material municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación de personas con discapacidad intelectual de Yecla (AMPY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa espacio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179519X",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.6",
+      "titulo": "Puesto en el mercado para la campaña benéfica de AYAC",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a poner un puesto benéfico en el mercado de la Plaza Mayor el 17 de diciembre, con material municipal.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa espacio público"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1176617Q",
+      "lugar": "Plaza Mayor",
+      "interes": 1
+    },
+    {
+      "ref": "6.7",
+      "titulo": "Procesión y almuerzo de 'El Divino Niño' del colectivo ecuatoriano",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Colectivo de Ecuatorianos Residentes en Yecla la procesión y almuerzo de 'El Divino Niño' el 20 de diciembre y se le prestan 150 sillas.",
+      "entidades": [
+        {
+          "nombre": "Colectivo de Ecuatorianos Residentes en Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1057185N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Sesiones para una boda civil (17 de noviembre de 2025)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil el 17 de noviembre de 2025.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179731Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Sesiones para una boda civil (9 de enero de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil el 9 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177780F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón de Sesiones para una boda civil (17 de enero de 2026)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la Casa Consistorial para su matrimonio civil el 17 de enero de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1173600A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Auditorio gratis para el coro del Centro de Mayores (23 de diciembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito al Centro Social de Personas Mayores (IMAS) para la actuación de su coro, con rebaja del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Centro Social de Personas Mayores (IMAS)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177966P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Denegada la Iglesia de San Francisco para el Belén de la Asociación de Belenistas",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se deniega a la Asociación de Belenistas de Yecla el uso de la Iglesia de San Francisco para exponer su Belén del 1 de diciembre al 14 de enero porque ya está ocupada en esas fechas.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Belenistas de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "solicita instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "1178864M",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Escuela infantil gratis para cinco niños por bajos ingresos",
+      "categoria": "fiscal",
+      "resumen": "Se concede a cinco niños la bonificación del 100% de matrícula y cuotas de las Escuelas Infantiles Municipales para el curso 2025/2026 por ingresos familiares.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170665Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "9",
+      "titulo": "Subvenciones de acción social 2025 a seis asociaciones (36.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se reparten 36.000 € de la convocatoria de prevención, promoción e inserción social entre seis asociaciones: AYAC, AFEDECO, TEA Yecla, AFIYE, Sonrisa Saharaui y la Asociación de Viudas La Purísima.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Formación y el Desarrollo Comunitario (AFEDECO)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Fibromialgia de Yecla (AFIYE)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer (AYAC)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación para personas con Trastorno del Espectro Autista (TEA Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Asociación de Viudas La Purísima de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        },
+        {
+          "nombre": "Sonrisa Saharaui Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 36000.0,
+      "importes": [
+        {
+          "concepto": "Proyecto 'Crece': habilidades sociales para adolescentes y jóvenes",
+          "eur": 13110.05,
+          "entidad": "Asociación para la Formación y el Desarrollo Comunitario (AFEDECO)"
+        },
+        {
+          "concepto": "Proyecto 'Caminando por la vida'",
+          "eur": 2360.0,
+          "entidad": "Asociación de Fibromialgia de Yecla (AFIYE)"
+        },
+        {
+          "concepto": "Apoyo y atención integral a pacientes y supervivientes de cáncer y familias",
+          "eur": 14472.13,
+          "entidad": "Asociación de Yecla de Afectados de Cáncer (AYAC)"
+        },
+        {
+          "concepto": "Apoyo a personas con trastorno del espectro autista y sus familias",
+          "eur": 3500.0,
+          "entidad": "Asociación para personas con Trastorno del Espectro Autista (TEA Yecla)"
+        },
+        {
+          "concepto": "Curso 2025",
+          "eur": 1197.02,
+          "entidad": "Asociación de Viudas La Purísima de Yecla"
+        },
+        {
+          "concepto": "'Vacaciones en paz 2025': acogida estival de menores saharauis",
+          "eur": 1360.8,
+          "entidad": "Sonrisa Saharaui Región de Murcia"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1085412R",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "10",
+      "titulo": "Convocatoria de ayudas a fiestas populares 2025 (8.700 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones para promocionar las fiestas populares en 2025, con un máximo de 8.700 € para asociaciones y personas de Yecla; plazo de 20 días naturales tras su publicación en el BORM.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 8700.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1163944P",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Convocatoria de ayudas a la cultura 2025 (10.000 €)",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se aprueba la convocatoria de subvenciones para promoción y difusión de la cultura en 2025, con 10.000 € para asociaciones y particulares; se reparte por puntos (interés del proyecto, recursos propios y socios) y no se pagan comidas ni publicaciones.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 10000.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1180458A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12.1",
+      "titulo": "Préstamo de 80 sillas a ARY para una gala benéfica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden 80 sillas municipales a la Asociación para la Rehabilitación de problemas con el Alcohol (ARY) para su gala benéfica del 16 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Asociación para la Rehabilitación de problemas con el Alcohol y otras conductas adictivas (ARY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe material"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1176816R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "12.2",
+      "titulo": "Préstamo de 10 vallas al AMPA del CEIP La Paz para su Feria del Libro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se ceden 10 vallas municipales al AMPA del CEIP La Paz para su Feria del Libro del 12 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP La Paz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "recibe material"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179613C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Protección Civil de Yecla ayudará en la Magna Procesión del Jubileo en Murcia",
+      "categoria": "convenio",
+      "resumen": "A petición del Ayuntamiento de Murcia, se autoriza a la Agrupación de Voluntarios de Protección Civil de Yecla a colaborar en la Magna Procesión del Jubileo de Cofradías del 15 de noviembre.",
+      "entidades": [
+        {
+          "nombre": "Ayuntamiento de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "solicita colaboración"
+        },
+        {
+          "nombre": "Agrupación de Voluntarios de Protección Civil de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1178679E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.1",
+      "titulo": "Tarjeta de residente en zona azul para una vecina",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172736A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14.2",
+      "titulo": "Tarjeta de residente en zona azul para un vecino",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se concede a un vecino la condición de residente en zona azul hasta el 31 de diciembre de 2026.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1170845Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Pago a Iberdrola (i-DE) por la conexión eléctrica del Edificio de Cazadores",
+      "categoria": "pago_factura",
+      "resumen": "Asunto urgente: se aprueba pagar 5.473,12 € a la distribuidora i-DE por los trabajos y derechos de suministro eléctrico del Edificio de Cazadores, en rehabilitación, a petición de la dirección de obra.",
+      "entidades": [
+        {
+          "nombre": "I-DE Redes Eléctricas Inteligentes, S.A.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "UTE Neten Consultoría - García Guisado",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "dirección de obra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5473.12,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1175716P",
+      "lugar": "Edificio de Cazadores",
+      "interes": 2
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Electrodomésticos para el Centro de Día Las Teresas",
+      "categoria": "contrato",
+      "resumen": "Contrato menor con un autónomo para suministrar electrodomésticos al Centro de Día para mayores 'Las Teresas', por 13.834,23 € con IVA, pagado con una subvención regional de equipamientos.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "adjudicatario"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 13834.23,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167104D",
+      "lugar": "Centro de Día Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "15.3",
+      "titulo": "Mantenimiento del programa de contabilidad Sical en 2026 y 2027 (67.471 €)",
+      "categoria": "contrato",
+      "resumen": "Se abre un procedimiento negociado sin publicidad con Spai Innova Astigitas, S.L., única empresa que puede mantener el programa de contabilidad Spai Sical, por 33.735,68 € al año en 2026 y 2027 (tramitación anticipada).",
+      "entidades": [
+        {
+          "nombre": "Spai Innova Astigitas, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria prevista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 67471.36,
+      "importes": [
+        {
+          "concepto": "Anualidad 2026",
+          "eur": 33735.68,
+          "entidad": "Spai Innova Astigitas, S.L."
+        },
+        {
+          "concepto": "Anualidad 2027",
+          "eur": 33735.68,
+          "entidad": "Spai Innova Astigitas, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1149861E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.4",
+      "titulo": "Auditorio y Plaza Mayor para la campaña de prevención del suicidio adolescente",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede gratis el Auditorio (120 €) a la Consejería de Salud y se le permite instalar un camión informativo en la Plaza Mayor el 17 de noviembre para una campaña de prevención del suicidio entre adolescentes.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1181501Z",
+      "lugar": "Plaza Mayor",
+      "interes": 2
+    },
+    {
+      "ref": "15.5",
+      "titulo": "Se piden 288.852 € al SEF para formar a 10 parados en atención sociosanitaria",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba el programa de empleo-formación 'Yecla Impulsa 2025' (atención sociosanitaria a domicilio, 12 meses, hasta 10 alumnos desempleados) y se solicita al Servicio Regional de Empleo y Formación una subvención de 288.851,50 €.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 288851.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1177031Q",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.6",
+      "titulo": "Aceptada ayuda de 30.000 € para aparcamiento inteligente para personas con movilidad reducida",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se acepta una subvención de 30.000 € (18.000 € FEDER y 12.000 € CARM, ayudas Smartregión) para instalar 17 sensores de aparcamiento inteligente en plazas para personas con movilidad reducida.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Transformación Digital (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Unión Europea (FEDER)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 30000.0,
+      "importes": [
+        {
+          "concepto": "FEDER (60%)",
+          "eur": 18000.0,
+          "entidad": "Unión Europea (FEDER)"
+        },
+        {
+          "concepto": "CARM (40%)",
+          "eur": 12000.0,
+          "entidad": "Dirección General de Transformación Digital (CARM)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "941413T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "15.7",
+      "titulo": "La CARM dará 104.867 € para obras en tres colegios públicos",
+      "categoria": "subvencion_recibida",
+      "resumen": "El Ayuntamiento da su conformidad al decreto regional que le concede 104.866,64 € para reformas en el CEIP Giner de los Ríos (48.349,99 €), rampas en el CEIP Alfonso X El Sabio (47.000 €) y el patio del CEIP San José de Calasanz (9.516,65 €).",
+      "entidades": [
+        {
+          "nombre": "Consejería de Educación, Formación Profesional y Empleo (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 104866.64,
+      "importes": [
+        {
+          "concepto": "Acondicionamiento y reforma CEIP Giner de los Ríos",
+          "eur": 48349.99,
+          "entidad": "Consejería de Educación, Formación Profesional y Empleo (CARM)"
+        },
+        {
+          "concepto": "Rampas de acceso a infantil CEIP Alfonso X El Sabio",
+          "eur": 47000.0,
+          "entidad": "Consejería de Educación, Formación Profesional y Empleo (CARM)"
+        },
+        {
+          "concepto": "Solera del patio CEIP San José de Calasanz",
+          "eur": 9516.65,
+          "entidad": "Consejería de Educación, Formación Profesional y Empleo (CARM)"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1179620M",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "15.8",
+      "titulo": "Carrera de ciclocross CX Race Yecla en el jardín de la avenida de la Feria",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se autoriza al Pafgio Cycling Club la 4ª CX Race Yecla (prueba del circuito regional de ciclocross) el 15 de noviembre en el jardín de la avenida de la Feria, con apoyo municipal: gastos de 1.500 € y uso gratuito de instalaciones valorado en 77,50 €.",
+      "entidades": [
+        {
+          "nombre": "Pafgio Cycling Club",
+          "cif": null,
+          "tipo": "club",
+          "rol": "recibe colaboración"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1577.5,
+      "importes": [
+        {
+          "concepto": "Gastos municipales del evento",
+          "eur": 1500.0,
+          "entidad": "Pafgio Cycling Club"
+        },
+        {
+          "concepto": "Uso gratuito de instalaciones",
+          "eur": 77.5,
+          "entidad": "Pafgio Cycling Club"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1167795N",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 2
+    },
+    {
+      "ref": "15.9",
+      "titulo": "Visto bueno a la nueva línea eléctrica de 132 kV de Iberdrola a la subestación Romeral",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "El Ayuntamiento da su conformidad a la autorización y declaración de utilidad pública de la línea eléctrica de 132 kV, doble circuito, de entrada y salida en la subestación Romeral (línea Yecla-Buey 2) que tramita i-DE (Iberdrola) ante la CARM; como cruza un camino municipal, se le imponen condiciones (ir por los márgenes, reponer el firme, no dañar redes de riego).",
+      "entidades": [
+        {
+          "nombre": "I-DE Redes Eléctricas Inteligentes, S.A.U. (Grupo Iberdrola)",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Dirección General de Industria, Energía y Minas (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "tramita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "1172557C",
+      "lugar": "Subestación Romeral; camino municipal polígono 127, parcela 9006",
+      "interes": 3
+    },
+    {
+      "ref": "15.10",
+      "titulo": "Informes, ruegos y preguntas",
+      "categoria": "informacion",
+      "resumen": "No se presentan.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "otro",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

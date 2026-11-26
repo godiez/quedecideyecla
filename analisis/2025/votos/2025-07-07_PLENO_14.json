@@ -1,0 +1,601 @@
+{
+  "doc": "2025-07-07_PLENO_14",
+  "asistentes": {
+    "PP": 9,
+    "PSOE": 7,
+    "Vox": 3,
+    "IU-Verdes": 2
+  },
+  "notas": "Asisten los 21 concejales (la lista de asistentes repite un nombre de Vox, pero los 12 votos de PP y Vox confirman la asistencia completa). En el punto 6 una concejala del PP, la afectada, sale de la sala durante el debate y la votación: PP vota con 8. El punto 2 vota el informe-propuesta de no debatir la iniciativa ciudadana; 'aprobada' significa que no se debate.",
+  "votaciones": [
+    {
+      "punto_idx": 0,
+      "punto_ref": "1",
+      "que": "otra",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "Conocida por todos los asistentes el acta de la sesión correspondiente al día 2 de junio de 2025, es aprobada por unanimidad."
+    },
+    {
+      "punto_idx": 1,
+      "punto_ref": "2",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 7,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 2,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "el Pleno del Ayuntamiento, por doce votos a favor (Grupo M. Popular y Grupo M. Vox) y nueve votos en contra (Grupo M. Socialista y Grupo M. Izquierda Unida-Verdes), adopta el siguiente acuerdo: Desestimar el tratamiento, debate y votación de la iniciativa ciudadana"
+    },
+    {
+      "punto_idx": 2,
+      "punto_ref": "3",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad el siguiente acuerdo:"
+    },
+    {
+      "punto_idx": 3,
+      "punto_ref": "4",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad el siguiente acuerdo:"
+    },
+    {
+      "punto_idx": 4,
+      "punto_ref": "5",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 5,
+      "punto_ref": "6",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 8,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 7
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 2
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por once votos a favor (Grupo M. Popular y Grupo M. Vox) y nueve abstenciones (Grupo M. Socialista y Grupo M. Izquierda Unida-Verdes), adopta los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 6,
+      "punto_ref": "7",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 0,
+          "contra": 0,
+          "abstencion": 7
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento, por catorce votos a favor (Grupo M. Popular, Grupo M. Vox y Grupo M. Izquierda Unida-Verdes), y siete abstenciones (Grupo M. Socialista), adopta los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 7,
+      "punto_ref": "8",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad el siguiente acuerdo:"
+    },
+    {
+      "punto_idx": 8,
+      "punto_ref": "9",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 9,
+      "punto_ref": "10",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad el siguiente acuerdo:"
+    },
+    {
+      "punto_idx": 10,
+      "punto_ref": "11",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 11,
+      "punto_ref": "12",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 12,
+      "punto_ref": "13",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad el siguiente acuerdo:"
+    },
+    {
+      "punto_idx": 13,
+      "punto_ref": "14",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 14,
+      "punto_ref": "15",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 15,
+      "punto_ref": "16",
+      "que": "propuesta",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento adopta por unanimidad los siguientes acuerdos:"
+    },
+    {
+      "punto_idx": 16,
+      "punto_ref": "17",
+      "que": "moción",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento acuerda, por unanimidad, la aprobación de la proposición del Grupo M. Izquierda Unida-Verdes sobre “Implantación de una UCI en el Hospital Virgen del Castillo”."
+    },
+    {
+      "punto_idx": 17,
+      "punto_ref": "18",
+      "que": "moción",
+      "final": true,
+      "unanimidad": true,
+      "votos": {
+        "PP": {
+          "favor": 9,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 3,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "aprobada",
+      "texto_acta": "El Pleno del Ayuntamiento acuerda, por unanimidad, la aprobación de la proposición del Grupo M. Vox sobre “Moción para mostrar el apoyo del Ayuntamiento de Yecla a la Unidad Central Operativa (UCO) de la Guardia Civil”."
+    },
+    {
+      "punto_idx": 18,
+      "punto_ref": "19",
+      "que": "moción",
+      "final": true,
+      "unanimidad": false,
+      "votos": {
+        "PP": {
+          "favor": 0,
+          "contra": 9,
+          "abstencion": 0
+        },
+        "PSOE": {
+          "favor": 7,
+          "contra": 0,
+          "abstencion": 0
+        },
+        "Vox": {
+          "favor": 0,
+          "contra": 3,
+          "abstencion": 0
+        },
+        "IU-Verdes": {
+          "favor": 2,
+          "contra": 0,
+          "abstencion": 0
+        }
+      },
+      "resultado": "rechazada",
+      "texto_acta": "El Ayuntamiento Pleno, por doce votos en contra (Grupo M. Popular y Grupo M. Vox), y nueve votos a favor (Grupo M. Socialista y Grupo M. Izquierda Unida-Verdes), rechaza la proposición del Grupo M. Socialista"
+    }
+  ]
+}

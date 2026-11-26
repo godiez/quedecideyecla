@@ -1,0 +1,594 @@
+{
+  "doc": "2022-05-17_JGL_23",
+  "organo": "JGL",
+  "sesion": 23,
+  "fecha": "2022-05-17",
+  "tipo_sesion": "ordinaria",
+  "paginas": 37,
+  "resumen": "La Junta de Gobierno saca a licitación la obra del carril bici y peatonal de la Avenida de la Cruz Roja (330.000 euros) y el servicio de control de plagas, mosquitos y legionela. Rechaza los recursos de dos empresas que llevaron el Centro de Día de mayores (Sacyr Social y Alma Ata Salud), que querían cobrar la comida no servida durante el cierre por la COVID. También informa a favor del interés público de un supermercado en suelo no urbanizable (Certain, S.L.), paga conciertos y teatro, aprueba las fiestas de San Isidro de Raspay y un proyecto de inserción laboral de 37.600 euros.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 10 de mayo",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: concurso de puestos de funcionarios de habilitación nacional",
+      "categoria": "informacion",
+      "resumen": "Se da cuenta de una resolución de la Dirección General de Administración Local (CARM) que publica la convocatoria del concurso ordinario para cubrir puestos reservados a funcionarios con habilitación nacional (secretarios, interventores, tesoreros) en los ayuntamientos de la Región.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "publica la convocatoria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "626484R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: gasóleo del CEIP La Paz y montaje de Semana Santa",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar el gasóleo de calefacción del colegio La Paz y el servicio de equipamiento y montaje de la Semana Santa 2022.",
+      "entidades": [
+        {
+          "nombre": "Recursos Energéticos del Sureste, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 14479.5,
+      "importes": [
+        {
+          "concepto": "Gasóleo C para el CEIP La Paz",
+          "eur": 7038.0,
+          "entidad": "Recursos Energéticos del Sureste, S.L.U."
+        },
+        {
+          "concepto": "Equipamiento y montaje de la Semana Santa 2022",
+          "eur": 7441.5,
+          "entidad": "particular"
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "485117Z, 608186D",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla del espectáculo 'Miles Gloriosus' en el Teatro Concha Segura",
+      "categoria": "presupuesto_hacienda",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (1.953 €) y la baja de las entradas no vendidas (1.857 €) de la obra 'Miles Gloriosus', vendidas por Instant Ticket.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 1953.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "625709Q",
+      "lugar": "Teatro Concha Segura",
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Cambio de director de obra en una licencia urbanística",
+      "categoria": "licencia_obra",
+      "resumen": "Se toma nota, a petición del Colegio Oficial de Arquitectos de Murcia, del nombramiento de un nuevo arquitecto director de las obras de la licencia nº 53/2020, tras la renuncia del anterior.",
+      "entidades": [
+        {
+          "nombre": "Colegio Oficial de Arquitectos de Murcia",
+          "cif": null,
+          "tipo": "institucion",
+          "rol": "comunica el cambio"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "398146F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Permiso para empezar a construir una vivienda con piscina en La Pujola",
+      "categoria": "licencia_obra",
+      "resumen": "Se da por cumplida la condición de aportar documentación y se autoriza a unos particulares a empezar las obras de una vivienda unifamiliar con garaje, piscina y almacén (licencia nº 358/2021). La primera ocupación queda condicionada a inscribir la explotación en el registro agrario (REGEPA).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524139X",
+      "lugar": "Paraje La Pujola (suelo no urbanizable)",
+      "interes": 2
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Visto bueno al interés público de un supermercado en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Tras varios reparos de la Comunidad Autónoma y nueva documentación, el Ayuntamiento vuelve a informar a favor de declarar de interés público la construcción de una nave para supermercado de Certain, S.L. en suelo no urbanizable, y lo envía a la Dirección General del Territorio y Arquitectura para que conceda la autorización.",
+      "entidades": [
+        {
+          "nombre": "Certain, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita autorización"
+        },
+        {
+          "nombre": "Dirección General del Territorio y Arquitectura (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "otorga la autorización"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "332713C (S.N.U. 3/2020)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Se licita la obra del carril bici y peatonal de la Avenida de la Cruz Roja",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y el pliego para contratar, por procedimiento abierto simplificado, la pavimentación y señalización de vías ciclables y peatonales en la Avenida de la Cruz Roja, con un presupuesto de 329.999,97 €, y se nombra a los técnicos municipales responsables.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 329999.97,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "620929C (C.O. 2/22)",
+      "lugar": "Avenida de la Cruz Roja",
+      "interes": 3
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Rechazado el recurso de Sacyr Social por las facturas del Centro de Día en 2020",
+      "categoria": "reclamaciones",
+      "resumen": "Sacyr Social, antigua contratista del Centro de Día de mayores dependientes, recurrió que el Ayuntamiento le descontara la comida no servida durante el cierre por COVID (marzo-mayo 2020; facturas de 35.502,91 €/mes rebajadas a unos 30.855 €). Se desestima: el IMAS también descontó la manutención al Ayuntamiento y pagarla sería un enriquecimiento injusto.",
+      "entidades": [
+        {
+          "nombre": "SACYR Social, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        },
+        {
+          "nombre": "Instituto Murciano de Acción Social (IMAS)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "financia el servicio"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "463052D",
+      "lugar": "Centro de Día de personas mayores Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Rechazado el recurso de Alma Ata Salud por el cierre del Centro de Día",
+      "categoria": "reclamaciones",
+      "resumen": "Alma Ata Salud, contratista del Centro de Día de mayores (447.443,93 €/año), pedía una compensación por desequilibrio económico (unos 6.086 € por diciembre 2020 y enero 2021) y no aceptaba que se le descontara la comida no servida durante los cierres por COVID. Se desestima su recurso: solo se le descuenta el coste de la comida (3,30 €/usuario/día) y se le paga íntegro el personal.",
+      "entidades": [
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "recurre"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "desestimado",
+      "votacion": "unanimidad",
+      "expediente": "457254A (C.SE. 6/2020)",
+      "lugar": "Centro de Día de personas mayores Las Teresas",
+      "interes": 2
+    },
+    {
+      "ref": "6.1",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (16 de julio)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 1ª planta de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "624668W",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.2",
+      "titulo": "Uso del Salón de Sesiones para una boda civil (27 de mayo)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 3ª planta de la Casa Consistorial para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "624594R",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "6.3",
+      "titulo": "COAG usa dos salas del Edificio Bioclimático para un curso de fitosanitarios",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a COAG Yecla a usar dos salas del Edificio Bioclimático los días 6, 7, 8 y 10 de junio para un curso básico del carné de productos fitosanitarios.",
+      "entidades": [
+        {
+          "nombre": "Coordinadora de Organizaciones de Agricultores y Ganaderos - Iniciativa Rural de Murcia (COAG Yecla)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "625925Q",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "6.4",
+      "titulo": "Asamblea de la Asociación de Afectados de Cáncer en el Centro de Emprendimiento",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a la Asociación de Yecla de Afectados de Cáncer a usar la sala de reuniones del Centro de Emprendimiento el 1 de junio para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Yecla de Afectados de Cáncer",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626914P",
+      "lugar": "Centro de Emprendimiento, calle Arcipreste Esteban Díaz, 44",
+      "interes": 1
+    },
+    {
+      "ref": "6.5",
+      "titulo": "Escuela de verano en el colegio San José de Calasanz",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al AMPA del CEIP San José de Calasanz a usar el colegio del 1 al 30 de julio (8 a 14 h) para una escuela de verano que organizará una particular; los organizadores pagan los gastos y la limpieza.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP San José de Calasanz",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación municipal"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "organiza la actividad"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "625353X",
+      "lugar": "CEIP San José de Calasanz",
+      "interes": 1
+    },
+    {
+      "ref": "7",
+      "titulo": "Programa de radio 'Atrévete' grabado en el Teatro Concha Segura",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la programación de la grabación y emisión del programa de radio 'Atrévete. Yecla punto de encuentro' en el Teatro Concha Segura el 19 de mayo, con un presupuesto de 17.992,70 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 17992.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "572581C",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "8",
+      "titulo": "Asesor del tribunal de las oposiciones a 22 plazas de policía local",
+      "categoria": "personal",
+      "resumen": "Se nombra al director del Servicio Municipal de Deportes asesor del tribunal para las pruebas físicas (1 y 3 de junio) de la oposición a 22 plazas de agente de Policía Local (ofertas de empleo de 2018 y 2020).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "618342J",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "III Carrera de Escuelas de Ciclismo Ciudad de Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza al Club Ciclista Altiplano, con la Federación de Ciclismo de la Región de Murcia, a celebrar la carrera el 22 de mayo en un circuito urbano junto a la Avenida de la Feria, con colaboración municipal (gasto de 484 €).",
+      "entidades": [
+        {
+          "nombre": "Club Ciclista Altiplano",
+          "cif": null,
+          "tipo": "club",
+          "rol": "organiza"
+        },
+        {
+          "nombre": "Federación de Ciclismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 484.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "611011C",
+      "lugar": "Entorno de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "10",
+      "titulo": "Zanja en un camino público de La Decarada para una tubería de agua",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una particular a abrir una zanja que cruce un camino municipal para pasar una tubería de agua, reponiendo después el firme; antes necesita la declaración responsable urbanística con fianza.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621584M",
+      "lugar": "Paraje La Decarada",
+      "interes": 1
+    },
+    {
+      "ref": "11.1",
+      "titulo": "Pago del concierto de Nancys Rubias y de la obra 'Puertas Abiertas'",
+      "categoria": "pago_factura",
+      "resumen": "Por urgencia se aprueba pagar el concierto de Nancys Rubias y la obra de teatro 'Puertas Abiertas'.",
+      "entidades": [
+        {
+          "nombre": "Spanish Bombs, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Serveis de L'Espectable Focus, S.A.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 32912.0,
+      "importes": [
+        {
+          "concepto": "Concierto 'Nancys Rubias'",
+          "eur": 21780.0,
+          "entidad": "Spanish Bombs, S.L."
+        },
+        {
+          "concepto": "Obra de teatro 'Puertas Abiertas'",
+          "eur": 11132.0,
+          "entidad": "Serveis de L'Espectable Focus, S.A."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "604550D, 615161Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.2",
+      "titulo": "Un técnico municipal imparte el curso 'La Ruta del Vino' de la Universidad Popular",
+      "categoria": "personal",
+      "resumen": "Se designa a un técnico auxiliar de Medio Ambiente para dar el curso 'La Ruta del Vino' de la Universidad Popular 2021/22, con una indemnización de 137,04 € (más 43,03 € de Seguridad Social).",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": 180.07,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "611363Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "11.3",
+      "titulo": "Una sentencia reconoce a una técnica de Educación Infantil como indefinida no fija",
+      "categoria": "personal",
+      "resumen": "En cumplimiento de la sentencia 161/2022 del Juzgado de lo Social nº 4 de Murcia, se reconoce a una trabajadora como laboral indefinida no fija del Ayuntamiento (Técnica de Educación Infantil), con antigüedad desde septiembre de 2017.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 4 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "496583Z",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.4",
+      "titulo": "Contrato menor con la Cadena SER para el programa de radio 'Atrévete'",
+      "categoria": "contrato",
+      "resumen": "Se adjudica a la Sociedad Española de Radiodifusión (Cadena SER) por 17.992,70 € el contrato menor para grabar y emitir el programa 'Atrévete' desde Yecla.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Española de Radiodifusión, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 17992.7,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626615Z",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "11.5",
+      "titulo": "Se licita el control de plagas, mosquitos y legionela",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el expediente y los pliegos del contrato de control de plagas urbanas, mosquitos y prevención de legionela, por procedimiento abierto y en dos lotes (31.702,01 € y 9.068,83 € al año, IVA incluido), con un gasto autorizado este año de 20.385,42 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 20385.42,
+      "importes": [
+        {
+          "concepto": "Lote 1: desratización y desinsectación (alcantarillado, colegios, edificios municipales) y mosquitos, presupuesto anual",
+          "eur": 31702.01,
+          "entidad": null
+        },
+        {
+          "concepto": "Lote 2: control y prevención de legionelosis, presupuesto anual",
+          "eur": 9068.83,
+          "entidad": null
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "621567N (C.SE. 7/22)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.6",
+      "titulo": "Terraza de 20 m² para un bar de la calle Hernán Cortés",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una comunidad de bienes la terraza de su bar en la calle Hernán Cortés durante la temporada de verano (1 de abril a 31 de octubre), con 20 m².",
+      "entidades": [
+        {
+          "nombre": "particular (C.B.)",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "solicita autorización"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626135H",
+      "lugar": "Calle Hernán Cortés",
+      "interes": 1
+    },
+    {
+      "ref": "11.7",
+      "titulo": "Terraza de 12 m² para el 'Bar de paso' de la calle Pascual Amat",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un particular la terraza del establecimiento 'Bar de paso' durante la temporada de verano, con 12 m².",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626163X",
+      "lugar": "Calle Pascual Amat",
+      "interes": 1
+    },
+    {
+      "ref": "11.8",
+      "titulo": "Fiestas de San Isidro de Raspay 2022",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se aprueba el programa de las fiestas de San Isidro de Raspay (21 de mayo) con un presupuesto de 5.868,50 €, y un precio de 10 € para inscribirse en el festival de paellas.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 5868.5,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "626139N",
+      "lugar": "Raspay (Local Social)",
+      "interes": 2
+    },
+    {
+      "ref": "11.9",
+      "titulo": "Proyecto de inserción laboral para personas en riesgo de exclusión (37.600 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el Proyecto de Inserción Socio-Laboral 2022 de Servicios Sociales para dar empleo temporal a personas en riesgo o situación de exclusión social, con un presupuesto de 37.600 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 37600.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "624739T",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11.10",
+      "titulo": "Contratación de cinco personas del proyecto de inserción laboral",
+      "categoria": "personal",
+      "resumen": "Se pide al SEF la contratación de cinco personas (limpiadoras, conserje y conserje-limpiadora, tres a jornada completa y dos a media jornada) durante cuatro meses dentro del proyecto de inserción socio-laboral.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "gestiona la oferta de empleo"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "624739T",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

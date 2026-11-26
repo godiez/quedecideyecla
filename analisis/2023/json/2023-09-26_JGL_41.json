@@ -1,0 +1,986 @@
+{
+  "doc": "2023-09-26_JGL_41",
+  "organo": "JGL",
+  "sesion": 41,
+  "fecha": "2023-09-26",
+  "tipo_sesion": "ordinaria",
+  "paginas": 47,
+  "resumen": "La Junta de Gobierno paga 691.444 euros en facturas (sobre todo recogida de basura y limpieza viaria de Actúa) y 163.098 euros de la obra del Mercado Central. Mantiene a T.S.I. Levante limpiando los edificios municipales aunque su contrato vence, porque el nuevo no está licitado. Aprueba el Jazz Yecla 2023 (55.321 euros), adjudica la reparación del campo de fútbol nº 2 del Juan Palao (34.809 euros) y pide al SEF prórrogas para dos agentes de desarrollo local.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación del acta de la sesión del 19 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueba el acta de la sesión anterior.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": null,
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: depuradora, liquidación de 'Yecla enclave joven' y programa mixto de empleo",
+      "categoria": "informacion",
+      "resumen": "Se informa de un escrito de ESAMUR sobre las características del agua que llega a la depuradora (EDAR) en el primer semestre de 2023, de la liquidación final de la ayuda del Fondo Social Europeo para el proyecto 'Yecla enclave joven' (Garantía Juvenil) y de la concesión por el SEF de subvenciones del Programa Mixto de Empleo-Formación para jóvenes 2023. No se indican importes.",
+      "entidades": [
+        {
+          "nombre": "Entidad de Saneamiento y Depuración de la Región de Murcia (ESAMUR)",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Dirección General de Cooperación Autonómica y Local",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "liquida subvención"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "817416A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Pago de facturas: basura y limpieza viaria, residuos, limpieza de edificios, centro de día y autobús",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar diez facturas por casi 691.500 €: recogida de basura y limpieza viaria de julio y agosto, zonas verdes de julio, tratamiento de residuos del Consorcio (junio y julio), limpieza de edificios municipales de agosto, plazas del Centro de Día, subvención del autobús urbano de agosto, licencias informáticas Fortinet y el cobro de la tasa de basura por Aqualia.",
+      "entidades": [
+        {
+          "nombre": "Actúa, Servicios y Medio Ambiente, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "T.S.I. Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Alma Ata Salud, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Autobuses Urbanos de Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "FCC Aqualia, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        },
+        {
+          "nombre": "Nextret, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 691444.28,
+      "importes": [
+        {
+          "concepto": "Licencias Fortinet 2023 (contrato menor de suministro)",
+          "eur": 10154.45,
+          "entidad": "Nextret, S.L."
+        },
+        {
+          "concepto": "Limpieza de inmuebles municipales, agosto 2023",
+          "eur": 53116.71,
+          "entidad": "T.S.I. Levante, S.L."
+        },
+        {
+          "concepto": "Centro de Día, plazas de dependientes, agosto 2023",
+          "eur": 37286.99,
+          "entidad": "Alma Ata Salud, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, julio 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Recogida de basura, limpieza viaria y recogida selectiva, agosto 2023",
+          "eur": 180264.34,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Limpieza y mantenimiento de zonas verdes, julio 2023",
+          "eur": 48626.09,
+          "entidad": "Actúa, Servicios y Medio Ambiente, S.L."
+        },
+        {
+          "concepto": "Tratamiento de residuos, junio 2023",
+          "eur": 57908.4,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Tratamiento de residuos, julio 2023",
+          "eur": 81649.21,
+          "entidad": "Consorcio para la Gestión de Residuos Sólidos de la Región de Murcia"
+        },
+        {
+          "concepto": "Subvención al servicio de autobuses urbanos, agosto 2023",
+          "eur": 28107.32,
+          "entidad": "Autobuses Urbanos de Yecla, S.L."
+        },
+        {
+          "concepto": "Cobro de recibos de la tasa de basura, julio 2023",
+          "eur": 14066.43,
+          "entidad": "FCC Aqualia, S.L."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798834R, 118095X, 457254A, 495804R, 538849C, 584325N, 551537Z, 798447E",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Certificación nº 10 de la remodelación del Mercado Central",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba la certificación nº 10 de las obras de remodelación del Mercado Central a favor de la contratista.",
+      "entidades": [
+        {
+          "nombre": "Guerola Transer, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 163098.26,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "638478A",
+      "lugar": "Mercado Central",
+      "interes": 3
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Corregido el importe de la última certificación de la Capilla de las Angustias",
+      "categoria": "pago_factura",
+      "resumen": "Se rectifica un error en la certificación nº 14 y última de la restauración de la Capilla de la Virgen de las Angustias (Iglesia de San Francisco): el importe correcto es 25.903,56 € y no 21.290,57 €.",
+      "entidades": [
+        {
+          "nombre": "UTE Zima, S.L.-Pegiro, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 25903.56,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "586459C",
+      "lugar": "Iglesia de San Francisco",
+      "interes": 2
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 90% del impuesto de obras (ICIO) a una vecina por instalar placas solares para autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "753255N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Rebaja del 90% del ICIO por placas solares en una vivienda del paraje La Hormiga",
+      "categoria": "fiscal",
+      "resumen": "Se bonifica el 90% del impuesto de obras (ICIO) a un vecino por instalar placas solares para autoconsumo en su vivienda.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798189X",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Rebaja del 50% del IBI 2024-2028 por placas solares (paraje La Hormiga)",
+      "categoria": "fiscal",
+      "resumen": "Se concede al mismo vecino una bonificación del 50% del IBI durante cinco años (2024-2028), con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822864R",
+      "lugar": "paraje La Hormiga",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Rebaja del 50% del IBI 2024-2028 por placas solares en una vivienda",
+      "categoria": "fiscal",
+      "resumen": "Se concede a la misma vecina del punto 3.4 una bonificación del 50% del IBI durante cinco años (2024-2028), con un máximo de 100 € al año.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822431Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Plaza fija de profesor de la Escuela de Bellas Artes (media jornada)",
+      "categoria": "personal",
+      "resumen": "Se contrata como laboral fijo, por el proceso de estabilización de empleo temporal, al aspirante con mayor puntuación (79,60 puntos) en el concurso de méritos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "788908F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Auxiliar administrativa interina para Urbanismo y Contratación",
+      "categoria": "personal",
+      "resumen": "Al no haber candidatos en la bolsa municipal, se nombra interina a una aspirante designada por la Función Pública regional, desde el 2 de octubre y como máximo tres años.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "designa aspirante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796622W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Auxiliar administrativo interino para Intervención",
+      "categoria": "personal",
+      "resumen": "Por el mismo procedimiento se nombra interino a un aspirante designado por la Función Pública regional para la sección de Contabilidad, desde el 2 de octubre.",
+      "entidades": [
+        {
+          "nombre": "Dirección General de Función Pública (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "designa aspirante"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "796760M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Permiso de lactancia acumulado y vacaciones de una formadora",
+      "categoria": "personal",
+      "resumen": "Se autoriza a una formadora del Programa Mixto de Empleo-Formación a acumular la lactancia en nueve jornadas (5-16 de noviembre) y se fijan sus vacaciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819995H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.5",
+      "titulo": "Cambio de horario de la jefa del Negociado Central",
+      "categoria": "personal",
+      "resumen": "Se autoriza de forma excepcional, hasta el 1 de diciembre, un horario especial de lunes a viernes.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821771Z",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.6",
+      "titulo": "Viaje de una psicóloga del CAVI a una reunión en Jumilla",
+      "categoria": "personal",
+      "resumen": "Se ordena su asistencia a una reunión de técnicos de Familia el 28 de septiembre y se cubren los gastos de desplazamiento.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822249N",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.7",
+      "titulo": "Contratación de un conserje para el Edificio Bioclimático",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa un conserje-operario para el Servicio de Juventud hasta que termine el proceso de estabilización de la plaza (máximo, fin del curso 2023/24).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "815717Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.8",
+      "titulo": "Sustituta de una técnica de la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Se contrata de la bolsa a una técnica de Educación Infantil (30 h/semana) para cubrir una baja médica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821225Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.9",
+      "titulo": "Nuevo trabajador social sustituto en Servicios Sociales",
+      "categoria": "personal",
+      "resumen": "Tras la renuncia de la sustituta anterior, se contrata de la bolsa a otro trabajador social para cubrir a la titular de la UTS 03 mientras coordina proyectos del Centro de Servicios Sociales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "588030J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.10",
+      "titulo": "Auxiliar de biblioteca para el Centro de Lectura Los Huertos",
+      "categoria": "personal",
+      "resumen": "Por la jubilación de la titular se contrata un sustituto (17,65 h/semana) hasta que la plaza se cubra, máximo tres años. El acuerdo dice por error 'Técnico de Atención Temprana'.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819552R",
+      "lugar": "Centro de Lectura Los Huertos",
+      "interes": 1
+    },
+    {
+      "ref": "4.11",
+      "titulo": "Auxiliar administrativo interino para la Casa de Cultura",
+      "categoria": "personal",
+      "resumen": "Se nombra interino a quien corresponda de la bolsa (o, si no hay, de las listas regionales) para la plaza vacante por renuncia.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821810D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.12",
+      "titulo": "Jubilación de una auxiliar de biblioteca",
+      "categoria": "personal",
+      "resumen": "Se toma razón de su jubilación el 18 de octubre y se le agradecen más de 20 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "813417X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.13",
+      "titulo": "Jubilación de un trabajador municipal",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la jubilación de un trabajador municipal el 29 de octubre y se le agradecen más de 42 años de servicio.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819916Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Pintura de señales en las vías perimetrales: se deja sobre la mesa",
+      "categoria": "contrato",
+      "resumen": "El contrato menor de señalización horizontal de las vías perimetrales del casco urbano se aplaza para mejor estudio.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aplazado",
+      "votacion": "unanimidad",
+      "expediente": "821750W",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "T.S.I. Levante sigue limpiando los edificios municipales hasta el nuevo contrato",
+      "categoria": "contrato",
+      "resumen": "El contrato de limpieza de inmuebles municipales (C.SE. 2/19) vence el 30 de septiembre y el nuevo aún no está licitado; se acuerda que la empresa siga prestando el servicio en las mismas condiciones hasta que entre en vigor el nuevo. El acta reconoce que no se cumple literalmente la ley de contratos y lo justifica con sentencias.",
+      "entidades": [
+        {
+          "nombre": "Técnicas y Servicios Integrales de Levante, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "contratista"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "813142P",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "6",
+      "titulo": "Actividades del Día de las Personas Mayores (taichi, pilates y paseo)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de Servicios Sociales del 3 al 5 de octubre: sesiones de taichi y pilates en el jardín de la Avenida de la Feria y un paseo saludable por la ciudad.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821831H",
+      "lugar": "Jardín de la Avenida de la Feria",
+      "interes": 1
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón del Edificio Bioclimático para cursos del Hospital Virgen del Castillo",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el salón de actos y una sala los lunes del 9 de octubre al 27 de noviembre para formación del personal del hospital.",
+      "entidades": [
+        {
+          "nombre": "Hospital Virgen del Castillo de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821415E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Sala del Edificio Bioclimático para un curso de la Red Deportiva Yecla",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza una sala el 7 de octubre para un curso de auxiliar de mesa de baloncesto.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821946R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Boda civil en la Casa Consistorial (4 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "818506P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.4",
+      "titulo": "Boda civil en la Casa Consistorial (6 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820718M",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.5",
+      "titulo": "Boda civil en la Casa Consistorial (11 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821044P",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.6",
+      "titulo": "Boda civil en la Casa Consistorial (27 de octubre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "818574J",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.7",
+      "titulo": "Boda civil en la Casa Consistorial (24 de noviembre)",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja el uso del Salón de Sesiones de la 3ª planta para su matrimonio civil.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "813477E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.8",
+      "titulo": "Boda civil del 13 de octubre pasa al Salón de Plenos",
+      "categoria": "via_publica_eventos",
+      "resumen": "Una pareja que tenía autorizado el Salón de Sesiones pide celebrar su boda en el Salón de Plenos; se acepta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "769503E",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "7.9",
+      "titulo": "Teatro Concha Segura para el Pregón de las Fiestas de la Virgen",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a los Mayordomos de la Purísima el uso del teatro para el pregón (el acta dice 2 de diciembre de 2022, probable errata por 2023), previo pago del precio público de 1.800 €.",
+      "entidades": [
+        {
+          "nombre": "Asociación de Mayordomos de la Purísima Concepción",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / paga"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 1800.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821060M",
+      "lugar": "Teatro Concha Segura",
+      "interes": 2
+    },
+    {
+      "ref": "7.10",
+      "titulo": "Auditorio gratis para el día del patrón de la Policía Nacional",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede el Auditorio Juan Miguel Benedito el 2 de octubre a la Comisaría de la Policía Nacional con reducción del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Comisaría de la Policía Nacional de Yecla",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "820757Q",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Programa y presupuesto del Jazz Yecla 2023",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el festival Jazz Yecla del 3 al 7 de octubre con un presupuesto de 55.321,20 € y entrada a 6 € por concierto.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 55321.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "814681C",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "9",
+      "titulo": "Ayudas extraordinarias para libros y material escolar 2023",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se conceden ayudas para libros y material escolar a los menores propuestos por Servicios Sociales; la lista y las cuantías no figuran en el acta.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "801756A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide al SEF la 15ª prórroga de la ayuda para una agente de desarrollo local (emprendimiento)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba la memoria del proyecto (37.380,36 €) y se solicita al SEF 27.045 € para seguir contratando a la agente de Empleo y Desarrollo Local de emprendimiento, formación y comercio; el Ayuntamiento pone el 27,65% del coste.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 27045.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819234A",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Se pide al SEF la 11ª prórroga de la ayuda para un agente de desarrollo local (nuevas tecnologías)",
+      "categoria": "subvencion_recibida",
+      "resumen": "Se aprueba la memoria del proyecto (40.414,08 €) y se solicita al SEF 27.045 € para el agente de Empleo y Desarrollo Local de nuevas tecnologías e innovación; el Ayuntamiento pone el 33,08%.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 27045.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "819263Q",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "12",
+      "titulo": "Torneo de voleibol de la Red Deportiva Yecla con instalaciones gratis",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza el torneo del 30 de septiembre en la sala escolar Las Herratillas con apoyo municipal y uso gratuito de instalaciones valorado en 157,20 €; las 12 Horas de Baloncesto se aplazan.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso / recibe colaboración"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 157.2,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "798508P",
+      "lugar": "Sala escolar Las Herratillas",
+      "interes": 1
+    },
+    {
+      "ref": "13",
+      "titulo": "Trail nocturno Yecla-Caudete del Centro Excursionista",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza la marcha nocturna no competitiva de trail y senderismo del 30 de septiembre desde Yecla hasta Caudete, con condiciones de seguridad, tráfico y medio ambiente.",
+      "entidades": [
+        {
+          "nombre": "Centro Excursionista de Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "806938Y",
+      "lugar": "Recorrido Yecla-Caudete",
+      "interes": 2
+    },
+    {
+      "ref": "14",
+      "titulo": "Cambio de vehículo de la licencia de taxi nº 10",
+      "categoria": "otros",
+      "resumen": "Se autoriza al titular de la licencia de taxi nº 10 a sustituir su vehículo por otro nuevo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "802386A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "15",
+      "titulo": "Denegada agua potable para una obra en suelo no urbanizable (Altos de Caudete)",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se deniega a un vecino el suministro de agua potable para una construcción en suelo no urbanizable porque no hay red pública ni privada en la zona.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "denegado",
+      "votacion": "unanimidad",
+      "expediente": "811190D",
+      "lugar": "paraje Altos de Caudete",
+      "interes": 1
+    },
+    {
+      "ref": "16.1",
+      "titulo": "Contratada una cuidadora para el Centro de Protección Animal",
+      "categoria": "personal",
+      "resumen": "Urgente: se contrata a una cuidadora de animales (oferta al SEF) para cubrir la baja del vigilante del centro de protección animal y parque canino, y la otra candidata queda en bolsa.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "818749C",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.2",
+      "titulo": "Viaje de la asesora jurídica del CAVI a una reunión en Murcia",
+      "categoria": "personal",
+      "resumen": "Urgente: se ordena su asistencia el 2 de octubre a una reunión de asesoras jurídicas de la red CAVI y se cubren los gastos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822710D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.3",
+      "titulo": "Reparación del campo de fútbol nº 2 del Polideportivo Juan Palao",
+      "categoria": "contrato",
+      "resumen": "Urgente: se aprueba la memoria (47.047 €) y se adjudica el contrato menor de obras a Construcciones J.J. Gómez Yecla, S.L. por 34.809,12 € IVA incluido.",
+      "entidades": [
+        {
+          "nombre": "Construcciones J.J. Gómez Yecla, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 34809.12,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "816423X",
+      "lugar": "Complejo Polideportivo Juan Palao",
+      "interes": 3
+    },
+    {
+      "ref": "16.4",
+      "titulo": "Puesto informativo de AMITES Yecla en el Parque de la Constitución",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza un puesto el 27 de septiembre con carpa, mesa y silla municipales.",
+      "entidades": [
+        {
+          "nombre": "AMITES Yecla ONG",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822265K",
+      "lugar": "Parque de la Constitución",
+      "interes": 1
+    },
+    {
+      "ref": "16.5",
+      "titulo": "El AMPA del CEIP Giner de los Ríos usa el colegio para una jornada de convivencia",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza el uso de las instalaciones exteriores el 30 de septiembre; las gachasmigas quedan pendientes del informe de Medio Ambiente.",
+      "entidades": [
+        {
+          "nombre": "AMPA del CEIP Giner de los Ríos",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "818458Y",
+      "lugar": "CEIP Giner de los Ríos",
+      "interes": 1
+    },
+    {
+      "ref": "16.6",
+      "titulo": "Auditorio gratis para la presentación del Club de Gimnasia Rítmica",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se cede el Auditorio Juan Miguel Benedito el 29 de septiembre con reducción del 100% del precio (120 €).",
+      "entidades": [
+        {
+          "nombre": "Club de Gimnasia Rítmica Yecla",
+          "cif": null,
+          "tipo": "club",
+          "rol": "pide permiso / beneficiario de exención"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 120.0,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "821518Y",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.7",
+      "titulo": "Salón del Centro de Desarrollo Local para la Federación de Peñas de San Isidro",
+      "categoria": "via_publica_eventos",
+      "resumen": "Urgente: se autoriza el salón de actos el 28 de septiembre para su asamblea general.",
+      "entidades": [
+        {
+          "nombre": "Federación de Peñas de San Isidro de Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "pide permiso"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822872D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.8",
+      "titulo": "Bases para elegir Rey o Reina del Carnaval 2024",
+      "categoria": "servicios_actividades",
+      "resumen": "Urgente: se aprueban las bases para elegir al representante de las peñas en el Carnaval de 2024 (2, 3, 9, 10 y 11 de febrero).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "823538D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16.9",
+      "titulo": "Charlas sobre reciclaje con la Asociación Ambiente Europeo",
+      "categoria": "medio_ambiente",
+      "resumen": "Urgente: el Ayuntamiento colaborará en un programa de charlas sobre prevención, reutilización y reciclaje de residuos en asociaciones y centros.",
+      "entidades": [
+        {
+          "nombre": "Asociación Ambiente Europeo",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "organiza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "822122M",
+      "lugar": null,
+      "interes": 1
+    }
+  ]
+}

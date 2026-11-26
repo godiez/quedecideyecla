@@ -1,0 +1,809 @@
+{
+  "doc": "2021-09-07_JGL_42",
+  "organo": "JGL",
+  "sesion": 42,
+  "fecha": "2021-09-07",
+  "tipo_sesion": "ordinaria",
+  "paginas": 56,
+  "resumen": "La Junta de Gobierno pone en marcha el programa 'Yecla Emplea Verde 2021' (153.908 € del SEF para formar y contratar a 15 jóvenes en conservación de montes), adjudica la actuación de Pica Pica por 16.940 € y organiza partidos de pretemporada de fútbol sala y baloncesto ACB con 9.765 € municipales. Abre una consulta pública para la primera ordenanza del taxi, pide permiso para cámaras de seguridad en la calle y resuelve 10 recursos de empleados sobre la carrera profesional, extendida a interinos y temporales. También liquida taquillas de los ciclos de verano, concede una beca de 6.000 € y licencias en suelo rústico.",
+  "puntos": [
+    {
+      "ref": "1",
+      "titulo": "Aprobación de las actas del 2 de agosto y 5 de septiembre",
+      "categoria": "organizacion",
+      "resumen": "Se aprueban las actas de dos sesiones anteriores.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "527195O (OCR, dudoso)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "2",
+      "titulo": "Comunicaciones: niveles de alerta Covid, cursos del SEF y puesto de tesorería",
+      "categoria": "informacion",
+      "resumen": "Se informa de cinco órdenes de la Consejería de Salud sobre niveles de alerta Covid-19 y limitación de grupos, de la aprobación por el SEF de la liquidación de dos subvenciones de cursos de formación (docencia de FP para el empleo y atención sociosanitaria a dependientes), de un escrito de la CARM sobre la clasificación del puesto de tesorería y de quién ejerció la jefatura de la Policía Local en agosto.",
+      "entidades": [
+        {
+          "nombre": "Consejería de Salud (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        },
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Dirección General de Administración Local (CARM)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "informa"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "informado",
+      "votacion": "unanimidad",
+      "expediente": "527242D",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.1",
+      "titulo": "Factura de Correos de julio",
+      "categoria": "pago_factura",
+      "resumen": "Se aprueba pagar la facturación de julio de 2021 del servicio postal.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 7529.18,
+      "importes": [
+        {
+          "concepto": "Facturación julio 2021",
+          "eur": 7529.18,
+          "entidad": "Sociedad Estatal Correos y Telégrafos, S.A., S.M.E."
+        }
+      ],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "282726A",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "3.2",
+      "titulo": "Taquilla de 'Música Moderna AAMY' (Músicas del Aire)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (130,00 €) y la baja de las entradas no vendidas (0,00 €) del espectáculo 'Música Moderna AAMY' del 22/07/2021, dentro de 'Músicas del Aire', sobre un cargo de 130,00 €. La columna de baja sale vacía en el OCR.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 130.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R",
+      "lugar": "explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "3.3",
+      "titulo": "Taquilla de 'Cine de Verano: Cadena de favores' (Músicas del Aire)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (68,00 €) y la baja de las entradas no vendidas (112,00 €) del espectáculo 'Cine de Verano: Cadena de favores' del 23/07/2021, dentro de 'Músicas del Aire', sobre un cargo de 180,00 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 68.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R",
+      "lugar": "explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "3.4",
+      "titulo": "Taquilla de 'Cine de Verano: Padre no hay más que uno 2' (Músicas del Aire)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (152,00 €) y la baja de las entradas no vendidas (28,00 €) del espectáculo 'Cine de Verano: Padre no hay más que uno 2' del 29/07/2021, dentro de 'Músicas del Aire', sobre un cargo de 180,00 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 152.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R",
+      "lugar": "explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "3.5",
+      "titulo": "Taquilla de 'Los Ruiseñores' (Músicas del Aire)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (172,00 €) y la baja de las entradas no vendidas (8,00 €) del espectáculo 'Los Ruiseñores' del 30/07/2021, dentro de 'Músicas del Aire', sobre un cargo de 150,00 €. Las cifras no cuadran por el OCR (probablemente el cargo es 180 €).",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 172.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R",
+      "lugar": "explanada de la Iglesia de San Francisco",
+      "interes": 1
+    },
+    {
+      "ref": "3.6",
+      "titulo": "Taquilla de 'Academia de Baile Cris Dance (1ª función)' (Verano en Danza)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (4.100,00 €) y la baja de las entradas no vendidas (800,00 €) del espectáculo 'Academia de Baile Cris Dance (1ª función)' del 23/07/2021, dentro de 'Verano en Danza', sobre un cargo de 4.900,00 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 4100.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512423Z",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.7",
+      "titulo": "Taquilla de 'Academia de Baile Cris Dance (2ª función)' (Verano en Danza)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (3.495,00 €) y la baja de las entradas no vendidas (1.405,00 €) del espectáculo 'Academia de Baile Cris Dance (2ª función)' del 26/07/2021, dentro de 'Verano en Danza', sobre un cargo de 4.900,00 €.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 3495.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512423Z",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.8",
+      "titulo": "Taquilla de 'Martita de Graná' (Verano en Danza)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (11.946,00 €) y la baja de las entradas no vendidas (498,00 €) del espectáculo 'Martita de Graná' del 30/07/2021, dentro de 'Verano en Danza', sobre un cargo de 12.444,00 €. Venta por Instant Ticket.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11946.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512423Z",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.9",
+      "titulo": "Taquilla de 'Dos patas pa un banco (Show de la Jungla)' (Verano en Danza)",
+      "categoria": "fiscal",
+      "resumen": "Se aprueba la liquidación de lo recaudado en taquilla (11.913,00 €) y la baja de las entradas no vendidas (531,00 €) del espectáculo 'Dos patas pa un banco (Show de la Jungla)' del 31/07/2021, dentro de 'Verano en Danza', sobre un cargo de 12.444,00 €. Venta por Instant Ticket.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": 11913.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512423Z",
+      "lugar": "Plaza de Toros",
+      "interes": 1
+    },
+    {
+      "ref": "3.10",
+      "titulo": "Piscina de verano gratis para jóvenes en desventaja social",
+      "categoria": "fiscal",
+      "resumen": "Se concede a varios jóvenes, a propuesta de Servicios Sociales, una bonificación del 100% del abono de temporada de verano de las piscinas del Centro de Ocio Los Rosales.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517336Y",
+      "lugar": "Centro de Ocio Los Rosales",
+      "interes": 1
+    },
+    {
+      "ref": "3.11",
+      "titulo": "Escuela de Verano Deportiva gratis para menores en desventaja social",
+      "categoria": "fiscal",
+      "resumen": "Se concede a varios menores, a propuesta de Servicios Sociales, una bonificación del 100% del precio de la Escuela de Verano Deportiva 2021.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524869K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "4.1",
+      "titulo": "Licencia para construir una vivienda aislada en el paraje Los Baños",
+      "categoria": "licencia_obra",
+      "resumen": "Se concede a un particular licencia urbanística (con proyecto básico) para una vivienda unifamiliar aislada en suelo rústico. No puede empezar la obra hasta presentar el proyecto de ejecución; debe acreditar la agrupación de parcelas de la explotación agrícola y justificar el saneamiento o poner fosa séptica.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514035N (licencia 289/2021)",
+      "lugar": "paraje Los Baños",
+      "interes": 2
+    },
+    {
+      "ref": "4.2",
+      "titulo": "Segregación de una finca agrícola en el paraje Quiñones",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a dos particulares licencia para segregar 10.500 m² de una finca de 22.173 m² en suelo no urbanizable, sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "507634Y",
+      "lugar": "paraje Quiñones",
+      "interes": 1
+    },
+    {
+      "ref": "4.3",
+      "titulo": "Segregación de una finca agrícola en el paraje Moratillas",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se concede a un particular licencia para segregar 6.011,80 m² de una finca de unos 12.000 m² en suelo no urbanizable, sin construcciones.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "509168D",
+      "lugar": "paraje Moratillas",
+      "interes": 1
+    },
+    {
+      "ref": "4.4",
+      "titulo": "Una vivienda sale del censo de edificios obligados a la inspección (IEE)",
+      "categoria": "reclamaciones",
+      "resumen": "Se estima la reclamación de un particular: su edificio es una vivienda única sin división horizontal, por lo que no tiene que pasar el informe de evaluación de edificios, y se corrige el censo publicado.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "482180W (en la cabecera 428180W; OCR, dudoso)",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "5.1",
+      "titulo": "Contratación de una técnica de educación infantil para la Escuela Infantil El Parque",
+      "categoria": "personal",
+      "resumen": "Por la renuncia de una trabajadora, se contrata de la bolsa de empleo a un técnico de educación infantil a media jornada (20 h/semana) para el curso 2021/22.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531882A (cabecera 531832A; OCR)",
+      "lugar": "Escuela Infantil El Parque",
+      "interes": 1
+    },
+    {
+      "ref": "5.2",
+      "titulo": "Contratación de un conserje para el Edificio Bioclimático",
+      "categoria": "personal",
+      "resumen": "Al terminar el contrato de la conserje, se contrata de la bolsa de empleo a un conserje-operario para el curso 2021/22 o hasta que la plaza se cubra en propiedad.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525140M",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "5.3",
+      "titulo": "Pago de 26 horas extra a un agente de Policía Local por el cuadrante Covid",
+      "categoria": "personal",
+      "resumen": "Se abonan a un agente de la Policía Local 26 horas trabajadas de más en 2020 por el cuadrante especial Covid-19.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "526062R",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "6",
+      "titulo": "Contrato de la actuación de Pica Pica por 16.940 €",
+      "categoria": "contrato",
+      "resumen": "Se adjudica como contrato menor la actuación del grupo infantil Pica Pica por 16.940 € con IVA, a propuesta de Festejos.",
+      "entidades": [
+        {
+          "nombre": "Promociones Musicales Get In, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 16940.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "531999N",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "7.1",
+      "titulo": "Salón de Plenos para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Plenos de la Casa Consistorial para su boda civil el 18 de septiembre, con el protocolo Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "529849C",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.2",
+      "titulo": "Salón de Sesiones para una boda civil",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a una pareja a usar el Salón de Sesiones de la 3ª planta de la Casa Consistorial para su boda civil el 2 de octubre, con el protocolo Covid.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "529841O (OCR, dudoso)",
+      "lugar": "Casa Consistorial",
+      "interes": 1
+    },
+    {
+      "ref": "7.3",
+      "titulo": "Salón del Edificio Bioclimático para talleres de empleo de personas con discapacidad",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se cede a FAMDIF el salón de actos del Edificio Bioclimático los días 1, 15 y 29 de octubre para cursos de formación y empleo de personas con discapacidad física u orgánica.",
+      "entidades": [
+        {
+          "nombre": "Federación de Asociaciones Murcianas de Personas con Discapacidad Física y/u Orgánica (FAMDIF)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "usa instalación"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519566W",
+      "lugar": "Edificio Bioclimático",
+      "interes": 1
+    },
+    {
+      "ref": "8",
+      "titulo": "Visitas guiadas de septiembre a diciembre (3.567 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba el programa de visitas guiadas con el Instituto de Turismo regional: rutas para familias, Basílica de la Purísima, 'Yecla con M de Mujer', Monte Arabí y pinturas rupestres, Sierra Salinas, viñedos y bodegas de la Ruta del Vino, visita teatralizada, escudos, Fiestas de la Virgen y Navidad. Presupuesto: 3.567 € con IVA.",
+      "entidades": [
+        {
+          "nombre": "Instituto de Turismo de la Región de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "colabora"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 3567.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "514488R (coincide con el de Músicas del Aire; posible error)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "9",
+      "titulo": "Consulta pública para la futura ordenanza del taxi",
+      "categoria": "normativa",
+      "resumen": "Se abre durante 15 días hábiles en la web municipal una consulta pública previa sobre la futura ordenanza del servicio de taxi, que Yecla aún no tiene pese a que la ley regional de 2014 obligaba a adaptarla en un año. Regulará suspensión de licencias, publicidad en los coches, taxímetros, número de plazas, etc.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533086Y",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "10",
+      "titulo": "Se pide permiso a la Delegación del Gobierno para cámaras de seguridad en la calle",
+      "categoria": "otros",
+      "resumen": "Se solicita a la Delegación del Gobierno en Murcia autorización para instalar cámaras de videovigilancia en la vía pública, según el anexo de un informe de la Policía Local (no se detallan ubicaciones en el acta).",
+      "entidades": [
+        {
+          "nombre": "Delegación del Gobierno en la Región de Murcia",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "autoriza"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "278518F",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "11",
+      "titulo": "Plan de seguridad de la obra de vados peatonales en Maestro Mora y Rambla",
+      "categoria": "contrato",
+      "resumen": "Se aprueba el plan de seguridad y salud de la obra de mejora de accesibilidad (vados peatonales en cruces) presentado por la empresa adjudicataria.",
+      "entidades": [
+        {
+          "nombre": "Construcciones Navarro y Palao, S.L.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "adjudicataria"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "524754A",
+      "lugar": "calle Maestro Mora y calle Rambla",
+      "interes": 1
+    },
+    {
+      "ref": "12",
+      "titulo": "Beca de 6.000 € en el Gabinete de Comunicación",
+      "categoria": "subvencion_concedida",
+      "resumen": "Se concede a un titulado la beca de formación-colaboración del Gabinete Municipal de Comunicación (10 meses, 1.200 horas, máximo 6.000 €), por ser el aspirante con mayor puntuación. Se excluye a uno por no tener la titulación y a dos por haber tenido ya la beca.",
+      "entidades": [
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "recibe beca"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 6000.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512310R",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "13",
+      "titulo": "Cambios en las atracciones de la Feria 2021 y puesto de SPANDY",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un feriante a cambiar su pista de motos por un castillo hinchable y a la protectora SPANDY a poner un puesto en la Feria para recaudar fondos.",
+      "entidades": [
+        {
+          "nombre": "Sociedad Protectora de Animales de Yecla (SPANDY)",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "autorizada"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519917H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "14",
+      "titulo": "Se alarga el paso de peatones del colegio Giner de los Ríos",
+      "categoria": "via_publica_eventos",
+      "resumen": "A petición del colegio y con informe de la Policía Local, el paso de peatones de la entrada principal se prolonga hasta el otro carril de la calle.",
+      "entidades": [
+        {
+          "nombre": "C.E.I.P. Giner de los Ríos",
+          "cif": null,
+          "tipo": "colegio",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "518486W",
+      "lugar": "calle Abad José Sola",
+      "interes": 1
+    },
+    {
+      "ref": "15.1",
+      "titulo": "Agua potable para la reforma de una vivienda en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a una empresa el suministro de agua potable para las obras de reforma integral de una vivienda unifamiliar en suelo no urbanizable (licencia 143/21), con las condiciones de Servicios Públicos.",
+      "entidades": [
+        {
+          "nombre": "Fama Sofás, S.L.U.",
+          "cif": null,
+          "tipo": "empresa",
+          "rol": "solicita"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519358F",
+      "lugar": "suelo no urbanizable (polígono 43, parcela 28)",
+      "interes": 1
+    },
+    {
+      "ref": "15.2",
+      "titulo": "Cambio de sitio de un contador de agua en suelo no urbanizable",
+      "categoria": "suelo_no_urbanizable",
+      "resumen": "Se autoriza a un particular a cambiar de ubicación el contador de agua de su vivienda en suelo no urbanizable.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525769K",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "16",
+      "titulo": "Tarjeta de residente en zona azul concedida",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se reconoce a una vecina la condición de residente en zona azul hasta el 31 de diciembre de 2022.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "525244F",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.1",
+      "titulo": "Selección de personal y 15 alumnos del programa 'Yecla Emplea Verde 2021'",
+      "categoria": "personal",
+      "resumen": "El SEF ha concedido 153.908,10 € para un programa mixto de empleo y formación de jóvenes de Garantía Juvenil en conservación de montes. Se aprueban las bases para seleccionar coordinador, formadores y 15 alumnos-trabajadores (contrato de formación de 6 meses, 40 h/semana, al 75% del salario mínimo) y se pide al SEF oferta de empleo.",
+      "entidades": [
+        {
+          "nombre": "Servicio Regional de Empleo y Formación (SEF)",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "da subvención"
+        },
+        {
+          "nombre": "Fondo Social Europeo",
+          "cif": null,
+          "tipo": "administracion",
+          "rol": "cofinancia"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 153908.1,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "505087K (PR 2021-34)",
+      "lugar": null,
+      "interes": 3
+    },
+    {
+      "ref": "17.2",
+      "titulo": "Renuncia de una técnica de educación infantil, que sigue en la bolsa",
+      "categoria": "personal",
+      "resumen": "Se toma razón de la renuncia de una técnica de educación infantil indefinida no fija; se mantiene en la bolsa de empleo.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533463X",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.3",
+      "titulo": "Sentencia: una trabajadora pasa a indefinida y cobra 7.538,93 € de salarios",
+      "categoria": "reclamaciones",
+      "resumen": "Se cumple una sentencia del Juzgado de lo Social nº 5 de Murcia que reconoce a una trabajadora como laboral indefinida no fija y condena al Ayuntamiento a pagarle los salarios de tramitación.",
+      "entidades": [
+        {
+          "nombre": "Juzgado de lo Social nº 5 de Murcia",
+          "cif": null,
+          "tipo": "organismo_publico",
+          "rol": "dicta sentencia"
+        },
+        {
+          "nombre": "particular",
+          "cif": null,
+          "tipo": "particular",
+          "rol": "cobra"
+        }
+      ],
+      "hay_particulares": true,
+      "importe_eur": 7538.93,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "503374F (sentencia 220/21)",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.4",
+      "titulo": "Recursos de 10 empleados sobre la carrera profesional horizontal",
+      "categoria": "personal",
+      "resumen": "Se resuelven las reclamaciones de 10 empleados contra el concurso de carrera profesional de diciembre de 2020: 5 rectificaciones de error en el grado consolidado, 4 recursos estimados (porque el Pleno del 6 de septiembre extendió la carrera profesional a interinos y laborales no fijos, siguiendo la jurisprudencia europea contra la discriminación de temporales) y 1 desestimado por no alcanzar la puntuación mínima. Se anuncia una convocatoria extraordinaria para valorar la experiencia de interinos y no fijos.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "274539E",
+      "lugar": null,
+      "interes": 2
+    },
+    {
+      "ref": "17.5",
+      "titulo": "Limpieza y vallado de un solar municipal en calle Molineta",
+      "categoria": "patrimonio",
+      "resumen": "Se ordena a las brigadas municipales limpiar y vallar el solar de propiedad municipal de la calle Molineta, 43.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "512564W",
+      "lugar": "calle Molineta, 43 (solar municipal)",
+      "interes": 1
+    },
+    {
+      "ref": "17.6",
+      "titulo": "Nueva atracción 'Giroloco' en la Feria 2021",
+      "categoria": "via_publica_eventos",
+      "resumen": "Se autoriza a un feriante a instalar la atracción 'Giroloco' en lugar de otra que no se va a montar.",
+      "entidades": [],
+      "hay_particulares": true,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "519917H",
+      "lugar": null,
+      "interes": 1
+    },
+    {
+      "ref": "17.7",
+      "titulo": "Ronda de vigilancia nocturna del Encuentro de Recreadores del Siglo de Oro",
+      "categoria": "servicios_actividades",
+      "resumen": "Se aprueba la actividad 'Ronda de vigilancia nocturna' por las calles del casco medieval el 11 de septiembre, cierre del II Encuentro de Recreadores del Siglo de Oro, con medidas Covid.",
+      "entidades": [],
+      "hay_particulares": false,
+      "importe_eur": null,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "517781O (OCR, dudoso)",
+      "lugar": "casco antiguo",
+      "interes": 1
+    },
+    {
+      "ref": "17.8",
+      "titulo": "Partido de fútbol sala ElPozo Murcia - Córdoba Patrimonio (4.190 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Deportes organiza, con los clubes locales de fútbol sala, un partido de pretemporada de Primera División el 10 de septiembre en el Pabellón José Ortega Chumilla, con una aportación municipal de 4.190 €. Entrada a 5 €.",
+      "entidades": [
+        {
+          "nombre": "ElPozo Murcia Costa Cálida",
+          "cif": null,
+          "tipo": "club",
+          "rol": "juega"
+        },
+        {
+          "nombre": "Córdoba Patrimonio",
+          "cif": null,
+          "tipo": "club",
+          "rol": "juega"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 4190.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533320Y",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    },
+    {
+      "ref": "17.9",
+      "titulo": "Partido de baloncesto UCAM Murcia - Baxi Manresa, Memorial Francisco Peidró (5.575 €)",
+      "categoria": "servicios_actividades",
+      "resumen": "La Concejalía de Deportes organiza con la Red Deportiva Yecla el partido de pretemporada de la Liga ACB (XVII Memorial Francisco Peidró) el 12 de septiembre en el Pabellón José Ortega Chumilla, con una aportación municipal de 5.575 €. Entrada a 5 €.",
+      "entidades": [
+        {
+          "nombre": "Red Deportiva Yecla",
+          "cif": null,
+          "tipo": "asociacion",
+          "rol": "colabora"
+        },
+        {
+          "nombre": "UCAM Murcia",
+          "cif": null,
+          "tipo": "club",
+          "rol": "juega"
+        },
+        {
+          "nombre": "Baxi Manresa",
+          "cif": null,
+          "tipo": "club",
+          "rol": "juega"
+        }
+      ],
+      "hay_particulares": false,
+      "importe_eur": 5575.0,
+      "importes": [],
+      "resultado": "aprobado",
+      "votacion": "unanimidad",
+      "expediente": "533317T",
+      "lugar": "Pabellón José Ortega Chumilla",
+      "interes": 2
+    }
+  ]
+}
