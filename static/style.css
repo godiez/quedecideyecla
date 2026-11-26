@@ -1,0 +1,404 @@
+/* Qué decide el Ayuntamiento · «local newspaper» style. No external fonts or resources. */
+:root {
+  --paper: #f6f1e7;
+  --ink: #1b1b1b;
+  --accent: #8b2a1d;
+  --gray: #6b5f4a;
+  --rule: #9c8f78;
+  --soft: #ece4d3;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font: 17px/1.5 var(--serif);
+  overflow-wrap: break-word;
+}
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible {
+  outline: 3px solid var(--accent); outline-offset: 2px;
+}
+
+/* Skip to content: invisible until it gets keyboard focus */
+.skip-link {
+  position: absolute; left: 8px; top: -100px; z-index: 10; padding: 10px 16px;
+  background: var(--paper); color: var(--ink); font: 600 16px var(--sans); border: 2px solid var(--ink);
+}
+.skip-link:focus { top: 8px; }
+main:focus { outline: none; }
+
+/* Notice, masthead and menu */
+.notice {
+  display: flex; align-items: center; justify-content: center; gap: 8px; background: var(--ink);
+  color: var(--paper); font: 15px/1.4 var(--sans); padding: 4px 8px 4px 16px; text-align: center;
+}
+.notice p { margin: 0; padding: 4px 0; }
+.close-notice {
+  flex: none; width: 44px; height: 44px; font: 400 26px/1 var(--sans); color: #fff;
+  background: none; border: 0; cursor: pointer;
+}
+.close-notice:focus-visible, .notice a:focus-visible { outline-color: #fff; }
+.notice a { color: #fff; font-weight: 600; }
+.masthead { text-align: center; border-bottom: 3px double var(--ink); padding: 16px 16px 4px; }
+.brand { color: var(--ink); text-decoration: none; display: inline-block; }
+.brand .t { display: block; font-size: 28px; font-weight: 700; letter-spacing: -.5px; line-height: 1.1; }
+.brand .s {
+  display: block; font: 14px var(--sans); text-transform: uppercase; letter-spacing: 1.5px;
+  color: var(--gray); margin-top: 4px;
+}
+/* Year selector: plain links (works without JS); each one takes you to the same section of that year. */
+.years { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 6px; }
+.years ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; }
+.years a {
+  display: flex; align-items: center; min-height: 44px; min-width: 44px; justify-content: center; padding: 0 8px;
+  font: 16px var(--sans); font-variant-numeric: tabular-nums; color: var(--gray); text-decoration: none;
+}
+.years a[aria-current] { color: var(--ink); font-weight: 700; box-shadow: inset 0 -3px 0 var(--ink); }
+@media (hover: hover) {
+  .years a:not([aria-current]):hover { background: var(--soft); color: var(--ink); }
+}
+/* On mobile the menu wraps onto two lines: that way no section is hidden off screen. */
+.menu { border-bottom: 1px solid var(--ink); }
+.menu ul {
+  list-style: none; margin: 0 auto; padding: 0 8px; display: flex; flex-wrap: wrap; column-gap: 4px;
+  justify-content: center;
+}
+.menu a {
+  display: flex; align-items: center; min-height: 44px; padding: 0 10px;
+  font: 600 16px var(--sans); color: var(--ink); text-decoration: none;
+}
+.menu a[aria-current="page"] { color: var(--accent); box-shadow: inset 0 -3px 0 var(--accent); }
+/* Mouse only (there is no hover on mobile): soft background on the sections that are not the current one */
+@media (hover: hover) {
+  .menu a:not([aria-current]):hover { background: var(--soft); }
+}
+.menu .info a { font-weight: 400; color: var(--gray); }
+
+/* Body */
+main { max-width: 960px; margin: 0 auto; padding: 20px 16px 32px; }
+h1 { font-size: 30px; line-height: 1.12; margin: 0 0 10px; letter-spacing: -.3px; }
+h2 {
+  font: 700 15px var(--sans); text-transform: uppercase; letter-spacing: 1.4px;
+  border-top: 1px solid var(--ink); padding-top: 10px; margin: 32px 0 12px;
+}
+h3 { font-size: 21px; line-height: 1.2; margin: 20px 0 8px; }
+p { margin: 0 0 12px; text-wrap: pretty; }
+li { text-wrap: pretty; }
+h1, h2, h3 { text-wrap: balance; }
+/* Comfortable line length (< 80 characters) even when the column is wide */
+main p, main .entities, main .note, main .hint { max-width: 62ch; }
+main .lede { max-width: 56ch; }
+.lede { font-size: 19px; line-height: 1.45; color: #2e2920; }
+.note, .hint { font: 16px/1.45 var(--sans); color: var(--gray); }
+.summary-line { font: 600 16px/1.4 var(--sans); color: var(--gray); margin: 0 0 10px; }
+.breadcrumb { margin: 0 0 4px; font: 16px var(--sans); }
+.breadcrumb a { display: inline-flex; align-items: center; min-height: 44px; }
+.more { font: 600 16px var(--sans); }
+.more a { display: inline-flex; align-items: center; min-height: 44px; }
+
+/* A row per year with its links (sources and downloads in how-it-was-made): each link is a 44 px target */
+.year-links { list-style: none; margin: 4px 0 16px; padding: 0; max-width: 62ch; }
+.year-links li {
+  display: flex; flex-wrap: wrap; align-items: center; column-gap: 8px; border-bottom: 1px dotted var(--rule);
+}
+.year-links li:first-child { border-top: 1px dotted var(--rule); }
+.year-links .year { font: 700 16px var(--sans); font-variant-numeric: tabular-nums; min-width: 3.2em; }
+.year-links a { display: inline-flex; align-items: center; min-height: 44px; }
+
+/* What can be done on the site (Cómo se ha hecho): the video beside its written version. On phones the video
+   comes first, not wider than a phone held in the hand. */
+.tour { display: grid; gap: 12px 40px; margin: 8px 0 24px; }
+.tour-video { margin: 0; justify-self: center; width: min(100%, 270px); }
+.tour-video video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; background: var(--soft); border: 1px solid var(--rule); }
+.tour-video figcaption { margin-top: 8px; font: 15px/1.4 var(--sans); color: var(--gray); text-align: center; }
+.tour-list { margin: 0; padding-left: 20px; max-width: 58ch; }
+.tour-list li { margin: 0 0 10px; }
+.tour-list a { font-weight: 700; }
+@media (min-width: 760px) {
+  .tour { grid-template-columns: minmax(0, 1fr) 250px; align-items: start; }
+  .tour-video { order: 2; }
+}
+
+/* Bars */
+.bars { list-style: none; margin: 8px 0 4px; padding: 0; }
+.bars li {
+  display: grid; grid-template-columns: 1fr auto; column-gap: 10px; align-items: baseline;
+  padding: 6px 0 8px; border-bottom: 1px dotted var(--rule);
+}
+.bars .n { font-size: 17px; line-height: 1.4; }
+.bars .n a { color: var(--ink); }
+.bars .v { font: 600 17px var(--sans); white-space: nowrap; }
+/* Black ink: it is data, not a warning. Red is kept for links and highlights. */
+.bars .b {
+  grid-column: 1 / -1; display: block; height: 12px; margin-top: 5px;
+  background: var(--ink); border-radius: 2px; min-width: 2px;
+}
+
+/* The whole row is clickable (touch target of 44 px or more), not just the link text */
+.bars li, .news-item, article.item { position: relative; }
+.bars .n a::after, .news-item > a::after, article.item > a::after {
+  content: ""; position: absolute; top: 0; right: 0; bottom: 0; left: 0;
+}
+.bars li:hover, .news-item:hover, article.item:hover { background: var(--soft); }
+/* Secondary links inside a clickable row (e.g. the entity in Permits): above the row overlay */
+.news-item .meta a, article.item .meta a {
+  position: relative; z-index: 1; display: inline-block; padding: 12px 0; margin: -12px 0;
+}
+
+/* News lists */
+.news { list-style: none; margin: 0; padding: 0; }
+.news-item, article.item { border-bottom: 1px dotted var(--rule); padding: 10px 0; }
+.news-item a, article.item a { font-size: 18px; line-height: 1.3; color: var(--ink); }
+.meta { display: block; font: 16px/1.4 var(--sans); color: var(--gray); margin-top: 3px; }
+
+/* Tables */
+.table-scroll { overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; margin: 8px 0 16px; }
+table { border-collapse: collapse; width: 100%; font: 16px/1.4 var(--sans); }
+/* Table links: same colour as in lists and a 44 px touch target without changing the row height */
+td a { color: var(--ink); display: inline-block; padding: 12px 0; margin: -12px 0; }
+th, td { text-align: left; padding: 8px 8px 8px 0; border-bottom: 1px solid var(--soft); vertical-align: top; }
+th { font-weight: 700; border-bottom: 2px solid var(--ink); }
+tbody th { border-bottom: 1px solid var(--soft); }
+td.num, th.num { text-align: right; white-space: nowrap; }
+/* Vote counts of a decision: one or two digits, centred under their heading; zeros in gray */
+td.count, th.count { text-align: center; white-space: nowrap; }
+td.count.zero { color: var(--gray); }
+.facts th { width: 38%; border-bottom: 1px solid var(--soft); font-weight: 600; color: var(--gray); }
+
+/* Decisions: search box and filters */
+.filters { margin: 12px 0 8px; }
+.filters label { display: block; font: 600 16px var(--sans); margin-bottom: 4px; }
+#search {
+  width: 100%; min-height: 48px; font: 18px var(--sans); padding: 8px 12px;
+  border: 2px solid var(--ink); border-radius: 6px; background: #fffdf8; color: var(--ink);
+}
+.filters .field { margin-bottom: 10px; }
+#topic, #body {
+  width: 100%; min-height: 48px; font: 18px var(--sans); padding: 8px 12px; color: var(--ink);
+  border: 2px solid var(--ink); border-radius: 6px; background: #fffdf8;
+}
+@media (min-width: 900px) {
+  .filters { display: grid; grid-template-columns: 1.6fr 1fr 1.1fr; column-gap: 16px; align-items: end; }
+  .filters .counter, .filters .no-results { grid-column: 1 / -1; }
+}
+.no-results, .counter { font: 16px var(--sans); color: var(--gray); }
+/* Empty, it takes no space but stays on the page: a live region that is not there when its text changes is not
+   always read out by screen readers. */
+.counter:empty { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); margin: 0; }
+#clear {
+  min-height: 44px; padding: 6px 14px; font: 600 16px var(--sans); color: var(--ink);
+  background: transparent; border: 1px solid var(--ink); border-radius: 6px; cursor: pointer;
+}
+
+/* Search (buscar/ and the home page): one field and its button on the same line */
+.search-form { margin: 14px 0 10px; max-width: 40rem; }
+.search-form label { display: block; font: 600 16px var(--sans); margin-bottom: 4px; }
+.search-row { display: flex; gap: 8px; }
+.search-form.compact { margin: 12px 0 14px; }
+#q::placeholder, #search::placeholder { color: var(--gray); opacity: 1; }
+#q {
+  flex: 1; min-width: 0; min-height: 48px; font: 18px var(--sans); padding: 8px 12px;
+  border: 2px solid var(--ink); border-radius: 6px; background: #fffdf8; color: var(--ink);
+}
+.search-form button {
+  min-height: 48px; padding: 0 18px; font: 700 17px var(--sans); color: #fff; background: var(--accent);
+  border: 0; border-radius: 6px; cursor: pointer;
+}
+#year-field { margin-top: 10px; max-width: 16rem; }
+#year {
+  width: 100%; min-height: 48px; font: 18px var(--sans); padding: 8px 12px; color: var(--ink);
+  border: 2px solid var(--ink); border-radius: 6px; background: #fffdf8;
+}
+#status { margin: 12px 0 4px; }
+.snippet { margin: 4px 0 0; font: 16px/1.45 var(--sans); color: var(--ink); max-width: 62ch; }
+.snippet .label { color: var(--gray); }
+mark { background: #f3d98b; color: inherit; padding: 0 1px; }
+
+/* Pages of long lists (filters.js): «‹ Anterior 1 … 4 5 6 … 12 Siguiente ›», 44px buttons */
+.pager { margin: 14px 0 20px; font: 16px var(--sans); }
+.pager-status { margin: 0 0 6px; color: var(--gray); }
+.pager ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.pager button {
+  min-width: 44px; min-height: 44px; padding: 0 12px; font: 600 16px var(--sans); color: var(--ink);
+  background: transparent; border: 1px solid var(--rule); border-radius: 6px; cursor: pointer;
+}
+.pager button[aria-current="page"] { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+.pager button:disabled { color: var(--rule); cursor: default; }
+@media (hover: hover) { .pager button:not(:disabled):not([aria-current]):hover { background: var(--soft); } }
+.pager .gap { color: var(--gray); padding: 0 2px; }
+@media (max-width: 479px) { .pager .word { display: none; } }
+
+/* Entities directory: filter by name and type */
+.list-filter { display: grid; gap: 10px; margin: 12px 0 8px; max-width: 40rem; }
+.list-filter label { display: block; font: 600 16px var(--sans); margin-bottom: 4px; }
+.list-filter input, .list-filter select {
+  width: 100%; min-height: 48px; font: 18px var(--sans); padding: 8px 12px; color: var(--ink);
+  border: 2px solid var(--ink); border-radius: 6px; background: #fffdf8;
+}
+@media (min-width: 700px) { .list-filter { grid-template-columns: 2fr 1fr; align-items: end; } .list-filter .counter { grid-column: 1 / -1; } }
+
+/* Months in Decisions and groups in Votes: lists of large links, all with the same weight */
+.groups { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 8px 0 16px; padding: 0; list-style: none; }
+.groups a { width: 100%; height: 100%; justify-content: center; text-align: center; }
+@media (min-width: 900px) { .groups { grid-template-columns: repeat(4, 1fr); } }
+/* Decisions: the month as the title and a «Cambiar de mes» button that unfolds the months (a <details>) */
+.month-head { position: relative; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; margin-bottom: 10px; }
+.month-head h1 { margin: 0; }
+.month-picker summary {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 6px 14px; cursor: pointer;
+  font: 600 16px var(--sans); color: var(--ink); border: 1px solid var(--ink); border-radius: 6px; list-style: none;
+}
+.month-picker summary::-webkit-details-marker { display: none; }
+@media (prefers-reduced-motion: no-preference) { .month-picker .chevron { transition: transform .15s ease-out; } }
+.month-picker[open] .chevron { transform: rotate(180deg); }
+.month-picker[open] summary, .month-picker summary:hover { background: var(--soft); }
+.month-list {
+  position: absolute; z-index: 10; top: 100%; left: 0; right: 0; margin-top: 6px; padding: 8px;
+  background: #fffdf8; border: 1px solid var(--ink); border-radius: 6px; box-shadow: 0 8px 24px rgba(27, 27, 27, .16);
+}
+.month-list ul { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; margin: 0; padding: 0; list-style: none; }
+.month-list a {
+  display: flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 8px; border-radius: 4px;
+  font: 16px var(--sans); color: var(--ink); text-decoration: none;
+}
+.month-list a:hover { background: var(--soft); }
+.month-list a[aria-current="page"] { background: var(--ink); color: var(--paper); font-weight: 700; }
+.month-list .whole-year { grid-column: 1 / -1; border-top: 1px solid var(--rule); padding-top: 4px; margin-top: 2px; }
+.month-list .whole-year a { font-weight: 600; }
+@media (min-width: 700px) {
+  .month-list { left: auto; width: 26rem; }
+  .month-list ul { grid-template-columns: repeat(4, 1fr); }
+}
+.groups a {
+  display: inline-flex; align-items: center; min-height: 44px; padding: 6px 14px; font: 600 16px var(--sans);
+  color: var(--ink); border: 1px solid var(--ink); border-radius: 6px; text-decoration: none;
+}
+
+/* Political groups: each one with a small mark in its colour, taken from the party's own website or, when
+   it cannot be read, from Wikipedia (decisiones.md). The name is always written next to it; every
+   group gets the same treatment. */
+.party-pp { --party: #21599e; }
+.party-psoe { --party: #ff0000; }
+.party-vox { --party: #63be21; }
+.party-iu-verdes { --party: #9b1b30; }
+.party-cs { --party: #ff5824; }
+.party { white-space: nowrap; }
+.party::before {
+  content: ""; display: inline-block; width: .62em; height: .62em; margin-right: .3em;
+  background: var(--party); border-radius: 1px; vertical-align: .02em;
+}
+/* Composition of the Pleno: one square per councillor and a bracket under the seats of a majority */
+.pleno { margin: 14px 0 6px; max-width: 34rem; }
+.pleno figcaption { font: 17px/1.4 var(--sans); margin-bottom: 8px; }
+.seats { display: grid; grid-template-columns: var(--columns); gap: 3px; }
+.seat { aspect-ratio: 1; background: var(--party); border-radius: 2px; }
+/* Browsers without aspect-ratio (iOS 14, Chrome 87 and older) would give the squares no height */
+@supports not (aspect-ratio: 1) { .seat { min-height: 12px; } }
+.majority {
+  grid-column: 1 / span var(--majority-columns); position: relative; margin-top: 2px; padding-top: 9px;
+  text-align: center; font: 600 14px var(--sans); color: var(--gray); text-transform: uppercase; letter-spacing: .6px;
+}
+/* The bracket: a line under the seats with a tick at each end */
+.majority::before {
+  content: ""; position: absolute; top: 0; right: 0; left: 0; height: 5px; border: 1px solid var(--gray); border-top: 0;
+}
+/* Group buttons: the group and its councillors («Cómo vota» is read out but not shown: the heading says it) */
+.parties a { flex-direction: column; gap: 2px; padding: 8px 12px; }
+.parties .group-name { font-size: 18px; }
+.parties .group-seats { font: 15px var(--sans); color: var(--gray); }
+.parties a[aria-current="page"] { background: var(--ink); color: var(--paper); }
+.parties a[aria-current="page"] .group-seats { color: var(--soft); }
+.edition { border-top: 3px double var(--ink); padding-top: 10px; margin-top: 22px; }
+.edition h2 { border: 0; padding: 0; margin: 0 0 4px; }
+.edition h2 em { font-style: normal; }
+.edition details summary {
+  font: 600 17px var(--sans); color: var(--accent); cursor: pointer; min-height: 44px;
+  display: flex; align-items: center;
+}
+[hidden] { display: none !important; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+/* The button says what it will do: «+ N asuntos más» when closed and «− Ocultar…» when open */
+.edition details .when-open, .edition details[open] .when-closed { display: none; }
+.edition details[open] .when-open { display: inline; }
+.collapse {
+  display: flex; align-items: center; min-height: 44px; margin: 8px 0 0; padding: 0;
+  font: 600 17px var(--sans); color: var(--accent); background: none; border: 0; cursor: pointer;
+}
+
+/* Detail page */
+.button {
+  display: flex; align-items: center; justify-content: center; text-align: center; min-height: 52px;
+  padding: 10px 18px; margin: 18px 0; background: var(--accent); color: #fff; text-decoration: none;
+  font: 700 18px var(--sans); border-radius: 6px;
+}
+.button.unavailable { background: var(--soft); color: var(--gray); }
+.review-mark { font: 16px/1.45 var(--sans); color: var(--gray); }
+.entities { padding-left: 20px; }
+.entities li { margin: 4px 0; }
+.figure { font-size: 34px; font-weight: 700; line-height: 1.1; margin: 6px 0 4px; }
+
+/* Notes on special situations (analisis/avisos.json): a boxed paragraph and an asterisk next to the name */
+.callout { max-width: 62ch; margin: 14px 0; padding: 10px 14px; background: var(--soft); border-left: 4px solid var(--accent); }
+.callout p { margin: 0; }
+.flag { color: var(--accent); font: 700 15px/0 var(--sans); margin-left: 2px; }
+.flag-note { margin: 6px 0; }
+
+/* Glossary */
+.glossary { margin: 8px 0 16px; max-width: 62ch; }
+.glossary dt { font-weight: 700; margin-top: 12px; scroll-margin-top: 16px; }
+.glossary dd { margin: 2px 0 0; text-wrap: pretty; }
+.glossary dt:target, .glossary dt:target + dd { background: var(--soft); }
+
+/* Footer */
+.site-footer {
+  max-width: 960px; margin: 0 auto; padding: 16px 16px 40px; border-top: 3px double var(--ink);
+  font: 16px/1.5 var(--sans); color: var(--gray);
+}
+.site-footer a { display: inline-block; padding: 12px 0; margin: -12px 0; }
+
+/* Votes: on a computer, a table with a column per group. On a phone each vote is a short entry (.vote-card,
+   inside the first cell): date and result, then the groups gathered by how they voted. The other cells,
+   which say the same, are hidden there; the card is hidden on a computer. */
+.vote-card { display: none; }
+@media (max-width: 899px) {
+  .table-scroll:has(.votes-table) { overflow: visible; }
+  .votes-table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .votes-table, .votes-table tbody, .votes-table tr { display: block; }
+  .votes-table tr { padding: 12px 0; border-bottom: 1px dotted var(--rule); }
+  .votes-table td { display: none; }
+  .votes-table td.vote-item { display: block; border: 0; padding: 0; font: 18px/1.3 var(--serif); }
+  .vote-card { display: block; font: 16px/1.5 var(--sans); }
+  .vote-meta { margin: 4px 0 6px; color: var(--gray); }
+  .vote-stance { margin: 0; }
+  .vote-groups { display: grid; grid-template-columns: max-content 1fr; gap: 2px 14px; margin: 0; }
+  .vote-groups dt { font-weight: 600; }
+  .vote-groups dd { margin: 0; display: flex; flex-wrap: wrap; column-gap: 12px; }
+}
+
+/* «Ir arriba» button, only on a phone: it appears after scrolling down two screens (filters.js). */
+.to-top {
+  position: fixed; right: 16px; bottom: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 10;
+  display: grid; place-items: center; width: 48px; height: 48px; border-radius: 50%;
+  background: var(--ink); color: var(--paper); border: 2px solid var(--paper);
+  box-shadow: 0 1px 4px rgb(0 0 0 / .25);
+}
+@media (min-width: 900px) { .to-top { display: none; } }
+@media print { .to-top { display: none; } }
+
+/* Desktop */
+@media (min-width: 900px) {
+  body { font-size: 18px; }
+  h1 { font-size: 40px; }
+  .brand .t { font-size: 36px; }
+  .home { display: grid; grid-template-columns: 3fr 2fr; gap: 40px; align-items: start; }
+  .home > section > h2:first-child { margin-top: 8px; }
+}
+@media print {
+  .seat, .party::before { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+  .notice { background: none; color: var(--ink); border: 1px solid var(--ink); }
+  .menu, .years, .month-picker, .filters, .skip-link, .close-notice, .search-form, .pager, .list-filter { display: none; }
+  /* The whole list on paper, not only the page on screen (browsers without «revert» print that page) */
+  [data-paged-out] { display: revert !important; }
+}
